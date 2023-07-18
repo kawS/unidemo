@@ -1,0 +1,514 @@
+[
+  {
+    "id": "8021",
+    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8021/",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008021.png",
+    "cardName": "呆火駝",
+    "skillList": [
+      {
+        "name": "熾熱熔岩",
+        "effect": "將對手的戰鬥寶可夢【灼傷】。"
+      }
+    ],
+    "extraInformation": [
+      "No.322遲鈍寶可夢",
+      "身高0.7/體重24.0",
+      "體內燃燒著１２００度的熔岩。一旦氣溫變低，熔岩就會凝固，動作也會因此變得遲緩。"
+    ]
+  },
+  {
+    "id": "8022",
+    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8022/",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008022.png",
+    "cardName": "噴火駝",
+    "skillList": [
+      {
+        "name": "噴火",
+        "effect": "將雙方的牌庫上方各1張卡丟棄，增加其中能量卡的張數×100點傷害。"
+      },
+      {
+        "name": "爆熱踩踏",
+        "effect": ""
+      }
+    ],
+    "extraInformation": [
+      "No.323噴火寶可夢",
+      "身高1.9/體重220.0",
+      "平時生活在火山口。以背上的駝峰每１０年會大爆發一次而聞名。"
+    ]
+  },
+  ,
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+    {
+      "id": "8046",
+      "url": "https://asia.pokemon-card.com/tw/card-search/detail/8046/",
+      "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008046.png",
+      "cardName": "巨鍛匠ex",
+      "skillList": [
+        {
+          "name": "大錘",
+          "effect": "造成自己的手牌的張數×30點傷害。"
+        },
+        {
+          "name": "粉碎壓制",
+          "effect": "這個招式的傷害不計算對手的戰鬥寶可夢身上的附加效果。"
+        },
+        {
+          "name": "[ex規則]",
+          "effect": "寶可夢【ex】【昏厥】時，對手獲得2張獎賞卡。"
+        }
+      ],
+      "extraInformation": [
+        "No.959",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": "8050",
+      "url": "https://asia.pokemon-card.com/tw/card-search/detail/8050/",
+      "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008050.png",
+      "cardName": "鯰魚王",
+      "skillList": [
+        {
+          "name": "暴搖",
+          "effect": "將對手的牌庫上方與這隻寶可夢身上附加的【鬥】能量相同數量的卡丟棄。"
+        },
+        {
+          "name": "大地粉碎",
+          "effect": ""
+        }
+      ],
+      "extraInformation": [
+        "No.340鬚魚寶可夢",
+        "身高0.9/體重23.6",
+        "地盤意識非常強烈，如果有外敵靠近，就會劇烈搖晃地面發動襲擊。"
+      ]
+    },
+    
+  
+    
+    
+   
+    
+    
+    
+    
+    
+    
+  
+  
+    
+    
+    
+    
+    
+   
+    
+    
+    
+    
+    
+    
+    
+  
+    
+    {
+      "id": "8054",
+      "url": "https://asia.pokemon-card.com/tw/card-search/detail/8054/",
+      "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008054.png",
+      "cardName": "好勝毛蟹",
+      "skillList": [
+        {
+          "name": "正面對決",
+          "effect": ""
+        },
+        {
+          "name": "關節衝擊",
+          "effect": "在下個自己的回合，這隻寶可夢無法使用招式。"
+        }
+      ],
+      "extraInformation": [
+        "No.740毛蟹寶可夢",
+        "身高1.7/體重180.0",
+        "脫落的鉗子十分美味。還有些訓練家會特地帶著愛吃豚到山裡找牠。"
+      ]
+    },
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    {
+      "id": "8053",
+      "url": "https://asia.pokemon-card.com/tw/card-search/detail/8053/",
+      "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008053.png",
+      "cardName": "好勝蟹",
+      "skillList": [
+        {
+          "name": "拳骨",
+          "effect": ""
+        },
+        {
+          "name": "增量拳",
+          "effect": ""
+        }
+      ],
+      "extraInformation": [
+        "No.739拳鬥寶可夢",
+        "身高0.6/體重7.0",
+        "會擊落樹上的樹果來吃。訓練和覓食都能同時達成，簡直可以說是一舉兩得。"
+      ]
+    },
+    
+    
+    {
+      "id": "8049",
+      "url": "https://asia.pokemon-card.com/tw/card-search/detail/8049/",
+      "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008049.png",
+      "cardName": "泥泥鰍",
+      "skillList": [
+        {
+          "name": "躲藏",
+          "effect": "擲1次硬幣若為正面，則在下個對手的回合，這隻寶可夢不會受到招式的傷害與效果的影響。"
+        },
+        {
+          "name": "擲泥",
+          "effect": ""
+        }
+      ],
+      "extraInformation": [
+        "No.339鬚魚寶可夢",
+        "身高0.4/體重1.9",
+        "２根鬍子是靈敏的雷達。即使在因為泥濘而渾濁的水中，也能偵查到獵物的位置。"
+      ]
+    },
+    
+    
+  
+    
+    
+  
+    
+    
+    
+   
+    
+    
+  
+    {
+      "id": "8044",
+      "url": "https://asia.pokemon-card.com/tw/card-search/detail/8044/",
+      "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008044.png",
+      "cardName": "小鍛匠",
+      "skillList": [
+        {
+          "name": "碎",
+          "effect": "擲1次硬幣若為正面，則選擇1個對手的戰鬥寶可夢身上附加的能量，將其丟棄。"
+        }
+      ],
+      "extraInformation": [
+        "No.957錘鍊寶可夢",
+        "身高0.4/體重8.9",
+        "雖然會揮舞著手工打造的錘子來保護自己，但卻常被以金屬為食的寶可夢搶走。"
+      ]
+    },
+   
+    
+    {
+      "id": "7947",
+      "url": "https://asia.pokemon-card.com/tw/card-search/detail/7947/",
+      "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007947.png",
+      "extraInformation": [
+        "No.761水果寶可夢",
+        "身高0.3/體重3.2",
+        "汗水帶著像是經過熬煮的水果甜味，在過去甜食尚少的時代相當受到人們珍視。"
+      ],
+      "cardName": "甜竹竹",
+      "skillList": [
+        {
+          "name": "踩",
+          "effect": ""
+        },
+        {
+          "name": "突擊",
+          "effect": "這隻寶可夢也受到10點傷害。"
+        }
+      ]
+    },
+    
+    
+    
+    
+   
+    
+    
+    
+    
+    
+   
+    
+    
+    
+    
+  
+   
+    
+    
+  
+    {
+      "id": "7941",
+      "url": "https://asia.pokemon-card.com/tw/card-search/detail/7941/",
+      "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007941.png",
+      "extraInformation": [
+        "No.283水黽寶可夢",
+        "身高0.5/體重1.7",
+        "平時住在池塘裡，午後下過雷陣雨時，會出現在街上的小水窪中。"
+      ],
+      "cardName": "溜溜糖球",
+      "skillList": [
+        {
+          "name": "猛撲",
+          "effect": "擲1次硬幣若為反面，則這個招式失敗。"
+        }
+      ]
+    },
+    
+    
+    
+    
+    
+    
+   
+    {
+      "id": "7976",
+      "url": "https://asia.pokemon-card.com/tw/card-search/detail/7976/",
+      "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007976.png",
+      "extraInformation": [
+        "No.855紅茶寶可夢",
+        "身高0.2/體重0.4",
+        "以紅茶構成的身體風味獨特卻不失美味，但飲用過量可能致死。"
+      ],
+      "cardName": "怖思壺",
+      "skillList": [
+        {
+          "name": "集古董",
+          "effect": "從自己的棄牌區選擇「物品」卡與「寶可夢道具」卡合計最多2張，在給對手看過後加入手牌。"
+        },
+        {
+          "name": "倒茶",
+          "effect": "在對手的戰鬥寶可夢身上放置5個傷害指示物。"
+        }
+      ]
+    },
+    
+    
+    
+    
+    {
+      "id": "7975",
+      "url": "https://asia.pokemon-card.com/tw/card-search/detail/7975/",
+      "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007975.png",
+      "extraInformation": [
+        "No.854紅茶寶可夢",
+        "身高0.1/體重0.2",
+        "死於孤獨的死者之魂附在了喝剩的紅茶上。會在旅館或民宅出現。"
+      ],
+      "cardName": "來悲茶",
+      "skillList": [
+        {
+          "name": "冷茶",
+          "effect": "擲1次硬幣若為正面，則將對手的戰鬥寶可夢【麻痺】。"
+        }
+      ]
+    },
+    
+   
+    {
+      "id": "7980",
+      "url": "https://asia.pokemon-card.com/tw/card-search/detail/7980/",
+      "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007980.png",
+      "extraInformation": [
+        "No.979",
+        "",
+        ""
+      ],
+      "cardName": "棄世猴ex",
+      "skillList": [
+        {
+          "name": "憤懣恨怨",
+          "effect": "在這隻寶可夢身上放置最多12個傷害指示物，造成放置的數量×20點傷害。"
+        },
+        {
+          "name": "地球上投",
+          "effect": ""
+        },
+        {
+          "name": "[ex規則]",
+          "effect": "寶可夢【ex】【昏厥】時，對手獲得2張獎賞卡。"
+        }
+      ]
+    },
+    
+    
+    
+    
+    
+    
+    
+    {
+      "id": "7942",
+      "url": "https://asia.pokemon-card.com/tw/card-search/detail/7942/",
+      "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007942.png",
+      "extraInformation": [
+        "No.284眼珠寶可夢",
+        "身高0.8/體重3.6",
+        "能用４片翅膀浮在空中，並前後左右自在地飛來飛去。"
+      ],
+      "cardName": "雨翅蛾",
+      "skillList": [
+        {
+          "name": "恐慌花紋",
+          "effect": "擲硬幣直到出現反面，在不看手牌正面的情況下，選擇與正面出現的次數相同數量的對手的手牌，將其丟棄。"
+        },
+        {
+          "name": "蟲鳴",
+          "effect": ""
+        }
+      ]
+    },
+    
+    
+    
+  
+    
+    
+   
+    
+    
+    {
+      "id": "7990",
+      "url": "https://asia.pokemon-card.com/tw/card-search/detail/7990/",
+      "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007990.png",
+      "extraInformation": [
+        "No.436青銅寶可夢",
+        "身高0.5/體重60.5",
+        "過去的人們相信，銅鏡怪背上的花紋裡蘊藏著神秘的力量。"
+      ],
+      "cardName": "銅鏡怪",
+      "skillList": [
+        {
+          "name": "鏡面抽出",
+          "effect": "從牌庫抽卡直到自己的手牌與對手的手牌張數相同為止。"
+        },
+        {
+          "name": "高速飛行",
+          "effect": ""
+        }
+      ]
+    },
+    {
+      "id": "7949",
+      "url": "https://asia.pokemon-card.com/tw/card-search/detail/7949/",
+      "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007949.png",
+      "extraInformation": [
+        "No.763水果寶可夢",
+        "身高1.2/體重21.4",
+        "雖然性情高傲且攻擊性強，但據說只要摸摸牠果蒂的冠，牠立刻會變得很溫順。"
+      ],
+      "cardName": "甜冷美后",
+      "skillList": [
+        {
+          "name": "女王的腳跟",
+          "effect": "在下個對手的回合，受到這個招式的寶可夢無法進化成從手牌使出的寶可夢。"
+        },
+        {
+          "name": "旋轉踢",
+          "effect": "這隻寶可夢也受到20點傷害。"
+        }
+      ]
+    },
+    
+    
+    
+    
+    
+    
+    {
+      "id": "7948",
+      "url": "https://asia.pokemon-card.com/tw/card-search/detail/7948/",
+      "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007948.png",
+      "extraInformation": [
+        "No.762水果寶可夢",
+        "身高0.7/體重8.2",
+        "會散發出能振奮心情的香甜氣味。作為止汗劑的香味擁有極高的人氣。"
+      ],
+      "cardName": "甜舞妮",
+      "skillList": [
+        {
+          "name": "芳香治療",
+          "effect": "將自己的所有寶可夢各恢復「30」HP。"
+        },
+        {
+          "name": "飛葉快刀",
+          "effect": ""
+        }
+      ]
+    },
+    {
+      "id": "7991",
+      "url": "https://asia.pokemon-card.com/tw/card-search/detail/7991/",
+      "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007991.png",
+      "extraInformation": [
+        "No.437銅鐘寶可夢",
+        "身高1.3/體重187",
+        "從遙遠的過去開始就被人當成能召喚雨雲的寶可夢而供奉著。有時候會被埋進地下。"
+      ],
+      "cardName": "青銅鐘",
+      "skillList": [
+        {
+          "name": "神諭壓制",
+          "effect": "在下個對手的回合，這隻寶可夢不會受到對手的寶可夢使用招式的效果的影響。"
+        },
+        {
+          "name": "神通力",
+          "effect": "若自己的手牌與對手的手牌張數相同，則增加90點傷害。"
+        }
+      ]
+    }
+]
