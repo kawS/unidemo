@@ -6,15 +6,17 @@
     "cardName": "毽子草",
     "skillList": [
       {
-        "name": "躍起閃避",
-        "effect": "擲1次硬幣若為正面，則在下個對手的回合，這隻寶可夢不會受到招式的傷害與效果的影響。"
+        "name": "跃起闪避",
+        "effect": "掷1次硬币若为正面，则在下个对手的回合，这只宝可梦不会受到招式的伤害与效果的影响。"
       }
     ],
     "extraInformation": [
-      "No.187棉草寶可夢",
-      "身高0.4/體重0.5",
-      "會隨著風移動到很遠的地方。沒有人能具體指出帕底亞的毽子草是從哪裡來的。"
-    ]
+      "No.187棉草宝可梦",
+      "身高0.4/体重0.5",
+      "会随著风移动到很远的地方。没有人能具体指出帕底亚的毽子草是从哪里来的。"
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Grass"
   },
   {
     "id": "8013",
@@ -23,19 +25,21 @@
     "cardName": "毽子花",
     "skillList": [
       {
-        "name": "[特性]輕飄躲避",
-        "effect": "這隻寶可夢受到招式的傷害時，自己擲1次硬幣。若為正面，則這隻寶可夢不會受到那個傷害。"
+        "name": "[特性]轻飘躲避",
+        "effect": "这只宝可梦受到招式的伤害时，自己掷1次硬币。若为正面，则这只宝可梦不会受到那个伤害。"
       },
       {
-        "name": "花之風",
-        "effect": "對手的1隻備戰寶可夢也受到30點傷害。[在備戰區不計算弱點・抵抗力。]"
+        "name": "花之风",
+        "effect": "对手的1只备战宝可梦也受到30点伤害。[在备战区不计算弱点・抵抗力。]"
       }
     ],
     "extraInformation": [
-      "No.188棉草寶可夢",
-      "身高0.6/體重1.0",
-      "據說熱愛毽子花的人能夠透過牠頭上的花散發的香味，猜出牠是在哪裡出生的。"
-    ]
+      "No.188棉草宝可梦",
+      "身高0.6/体重1.0",
+      "据说热爱毽子花的人能够透过牠头上的花散发的香味，猜出牠是在哪里出生的。"
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Grass"
   },
   {
     "id": "8014",
@@ -44,19 +48,21 @@
     "cardName": "毽子棉",
     "skillList": [
       {
-        "name": "[特性]輕飄躲避",
-        "effect": "這隻寶可夢受到招式的傷害時，自己擲1次硬幣。若為正面，則這隻寶可夢不會受到那個傷害。"
+        "name": "[特性]轻飘躲避",
+        "effect": "这只宝可梦受到招式的伤害时，自己掷1次硬币。若为正面，则这只宝可梦不会受到那个伤害。"
       },
       {
-        "name": "棉絮之風",
-        "effect": "對手的1隻備戰寶可夢也受到30點傷害。[在備戰區不計算弱點・抵抗力。]"
+        "name": "棉絮之风",
+        "effect": "对手的1只备战宝可梦也受到30点伤害。[在备战区不计算弱点・抵抗力。]"
       }
     ],
     "extraInformation": [
-      "No.189棉草寶可夢",
-      "身高0.8/體重3.0",
-      "會乘著季風到處旅行。當毽子棉的棉花孢子掉光時，牠的旅行和生命也會隨之結束。"
-    ]
+      "No.189棉草宝可梦",
+      "身高0.8/体重3.0",
+      "会乘著季风到处旅行。当毽子棉的棉花孢子掉光时，牠的旅行和生命也会随之结束。"
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Grass"
   },
   {
     "id": "8015",
@@ -65,15 +71,17 @@
     "cardName": "榛果球",
     "skillList": [
       {
-        "name": "滾動",
+        "name": "滚动",
         "effect": ""
       }
     ],
     "extraInformation": [
-      "No.204蓑衣蟲寶可夢",
-      "身高0.6/體重7.2",
-      "最喜歡把樹皮疊在身上加厚外殼。就算因此變重也毫不在意。"
-    ]
+      "No.204蓑衣虫宝可梦",
+      "身高0.6/体重7.2",
+      "最喜欢把树皮叠在身上加厚外壳。就算因此变重也毫不在意。"
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Grass"
   },
   {
     "id": "8016",
@@ -83,203 +91,223 @@
     "skillList": [
       {
         "name": "[太晶]",
-        "effect": "只要這隻寶可夢在備戰區，不會受到招式的傷害。"
+        "effect": "只要这只宝可梦在备战区，不会受到招式的伤害。"
       },
       {
         "name": "[特性]爆裂能量",
-        "effect": "在自己的回合時可使用1次，若使用，則將這隻寶可夢【昏厥】。從自己的牌庫選擇最多5張「基本【草】能量」卡，以任意方式附於自己的寶可夢身上。並且重洗牌庫。"
+        "effect": "在自己的回合时可使用1次，若使用，则将这只宝可梦【昏厥】。从自己的牌库选择最多5张「基本【草】能量」卡，以任意方式附于自己的宝可梦身上。并且重洗牌库。"
       },
       {
-        "name": "防守壓制",
-        "effect": "在下個對手的回合，這隻寶可夢受到招式的傷害「-30」點。"
+        "name": "防守压制",
+        "effect": "在下个对手的回合，这只宝可梦受到招式的伤害「-30」点。"
       },
       {
-        "name": "[ex規則]",
-        "effect": "寶可夢【ex】【昏厥】時，對手獲得2張獎賞卡。"
+        "name": "[ex规则]",
+        "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
     ],
     "extraInformation": [
       "No.205",
       "",
       ""
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Grass"
   },
   {
     "id": "8017",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/8017/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008017.png",
-    "cardName": "赫拉克羅斯",
+    "cardName": "赫拉克罗斯",
     "skillList": [
       {
-        "name": "撞擊",
+        "name": "撞击",
         "effect": ""
       },
       {
-        "name": "粉碎角擊",
-        "effect": "這個招式的傷害不計算抵抗力。"
+        "name": "粉碎角击",
+        "effect": "这个招式的伤害不计算抵抗力。"
       }
     ],
     "extraInformation": [
-      "No.214獨角寶可夢",
-      "身高1.5/體重54.0",
-      "對甜甜蜜愛不釋手，為了全都佔為己有，會用引以為傲的角扔飛對手。"
-    ]
+      "No.214独角宝可梦",
+      "身高1.5/体重54.0",
+      "对甜甜蜜爱不释手，为了全都占为己有，会用引以为傲的角扔飞对手。"
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Grass"
   },
   {
     "id": "7868",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7868/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007868.png",
-    "cardName": "熱帶龍",
+    "cardName": "热带龙",
     "skillList": [
       {
-        "name": "綠葉吸取",
-        "effect": "將這隻寶可夢恢復「20」HP。"
+        "name": "绿叶吸取",
+        "effect": "将这只宝可梦恢复「20」HP。"
       },
       {
-        "name": "南國之風",
-        "effect": "將這隻寶可夢身上附加的能量卡，全部改附於1隻備戰寶可夢身上。"
+        "name": "南国之风",
+        "effect": "将这只宝可梦身上附加的能量卡，全部改附于1只备战宝可梦身上。"
       }
     ],
     "extraInformation": [
-      "No.357水果寶可夢",
-      "身高2.0/體重100.0",
-      "棲息在熱帶叢林裡。脖子上的果實香甜美味。每年會結果２次。"
-    ]
+      "No.357水果宝可梦",
+      "身高2.0/体重100.0",
+      "栖息在热带丛林里。脖子上的果实香甜美味。每年会结果２次。"
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Grass"
   },
   {
     "id": "7943",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7943/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007943.png",
     "extraInformation": [
-      "No.415幼蜂寶可夢",
-      "身高0.3/體重5.5",
-      "到了晚上就會有１００隻左右的三蜜蜂集聚成堆，依偎著彼此睡覺。"
+      "No.415幼蜂宝可梦",
+      "身高0.3/体重5.5",
+      "到了晚上就会有100只左右的三蜜蜂集聚成堆，依偎著彼此睡觉。"
     ],
     "cardName": "三蜜蜂",
     "skillList": [
       {
-        "name": "雙重旋轉",
-        "effect": "擲2次硬幣，造成正面出現的次數×10點傷害。"
+        "name": "双重旋转",
+        "effect": "掷2次硬币，造成正面出现的次数×10点伤害。"
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Grass"
   },
   {
     "id": "7944",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7944/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007944.png",
     "extraInformation": [
-      "No.416蜂巢寶可夢",
-      "身高1.2/體重38.5",
-      "身體是孩子們的巢穴。會釋放出各式各樣的費洛蒙，自由自在地控制孩子們。"
+      "No.416蜂巢宝可梦",
+      "身高1.2/体重38.5",
+      "身体是孩子们的巢穴。会释放出各式各样的费洛蒙，自由自在地控制孩子们。"
     ],
     "cardName": "蜂女王",
     "skillList": [
       {
-        "name": "二連撞",
-        "effect": "擲2次硬幣，造成正面出現的次數×30點傷害。"
+        "name": "二连撞",
+        "effect": "掷2次硬币，造成正面出现的次数×30点伤害。"
       },
       {
-        "name": "襲擊指令",
-        "effect": "選擇1隻自己的備戰區的「三蜜蜂」，將那隻寶可夢與附加的卡全部放回牌庫並重洗。若無法放回牌庫，則這個招式失敗。"
+        "name": "袭击指令",
+        "effect": "选择1只自己的备战区的「三蜜蜂」，将那只宝可梦与附加的卡全部放回牌库并重洗。若无法放回牌库，则这个招式失败。"
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Grass"
   },
   {
     "id": "7945",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7945/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007945.png",
     "extraInformation": [
-      "No.459樹冰寶可夢",
-      "身高1/體重50.5",
-      "在寒冷的季節裡會移動到山腳下，一到春天就會返回積雪尚存的山頂。"
+      "No.459树冰宝可梦",
+      "身高1/体重50.5",
+      "在寒冷的季节里会移动到山脚下，一到春天就会返回积雪尚存的山顶。"
     ],
     "cardName": "雪笠怪",
     "skillList": [
       {
-        "name": "推擊",
+        "name": "推击",
         "effect": ""
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Grass"
   },
   {
     "id": "7946",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7946/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007946.png",
     "extraInformation": [
-      "No.460樹冰寶可夢",
-      "身高2.2/體重135.5",
-      "在萬年積雪的山脈靜靜生活。會引發暴風雪來隱藏自己。"
+      "No.460树冰宝可梦",
+      "身高2.2/体重135.5",
+      "在万年积雪的山脉静静生活。会引发暴风雪来隐藏自己。"
     ],
     "cardName": "暴雪王",
     "skillList": [
       {
-        "name": "[特性]嚴寒降災",
-        "effect": "只要這隻寶可夢在場上，雙方的所有寶可夢的HP無法恢復。"
+        "name": "[特性]严寒降灾",
+        "effect": "只要这只宝可梦在场上，双方的所有宝可梦的HP无法恢复。"
       },
       {
         "name": "增量拳",
         "effect": ""
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Grass"
   },
   {
     "id": "7871",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7871/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007871.png",
     "extraInformation": [
-      "No.906草貓寶可夢",
-      "身高0.4/體重4.1",
-      "毛茸茸的體毛有著近似於植物的成分。會勤快地洗臉以防止乾燥。"
+      "No.906草猫宝可梦",
+      "身高0.4/体重4.1",
+      "毛茸茸的体毛有著近似于植物的成分。会勤快地洗脸以防止干燥。"
     ],
-    "cardName": "新葉喵",
+    "cardName": "新叶喵",
     "skillList": [
       {
         "name": "集光",
-        "effect": "從自己的牌庫選擇最多2張基本能量卡，在給對手看過後加入手牌。並且重洗牌庫。"
+        "effect": "从自己的牌库选择最多2张基本能量卡，在给对手看过后加入手牌。并且重洗牌库。"
       },
       {
-        "name": "種子炸彈",
+        "name": "种子炸弹",
         "effect": ""
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Grass"
   },
   {
     "id": "7872",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7872/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007872.png",
     "extraInformation": [
-      "No.906草貓寶可夢",
-      "身高0.4/體重4.1",
-      "毛茸茸的體毛有著近似於植物的成分。會勤快地洗臉以防止乾燥。"
+      "No.906草猫宝可梦",
+      "身高0.4/体重4.1",
+      "毛茸茸的体毛有著近似于植物的成分。会勤快地洗脸以防止干燥。"
     ],
-    "cardName": "新葉喵",
+    "cardName": "新叶喵",
     "skillList": [
       {
-        "name": "豎爪",
+        "name": "竖爪",
         "effect": ""
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Grass"
   },
   {
     "id": "7873",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7873/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007873.png",
     "extraInformation": [
-      "No.907草貓寶可夢",
-      "身高0.9/體重12.2",
-      "會靈巧操控長長的體毛下隱藏的藤蔓，將堅硬的花苞甩向敵人猛打。"
+      "No.907草猫宝可梦",
+      "身高0.9/体重12.2",
+      "会灵巧操控长长的体毛下隐藏的藤蔓，将坚硬的花苞甩向敌人猛打。"
     ],
     "cardName": "蒂蕾喵",
     "skillList": [
       {
-        "name": "種子炸彈",
+        "name": "种子炸弹",
         "effect": ""
       },
       {
         "name": "魔法鞭打",
-        "effect": "將對手的戰鬥寶可夢與備戰寶可夢互換。[由對手選擇放置於戰鬥場的寶可夢。]"
+        "effect": "将对手的战斗宝可梦与备战宝可梦互换。[由对手选择放置于战斗场的宝可梦。]"
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Grass"
   },
   {
     "id": "7874",
@@ -294,51 +322,57 @@
     "skillList": [
       {
         "name": "[特性]花束魔法",
-        "effect": "在自己的回合，若從自己的手牌將1張「基本【草】能量」卡丟棄，則可使用1次。在對手的1隻備戰寶可夢身上放置3個傷害指示物。"
+        "effect": "在自己的回合，若从自己的手牌将1张「基本【草】能量」卡丢弃，则可使用1次。在对手的1只备战宝可梦身上放置3个伤害指示物。"
       },
       {
-        "name": "抓刮銳爪",
-        "effect": "若對手的戰鬥寶可夢身上放置有傷害指示物，則增加120點傷害。"
+        "name": "抓刮锐爪",
+        "effect": "若对手的战斗宝可梦身上放置有伤害指示物，则增加120点伤害。"
       },
       {
-        "name": "[ex規則]",
-        "effect": "寶可夢【ex】【昏厥】時，對手獲得2張獎賞卡。"
+        "name": "[ex规则]",
+        "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Grass"
   },
   {
     "id": "8018",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/8018/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008018.png",
-    "cardName": "團珠蛛",
+    "cardName": "团珠蛛",
     "skillList": [
       {
-        "name": "束縛",
-        "effect": "在下個對手的回合，受到這個招式的寶可夢無法撤退。"
+        "name": "束缚",
+        "effect": "在下个对手的回合，受到这个招式的宝可梦无法撤退。"
       }
     ],
     "extraInformation": [
-      "No.917線球寶可夢",
-      "身高0.3/體重4.0",
-      "包裹著身體的線球擁有足以把天敵飛天螳螂的鐮刀反彈回去的彈力。"
-    ]
+      "No.917线球宝可梦",
+      "身高0.3/体重4.0",
+      "包裹著身体的线球拥有足以把天敌飞天螳螂的镰刀反弹回去的弹力。"
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Grass"
   },
   {
     "id": "8019",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/8019/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008019.png",
-    "cardName": "團珠蛛",
+    "cardName": "团珠蛛",
     "skillList": [
       {
-        "name": "鉤住",
+        "name": "钩住",
         "effect": ""
       }
     ],
     "extraInformation": [
-      "No.917線球寶可夢",
-      "身高0.3/體重4.0",
-      "包裹著身體的線球擁有足以把天敵飛天螳螂的鐮刀反彈回去的彈力。"
-    ]
+      "No.917线球宝可梦",
+      "身高0.3/体重4.0",
+      "包裹著身体的线球拥有足以把天敌飞天螳螂的镰刀反弹回去的弹力。"
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Grass"
   },
   {
     "id": "8020",
@@ -347,19 +381,21 @@
     "cardName": "操陷蛛",
     "skillList": [
       {
-        "name": "捲入陷阱",
-        "effect": "將雙方的戰鬥寶可夢與附加的卡，全部放回各自的牌庫並重洗。[自己先將下一隻寶可夢放置於戰鬥場。]"
+        "name": "卷入陷阱",
+        "effect": "将双方的战斗宝可梦与附加的卡，全部放回各自的牌库并重洗。[自己先将下一只宝可梦放置于战斗场。]"
       },
       {
-        "name": "頭突",
+        "name": "头突",
         "effect": ""
       }
     ],
     "extraInformation": [
-      "No.918陷阱寶可夢",
-      "身高1.0/體重16.5",
-      "用絲線吸附在樹枝或天花板上無聲無息地移動。會在自己被察覺到之前將獵物打倒。"
-    ]
+      "No.918陷阱宝可梦",
+      "身高1.0/体重16.5",
+      "用丝线吸附在树枝或天花板上无声无息地移动。会在自己被察觉到之前将猎物打倒。"
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Grass"
   },
   {
     "id": "7875",
@@ -369,18 +405,20 @@
     "skillList": [
       {
         "name": "跳一下",
-        "effect": "擲1次硬幣若為正面，則在下個對手的回合，這隻寶可夢不會受到招式的傷害與效果的影響。"
+        "effect": "掷1次硬币若为正面，则在下个对手的回合，这只宝可梦不会受到招式的伤害与效果的影响。"
       },
       {
-        "name": "蟲咬",
+        "name": "虫咬",
         "effect": ""
       }
     ],
     "extraInformation": [
-      "No.919蝗蟲寶可夢",
-      "身高0.2/體重1.0",
-      "總是將第３對腳折起來。擁有在遇到危機時能夠跳超過１０公尺的跳躍力。"
-    ]
+      "No.919蝗虫宝可梦",
+      "身高0.2/体重1.0",
+      "总是将第３对脚折起来。拥有在遇到危机时能够跳超过10公尺的跳跃力。"
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Grass"
   },
   {
     "id": "7876",
@@ -390,7 +428,7 @@
     "skillList": [
       {
         "name": "踹",
-        "effect": "擲1次硬幣若為反面，則這個招式失敗。"
+        "effect": "掷1次硬币若为反面，则这个招式失败。"
       },
       {
         "name": "",
@@ -398,10 +436,12 @@
       }
     ],
     "extraInformation": [
-      "No.919蝗蟲寶可夢",
-      "身高0.2/體重1.0",
-      "總是將第３對腳折起來。擁有在遇到危機時能夠跳超過１０公尺的跳躍力。"
-    ]
+      "No.919蝗虫宝可梦",
+      "身高0.2/体重1.0",
+      "总是将第３对脚折起来。拥有在遇到危机时能够跳超过10公尺的跳跃力。"
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Grass"
   },
   {
     "id": "7877",
@@ -410,108 +450,120 @@
     "cardName": "烈腿蝗",
     "skillList": [
       {
-        "name": "進擊踢",
-        "effect": "在這個回合，若這隻寶可夢從「豆蟋蟀」進化，則增加100點傷害。"
+        "name": "进击踢",
+        "effect": "在这个回合，若这只宝可梦从「豆蟋蟀」进化，则增加100点伤害。"
       },
       {
-        "name": "高速攻擊",
+        "name": "高速攻击",
         "effect": ""
       }
     ],
     "extraInformation": [
-      "No.920蝗蟲寶可夢",
-      "身高1.0/體重17.5",
-      "認真起來時會用折起的腳站起來，進入決戰模式。會在短時間內鎮壓住敵人。"
-    ]
+      "No.920蝗虫宝可梦",
+      "身高1.0/体重17.5",
+      "认真起来时会用折起的脚站起来，进入决战模式。会在短时间内镇压住敌人。"
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Grass"
   },
   {
     "id": "7950",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7950/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007950.png",
     "extraInformation": [
-      "No.946滾草寶可夢",
-      "身高0.6/體重0.6",
-      "無法升天的靈魂在風的吹拂下被捲進枯草裡，變成了寶可夢。"
+      "No.946滚草宝可梦",
+      "身高0.6/体重0.6",
+      "无法升天的灵魂在风的吹拂下被卷进枯草里，变成了宝可梦。"
     ],
-    "cardName": "納噬草",
+    "cardName": "纳噬草",
     "skillList": [
       {
-        "name": "乘風",
-        "effect": "擲1次硬幣若為正面，則將這隻寶可夢與備戰寶可夢互換。"
+        "name": "乘风",
+        "effect": "掷1次硬币若为正面，则将这只宝可梦与备战宝可梦互换。"
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Grass"
   },
   {
     "id": "7951",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7951/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007951.png",
     "extraInformation": [
-      "No.946滾草寶可夢",
-      "身高0.6/體重0.6",
-      "無法升天的靈魂在風的吹拂下被捲進枯草裡，變成了寶可夢。"
+      "No.946滚草宝可梦",
+      "身高0.6/体重0.6",
+      "无法升天的灵魂在风的吹拂下被卷进枯草里，变成了宝可梦。"
     ],
-    "cardName": "納噬草",
+    "cardName": "纳噬草",
     "skillList": [
       {
         "name": "吸取一下",
-        "effect": "將這隻寶可夢恢復「10」HP。"
+        "effect": "将这只宝可梦恢复「10」HP。"
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Grass"
   },
   {
     "id": "7952",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7952/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007952.png",
     "extraInformation": [
-      "No.947滾草寶可夢",
-      "身高1.2/體重6",
-      "會張開頭的樹枝吞沒獵物。把精氣吸得淋漓盡致後，就會吐出來丟掉。"
+      "No.947滚草宝可梦",
+      "身高1.2/体重6",
+      "会张开头的树枝吞没猎物。把精气吸得淋漓尽致后，就会吐出来丢掉。"
     ],
-    "cardName": "怖納噬草",
+    "cardName": "怖纳噬草",
     "skillList": [
       {
         "name": "生命吸取",
-        "effect": "將這隻寶可夢恢復「30」HP。"
+        "effect": "将这只宝可梦恢复「30」HP。"
       },
       {
-        "name": "枯木牢獄",
-        "effect": "在下個對手的回合，受到這個招式的寶可夢使用招式所需的能量增加2個【無】能量。"
+        "name": "枯木牢狱",
+        "effect": "在下个对手的回合，受到这个招式的宝可梦使用招式所需的能量增加2个【无】能量。"
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Grass"
   },
   {
     "id": "7953",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7953/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007953.png",
     "extraInformation": [
-      "No.953滾動寶可夢",
-      "身高0.2/體重1",
-      "會將超能力混進泥土和沙子裡製作出泥球。泥球比自己的命還重要。"
+      "No.953滚动宝可梦",
+      "身高0.2/体重1",
+      "会将超能力混进泥土和沙子里制作出泥球。泥球比自己的命还重要。"
     ],
-    "cardName": "蟲滾泥",
+    "cardName": "虫滚泥",
     "skillList": [
       {
-        "name": "蟲咬",
+        "name": "虫咬",
         "effect": ""
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Grass"
   },
   {
     "id": "7954",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7954/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007954.png",
     "extraInformation": [
-      "No.953滾動寶可夢",
-      "身高0.2/體重1",
-      "會將超能力混進泥土和沙子裡製作出泥球。泥球比自己的命還重要。"
+      "No.953滚动宝可梦",
+      "身高0.2/体重1",
+      "会将超能力混进泥土和沙子里制作出泥球。泥球比自己的命还重要。"
     ],
-    "cardName": "蟲滾泥",
+    "cardName": "虫滚泥",
     "skillList": [
       {
-        "name": "滾球",
-        "effect": "擲硬幣直到出現反面，造成正面出現的次數×30點傷害。"
+        "name": "滚球",
+        "effect": "掷硬币直到出现反面，造成正面出现的次数×30点伤害。"
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Grass"
   },
   {
     "id": "7955",
@@ -522,42 +574,46 @@
       "",
       ""
     ],
-    "cardName": "古簡蝸ex",
+    "cardName": "古简蜗ex",
     "skillList": [
       {
-        "name": "追擊蔦",
-        "effect": "對手的1隻備戰寶可夢受到對手已經獲得的獎賞卡的張數×60點傷害。[在備戰區不計算弱點・抵抗力。]"
+        "name": "追击茑",
+        "effect": "对手的1只备战宝可梦受到对手已经获得的奖赏卡的张数×60点伤害。[在备战区不计算弱点・抵抗力。]"
       },
       {
-        "name": "森林灼燒",
+        "name": "森林灼烧",
         "effect": ""
       },
       {
-        "name": "[ex規則]",
-        "effect": "寶可夢【ex】【昏厥】時，對手獲得2張獎賞卡。"
+        "name": "[ex规则]",
+        "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Grass"
   },
   {
     "id": "7878",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7878/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007878.png",
     "extraInformation": [
-      "No.128暴牛寶可夢",
-      "身高1.4/體重85.0",
-      "噴出的鼻息溫度很高，因此被命名為火熾種。 ３根尾巴總是束在一起。"
+      "No.128暴牛宝可梦",
+      "身高1.4/体重85.0",
+      "喷出的鼻息温度很高，因此被命名为火炽种。３根尾巴总是束在一起。"
     ],
-    "cardName": "帕底亞 肯泰羅",
+    "cardName": "帕底亚 肯泰罗",
     "skillList": [
       {
-        "name": "憤怒之角",
-        "effect": "增加這隻寶可夢身上放置的傷害指示物的數量×10點傷害。"
+        "name": "愤怒之角",
+        "effect": "增加这只宝可梦身上放置的伤害指示物的数量×10点伤害。"
       },
       {
-        "name": "火焰衝刺",
-        "effect": "選擇1個這隻寶可夢身上附加的能量，將其丟棄。"
+        "name": "火焰冲刺",
+        "effect": "选择1个这只宝可梦身上附加的能量，将其丢弃。"
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Fire"
   },
   {
     "id": "8023",
@@ -566,158 +622,174 @@
     "cardName": "火箭雀",
     "skillList": [
       {
-        "name": "高溫奇襲",
-        "effect": "這隻寶可夢也受到10點傷害。"
+        "name": "高温奇袭",
+        "effect": "这只宝可梦也受到10点伤害。"
       }
     ],
     "extraInformation": [
-      "No.662火花寶可夢",
-      "身高0.7/體重16.0",
-      "會朝著似乎潛伏著蟲寶可夢的草叢灑出火花，然後趁牠們跳出來時獵捕。"
-    ]
+      "No.662火花宝可梦",
+      "身高0.7/体重16.0",
+      "会朝著似乎潜伏著虫宝可梦的草丛洒出火花，然后趁牠们跳出来时猎捕。"
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Fire"
   },
   {
     "id": "8024",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/8024/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008024.png",
-    "cardName": "烈箭鷹",
+    "cardName": "烈箭鹰",
     "skillList": [
       {
-        "name": "緊抓",
-        "effect": "在下個對手的回合，受到這個招式的寶可夢無法撤退。"
+        "name": "紧抓",
+        "effect": "在下个对手的回合，受到这个招式的宝可梦无法撤退。"
       },
       {
-        "name": "烈火之風",
-        "effect": "若這隻寶可夢身上放置有傷害指示物，則增加90點傷害。"
+        "name": "烈火之风",
+        "effect": "若这只宝可梦身上放置有伤害指示物，则增加90点伤害。"
       }
     ],
     "extraInformation": [
-      "No.663烈火寶可夢",
-      "身高1.2/體重24.5",
-      "飛行能力數一數二。能夠攫著１００公斤以上的獵物輕輕鬆鬆地飛來飛去。"
-    ]
+      "No.663烈火宝可梦",
+      "身高1.2/体重24.5",
+      "飞行能力数一数二。能够攫著100公斤以上的猎物轻轻松松地飞来飞去。"
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Fire"
   },
   {
     "id": "7881",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7881/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007881.png",
-    "cardName": "小獅獅",
+    "cardName": "小狮狮",
     "skillList": [
       {
-        "name": "燒光",
-        "effect": "將場上的競技場卡丟棄。"
+        "name": "烧光",
+        "effect": "将场上的竞技场卡丢弃。"
       },
       {
-        "name": "火種",
+        "name": "火种",
         "effect": ""
       }
     ],
     "extraInformation": [
-      "No.667幼獅寶可夢",
-      "身高0.6/體重13.5",
-      "年幼時雌性的火炎獅會教導自己如何狩獵， 長大後就會離群索居。"
-    ]
+      "No.667幼狮宝可梦",
+      "身高0.6/体重13.5",
+      "年幼时雌性的火炎狮会教导自己如何狩猎，长大后就会离群索居。"
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Fire"
   },
   {
     "id": "7882",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7882/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007882.png",
-    "cardName": "火炎獅",
+    "cardName": "火炎狮",
     "skillList": [
       {
-        "name": "灼熱",
-        "effect": "將對手的戰鬥寶可夢【灼傷】。"
+        "name": "灼热",
+        "effect": "将对手的战斗宝可梦【灼伤】。"
       },
       {
-        "name": "飛馳",
-        "effect": "對手的1隻備戰寶可夢也受到20點傷害。[在備戰區不計算弱點・抵抗力。]"
+        "name": "飞驰",
+        "effect": "对手的1只备战宝可梦也受到20点伤害。[在备战区不计算弱点・抵抗力。]"
       }
     ],
     "extraInformation": [
-      "No.668王者寶可夢",
-      "身高1.5/體重81.5",
-      "雌性們會合力捕殺獵物，所以群體內不會發生 有誰挨餓的狀況。"
-    ]
+      "No.668王者宝可梦",
+      "身高1.5/体重81.5",
+      "雌性们会合力捕杀猎物，所以群体内不会发生有谁挨饿的状况。"
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Fire"
   },
   {
     "id": "7883",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7883/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007883.png",
     "extraInformation": [
-      "No.741舞蹈寶可夢",
-      "身高0.6/體重3.4",
-      "熱情的舞姿似乎很符合帕底亞人們的性情，因此非常地受歡迎。"
+      "No.741舞蹈宝可梦",
+      "身高0.6/体重3.4",
+      "热情的舞姿似乎很符合帕底亚人们的性情，因此非常地受欢迎。"
     ],
-    "cardName": "花舞鳥",
+    "cardName": "花舞鸟",
     "skillList": [
       {
-        "name": "[特性]熱情舞",
-        "effect": "在自己的回合時可使用1次。將自己的戰鬥場的進化寶可夢恢復「20」HP。"
+        "name": "[特性]热情舞",
+        "effect": "在自己的回合时可使用1次。将自己的战斗场的进化宝可梦恢复「20」HP。"
       },
       {
-        "name": "羽擊",
+        "name": "羽击",
         "effect": ""
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Fire"
   },
   {
     "id": "7884",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7884/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007884.png",
     "extraInformation": [
-      "No.909火鱷寶可夢",
-      "身高0.4/體重9.8",
-      "會躺在溫熱的岩石上，用四角形的鱗片所吸收的熱能來製造火之能量。"
+      "No.909火鳄宝可梦",
+      "身高0.4/体重9.8",
+      "会躺在温热的岩石上，用四角形的鳞片所吸收的热能来制造火之能量。"
     ],
-    "cardName": "呆火鱷",
+    "cardName": "呆火鳄",
     "skillList": [
       {
-        "name": "撞擊",
+        "name": "撞击",
         "effect": ""
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Fire"
   },
   {
     "id": "7885",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7885/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007885.png",
     "extraInformation": [
-      "No.909火鱷寶可夢",
-      "身高0.4/體重9.8",
-      "會躺在溫熱的岩石上，用四角形的鱗片所吸收的熱能來製造火之能量。"
+      "No.909火鳄宝可梦",
+      "身高0.4/体重9.8",
+      "会躺在温热的岩石上，用四角形的鳞片所吸收的热能来制造火之能量。"
     ],
-    "cardName": "呆火鱷",
+    "cardName": "呆火鳄",
     "skillList": [
       {
-        "name": "發呆",
-        "effect": "擲1次硬幣若為正面，則將這隻寶可夢恢復「30」HP。"
+        "name": "发呆",
+        "effect": "掷1次硬币若为正面，则将这只宝可梦恢复「30」HP。"
       },
       {
         "name": "火焰",
         "effect": ""
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Fire"
   },
   {
     "id": "7886",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7886/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007886.png",
     "extraInformation": [
-      "No.910火鱷寶可夢",
-      "身高1.0/體重30.7",
-      "火之能量與過剩的生命力相互結合，使得牠頭上出現了蛋狀的火球。"
+      "No.910火鳄宝可梦",
+      "身高1.0/体重30.7",
+      "火之能量与过剩的生命力相互结合，使得牠头上出现了蛋状的火球。"
     ],
-    "cardName": "炙燙鱷",
+    "cardName": "炙烫鳄",
     "skillList": [
       {
         "name": "吐火",
         "effect": ""
       },
       {
-        "name": "巨聲",
+        "name": "巨声",
         "effect": ""
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Fire"
   },
   {
     "id": "7887",
@@ -728,21 +800,23 @@
       "",
       ""
     ],
-    "cardName": "骨紋巨聲鱷ex",
+    "cardName": "骨纹巨声鳄ex",
     "skillList": [
       {
         "name": "活力之歌",
-        "effect": "將自己的所有寶可夢各恢復「30」HP。"
+        "effect": "将自己的所有宝可梦各恢复「30」HP。"
       },
       {
-        "name": "燃燒之聲",
-        "effect": "減少這隻寶可夢身上放置的傷害指示物的數量×10點傷害。"
+        "name": "燃烧之声",
+        "effect": "减少这只宝可梦身上放置的伤害指示物的数量×10点伤害。"
       },
       {
-        "name": "[ex規則]",
-        "effect": "寶可夢【ex】【昏厥】時，對手獲得2張獎賞卡。"
+        "name": "[ex规则]",
+        "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Fire"
   },
   {
     "id": "8025",
@@ -756,10 +830,12 @@
       }
     ],
     "extraInformation": [
-      "No.935小火星寶可夢",
-      "身高0.6/體重10.5",
-      "生命寄宿在燃燒的木炭上變成了寶可夢。即使敵人再強，也會以燃燒的鬥志迎面而戰。"
-    ]
+      "No.935小火星宝可梦",
+      "身高0.6/体重10.5",
+      "生命寄宿在燃烧的木炭上变成了宝可梦。即使敌人再强，也会以燃烧的斗志迎面而战。"
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Fire"
   },
   {
     "id": "8026",
@@ -768,7 +844,7 @@
     "cardName": "炭小侍",
     "skillList": [
       {
-        "name": "火種",
+        "name": "火种",
         "effect": ""
       },
       {
@@ -777,250 +853,276 @@
       }
     ],
     "extraInformation": [
-      "No.935小火星寶可夢",
-      "身高0.6/體重10.5",
-      "生命寄宿在燃燒的木炭上變成了寶可夢。即使敵人再強，也會以燃燒的鬥志迎面而戰。"
-    ]
+      "No.935小火星宝可梦",
+      "身高0.6/体重10.5",
+      "生命寄宿在燃烧的木炭上变成了宝可梦。即使敌人再强，也会以燃烧的斗志迎面而战。"
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Fire"
   },
   {
     "id": "8027",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/8027/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008027.png",
-    "cardName": "古玉魚ex",
+    "cardName": "古玉鱼ex",
     "skillList": [
       {
-        "name": "嫉妒灼燒",
-        "effect": "將對手的牌庫上方2張卡丟棄。"
+        "name": "嫉妒灼烧",
+        "effect": "将对手的牌库上方2张卡丢弃。"
       },
       {
         "name": "火焰巨浪",
-        "effect": "選擇最多3隻自己的備戰寶可夢，從牌庫附給那些寶可夢各1張「基本【火】能量」卡。並且重洗牌庫。"
+        "effect": "选择最多3只自己的备战宝可梦，从牌库附给那些宝可梦各1张「基本【火】能量」卡。并且重洗牌库。"
       },
       {
-        "name": "[ex規則]",
-        "effect": "寶可夢【ex】【昏厥】時，對手獲得2張獎賞卡。"
+        "name": "[ex规则]",
+        "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
     ],
     "extraInformation": [
       "No.1004",
       "",
       ""
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Fire"
   },
   {
     "id": "7888",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7888/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007888.png",
     "extraInformation": [
-      "No.128暴牛寶可夢",
-      "身高1.4/體重110.0",
-      "會從角噴出水來游泳。脂肪含量高而容易浮在水上是水瀾種的特徵。"
+      "No.128暴牛宝可梦",
+      "身高1.4/体重110.0",
+      "会从角喷出水来游泳。脂肪含量高而容易浮在水上是水澜种的特征。"
     ],
-    "cardName": "帕底亞 肯泰羅",
+    "cardName": "帕底亚 肯泰罗",
     "skillList": [
       {
-        "name": "憤怒之角",
-        "effect": "增加這隻寶可夢身上放置的傷害指示物的數量×10點傷害。"
+        "name": "愤怒之角",
+        "effect": "增加这只宝可梦身上放置的伤害指示物的数量×10点伤害。"
       },
       {
-        "name": "水俯衝",
-        "effect": "對手的1隻寶可夢受到60點傷害。[在備戰區不計算弱點・抵抗力。]"
+        "name": "水俯冲",
+        "effect": "对手的1只宝可梦受到60点伤害。[在备战区不计算弱点・抵抗力。]"
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Water"
   },
   {
     "id": "7889",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7889/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007889.png",
     "extraInformation": [
-      "No.129魚寶可夢",
-      "身高0.9/體重10.0",
-      "沒力量的可憐寶可夢。偶爾跳得比較高時，也只是勉強高過2公尺而已。"
+      "No.129鱼宝可梦",
+      "身高0.9/体重10.0",
+      "没力量的可怜宝可梦。偶尔跳得比较高时，也只是勉强高过2公尺而已。"
     ],
-    "cardName": "鯉魚王",
+    "cardName": "鲤鱼王",
     "skillList": [
       {
-        "name": "跳躍高手",
-        "effect": "擲2次硬幣，若全部為正面，則增加20點傷害。"
+        "name": "跳跃高手",
+        "effect": "掷2次硬币，若全部为正面，则增加20点伤害。"
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Water"
   },
   {
     "id": "7890",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7890/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007890.png",
     "extraInformation": [
-      "No.130凶惡寶可夢",
-      "身高6.5/體重235.0",
-      "據說暴鯉龍一旦現身，如果不把周圍的一切都燃燒殆盡，怒火就不會平息。"
+      "No.130凶恶宝可梦",
+      "身高6.5/体重235.0",
+      "据说暴鲤龙一旦现身，如果不把周围的一切都燃烧殆尽，怒火就不会平息。"
     ],
-    "cardName": "暴鯉龍",
+    "cardName": "暴鲤龙",
     "skillList": [
       {
-        "name": "復仇風暴",
-        "effect": "若自己剩餘獎賞卡的張數，比對手剩餘獎賞卡的張數多，則增加100點傷害。"
+        "name": "复仇风暴",
+        "effect": "若自己剩余奖赏卡的张数，比对手剩余奖赏卡的张数多，则增加100点伤害。"
       },
       {
-        "name": "暴亂衝撞",
-        "effect": "這隻寶可夢也受到50點傷害。"
+        "name": "暴乱冲撞",
+        "effect": "这只宝可梦也受到50点伤害。"
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Water"
   },
   {
     "id": "7956",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7956/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007956.png",
     "extraInformation": [
-      "No.183水鼠寶可夢",
-      "身高0.4/體重8.5",
-      "全身的體毛有著能將水彈開的特性，所以就算碰到水也不會弄濕。"
+      "No.183水鼠宝可梦",
+      "身高0.4/体重8.5",
+      "全身的体毛有著能将水弹开的特性，所以就算碰到水也不会弄湿。"
     ],
-    "cardName": "瑪力露",
+    "cardName": "玛力露",
     "skillList": [
       {
         "name": "泡沫吸取",
-        "effect": "將這隻寶可夢恢復「20」HP。"
+        "effect": "将这只宝可梦恢复「20」HP。"
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Water"
   },
   {
     "id": "7957",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7957/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007957.png",
     "extraInformation": [
-      "No.184水兔寶可夢",
-      "身高0.8/體重28.5",
-      "長長的耳朵是靈敏的感應器。能夠藉著聆聽水中的聲音來分辨出是什麼在動。"
+      "No.184水兔宝可梦",
+      "身高0.8/体重28.5",
+      "长长的耳朵是灵敏的感应器。能够藉著聆听水中的声音来分辨出是什么在动。"
     ],
-    "cardName": "瑪力露麗",
+    "cardName": "玛力露丽",
     "skillList": [
       {
         "name": "泡沫吸取",
-        "effect": "將這隻寶可夢恢復「30」HP。"
+        "effect": "将这只宝可梦恢复「30」HP。"
       },
       {
         "name": "摔打",
-        "effect": "擲2次硬幣，造成正面出現的次數×100點傷害。"
+        "effect": "掷2次硬币，造成正面出现的次数×100点伤害。"
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Water"
   },
   {
     "id": "7891",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7891/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007891.png",
     "extraInformation": [
-      "No.225搬運寶可夢",
-      "身高0.9/體重16.0",
-      "一整天都在搬運食物。據說曾經有遇難的人因為信使鳥的食物而得救。"
+      "No.225搬运宝可梦",
+      "身高0.9/体重16.0",
+      "一整天都在搬运食物。据说曾经有遇难的人因为信使鸟的食物而得救。"
     ],
-    "cardName": "信使鳥",
+    "cardName": "信使鸟",
     "skillList": [
       {
-        "name": "雙重抽出",
-        "effect": "從自己的牌庫抽出2張卡。"
+        "name": "双重抽出",
+        "effect": "从自己的牌库抽出2张卡。"
       },
       {
         "name": "冰之翼",
         "effect": ""
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Water"
   },
   {
     "id": "7958",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7958/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007958.png",
     "extraInformation": [
-      "No.370相隨寶可夢",
-      "身高0.6/體重8.7",
-      "心形的外型很受歡迎。有些地方仍留有送愛心魚給心上人的習俗。"
+      "No.370相随宝可梦",
+      "身高0.6/体重8.7",
+      "心形的外型很受欢迎。有些地方仍留有送爱心鱼给心上人的习俗。"
     ],
-    "cardName": "愛心魚",
+    "cardName": "爱心鱼",
     "skillList": [
       {
         "name": "匹配",
-        "effect": "從自己的牌庫選擇最多2張支援者卡，在給對手看過後加入手牌。並且重洗牌庫。"
+        "effect": "从自己的牌库选择最多2张支援者卡，在给对手看过后加入手牌。并且重洗牌库。"
       },
       {
-        "name": "水之波動",
-        "effect": "將對手的戰鬥寶可夢【睡眠】。"
+        "name": "水之波动",
+        "effect": "将对手的战斗宝可梦【睡眠】。"
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Water"
   },
   {
     "id": "7959",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7959/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007959.png",
     "extraInformation": [
-      "No.875企鵝寶可夢",
-      "身高1.4/體重89",
-      "在氣溫高的日子裡，會把頭的冰塊和夥伴們的緊貼在一起，冰鎮彼此來度日。"
+      "No.875企鹅宝可梦",
+      "身高1.4/体重89",
+      "在气温高的日子里，会把头的冰块和伙伴们的紧贴在一起，冰镇彼此来度日。"
     ],
-    "cardName": "冰砌鵝",
+    "cardName": "冰砌鹅",
     "skillList": [
       {
-        "name": "頭錘",
+        "name": "头锤",
         "effect": ""
       },
       {
-        "name": "冰之障礙",
-        "effect": "將這隻寶可夢身上附加的能量卡全部丟棄。在下個對手的回合，這隻寶可夢受到招式的傷害「-100」點。"
+        "name": "冰之障碍",
+        "effect": "将这只宝可梦身上附加的能量卡全部丢弃。在下个对手的回合，这只宝可梦受到招式的伤害「-100」点。"
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Water"
   },
   {
     "id": "7894",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7894/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007894.png",
     "extraInformation": [
-      "No.912小鴨寶可夢",
-      "身高0.5/體重6.1",
-      "很久以前從遠方來到了這裡棲息。羽毛分泌出的凝膠有防水和防污的效果。"
+      "No.912小鸭宝可梦",
+      "身高0.5/体重6.1",
+      "很久以前从远方来到了这里栖息。羽毛分泌出的凝胶有防水和防污的效果。"
     ],
-    "cardName": "潤水鴨",
+    "cardName": "润水鸭",
     "skillList": [
       {
-        "name": "潑膠",
-        "effect": "在下個對手的回合，受到這個招式的寶可夢使用招式時，對手擲1次硬幣。若為反面，則那個招式失敗。"
+        "name": "泼胶",
+        "effect": "在下个对手的回合，受到这个招式的宝可梦使用招式时，对手掷1次硬币。若为反面，则那个招式失败。"
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Water"
   },
   {
     "id": "7895",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7895/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007895.png",
     "extraInformation": [
-      "No.912小鴨寶可夢",
-      "身高0.5/體重6.1",
-      "很久以前從遠方來到了這裡棲息。羽毛分泌出的凝膠有防水和防污的效果。"
+      "No.912小鸭宝可梦",
+      "身高0.5/体重6.1",
+      "很久以前从远方来到了这里栖息。羽毛分泌出的凝胶有防水和防污的效果。"
     ],
-    "cardName": "潤水鴨",
+    "cardName": "润水鸭",
     "skillList": [
       {
-        "name": "突擊",
-        "effect": "這隻寶可夢也受到10點傷害。"
+        "name": "突击",
+        "effect": "这只宝可梦也受到10点伤害。"
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Water"
   },
   {
     "id": "7896",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7896/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007896.png",
     "extraInformation": [
-      "No.913習藝寶可夢",
-      "身高1.2/體重21.5",
-      "會在淺灘不斷跑步來鍛鍊下盤的筋骨，好跟夥伴們競爭誰的腿技最為華麗。"
+      "No.913习艺宝可梦",
+      "身高1.2/体重21.5",
+      "会在浅滩不断跑步来锻炼下盘的筋骨，好跟伙伴们竞争谁的腿技最为华丽。"
     ],
-    "cardName": "湧躍鴨",
+    "cardName": "涌跃鸭",
     "skillList": [
       {
-        "name": "水槍",
+        "name": "水枪",
         "effect": ""
       },
       {
-        "name": "飛濺",
+        "name": "飞溅",
         "effect": ""
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Water"
   },
   {
     "id": "7897",
@@ -1031,129 +1133,141 @@
       "",
       ""
     ],
-    "cardName": "狂歡浪舞鴨ex",
+    "cardName": "狂欢浪舞鸭ex",
     "skillList": [
       {
-        "name": "激動森巴",
-        "effect": "將這隻寶可夢與備戰寶可夢互換。然後，對手將對手自己的戰鬥寶可夢與備戰寶可夢互換。"
+        "name": "激动森巴",
+        "effect": "将这只宝可梦与备战宝可梦互换。然后，对手将对手自己的战斗宝可梦与备战宝可梦互换。"
       },
       {
-        "name": "螺旋射擊",
-        "effect": "選擇2個這隻寶可夢身上附加的能量，放回手牌。"
+        "name": "螺旋射击",
+        "effect": "选择2个这只宝可梦身上附加的能量，放回手牌。"
       },
       {
-        "name": "[ex規則]",
-        "effect": "寶可夢【ex】【昏厥】時，對手獲得2張獎賞卡。"
+        "name": "[ex规则]",
+        "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Water"
   },
   {
     "id": "7960",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7960/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007960.png",
     "extraInformation": [
-      "No.974陸鯨寶可夢",
-      "身高1.2/體重45",
-      "遠古時代自大海上岸後，就開始在陸地上生活。似乎與吼吼鯨是相近的物種。"
+      "No.974陆鲸宝可梦",
+      "身高1.2/体重45",
+      "远古时代自大海上岸后，就开始在陆地上生活。似乎与吼吼鲸是相近的物种。"
     ],
-    "cardName": "走鯨",
+    "cardName": "走鲸",
     "skillList": [
       {
         "name": "雪崩",
-        "effect": "對手的所有備戰寶可夢也各受到10點傷害。[在備戰區不計算弱點・抵抗力。]"
+        "effect": "对手的所有备战宝可梦也各受到10点伤害。[在备战区不计算弱点・抵抗力。]"
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Water"
   },
   {
     "id": "7961",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7961/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007961.png",
     "extraInformation": [
-      "No.974陸鯨寶可夢",
-      "身高1.2/體重45",
-      "遠古時代自大海上岸後，就開始在陸地上生活。似乎與吼吼鯨是相近的物種。"
+      "No.974陆鲸宝可梦",
+      "身高1.2/体重45",
+      "远古时代自大海上岸后，就开始在陆地上生活。似乎与吼吼鲸是相近的物种。"
     ],
-    "cardName": "走鯨",
+    "cardName": "走鲸",
     "skillList": [
       {
-        "name": "睡覺",
-        "effect": "將這隻寶可夢【睡眠】。將這隻寶可夢恢復「60」HP。"
+        "name": "睡觉",
+        "effect": "将这只宝可梦【睡眠】。将这只宝可梦恢复「60」HP。"
       },
       {
-        "name": "捨身衝撞",
-        "effect": "這隻寶可夢也受到10點傷害。"
+        "name": "舍身冲撞",
+        "effect": "这只宝可梦也受到10点伤害。"
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Water"
   },
   {
     "id": "7962",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7962/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007962.png",
     "extraInformation": [
-      "No.975陸鯨寶可夢",
-      "身高4.5/體重700",
-      "迴游在冰雪地帶的寶可夢。會用強韌的肌肉和厚實的皮下脂肪保護自己的身體。"
+      "No.975陆鲸宝可梦",
+      "身高4.5/体重700",
+      "回游在冰雪地带的宝可梦。会用强韧的肌肉和厚实的皮下脂肪保护自己的身体。"
     ],
-    "cardName": "浩大鯨",
+    "cardName": "浩大鲸",
     "skillList": [
       {
-        "name": "冰柱飛彈",
+        "name": "冰柱飞弹",
         "effect": ""
       },
       {
-        "name": "特殊角擊",
-        "effect": "若這隻寶可夢身上附有特殊能量卡，則增加140點傷害。"
+        "name": "特殊角击",
+        "effect": "若这只宝可梦身上附有特殊能量卡，则增加140点伤害。"
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Water"
   },
   {
     "id": "7963",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7963/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007963.png",
     "extraInformation": [
-      "No.976卸除寶可夢",
-      "身高2.5/體重90",
-      "捨棄不必要的肉，能使其心靈受到磨練，精神力量得以提升。贅肉滋味清淡，但卻相當可口。"
+      "No.976卸除宝可梦",
+      "身高2.5/体重90",
+      "舍弃不必要的肉，能使其心灵受到磨练，精神力量得以提升。赘肉滋味清淡，但却相当可口。"
     ],
-    "cardName": "輕身鱈",
+    "cardName": "轻身鳕",
     "skillList": [
       {
-        "name": "衝撞",
+        "name": "冲撞",
         "effect": ""
       },
       {
-        "name": "纖細螺旋",
-        "effect": "若自己1張手牌都沒有，則這個招式只需要1個【水】能量即可使用。"
+        "name": "纤细螺旋",
+        "effect": "若自己1张手牌都没有，则这个招式只需要1个【水】能量即可使用。"
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Water"
   },
   {
     "id": "7964",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7964/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007964.png",
     "extraInformation": [
-      "No.996冰鰭寶可夢",
-      "身高0.5/體重17",
-      "會用背鰭吸收熱能以轉換成冰之能量。溫度越高，累積的能量就越多。"
+      "No.996冰鳍宝可梦",
+      "身高0.5/体重17",
+      "会用背鳍吸收热能以转换成冰之能量。温度越高，累积的能量就越多。"
     ],
-    "cardName": "涼脊龍",
+    "cardName": "凉脊龙",
     "skillList": [
       {
-        "name": "撞擊",
+        "name": "撞击",
         "effect": ""
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Water"
   },
   {
     "id": "7965",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7965/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007965.png",
     "extraInformation": [
-      "No.996冰鰭寶可夢",
-      "身高0.5/體重17",
-      "會用背鰭吸收熱能以轉換成冰之能量。溫度越高，累積的能量就越多。"
+      "No.996冰鳍宝可梦",
+      "身高0.5/体重17",
+      "会用背鳍吸收热能以转换成冰之能量。温度越高，累积的能量就越多。"
     ],
-    "cardName": "涼脊龍",
+    "cardName": "凉脊龙",
     "skillList": [
       {
         "name": "寒意",
@@ -1163,49 +1277,55 @@
         "name": "咬住",
         "effect": ""
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Water"
   },
   {
     "id": "7966",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7966/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007966.png",
     "extraInformation": [
-      "No.997冰鰭寶可夢",
-      "身高0.8/體重30",
-      "凍結周圍的空氣，以冰之面罩保護臉部，並將背鰭變成冰劍。"
+      "No.997冰鳍宝可梦",
+      "身高0.8/体重30",
+      "冻结周围的空气，以冰之面罩保护脸部，并将背鳍变成冰剑。"
     ],
-    "cardName": "凍脊龍",
+    "cardName": "冻脊龙",
     "skillList": [
       {
-        "name": "銳利鰭",
+        "name": "锐利鳍",
         "effect": ""
       },
       {
         "name": "冰霜粉碎",
         "effect": ""
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Water"
   },
   {
     "id": "7967",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7967/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007967.png",
     "extraInformation": [
-      "No.998冰龍寶可夢",
-      "身高2.1/體重210",
-      "會從嘴裡噴射極低溫的冷氣。即使是灼熱的熔岩也能使其在一瞬間變成冰塊。"
+      "No.998冰龙宝可梦",
+      "身高2.1/体重210",
+      "会从嘴里喷射极低温的冷气。即使是灼热的熔岩也能使其在一瞬间变成冰块。"
     ],
-    "cardName": "戟脊龍",
+    "cardName": "戟脊龙",
     "skillList": [
       {
-        "name": "[特性]極低溫",
-        "effect": "在自己的回合時，可不限次數使用。從自己的手牌選擇1張「基本【水】能量」卡，附於自己的寶可夢身上。"
+        "name": "[特性]极低温",
+        "effect": "在自己的回合时，可不限次数使用。从自己的手牌选择1张「基本【水】能量」卡，附于自己的宝可梦身上。"
       },
       {
         "name": "光炮尾",
         "effect": ""
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Water"
   },
   {
     "id": "7968",
@@ -1216,21 +1336,23 @@
       "",
       ""
     ],
-    "cardName": "古劍豹ex",
+    "cardName": "古剑豹ex",
     "skillList": [
       {
-        "name": "[特性]戰慄寒氣",
-        "effect": "若這隻寶可夢在戰鬥場上，則在自己的回合時可使用1次。從自己的牌庫選擇最多2張「基本【水】能量」卡，在給對手看過後加入手牌。並且重洗牌庫。"
+        "name": "[特性]战栗寒气",
+        "effect": "若这只宝可梦在战斗场上，则在自己的回合时可使用1次。从自己的牌库选择最多2张「基本【水】能量」卡，在给对手看过后加入手牌。并且重洗牌库。"
       },
       {
         "name": "冰雹利刃",
-        "effect": "將自己的場上寶可夢身上附加的任意數量的【水】能量卡丟棄，造成其張數×60點傷害。"
+        "effect": "将自己的场上宝可梦身上附加的任意数量的【水】能量卡丢弃，造成其张数×60点伤害。"
       },
       {
-        "name": "[ex規則]",
-        "effect": "寶可夢【ex】【昏厥】時，對手獲得2張獎賞卡。"
+        "name": "[ex规则]",
+        "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Water"
   },
   {
     "id": "8028",
@@ -1239,8 +1361,8 @@
     "cardName": "皮卡丘",
     "skillList": [
       {
-        "name": "叫聲",
-        "effect": "在下個對手的回合，受到這個招式的寶可夢使用招式的傷害「-20」點。"
+        "name": "叫声",
+        "effect": "在下个对手的回合，受到这个招式的宝可梦使用招式的伤害「-20」点。"
       },
       {
         "name": "皮卡伏特",
@@ -1248,10 +1370,12 @@
       }
     ],
     "extraInformation": [
-      "No.25鼠寶可夢",
-      "身高0.4/體重6.0",
-      "雙頰上有儲存電力的囊袋。一旦生氣就會把儲存的電力一口氣釋放出來。"
-    ]
+      "No.25鼠宝可梦",
+      "身高0.4/体重6.0",
+      "双颊上有储存电力的囊袋。一旦生气就会把储存的电力一口气释放出来。"
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Lightning"
   },
   {
     "id": "8090",
@@ -1264,19 +1388,21 @@
         "effect": ""
       },
       {
-        "name": "極限伏特",
-        "effect": "擲1次硬幣若為反面，則將這隻寶可夢身上附加的能量全部丟棄。"
+        "name": "极限伏特",
+        "effect": "掷1次硬币若为反面，则将这只宝可梦身上附加的能量全部丢弃。"
       },
       {
-        "name": "[ex規則]",
-        "effect": "寶可夢【ex】【昏厥】時，對手獲得2張獎賞卡。"
+        "name": "[ex规则]",
+        "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
     ],
     "extraInformation": [
       "No.25",
       "",
       ""
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Lightning"
   },
   {
     "id": "8029",
@@ -1285,19 +1411,21 @@
     "cardName": "雷丘",
     "skillList": [
       {
-        "name": "電氣充能",
-        "effect": "從自己的牌庫選擇最多2張「基本【雷】能量」卡，附於這隻寶可夢身上。並且重洗牌庫。"
+        "name": "电气充能",
+        "effect": "从自己的牌库选择最多2张「基本【雷】能量」卡，附于这只宝可梦身上。并且重洗牌库。"
       },
       {
-        "name": "十萬伏特",
-        "effect": "將這隻寶可夢身上附加的能量卡全部丟棄。"
+        "name": "十万伏特",
+        "effect": "将这只宝可梦身上附加的能量卡全部丢弃。"
       }
     ],
     "extraInformation": [
-      "No.26鼠寶可夢",
-      "身高0.8/體重30.0",
-      "尾巴會發揮接地線的作用把電氣導入地面，所以自己不會被電得發麻。"
-    ]
+      "No.26鼠宝可梦",
+      "身高0.8/体重30.0",
+      "尾巴会发挥接地线的作用把电气导入地面，所以自己不会被电得发麻。"
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Lightning"
   },
   {
     "id": "8091",
@@ -1306,8 +1434,8 @@
     "cardName": "小磁怪",
     "skillList": [
       {
-        "name": "磁力蓄電",
-        "effect": "從自己的棄牌區選擇最多2張「基本【雷】能量」卡，附於1隻備戰寶可夢身上。"
+        "name": "磁力蓄电",
+        "effect": "从自己的弃牌区选择最多2张「基本【雷】能量」卡，附于1只备战宝可梦身上。"
       },
       {
         "name": "高速球",
@@ -1315,229 +1443,253 @@
       }
     ],
     "extraInformation": [
-      "No.81磁鐵寶可夢",
-      "身高0.3/體重6",
-      "從左右兩邊的組件發出的電磁波能阻礙重力，使牠浮在空中。"
-    ]
+      "No.81磁铁宝可梦",
+      "身高0.3/体重6",
+      "从左右两边的组件发出的电磁波能阻碍重力，使牠浮在空中。"
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Lightning"
   },
   {
     "id": "8092",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/8092/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008092.png",
-    "cardName": "霹靂電球",
+    "cardName": "霹雳电球",
     "skillList": [
       {
-        "name": "光彈",
+        "name": "光弹",
         "effect": ""
       },
       {
-        "name": "滾動",
+        "name": "滚动",
         "effect": ""
       }
     ],
     "extraInformation": [
-      "No.100球寶可夢",
-      "身高0.5/體重10.4",
-      "靠著翻滾身體來移動，如果地面凹凸不平，就會受到衝擊而爆炸。"
-    ]
+      "No.100球宝可梦",
+      "身高0.5/体重10.4",
+      "靠著翻滚身体来移动，如果地面凹凸不平，就会受到冲击而爆炸。"
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Lightning"
   },
   {
     "id": "8093",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/8093/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008093.png",
-    "cardName": "頑皮雷彈",
+    "cardName": "顽皮雷弹",
     "skillList": [
       {
-        "name": "光彈",
+        "name": "光弹",
         "effect": ""
       },
       {
-        "name": "滾動衝撞",
+        "name": "滚动冲撞",
         "effect": ""
       }
     ],
     "extraInformation": [
-      "No.101球寶可夢",
-      "身高1.2/體重66.6",
-      "雖然儲存的電能越多，移動的速度也會變得越快，但同時也會變得更容易爆炸。"
-    ]
+      "No.101球宝可梦",
+      "身高1.2/体重66.6",
+      "虽然储存的电能越多，移动的速度也会变得越快，但同时也会变得更容易爆炸。"
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Lightning"
   },
   {
     "id": "8094",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/8094/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008094.png",
     "extraInformation": [
-      "No.403閃光寶可夢",
-      "身高0.5/體重9.5",
-      "每當活動身體時，肌肉的伸縮會產生電流。當遇上危機時，身體會發光。"
+      "No.403闪光宝可梦",
+      "身高0.5/体重9.5",
+      "每当活动身体时，肌肉的伸缩会产生电流。当遇上危机时，身体会发光。"
     ],
-    "cardName": "小貓怪",
+    "cardName": "小猫怪",
     "skillList": [
       {
         "name": "[特性]大吼叫",
-        "effect": "若這隻寶可夢在戰鬥場上，則在自己的回合時可使用1次。將對手的戰鬥寶可夢與備戰寶可夢互換。[由對手選擇放置於戰鬥場的寶可夢。]"
+        "effect": "若这只宝可梦在战斗场上，则在自己的回合时可使用1次。将对手的战斗宝可梦与备战宝可梦互换。[由对手选择放置于战斗场的宝可梦。]"
       },
       {
-        "name": "衝撞",
+        "name": "冲撞",
         "effect": ""
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Lightning"
   },
   {
     "id": "8030",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/8030/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008030.png",
-    "cardName": "小貓怪",
+    "cardName": "小猫怪",
     "skillList": [
       {
         "name": "踹",
-        "effect": "擲1次硬幣若為反面，則這個招式失敗。"
+        "effect": "掷1次硬币若为反面，则这个招式失败。"
       }
     ],
     "extraInformation": [
-      "No.403閃光寶可夢",
-      "身高0.5/體重9.5",
-      "每當活動身體時，肌肉的伸縮會產生電流。當遇上危機時，身體會發光。"
-    ]
+      "No.403闪光宝可梦",
+      "身高0.5/体重9.5",
+      "每当活动身体时，肌肉的伸缩会产生电流。当遇上危机时，身体会发光。"
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Lightning"
   },
   {
     "id": "8031",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/8031/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008031.png",
-    "cardName": "勒克貓",
+    "cardName": "勒克猫",
     "skillList": [
       {
-        "name": "電氣踢",
+        "name": "电气踢",
         "effect": ""
       },
       {
-        "name": "伏特頭擊",
+        "name": "伏特头击",
         "effect": ""
       }
     ],
     "extraInformation": [
-      "No.404電光寶可夢",
-      "身高0.9/體重30.5",
-      "在銳利的爪子尖端有強烈的電流流過，只要稍微擦到，就能讓敵人暈厥。"
-    ]
+      "No.404电光宝可梦",
+      "身高0.9/体重30.5",
+      "在锐利的爪子尖端有强烈的电流流过，只要稍微擦到，就能让敌人晕厥。"
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Lightning"
   },
   {
     "id": "8032",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/8032/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008032.png",
-    "cardName": "倫琴貓",
+    "cardName": "伦琴猫",
     "skillList": [
       {
-        "name": "[特性]充溢閃光",
-        "effect": "在自己的回合，若手牌有這張卡，且自己剩餘獎賞卡的張數，比對手剩餘獎賞卡的張數多，則可使用1次。將這張卡放置於備戰區。"
+        "name": "[特性]充溢闪光",
+        "effect": "在自己的回合，若手牌有这张卡，且自己剩余奖赏卡的张数，比对手剩余奖赏卡的张数多，则可使用1次。将这张卡放置于备战区。"
       },
       {
-        "name": "瘋狂伏特",
-        "effect": "這隻寶可夢也受到20點傷害。"
+        "name": "疯狂伏特",
+        "effect": "这只宝可梦也受到20点伤害。"
       }
     ],
     "extraInformation": [
-      "No.405目光寶可夢",
-      "身高1.4/體重42.0",
-      "擁有能看見牆壁另一側的力量，除了可以用來追捕逃跑的獵物，還可以用來尋找迷路的孩子。"
-    ]
+      "No.405目光宝可梦",
+      "身高1.4/体重42.0",
+      "拥有能看见墙壁另一侧的力量，除了可以用来追捕逃跑的猎物，还可以用来寻找迷路的孩子。"
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Lightning"
   },
   {
     "id": "8095",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/8095/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008095.png",
     "extraInformation": [
-      "No.871海膽寶可夢",
-      "身高0.3/體重1",
-      "消化食物時會製造出電力。５顆堅硬的牙齒能用來把海藻連根拔起來吃。"
+      "No.871海胆宝可梦",
+      "身高0.3/体重1",
+      "消化食物时会制造出电力。5颗坚硬的牙齿能用来把海藻连根拔起来吃。"
     ],
-    "cardName": "啪嚓海膽",
+    "cardName": "啪嚓海胆",
     "skillList": [
       {
         "name": "尖刺粉碎",
-        "effect": "選擇1個對手的戰鬥寶可夢身上附加的能量，將其丟棄。"
+        "effect": "选择1个对手的战斗宝可梦身上附加的能量，将其丢弃。"
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Lightning"
   },
   {
     "id": "8033",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/8033/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008033.png",
-    "cardName": "啪嚓海膽",
+    "cardName": "啪嚓海胆",
     "skillList": [
       {
-        "name": "麻痺針",
-        "effect": "擲1次硬幣若為正面，則將對手的戰鬥寶可夢【麻痺】。"
+        "name": "麻痺针",
+        "effect": "掷1次硬币若为正面，则将对手的战斗宝可梦【麻痺】。"
       },
       {
-        "name": "啪啪追擊",
-        "effect": "這個招式必須在上個自己的回合這隻寶可夢使用了「麻痺針」才可使用。"
+        "name": "啪啪追击",
+        "effect": "这个招式必须在上个自己的回合这只宝可梦使用了「麻痺针」才可使用。"
       }
     ],
     "extraInformation": [
-      "No.871海膽寶可夢",
-      "身高0.3/體重1.0",
-      "消化食物時會製造出電力。５顆堅硬的牙齒能用來把海藻連根拔起來吃。"
-    ]
+      "No.871海胆宝可梦",
+      "身高0.3/体重1.0",
+      "消化食物时会制造出电力。5颗坚硬的牙齿能用来把海藻连根拔起来吃。"
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Lightning"
   },
   {
     "id": "8096",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/8096/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008096.png",
     "extraInformation": [
-      "No.921鼠寶可夢",
-      "身高0.3/體重2.5",
-      "臉頰上的電囊尚未發達。必須拼命摩擦前腳的肉球，才終於能製造出電力。"
+      "No.921鼠宝可梦",
+      "身高0.3/体重2.5",
+      "脸颊上的电囊尚未发达。必须拼命摩擦前脚的肉球，才终于能制造出电力。"
     ],
-    "cardName": "布撥",
+    "cardName": "布拨",
     "skillList": [
       {
         "name": "劈哩啪啦",
         "effect": ""
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Lightning"
   },
   {
     "id": "8097",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/8097/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008097.png",
     "extraInformation": [
-      "No.922鼠寶可夢",
-      "身高0.4/體重6.5",
-      "當群體受到襲擊的時候，會率先挑起戰鬥，以結合了電擊的格鬥技撂倒敵人。"
+      "No.922鼠宝可梦",
+      "身高0.4/体重6.5",
+      "当群体受到袭击的时候，会率先挑起战斗，以结合了电击的格斗技撂倒敌人。"
     ],
-    "cardName": "布土撥",
+    "cardName": "布土拨",
     "skillList": [
       {
         "name": "劈哩啪啦",
         "effect": ""
       },
       {
-        "name": "電氣子彈",
-        "effect": "對手的1隻備戰寶可夢也受到30點傷害。[在備戰區不計算弱點・抵抗力。]"
+        "name": "电气子弹",
+        "effect": "对手的1只备战宝可梦也受到30点伤害。[在备战区不计算弱点・抵抗力。]"
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Lightning"
   },
   {
     "id": "8098",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/8098/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008098.png",
     "extraInformation": [
-      "No.923押掌寶可夢",
-      "身高0.9/體重41",
-      "雖然平時動作慢吞吞的，但在逼不得已要面對戰鬥時，會用迅雷不及掩耳的身手擊潰敵人。"
+      "No.923押掌宝可梦",
+      "身高0.9/体重41",
+      "虽然平时动作慢吞吞的，但在逼不得已要面对战斗时，会用迅雷不及掩耳的身手击溃敌人。"
     ],
-    "cardName": "巴布土撥",
+    "cardName": "巴布土拨",
     "skillList": [
       {
         "name": "音速伏特",
         "effect": ""
       },
       {
-        "name": "電氣拳",
-        "effect": "對手的1隻備戰寶可夢也受到60點傷害。[在備戰區不計算弱點・抵抗力。]"
+        "name": "电气拳",
+        "effect": "对手的1只备战宝可梦也受到60点伤害。[在备战区不计算弱点・抵抗力。]"
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Lightning"
   },
   {
     "id": "8034",
@@ -1546,15 +1698,17 @@
     "cardName": "光蚪仔",
     "skillList": [
       {
-        "name": "電磁波",
-        "effect": "擲1次硬幣若為正面，則將對手的戰鬥寶可夢【麻痺】。"
+        "name": "电磁波",
+        "effect": "掷1次硬币若为正面，则将对手的战斗宝可梦【麻痺】。"
       }
     ],
     "extraInformation": [
-      "No.938電蝌蚪寶可夢",
-      "身高0.3/體重0.4",
-      "會搖尾巴來發電。感覺到有危險時，會閃爍頭部通知夥伴。"
-    ]
+      "No.938电蝌蚪宝可梦",
+      "身高0.3/体重0.4",
+      "会摇尾巴来发电。感觉到有危险时，会闪烁头部通知伙伴。"
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Lightning"
   },
   {
     "id": "8035",
@@ -1572,98 +1726,108 @@
       }
     ],
     "extraInformation": [
-      "No.938電蝌蚪寶可夢",
-      "身高0.3/體重0.4",
-      "會搖尾巴來發電。感覺到有危險時，會閃爍頭部通知夥伴。"
-    ]
+      "No.938电蝌蚪宝可梦",
+      "身高0.3/体重0.4",
+      "会摇尾巴来发电。感觉到有危险时，会闪烁头部通知伙伴。"
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Lightning"
   },
   {
     "id": "8036",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/8036/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008036.png",
-    "cardName": "電肚蛙ex",
+    "cardName": "电肚蛙ex",
     "skillList": [
       {
-        "name": "跳躍壓制",
-        "effect": "對手的1隻寶可夢受到50點傷害。[在備戰區不計算弱點・抵抗力。]"
+        "name": "跳跃压制",
+        "effect": "对手的1只宝可梦受到50点伤害。[在备战区不计算弱点・抵抗力。]"
       },
       {
         "name": "麻痺球",
-        "effect": "若希望，將2個這隻寶可夢身上附加的【雷】能量丟棄，將對手的戰鬥寶可夢【麻痺】。"
+        "effect": "若希望，将2个这只宝可梦身上附加的【雷】能量丢弃，将对手的战斗宝可梦【麻痺】。"
       },
       {
-        "name": "[ex規則]",
-        "effect": "寶可夢【ex】【昏厥】時，對手獲得2張獎賞卡。"
+        "name": "[ex规则]",
+        "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
     ],
     "extraInformation": [
       "No.939",
       "",
       ""
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Lightning"
   },
   {
     "id": "7898",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7898/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007898.png",
     "extraInformation": [
-      "No.940海燕寶可夢",
-      "身高0.4/體重3.6",
-      "當翅膀的骨頭受到風吹時，就能製造出電力。會衝進海裡讓獵物觸電後將其捕獲。"
+      "No.940海燕宝可梦",
+      "身高0.4/体重3.6",
+      "当翅膀的骨头受到风吹时，就能制造出电力。会冲进海里让猎物触电后将其捕获。"
     ],
-    "cardName": "電海燕",
+    "cardName": "电海燕",
     "skillList": [
       {
         "name": "啄",
         "effect": ""
       },
       {
-        "name": "團結之翼",
-        "effect": "造成自己的棄牌區的，持有「團結之翼」招式的寶可夢卡的張數×20點傷害。"
+        "name": "团结之翼",
+        "effect": "造成自己的弃牌区的，持有「团结之翼」招式的宝可梦卡的张数×20点伤害。"
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Lightning"
   },
   {
     "id": "7899",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7899/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007899.png",
     "extraInformation": [
-      "No.940海燕寶可夢",
-      "身高0.4/體重3.6",
-      "當翅膀的骨頭受到風吹時，就能製造出電力。會衝進海裡讓獵物觸電後將其捕獲。"
+      "No.940海燕宝可梦",
+      "身高0.4/体重3.6",
+      "当翅膀的骨头受到风吹时，就能制造出电力。会冲进海里让猎物触电后将其捕获。"
     ],
-    "cardName": "電海燕",
+    "cardName": "电海燕",
     "skillList": [
       {
-        "name": "揚風",
-        "effect": "對手將對手自己的手牌全部放回牌庫並重洗。然後，對手從牌庫抽出4張卡。"
+        "name": "扬风",
+        "effect": "对手将对手自己的手牌全部放回牌库并重洗。然后，对手从牌库抽出4张卡。"
       },
       {
-        "name": "羽擊",
+        "name": "羽击",
         "effect": ""
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Lightning"
   },
   {
     "id": "7900",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7900/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007900.png",
     "extraInformation": [
-      "No.941軍艦鳥寶可夢",
-      "身高1.4/體重38.6",
-      "會膨脹喉囊來增強電力。可以乘著風在１天內就飛上７００公里。"
+      "No.941军舰鸟宝可梦",
+      "身高1.4/体重38.6",
+      "会膨胀喉囊来增强电力。可以乘著风在１天内就飞上700公里。"
     ],
-    "cardName": "大電海燕",
+    "cardName": "大电海燕",
     "skillList": [
       {
         "name": "啄",
         "effect": ""
       },
       {
-        "name": "噴射之翼",
-        "effect": "在下個自己的回合，這隻寶可夢無法使用招式。"
+        "name": "喷射之翼",
+        "effect": "在下个自己的回合，这只宝可梦无法使用招式。"
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Lightning"
   },
   {
     "id": "8037",
@@ -1673,7 +1837,7 @@
     "skillList": [
       {
         "name": "唱歌",
-        "effect": "將對手的戰鬥寶可夢【睡眠】。"
+        "effect": "将对手的战斗宝可梦【睡眠】。"
       },
       {
         "name": "巴掌",
@@ -1681,10 +1845,12 @@
       }
     ],
     "extraInformation": [
-      "No.39氣球寶可夢",
-      "身高0.5/體重5.5",
-      "當牠圓圓的大眼睛轉動時，就會唱起奇妙的歌曲，讓人舒服地昏昏欲睡。"
-    ]
+      "No.39气球宝可梦",
+      "身高0.5/体重5.5",
+      "当牠圆圆的大眼睛转动时，就会唱起奇妙的歌曲，让人舒服地昏昏欲睡。"
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Psychic"
   },
   {
     "id": "8038",
@@ -1693,40 +1859,44 @@
     "cardName": "胖可丁",
     "skillList": [
       {
-        "name": "[特性] 氣球治療",
-        "effect": "在自己的回合時可使用1次。從自己的手牌選擇1張「治療能量」卡，附於自己的寶可夢身上。"
+        "name": "[特性] 气球治疗",
+        "effect": "在自己的回合时可使用1次。从自己的手牌选择1张「治疗能量」卡，附于自己的宝可梦身上。"
       },
       {
-        "name": "魔法射擊",
+        "name": "魔法射击",
         "effect": ""
       }
     ],
     "extraInformation": [
-      "No.40氣球寶可夢",
-      "身高1.0/體重12.0",
-      "擁有細緻的毛皮。小心別惹牠生氣，否則牠會不斷膨脹並朝著你壓過來。"
-    ]
+      "No.40气球宝可梦",
+      "身高1.0/体重12.0",
+      "拥有细致的毛皮。小心别惹牠生气，否则牠会不断膨胀并朝著你压过来。"
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Psychic"
   },
   {
     "id": "7969",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7969/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007969.png",
     "extraInformation": [
-      "No.79憨憨寶可夢",
-      "身高1.2/體重36",
-      "動作遲鈍且呆頭呆腦。就算挨打也得花上５秒才會感受到疼痛。"
+      "No.79憨憨宝可梦",
+      "身高1.2/体重36",
+      "动作迟钝且呆头呆脑。就算挨打也得花上5秒才会感受到疼痛。"
     ],
-    "cardName": "呆呆獸",
+    "cardName": "呆呆兽",
     "skillList": [
       {
-        "name": "尾釣",
-        "effect": "擲1次硬幣若為正面，則從自己的牌庫任意選擇1張卡加入手牌。並且重洗牌庫。若為反面，則選擇1張自己的手牌，將其丟棄。"
+        "name": "尾钓",
+        "effect": "掷1次硬币若为正面，则从自己的牌库任意选择1张卡加入手牌。并且重洗牌库。若为反面，则选择1张自己的手牌，将其丢弃。"
       },
       {
-        "name": "意念頭錘",
+        "name": "意念头锤",
         "effect": ""
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Psychic"
   },
   {
     "id": "7970",
@@ -1741,59 +1911,65 @@
     "skillList": [
       {
         "name": "[太晶]",
-        "effect": "只要這隻寶可夢在備戰區，不會受到招式的傷害。"
+        "effect": "只要这只宝可梦在备战区，不会受到招式的伤害。"
       },
       {
-        "name": "博學",
-        "effect": "將對手的戰鬥寶可夢【混亂】。"
+        "name": "博学",
+        "effect": "将对手的战斗宝可梦【混乱】。"
       },
       {
-        "name": "才智頭擊",
-        "effect": "若希望，從自己的牌庫任意選擇最多2張卡加入手牌。並且重洗牌庫。"
+        "name": "才智头击",
+        "effect": "若希望，从自己的牌库任意选择最多2张卡加入手牌。并且重洗牌库。"
       },
       {
-        "name": "[ex規則]",
-        "effect": "寶可夢【ex】【昏厥】時，對手獲得2張獎賞卡。"
+        "name": "[ex规则]",
+        "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Psychic"
   },
   {
     "id": "7901",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7901/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007901.png",
     "extraInformation": [
-      "No.200夜啼寶可夢",
-      "身高0.7/體重1.0",
-      "會在半夜嚇唬人類，然後把收集到的恐懼之心轉化成自身能量的寶可夢。"
+      "No.200夜啼宝可梦",
+      "身高0.7/体重1.0",
+      "会在半夜吓唬人类，然后把收集到的恐惧之心转化成自身能量的宝可梦。"
     ],
-    "cardName": "夢妖",
+    "cardName": "梦妖",
     "skillList": [
       {
-        "name": "催眠波動",
-        "effect": "將對手的戰鬥寶可夢【睡眠】。"
+        "name": "催眠波动",
+        "effect": "将对手的战斗宝可梦【睡眠】。"
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Psychic"
   },
   {
     "id": "7902",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7902/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007902.png",
     "extraInformation": [
-      "No.429魔法寶可夢",
-      "身高0.9/體重4.4",
-      "如同咒語般的叫聲據說也蘊藏著偶而會讓對手變得幸福的效果。"
+      "No.429魔法宝可梦",
+      "身高0.9/体重4.4",
+      "如同咒语般的叫声据说也蕴藏著偶而会让对手变得幸福的效果。"
     ],
-    "cardName": "夢妖魔",
+    "cardName": "梦妖魔",
     "skillList": [
       {
-        "name": "[特性]魔法輕彈",
-        "effect": "在自己的回合，從手牌使出這張卡並完成進化時，可使用1次。選擇1個對手的戰鬥寶可夢身上附加的能量，改附於對手的備戰寶可夢身上。"
+        "name": "[特性]魔法轻弹",
+        "effect": "在自己的回合，从手牌使出这张卡并完成进化时，可使用1次。选择1个对手的战斗宝可梦身上附加的能量，改附于对手的备战宝可梦身上。"
       },
       {
-        "name": "念動彈",
+        "name": "念动弹",
         "effect": ""
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Psychic"
   },
   {
     "id": "8039",
@@ -1802,82 +1978,90 @@
     "cardName": "花岩怪",
     "skillList": [
       {
-        "name": "[特性]漆黑降災",
-        "effect": "只要這隻寶可夢在場上，雙方場上【基礎】寶可夢的「寶可夢【V】」的特性全部消除。"
+        "name": "[特性]漆黑降灾",
+        "effect": "只要这只宝可梦在场上，双方场上【基础】宝可梦的「宝可梦【V】」的特性全部消除。"
       },
       {
-        "name": "憑空消失",
-        "effect": "將這隻寶可夢與附加的卡，全部放回手牌。"
+        "name": "凭空消失",
+        "effect": "将这只宝可梦与附加的卡，全部放回手牌。"
       }
     ],
     "extraInformation": [
-      "No.442封印寶可夢",
-      "身高1.0/體重108.0",
-      "總是作惡多端，不料有一天本體被神奇法術綁縛到了楔石上。"
-    ]
+      "No.442封印宝可梦",
+      "身高1.0/体重108.0",
+      "总是作恶多端，不料有一天本体被神奇法术绑缚到了楔石上。"
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Psychic"
   },
   {
     "id": "7971",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7971/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007971.png",
     "extraInformation": [
-      "No.574凝視寶可夢",
-      "身高0.4/體重5.8",
-      "總是一副天真無邪的樣子。看見肉眼看不見的東西時，就會眼都不眨地一語不發。"
+      "No.574凝视宝可梦",
+      "身高0.4/体重5.8",
+      "总是一副天真无邪的样子。看见肉眼看不见的东西时，就会眼都不眨地一语不发。"
     ],
-    "cardName": "哥德寶寶",
+    "cardName": "哥德宝宝",
     "skillList": [
       {
-        "name": "拍擊",
+        "name": "拍击",
         "effect": ""
       },
       {
-        "name": "不祥波動",
-        "effect": "將對手的戰鬥寶可夢【混亂】。"
+        "name": "不祥波动",
+        "effect": "将对手的战斗宝可梦【混乱】。"
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Psychic"
   },
   {
     "id": "7972",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7972/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007972.png",
     "extraInformation": [
-      "No.575操縱寶可夢",
-      "身高0.7/體重18",
-      "一定要小心星光閃閃的夜晚。因為牠會帶走被牠施了催眠術而睡著的小孩。"
+      "No.575操纵宝可梦",
+      "身高0.7/体重18",
+      "一定要小心星光闪闪的夜晚。因为牠会带走被牠施了催眠术而睡著的小孩。"
     ],
     "cardName": "哥德小童",
     "skillList": [
       {
         "name": "精神歪曲",
-        "effect": "將對手的戰鬥寶可夢【混亂】。"
+        "effect": "将对手的战斗宝可梦【混乱】。"
       },
       {
         "name": "超念力",
         "effect": ""
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Psychic"
   },
   {
     "id": "7973",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7973/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007973.png",
     "extraInformation": [
-      "No.576天體寶可夢",
-      "身高1.5/體重44",
-      "會釋放出精神力量，讓對手夢見宇宙終結的夢。內容似乎既虛幻又美麗。"
+      "No.576天体宝可梦",
+      "身高1.5/体重44",
+      "会释放出精神力量，让对手梦见宇宙终结的梦。内容似乎既虚幻又美丽。"
     ],
     "cardName": "哥德小姐",
     "skillList": [
       {
-        "name": "[特性]讀星",
-        "effect": "在自己的回合時可使用1次。查看對手的牌庫上方2張卡，選擇其中1張，放回牌庫上方。將剩餘卡放回牌庫下方。"
+        "name": "[特性]读星",
+        "effect": "在自己的回合时可使用1次。查看对手的牌库上方2张卡，选择其中1张，放回牌库上方。将剩余卡放回牌库下方。"
       },
       {
         "name": "精神出局",
-        "effect": "在不看正面的情況下，選擇1張對手的手牌，將其丟棄。"
+        "effect": "在不看正面的情况下，选择1张对手的手牌，将其丢弃。"
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Psychic"
   },
   {
     "id": "7905",
@@ -1892,42 +2076,46 @@
     "skillList": [
       {
         "name": "[太晶]",
-        "effect": "只要這隻寶可夢在備戰區，不會受到招式的傷害。"
+        "effect": "只要这只宝可梦在备战区，不会受到招式的伤害。"
       },
       {
-        "name": "長尾置換",
-        "effect": "選擇1隻自己的備戰寶可夢，將所選的寶可夢身上放置的傷害指示物，全部改放於對手的戰鬥寶可夢身上。"
+        "name": "长尾置换",
+        "effect": "选择1只自己的备战宝可梦，将所选的宝可梦身上放置的伤害指示物，全部改放于对手的战斗宝可梦身上。"
       },
       {
-        "name": "奇跡射擊",
-        "effect": "選擇1個這隻寶可夢身上附加的能量，將其丟棄。"
+        "name": "奇迹射击",
+        "effect": "选择1个这只宝可梦身上附加的能量，将其丢弃。"
       },
       {
-        "name": "[ex規則]",
-        "effect": "寶可夢【ex】【昏厥】時，對手獲得2張獎賞卡。"
+        "name": "[ex规则]",
+        "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Psychic"
   },
   {
     "id": "7906",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7906/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007906.png",
     "extraInformation": [
-      "No.756賢者寶可夢",
-      "身高1.5/體重76.0",
-      "牠對著森林的寶可夢們接二連三下達指示的樣子，讓牠以前被認為是人類。"
+      "No.756贤者宝可梦",
+      "身高1.5/体重76.0",
+      "牠对著森林的宝可梦们接二连三下达指示的样子，让牠以前被认为是人类。"
     ],
-    "cardName": "智揮猩",
+    "cardName": "智挥猩",
     "skillList": [
       {
         "name": "策士配兵",
-        "effect": "選擇1個對手的戰鬥寶可夢持有的招式。在下個對手的回合，受到這個招式的寶可夢無法使用被選擇的招式。"
+        "effect": "选择1个对手的战斗宝可梦持有的招式。在下个对手的回合，受到这个招式的宝可梦无法使用被选择的招式。"
       },
       {
         "name": "超念力",
         "effect": ""
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Psychic"
   },
   {
     "id": "8040",
@@ -1936,234 +2124,256 @@
     "cardName": "沙丘娃",
     "skillList": [
       {
-        "name": "囈語",
+        "name": "呓语",
         "effect": ""
       },
       {
-        "name": "泥巴射擊",
+        "name": "泥巴射击",
         "effect": ""
       }
     ],
     "extraInformation": [
-      "No.769沙丘寶可夢",
-      "身高0.5/體重70.0",
-      "萬一鏟子弄丟了，就會用樹枝等東西插著代替，好讓牠在找到新鏟子前能分散注意力。"
-    ]
+      "No.769沙丘宝可梦",
+      "身高0.5/体重70.0",
+      "万一铲子弄丢了，就会用树枝等东西插著代替，好让牠在找到新铲子前能分散注意力。"
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Psychic"
   },
   {
     "id": "8041",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/8041/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008041.png",
-    "cardName": "噬沙堡爺",
+    "cardName": "噬沙堡爷",
     "skillList": [
       {
-        "name": "陰森射擊",
+        "name": "阴森射击",
         "effect": ""
       },
       {
         "name": "大地能量",
-        "effect": "若場上有自己的競技場卡，則增加80點傷害。"
+        "effect": "若场上有自己的竞技场卡，则增加80点伤害。"
       }
     ],
     "extraInformation": [
-      "No.770沙堡寶可夢",
-      "身高1.3/體重250.0",
-      "會把小型寶可夢吸進沙子構成的身體裡，任憑自己吸取精氣的恐怖寶可夢。"
-    ]
+      "No.770沙堡宝可梦",
+      "身高1.3/体重250.0",
+      "会把小型宝可梦吸进沙子构成的身体里，任凭自己吸取精气的恐怖宝可梦。"
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Psychic"
   },
   {
     "id": "7974",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7974/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007974.png",
     "extraInformation": [
-      "No.778畫皮寶可夢",
-      "身高0.2/體重0.7",
-      "棲息在陽光照射不到的陰暗處。在人們面前現身時會用看似皮卡丘的布來隱藏全身。"
+      "No.778画皮宝可梦",
+      "身高0.2/体重0.7",
+      "栖息在阳光照射不到的阴暗处。在人们面前现身时会用看似皮卡丘的布来隐藏全身。"
     ],
-    "cardName": "謎擬Ｑ",
+    "cardName": "谜拟Ｑ",
     "skillList": [
       {
-        "name": "[特性]神秘守護",
-        "effect": "這隻寶可夢不會受到對手的「寶可夢【ex】・【V】」招式的傷害。"
+        "name": "[特性]神秘守护",
+        "effect": "这只宝可梦不会受到对手的「宝可梦【ex】・【V】」招式的伤害。"
       },
       {
-        "name": "幽靈之眼",
-        "effect": "在對手的戰鬥寶可夢身上放置7個傷害指示物。"
+        "name": "幽灵之眼",
+        "effect": "在对手的战斗宝可梦身上放置7个伤害指示物。"
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Psychic"
   },
   {
     "id": "8042",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/8042/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008042.png",
-    "cardName": "蒼炎刃鬼",
+    "cardName": "苍炎刃鬼",
     "skillList": [
       {
-        "name": "生命之紗",
-        "effect": "將這隻寶可夢恢復「30」HP。"
+        "name": "生命之纱",
+        "effect": "将这只宝可梦恢复「30」HP。"
       },
       {
-        "name": "鬥士的巨劍",
-        "effect": "若對手的戰鬥寶可夢為「寶可夢【ex】・【V】」，則增加100點傷害。"
+        "name": "斗士的巨剑",
+        "effect": "若对手的战斗宝可梦为「宝可梦【ex】・【V】」，则增加100点伤害。"
       }
     ],
     "extraInformation": [
-      "No.937火劍士寶可夢",
-      "身高1.6/體重62.0",
-      "雙臂的火焰之劍靠著在得志前就亡命的劍士怨念而燃燒。"
-    ]
+      "No.937火剑士宝可梦",
+      "身高1.6/体重62.0",
+      "双臂的火焰之剑靠著在得志前就亡命的剑士怨念而燃烧。"
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Psychic"
   },
   {
     "id": "7977",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7977/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007977.png",
     "extraInformation": [
-      "No.954滾動寶可夢",
-      "身高0.3/體重3.5",
-      "支撐球的身體幾乎不動，因此人們認為牠的本體其實是在球裡面。"
+      "No.954滚动宝可梦",
+      "身高0.3/体重3.5",
+      "支撑球的身体几乎不动，因此人们认为牠的本体其实是在球里面。"
     ],
-    "cardName": "蟲甲聖",
+    "cardName": "虫甲圣",
     "skillList": [
       {
-        "name": "復生祈禱\n",
-        "effect": "從自己的棄牌區選擇1張寶可夢卡，放置於備戰區。"
+        "name": "复生祈祷\n",
+        "effect": "从自己的弃牌区选择1张宝可梦卡，放置于备战区。"
       },
       {
-        "name": "幻象光線",
-        "effect": "將對手的戰鬥寶可夢【混亂】。"
+        "name": "幻象光线",
+        "effect": "将对手的战斗宝可梦【混乱】。"
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Psychic"
   },
   {
     "id": "7907",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7907/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007907.png",
     "extraInformation": [
-      "No.957錘鍊寶可夢",
-      "身高0.4/體重8.9",
-      "雖然會揮舞著手工打造的錘子來保護自己，但卻常被以金屬為食的寶可夢搶走。"
+      "No.957锤炼宝可梦",
+      "身高0.4/体重8.9",
+      "虽然会挥舞著手工打造的锤子来保护自己，但却常被以金属为食的宝可梦抢走。"
     ],
-    "cardName": "小鍛匠",
+    "cardName": "小锻匠",
     "skillList": [
       {
-        "name": "呼喚",
-        "effect": "從自己的牌庫抽出1張卡。"
+        "name": "呼唤",
+        "effect": "从自己的牌库抽出1张卡。"
       },
       {
-        "name": "推擊",
+        "name": "推击",
         "effect": ""
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Psychic"
   },
   {
     "id": "8043",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/8043/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008043.png",
-    "cardName": "小鍛匠",
+    "cardName": "小锻匠",
     "skillList": [
       {
-        "name": "撿鐵屑",
-        "effect": "從自己的棄牌區選擇1張物品卡，在給對手看過後加入手牌。"
+        "name": "捡铁屑",
+        "effect": "从自己的弃牌区选择1张物品卡，在给对手看过后加入手牌。"
       },
       {
-        "name": "妖精之風",
+        "name": "妖精之风",
         "effect": ""
       }
     ],
     "extraInformation": [
-      "No.957錘鍊寶可夢",
-      "身高0.4/體重8.9",
-      "雖然會揮舞著手工打造的錘子來保護自己，但卻常被以金屬為食的寶可夢搶走。"
-    ]
+      "No.957锤炼宝可梦",
+      "身高0.4/体重8.9",
+      "虽然会挥舞著手工打造的锤子来保护自己，但却常被以金属为食的宝可梦抢走。"
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Psychic"
   },
   {
     "id": "7908",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7908/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007908.png",
     "extraInformation": [
-      "No.957錘鍊寶可夢",
-      "身高0.4/體重8.9",
-      "雖然會揮舞著手工打造的錘子來保護自己，但卻常被以金屬為食的寶可夢搶走。"
+      "No.957锤炼宝可梦",
+      "身高0.4/体重8.9",
+      "虽然会挥舞著手工打造的锤子来保护自己，但却常被以金属为食的宝可梦抢走。"
     ],
-    "cardName": "小鍛匠",
+    "cardName": "小锻匠",
     "skillList": [
       {
-        "name": "狂舞揮打",
-        "effect": "擲1次硬幣若為正面，則增加20點傷害。"
+        "name": "狂舞挥打",
+        "effect": "掷1次硬币若为正面，则增加20点伤害。"
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Psychic"
   },
   {
     "id": "7909",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7909/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007909.png",
     "extraInformation": [
-      "No.958錘子寶可夢",
-      "身高0.7/體重59.1",
-      "為了製作又大又堅固的錘子，會去襲擊劈斬司令的群體，藉以收集金屬。"
+      "No.958锤子宝可梦",
+      "身高0.7/体重59.1",
+      "为了制作又大又坚固的锤子，会去袭击劈斩司令的群体，借以收集金属。"
     ],
-    "cardName": "巧鍛匠",
+    "cardName": "巧锻匠",
     "skillList": [
       {
-        "name": "打擊",
+        "name": "打击",
         "effect": ""
       },
       {
-        "name": "潛力",
-        "effect": "在下個自己的回合，這隻寶可夢無法使用招式。"
+        "name": "潜力",
+        "effect": "在下个自己的回合，这只宝可梦无法使用招式。"
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Psychic"
   },
   {
     "id": "8045",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/8045/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008045.png",
-    "cardName": "巧鍛匠",
+    "cardName": "巧锻匠",
     "skillList": [
       {
-        "name": "嬉鬧",
-        "effect": "擲1次硬幣若為正面，則增加30點傷害。"
+        "name": "嬉闹",
+        "effect": "掷1次硬币若为正面，则增加30点伤害。"
       },
       {
-        "name": "粉碎壓制",
-        "effect": "這個招式的傷害不計算對手的戰鬥寶可夢身上的附加效果。"
+        "name": "粉碎压制",
+        "effect": "这个招式的伤害不计算对手的战斗宝可梦身上的附加效果。"
       }
     ],
     "extraInformation": [
-      "No.958錘子寶可夢",
-      "身高0.7/體重59.1",
-      "為了製作又大又堅固的錘子，會去襲擊劈斬司令的群體，藉以收集金屬。"
-    ]
+      "No.958锤子宝可梦",
+      "身高0.7/体重59.1",
+      "为了制作又大又坚固的锤子，会去袭击劈斩司令的群体，借以收集金属。"
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Psychic"
   },
   {
     "id": "7910",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7910/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007910.png",
     "extraInformation": [
-      "No.959錘子寶可夢",
-      "身高0.7/體重112.8",
-      "智商高超，性格豪邁。會用錘子打飛岩石來攻擊飛在空中的鋼鎧鴉。"
+      "No.959锤子宝可梦",
+      "身高0.7/体重112.8",
+      "智商高超，性格豪迈。会用锤子打飞岩石来攻击飞在空中的钢铠鸦。"
     ],
-    "cardName": "巨鍛匠",
+    "cardName": "巨锻匠",
     "skillList": [
       {
         "name": "[特性]收集素材",
-        "effect": "在自己的回合，若將自己的1張手牌丟棄，則可使用1次。從自己的牌庫抽出3張卡。"
+        "effect": "在自己的回合，若将自己的1张手牌丢弃，则可使用1次。从自己的牌库抽出3张卡。"
       },
       {
-        "name": "特殊鐵錘",
-        "effect": "若這隻寶可夢身上附有特殊能量卡，則增加90點傷害。"
+        "name": "特殊铁锤",
+        "effect": "若这只宝可梦身上附有特殊能量卡，则增加90点伤害。"
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Psychic"
   },
   {
     "id": "7978",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7978/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007978.png",
     "extraInformation": [
-      "No.56豬猴寶可夢",
-      "身高0.5/體重28",
-      "在樹上群居的寶可夢。和夥伴走散的猴怪會因為按捺不住寂寞而動不動就生氣。"
+      "No.56猪猴宝可梦",
+      "身高0.5/体重28",
+      "在树上群居的宝可梦。和伙伴走散的猴怪会因为按捺不住寂寞而动不动就生气。"
     ],
     "cardName": "猴怪",
     "skillList": [
@@ -2175,16 +2385,18 @@
         "name": "垂吊",
         "effect": ""
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Fighting"
   },
   {
     "id": "7979",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7979/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007979.png",
     "extraInformation": [
-      "No.57豬猴寶可夢",
-      "身高1/體重32",
-      "光是感覺到他方的視線都會暴怒起來，然後去追和牠對到眼的傢伙。"
+      "No.57猪猴宝可梦",
+      "身高1/体重32",
+      "光是感觉到他方的视线都会暴怒起来，然后去追和牠对到眼的家伙。"
     ],
     "cardName": "火爆猴",
     "skillList": [
@@ -2193,52 +2405,58 @@
         "effect": ""
       },
       {
-        "name": "狂毆",
-        "effect": "擲1次硬幣若為正面，則增加60點傷害。"
+        "name": "狂殴",
+        "effect": "掷1次硬币若为正面，则增加60点伤害。"
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Fighting"
   },
   {
     "id": "7913",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7913/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007913.png",
     "extraInformation": [
-      "No.128暴牛寶可夢",
-      "身高1.4/體重115.0",
-      "特徵是厚實有力的肌肉，以及粗魯暴躁的性格。這種樣子被稱為鬥戰種。"
+      "No.128暴牛宝可梦",
+      "身高1.4/体重115.0",
+      "特征是厚实有力的肌肉，以及粗鲁暴躁的性格。这种样子被称为斗战种。"
     ],
-    "cardName": "帕底亞 肯泰羅",
+    "cardName": "帕底亚 肯泰罗",
     "skillList": [
       {
-        "name": "憤怒之角",
-        "effect": "增加這隻寶可夢身上放置的傷害指示物的數量×10點傷害。"
+        "name": "愤怒之角",
+        "effect": "增加这只宝可梦身上放置的伤害指示物的数量×10点伤害。"
       },
       {
-        "name": "鬥戰衝撞",
-        "effect": "這隻寶可夢也受到30點傷害。"
+        "name": "斗战冲撞",
+        "effect": "这只宝可梦也受到30点伤害。"
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Fighting"
   },
   {
     "id": "7981",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7981/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007981.png",
     "extraInformation": [
-      "No.185模仿寶可夢",
-      "身高1.2/體重38",
-      "總是偽裝成樹的樣子。身體構造比起植物來，好像更接近石頭或岩石之類的東西。"
+      "No.185模仿宝可梦",
+      "身高1.2/体重38",
+      "总是伪装成树的样子。身体构造比起植物来，好像更接近石头或岩石之类的东西。"
     ],
-    "cardName": "樹才怪",
+    "cardName": "树才怪",
     "skillList": [
       {
-        "name": "打擊躲藏",
-        "effect": "擲1次硬幣若為正面，則在下個對手的回合，這隻寶可夢不會受到招式的傷害與效果的影響。"
+        "name": "打击躲藏",
+        "effect": "掷1次硬币若为正面，则在下个对手的回合，这只宝可梦不会受到招式的伤害与效果的影响。"
       },
       {
-        "name": "肘擊",
+        "name": "肘击",
         "effect": ""
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Fighting"
   },
   {
     "id": "8047",
@@ -2247,15 +2465,17 @@
     "cardName": "幼基拉斯",
     "skillList": [
       {
-        "name": "二連撞",
-        "effect": "擲2次硬幣，造成正面出現的次數×10點傷害。"
+        "name": "二连撞",
+        "effect": "掷2次硬币，造成正面出现的次数×10点伤害。"
       }
     ],
     "extraInformation": [
-      "No.246岩石膚寶可夢",
-      "身高0.6/體重72.0",
-      "誕生在地底深處。當牠吃完滿山的土壤後，就會為了成長而變成蛹。"
-    ]
+      "No.246岩石肤宝可梦",
+      "身高0.6/体重72.0",
+      "诞生在地底深处。当牠吃完满山的土壤后，就会为了成长而变成蛹。"
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Fighting"
   },
   {
     "id": "8048",
@@ -2264,53 +2484,59 @@
     "cardName": "沙基拉斯",
     "skillList": [
       {
-        "name": "魯莽頭擊",
+        "name": "鲁莽头击",
         "effect": ""
       }
     ],
     "extraInformation": [
-      "No.247子彈寶可夢",
-      "身高1.2/體重152.0",
-      "會以強勁的力道噴出在體內壓縮好的氣體，好讓自己能飛在空中大搞破壞的蛹。"
-    ]
+      "No.247子弹宝可梦",
+      "身高1.2/体重152.0",
+      "会以强劲的力道喷出在体内压缩好的气体，好让自己能飞在空中大搞破坏的蛹。"
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Fighting"
   },
   {
     "id": "7914",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7914/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007914.png",
     "extraInformation": [
-      "No.296毅力寶可夢",
-      "身高1.0/體重86.4",
-      "會在不斷的嚴格訓練中逐漸變強。能夠承受任何攻擊，是很有毅力的寶可夢。"
+      "No.296毅力宝可梦",
+      "身高1.0/体重86.4",
+      "会在不断的严格训练中逐渐变强。能够承受任何攻击，是很有毅力的宝可梦。"
     ],
     "cardName": "幕下力士",
     "skillList": [
       {
-        "name": "巴掌撲擊",
+        "name": "巴掌扑击",
         "effect": ""
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Fighting"
   },
   {
     "id": "7915",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7915/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007915.png",
     "extraInformation": [
-      "No.297猛推寶可夢",
-      "身高2.3/體重253.8",
-      "最喜歡和對手比力氣。擁有的力量足以一掌擋下迎面馳來的列車。"
+      "No.297猛推宝可梦",
+      "身高2.3/体重253.8",
+      "最喜欢和对手比力气。拥有的力量足以一掌挡下迎面驰来的列车。"
     ],
-    "cardName": "鐵掌力士",
+    "cardName": "铁掌力士",
     "skillList": [
       {
-        "name": "[特性]猛推演練",
-        "effect": "只要這隻寶可夢在場上，自己的所有寶可夢受到對手的寶可夢招式的傷害「-10」點。"
+        "name": "[特性]猛推演练",
+        "effect": "只要这只宝可梦在场上，自己的所有宝可梦受到对手的宝可梦招式的伤害「-10」点。"
       },
       {
         "name": "火箭巴掌",
         "effect": ""
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Fighting"
   },
   {
     "id": "8051",
@@ -2319,15 +2545,17 @@
     "cardName": "不良蛙",
     "skillList": [
       {
-        "name": "毒針",
-        "effect": "將對手的戰鬥寶可夢【中毒】。"
+        "name": "毒针",
+        "effect": "将对手的战斗宝可梦【中毒】。"
       }
     ],
     "extraInformation": [
-      "No.453毒擊寶可夢",
-      "身高0.7/體重23.0",
-      "會鼓起毒囊鳴叫。讓四周響起詭異的聲音，等對手畏縮，便施以毒擊。"
-    ]
+      "No.453毒击宝可梦",
+      "身高0.7/体重23.0",
+      "会鼓起毒囊鸣叫。让四周响起诡异的声音，等对手畏缩，便施以毒击。"
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Fighting"
   },
   {
     "id": "8052",
@@ -2340,24 +2568,26 @@
         "effect": ""
       },
       {
-        "name": "拳頭刺",
-        "effect": "將對手的戰鬥寶可夢【中毒】。"
+        "name": "拳头刺",
+        "effect": "将对手的战斗宝可梦【中毒】。"
       }
     ],
     "extraInformation": [
-      "No.454毒擊寶可夢",
-      "身高1.3/體重44.4",
-      "會一邊靠柔軟的身體閃避攻擊，一邊往對手的懷裡衝過去，然後用帶毒的尖刺猛戳。"
-    ]
+      "No.454毒击宝可梦",
+      "身高1.3/体重44.4",
+      "会一边靠柔软的身体闪避攻击，一边往对手的怀里冲过去，然后用带毒的尖刺猛戳。"
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Fighting"
   },
   {
     "id": "7916",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7916/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007916.png",
     "extraInformation": [
-      "No.744小狗寶可夢",
-      "身高0.5/體重9.2",
-      "年幼時期非常容易親近。雖然長大後脾氣會變得粗暴，卻絕不會忘記主人的恩情。"
+      "No.744小狗宝可梦",
+      "身高0.5/体重9.2",
+      "年幼时期非常容易亲近。虽然长大后脾气会变得粗暴，却绝不会忘记主人的恩情。"
     ],
     "cardName": "岩狗狗",
     "skillList": [
@@ -2369,7 +2599,9 @@
         "name": "咬住",
         "effect": ""
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Fighting"
   },
   {
     "id": "7917",
@@ -2387,154 +2619,170 @@
         "effect": ""
       },
       {
-        "name": "駭人獠牙",
-        "effect": "在下個對手的回合，這隻寶可夢受到招式的傷害時，在使用招式的寶可夢身上放置10個傷害指示物。"
+        "name": "骇人獠牙",
+        "effect": "在下个对手的回合，这只宝可梦受到招式的伤害时，在使用招式的宝可梦身上放置10个伤害指示物。"
       },
       {
-        "name": "[ex規則]",
-        "effect": "寶可夢【ex】【昏厥】時，對手獲得2張獎賞卡。"
+        "name": "[ex规则]",
+        "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Fighting"
   },
   {
     "id": "8055",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/8055/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008055.png",
-    "cardName": "投擲猴",
+    "cardName": "投掷猴",
     "skillList": [
       {
         "name": "助攻",
-        "effect": "選擇1個這隻寶可夢身上附加的能量，改附於備戰寶可夢身上。"
+        "effect": "选择1个这只宝可梦身上附加的能量，改附于备战宝可梦身上。"
       }
     ],
     "extraInformation": [
-      "No.766配合寶可夢",
-      "身高2.0/體重82.8",
-      "會投出堅硬的樹果戰鬥。不會聽從投球技術差勁的訓練家所下的指示。"
-    ]
+      "No.766配合宝可梦",
+      "身高2.0/体重82.8",
+      "会投出坚硬的树果战斗。不会听从投球技术差劲的训练家所下的指示。"
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Fighting"
   },
   {
     "id": "7918",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7918/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007918.png",
     "extraInformation": [
-      "No.870陣形寶可夢",
-      "身高3.0/體重62.0",
-      "站在最前面下達指示的頭頭是６隻裡面最強最聰明的。"
+      "No.870阵形宝可梦",
+      "身高3.0/体重62.0",
+      "站在最前面下达指示的头头是６只里面最强最聪明的。"
     ],
-    "cardName": "列陣兵",
+    "cardName": "列阵兵",
     "skillList": [
       {
-        "name": "頭錘",
+        "name": "头锤",
         "effect": ""
       },
       {
-        "name": "一起突擊",
-        "effect": "若自己的備戰區有「列陣兵」，則增加90點傷害。"
+        "name": "一起突击",
+        "effect": "若自己的备战区有「列阵兵」，则增加90点伤害。"
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Fighting"
   },
   {
     "id": "8056",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/8056/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008056.png",
-    "cardName": "鹽石寶",
+    "cardName": "盐石宝",
     "skillList": [
       {
-        "name": "頭錘",
+        "name": "头锤",
         "effect": ""
       }
     ],
     "extraInformation": [
-      "No.932岩鹽寶可夢",
-      "身高0.4/體重16.0",
-      "出生在地底的岩鹽層。會願意分享貴重的鹽巴，因此在過去更是受到重視。"
-    ]
+      "No.932岩盐宝可梦",
+      "身高0.4/体重16.0",
+      "出生在地底的岩盐层。会愿意分享贵重的盐巴，因此在过去更是受到重视。"
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Fighting"
   },
   {
     "id": "8057",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/8057/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008057.png",
-    "cardName": "鹽石寶",
+    "cardName": "盐石宝",
     "skillList": [
       {
-        "name": "抹鹽",
-        "effect": "將自己的1隻寶可夢恢復「20」HP。"
+        "name": "抹盐",
+        "effect": "将自己的1只宝可梦恢复「20」HP。"
       },
       {
-        "name": "撞擊",
+        "name": "撞击",
         "effect": ""
       }
     ],
     "extraInformation": [
-      "No.932岩鹽寶可夢",
-      "身高0.4/體重16.0",
-      "出生在地底的岩鹽層。會願意分享貴重的鹽巴，因此在過去更是受到重視。"
-    ]
+      "No.932岩盐宝可梦",
+      "身高0.4/体重16.0",
+      "出生在地底的岩盐层。会愿意分享贵重的盐巴，因此在过去更是受到重视。"
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Fighting"
   },
   {
     "id": "8058",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/8058/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008058.png",
-    "cardName": "鹽石壘",
+    "cardName": "盐石垒",
     "skillList": [
       {
-        "name": "鹽加農炮",
-        "effect": "擲3次硬幣，造成正面出現的次數×60點傷害。"
+        "name": "盐加农炮",
+        "effect": "掷3次硬币，造成正面出现的次数×60点伤害。"
       }
     ],
     "extraInformation": [
-      "No.933岩鹽寶可夢",
-      "身高0.6/體重105.0",
-      "會將鹽噴向獵物，將其做成醃漬物。獵物體內的水分會在醃漬過程中被奪走。"
-    ]
+      "No.933岩盐宝可梦",
+      "身高0.6/体重105.0",
+      "会将盐喷向猎物，将其做成腌渍物。猎物体内的水分会在腌渍过程中被夺走。"
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Fighting"
   },
   {
     "id": "8059",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/8059/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008059.png",
-    "cardName": "鹽石巨靈",
+    "cardName": "盐石巨灵",
     "skillList": [
       {
-        "name": "[特性]恩澤之鹽",
-        "effect": "只要這隻寶可夢在場上，每次寶可夢檢查時，將自己的所有寶可夢各恢復「20」HP。"
+        "name": "[特性]恩泽之盐",
+        "effect": "只要这只宝可梦在场上，每次宝可梦检查时，将自己的所有宝可梦各恢复「20」HP。"
       },
       {
-        "name": "敲擊之錘",
-        "effect": "將對手的牌庫上方1張卡丟棄。"
+        "name": "敲击之锤",
+        "effect": "将对手的牌库上方1张卡丢弃。"
       }
     ],
     "extraInformation": [
-      "No.934岩鹽寶可夢",
-      "身高2.3/體重240.0",
-      "只要合起指尖，搓出鹽來灑在受傷的寶可夢身上，就算再重的傷都會瞬間痊癒。"
-    ]
+      "No.934岩盐宝可梦",
+      "身高2.3/体重240.0",
+      "只要合起指尖，搓出盐来洒在受伤的宝可梦身上，就算再重的伤都会瞬间痊愈。"
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Fighting"
   },
   {
     "id": "7982",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7982/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007982.png",
     "extraInformation": [
-      "No.969礦石寶可夢",
-      "身高0.7/體重8",
-      "會從洞窟的壁上吸取養分。包覆在身上的花瓣是用毒的結晶做成的。"
+      "No.969矿石宝可梦",
+      "身高0.7/体重8",
+      "会从洞窟的壁上吸取养分。包覆在身上的花瓣是用毒的结晶做成的。"
     ],
     "cardName": "晶光芽",
     "skillList": [
       {
-        "name": "覺醒",
-        "effect": "從自己的牌庫選擇1張從這隻寶可夢進化而來的卡，放置於這隻寶可夢身上完成進化。並且重洗牌庫。"
+        "name": "觉醒",
+        "effect": "从自己的牌库选择1张从这只宝可梦进化而来的卡，放置于这只宝可梦身上完成进化。并且重洗牌库。"
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Fighting"
   },
   {
     "id": "7983",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7983/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007983.png",
     "extraInformation": [
-      "No.969礦石寶可夢",
-      "身高0.7/體重8",
-      "會從洞窟的壁上吸取養分。包覆在身上的花瓣\r是用毒的結晶做成的。"
+      "No.969矿石宝可梦",
+      "身高0.7/体重8",
+      "会从洞窟的壁上吸取养分。包覆在身上的花瓣是用毒的结晶做成的。"
     ],
     "cardName": "晶光芽",
     "skillList": [
@@ -2542,28 +2790,32 @@
         "name": "落石",
         "effect": ""
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Fighting"
   },
   {
     "id": "7984",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7984/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007984.png",
     "extraInformation": [
-      "No.970礦石寶可夢",
-      "身高1.5/體重45",
-      "只要察覺到危險，就會張開結晶的花瓣，\r從圓錐形的身體發射光束。"
+      "No.970矿石宝可梦",
+      "身高1.5/体重45",
+      "只要察觉到危险，就会张开结晶的花瓣，从圆锥形的身体发射光束。"
     ],
     "cardName": "晶光花",
     "skillList": [
       {
-        "name": "[特性]碎裂結晶",
-        "effect": "這隻寶可夢【昏厥】時，自己擲1次硬幣。若為正面，則對手無法獲得獎賞卡。"
+        "name": "[特性]碎裂结晶",
+        "effect": "这只宝可梦【昏厥】时，自己掷1次硬币。若为正面，则对手无法获得奖赏卡。"
       },
       {
         "name": "毒花瓣",
-        "effect": "將對手的戰鬥寶可夢【中毒】。因這個【中毒】而放置的傷害指示物的數量改為6個。"
+        "effect": "将对手的战斗宝可梦【中毒】。因这个【中毒】而放置的伤害指示物的数量改为6个。"
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Fighting"
   },
   {
     "id": "8060",
@@ -2572,65 +2824,71 @@
     "cardName": "古鼎鹿ex",
     "skillList": [
       {
-        "name": "[特性]咒縛大地",
-        "effect": "只要這隻寶可夢在戰鬥場上，對手場上的身上放置有傷害指示物的寶可夢（寶可夢【ex】除外）的特性全部消除。"
+        "name": "[特性]咒缚大地",
+        "effect": "只要这只宝可梦在战斗场上，对手场上的身上放置有伤害指示物的宝可梦（宝可梦【ex】除外）的特性全部消除。"
       },
       {
         "name": "大地掬弄",
-        "effect": "在對手的1隻備戰寶可夢身上放置2個傷害指示物。"
+        "effect": "在对手的1只备战宝可梦身上放置2个伤害指示物。"
       },
       {
-        "name": "[ex規則]",
-        "effect": "寶可夢【ex】【昏厥】時，對手獲得2張獎賞卡。"
+        "name": "[ex规则]",
+        "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
     ],
     "extraInformation": [
       "No.1003",
       "",
       ""
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Fighting"
   },
   {
     "id": "7920",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7920/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007920.png",
     "extraInformation": [
-      "No.194毒魚寶可夢",
-      "身高0.4/體重11.0",
-      "因搶輸地盤而到陸地上生活，久而久之變成了是用帶毒的黏膜來保護身體。"
+      "No.194毒鱼宝可梦",
+      "身高0.4/体重11.0",
+      "因抢输地盘而到陆地上生活，久而久之变成了是用带毒的黏膜来保护身体。"
     ],
-    "cardName": "帕底亞 烏波",
+    "cardName": "帕底亚 乌波",
     "skillList": [
       {
-        "name": "尋找巢穴",
-        "effect": "從自己的牌庫選擇1張競技場卡，在給對手看過後加入手牌。並且重洗牌庫。"
+        "name": "寻找巢穴",
+        "effect": "从自己的牌库选择1张竞技场卡，在给对手看过后加入手牌。并且重洗牌库。"
       },
       {
-        "name": "衝撞",
+        "name": "冲撞",
         "effect": ""
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Darkness"
   },
   {
     "id": "7919",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7919/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007919.png",
     "extraInformation": [
-      "No.194毒魚寶可夢",
-      "身高0.4/體重11.0",
-      "因搶輸地盤而到陸地上生活，久而久之變成了是用帶毒的黏膜來保護身體。"
+      "No.194毒鱼宝可梦",
+      "身高0.4/体重11.0",
+      "因抢输地盘而到陆地上生活，久而久之变成了是用带毒的黏膜来保护身体。"
     ],
-    "cardName": "帕底亞 烏波",
+    "cardName": "帕底亚 乌波",
     "skillList": [
       {
         "name": "踩",
         "effect": ""
       },
       {
-        "name": "調皮踢",
+        "name": "调皮踢",
         "effect": ""
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Darkness"
   },
   {
     "id": "7921",
@@ -2641,63 +2899,69 @@
       "",
       ""
     ],
-    "cardName": "帕底亞 土王ex",
+    "cardName": "帕底亚 土王ex",
     "skillList": [
       {
         "name": "[特性]毒之沼地",
-        "effect": "若場上有競技場卡，則在自己的回合時可使用1次。將對手的戰鬥寶可夢【中毒】。"
+        "effect": "若场上有竞技场卡，则在自己的回合时可使用1次。将对手的战斗宝可梦【中毒】。"
       },
       {
         "name": "尖刺骨",
-        "effect": "擲1次硬幣若為反面，則在下個自己的回合，這隻寶可夢無法使用招式。"
+        "effect": "掷1次硬币若为反面，则在下个自己的回合，这只宝可梦无法使用招式。"
       },
       {
-        "name": "[ex規則]",
-        "effect": "寶可夢【ex】【昏厥】時，對手獲得2張獎賞卡。"
+        "name": "[ex规则]",
+        "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Darkness"
   },
   {
     "id": "7985",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7985/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007985.png",
     "extraInformation": [
-      "No.198黑暗寶可夢",
-      "身高0.5/體重2.1",
-      "人們相信晚上看到牠就會發生不吉利的事，這讓牠成了人見人厭的寶可夢。"
+      "No.198黑暗宝可梦",
+      "身高0.5/体重2.1",
+      "人们相信晚上看到牠就会发生不吉利的事，这让牠成了人见人厌的宝可梦。"
     ],
-    "cardName": "黑暗鴉",
+    "cardName": "黑暗鸦",
     "skillList": [
       {
-        "name": "旋轉迴旋",
-        "effect": "將這隻寶可夢與備戰寶可夢互換。"
+        "name": "旋转回旋",
+        "effect": "将这只宝可梦与备战宝可梦互换。"
       },
       {
-        "name": "團結之翼",
-        "effect": "造成自己的棄牌區的，持有「團結之翼」招式的寶可夢卡的張數×20點傷害。"
+        "name": "团结之翼",
+        "effect": "造成自己的弃牌区的，持有「团结之翼」招式的宝可梦卡的张数×20点伤害。"
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Darkness"
   },
   {
     "id": "7986",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7986/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007986.png",
     "extraInformation": [
-      "No.430大頭目寶可夢",
-      "身高0.9/體重27.3",
-      "性格冷酷，不留情面。據說絕不會容許手下的黑暗鴉有任何的失敗。"
+      "No.430大头目宝可梦",
+      "身高0.9/体重27.3",
+      "性格冷酷，不留情面。据说绝不会容许手下的黑暗鸦有任何的失败。"
     ],
-    "cardName": "烏鴉頭頭",
+    "cardName": "乌鸦头头",
     "skillList": [
       {
-        "name": "羽擊",
+        "name": "羽击",
         "effect": ""
       },
       {
-        "name": "惡劣投擲",
-        "effect": "將自己的1張手牌丟棄。若無法丟棄，則這個招式失敗。"
+        "name": "恶劣投掷",
+        "effect": "将自己的1张手牌丢弃。若无法丢弃，则这个招式失败。"
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Darkness"
   },
   {
     "id": "8061",
@@ -2706,36 +2970,40 @@
     "cardName": "狃拉",
     "skillList": [
       {
-        "name": "豎爪",
+        "name": "竖爪",
         "effect": ""
       }
     ],
     "extraInformation": [
-      "No.215鉤爪寶可夢",
-      "身高0.9/體重28.0",
-      "會潛藏在黑暗中使自己變得不起眼，然後伺機襲擊獵物，是非常狡詐的寶可夢。"
-    ]
+      "No.215钩爪宝可梦",
+      "身高0.9/体重28.0",
+      "会潜藏在黑暗中使自己变得不起眼，然后伺机袭击猎物，是非常狡诈的宝可梦。"
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Darkness"
   },
   {
     "id": "8062",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/8062/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008062.png",
-    "cardName": "瑪狃拉",
+    "cardName": "玛狃拉",
     "skillList": [
       {
-        "name": "[特性]進擊狩獵",
-        "effect": "在自己的回合，從備戰區將這隻寶可夢放置於戰鬥場時，可使用1次。選擇1隻對手的備戰區的【基礎】寶可夢，與戰鬥寶可夢互換。"
+        "name": "[特性]进击狩猎",
+        "effect": "在自己的回合，从备战区将这只宝可梦放置于战斗场时，可使用1次。选择1只对手的备战区的【基础】宝可梦，与战斗宝可梦互换。"
       },
       {
-        "name": "利爪揮砍",
+        "name": "利爪挥砍",
         "effect": ""
       }
     ],
     "extraInformation": [
-      "No.461鉤爪寶可夢",
-      "身高1.1/體重34.0",
-      "進化後變得更加狡詐，會用爪子在石頭上留下記號和夥伴交流。"
-    ]
+      "No.461钩爪宝可梦",
+      "身高1.1/体重34.0",
+      "进化后变得更加狡诈，会用爪子在石头上留下记号和伙伴交流。"
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Darkness"
   },
   {
     "id": "8063",
@@ -2745,188 +3013,206 @@
     "skillList": [
       {
         "name": "踢散",
-        "effect": "增加對手的備戰寶可夢的數量×30點傷害。"
+        "effect": "增加对手的备战宝可梦的数量×30点伤害。"
       },
       {
-        "name": "忌憚山岳",
-        "effect": "將自己的牌庫上方4張卡丟棄。"
+        "name": "忌惮山岳",
+        "effect": "将自己的牌库上方4张卡丢弃。"
       }
     ],
     "extraInformation": [
-      "No.248鎧甲寶可夢",
-      "身高2.0/體重202.0",
-      "即便是改變周圍的地形也是小事一樁的大力士。個性狂妄，不顧周遭的感受。"
-    ]
+      "No.248铠甲宝可梦",
+      "身高2.0/体重202.0",
+      "即便是改变周围的地形也是小事一桩的大力士。个性狂妄，不顾周遭的感受。"
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Darkness"
   },
   {
     "id": "7922",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7922/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007922.png",
     "extraInformation": [
-      "No.302黑暗寶可夢",
-      "身高0.5/體重11.0",
-      "會在陰暗的洞窟裡建造住所，並用鋒利的爪子挖寶石吃。"
+      "No.302黑暗宝可梦",
+      "身高0.5/体重11.0",
+      "会在阴暗的洞窟里建造住所，并用锋利的爪子挖宝石吃。"
     ],
     "cardName": "勾魂眼",
     "skillList": [
       {
         "name": "暗之瞳",
-        "effect": "將對手的戰鬥寶可夢【睡眠】。"
+        "effect": "将对手的战斗宝可梦【睡眠】。"
       },
       {
-        "name": "刺殺爪",
-        "effect": "若對手的戰鬥寶可夢處於特殊狀態，則增加70點傷害。"
+        "name": "刺杀爪",
+        "effect": "若对手的战斗宝可梦处于特殊状态，则增加70点伤害。"
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Darkness"
   },
   {
     "id": "7923",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7923/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007923.png",
     "extraInformation": [
-      "No.336牙蛇寶可夢",
-      "身高2.7/體重52.5",
-      "平時都用堅硬的岩石來打磨刀刃般的尾巴。會躲在樹叢裡，然後趁獵物靠近時用毒牙襲擊。"
+      "No.336牙蛇宝可梦",
+      "身高2.7/体重52.5",
+      "平时都用坚硬的岩石来打磨刀刃般的尾巴。会躲在树丛里，然后趁猎物靠近时用毒牙袭击。"
     ],
-    "cardName": "飯匙蛇",
+    "cardName": "饭匙蛇",
     "skillList": [
       {
-        "name": "銳利之牙",
+        "name": "锐利之牙",
         "effect": ""
       },
       {
-        "name": "揮擊",
-        "effect": "若對手的戰鬥寶可夢為進化寶可夢，則增加50點傷害。"
+        "name": "挥击",
+        "effect": "若对手的战斗宝可梦为进化宝可梦，则增加50点伤害。"
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Darkness"
   },
   {
     "id": "7924",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7924/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007924.png",
     "extraInformation": [
-      "No.633粗魯寶可夢",
-      "身高0.8/體重17.3",
-      "因為眼睛看不見，所以不管要確認什麼都是先咬再說。和牠變親密前會滿身是傷。"
+      "No.633粗鲁宝可梦",
+      "身高0.8/体重17.3",
+      "因为眼睛看不见，所以不管要确认什么都是先咬再说。和牠变亲密前会满身是伤。"
     ],
-    "cardName": "單首龍",
+    "cardName": "单首龙",
     "skillList": [
       {
-        "name": "伏擊",
-        "effect": "擲1次硬幣若為正面，則增加20點傷害。"
+        "name": "伏击",
+        "effect": "掷1次硬币若为正面，则增加20点伤害。"
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Darkness"
   },
   {
     "id": "7925",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7925/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007925.png",
     "extraInformation": [
-      "No.634粗暴寶可夢",
-      "身高1.4/體重50.0",
-      "２顆頭的感情很差。如果兩邊疼愛的程度不同，就會因爭風吃醋而開始大吵。"
+      "No.634粗暴宝可梦",
+      "身高1.4/体重50.0",
+      "２颗头的感情很差。如果两边疼爱的程度不同，就会因争风吃醋而开始大吵。"
     ],
-    "cardName": "雙首暴龍",
+    "cardName": "双首暴龙",
     "skillList": [
       {
-        "name": "尋找朋友",
-        "effect": "從自己的牌庫選擇最多2張寶可夢卡，在給對手看過後加入手牌。並且重洗牌庫。"
+        "name": "寻找朋友",
+        "effect": "从自己的牌库选择最多2张宝可梦卡，在给对手看过后加入手牌。并且重洗牌库。"
       },
       {
-        "name": "魯莽頭擊",
+        "name": "鲁莽头击",
         "effect": ""
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Darkness"
   },
   {
     "id": "7926",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7926/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007926.png",
     "extraInformation": [
-      "No.635凶暴寶可夢",
-      "身高1.8/體重160.0",
-      "只有本體上的頭才有大腦。雖然智力很高，但卻滿腦子只想著要破壞。"
+      "No.635凶暴宝可梦",
+      "身高1.8/体重160.0",
+      "只有本体上的头才有大脑。虽然智力很高，但却满脑子只想著要破坏。"
     ],
-    "cardName": "三首惡龍",
+    "cardName": "三首恶龙",
     "skillList": [
       {
-        "name": "[特性]三重嚎鳴",
-        "effect": "在自己的回合時可使用1次。查看自己的牌庫上方3張卡，從其中選擇任意數量的能量卡，以任意方式附於自己的寶可夢身上。將剩餘卡丟棄。"
+        "name": "[特性]三重嚎鸣",
+        "effect": "在自己的回合时可使用1次。查看自己的牌库上方3张卡，从其中选择任意数量的能量卡，以任意方式附于自己的宝可梦身上。将剩余卡丢弃。"
       },
       {
         "name": "暗黑利刃",
         "effect": ""
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Darkness"
   },
   {
     "id": "7987",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7987/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007987.png",
     "extraInformation": [
-      "No.942小輩寶可夢",
-      "身高0.5/體重16",
-      "為了不被對手看扁而總是皺著的那張臉，卻反而會讓哭泣的孩子破涕為笑。"
+      "No.942小辈宝可梦",
+      "身高0.5/体重16",
+      "为了不被对手看扁而总是皱著的那张脸，却反而会让哭泣的孩子破涕为笑。"
     ],
     "cardName": "偶叫獒",
     "skillList": [
       {
-        "name": "伏擊",
-        "effect": "擲1次硬幣若為正面，則增加20點傷害。"
+        "name": "伏击",
+        "effect": "掷1次硬币若为正面，则增加20点伤害。"
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Darkness"
   },
   {
     "id": "7988",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7988/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007988.png",
     "extraInformation": [
-      "No.942小輩寶可夢",
-      "身高0.5/體重16",
-      "為了不被對手看扁而總是皺著的那張臉，卻反而會讓哭泣的孩子破涕為笑。"
+      "No.942小辈宝可梦",
+      "身高0.5/体重16",
+      "为了不被对手看扁而总是皱著的那张脸，却反而会让哭泣的孩子破涕为笑。"
     ],
     "cardName": "偶叫獒",
     "skillList": [
       {
-        "name": "踢飛",
+        "name": "踢飞",
         "effect": ""
       },
       {
-        "name": "銳利之牙",
+        "name": "锐利之牙",
         "effect": ""
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Darkness"
   },
   {
     "id": "7989",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7989/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007989.png",
     "extraInformation": [
-      "No.943大佬寶可夢",
-      "身高1.1/體重61",
-      "大大的喉囊裡可以儲存能量。會一口氣釋放出去把敵人轟飛。"
+      "No.943大佬宝可梦",
+      "身高1.1/体重61",
+      "大大的喉囊里可以储存能量。会一口气释放出去把敌人轰飞。"
     ],
     "cardName": "獒教父",
     "skillList": [
       {
-        "name": "復仇",
-        "effect": "在下個對手的回合，這隻寶可夢受到招式的傷害時，將與受到的傷害相同數值的傷害指示物，放置於使用招式的寶可夢身上。"
+        "name": "复仇",
+        "effect": "在下个对手的回合，这只宝可梦受到招式的伤害时，将与受到的伤害相同数值的伤害指示物，放置于使用招式的宝可梦身上。"
       },
       {
         "name": "暗之牙",
         "effect": ""
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Darkness"
   },
   {
     "id": "8064",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/8064/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008064.png",
-    "cardName": "滋汁鼴",
+    "cardName": "滋汁鼹",
     "skillList": [
       {
-        "name": "搜尋樹果",
-        "effect": "從自己的棄牌區選擇1張基本能量卡，在給對手看過後加入手牌。"
+        "name": "搜寻树果",
+        "effect": "从自己的弃牌区选择1张基本能量卡，在给对手看过后加入手牌。"
       },
       {
         "name": "抓",
@@ -2934,107 +3220,119 @@
       }
     ],
     "extraInformation": [
-      "No.944毒鼠寶可夢",
-      "身高0.2/體重0.7",
-      "雖然性情溫馴，但一旦被激怒，就會用滲入了毒素的尖銳門牙過來咬住你，讓你全身麻痺不已。"
-    ]
+      "No.944毒鼠宝可梦",
+      "身高0.2/体重0.7",
+      "虽然性情温驯，但一旦被激怒，就会用渗入了毒素的尖锐门牙过来咬住你，让你全身麻痺不已。"
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Darkness"
   },
   {
     "id": "8065",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/8065/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008065.png",
-    "cardName": "滋汁鼴",
+    "cardName": "滋汁鼹",
     "skillList": [
       {
         "name": "毒液",
-        "effect": "將對手的戰鬥寶可夢【中毒】。"
+        "effect": "将对手的战斗宝可梦【中毒】。"
       }
     ],
     "extraInformation": [
-      "No.944毒鼠寶可夢",
-      "身高0.2/體重0.7",
-      "雖然性情溫馴，但一旦被激怒，就會用滲入了毒素的尖銳門牙過來咬住你，讓你全身麻痺不已。"
-    ]
+      "No.944毒鼠宝可梦",
+      "身高0.2/体重0.7",
+      "虽然性情温驯，但一旦被激怒，就会用渗入了毒素的尖锐门牙过来咬住你，让你全身麻痺不已。"
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Darkness"
   },
   {
     "id": "8066",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/8066/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008066.png",
-    "cardName": "塗標客",
+    "cardName": "涂标客",
     "skillList": [
       {
         "name": "毒液",
-        "effect": "將對手的戰鬥寶可夢【中毒】。"
+        "effect": "将对手的战斗宝可梦【中毒】。"
       },
       {
-        "name": "鮮豔塗鴉",
-        "effect": "從自己的手牌將任意數量的基本能量卡丟棄，造成丟棄的基本能量卡的屬性種類的數量×40點傷害。"
+        "name": "鲜艳涂鸦",
+        "effect": "从自己的手牌将任意数量的基本能量卡丢弃，造成丢弃的基本能量卡的属性种类的数量×40点伤害。"
       }
     ],
     "extraInformation": [
-      "No.945毒猴寶可夢",
-      "身高0.7/體重27.2",
-      "會將能隨著吃下的食物而變色的毒唾液塗在指頭上，在森林的樹木描繪上圖案。"
-    ]
+      "No.945毒猴宝可梦",
+      "身高0.7/体重27.2",
+      "会将能随著吃下的食物而变色的毒唾液涂在指头上，在森林的树木描绘上图案。"
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Darkness"
   },
   {
     "id": "8067",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/8067/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008067.png",
-    "cardName": "下石鳥",
+    "cardName": "下石鸟",
     "skillList": [
       {
-        "name": "親送口袋",
-        "effect": "從自己的牌庫選擇1張【基礎】寶可夢卡，放置於備戰區。並且重洗牌庫。"
+        "name": "亲送口袋",
+        "effect": "从自己的牌库选择1张【基础】宝可梦卡，放置于备战区。并且重洗牌库。"
       },
       {
-        "name": "暗黑刀鋒",
-        "effect": "選擇1個這隻寶可夢身上附加的能量，將其丟棄。"
+        "name": "暗黑刀锋",
+        "effect": "选择1个这只宝可梦身上附加的能量，将其丢弃。"
       }
     ],
     "extraInformation": [
-      "No.962掉東西寶可夢",
-      "身高1.5/體重42.9",
-      "會把東西裝在用胸部的絨羽和脫落的羽毛做成的袋子裡，然後從高處往下丟來玩耍。"
-    ]
+      "No.962掉东西宝可梦",
+      "身高1.5/体重42.9",
+      "会把东西装在用胸部的绒羽和脱落的羽毛做成的袋子里，然后从高处往下丢来玩耍。"
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Darkness"
   },
   {
     "id": "7992",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7992/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007992.png",
     "extraInformation": [
-      "No.823烏鴉寶可夢",
-      "身高2.2/體重75",
-      "如果在飛行中遭到天敵的襲擊，也會給乘客帶來危險，因此在帕底亞無法從事計程車的工作。"
+      "No.823乌鸦宝可梦",
+      "身高2.2/体重75",
+      "如果在飞行中遭到天敌的袭击，也会给乘客带来危险，因此在帕底亚无法从事计程车的工作。"
     ],
-    "cardName": "鋼鎧鴉",
+    "cardName": "钢铠鸦",
     "skillList": [
       {
         "name": "增速",
-        "effect": "若對手的寶可夢因這個招式的傷害而【昏厥】了，則在下個對手的回合，這隻寶可夢不會受到招式的傷害與效果的影響。"
+        "effect": "若对手的宝可梦因这个招式的伤害而【昏厥】了，则在下个对手的回合，这只宝可梦不会受到招式的伤害与效果的影响。"
       },
       {
-        "name": "旋轉鳥擊",
-        "effect": "選擇2個這隻寶可夢身上附加的能量，將其丟棄。"
+        "name": "旋转鸟击",
+        "effect": "选择2个这只宝可梦身上附加的能量，将其丢弃。"
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Metal"
   },
   {
     "id": "7993",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7993/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007993.png",
     "extraInformation": [
-      "No.878像銅寶可夢",
-      "身高1.2/體重100",
-      "尖尖的鼻尖能削斷堅硬的岩石來作為糧食。性情溫馴，會幫助人類做粗重的工作。"
+      "No.878像铜宝可梦",
+      "身高1.2/体重100",
+      "尖尖的鼻尖能削断坚硬的岩石来作为粮食。性情温驯，会帮助人类做粗重的工作。"
     ],
-    "cardName": "銅象",
+    "cardName": "铜象",
     "skillList": [
       {
         "name": "踩",
         "effect": ""
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Metal"
   },
   {
     "id": "7994",
@@ -3045,42 +3343,46 @@
       "",
       ""
     ],
-    "cardName": "大王銅象ex",
+    "cardName": "大王铜象ex",
     "skillList": [
       {
-        "name": "[特性]青銅之軀",
-        "effect": "這隻寶可夢受到招式的傷害「-30」點。"
+        "name": "[特性]青铜之躯",
+        "effect": "这只宝可梦受到招式的伤害「-30」点。"
       },
       {
         "name": "鼻震",
-        "effect": "自己的所有備戰寶可夢也各受到30點傷害。[在備戰區不計算弱點・抵抗力。]"
+        "effect": "自己的所有备战宝可梦也各受到30点伤害。[在备战区不计算弱点・抵抗力。]"
       },
       {
-        "name": "[ex規則]",
-        "effect": "寶可夢【ex】【昏厥】時，對手獲得2張獎賞卡。"
+        "name": "[ex规则]",
+        "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Metal"
   },
   {
     "id": "7995",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7995/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007995.png",
     "extraInformation": [
-      "No.968蚯蚓寶可夢",
-      "身高2.5/體重310",
-      "遭到攻擊的時候，會把體毛如拳頭般地使用，朝著敵人奉上拳擊風暴。"
+      "No.968蚯蚓宝可梦",
+      "身高2.5/体重310",
+      "遭到攻击的时候，会把体毛如拳头般地使用，朝著敌人奉上拳击风暴。"
     ],
     "cardName": "拖拖蚓",
     "skillList": [
       {
-        "name": "[特性]營養鐵質",
-        "effect": "若這隻寶可夢身上附有3個以上【鋼】能量，則這隻寶可夢的最大HP「+100」。"
+        "name": "[特性]营养铁质",
+        "effect": "若这只宝可梦身上附有3个以上【钢】能量，则这只宝可梦的最大HP「+100」。"
       },
       {
         "name": "穿通",
-        "effect": "對手的1隻備戰寶可夢也受到30點傷害。[在備戰區不計算弱點・抵抗力。]"
+        "effect": "对手的1只备战宝可梦也受到30点伤害。[在备战区不计算弱点・抵抗力。]"
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Metal"
   },
   {
     "id": "8068",
@@ -3089,40 +3391,44 @@
     "cardName": "嗡蝠",
     "skillList": [
       {
-        "name": "起風",
+        "name": "起风",
         "effect": ""
       }
     ],
     "extraInformation": [
-      "No.714音波寶可夢",
-      "身高0.5/體重8.0",
-      "從大大的耳朵發出超音波，尋找水果來填飽肚子。會把啃果蟲誤認成食物。"
-    ]
+      "No.714音波宝可梦",
+      "身高0.5/体重8.0",
+      "从大大的耳朵发出超音波，寻找水果来填饱肚子。会把啃果虫误认成食物。"
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Dragon"
   },
   {
     "id": "8069",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/8069/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008069.png",
-    "cardName": "音波龍ex",
+    "cardName": "音波龙ex",
     "skillList": [
       {
-        "name": "隱密飛行",
-        "effect": "在下個對手的回合，這隻寶可夢不會受到【基礎】寶可夢招式的傷害。"
+        "name": "隐密飞行",
+        "effect": "在下个对手的回合，这只宝可梦不会受到【基础】宝可梦招式的伤害。"
       },
       {
-        "name": "制控迴響",
-        "effect": "在下個對手的回合，對手無法從手牌附上特殊能量卡，也無法使出競技場卡。"
+        "name": "制控回响",
+        "effect": "在下个对手的回合，对手无法从手牌附上特殊能量卡，也无法使出竞技场卡。"
       },
       {
-        "name": "[ex規則]",
-        "effect": "寶可夢【ex】【昏厥】時，對手獲得2張獎賞卡。"
+        "name": "[ex规则]",
+        "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
     ],
     "extraInformation": [
       "No.715",
       "",
       ""
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Dragon"
   },
   {
     "id": "8070",
@@ -3132,18 +3438,20 @@
     "skillList": [
       {
         "name": "念力",
-        "effect": "擲1次硬幣若為正面，則將對手的戰鬥寶可夢【麻痺】。"
+        "effect": "掷1次硬币若为正面，则将对手的战斗宝可梦【麻痺】。"
       },
       {
-        "name": "鐵頭碰",
+        "name": "铁头碰",
         "effect": ""
       }
     ],
     "extraInformation": [
-      "No.203長頸寶可夢",
-      "身高1.5/體重41.5",
-      "尾巴上的腦雖然很小，但卻是可以發揮出強大超能力的重要器官。"
-    ]
+      "No.203长颈宝可梦",
+      "身高1.5/体重41.5",
+      "尾巴上的脑虽然很小，但却是可以发挥出强大超能力的重要器官。"
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Colorless"
   },
   {
     "id": "8071",
@@ -3152,158 +3460,174 @@
     "cardName": "奇麒麟",
     "skillList": [
       {
-        "name": "任一頭",
-        "effect": "選擇自己或者對手任一方，被選擇的玩家將手牌全部放回牌庫並重洗。然後，被選擇的玩家從牌庫抽出4張卡。"
+        "name": "任一头",
+        "effect": "选择自己或者对手任一方，被选择的玩家将手牌全部放回牌库并重洗。然后，被选择的玩家从牌库抽出4张卡。"
       },
       {
-        "name": "強力光束",
+        "name": "强力光束",
         "effect": ""
       }
     ],
     "extraInformation": [
-      "No.981長頸寶可夢",
-      "身高3.2/體重160.0",
-      "透過同步頭部和尾巴的腦波，使得牠的超能力提升到了有麒麟奇的１０倍之高。"
-    ]
+      "No.981长颈宝可梦",
+      "身高3.2/体重160.0",
+      "透过同步头部和尾巴的脑波，使得牠的超能力提升到了有麒麟奇的10倍之高。"
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Colorless"
   },
   {
     "id": "7996",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7996/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007996.png",
     "extraInformation": [
-      "No.206地蛇寶可夢",
-      "身高1.5/體重14",
-      "會在陰暗處做出迷宮。只要被誰看見就會用尾巴挖掘地面逃走。"
+      "No.206地蛇宝可梦",
+      "身高1.5/体重14",
+      "会在阴暗处做出迷宫。只要被谁看见就会用尾巴挖掘地面逃走。"
     ],
-    "cardName": "土龍弟弟",
+    "cardName": "土龙弟弟",
     "skillList": [
       {
-        "name": "尋找朋友",
-        "effect": "從自己的牌庫選擇1張寶可夢卡，在給對手看過後加入手牌。並且重洗牌庫。"
+        "name": "寻找朋友",
+        "effect": "从自己的牌库选择1张宝可梦卡，在给对手看过后加入手牌。并且重洗牌库。"
       },
       {
         "name": "咬住",
         "effect": ""
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Colorless"
   },
   {
     "id": "7997",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7997/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007997.png",
     "extraInformation": [
-      "No.982地蛇寶可夢",
-      "身高3.6/體重39.2",
-      "會用堅硬的尾巴挖穿地下深處的岩盤來築巢。巢穴可以長達１０公里。"
+      "No.982地蛇宝可梦",
+      "身高3.6/体重39.2",
+      "会用坚硬的尾巴挖穿地下深处的岩盘来筑巢。巢穴可以长达10公里。"
     ],
-    "cardName": "土龍節節",
+    "cardName": "土龙节节",
     "skillList": [
       {
-        "name": "擲泥",
+        "name": "掷泥",
         "effect": ""
       },
       {
-        "name": "挖逃閃光",
-        "effect": "將對手的戰鬥寶可夢【麻痺】。將這隻寶可夢與附加的卡，全部放回自己的牌庫並重洗。"
+        "name": "挖逃闪光",
+        "effect": "将对手的战斗宝可梦【麻痺】。将这只宝可梦与附加的卡，全部放回自己的牌库并重洗。"
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Colorless"
   },
   {
     "id": "7998",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7998/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007998.png",
     "extraInformation": [
-      "No.278海鷗寶可夢",
-      "身高0.6/體重9.5",
-      "會乘著上升氣流，如同滑翔機般地飛在空中輸送鳥嘴銜著的食物。"
+      "No.278海鸥宝可梦",
+      "身高0.6/体重9.5",
+      "会乘著上升气流，如同滑翔机般地飞在空中输送鸟嘴衔著的食物。"
     ],
-    "cardName": "長翅鷗",
+    "cardName": "长翅鸥",
     "skillList": [
       {
-        "name": "起風",
+        "name": "起风",
         "effect": ""
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Colorless"
   },
   {
     "id": "7999",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7999/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007999.png",
     "extraInformation": [
-      "No.279水鳥寶可夢",
-      "身高1.2/體重28",
-      "把小型寶可夢裝在鳥嘴裡飛翔的空中送貨員。會漂浮在海上讓翅膀休息。"
+      "No.279水鸟宝可梦",
+      "身高1.2/体重28",
+      "把小型宝可梦装在鸟嘴里飞翔的空中送货员。会漂浮在海上让翅膀休息。"
     ],
-    "cardName": "大嘴鷗",
+    "cardName": "大嘴鸥",
     "skillList": [
       {
-        "name": "[特性]傳言",
-        "effect": "在自己的回合，從手牌使出這張卡並完成進化時，可使用1次。選擇自己的牌庫或者棄牌區任一方。從其中選擇1張支援者卡，在給對手看過後加入手牌。若看過牌庫，則重洗牌庫。"
+        "name": "[特性]传言",
+        "effect": "在自己的回合，从手牌使出这张卡并完成进化时，可使用1次。选择自己的牌库或者弃牌区任一方。从其中选择1张支援者卡，在给对手看过后加入手牌。若看过牌库，则重洗牌库。"
       },
       {
-        "name": "翅膀攻擊",
+        "name": "翅膀攻击",
         "effect": ""
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Colorless"
   },
   {
     "id": "8000",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/8000/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008000.png",
     "extraInformation": [
-      "No.287懶人寶可夢",
-      "身高0.8/體重24",
-      "１天會睡上２０個小時。使看著自己的對手睡意漸濃也是牠的能力之一。"
+      "No.287懒人宝可梦",
+      "身高0.8/体重24",
+      "1天会睡上20个小时。使看著自己的对手睡意渐浓也是牠的能力之一。"
     ],
-    "cardName": "懶人獺",
+    "cardName": "懒人獭",
     "skillList": [
       {
         "name": "哈欠",
-        "effect": "將對手的戰鬥寶可夢【睡眠】。"
+        "effect": "将对手的战斗宝可梦【睡眠】。"
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Colorless"
   },
   {
     "id": "8001",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/8001/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008001.png",
     "extraInformation": [
-      "No.288暴猿寶可夢",
-      "身高1.4/體重46.5",
-      "如果不活動身體，就會累積過多的壓力，使身體狀況變糟。"
+      "No.288暴猿宝可梦",
+      "身高1.4/体重46.5",
+      "如果不活动身体，就会累积过多的压力，使身体状况变糟。"
     ],
-    "cardName": "過動猿",
+    "cardName": "过动猿",
     "skillList": [
       {
-        "name": "正面對決",
+        "name": "正面对决",
         "effect": ""
       },
       {
-        "name": "銳利之爪",
-        "effect": "擲1次硬幣若為正面，則增加60點傷害。"
+        "name": "锐利之爪",
+        "effect": "掷1次硬币若为正面，则增加60点伤害。"
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Colorless"
   },
   {
     "id": "8002",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/8002/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008002.png",
     "extraInformation": [
-      "No.289怕麻煩寶可夢",
-      "身高2/體重130.5",
-      "雖然是世界上最懶散的寶可夢，但能藉由把積蓄的能量一次釋放，發揮出驚人的力量。"
+      "No.289怕麻烦宝可梦",
+      "身高2/体重130.5",
+      "虽然是世界上最懒散的宝可梦，但能借由把积蓄的能量一次释放，发挥出惊人的力量。"
     ],
-    "cardName": "請假王",
+    "cardName": "请假王",
     "skillList": [
       {
-        "name": "[特性]回籠覺",
-        "effect": "在寶可夢檢查時，因這隻寶可夢的【睡眠】的擲硬幣次數改為2次，若沒有全部為正面則無法恢復。"
+        "name": "[特性]回笼觉",
+        "effect": "在宝可梦检查时，因这只宝可梦的【睡眠】的掷硬币次数改为2次，若没有全部为正面则无法恢复。"
       },
       {
-        "name": "懶散頭撞",
-        "effect": "將這隻寶可夢【睡眠】。"
+        "name": "懒散头撞",
+        "effect": "将这只宝可梦【睡眠】。"
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Colorless"
   },
   {
     "id": "8072",
@@ -3313,115 +3637,127 @@
     "skillList": [
       {
         "name": "急降",
-        "effect": "這隻寶可夢也受到10點傷害。"
+        "effect": "这只宝可梦也受到10点伤害。"
       }
     ],
     "extraInformation": [
-      "No.661知更鳥寶可夢",
-      "身高0.3/體重1.7",
-      "平時性情溫和，但在戰鬥開始後，荷爾蒙的平衡會發生變化而變得具有攻擊性。"
-    ]
+      "No.661知更鸟宝可梦",
+      "身高0.3/体重1.7",
+      "平时性情温和，但在战斗开始后，荷尔蒙的平衡会发生变化而变得具有攻击性。"
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Colorless"
   },
   {
     "id": "8003",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/8003/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008003.png",
     "extraInformation": [
-      "No.821小鳥寶可夢",
-      "身高0.2/體重1.8",
-      "性情勇敢，魯莽衝動。眼睛周圍的白色花紋會讓懦弱的寶可夢感到畏懼。"
+      "No.821小鸟宝可梦",
+      "身高0.2/体重1.8",
+      "性情勇敢，鲁莽冲动。眼睛周围的白色花纹会让懦弱的宝可梦感到畏惧。"
     ],
     "cardName": "稚山雀",
     "skillList": [
       {
         "name": "送回",
-        "effect": "將對手的戰鬥寶可夢與備戰寶可夢互換。[由對手選擇放置於戰鬥場的寶可夢。]"
+        "effect": "将对手的战斗宝可梦与备战宝可梦互换。[由对手选择放置于战斗场的宝可梦。]"
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Colorless"
   },
   {
     "id": "8004",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/8004/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008004.png",
     "extraInformation": [
-      "No.822烏鴉寶可夢",
-      "身高0.8/體重16",
-      "人們認為牠會擁有高度智慧，是因為相較於其他鳥寶可夢，牠的腦子是比較大的。"
+      "No.822乌鸦宝可梦",
+      "身高0.8/体重16",
+      "人们认为牠会拥有高度智慧，是因为相较于其他鸟宝可梦，牠的脑子是比较大的。"
     ],
-    "cardName": "藍鴉",
+    "cardName": "蓝鸦",
     "skillList": [
       {
         "name": "滑翔",
         "effect": ""
       },
       {
-        "name": "緊抓",
-        "effect": "在下個對手的回合，受到這個招式的寶可夢無法撤退。"
+        "name": "紧抓",
+        "effect": "在下个对手的回合，受到这个招式的宝可梦无法撤退。"
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Colorless"
   },
   {
     "id": "8073",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/8073/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008073.png",
-    "cardName": "一對鼠",
+    "cardName": "一对鼠",
     "skillList": [
       {
-        "name": "呼喚",
-        "effect": "從自己的牌庫抽出2張卡。"
+        "name": "呼唤",
+        "effect": "从自己的牌库抽出2张卡。"
       },
       {
-        "name": "重摑",
+        "name": "重掴",
         "effect": ""
       }
     ],
     "extraInformation": [
-      "No.924成對寶可夢",
-      "身高0.3/體重1.8",
-      "會以絕佳的團隊合作，把能當成巢穴建材的東西用門牙切斷後搬走。"
-    ]
+      "No.924成对宝可梦",
+      "身高0.3/体重1.8",
+      "会以绝佳的团队合作，把能当成巢穴建材的东西用门牙切断后搬走。"
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Colorless"
   },
   {
     "id": "8074",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/8074/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008074.png",
-    "cardName": "一對鼠",
+    "cardName": "一对鼠",
     "skillList": [
       {
         "name": "附著",
         "effect": ""
       },
       {
-        "name": "踢飛",
+        "name": "踢飞",
         "effect": ""
       }
     ],
     "extraInformation": [
-      "No.924成對寶可夢",
-      "身高0.3/體重1.8",
-      "會以絕佳的團隊合作，把能當成巢穴建材的東西用門牙切斷後搬走。"
-    ]
+      "No.924成对宝可梦",
+      "身高0.3/体重1.8",
+      "会以绝佳的团队合作，把能当成巢穴建材的东西用门牙切断后搬走。"
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Colorless"
   },
   {
     "id": "8075",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/8075/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008075.png",
     "extraInformation": [
-      "No.925家族寶可夢",
-      "身高0.3/體重2.3",
-      "在自己所建的巨大巢穴裡，會有配合睡眠和用餐等用途所分出的多個房間。"
+      "No.925家族宝可梦",
+      "身高0.3/体重2.3",
+      "在自己所建的巨大巢穴里，会有配合睡眠和用餐等用途所分出的多个房间。"
     ],
     "cardName": "一家鼠",
     "skillList": [
       {
-        "name": "重摑",
+        "name": "重掴",
         "effect": ""
       },
       {
         "name": "狂咬",
-        "effect": "在對手的所有寶可夢身上，各放置與自己的場上「一家鼠」的數量相同數量的傷害指示物。"
+        "effect": "在对手的所有宝可梦身上，各放置与自己的场上「一家鼠」的数量相同数量的伤害指示物。"
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Colorless"
   },
   {
     "id": "8005",
@@ -3432,138 +3768,148 @@
       "",
       ""
     ],
-    "cardName": "怒鸚哥ex",
+    "cardName": "怒鹦哥ex",
     "skillList": [
       {
-        "name": "[特性]裝酷重抽",
-        "effect": "只有在自己的最初回合可使用1次。將自己的手牌全部丟棄，從牌庫抽出6張卡。在這個回合，若已經使出了其他的「裝酷重抽」，則這個特性無法使用。"
+        "name": "[特性]装酷重抽",
+        "effect": "只有在自己的最初回合可使用1次。将自己的手牌全部丢弃，从牌库抽出6张卡。在这个回合，若已经使出了其他的「装酷重抽」，则这个特性无法使用。"
       },
       {
-        "name": "鼓足幹勁",
-        "effect": "從自己的棄牌區選擇最多2張基本能量卡，附於1隻備戰寶可夢身上。"
+        "name": "鼓足干劲",
+        "effect": "从自己的弃牌区选择最多2张基本能量卡，附于1只备战宝可梦身上。"
       },
       {
-        "name": "[ex規則]",
-        "effect": "寶可夢【ex】【昏厥】時，對手獲得2張獎賞卡。"
+        "name": "[ex规则]",
+        "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Colorless"
   },
   {
     "id": "8076",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/8076/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008076.png",
     "extraInformation": [
-      "No.973同步寶可夢",
-      "身高1.6/體重37.0",
-      "為了避免積蓄在肚子裡的能量外流，似乎會把自己的脖子繫在頸根部上。"
+      "No.973同步宝可梦",
+      "身高1.6/体重37.0",
+      "为了避免积蓄在肚子里的能量外流，似乎会把自己的脖子系在颈根部上。"
     ],
-    "cardName": "纏紅鶴",
+    "cardName": "缠红鹤",
     "skillList": [
       {
-        "name": "[特性]一氣群聚",
-        "effect": "在自己的回合，從手牌將這張卡放置於備戰區時，可使用1次。從自己的牌庫選擇最多3張「纏紅鶴」，在給對手看過後加入手牌。並且重洗牌庫。"
+        "name": "[特性]一气群聚",
+        "effect": "在自己的回合，从手牌将这张卡放置于备战区时，可使用1次。从自己的牌库选择最多3张「缠红鹤」，在给对手看过后加入手牌。并且重洗牌库。"
       },
       {
-        "name": "團結之翼",
-        "effect": "造成自己的棄牌區的，持有「團結之翼」招式的寶可夢卡的張數×20點傷害。"
+        "name": "团结之翼",
+        "effect": "造成自己的弃牌区的，持有「团结之翼」招式的宝可梦卡的张数×20点伤害。"
       }
-    ]
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Colorless"
   },
   {
     "id": "7937",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7937/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007937.png",
-    "cardName": "深缽鎮",
+    "cardName": "深钵镇",
     "skillList": [
       {
         "name": "",
-        "effect": "雙方玩家在每個自己的回合時，可使用1次，可從自己的牌庫選擇1張【基礎】寶可夢卡（「擁有規則的寶可夢」除外），放置於備戰區。並且重洗牌庫。"
+        "effect": "双方玩家在每个自己的回合时，可使用1次，可从自己的牌库选择1张【基础】宝可梦卡（「拥有规则的宝可梦」除外），放置于备战区。并且重洗牌库。"
       },
       {
-        "name": "[競技場規則]",
-        "effect": "在自己的回合時，可將1張競技場卡放置於戰鬥場旁邊。若其他競技場卡被放置，則將這張卡丟棄。名稱相同的競技場卡無法放置於場上。"
+        "name": "[竞技场规则]",
+        "effect": "在自己的回合时，可将1张竞技场卡放置于战斗场旁边。若其他竞技场卡被放置，则将这张卡丢弃。名称相同的竞技场卡无法放置于场上。"
       }
-    ]
+    ],
+    "type": "Trainers"
   },
   {
     "id": "8010",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/8010/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008010.png",
-    "cardName": "災禍雪山",
+    "cardName": "灾祸雪山",
     "skillList": [
       {
         "name": "",
-        "effect": "雙方玩家每次從自己的手牌將能量卡附於【基礎】寶可夢（【水】寶可夢除外）身上時，在那隻寶可夢身上放置2個傷害指示物。"
+        "effect": "双方玩家每次从自己的手牌将能量卡附于【基础】宝可梦（【水】宝可梦除外）身上时，在那只宝可梦身上放置2个伤害指示物。"
       },
       {
-        "name": "[競技場規則]",
-        "effect": "在自己的回合時，可將1張競技場卡放置於戰鬥場旁邊。若其他競技場卡被放置，則將這張卡丟棄。名稱相同的競技場卡無法放置於場上。"
+        "name": "[竞技场规则]",
+        "effect": "在自己的回合时，可将1张竞技场卡放置于战斗场旁边。若其他竞技场卡被放置，则将这张卡丢弃。名称相同的竞技场卡无法放置于场上。"
       }
-    ]
+    ],
+    "type": "Trainers"
   },
   {
     "id": "8081",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/8081/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008081.png",
-    "cardName": "災禍荒野",
+    "cardName": "灾祸荒野",
     "skillList": [
       {
         "name": "",
-        "effect": "雙方的所有【基礎】寶可夢（【鬥】寶可夢除外）【撤退】所需的能量各增加1個。"
+        "effect": "双方的所有【基础】宝可梦（【斗】宝可梦除外）【撤退】所需的能量各增加1个。"
       },
       {
-        "name": "[競技場規則]",
-        "effect": "在自己的回合時，可將1張競技場卡放置於戰鬥場旁邊。若其他競技場卡被放置，則將這張卡丟棄。名稱相同的競技場卡無法放置於場上。"
+        "name": "[竞技场规则]",
+        "effect": "在自己的回合时，可将1张竞技场卡放置于战斗场旁边。若其他竞技场卡被放置，则将这张卡丢弃。名称相同的竞技场卡无法放置于场上。"
       }
-    ]
+    ],
+    "type": "Trainers"
   },
-    {
+  {
     "id": "7938",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7938/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007938.png",
-    "cardName": "練習工房",
+    "cardName": "练习工房",
     "skillList": [
       {
         "name": "",
-        "effect": "雙方的【1階進化】寶可夢使用的招式，對對手的戰鬥寶可夢造成的傷害「+10」點。"
+        "effect": "双方的【1阶进化】宝可梦使用的招式，对对手的战斗宝可梦造成的伤害「+10」点。"
       },
       {
-        "name": "[競技場規則]",
-        "effect": "在自己的回合時，可將1張競技場卡放置於戰鬥場旁邊。若其他競技場卡被放置，則將這張卡丟棄。名稱相同的競技場卡無法放置於場上。"
+        "name": "[竞技场规则]",
+        "effect": "在自己的回合时，可将1张竞技场卡放置于战斗场旁边。若其他竞技场卡被放置，则将这张卡丢弃。名称相同的竞技场卡无法放置于场上。"
       }
-    ]
+    ],
+    "type": "Trainers"
   },
   {
     "id": "8078",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/8078/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008078.png",
-    "cardName": "勇氣護符",
+    "cardName": "勇气护符",
     "skillList": [
       {
         "name": "",
-        "effect": "附有這張卡的【基礎】寶可夢的最大HP「+50」。"
+        "effect": "附有这张卡的【基础】宝可梦的最大HP「+50」。"
       },
       {
-        "name": "[寶可夢道具規則]",
-        "effect": "在自己的回合時，可將不限張數的寶可夢道具卡附於自己的寶可夢身上。1隻寶可夢只可附上1張寶可夢道具卡，並且保持附加狀態。"
+        "name": "[宝可梦道具规则]",
+        "effect": "在自己的回合时，可将不限张数的宝可梦道具卡附于自己的宝可梦身上。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
       }
-    ]
+    ],
+    "type": "Trainers"
   },
   {
     "id": "7837",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7837/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007837.png",
-    "cardName": "講究腰帶",
+    "cardName": "讲究腰带",
     "skillList": [
       {
         "name": "",
-        "effect": "附有這張卡的寶可夢使用的招式，對對手的戰鬥場的「寶可夢【V】」造成的傷害「+30」點。"
+        "effect": "附有这张卡的宝可梦使用的招式，对对手的战斗场的「宝可梦【V】」造成的伤害「+30」点。"
       },
       {
-        "name": "[寶可夢道具規則]",
-        "effect": "在自己的回合時，可將不限張數的寶可夢道具卡附於自己的寶可夢身上。1隻寶可夢只可附上1張寶可夢道具卡，並且保持附加狀態。"
+        "name": "[宝可梦道具规则]",
+        "effect": "在自己的回合时，可将不限张数的宝可梦道具卡附于自己的宝可梦身上。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
       }
-    ]
+    ],
+    "type": "Trainers"
   },
   {
     "id": "7936",
@@ -3573,29 +3919,31 @@
     "skillList": [
       {
         "name": "",
-        "effect": "選擇1隻對手的備戰寶可夢，與戰鬥寶可夢互換。"
+        "effect": "选择1只对手的备战宝可梦，与战斗宝可梦互换。"
       },
       {
-        "name": "[支援者規則]",
-        "effect": "在自己的回合時，支援者卡只可使用1張。"
+        "name": "[支援者规则]",
+        "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
-    ]
+    ],
+    "type": "Trainers"
   },
   {
     "id": "7934",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7934/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007934.png",
-    "cardName": "克拉韋爾",
+    "cardName": "克拉韦尔",
     "skillList": [
       {
         "name": "",
-        "effect": "從自己的牌庫選擇最多3張HP為「120」以下的【基礎】寶可夢卡，在給對手看過後加入手牌。並且重洗牌庫。"
+        "effect": "从自己的牌库选择最多3张HP为「120」以下的【基础】宝可梦卡，在给对手看过后加入手牌。并且重洗牌库。"
       },
       {
-        "name": "[支援者規則]",
-        "effect": "在自己的回合時，支援者卡只可使用1張。"
+        "name": "[支援者规则]",
+        "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
-    ]
+    ],
+    "type": "Trainers"
   },
   {
     "id": "7933",
@@ -3605,13 +3953,14 @@
     "skillList": [
       {
         "name": "",
-        "effect": "選擇1張自己的手牌，放回牌庫下方。然後，從牌庫抽卡直到自己的手牌滿5張為止。（若自己的手牌只有這1張，則無法使用這張卡。）"
+        "effect": "选择1张自己的手牌，放回牌库下方。然后，从牌库抽卡直到自己的手牌满5张为止。（若自己的手牌只有这1张，则无法使用这张卡。）"
       },
       {
-        "name": "[支援者規則]",
-        "effect": "在自己的回合時，支援者卡只可使用1張。"
+        "name": "[支援者规则]",
+        "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
-    ]
+    ],
+    "type": "Trainers"
   },
   {
     "id": "7935",
@@ -3621,13 +3970,14 @@
     "skillList": [
       {
         "name": "",
-        "effect": "從自己的牌庫抽出2張卡。若場上有自己的競技場卡，則再抽出2張卡。"
+        "effect": "从自己的牌库抽出2张卡。若场上有自己的竞技场卡，则再抽出2张卡。"
       },
       {
-        "name": "[支援者規則]",
-        "effect": "在自己的回合時，支援者卡只可使用1張。"
+        "name": "[支援者规则]",
+        "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
-    ]
+    ],
+    "type": "Trainers"
   },
   {
     "id": "8009",
@@ -3637,153 +3987,163 @@
     "skillList": [
       {
         "name": "",
-        "effect": "選擇對手的所有寶可夢身上各自附加的特殊能量各1個，將其丟棄。"
+        "effect": "选择对手的所有宝可梦身上各自附加的特殊能量各1个，将其丢弃。"
       },
       {
-        "name": "[支援者規則]",
-        "effect": "在自己的回合時，支援者卡只可使用1張。"
+        "name": "[支援者规则]",
+        "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
-    ]
+    ],
+    "type": "Trainers"
   },
   {
     "id": "8008",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/8008/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008008.png",
-    "cardName": "古魯夏",
+    "cardName": "古鲁夏",
     "skillList": [
       {
         "name": "",
-        "effect": "從牌庫抽卡直到自己的手牌滿5張為止。若自己的場上寶可夢身上1張能量卡都沒有附加，則抽卡直到滿7張為止。"
+        "effect": "从牌库抽卡直到自己的手牌满5张为止。若自己的场上宝可梦身上1张能量卡都没有附加，则抽卡直到满7张为止。"
       },
       {
-        "name": "[支援者規則]",
-        "effect": "在自己的回合時，支援者卡只可使用1張。"
+        "name": "[支援者规则]",
+        "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
-    ]
+    ],
+    "type": "Trainers"
   },
   {
     "id": "8080",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/8080/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008080.png",
-    "cardName": "奇樹",
+    "cardName": "奇树",
     "skillList": [
       {
         "name": "",
-        "effect": "雙方玩家各將自己的手牌全部翻回反面並重洗，放回牌庫下方。然後，各從牌庫抽出與自己剩餘獎賞卡的張數相同數量的卡。"
+        "effect": "双方玩家各将自己的手牌全部翻回反面并重洗，放回牌库下方。然后，各从牌库抽出与自己剩余奖赏卡的张数相同数量的卡。"
       },
       {
-        "name": "[支援者規則]",
-        "effect": "在自己的回合時，支援者卡只可使用1張。"
+        "name": "[支援者规则]",
+        "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
-    ]
+    ],
+    "type": "Trainers"
   },
   {
     "id": "8079",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/8079/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008079.png",
-    "cardName": "薩瓦羅",
+    "cardName": "萨瓦罗",
     "skillList": [
       {
         "name": "",
-        "effect": "選擇最多2隻自己的寶可夢，各恢復「50」HP。"
+        "effect": "选择最多2只自己的宝可梦，各恢复「50」HP。"
       },
       {
-        "name": "[支援者規則]",
-        "effect": "在自己的回合時，支援者卡只可使用1張。"
+        "name": "[支援者规则]",
+        "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
-    ]
+    ],
+    "type": "Trainers"
   },
   {
     "id": "8077",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/8077/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008077.png",
-    "cardName": "親送無人機",
+    "cardName": "亲送无人机",
     "skillList": [
       {
         "name": "",
-        "effect": "擲2次硬幣，若全部為正面，則從自己的牌庫任意選擇1張卡加入手牌。並且重洗牌庫。"
+        "effect": "掷2次硬币，若全部为正面，则从自己的牌库任意选择1张卡加入手牌。并且重洗牌库。"
       },
       {
-        "name": "[物品規則]",
-        "effect": "在自己的回合時，物品卡可不限張數使用。"
+        "name": "[物品规则]",
+        "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
-    ]
+    ],
+    "type": "Trainers"
   },
   {
     "id": "8007",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/8007/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008007.png",
-    "cardName": "戰鬥牛奶",
+    "cardName": "战斗牛奶",
     "skillList": [
       {
         "name": "",
-        "effect": "這張卡只有在自己剩餘獎賞卡的張數比對手剩餘獎賞卡的張數多時才可使用。將自己的1隻寶可夢恢復「60」HP。"
+        "effect": "这张卡只有在自己剩余奖赏卡的张数比对手剩余奖赏卡的张数多时才可使用。将自己的1只宝可梦恢复「60」HP。"
       },
       {
-        "name": "[物品規則]",
-        "effect": "在自己的回合時，物品卡可不限張數使用。"
+        "name": "[物品规则]",
+        "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
-    ]
+    ],
+    "type": "Trainers"
   },
   {
     "id": "7932",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7932/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007932.png",
-    "cardName": "超級球",
+    "cardName": "超级球",
     "skillList": [
       {
         "name": "",
-        "effect": "查看自己的牌庫上方7張卡，從其中選擇1張寶可夢卡，在給對手看過後加入手牌。將剩餘卡放回牌庫並重洗。"
+        "effect": "查看自己的牌库上方7张卡，从其中选择1张宝可梦卡，在给对手看过后加入手牌。将剩余卡放回牌库并重洗。"
       },
       {
-        "name": "[物品規則]",
-        "effect": "在自己的回合時，物品卡可不限張數使用。"
+        "name": "[物品规则]",
+        "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
-    ]
+    ],
+    "type": "Trainers"
   },
   {
     "id": "8006",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/8006/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008006.png",
-    "cardName": "厲害釣竿",
+    "cardName": "厉害钓竿",
     "skillList": [
       {
         "name": "",
-        "effect": "從自己的棄牌區選擇寶可夢卡與基本能量卡合計最多3張，在給對手看過後放回牌庫並重洗。"
+        "effect": "从自己的弃牌区选择宝可梦卡与基本能量卡合计最多3张，在给对手看过后放回牌库并重洗。"
       },
       {
-        "name": "[物品規則]",
-        "effect": "在自己的回合時，物品卡可不限張數使用。"
+        "name": "[物品规则]",
+        "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
-    ]
+    ],
+    "type": "Trainers"
   },
   {
     "id": "7931",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7931/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007931.png",
-    "cardName": "超級能量回收",
+    "cardName": "超级能量回收",
     "skillList": [
       {
         "name": "",
-        "effect": "這張卡必須將自己的2張手牌丟棄才可使用。從自己的棄牌區選擇最多4張基本能量卡，在給對手看過後加入手牌。（不可選擇因這張卡的效果而丟棄的能量卡。）"
+        "effect": "这张卡必须将自己的2张手牌丢弃才可使用。从自己的弃牌区选择最多4张基本能量卡，在给对手看过后加入手牌。（不可选择因这张卡的效果而丢弃的能量卡。）"
       },
       {
-        "name": "[物品規則]",
-        "effect": "在自己的回合時，物品卡可不限張數使用。"
+        "name": "[物品规则]",
+        "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
-    ]
+    ],
+    "type": "Energy"
   },
   {
     "id": "7939",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7939/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007939.png",
-    "cardName": "噴射能量",
+    "cardName": "喷射能量",
     "skillList": [
       {
         "name": "",
-        "effect": "只要這張卡附於寶可夢身上，視為提供1個【無】能量。從手牌將這張卡附於備戰寶可夢身上時，將附有這張卡的寶可夢與戰鬥寶可夢互換。"
+        "effect": "只要这张卡附于宝可梦身上，视为提供1个【无】能量。从手牌将这张卡附于备战宝可梦身上时，将附有这张卡的宝可梦与战斗宝可梦互换。"
       }
-    ]
+    ],
+    "type": "Energy"
   },
   {
     "id": "7940",
@@ -3793,32 +4153,35 @@
     "skillList": [
       {
         "name": "",
-        "effect": "只要這張卡附於寶可夢身上，視為提供1個所有屬性的能量。若附有這張卡的寶可夢身上附有這張卡以外的特殊能量卡，則視為提供1個【無】能量。"
+        "effect": "只要这张卡附于宝可梦身上，视为提供1个所有属性的能量。若附有这张卡的宝可梦身上附有这张卡以外的特殊能量卡，则视为提供1个【无】能量。"
       }
-    ]
+    ],
+    "type": "Energy"
   },
   {
     "id": "8011",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/8011/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008011.png",
-    "cardName": "反轉能量",
+    "cardName": "反转能量",
     "skillList": [
       {
         "name": "",
-        "effect": "只要這張卡附於寶可夢身上，視為提供1個【無】能量。 附於進化寶可夢（「擁有規則的寶可夢」除外）身上時，若自己剩餘獎賞卡的張數，比對手剩餘獎賞卡的張數多，則視為提供3個所有屬性的能量。"
+        "effect": "只要这张卡附于宝可梦身上，视为提供1个【无】能量。 附于进化宝可梦（「拥有规则的宝可梦」除外）身上时，若自己剩余奖赏卡的张数，比对手剩余奖赏卡的张数多，则视为提供3个所有属性的能量。"
       }
-    ]
+    ],
+    "type": "Energy"
   },
   {
     "id": "8082",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/8082/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008082.png",
-    "cardName": "治療能量",
+    "cardName": "治疗能量",
     "skillList": [
       {
         "name": "",
-        "effect": "只要這張卡附於寶可夢身上，視為提供1個【無】能量。附有這張卡的寶可夢不會【睡眠】・【麻痺】・【混亂】，受到的【睡眠】・【麻痺】・【混亂】全部恢復。"
+        "effect": "只要这张卡附于宝可梦身上，视为提供1个【无】能量。附有这张卡的宝可梦不会【睡眠】・【麻痺】・【混乱】，受到的【睡眠】・【麻痺】・【混乱】全部恢复。"
       }
-    ]
+    ],
+    "type": "Energy"
   }
 ]

@@ -22,14 +22,14 @@
   const goSeries = (item) => {
     if(item.no == ''){
       uni.showToast({
-      	title: '暂未发行',
+        title: '暂未发行',
         icon: 'none',
-      	duration: 2000
+        duration: 2000
       });
       return
     }
     uni.navigateTo({
-			url: `/pages/seriesDet/index?no=${item.no}`,
+			url: `/pages/seriesDet/index?no=${item.no}&sname=${encodeURIComponent(item.name)}`,
 			success: res => {},
 			fail: () => {},
 			complete: () => {}

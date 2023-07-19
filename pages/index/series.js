@@ -88,6 +88,10 @@ const sdata = [
         name: 'Shining Fates',
         no: 'SS4.5',
         logo: 'https://www.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/swsh_series/swsh045/swsh045-slider-logo-en.png'
+      },{
+        name: 'Vivid Voltage',
+        no: 'SS4',
+        logo: 'https://www.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/swsh_series/swsh04/swsh04-slider-logo-en.png'
       }
     ]
   }
