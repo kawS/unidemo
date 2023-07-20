@@ -4,7 +4,7 @@
 			<div>{{ serName }}</div>
 			<div>共{{ detList.length }}张</div>
 		</div>
-		<div class="tabs">
+		<div class="tabs" v-if="sno == 'SV1' || sno == 'SV2'">
 			<div class="tn xs" @click="showFilter">过滤</div>
 			<div class="tn" :class="{on: classType == 'All'}" @click="changeTabs('All')">全部</div>
 			<div class="tn" :class="{on: classType == 'Pokemon'}" @click="changeTabs('Pokemon')">宝可梦卡</div>
@@ -18,6 +18,7 @@
 				<image src="@/static/img/tcg-card-back.jpg" mode="widthFix" class="cback"></image>
 				<image :src="item.imgUrl" lazy-load mode="widthFix" class="img"></image>
 			</div>
+			<!-- {{ item.cardName }} -->
 		</div>
 	</div>
 	<div v-if="!isLoading && detList.length == 0" class="empty">
@@ -65,6 +66,7 @@
 	const typeList = returnPMType('all');
 
 	let isLoading = ref(true);
+	let sno = ref(null);
 	let serName = ref(null);
 	let detList = ref([]);
 	let aList = ref([]);
@@ -78,34 +80,44 @@
 	let showCardUrl = ref('');
 	
 	onLoad(options => {
-		const no = options.no;
+		sno = options.no;
 		serName.value = decodeURIComponent(options.sname);
-		if(no == 'SV2'){
-			uni.showLoading({
-				title: '加载中',
-				mask: true
-			});
-			import('./SV2.json').then(res => {
-				detList.value = res.default;
-				aList.value = res.default;
-				pList.value = res.default.filter(item => {
-					return item.type == 'Pokemon'
-				});
-				tList.value = res.default.filter(item => {
-					return item.type == 'Trainers'
-				});
-				eList.value = res.default.filter(item => {
-					return item.type == 'Energy'
-				})
-				isLoading.value = false;
-				setTimeout(function () {
-					uni.hideLoading();
-				}, 2000);
-			})
-		}else{
-			isLoading.value = false
+		switch(sno) {
+			case 'SV1': import('./SV1.json').then((res) => {getData(res)}); break;
+			case 'SV2': import('./SV2.json').then((res) => {getData(res)}); break;
+			case 'SS12.5': import('./SS12_5.json').then((res) => {getData(res)}); break;
+			case 'SS12': import('./SS12.json').then((res) => {getData(res)}); break;
+			case 'SS11': import('./SS11.json').then((res) => {getData(res)}); break;
+			case 'SS10.5': import('./SS10_5.json').then((res) => {getData(res)}); break;
+			case 'SS10': import('./SS10.json').then((res) => {getData(res)}); break;
+			case 'SS9': import('./SS9.json').then((res) => {getData(res)}); break;
+			case 'SS8': import('./SS8.json').then((res) => {getData(res)}); break;
+			case 'SS7.5': import('./SS7_5.json').then((res) => {getData(res)}); break;
+			default: isLoading.value = false; break
 		}
 	})
+
+	const getData = (res) => {
+		uni.showLoading({
+			title: '加载中',
+			mask: true
+		});
+		detList.value = res.default;
+		aList.value = res.default;
+		pList.value = res.default.filter(item => {
+			return item.type == 'Pokemon'
+		});
+		tList.value = res.default.filter(item => {
+			return item.type == 'Trainers'
+		});
+		eList.value = res.default.filter(item => {
+			return item.type == 'Energy'
+		})
+		isLoading.value = false;
+		setTimeout(function () {
+			uni.hideLoading();
+		}, 2000);
+	}
 
 	const _showLoading = (duration = 2000) => {
 		uni.showLoading({
@@ -215,6 +227,7 @@
 			position: relative;
 			margin: 0 0 20rpx 0;
 			width: 48%;
+			min-height: 80rpx;
 			text-align: center;
 			.picwp{
 				position: relative;
