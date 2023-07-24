@@ -1,6 +1,12 @@
 <template>
+  <div class="hot">
+    <navigator :url="'../webview/index?url=https://play.limitlesstcg.com/decks'">
+      <image src="https://play.limitlesstcg.com/limitless.png" mode="widthFix" class="img"></image>
+      limitlesstcg卡组推荐
+    </navigator>
+  </div>
   <div class="list">
-    <div class="sbox" v-for="item in seriesList">
+    <div class="sbox" v-for="item in seriesList" :key="item.sname">
       <div class="tlt">{{ item.sname }} {{ item.sename }}</div>
       <div class="slist">
         <div class="item" v-for="sitem in item.list" :key="sitem.no" @click="goSeries(sitem)">
@@ -38,6 +44,15 @@
 </script>
 
 <style scoped lang="scss">
+  .hot{
+    padding: 20rpx;
+    .img{
+      margin: 0 auto;
+      width: 200rpx;
+      display: block
+    }
+    text-align: center;
+  }
   .list{
     padding: 30rpx 0;
     .sbox{

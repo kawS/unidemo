@@ -4,6 +4,7 @@ const common_vendor = require("./common/vendor.js");
 if (!Math) {
   "./pages/index/index.js";
   "./pages/seriesDet/index.js";
+  "./pages/webview/index.js";
 }
 const _sfc_main = {
   __name: "App",

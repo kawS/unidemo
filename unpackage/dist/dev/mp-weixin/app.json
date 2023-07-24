@@ -1,7 +1,8 @@
 {
   "pages": [
     "pages/index/index",
-    "pages/seriesDet/index"
+    "pages/seriesDet/index",
+    "pages/webview/index"
   ],
   "window": {
     "navigationBarTextStyle": "black",

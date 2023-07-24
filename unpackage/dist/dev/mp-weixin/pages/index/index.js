@@ -37,7 +37,8 @@ const _sfc_main = {
                 d: sitem.no,
                 e: common_vendor.o(($event) => goSeries(sitem), sitem.no)
               };
-            })
+            }),
+            d: item.sname
           };
         })
       };

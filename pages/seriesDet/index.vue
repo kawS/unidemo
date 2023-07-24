@@ -1,10 +1,11 @@
 <template>
+	<page-meta :page-style="`overflow: ${isShowCard == true ? 'hidden' : '' }`" />
 	<div class="fctrl">
 		<div class="info">
-			<div>{{ serName }}</div>
+			<div>{{ serName }} - {{ sno }}</div>
 			<div>共{{ detList.length }}张</div>
 		</div>
-		<div class="tabs" v-if="sno == 'SV1' || sno == 'SV2'">
+		<div class="tabs" v-if="sno == 'SV1' || sno == 'SV2' || sno == 'SS12' || sno == 'SS12.5' || sno == 'SS11' || sno == 'SS10.5' || sno == 'SS7.5'">
 			<div class="tn xs" @click="showFilter">过滤</div>
 			<div class="tn" :class="{on: classType == 'All'}" @click="changeTabs('All')">全部</div>
 			<div class="tn" :class="{on: classType == 'Pokemon'}" @click="changeTabs('Pokemon')">宝可梦卡</div>
@@ -19,6 +20,8 @@
 				<image :src="item.imgUrl" lazy-load mode="widthFix" class="img"></image>
 			</div>
 			<!-- {{ item.cardName }} -->
+			<!-- {{ item.id }} -->
+			<!-- <div class="name" v-if="/\d/.test(item.id) == false">{{ item.id }}</div> -->
 		</div>
 	</div>
 	<div v-if="!isLoading && detList.length == 0" class="empty">
@@ -52,7 +55,20 @@
 	</div>
 	<div class="popups" v-if="isShowCard">
 		<div class="p-showcard" :class="{'animate__zoomIn': isShowCard}">
-			<image :src="showCardUrl" mode="widthFix" class="img"></image>
+			<image :src="showCardDet.imgUrl" mode="widthFix" class="img"></image>
+			<div class="detInfo">
+				<div class="name">{{ showCardDet.cardName }}</div>
+				<div class="skill" v-if="!/^(基本).*?(能量)$/.test(showCardDet.cardName)">
+					<div class="item" v-for="skill in showCardDet.skillList" :key="skill.name">
+						<div class="sname" :class="{
+							tera: /太晶/g.test(skill.name), 
+							ability: /特性/g.test(skill.name),
+							grule: /规则/g.test(skill.name),
+							vstar: /VSTAR力量/g.test(skill.name)}">{{ skill.name }}</div>
+						<div class="sdet">{{ skill.effect == '' ? '-' : skill.effect}}</div>
+					</div>
+				</div>
+			</div>
 			<div class="close" @click="isShowCard = false">关闭</div>
 		</div>
 	</div>
@@ -75,9 +91,9 @@
 	let eList = ref([]);
 	let classType = ref('All');
 	let isShowFilter = ref(false);
-	let filterStr = ref('');
+	let filterStr = ref(null);
 	let isShowCard = ref(false);
-	let showCardUrl = ref('');
+	let showCardDet = ref(null);
 	
 	onLoad(options => {
 		sno = options.no;
@@ -184,7 +200,7 @@
 
   const showDet = (item) => {
     // console.log(item.id)
-		showCardUrl.value = item.imgUrl;
+		showCardDet.value = item;
 		isShowCard.value = true
   }
 </script>
@@ -246,6 +262,15 @@
 					display: block;
 				}
 			}
+			.name{
+				position: absolute;
+				bottom: 0;
+				left: 0;
+				background: rgba(0,0,0,.4);
+				width: 100%;
+				text-align: center;
+				color: #fff;
+			}
 		}
 	}
 	.empty{
@@ -283,6 +308,7 @@
 				box-sizing: border-box;
 				&.on{
 					border-color: #16baaa;
+					color: #16baaa
 				}
 				.img{
 					margin: 10rpx auto;
@@ -302,14 +328,52 @@
 	}
 	.p-showcard{
 		position: absolute;
-		top: 10%;
-		left: 5%;
-		width: 90%;
+		top: 0;
+		left: 0;
+		padding: 10% 5% 5%;
+		width: 100%;
+		height: 100%;
 		animation-duration: .4s;
+		overflow-y: scroll;
+		box-sizing: border-box;
 		.img{
 			margin: 0 auto;
-			width: 100%;
+			width: 70%;
 			display: block;
+		}
+		.detInfo{
+			margin: 30rpx auto 0;
+			padding: 10rpx 20rpx;
+			width: 90%;
+			background: rgba(255,255,255,.9);
+			border-radius: 20rpx;
+			font-size: 14px;
+			.name{
+				text-align: center;
+			}
+			.skill{
+				.item{
+					margin: 10rpx 0;
+					&:last-of-type{
+						margin-bottom: 0;
+					}
+					.sname{
+						color: #999
+					}
+					.tera{
+						color: #00a6da;
+					}
+					.ability{
+						color: #ce2a2c
+					}
+					.grule{
+						color: #16baaa
+					}
+					.vstar{
+						color: #635811;
+					}
+				}
+			}
 		}
 		.close{
 			margin: 30rpx auto 0;
@@ -317,6 +381,7 @@
 			background: #fff;
 			width: 30%;
 			border-radius: 10rpx;
+			font-size: 14px;
 			text-align: center;
 		}
 	}

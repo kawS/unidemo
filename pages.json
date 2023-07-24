@@ -12,6 +12,13 @@
 			{
 				// "navigationBarTitleText": ""
 			}
+		},
+		{
+			"path" : "pages/webview/index",
+			"style" :                                                                                    
+			{
+				// "navigationBarTitleText": ""
+			}
 		}
 	],
 	"globalStyle": {

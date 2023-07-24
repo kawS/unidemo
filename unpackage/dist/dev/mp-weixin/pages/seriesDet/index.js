@@ -16,9 +16,9 @@ const _sfc_main = {
     let eList = common_vendor.ref([]);
     let classType = common_vendor.ref("All");
     let isShowFilter = common_vendor.ref(false);
-    let filterStr = common_vendor.ref("");
+    let filterStr = common_vendor.ref(null);
     let isShowCard = common_vendor.ref(false);
-    let showCardUrl = common_vendor.ref("");
+    let showCardDet = common_vendor.ref(null);
     common_vendor.onLoad((options) => {
       sno = options.no;
       serName.value = decodeURIComponent(options.sname);
@@ -164,38 +164,40 @@ const _sfc_main = {
       isShowFilter.value = false;
     };
     const showDet = (item) => {
-      showCardUrl.value = item.imgUrl;
+      showCardDet.value = item;
       isShowCard.value = true;
     };
     return (_ctx, _cache) => {
       return common_vendor.e({
-        a: common_vendor.t(common_vendor.unref(serName)),
-        b: common_vendor.t(common_vendor.unref(detList).length),
-        c: common_vendor.unref(sno) == "SV1" || common_vendor.unref(sno) == "SV2"
-      }, common_vendor.unref(sno) == "SV1" || common_vendor.unref(sno) == "SV2" ? {
-        d: common_vendor.o(showFilter),
-        e: common_vendor.unref(classType) == "All" ? 1 : "",
-        f: common_vendor.o(($event) => changeTabs("All")),
-        g: common_vendor.unref(classType) == "Pokemon" ? 1 : "",
-        h: common_vendor.o(($event) => changeTabs("Pokemon")),
-        i: common_vendor.unref(classType) == "Trainers" ? 1 : "",
-        j: common_vendor.o(($event) => changeTabs("Trainers")),
-        k: common_vendor.unref(classType) == "Energy" ? 1 : "",
-        l: common_vendor.o(($event) => changeTabs("Energy"))
+        a: `overflow: ${common_vendor.unref(isShowCard) == true ? "hidden" : ""}`,
+        b: common_vendor.t(common_vendor.unref(serName)),
+        c: common_vendor.t(common_vendor.unref(sno)),
+        d: common_vendor.t(common_vendor.unref(detList).length),
+        e: common_vendor.unref(sno) == "SV1" || common_vendor.unref(sno) == "SV2" || common_vendor.unref(sno) == "SS12" || common_vendor.unref(sno) == "SS12.5" || common_vendor.unref(sno) == "SS11" || common_vendor.unref(sno) == "SS10.5" || common_vendor.unref(sno) == "SS7.5"
+      }, common_vendor.unref(sno) == "SV1" || common_vendor.unref(sno) == "SV2" || common_vendor.unref(sno) == "SS12" || common_vendor.unref(sno) == "SS12.5" || common_vendor.unref(sno) == "SS11" || common_vendor.unref(sno) == "SS10.5" || common_vendor.unref(sno) == "SS7.5" ? {
+        f: common_vendor.o(showFilter),
+        g: common_vendor.unref(classType) == "All" ? 1 : "",
+        h: common_vendor.o(($event) => changeTabs("All")),
+        i: common_vendor.unref(classType) == "Pokemon" ? 1 : "",
+        j: common_vendor.o(($event) => changeTabs("Pokemon")),
+        k: common_vendor.unref(classType) == "Trainers" ? 1 : "",
+        l: common_vendor.o(($event) => changeTabs("Trainers")),
+        m: common_vendor.unref(classType) == "Energy" ? 1 : "",
+        n: common_vendor.o(($event) => changeTabs("Energy"))
       } : {}, {
-        m: common_vendor.f(common_vendor.unref(detList), (item, k0, i0) => {
+        o: common_vendor.f(common_vendor.unref(detList), (item, k0, i0) => {
           return {
             a: item.imgUrl,
             b: item.id,
             c: common_vendor.o(($event) => showDet(item), item.id)
           };
         }),
-        n: common_assets._imports_0,
-        o: !common_vendor.unref(isLoading) && common_vendor.unref(detList).length == 0
+        p: common_assets._imports_0,
+        q: !common_vendor.unref(isLoading) && common_vendor.unref(detList).length == 0
       }, !common_vendor.unref(isLoading) && common_vendor.unref(detList).length == 0 ? {
-        p: common_assets._imports_1
+        r: common_assets._imports_1
       } : {}, {
-        q: common_vendor.f(common_vendor.unref(typeList), (item, k0, i0) => {
+        s: common_vendor.f(common_vendor.unref(typeList), (item, k0, i0) => {
           return {
             a: item.imgUrl,
             b: common_vendor.unref(filterStr) == item.ename ? 1 : "",
@@ -203,25 +205,40 @@ const _sfc_main = {
             d: item.value
           };
         }),
-        r: common_vendor.unref(classType) == "All" || common_vendor.unref(classType) == "Pokemon",
-        s: common_vendor.unref(filterStr) == "竞技场" ? 1 : "",
-        t: common_vendor.o(($event) => filterTrainers("竞技场")),
-        v: common_vendor.unref(filterStr) == "宝可梦道具" ? 1 : "",
-        w: common_vendor.o(($event) => filterTrainers("宝可梦道具")),
-        x: common_vendor.unref(filterStr) == "支援者" ? 1 : "",
-        y: common_vendor.o(($event) => filterTrainers("支援者")),
-        z: common_vendor.unref(filterStr) == "物品" ? 1 : "",
-        A: common_vendor.o(($event) => filterTrainers("物品")),
-        B: common_vendor.unref(classType) == "All" || common_vendor.unref(classType) == "Trainers",
-        C: common_vendor.o(resetList),
-        D: common_vendor.o(($event) => common_vendor.isRef(isShowFilter) ? isShowFilter.value = false : isShowFilter = false),
-        E: common_vendor.unref(isShowFilter),
-        F: common_vendor.unref(isShowCard)
-      }, common_vendor.unref(isShowCard) ? {
-        G: common_vendor.unref(showCardUrl),
-        H: common_vendor.o(($event) => common_vendor.isRef(isShowCard) ? isShowCard.value = false : isShowCard = false),
-        I: common_vendor.unref(isShowCard) ? 1 : ""
-      } : {});
+        t: common_vendor.unref(classType) == "All" || common_vendor.unref(classType) == "Pokemon",
+        v: common_vendor.unref(filterStr) == "竞技场" ? 1 : "",
+        w: common_vendor.o(($event) => filterTrainers("竞技场")),
+        x: common_vendor.unref(filterStr) == "宝可梦道具" ? 1 : "",
+        y: common_vendor.o(($event) => filterTrainers("宝可梦道具")),
+        z: common_vendor.unref(filterStr) == "支援者" ? 1 : "",
+        A: common_vendor.o(($event) => filterTrainers("支援者")),
+        B: common_vendor.unref(filterStr) == "物品" ? 1 : "",
+        C: common_vendor.o(($event) => filterTrainers("物品")),
+        D: common_vendor.unref(classType) == "All" || common_vendor.unref(classType) == "Trainers",
+        E: common_vendor.o(resetList),
+        F: common_vendor.o(($event) => common_vendor.isRef(isShowFilter) ? isShowFilter.value = false : isShowFilter = false),
+        G: common_vendor.unref(isShowFilter),
+        H: common_vendor.unref(isShowCard)
+      }, common_vendor.unref(isShowCard) ? common_vendor.e({
+        I: common_vendor.unref(showCardDet).imgUrl,
+        J: common_vendor.t(common_vendor.unref(showCardDet).cardName),
+        K: !/^(基本).*?(能量)$/.test(common_vendor.unref(showCardDet).cardName)
+      }, !/^(基本).*?(能量)$/.test(common_vendor.unref(showCardDet).cardName) ? {
+        L: common_vendor.f(common_vendor.unref(showCardDet).skillList, (skill, k0, i0) => {
+          return {
+            a: common_vendor.t(skill.name),
+            b: /太晶/g.test(skill.name) ? 1 : "",
+            c: /特性/g.test(skill.name) ? 1 : "",
+            d: /规则/g.test(skill.name) ? 1 : "",
+            e: /VSTAR力量/g.test(skill.name) ? 1 : "",
+            f: common_vendor.t(skill.effect == "" ? "-" : skill.effect),
+            g: skill.name
+          };
+        })
+      } : {}, {
+        M: common_vendor.o(($event) => common_vendor.isRef(isShowCard) ? isShowCard.value = false : isShowCard = false),
+        N: common_vendor.unref(isShowCard) ? 1 : ""
+      }) : {});
     };
   }
 };

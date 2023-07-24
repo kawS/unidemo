@@ -19,7 +19,7 @@
     "condition": false
   },
   "compileType": "miniprogram",
-  "libVersion": "3.0.0",
+  "libVersion": "2.33.0",
   "appid": "wx0bf904d495a674ab",
   "projectname": "ptcglivedatabase",
   "condition": {},

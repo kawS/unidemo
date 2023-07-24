@@ -23,6 +23,15 @@
 /* 垂直间距 */
 /* 透明度 */
 /* 文章场景相关 */
+.hot.data-v-1cf27b2a {
+  padding: 20rpx;
+  text-align: center;
+}
+.hot .img.data-v-1cf27b2a {
+  margin: 0 auto;
+  width: 200rpx;
+  display: block;
+}
 .list.data-v-1cf27b2a {
   padding: 30rpx 0;
 }
