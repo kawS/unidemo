@@ -173,8 +173,8 @@ const _sfc_main = {
         b: common_vendor.t(common_vendor.unref(serName)),
         c: common_vendor.t(common_vendor.unref(sno)),
         d: common_vendor.t(common_vendor.unref(detList).length),
-        e: common_vendor.unref(sno) == "SV1" || common_vendor.unref(sno) == "SV2" || common_vendor.unref(sno) == "SS12" || common_vendor.unref(sno) == "SS12.5" || common_vendor.unref(sno) == "SS11" || common_vendor.unref(sno) == "SS10.5" || common_vendor.unref(sno) == "SS7.5"
-      }, common_vendor.unref(sno) == "SV1" || common_vendor.unref(sno) == "SV2" || common_vendor.unref(sno) == "SS12" || common_vendor.unref(sno) == "SS12.5" || common_vendor.unref(sno) == "SS11" || common_vendor.unref(sno) == "SS10.5" || common_vendor.unref(sno) == "SS7.5" ? {
+        e: common_vendor.unref(sno) == "SV1" || common_vendor.unref(sno) == "SV2" || common_vendor.unref(sno) == "SS12" || common_vendor.unref(sno) == "SS12.5" || common_vendor.unref(sno) == "SS11" || common_vendor.unref(sno) == "SS10.5" || common_vendor.unref(sno) == "SS10" || common_vendor.unref(sno) == "SS9" || common_vendor.unref(sno) == "SS7.5"
+      }, common_vendor.unref(sno) == "SV1" || common_vendor.unref(sno) == "SV2" || common_vendor.unref(sno) == "SS12" || common_vendor.unref(sno) == "SS12.5" || common_vendor.unref(sno) == "SS11" || common_vendor.unref(sno) == "SS10.5" || common_vendor.unref(sno) == "SS10" || common_vendor.unref(sno) == "SS9" || common_vendor.unref(sno) == "SS7.5" ? {
         f: common_vendor.o(showFilter),
         g: common_vendor.unref(classType) == "All" ? 1 : "",
         h: common_vendor.o(($event) => changeTabs("All")),

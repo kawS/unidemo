@@ -3880,40 +3880,6 @@ const SV2 = [
     type: "Trainers"
   },
   {
-    id: "8078",
-    url: "https://asia.pokemon-card.com/tw/card-search/detail/8078/",
-    imgUrl: "https://asia.pokemon-card.com/tw/card-img/tw00008078.png",
-    cardName: "勇气护符",
-    skillList: [
-      {
-        name: "",
-        effect: "附有这张卡的【基础】宝可梦的最大HP「+50」。"
-      },
-      {
-        name: "[宝可梦道具规则]",
-        effect: "在自己的回合时，可将不限张数的宝可梦道具卡附于自己的宝可梦身上。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
-      }
-    ],
-    type: "Trainers"
-  },
-  {
-    id: "7837",
-    url: "https://asia.pokemon-card.com/tw/card-search/detail/7837/",
-    imgUrl: "https://asia.pokemon-card.com/tw/card-img/tw00007837.png",
-    cardName: "讲究腰带",
-    skillList: [
-      {
-        name: "",
-        effect: "附有这张卡的宝可梦使用的招式，对对手的战斗场的「宝可梦【V】」造成的伤害「+30」点。"
-      },
-      {
-        name: "[宝可梦道具规则]",
-        effect: "在自己的回合时，可将不限张数的宝可梦道具卡附于自己的宝可梦身上。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
-      }
-    ],
-    type: "Trainers"
-  },
-  {
     id: "7936",
     url: "https://asia.pokemon-card.com/tw/card-search/detail/7936/",
     imgUrl: "https://asia.pokemon-card.com/tw/card-img/tw00007936.png",
@@ -4045,6 +4011,40 @@ const SV2 = [
       {
         name: "[支援者规则]",
         effect: "在自己的回合时，支援者卡只可使用1张。"
+      }
+    ],
+    type: "Trainers"
+  },
+  {
+    id: "8078",
+    url: "https://asia.pokemon-card.com/tw/card-search/detail/8078/",
+    imgUrl: "https://asia.pokemon-card.com/tw/card-img/tw00008078.png",
+    cardName: "勇气护符",
+    skillList: [
+      {
+        name: "",
+        effect: "附有这张卡的【基础】宝可梦的最大HP「+50」。"
+      },
+      {
+        name: "[宝可梦道具规则]",
+        effect: "在自己的回合时，可将不限张数的宝可梦道具卡附于自己的宝可梦身上。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
+      }
+    ],
+    type: "Trainers"
+  },
+  {
+    id: "7837",
+    url: "https://asia.pokemon-card.com/tw/card-search/detail/7837/",
+    imgUrl: "https://asia.pokemon-card.com/tw/card-img/tw00007837.png",
+    cardName: "讲究腰带",
+    skillList: [
+      {
+        name: "",
+        effect: "附有这张卡的宝可梦使用的招式，对对手的战斗场的「宝可梦【V】」造成的伤害「+30」点。"
+      },
+      {
+        name: "[宝可梦道具规则]",
+        effect: "在自己的回合时，可将不限张数的宝可梦道具卡附于自己的宝可梦身上。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
       }
     ],
     type: "Trainers"

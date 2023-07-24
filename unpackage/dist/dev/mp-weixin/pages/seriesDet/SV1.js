@@ -3703,91 +3703,6 @@ const SV1 = [
     ]
   },
   {
-    id: "7643",
-    url: "https://asia.pokemon-card.com/tw/card-search/detail/7643/",
-    imgUrl: "https://asia.pokemon-card.com/tw/card-img/tw00007643.png",
-    type: "Trainers",
-    cardName: "不服输头带",
-    skillList: [
-      {
-        name: "",
-        effect: "若自己剩余奖赏卡的张数比对手剩余奖赏卡的张数多，则附有这张卡的宝可梦使用的招式，对对手的战斗宝可梦造成的伤害「+30」点。"
-      },
-      {
-        name: "[宝可梦道具规则]",
-        effect: "在自己的回合时，宝可梦道具卡可不限张数附于自己的宝可梦身上。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
-      }
-    ]
-  },
-  {
-    id: "7642",
-    url: "https://asia.pokemon-card.com/tw/card-search/detail/7642/",
-    imgUrl: "https://asia.pokemon-card.com/tw/card-img/tw00007642.png",
-    type: "Trainers",
-    cardName: "学习装置",
-    skillList: [
-      {
-        name: "",
-        effect: "每次当自己的战斗宝可梦受到对手的宝可梦招式的伤害而【昏厥】时，可选择1张那只宝可梦身上附加的基本能量卡，改附于附有这张卡的宝可梦身上。"
-      },
-      {
-        name: "[宝可梦道具规则]",
-        effect: "在自己的回合时，宝可梦道具卡可不限张数附于自己的宝可梦身上。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
-      }
-    ]
-  },
-  {
-    id: "7641",
-    url: "https://asia.pokemon-card.com/tw/card-search/detail/7641/",
-    imgUrl: "https://asia.pokemon-card.com/tw/card-img/tw00007641.png",
-    type: "Trainers",
-    cardName: "岩石胸甲",
-    skillList: [
-      {
-        name: "",
-        effect: "附有这张卡的【斗】宝可梦，受到对手的宝可梦招式的伤害「-30」点。"
-      },
-      {
-        name: "[宝可梦道具规则]",
-        effect: "在自己的回合时，宝可梦道具卡可不限张数附于自己的宝可梦身上。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
-      }
-    ]
-  },
-  {
-    id: "7721",
-    url: "https://asia.pokemon-card.com/tw/card-search/detail/7721/",
-    imgUrl: "https://asia.pokemon-card.com/tw/card-img/tw00007721.png",
-    type: "Trainers",
-    cardName: "凸凸头盔",
-    skillList: [
-      {
-        name: "",
-        effect: "当附有这张卡的宝可梦在战斗场受到对手的宝可梦招式的伤害时，在使用招式的宝可梦身上放置2个伤害指示物。"
-      },
-      {
-        name: "[宝可梦道具规则]",
-        effect: "在自己的回合时，宝可梦道具卡可不限张数附于自己的宝可梦身上。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
-      }
-    ]
-  },
-  {
-    id: "8458",
-    url: "https://asia.pokemon-card.com/tw/card-search/detail/8458/",
-    imgUrl: "https://asia.pokemon-card.com/tw/card-img/tw00008458.png",
-    type: "Trainers",
-    cardName: "活力头带",
-    skillList: [
-      {
-        name: "",
-        effect: "附有这张卡的宝可梦使用的招式，对对手的战斗宝可梦造成的伤害「+10」点。"
-      },
-      {
-        name: "[宝可梦道具规则]",
-        effect: "在自己的回合时，宝可梦道具卡可不限张数附于自己的宝可梦身上。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
-      }
-    ]
-  },
-  {
     id: "7724",
     url: "https://asia.pokemon-card.com/tw/card-search/detail/7724/",
     imgUrl: "https://asia.pokemon-card.com/tw/card-img/tw00007724.png",
@@ -3971,6 +3886,91 @@ const SV1 = [
       {
         name: "[支援者规则]",
         effect: "在自己的回合时，支援者卡只可使用1张。"
+      }
+    ]
+  },
+  {
+    id: "7643",
+    url: "https://asia.pokemon-card.com/tw/card-search/detail/7643/",
+    imgUrl: "https://asia.pokemon-card.com/tw/card-img/tw00007643.png",
+    type: "Trainers",
+    cardName: "不服输头带",
+    skillList: [
+      {
+        name: "",
+        effect: "若自己剩余奖赏卡的张数比对手剩余奖赏卡的张数多，则附有这张卡的宝可梦使用的招式，对对手的战斗宝可梦造成的伤害「+30」点。"
+      },
+      {
+        name: "[宝可梦道具规则]",
+        effect: "在自己的回合时，宝可梦道具卡可不限张数附于自己的宝可梦身上。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
+      }
+    ]
+  },
+  {
+    id: "7642",
+    url: "https://asia.pokemon-card.com/tw/card-search/detail/7642/",
+    imgUrl: "https://asia.pokemon-card.com/tw/card-img/tw00007642.png",
+    type: "Trainers",
+    cardName: "学习装置",
+    skillList: [
+      {
+        name: "",
+        effect: "每次当自己的战斗宝可梦受到对手的宝可梦招式的伤害而【昏厥】时，可选择1张那只宝可梦身上附加的基本能量卡，改附于附有这张卡的宝可梦身上。"
+      },
+      {
+        name: "[宝可梦道具规则]",
+        effect: "在自己的回合时，宝可梦道具卡可不限张数附于自己的宝可梦身上。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
+      }
+    ]
+  },
+  {
+    id: "7641",
+    url: "https://asia.pokemon-card.com/tw/card-search/detail/7641/",
+    imgUrl: "https://asia.pokemon-card.com/tw/card-img/tw00007641.png",
+    type: "Trainers",
+    cardName: "岩石胸甲",
+    skillList: [
+      {
+        name: "",
+        effect: "附有这张卡的【斗】宝可梦，受到对手的宝可梦招式的伤害「-30」点。"
+      },
+      {
+        name: "[宝可梦道具规则]",
+        effect: "在自己的回合时，宝可梦道具卡可不限张数附于自己的宝可梦身上。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
+      }
+    ]
+  },
+  {
+    id: "7721",
+    url: "https://asia.pokemon-card.com/tw/card-search/detail/7721/",
+    imgUrl: "https://asia.pokemon-card.com/tw/card-img/tw00007721.png",
+    type: "Trainers",
+    cardName: "凸凸头盔",
+    skillList: [
+      {
+        name: "",
+        effect: "当附有这张卡的宝可梦在战斗场受到对手的宝可梦招式的伤害时，在使用招式的宝可梦身上放置2个伤害指示物。"
+      },
+      {
+        name: "[宝可梦道具规则]",
+        effect: "在自己的回合时，宝可梦道具卡可不限张数附于自己的宝可梦身上。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
+      }
+    ]
+  },
+  {
+    id: "8458",
+    url: "https://asia.pokemon-card.com/tw/card-search/detail/8458/",
+    imgUrl: "https://asia.pokemon-card.com/tw/card-img/tw00008458.png",
+    type: "Trainers",
+    cardName: "活力头带",
+    skillList: [
+      {
+        name: "",
+        effect: "附有这张卡的宝可梦使用的招式，对对手的战斗宝可梦造成的伤害「+10」点。"
+      },
+      {
+        name: "[宝可梦道具规则]",
+        effect: "在自己的回合时，宝可梦道具卡可不限张数附于自己的宝可梦身上。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
       }
     ]
   },
