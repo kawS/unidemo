@@ -150,8 +150,9 @@ const _sfc_main = {
       _showLoading();
       filterStr.value = type;
       detList.value = aList.value.filter((item) => {
+        var _a;
         const reg = new RegExp(`[${type}]`, "g");
-        return item.type == "Trainers" && reg.test(item.skillList[1].name);
+        return item.type == "Trainers" && (reg.test(item.skillList[1].name) || reg.test((_a = item.skillList[0]) == null ? void 0 : _a.name));
       });
       classType.value = "Trainers";
       isShowFilter.value = false;
@@ -167,14 +168,17 @@ const _sfc_main = {
       showCardDet.value = item;
       isShowCard.value = true;
     };
+    const returnShowFilterDom = (sno2) => {
+      return sno2 == "SV1" || sno2 == "SV2" || sno2 == "SS12" || sno2 == "SS12.5" || sno2 == "SS11" || sno2 == "SS10.5" || sno2 == "SS10" || sno2 == "SS9" || sno2 == "SS8" || sno2 == "SS7.5";
+    };
     return (_ctx, _cache) => {
       return common_vendor.e({
         a: `overflow: ${common_vendor.unref(isShowCard) == true ? "hidden" : ""}`,
         b: common_vendor.t(common_vendor.unref(serName)),
         c: common_vendor.t(common_vendor.unref(sno)),
         d: common_vendor.t(common_vendor.unref(detList).length),
-        e: common_vendor.unref(sno) == "SV1" || common_vendor.unref(sno) == "SV2" || common_vendor.unref(sno) == "SS12" || common_vendor.unref(sno) == "SS12.5" || common_vendor.unref(sno) == "SS11" || common_vendor.unref(sno) == "SS10.5" || common_vendor.unref(sno) == "SS10" || common_vendor.unref(sno) == "SS9" || common_vendor.unref(sno) == "SS7.5"
-      }, common_vendor.unref(sno) == "SV1" || common_vendor.unref(sno) == "SV2" || common_vendor.unref(sno) == "SS12" || common_vendor.unref(sno) == "SS12.5" || common_vendor.unref(sno) == "SS11" || common_vendor.unref(sno) == "SS10.5" || common_vendor.unref(sno) == "SS10" || common_vendor.unref(sno) == "SS9" || common_vendor.unref(sno) == "SS7.5" ? {
+        e: returnShowFilterDom(common_vendor.unref(sno))
+      }, returnShowFilterDom(common_vendor.unref(sno)) ? {
         f: common_vendor.o(showFilter),
         g: common_vendor.unref(classType) == "All" ? 1 : "",
         h: common_vendor.o(($event) => changeTabs("All")),

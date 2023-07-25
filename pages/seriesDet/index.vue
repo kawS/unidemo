@@ -5,7 +5,7 @@
 			<div>{{ serName }} - {{ sno }}</div>
 			<div>共{{ detList.length }}张</div>
 		</div>
-		<div class="tabs" v-if="sno == 'SV1' || sno == 'SV2' || sno == 'SS12' || sno == 'SS12.5' || sno == 'SS11' || sno == 'SS10.5' || sno =='SS10' || sno == 'SS9' || sno == 'SS7.5'">
+		<div class="tabs" v-if="returnShowFilterDom(sno)">
 			<div class="tn xs" @click="showFilter">过滤</div>
 			<div class="tn" :class="{on: classType == 'All'}" @click="changeTabs('All')">全部</div>
 			<div class="tn" :class="{on: classType == 'Pokemon'}" @click="changeTabs('Pokemon')">宝可梦卡</div>
@@ -184,7 +184,7 @@
 		filterStr.value = type;
 		detList.value = aList.value.filter(item => {
 			const reg = new RegExp(`[${type}]`, 'g');
-			return item.type == 'Trainers' && reg.test(item.skillList[1].name)
+			return item.type == 'Trainers' && (reg.test(item.skillList[1].name) || reg.test(item.skillList[0]?.name))
 		})
 		classType.value = 'Trainers';
 		isShowFilter.value = false
@@ -203,6 +203,19 @@
 		showCardDet.value = item;
 		isShowCard.value = true
   }
+
+	const returnShowFilterDom = (sno) => {
+		return sno == 'SV1' || 
+						sno == 'SV2' || 
+						sno == 'SS12' || 
+						sno == 'SS12.5' || 
+						sno == 'SS11' || 
+						sno == 'SS10.5' || 
+						sno == 'SS10' || 
+						sno == 'SS9' || 
+						sno == 'SS8' || 
+						sno == 'SS7.5'
+	}
 </script>
 
 <style scoped lang="scss">
