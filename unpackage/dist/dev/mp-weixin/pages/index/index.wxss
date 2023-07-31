@@ -32,6 +32,22 @@
   width: 200rpx;
   display: block;
 }
+.showCardImgType.data-v-1cf27b2a {
+  padding: 0 20rpx;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.showCardImgType .bns.data-v-1cf27b2a {
+  margin: 0 10rpx;
+  padding: 0 20rpx;
+  background: #eee;
+  border-radius: 5px;
+}
+.showCardImgType .on.data-v-1cf27b2a {
+  background: #16baaa;
+  color: #fff;
+}
 .list.data-v-1cf27b2a {
   padding: 30rpx 0;
 }

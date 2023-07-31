@@ -4,6 +4,19 @@ const pages_index_series = require("./series.js");
 const _sfc_main = {
   __name: "index",
   setup(__props) {
+    let showImgType = common_vendor.ref(null);
+    common_vendor.onLoad((options) => {
+      let t = common_vendor.wx$1.getStorageSync("imgType");
+      if (t == "en") {
+        showImgType.value = t;
+      } else {
+        showImgType.value = null;
+      }
+    });
+    const setLag = (type) => {
+      common_vendor.wx$1.setStorageSync("imgType", type);
+      showImgType.value = type == "en" ? "en" : null;
+    };
     const goSeries = (item) => {
       if (item.no == "") {
         common_vendor.index.showToast({
@@ -25,7 +38,11 @@ const _sfc_main = {
     };
     return (_ctx, _cache) => {
       return {
-        a: common_vendor.f(common_vendor.unref(pages_index_series.sdata), (item, k0, i0) => {
+        a: common_vendor.unref(showImgType) == "en" ? 1 : "",
+        b: common_vendor.o(($event) => setLag("en")),
+        c: common_vendor.unref(showImgType) == null ? 1 : "",
+        d: common_vendor.o(($event) => setLag("cn")),
+        e: common_vendor.f(common_vendor.unref(pages_index_series.sdata), (item, k0, i0) => {
           return {
             a: common_vendor.t(item.sname),
             b: common_vendor.t(item.sename),

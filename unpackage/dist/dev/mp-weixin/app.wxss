@@ -226,7 +226,7 @@ body{
 		left: 0;
 		right: 0;
 		bottom: 0;
-		background: rgba(0,0,0,.5);
+		background: rgba(0,0,0,.8);
 		z-index: 100;
 }
 page{--status-bar-height:25px;--top-window-height:0px;--window-top:0px;--window-bottom:0px;--window-left:0px;--window-right:0px;--window-magin:0px}[data-c-h="true"]{display: none !important;}

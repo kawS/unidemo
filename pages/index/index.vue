@@ -5,6 +5,11 @@
       limitlesstcg卡组推荐
     </navigator>
   </div>
+  <div class="showCardImgType">
+    <div class="tlt">显示卡图版本</div>
+    <div class="bns" :class="{on: showImgType == 'en'}" @click="setLag('en')">美版</div>
+    <div class="bns" :class="{on: showImgType == null}" @click="setLag('cn')">繁中</div>
+  </div>
   <div class="list">
     <div class="sbox" v-for="item in seriesList" :key="item.sname">
       <div class="tlt">{{ item.sname }} {{ item.sename }}</div>
@@ -24,6 +29,24 @@
 <script setup>
   import seriesList from './series'
   import { ref } from 'vue'
+  import { onLoad } from '@dcloudio/uni-app'
+
+  let showImgType = ref(null);
+
+  onLoad(options => {
+    let t = wx.getStorageSync('imgType');
+		if(t == 'en'){
+			showImgType.value = t
+		}else{
+			showImgType.value = null
+		}
+  })
+
+  const setLag = (type) => {
+    wx.setStorageSync('imgType', type)
+    showImgType.value = (type == 'en' ? 'en' : null)
+  }
+  
 
   const goSeries = (item) => {
     if(item.no == ''){
@@ -52,6 +75,22 @@
       display: block
     }
     text-align: center;
+  }
+  .showCardImgType{
+    padding: 0 20rpx;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    .bns{
+      margin: 0 10rpx;
+      padding: 0 20rpx;
+      background: #eee;
+      border-radius: 5px;
+    }
+    .on{
+      background: #16baaa;
+      color: #fff;
+    }
   }
   .list{
     padding: 30rpx 0;

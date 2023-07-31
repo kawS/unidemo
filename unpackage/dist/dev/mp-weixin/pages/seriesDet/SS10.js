@@ -26,7 +26,8 @@ const SS10 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_1.jpg"
   },
   {
     id: "6301",
@@ -49,7 +50,8 @@ const SS10 = [
         name: "冲撞",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_2.jpg"
   },
   {
     id: "6302",
@@ -72,7 +74,8 @@ const SS10 = [
         name: "烦烦炸弹",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_3.jpg"
   },
   {
     id: "6186",
@@ -91,7 +94,8 @@ const SS10 = [
         name: "高速镰",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_4.jpg"
   },
   {
     id: "6055",
@@ -110,7 +114,8 @@ const SS10 = [
         name: "快速攻击",
         effect: "掷1次硬币若为正面，则增加30点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_5.jpg"
   },
   {
     id: "6233",
@@ -129,7 +134,8 @@ const SS10 = [
         name: "高速飞行",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_6.jpg"
   },
   {
     id: "6234",
@@ -152,7 +158,8 @@ const SS10 = [
         name: "广域之翼",
         effect: "若自己手牌的张数比对手手牌的张数多，则增加80点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_7.jpg"
   },
   {
     id: "6056",
@@ -175,7 +182,8 @@ const SS10 = [
         name: "后投",
         effect: "自己的1只备战宝可梦也受到30点伤害。[在备战区不计算弱点・抵抗力。]"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_8.jpg"
   },
   {
     id: "6303",
@@ -194,7 +202,8 @@ const SS10 = [
         name: "打滚",
         effect: "掷1次硬币若为正面，则增加20点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_9.jpg"
   },
   {
     id: "6304",
@@ -217,7 +226,8 @@ const SS10 = [
         name: "劈开",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_10.jpg"
   },
   {
     id: "6059",
@@ -240,7 +250,8 @@ const SS10 = [
         name: "虫咬",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_11.jpg"
   },
   {
     id: "6060",
@@ -263,7 +274,8 @@ const SS10 = [
         name: "突刺",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_12.jpg"
   },
   {
     id: "6235",
@@ -286,7 +298,8 @@ const SS10 = [
         name: "叶子旋风",
         effect: "在下个自己的回合，这只宝可梦无法使用招式。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_13.jpg"
   },
   {
     id: "6236",
@@ -309,7 +322,8 @@ const SS10 = [
         name: "活蹦乱跳",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_14.jpg"
   },
   {
     id: "6237",
@@ -328,7 +342,8 @@ const SS10 = [
         name: "旋转回旋",
         effect: "将这只宝可梦与备战宝可梦互换。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_15.jpg"
   },
   {
     id: "6238",
@@ -351,7 +366,8 @@ const SS10 = [
         name: "绿叶舞步",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_16.jpg"
   },
   {
     id: "6239",
@@ -378,7 +394,8 @@ const SS10 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_17.jpg"
   },
   {
     id: "6240",
@@ -405,7 +422,8 @@ const SS10 = [
         name: "[VSTAR规则]",
         effect: "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_18.jpg"
   },
   {
     id: "6305",
@@ -424,7 +442,8 @@ const SS10 = [
         name: "飞扑",
         effect: "掷1次硬币若为正面，则增加10点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_19.jpg"
   },
   {
     id: "6306",
@@ -447,7 +466,8 @@ const SS10 = [
         name: "锐利羽",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_20.jpg"
   },
   {
     id: "6310",
@@ -466,7 +486,8 @@ const SS10 = [
         name: "火之尾",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_21.jpg"
   },
   {
     id: "6311",
@@ -489,7 +510,8 @@ const SS10 = [
         name: "火焰阵",
         effect: "将对手的战斗宝可梦【灼伤】。在下个对手的回合，受到这个招式的宝可梦无法撤退。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_22.jpg"
   },
   {
     id: "6241",
@@ -512,7 +534,8 @@ const SS10 = [
         name: "火种",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_23.jpg"
   },
   {
     id: "6242",
@@ -535,7 +558,8 @@ const SS10 = [
         name: "火焰",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_24.jpg"
   },
   {
     id: "6313",
@@ -562,7 +586,8 @@ const SS10 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_25.jpg"
   },
   {
     id: "6314",
@@ -589,7 +614,8 @@ const SS10 = [
         name: "[VMAX规则]",
         effect: "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_26.jpg"
   },
   {
     id: "6116",
@@ -612,7 +638,8 @@ const SS10 = [
         name: "激狂轰炸",
         effect: "造成这只宝可梦身上放置的伤害指示物的数量×70点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_27.jpg"
   },
   {
     id: "6315",
@@ -635,7 +662,8 @@ const SS10 = [
         name: "冲撞",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_28.jpg"
   },
   {
     id: "6316",
@@ -658,7 +686,8 @@ const SS10 = [
         name: "卷入奇袭",
         effect: "将双方的战斗宝可梦与附加的卡全部丢弃。[自己先将下一只宝可梦放置于战斗场。]"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_29.jpg"
   },
   {
     id: "6067",
@@ -685,7 +714,8 @@ const SS10 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_30.jpg"
   },
   {
     id: "6068",
@@ -708,7 +738,8 @@ const SS10 = [
         name: "冰冻之风",
         effect: "将对手的战斗宝可梦【睡眠】。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_31.jpg"
   },
   {
     id: "6069",
@@ -731,7 +762,8 @@ const SS10 = [
         name: "暴风雪",
         effect: "对手的所有备战宝可梦也各受到10点伤害。[在备战区不计算弱点・抵抗力。]"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_32.jpg"
   },
   {
     id: "6070",
@@ -754,7 +786,8 @@ const SS10 = [
         name: "冰山压制",
         effect: "选择1个这只宝可梦身上附加的能量，将其丢弃。在下个对手的回合，受到这个招式的宝可梦无法使用招式。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_33.jpg"
   },
   {
     id: "6246",
@@ -777,7 +810,8 @@ const SS10 = [
         name: "水之刀锋",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_34.jpg"
   },
   {
     id: "6071",
@@ -796,7 +830,8 @@ const SS10 = [
         name: "泼水",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_35.jpg"
   },
   {
     id: "6072",
@@ -819,7 +854,8 @@ const SS10 = [
         name: "大闹一番",
         effect: "掷1次硬币若为正面，则增加60点伤害。若为反面，则这只宝可梦也受到60点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_36.jpg"
   },
   {
     id: "6318",
@@ -842,7 +878,8 @@ const SS10 = [
         name: "暴雪制约",
         effect: "在下个对手的回合，受到这个招式的「宝可梦【V】」，无法使用招式。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_37.jpg"
   },
   {
     id: "6320",
@@ -865,7 +902,8 @@ const SS10 = [
         name: "冰之爆破",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_38.jpg"
   },
   {
     id: "6321",
@@ -892,7 +930,8 @@ const SS10 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_39.jpg"
   },
   {
     id: "6322",
@@ -919,7 +958,8 @@ const SS10 = [
         name: "[VSTAR规则]",
         effect: "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_40.jpg"
   },
   {
     id: "6247",
@@ -938,7 +978,8 @@ const SS10 = [
         name: "敲击",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_41.jpg"
   },
   {
     id: "6248",
@@ -957,7 +998,8 @@ const SS10 = [
         name: "硬壳利刃",
         effect: "掷1次硬币若为正面，则增加20点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_42.jpg"
   },
   {
     id: "6073",
@@ -980,7 +1022,8 @@ const SS10 = [
         name: "撞击",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_43.jpg"
   },
   {
     id: "6074",
@@ -1003,7 +1046,8 @@ const SS10 = [
         name: "喷射头击",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_44.jpg"
   },
   {
     id: "6075",
@@ -1026,7 +1070,8 @@ const SS10 = [
         name: "队列之力",
         effect: "增加自己的备战宝可梦的数量×20点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_45.jpg"
   },
   {
     id: "6117",
@@ -1053,7 +1098,8 @@ const SS10 = [
         name: "月光手里剑",
         effect: "将这只宝可梦身上附加的2个能量丢弃，对手的2只宝可梦各受到90点伤害。[在备战区不计算弱点・抵抗力。]"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_46.jpg"
   },
   {
     id: "6323",
@@ -1072,7 +1118,8 @@ const SS10 = [
         name: "冰柱",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_47.jpg"
   },
   {
     id: "6324",
@@ -1095,7 +1142,8 @@ const SS10 = [
         name: "冰山风",
         effect: "若场上有竞技场卡，则增加120点伤害。然后，将那张竞技场卡丢弃。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_48.jpg"
   },
   {
     id: "5591",
@@ -1122,7 +1170,8 @@ const SS10 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_49.jpg"
   },
   {
     id: "6253",
@@ -1149,7 +1198,8 @@ const SS10 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_50.jpg"
   },
   {
     id: "6254",
@@ -1172,7 +1222,8 @@ const SS10 = [
         name: "目标伏特",
         effect: "将这只宝可梦身上附加的2个【雷】能量丢弃，对手的1只备战宝可梦受到120点伤害。[在备战区不计算弱点・抵抗力。]"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_51.jpg"
   },
   {
     id: "6255",
@@ -1195,7 +1246,8 @@ const SS10 = [
         name: "影子束缚",
         effect: "在下个对手的回合，受到这个招式的宝可梦无法撤退。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_52.jpg"
   },
   {
     id: "6077",
@@ -1222,7 +1274,8 @@ const SS10 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_53.jpg"
   },
   {
     id: "6078",
@@ -1249,7 +1302,8 @@ const SS10 = [
         name: "[VSTAR规则]",
         effect: "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_54.jpg"
   },
   {
     id: "6325",
@@ -1272,7 +1326,8 @@ const SS10 = [
         name: "滚动",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_55.jpg"
   },
   {
     id: "6326",
@@ -1295,7 +1350,8 @@ const SS10 = [
         name: "妖精之风",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_56.jpg"
   },
   {
     id: "6327",
@@ -1318,7 +1374,8 @@ const SS10 = [
         name: "魔法射击",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_57.jpg"
   },
   {
     id: "6079",
@@ -1337,7 +1394,8 @@ const SS10 = [
         name: "呓语",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_58.jpg"
   },
   {
     id: "6080",
@@ -1360,7 +1418,8 @@ const SS10 = [
         name: "幻象光线",
         effect: "将对手的战斗宝可梦【混乱】。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_59.jpg"
   },
   {
     id: "6081",
@@ -1379,7 +1438,8 @@ const SS10 = [
         name: "瞬间移动突击",
         effect: "将这只宝可梦与备战宝可梦互换。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_60.jpg"
   },
   {
     id: "6082",
@@ -1398,7 +1458,8 @@ const SS10 = [
         name: "瞬间移动突击",
         effect: "将这只宝可梦与备战宝可梦互换。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_61.jpg"
   },
   {
     id: "6083",
@@ -1421,7 +1482,8 @@ const SS10 = [
         name: "螺旋斩",
         effect: "选择1个这只宝可梦身上附加的能量，改附于备战宝可梦身上。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_62.jpg"
   },
   {
     id: "6258",
@@ -1440,7 +1502,8 @@ const SS10 = [
         name: "三重旋转",
         effect: "掷3次硬币，造成正面出现的次数×10点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_63.jpg"
   },
   {
     id: "6259",
@@ -1459,7 +1522,8 @@ const SS10 = [
         name: "鬼怪气球",
         effect: "在对手的1只备战宝可梦身上放置2个伤害指示物。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_64.jpg"
   },
   {
     id: "6328",
@@ -1482,7 +1546,8 @@ const SS10 = [
         name: "精神射击",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_65.jpg"
   },
   {
     id: "6329",
@@ -1505,7 +1570,8 @@ const SS10 = [
         name: "意念头锤",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_66.jpg"
   },
   {
     id: "6330",
@@ -1524,7 +1590,8 @@ const SS10 = [
         name: "精神歪曲",
         effect: "将对手的战斗宝可梦【混乱】。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_67.jpg"
   },
   {
     id: "6084",
@@ -1547,7 +1614,8 @@ const SS10 = [
         name: "扣杀抽出",
         effect: "从自己的牌库抽出2张卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_68.jpg"
   },
   {
     id: "6085",
@@ -1570,7 +1638,8 @@ const SS10 = [
         name: "神通力",
         effect: "若自己的手牌的张数与对手的手牌的张数相同，则增加80点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_69.jpg"
   },
   {
     id: "6261",
@@ -1593,7 +1662,8 @@ const SS10 = [
         name: "咬住",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_70.jpg"
   },
   {
     id: "6262",
@@ -1616,7 +1686,8 @@ const SS10 = [
         name: "灼热之角",
         effect: "若这只宝可梦身上附有【火】能量，则增加80点伤害，并将对手的战斗宝可梦【灼伤】。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_71.jpg"
   },
   {
     id: "6264",
@@ -1643,7 +1714,8 @@ const SS10 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_72.jpg"
   },
   {
     id: "6265",
@@ -1670,7 +1742,8 @@ const SS10 = [
         name: "[VMAX规则]",
         effect: "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_73.jpg"
   },
   {
     id: "6266",
@@ -1693,7 +1766,8 @@ const SS10 = [
         name: "舍身冲撞",
         effect: "这只宝可梦也受到30点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_74.jpg"
   },
   {
     id: "6335",
@@ -1716,7 +1790,8 @@ const SS10 = [
         name: "终极冲击",
         effect: "在下个自己的回合，这只宝可梦无法使用招式。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_75.jpg"
   },
   {
     id: "6267",
@@ -1739,7 +1814,8 @@ const SS10 = [
         name: "尖石攻击",
         effect: "掷1次硬币若为正面，则增加40点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_76.jpg"
   },
   {
     id: "6268",
@@ -1762,7 +1838,8 @@ const SS10 = [
         name: "侏㑩纪锤",
         effect: "若对手的手牌为3张以下，则这个招式失败。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_77.jpg"
   },
   {
     id: "6189",
@@ -1789,7 +1866,8 @@ const SS10 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_78.jpg"
   },
   {
     id: "6090",
@@ -1812,7 +1890,8 @@ const SS10 = [
         name: "滚动冲撞",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_79.jpg"
   },
   {
     id: "6091",
@@ -1835,7 +1914,8 @@ const SS10 = [
         name: "沙之吐息",
         effect: "选择2个这只宝可梦身上附加的能量，将其丢弃。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_80.jpg"
   },
   {
     id: "6118",
@@ -1862,7 +1942,8 @@ const SS10 = [
         name: "回转踢",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_81.jpg"
   },
   {
     id: "6338",
@@ -1885,7 +1966,8 @@ const SS10 = [
         name: "笔直箭",
         effect: "对手的1只宝可梦受到80点伤害。[在备战区不计算弱点・抵抗力。]"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_82.jpg"
   },
   {
     id: "6092",
@@ -1912,7 +1994,8 @@ const SS10 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_83.jpg"
   },
   {
     id: "6093",
@@ -1939,7 +2022,8 @@ const SS10 = [
         name: "[VSTAR规则]",
         effect: "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_84.jpg"
   },
   {
     id: "6194",
@@ -1962,7 +2046,8 @@ const SS10 = [
         name: "巨岩冲撞",
         effect: "这只宝可梦也受到50点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_85.jpg"
   },
   {
     id: "6094",
@@ -1985,7 +2070,8 @@ const SS10 = [
         name: "暴乱冲撞",
         effect: "这只宝可梦也受到30点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_86.jpg"
   },
   {
     id: "6339",
@@ -2012,7 +2098,8 @@ const SS10 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_87.jpg"
   },
   {
     id: "6211",
@@ -2035,7 +2122,8 @@ const SS10 = [
         name: "滚动冲撞",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_88.jpg"
   },
   {
     id: "6095",
@@ -2054,7 +2142,8 @@ const SS10 = [
         name: "尖刺猛攻",
         effect: "掷硬币直到出现反面，造成正面出现的次数×10点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_89.jpg"
   },
   {
     id: "6096",
@@ -2077,7 +2166,8 @@ const SS10 = [
         name: "针刺刑",
         effect: "在下个对手的回合，受到这个招式的宝可梦无法撤退。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_90.jpg"
   },
   {
     id: "6212",
@@ -2100,7 +2190,8 @@ const SS10 = [
         name: "突刺",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_91.jpg"
   },
   {
     id: "6341",
@@ -2123,7 +2214,8 @@ const SS10 = [
         name: "利爪劈击",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_92.jpg"
   },
   {
     id: "6342",
@@ -2146,7 +2238,8 @@ const SS10 = [
         name: "利爪劈击",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_93.jpg"
   },
   {
     id: "6343",
@@ -2173,7 +2266,8 @@ const SS10 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_94.jpg"
   },
   {
     id: "6097",
@@ -2196,7 +2290,8 @@ const SS10 = [
         name: "撞一下",
         effect: "这只宝可梦也受到10点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_95.jpg"
   },
   {
     id: "6098",
@@ -2219,7 +2314,8 @@ const SS10 = [
         name: "狂野冲撞",
         effect: "这只宝可梦也受到50点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_96.jpg"
   },
   {
     id: "6099",
@@ -2242,7 +2338,8 @@ const SS10 = [
         name: "抓裂",
         effect: "若对手的战斗宝可梦身上放置有伤害指示物，则增加70点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_97.jpg"
   },
   {
     id: "6214",
@@ -2269,7 +2366,8 @@ const SS10 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_98.jpg"
   },
   {
     id: "6215",
@@ -2296,7 +2394,8 @@ const SS10 = [
         name: "[VSTAR规则]",
         effect: "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_99.jpg"
   },
   {
     id: "6273",
@@ -2319,7 +2418,8 @@ const SS10 = [
         name: "暗之极意",
         effect: "增加自己的场上宝可梦身上附加的能量的数量×20点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_100.jpg"
   },
   {
     id: "6100",
@@ -2346,7 +2446,8 @@ const SS10 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_101.jpg"
   },
   {
     id: "6101",
@@ -2373,7 +2474,8 @@ const SS10 = [
         name: "[VSTAR规则]",
         effect: "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_102.jpg"
   },
   {
     id: "6274",
@@ -2392,7 +2494,8 @@ const SS10 = [
         name: "后踢",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_103.jpg"
   },
   {
     id: "6275",
@@ -2415,7 +2518,8 @@ const SS10 = [
         name: "锐利之牙",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_104.jpg"
   },
   {
     id: "6276",
@@ -2438,7 +2542,8 @@ const SS10 = [
         name: "滚球攻击",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_105.jpg"
   },
   {
     id: "6277",
@@ -2457,7 +2562,8 @@ const SS10 = [
         name: "弹回",
         effect: "将对手的战斗宝可梦与备战宝可梦互换。[由对手选择放置于战斗场的宝可梦。]"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_106.jpg"
   },
   {
     id: "6278",
@@ -2480,7 +2586,8 @@ const SS10 = [
         name: "强力光束",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_107.jpg"
   },
   {
     id: "6279",
@@ -2503,7 +2610,8 @@ const SS10 = [
         name: "重磅冲撞",
         effect: "减少对手的战斗宝可梦【撤退】所需的能量的数量×50点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_108.jpg"
   },
   {
     id: "6345",
@@ -2526,7 +2634,8 @@ const SS10 = [
         name: "正面对决",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_109.jpg"
   },
   {
     id: "6346",
@@ -2549,7 +2658,8 @@ const SS10 = [
         name: "铁之冲撞",
         effect: "这只宝可梦也受到30点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_110.jpg"
   },
   {
     id: "6347",
@@ -2568,7 +2678,8 @@ const SS10 = [
         name: "金属压制",
         effect: "掷1次硬币若为正面，则将对手的战斗宝可梦【麻痺】。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_111.jpg"
   },
   {
     id: "6348",
@@ -2591,7 +2702,8 @@ const SS10 = [
         name: "头突",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_112.jpg"
   },
   {
     id: "6280",
@@ -2618,7 +2730,8 @@ const SS10 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_113.jpg"
   },
   {
     id: "6281",
@@ -2645,7 +2758,8 @@ const SS10 = [
         name: "[VSTAR规则]",
         effect: "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_114.jpg"
   },
   {
     id: "6282",
@@ -2664,7 +2778,8 @@ const SS10 = [
         name: "突击",
         effect: "这只宝可梦也受到10点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_115.jpg"
   },
   {
     id: "6283",
@@ -2687,7 +2802,8 @@ const SS10 = [
         name: "利刃切割",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_116.jpg"
   },
   {
     id: "6102",
@@ -2714,7 +2830,8 @@ const SS10 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_117.jpg"
   },
   {
     id: "6350",
@@ -2737,7 +2854,8 @@ const SS10 = [
         name: "巨大之牙",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_118.jpg"
   },
   {
     id: "6353",
@@ -2760,7 +2878,8 @@ const SS10 = [
         name: "撞击",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_119.jpg"
   },
   {
     id: "6103",
@@ -2783,7 +2902,8 @@ const SS10 = [
         name: "羽击",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_120.jpg"
   },
   {
     id: "6104",
@@ -2806,7 +2926,8 @@ const SS10 = [
         name: "空气斩",
         effect: "选择1个这只宝可梦身上附加的能量，将其丢弃。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_121.jpg"
   },
   {
     id: "6354",
@@ -2829,7 +2950,8 @@ const SS10 = [
         name: "竖爪",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_122.jpg"
   },
   {
     id: "6355",
@@ -2852,7 +2974,8 @@ const SS10 = [
         name: "怪力",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_123.jpg"
   },
   {
     id: "6356",
@@ -2875,7 +2998,8 @@ const SS10 = [
         name: "巨体碰撞",
         effect: "选择2个这只宝可梦身上附加的能量，将其丢弃。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_124.jpg"
   },
   {
     id: "6105",
@@ -2894,7 +3018,8 @@ const SS10 = [
         name: "防守压制",
         effect: "在下个对手的回合，这只宝可梦受到招式的伤害「-30」点。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_125.jpg"
   },
   {
     id: "6106",
@@ -2917,7 +3042,8 @@ const SS10 = [
         name: "踢散",
         effect: "增加对手的备战宝可梦的数量×20点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_126.jpg"
   },
   {
     id: "6107",
@@ -2936,7 +3062,8 @@ const SS10 = [
         name: "击掌奇袭",
         effect: "掷1次硬币若为正面，则将对手的战斗宝可梦【麻痺】。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_127.jpg"
   },
   {
     id: "6108",
@@ -2959,7 +3086,8 @@ const SS10 = [
         name: "利爪挥砍",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_128.jpg"
   },
   {
     id: "6285",
@@ -2982,7 +3110,8 @@ const SS10 = [
         name: "口若悬河",
         effect: "在下个对手的回合，受到这个招式的宝可梦无法撤退。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_129.jpg"
   },
   {
     id: "6286",
@@ -3005,7 +3134,8 @@ const SS10 = [
         name: "巨烈破坏",
         effect: "若对手的战斗宝可梦为「宝可梦【VMAX】」，则增加150点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_130.jpg"
   },
   {
     id: "6287",
@@ -3024,7 +3154,8 @@ const SS10 = [
         name: "钩爪",
         effect: "掷1次硬币若为反面，则这个招式失败。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_131.jpg"
   },
   {
     id: "6288",
@@ -3047,7 +3178,8 @@ const SS10 = [
         name: "猛击在地",
         effect: "在下个自己的回合，这只宝可梦无法使用「猛击在地」。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_132.jpg"
   },
   {
     id: "6357",
@@ -3074,7 +3206,8 @@ const SS10 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_133.jpg"
   },
   {
     id: "6291",
@@ -3101,7 +3234,8 @@ const SS10 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_134.jpg"
   },
   {
     id: "6299",
@@ -3118,7 +3252,8 @@ const SS10 = [
         name: "[竞技场规则]",
         effect: "在自己的回合时，只可将1张竞技场卡放置于战斗场旁边。若其他名称的竞技场卡被放置，则将这张卡丢弃。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_142.jpg"
   },
   {
     id: "6115",
@@ -3135,7 +3270,8 @@ const SS10 = [
         name: "[竞技场规则]",
         effect: "在自己的回合时，只可将1张竞技场卡放置于战斗场旁边。若其他名称的竞技场卡被放置，则将这张卡丢弃。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_148.jpg"
   },
   {
     id: "6366",
@@ -3152,7 +3288,8 @@ const SS10 = [
         name: "[竞技场规则]",
         effect: "在自己的回合时，只可将1张竞技场卡放置于战斗场旁边。若其他名称的竞技场卡被放置，则将这张卡丢弃。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_155.jpg"
   },
   {
     id: "6296",
@@ -3169,7 +3306,8 @@ const SS10 = [
         name: "[支援者规则]",
         effect: "在自己的回合时，支援者卡只可使用1张。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_135.jpg"
   },
   {
     id: "6365",
@@ -3186,7 +3324,8 @@ const SS10 = [
         name: "[支援者规则]",
         effect: "在自己的回合时，支援者卡只可使用1张。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_137.jpg"
   },
   {
     id: "6112",
@@ -3203,7 +3342,8 @@ const SS10 = [
         name: "[支援者规则]",
         effect: "在自己的回合时，支援者卡只可使用1张。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_138.jpg"
   },
   {
     id: "6297",
@@ -3220,7 +3360,8 @@ const SS10 = [
         name: "[支援者规则]",
         effect: "在自己的回合时，支援者卡只可使用1张。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_143.jpg"
   },
   {
     id: "6364",
@@ -3237,7 +3378,8 @@ const SS10 = [
         name: "[支援者规则]",
         effect: "在自己的回合时，支援者卡只可使用1张。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_144.jpg"
   },
   {
     id: "6363",
@@ -3254,7 +3396,8 @@ const SS10 = [
         name: "[支援者规则]",
         effect: "在自己的回合时，支援者卡只可使用1张。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_147.jpg"
   },
   {
     id: "6114",
@@ -3271,7 +3414,8 @@ const SS10 = [
         name: "[支援者规则]",
         effect: "在自己的回合时，支援者卡只可使用1张。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_149.jpg"
   },
   {
     id: "6113",
@@ -3288,7 +3432,8 @@ const SS10 = [
         name: "[支援者规则]",
         effect: "在自己的回合时，支援者卡只可使用1张。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_150.jpg"
   },
   {
     id: "6298",
@@ -3305,7 +3450,8 @@ const SS10 = [
         name: "[支援者规则]",
         effect: "在自己的回合时，支援者卡只可使用1张。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_159.jpg"
   },
   {
     id: "6362",
@@ -3326,7 +3472,8 @@ const SS10 = [
         name: "[物品规则]",
         effect: "在自己的回合时，物品卡可不限张数使用。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_152.jpg"
   },
   {
     id: "6111",
@@ -3343,7 +3490,8 @@ const SS10 = [
         name: "[物品规则]",
         effect: "在自己的回合时，物品卡可不限张数使用。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_136.jpg"
   },
   {
     id: "6219",
@@ -3360,7 +3508,8 @@ const SS10 = [
         name: "[物品规则]",
         effect: "在自己的回合时，物品卡可不限张数使用。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_139.jpg"
   },
   {
     id: "6359",
@@ -3377,7 +3526,8 @@ const SS10 = [
         name: "[支援者规则]",
         effect: "在自己的回合时，物品卡可不限张数使用。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_140.jpg"
   },
   {
     id: "6295",
@@ -3394,7 +3544,8 @@ const SS10 = [
         name: "[物品规则]",
         effect: "在自己的回合时，物品卡可不限张数使用。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_141.jpg"
   },
   {
     id: "6196",
@@ -3411,7 +3562,8 @@ const SS10 = [
         name: "[物品规则]",
         effect: "在自己的回合时，物品卡可不限张数使用。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_145.jpg"
   },
   {
     id: "6361",
@@ -3428,7 +3580,8 @@ const SS10 = [
         name: "[物品规则]",
         effect: "在自己的回合时，物品卡可不限张数使用。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_146.jpg"
   },
   {
     id: "5596",
@@ -3445,7 +3598,8 @@ const SS10 = [
         name: "[物品规则]",
         effect: "在自己的回合时，物品卡可不限张数使用。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_151.jpg"
   },
   {
     id: "6110",
@@ -3462,7 +3616,8 @@ const SS10 = [
         name: "[物品规则]",
         effect: "在自己的回合时，物品卡可不限张数使用。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_153.jpg"
   },
   {
     id: "6292",
@@ -3479,7 +3634,8 @@ const SS10 = [
         name: "[物品规则]",
         effect: "在自己的回合时，物品卡可不限张数使用。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_154.jpg"
   },
   {
     id: "6293",
@@ -3496,7 +3652,8 @@ const SS10 = [
         name: "[物品规则]",
         effect: "在自己的回合时，物品卡可不限张数使用。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_156.jpg"
   },
   {
     id: "6360",
@@ -3513,7 +3670,8 @@ const SS10 = [
         name: "[物品规则]",
         effect: "在自己的回合时，物品卡可不限张数使用。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_157.jpg"
   },
   {
     id: "6109",
@@ -3530,7 +3688,8 @@ const SS10 = [
         name: "[物品规则]",
         effect: "在自己的回合时，物品卡可不限张数使用。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_158.jpg"
   }
 ];
 exports.default = SS10;

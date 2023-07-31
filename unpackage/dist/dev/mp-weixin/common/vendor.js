@@ -6724,3 +6724,4 @@ exports.onShow = onShow;
 exports.ref = ref;
 exports.t = t;
 exports.unref = unref;
+exports.wx$1 = wx$1;

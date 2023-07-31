@@ -18,7 +18,8 @@ const SV2 = [
       "会随著风移动到很远的地方。没有人能具体指出帕底亚的毽子草是从哪里来的。"
     ],
     type: "Pokemon",
-    typeEnergy: "Grass"
+    typeEnergy: "Grass",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_1.jpg"
   },
   {
     id: "8013",
@@ -41,7 +42,8 @@ const SV2 = [
       "据说热爱毽子花的人能够透过牠头上的花散发的香味，猜出牠是在哪里出生的。"
     ],
     type: "Pokemon",
-    typeEnergy: "Grass"
+    typeEnergy: "Grass",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_2.jpg"
   },
   {
     id: "8014",
@@ -64,7 +66,8 @@ const SV2 = [
       "会乘著季风到处旅行。当毽子棉的棉花孢子掉光时，牠的旅行和生命也会随之结束。"
     ],
     type: "Pokemon",
-    typeEnergy: "Grass"
+    typeEnergy: "Grass",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_3.jpg"
   },
   {
     id: "8015",
@@ -83,7 +86,8 @@ const SV2 = [
       "最喜欢把树皮叠在身上加厚外壳。就算因此变重也毫不在意。"
     ],
     type: "Pokemon",
-    typeEnergy: "Grass"
+    typeEnergy: "Grass",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_4.jpg"
   },
   {
     id: "8016",
@@ -114,7 +118,8 @@ const SV2 = [
       ""
     ],
     type: "Pokemon",
-    typeEnergy: "Grass"
+    typeEnergy: "Grass",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_5.jpg"
   },
   {
     id: "8017",
@@ -137,7 +142,8 @@ const SV2 = [
       "对甜甜蜜爱不释手，为了全都占为己有，会用引以为傲的角扔飞对手。"
     ],
     type: "Pokemon",
-    typeEnergy: "Grass"
+    typeEnergy: "Grass",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_6.jpg"
   },
   {
     id: "7868",
@@ -160,7 +166,8 @@ const SV2 = [
       "栖息在热带丛林里。脖子上的果实香甜美味。每年会结果２次。"
     ],
     type: "Pokemon",
-    typeEnergy: "Grass"
+    typeEnergy: "Grass",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_7.jpg"
   },
   {
     id: "7943",
@@ -179,7 +186,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Grass"
+    typeEnergy: "Grass",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_8.jpg"
   },
   {
     id: "7944",
@@ -202,7 +210,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Grass"
+    typeEnergy: "Grass",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_9.jpg"
   },
   {
     id: "7945",
@@ -221,7 +230,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Grass"
+    typeEnergy: "Grass",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_10.jpg"
   },
   {
     id: "7946",
@@ -244,7 +254,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Grass"
+    typeEnergy: "Grass",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_11.jpg"
   },
   {
     id: "7871",
@@ -267,7 +278,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Grass"
+    typeEnergy: "Grass",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_12.jpg"
   },
   {
     id: "7872",
@@ -286,7 +298,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Grass"
+    typeEnergy: "Grass",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_13.jpg"
   },
   {
     id: "7873",
@@ -309,7 +322,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Grass"
+    typeEnergy: "Grass",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_14.jpg"
   },
   {
     id: "7874",
@@ -336,7 +350,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Grass"
+    typeEnergy: "Grass",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_15.jpg"
   },
   {
     id: "8018",
@@ -355,7 +370,8 @@ const SV2 = [
       "包裹著身体的线球拥有足以把天敌飞天螳螂的镰刀反弹回去的弹力。"
     ],
     type: "Pokemon",
-    typeEnergy: "Grass"
+    typeEnergy: "Grass",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_16.jpg"
   },
   {
     id: "8019",
@@ -374,7 +390,8 @@ const SV2 = [
       "包裹著身体的线球拥有足以把天敌飞天螳螂的镰刀反弹回去的弹力。"
     ],
     type: "Pokemon",
-    typeEnergy: "Grass"
+    typeEnergy: "Grass",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_17.jpg"
   },
   {
     id: "8020",
@@ -397,7 +414,8 @@ const SV2 = [
       "用丝线吸附在树枝或天花板上无声无息地移动。会在自己被察觉到之前将猎物打倒。"
     ],
     type: "Pokemon",
-    typeEnergy: "Grass"
+    typeEnergy: "Grass",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_18.jpg"
   },
   {
     id: "7875",
@@ -420,7 +438,8 @@ const SV2 = [
       "总是将第３对脚折起来。拥有在遇到危机时能够跳超过10公尺的跳跃力。"
     ],
     type: "Pokemon",
-    typeEnergy: "Grass"
+    typeEnergy: "Grass",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_19.jpg"
   },
   {
     id: "7876",
@@ -443,7 +462,8 @@ const SV2 = [
       "总是将第３对脚折起来。拥有在遇到危机时能够跳超过10公尺的跳跃力。"
     ],
     type: "Pokemon",
-    typeEnergy: "Grass"
+    typeEnergy: "Grass",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_20.jpg"
   },
   {
     id: "7877",
@@ -466,7 +486,8 @@ const SV2 = [
       "认真起来时会用折起的脚站起来，进入决战模式。会在短时间内镇压住敌人。"
     ],
     type: "Pokemon",
-    typeEnergy: "Grass"
+    typeEnergy: "Grass",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_21.jpg"
   },
   {
     id: "7950",
@@ -485,7 +506,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Grass"
+    typeEnergy: "Grass",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_22.jpg"
   },
   {
     id: "7951",
@@ -504,7 +526,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Grass"
+    typeEnergy: "Grass",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_23.jpg"
   },
   {
     id: "7952",
@@ -527,7 +550,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Grass"
+    typeEnergy: "Grass",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_24.jpg"
   },
   {
     id: "7953",
@@ -546,7 +570,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Grass"
+    typeEnergy: "Grass",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_25.jpg"
   },
   {
     id: "7954",
@@ -565,7 +590,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Grass"
+    typeEnergy: "Grass",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_26.jpg"
   },
   {
     id: "7955",
@@ -592,7 +618,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Grass"
+    typeEnergy: "Grass",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_27.jpg"
   },
   {
     id: "7878",
@@ -615,7 +642,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Fire"
+    typeEnergy: "Fire",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_28.jpg"
   },
   {
     id: "8023",
@@ -634,7 +662,8 @@ const SV2 = [
       "会朝著似乎潜伏著虫宝可梦的草丛洒出火花，然后趁牠们跳出来时猎捕。"
     ],
     type: "Pokemon",
-    typeEnergy: "Fire"
+    typeEnergy: "Fire",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_29.jpg"
   },
   {
     id: "8024",
@@ -657,7 +686,8 @@ const SV2 = [
       "飞行能力数一数二。能够攫著100公斤以上的猎物轻轻松松地飞来飞去。"
     ],
     type: "Pokemon",
-    typeEnergy: "Fire"
+    typeEnergy: "Fire",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_30.jpg"
   },
   {
     id: "7881",
@@ -680,7 +710,8 @@ const SV2 = [
       "年幼时雌性的火炎狮会教导自己如何狩猎，长大后就会离群索居。"
     ],
     type: "Pokemon",
-    typeEnergy: "Fire"
+    typeEnergy: "Fire",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_31.jpg"
   },
   {
     id: "7882",
@@ -703,7 +734,8 @@ const SV2 = [
       "雌性们会合力捕杀猎物，所以群体内不会发生有谁挨饿的状况。"
     ],
     type: "Pokemon",
-    typeEnergy: "Fire"
+    typeEnergy: "Fire",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_32.jpg"
   },
   {
     id: "7883",
@@ -726,7 +758,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Fire"
+    typeEnergy: "Fire",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_33.jpg"
   },
   {
     id: "7884",
@@ -745,7 +778,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Fire"
+    typeEnergy: "Fire",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_34.jpg"
   },
   {
     id: "7885",
@@ -768,7 +802,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Fire"
+    typeEnergy: "Fire",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_35.jpg"
   },
   {
     id: "7886",
@@ -791,7 +826,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Fire"
+    typeEnergy: "Fire",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_36.jpg"
   },
   {
     id: "7887",
@@ -818,7 +854,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Fire"
+    typeEnergy: "Fire",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_37.jpg"
   },
   {
     id: "8025",
@@ -837,7 +874,8 @@ const SV2 = [
       "生命寄宿在燃烧的木炭上变成了宝可梦。即使敌人再强，也会以燃烧的斗志迎面而战。"
     ],
     type: "Pokemon",
-    typeEnergy: "Fire"
+    typeEnergy: "Fire",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_38.jpg"
   },
   {
     id: "8026",
@@ -860,7 +898,8 @@ const SV2 = [
       "生命寄宿在燃烧的木炭上变成了宝可梦。即使敌人再强，也会以燃烧的斗志迎面而战。"
     ],
     type: "Pokemon",
-    typeEnergy: "Fire"
+    typeEnergy: "Fire",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_39.jpg"
   },
   {
     id: "8027",
@@ -887,7 +926,8 @@ const SV2 = [
       ""
     ],
     type: "Pokemon",
-    typeEnergy: "Fire"
+    typeEnergy: "Fire",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_40.jpg"
   },
   {
     id: "7888",
@@ -910,7 +950,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Water"
+    typeEnergy: "Water",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_41.jpg"
   },
   {
     id: "7889",
@@ -929,7 +970,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Water"
+    typeEnergy: "Water",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_42.jpg"
   },
   {
     id: "7890",
@@ -952,7 +994,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Water"
+    typeEnergy: "Water",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_43.jpg"
   },
   {
     id: "7956",
@@ -971,7 +1014,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Water"
+    typeEnergy: "Water",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_44.jpg"
   },
   {
     id: "7957",
@@ -994,7 +1038,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Water"
+    typeEnergy: "Water",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_45.jpg"
   },
   {
     id: "7891",
@@ -1017,7 +1062,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Water"
+    typeEnergy: "Water",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_46.jpg"
   },
   {
     id: "7958",
@@ -1040,7 +1086,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Water"
+    typeEnergy: "Water",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_47.jpg"
   },
   {
     id: "7959",
@@ -1063,7 +1110,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Water"
+    typeEnergy: "Water",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_48.jpg"
   },
   {
     id: "7894",
@@ -1082,7 +1130,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Water"
+    typeEnergy: "Water",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_49.jpg"
   },
   {
     id: "7895",
@@ -1101,7 +1150,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Water"
+    typeEnergy: "Water",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_50.jpg"
   },
   {
     id: "7896",
@@ -1124,7 +1174,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Water"
+    typeEnergy: "Water",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_51.jpg"
   },
   {
     id: "7897",
@@ -1151,7 +1202,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Water"
+    typeEnergy: "Water",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_52.jpg"
   },
   {
     id: "7960",
@@ -1170,7 +1222,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Water"
+    typeEnergy: "Water",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_53.jpg"
   },
   {
     id: "7961",
@@ -1193,7 +1246,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Water"
+    typeEnergy: "Water",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_54.jpg"
   },
   {
     id: "7962",
@@ -1216,7 +1270,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Water"
+    typeEnergy: "Water",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_55.jpg"
   },
   {
     id: "7963",
@@ -1239,7 +1294,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Water"
+    typeEnergy: "Water",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_56.jpg"
   },
   {
     id: "7964",
@@ -1258,7 +1314,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Water"
+    typeEnergy: "Water",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_57.jpg"
   },
   {
     id: "7965",
@@ -1281,7 +1338,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Water"
+    typeEnergy: "Water",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_58.jpg"
   },
   {
     id: "7966",
@@ -1304,7 +1362,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Water"
+    typeEnergy: "Water",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_59.jpg"
   },
   {
     id: "7967",
@@ -1327,7 +1386,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Water"
+    typeEnergy: "Water",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_60.jpg"
   },
   {
     id: "7968",
@@ -1354,7 +1414,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Water"
+    typeEnergy: "Water",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_61.jpg"
   },
   {
     id: "8028",
@@ -1377,7 +1438,8 @@ const SV2 = [
       "双颊上有储存电力的囊袋。一旦生气就会把储存的电力一口气释放出来。"
     ],
     type: "Pokemon",
-    typeEnergy: "Lightning"
+    typeEnergy: "Lightning",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_62.jpg"
   },
   {
     id: "8090",
@@ -1404,7 +1466,8 @@ const SV2 = [
       ""
     ],
     type: "Pokemon",
-    typeEnergy: "Lightning"
+    typeEnergy: "Lightning",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_63.jpg"
   },
   {
     id: "8029",
@@ -1427,7 +1490,8 @@ const SV2 = [
       "尾巴会发挥接地线的作用把电气导入地面，所以自己不会被电得发麻。"
     ],
     type: "Pokemon",
-    typeEnergy: "Lightning"
+    typeEnergy: "Lightning",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_64.jpg"
   },
   {
     id: "8091",
@@ -1450,7 +1514,8 @@ const SV2 = [
       "从左右两边的组件发出的电磁波能阻碍重力，使牠浮在空中。"
     ],
     type: "Pokemon",
-    typeEnergy: "Lightning"
+    typeEnergy: "Lightning",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_65.jpg"
   },
   {
     id: "8092",
@@ -1473,7 +1538,8 @@ const SV2 = [
       "靠著翻滚身体来移动，如果地面凹凸不平，就会受到冲击而爆炸。"
     ],
     type: "Pokemon",
-    typeEnergy: "Lightning"
+    typeEnergy: "Lightning",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_66.jpg"
   },
   {
     id: "8093",
@@ -1496,7 +1562,8 @@ const SV2 = [
       "虽然储存的电能越多，移动的速度也会变得越快，但同时也会变得更容易爆炸。"
     ],
     type: "Pokemon",
-    typeEnergy: "Lightning"
+    typeEnergy: "Lightning",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_67.jpg"
   },
   {
     id: "8094",
@@ -1519,7 +1586,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Lightning"
+    typeEnergy: "Lightning",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_68.jpg"
   },
   {
     id: "8030",
@@ -1538,7 +1606,8 @@ const SV2 = [
       "每当活动身体时，肌肉的伸缩会产生电流。当遇上危机时，身体会发光。"
     ],
     type: "Pokemon",
-    typeEnergy: "Lightning"
+    typeEnergy: "Lightning",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_69.jpg"
   },
   {
     id: "8031",
@@ -1561,7 +1630,8 @@ const SV2 = [
       "在锐利的爪子尖端有强烈的电流流过，只要稍微擦到，就能让敌人晕厥。"
     ],
     type: "Pokemon",
-    typeEnergy: "Lightning"
+    typeEnergy: "Lightning",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_70.jpg"
   },
   {
     id: "8032",
@@ -1584,7 +1654,8 @@ const SV2 = [
       "拥有能看见墙壁另一侧的力量，除了可以用来追捕逃跑的猎物，还可以用来寻找迷路的孩子。"
     ],
     type: "Pokemon",
-    typeEnergy: "Lightning"
+    typeEnergy: "Lightning",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_71.jpg"
   },
   {
     id: "8095",
@@ -1603,7 +1674,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Lightning"
+    typeEnergy: "Lightning",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_72.jpg"
   },
   {
     id: "8033",
@@ -1626,7 +1698,8 @@ const SV2 = [
       "消化食物时会制造出电力。5颗坚硬的牙齿能用来把海藻连根拔起来吃。"
     ],
     type: "Pokemon",
-    typeEnergy: "Lightning"
+    typeEnergy: "Lightning",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_73.jpg"
   },
   {
     id: "8096",
@@ -1645,7 +1718,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Lightning"
+    typeEnergy: "Lightning",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_74.jpg"
   },
   {
     id: "8097",
@@ -1668,7 +1742,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Lightning"
+    typeEnergy: "Lightning",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_75.jpg"
   },
   {
     id: "8098",
@@ -1691,7 +1766,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Lightning"
+    typeEnergy: "Lightning",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_76.jpg"
   },
   {
     id: "8034",
@@ -1710,7 +1786,8 @@ const SV2 = [
       "会摇尾巴来发电。感觉到有危险时，会闪烁头部通知伙伴。"
     ],
     type: "Pokemon",
-    typeEnergy: "Lightning"
+    typeEnergy: "Lightning",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_77.jpg"
   },
   {
     id: "8035",
@@ -1733,7 +1810,8 @@ const SV2 = [
       "会摇尾巴来发电。感觉到有危险时，会闪烁头部通知伙伴。"
     ],
     type: "Pokemon",
-    typeEnergy: "Lightning"
+    typeEnergy: "Lightning",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_78.jpg"
   },
   {
     id: "8036",
@@ -1760,7 +1838,8 @@ const SV2 = [
       ""
     ],
     type: "Pokemon",
-    typeEnergy: "Lightning"
+    typeEnergy: "Lightning",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_79.jpg"
   },
   {
     id: "7898",
@@ -1783,7 +1862,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Lightning"
+    typeEnergy: "Lightning",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_80.jpg"
   },
   {
     id: "7899",
@@ -1806,7 +1886,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Lightning"
+    typeEnergy: "Lightning",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_81.jpg"
   },
   {
     id: "7900",
@@ -1829,7 +1910,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Lightning"
+    typeEnergy: "Lightning",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_82.jpg"
   },
   {
     id: "8037",
@@ -1852,7 +1934,8 @@ const SV2 = [
       "当牠圆圆的大眼睛转动时，就会唱起奇妙的歌曲，让人舒服地昏昏欲睡。"
     ],
     type: "Pokemon",
-    typeEnergy: "Psychic"
+    typeEnergy: "Psychic",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_83.jpg"
   },
   {
     id: "8038",
@@ -1875,7 +1958,8 @@ const SV2 = [
       "拥有细致的毛皮。小心别惹牠生气，否则牠会不断膨胀并朝著你压过来。"
     ],
     type: "Pokemon",
-    typeEnergy: "Psychic"
+    typeEnergy: "Psychic",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_84.jpg"
   },
   {
     id: "7969",
@@ -1898,7 +1982,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Psychic"
+    typeEnergy: "Psychic",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_85.jpg"
   },
   {
     id: "7970",
@@ -1929,7 +2014,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Psychic"
+    typeEnergy: "Psychic",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_86.jpg"
   },
   {
     id: "7901",
@@ -1948,7 +2034,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Psychic"
+    typeEnergy: "Psychic",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_87.jpg"
   },
   {
     id: "7902",
@@ -1971,7 +2058,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Psychic"
+    typeEnergy: "Psychic",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_88.jpg"
   },
   {
     id: "8039",
@@ -1994,7 +2082,8 @@ const SV2 = [
       "总是作恶多端，不料有一天本体被神奇法术绑缚到了楔石上。"
     ],
     type: "Pokemon",
-    typeEnergy: "Psychic"
+    typeEnergy: "Psychic",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_89.jpg"
   },
   {
     id: "7971",
@@ -2017,7 +2106,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Psychic"
+    typeEnergy: "Psychic",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_90.jpg"
   },
   {
     id: "7972",
@@ -2040,7 +2130,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Psychic"
+    typeEnergy: "Psychic",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_91.jpg"
   },
   {
     id: "7973",
@@ -2063,7 +2154,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Psychic"
+    typeEnergy: "Psychic",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_92.jpg"
   },
   {
     id: "7905",
@@ -2094,7 +2186,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Psychic"
+    typeEnergy: "Psychic",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_93.jpg"
   },
   {
     id: "7906",
@@ -2117,7 +2210,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Psychic"
+    typeEnergy: "Psychic",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_94.jpg"
   },
   {
     id: "8040",
@@ -2140,7 +2234,8 @@ const SV2 = [
       "万一铲子弄丢了，就会用树枝等东西插著代替，好让牠在找到新铲子前能分散注意力。"
     ],
     type: "Pokemon",
-    typeEnergy: "Psychic"
+    typeEnergy: "Psychic",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_95.jpg"
   },
   {
     id: "8041",
@@ -2163,7 +2258,8 @@ const SV2 = [
       "会把小型宝可梦吸进沙子构成的身体里，任凭自己吸取精气的恐怖宝可梦。"
     ],
     type: "Pokemon",
-    typeEnergy: "Psychic"
+    typeEnergy: "Psychic",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_96.jpg"
   },
   {
     id: "7974",
@@ -2186,7 +2282,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Psychic"
+    typeEnergy: "Psychic",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_97.jpg"
   },
   {
     id: "8042",
@@ -2209,7 +2306,8 @@ const SV2 = [
       "双臂的火焰之剑靠著在得志前就亡命的剑士怨念而燃烧。"
     ],
     type: "Pokemon",
-    typeEnergy: "Psychic"
+    typeEnergy: "Psychic",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_98.jpg"
   },
   {
     id: "7977",
@@ -2232,7 +2330,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Psychic"
+    typeEnergy: "Psychic",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_99.jpg"
   },
   {
     id: "7907",
@@ -2255,7 +2354,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Psychic"
+    typeEnergy: "Psychic",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_100.jpg"
   },
   {
     id: "8043",
@@ -2278,7 +2378,8 @@ const SV2 = [
       "虽然会挥舞著手工打造的锤子来保护自己，但却常被以金属为食的宝可梦抢走。"
     ],
     type: "Pokemon",
-    typeEnergy: "Psychic"
+    typeEnergy: "Psychic",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_101.jpg"
   },
   {
     id: "7908",
@@ -2297,7 +2398,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Psychic"
+    typeEnergy: "Psychic",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_102.jpg"
   },
   {
     id: "7909",
@@ -2320,7 +2422,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Psychic"
+    typeEnergy: "Psychic",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_103.jpg"
   },
   {
     id: "8045",
@@ -2343,7 +2446,8 @@ const SV2 = [
       "为了制作又大又坚固的锤子，会去袭击劈斩司令的群体，借以收集金属。"
     ],
     type: "Pokemon",
-    typeEnergy: "Psychic"
+    typeEnergy: "Psychic",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_104.jpg"
   },
   {
     id: "7910",
@@ -2366,7 +2470,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Psychic"
+    typeEnergy: "Psychic",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_105.jpg"
   },
   {
     id: "7978",
@@ -2389,7 +2494,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Fighting"
+    typeEnergy: "Fighting",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_106.jpg"
   },
   {
     id: "7979",
@@ -2412,7 +2518,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Fighting"
+    typeEnergy: "Fighting",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_107.jpg"
   },
   {
     id: "7913",
@@ -2435,7 +2542,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Fighting"
+    typeEnergy: "Fighting",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_108.jpg"
   },
   {
     id: "7981",
@@ -2458,7 +2566,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Fighting"
+    typeEnergy: "Fighting",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_109.jpg"
   },
   {
     id: "8047",
@@ -2477,7 +2586,8 @@ const SV2 = [
       "诞生在地底深处。当牠吃完满山的土壤后，就会为了成长而变成蛹。"
     ],
     type: "Pokemon",
-    typeEnergy: "Fighting"
+    typeEnergy: "Fighting",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_110.jpg"
   },
   {
     id: "8048",
@@ -2496,7 +2606,8 @@ const SV2 = [
       "会以强劲的力道喷出在体内压缩好的气体，好让自己能飞在空中大搞破坏的蛹。"
     ],
     type: "Pokemon",
-    typeEnergy: "Fighting"
+    typeEnergy: "Fighting",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_111.jpg"
   },
   {
     id: "7914",
@@ -2515,7 +2626,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Fighting"
+    typeEnergy: "Fighting",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_112.jpg"
   },
   {
     id: "7915",
@@ -2538,7 +2650,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Fighting"
+    typeEnergy: "Fighting",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_113.jpg"
   },
   {
     id: "8051",
@@ -2557,7 +2670,8 @@ const SV2 = [
       "会鼓起毒囊鸣叫。让四周响起诡异的声音，等对手畏缩，便施以毒击。"
     ],
     type: "Pokemon",
-    typeEnergy: "Fighting"
+    typeEnergy: "Fighting",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_114.jpg"
   },
   {
     id: "8052",
@@ -2580,7 +2694,8 @@ const SV2 = [
       "会一边靠柔软的身体闪避攻击，一边往对手的怀里冲过去，然后用带毒的尖刺猛戳。"
     ],
     type: "Pokemon",
-    typeEnergy: "Fighting"
+    typeEnergy: "Fighting",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_115.jpg"
   },
   {
     id: "7916",
@@ -2603,7 +2718,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Fighting"
+    typeEnergy: "Fighting",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_116.jpg"
   },
   {
     id: "7917",
@@ -2630,7 +2746,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Fighting"
+    typeEnergy: "Fighting",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_117.jpg"
   },
   {
     id: "8055",
@@ -2649,7 +2766,8 @@ const SV2 = [
       "会投出坚硬的树果战斗。不会听从投球技术差劲的训练家所下的指示。"
     ],
     type: "Pokemon",
-    typeEnergy: "Fighting"
+    typeEnergy: "Fighting",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_118.jpg"
   },
   {
     id: "7918",
@@ -2672,7 +2790,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Fighting"
+    typeEnergy: "Fighting",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_119.jpg"
   },
   {
     id: "8056",
@@ -2691,7 +2810,8 @@ const SV2 = [
       "出生在地底的岩盐层。会愿意分享贵重的盐巴，因此在过去更是受到重视。"
     ],
     type: "Pokemon",
-    typeEnergy: "Fighting"
+    typeEnergy: "Fighting",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_120.jpg"
   },
   {
     id: "8057",
@@ -2714,7 +2834,8 @@ const SV2 = [
       "出生在地底的岩盐层。会愿意分享贵重的盐巴，因此在过去更是受到重视。"
     ],
     type: "Pokemon",
-    typeEnergy: "Fighting"
+    typeEnergy: "Fighting",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_121.jpg"
   },
   {
     id: "8058",
@@ -2733,7 +2854,8 @@ const SV2 = [
       "会将盐喷向猎物，将其做成腌渍物。猎物体内的水分会在腌渍过程中被夺走。"
     ],
     type: "Pokemon",
-    typeEnergy: "Fighting"
+    typeEnergy: "Fighting",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_122.jpg"
   },
   {
     id: "8059",
@@ -2756,7 +2878,8 @@ const SV2 = [
       "只要合起指尖，搓出盐来洒在受伤的宝可梦身上，就算再重的伤都会瞬间痊愈。"
     ],
     type: "Pokemon",
-    typeEnergy: "Fighting"
+    typeEnergy: "Fighting",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_123.jpg"
   },
   {
     id: "7982",
@@ -2775,7 +2898,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Fighting"
+    typeEnergy: "Fighting",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_124.jpg"
   },
   {
     id: "7983",
@@ -2794,7 +2918,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Fighting"
+    typeEnergy: "Fighting",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_125.jpg"
   },
   {
     id: "7984",
@@ -2817,7 +2942,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Fighting"
+    typeEnergy: "Fighting",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_126.jpg"
   },
   {
     id: "8060",
@@ -2844,7 +2970,8 @@ const SV2 = [
       ""
     ],
     type: "Pokemon",
-    typeEnergy: "Fighting"
+    typeEnergy: "Fighting",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_127.jpg"
   },
   {
     id: "7920",
@@ -2867,7 +2994,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Darkness"
+    typeEnergy: "Darkness",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_128.jpg"
   },
   {
     id: "7919",
@@ -2890,7 +3018,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Darkness"
+    typeEnergy: "Darkness",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_129.jpg"
   },
   {
     id: "7921",
@@ -2917,7 +3046,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Darkness"
+    typeEnergy: "Darkness",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_130.jpg"
   },
   {
     id: "7985",
@@ -2940,7 +3070,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Darkness"
+    typeEnergy: "Darkness",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_131.jpg"
   },
   {
     id: "7986",
@@ -2963,7 +3094,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Darkness"
+    typeEnergy: "Darkness",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_132.jpg"
   },
   {
     id: "8061",
@@ -2982,7 +3114,8 @@ const SV2 = [
       "会潜藏在黑暗中使自己变得不起眼，然后伺机袭击猎物，是非常狡诈的宝可梦。"
     ],
     type: "Pokemon",
-    typeEnergy: "Darkness"
+    typeEnergy: "Darkness",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_133.jpg"
   },
   {
     id: "8062",
@@ -3005,7 +3138,8 @@ const SV2 = [
       "进化后变得更加狡诈，会用爪子在石头上留下记号和伙伴交流。"
     ],
     type: "Pokemon",
-    typeEnergy: "Darkness"
+    typeEnergy: "Darkness",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_134.jpg"
   },
   {
     id: "8063",
@@ -3028,7 +3162,8 @@ const SV2 = [
       "即便是改变周围的地形也是小事一桩的大力士。个性狂妄，不顾周遭的感受。"
     ],
     type: "Pokemon",
-    typeEnergy: "Darkness"
+    typeEnergy: "Darkness",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_135.jpg"
   },
   {
     id: "7922",
@@ -3051,7 +3186,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Darkness"
+    typeEnergy: "Darkness",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_136.jpg"
   },
   {
     id: "7923",
@@ -3074,7 +3210,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Darkness"
+    typeEnergy: "Darkness",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_137.jpg"
   },
   {
     id: "7924",
@@ -3093,7 +3230,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Darkness"
+    typeEnergy: "Darkness",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_138.jpg"
   },
   {
     id: "7925",
@@ -3116,7 +3254,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Darkness"
+    typeEnergy: "Darkness",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_139.jpg"
   },
   {
     id: "7926",
@@ -3139,7 +3278,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Darkness"
+    typeEnergy: "Darkness",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_140.jpg"
   },
   {
     id: "7987",
@@ -3158,7 +3298,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Darkness"
+    typeEnergy: "Darkness",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_141.jpg"
   },
   {
     id: "7988",
@@ -3181,7 +3322,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Darkness"
+    typeEnergy: "Darkness",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_142.jpg"
   },
   {
     id: "7989",
@@ -3204,7 +3346,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Darkness"
+    typeEnergy: "Darkness",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_143.jpg"
   },
   {
     id: "8064",
@@ -3227,7 +3370,8 @@ const SV2 = [
       "虽然性情温驯，但一旦被激怒，就会用渗入了毒素的尖锐门牙过来咬住你，让你全身麻痺不已。"
     ],
     type: "Pokemon",
-    typeEnergy: "Darkness"
+    typeEnergy: "Darkness",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_144.jpg"
   },
   {
     id: "8065",
@@ -3246,7 +3390,8 @@ const SV2 = [
       "虽然性情温驯，但一旦被激怒，就会用渗入了毒素的尖锐门牙过来咬住你，让你全身麻痺不已。"
     ],
     type: "Pokemon",
-    typeEnergy: "Darkness"
+    typeEnergy: "Darkness",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_145.jpg"
   },
   {
     id: "8066",
@@ -3269,7 +3414,8 @@ const SV2 = [
       "会将能随著吃下的食物而变色的毒唾液涂在指头上，在森林的树木描绘上图案。"
     ],
     type: "Pokemon",
-    typeEnergy: "Darkness"
+    typeEnergy: "Darkness",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_146.jpg"
   },
   {
     id: "8067",
@@ -3292,7 +3438,8 @@ const SV2 = [
       "会把东西装在用胸部的绒羽和脱落的羽毛做成的袋子里，然后从高处往下丢来玩耍。"
     ],
     type: "Pokemon",
-    typeEnergy: "Darkness"
+    typeEnergy: "Darkness",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_147.jpg"
   },
   {
     id: "7992",
@@ -3315,7 +3462,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Metal"
+    typeEnergy: "Metal",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_148.jpg"
   },
   {
     id: "7993",
@@ -3334,7 +3482,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Metal"
+    typeEnergy: "Metal",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_149.jpg"
   },
   {
     id: "7994",
@@ -3361,7 +3510,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Metal"
+    typeEnergy: "Metal",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_150.jpg"
   },
   {
     id: "7995",
@@ -3384,7 +3534,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Metal"
+    typeEnergy: "Metal",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_151.jpg"
   },
   {
     id: "8068",
@@ -3403,7 +3554,8 @@ const SV2 = [
       "从大大的耳朵发出超音波，寻找水果来填饱肚子。会把啃果虫误认成食物。"
     ],
     type: "Pokemon",
-    typeEnergy: "Dragon"
+    typeEnergy: "Dragon",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_152.jpg"
   },
   {
     id: "8069",
@@ -3430,7 +3582,8 @@ const SV2 = [
       ""
     ],
     type: "Pokemon",
-    typeEnergy: "Dragon"
+    typeEnergy: "Dragon",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_153.jpg"
   },
   {
     id: "8070",
@@ -3453,7 +3606,8 @@ const SV2 = [
       "尾巴上的脑虽然很小，但却是可以发挥出强大超能力的重要器官。"
     ],
     type: "Pokemon",
-    typeEnergy: "Colorless"
+    typeEnergy: "Colorless",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_154.jpg"
   },
   {
     id: "8071",
@@ -3476,7 +3630,8 @@ const SV2 = [
       "透过同步头部和尾巴的脑波，使得牠的超能力提升到了有麒麟奇的10倍之高。"
     ],
     type: "Pokemon",
-    typeEnergy: "Colorless"
+    typeEnergy: "Colorless",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_155.jpg"
   },
   {
     id: "7996",
@@ -3499,7 +3654,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Colorless"
+    typeEnergy: "Colorless",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_156.jpg"
   },
   {
     id: "7997",
@@ -3522,7 +3678,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Colorless"
+    typeEnergy: "Colorless",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_157.jpg"
   },
   {
     id: "7998",
@@ -3541,7 +3698,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Colorless"
+    typeEnergy: "Colorless",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_158.jpg"
   },
   {
     id: "7999",
@@ -3564,7 +3722,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Colorless"
+    typeEnergy: "Colorless",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_159.jpg"
   },
   {
     id: "8000",
@@ -3583,7 +3742,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Colorless"
+    typeEnergy: "Colorless",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_160.jpg"
   },
   {
     id: "8001",
@@ -3606,7 +3766,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Colorless"
+    typeEnergy: "Colorless",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_161.jpg"
   },
   {
     id: "8002",
@@ -3629,7 +3790,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Colorless"
+    typeEnergy: "Colorless",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_162.jpg"
   },
   {
     id: "8072",
@@ -3648,7 +3810,8 @@ const SV2 = [
       "平时性情温和，但在战斗开始后，荷尔蒙的平衡会发生变化而变得具有攻击性。"
     ],
     type: "Pokemon",
-    typeEnergy: "Colorless"
+    typeEnergy: "Colorless",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_163.jpg"
   },
   {
     id: "8003",
@@ -3667,7 +3830,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Colorless"
+    typeEnergy: "Colorless",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_164.jpg"
   },
   {
     id: "8004",
@@ -3690,7 +3854,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Colorless"
+    typeEnergy: "Colorless",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_165.jpg"
   },
   {
     id: "8073",
@@ -3713,7 +3878,8 @@ const SV2 = [
       "会以绝佳的团队合作，把能当成巢穴建材的东西用门牙切断后搬走。"
     ],
     type: "Pokemon",
-    typeEnergy: "Colorless"
+    typeEnergy: "Colorless",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_166.jpg"
   },
   {
     id: "8074",
@@ -3736,7 +3902,8 @@ const SV2 = [
       "会以绝佳的团队合作，把能当成巢穴建材的东西用门牙切断后搬走。"
     ],
     type: "Pokemon",
-    typeEnergy: "Colorless"
+    typeEnergy: "Colorless",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_167.jpg"
   },
   {
     id: "8075",
@@ -3759,7 +3926,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Colorless"
+    typeEnergy: "Colorless",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_168.jpg"
   },
   {
     id: "8005",
@@ -3786,7 +3954,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Colorless"
+    typeEnergy: "Colorless",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_169.jpg"
   },
   {
     id: "8076",
@@ -3809,7 +3978,8 @@ const SV2 = [
       }
     ],
     type: "Pokemon",
-    typeEnergy: "Colorless"
+    typeEnergy: "Colorless",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_170.jpg"
   },
   {
     id: "7937",
@@ -3826,7 +3996,8 @@ const SV2 = [
         effect: "在自己的回合时，可将1张竞技场卡放置于战斗场旁边。若其他竞技场卡被放置，则将这张卡丢弃。名称相同的竞技场卡无法放置于场上。"
       }
     ],
-    type: "Trainers"
+    type: "Trainers",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_171.jpg"
   },
   {
     id: "8010",
@@ -3843,7 +4014,8 @@ const SV2 = [
         effect: "在自己的回合时，可将1张竞技场卡放置于战斗场旁边。若其他竞技场卡被放置，则将这张卡丢弃。名称相同的竞技场卡无法放置于场上。"
       }
     ],
-    type: "Trainers"
+    type: "Trainers",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_174.jpg"
   },
   {
     id: "8081",
@@ -3860,7 +4032,8 @@ const SV2 = [
         effect: "在自己的回合时，可将1张竞技场卡放置于战斗场旁边。若其他竞技场卡被放置，则将这张卡丢弃。名称相同的竞技场卡无法放置于场上。"
       }
     ],
-    type: "Trainers"
+    type: "Trainers",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_175.jpg"
   },
   {
     id: "7938",
@@ -3877,7 +4050,8 @@ const SV2 = [
         effect: "在自己的回合时，可将1张竞技场卡放置于战斗场旁边。若其他竞技场卡被放置，则将这张卡丢弃。名称相同的竞技场卡无法放置于场上。"
       }
     ],
-    type: "Trainers"
+    type: "Trainers",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_186.jpg"
   },
   {
     id: "7936",
@@ -3894,7 +4068,8 @@ const SV2 = [
         effect: "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    type: "Trainers"
+    type: "Trainers",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_172.jpg"
   },
   {
     id: "7934",
@@ -3911,7 +4086,8 @@ const SV2 = [
         effect: "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    type: "Trainers"
+    type: "Trainers",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_177.jpg"
   },
   {
     id: "7933",
@@ -3928,7 +4104,8 @@ const SV2 = [
         effect: "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    type: "Trainers"
+    type: "Trainers",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_179.jpg"
   },
   {
     id: "7935",
@@ -3945,7 +4122,8 @@ const SV2 = [
         effect: "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    type: "Trainers"
+    type: "Trainers",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_180.jpg"
   },
   {
     id: "8009",
@@ -3962,7 +4140,8 @@ const SV2 = [
         effect: "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    type: "Trainers"
+    type: "Trainers",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_182.jpg"
   },
   {
     id: "8008",
@@ -3979,7 +4158,8 @@ const SV2 = [
         effect: "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    type: "Trainers"
+    type: "Trainers",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_184.jpg"
   },
   {
     id: "8080",
@@ -3996,7 +4176,8 @@ const SV2 = [
         effect: "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    type: "Trainers"
+    type: "Trainers",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_185.jpg"
   },
   {
     id: "8079",
@@ -4013,7 +4194,8 @@ const SV2 = [
         effect: "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    type: "Trainers"
+    type: "Trainers",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_187.jpg"
   },
   {
     id: "8078",
@@ -4030,7 +4212,8 @@ const SV2 = [
         effect: "在自己的回合时，可将不限张数的宝可梦道具卡附于自己的宝可梦身上。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
       }
     ],
-    type: "Trainers"
+    type: "Trainers",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_173.jpg"
   },
   {
     id: "7837",
@@ -4047,7 +4230,8 @@ const SV2 = [
         effect: "在自己的回合时，可将不限张数的宝可梦道具卡附于自己的宝可梦身上。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
       }
     ],
-    type: "Trainers"
+    type: "Trainers",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_176.jpg"
   },
   {
     id: "8077",
@@ -4064,7 +4248,8 @@ const SV2 = [
         effect: "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    type: "Trainers"
+    type: "Trainers",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_178.jpg"
   },
   {
     id: "8007",
@@ -4081,7 +4266,8 @@ const SV2 = [
         effect: "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    type: "Trainers"
+    type: "Trainers",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_181.jpg"
   },
   {
     id: "7932",
@@ -4098,7 +4284,8 @@ const SV2 = [
         effect: "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    type: "Trainers"
+    type: "Trainers",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_183.jpg"
   },
   {
     id: "8006",
@@ -4115,7 +4302,8 @@ const SV2 = [
         effect: "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    type: "Trainers"
+    type: "Trainers",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_188.jpg"
   },
   {
     id: "7931",
@@ -4132,7 +4320,8 @@ const SV2 = [
         effect: "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    type: "Trainers"
+    type: "Trainers",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_189.jpg"
   },
   {
     id: "7939",
@@ -4145,7 +4334,8 @@ const SV2 = [
         effect: "只要这张卡附于宝可梦身上，视为提供1个【无】能量。从手牌将这张卡附于备战宝可梦身上时，将附有这张卡的宝可梦与战斗宝可梦互换。"
       }
     ],
-    type: "Energy"
+    type: "Energy",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_190.jpg"
   },
   {
     id: "7940",
@@ -4158,7 +4348,8 @@ const SV2 = [
         effect: "只要这张卡附于宝可梦身上，视为提供1个所有属性的能量。若附有这张卡的宝可梦身上附有这张卡以外的特殊能量卡，则视为提供1个【无】能量。"
       }
     ],
-    type: "Energy"
+    type: "Energy",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_191.jpg"
   },
   {
     id: "8011",
@@ -4171,7 +4362,8 @@ const SV2 = [
         effect: "只要这张卡附于宝可梦身上，视为提供1个【无】能量。 附于进化宝可梦（「拥有规则的宝可梦」除外）身上时，若自己剩余奖赏卡的张数，比对手剩余奖赏卡的张数多，则视为提供3个所有属性的能量。"
       }
     ],
-    type: "Energy"
+    type: "Energy",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_192.jpg"
   },
   {
     id: "8082",
@@ -4184,7 +4376,8 @@ const SV2 = [
         effect: "只要这张卡附于宝可梦身上，视为提供1个【无】能量。附有这张卡的宝可梦不会【睡眠】・【麻痺】・【混乱】，受到的【睡眠】・【麻痺】・【混乱】全部恢复。"
       }
     ],
-    type: "Energy"
+    type: "Energy",
+    enImgUrl: "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_193.jpg"
   }
 ];
 exports.default = SV2;

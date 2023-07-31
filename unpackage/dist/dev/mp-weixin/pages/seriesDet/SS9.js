@@ -22,7 +22,8 @@ const SS9 = [
         name: "种子炸弹",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_1.jpg"
   },
   {
     id: "5413",
@@ -45,7 +46,8 @@ const SS9 = [
         name: "种子炸弹",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_2.jpg"
   },
   {
     id: "5414",
@@ -64,7 +66,8 @@ const SS9 = [
         name: "头锤",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_3.jpg"
   },
   {
     id: "5415",
@@ -87,7 +90,8 @@ const SS9 = [
         name: "粉尘冲天",
         effect: "这个招式必须在上个自己的回合这只宝可梦使用了「孢子弹」才可使用。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_4.jpg"
   },
   {
     id: "5416",
@@ -110,7 +114,8 @@ const SS9 = [
         name: "利刃切割",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_5.jpg"
   },
   {
     id: "5417",
@@ -133,7 +138,8 @@ const SS9 = [
         name: "鲁莽头击",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_6.jpg"
   },
   {
     id: "5418",
@@ -156,7 +162,8 @@ const SS9 = [
         name: "飞叶快刀",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_7.jpg"
   },
   {
     id: "5419",
@@ -179,7 +186,8 @@ const SS9 = [
         name: "头突",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_8.jpg"
   },
   {
     id: "5420",
@@ -198,7 +206,8 @@ const SS9 = [
         name: "垂吊",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_9.jpg"
   },
   {
     id: "5421",
@@ -221,7 +230,8 @@ const SS9 = [
         name: "绿叶吸取",
         effect: "将这只宝可梦恢复「30」HP。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_10.jpg"
   },
   {
     id: "5422",
@@ -244,7 +254,8 @@ const SS9 = [
         name: "起风",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_11.jpg"
   },
   {
     id: "5196",
@@ -267,7 +278,8 @@ const SS9 = [
         name: "树叶",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_12.jpg"
   },
   {
     id: "5423",
@@ -294,7 +306,8 @@ const SS9 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_13.jpg"
   },
   {
     id: "5424",
@@ -321,7 +334,8 @@ const SS9 = [
         name: "[VSTAR规则]",
         effect: "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_14.jpg"
   },
   {
     id: "5654",
@@ -340,7 +354,8 @@ const SS9 = [
         name: "啄",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_15.jpg"
   },
   {
     id: "5674",
@@ -367,7 +382,8 @@ const SS9 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_16.jpg"
   },
   {
     id: "5425",
@@ -394,7 +410,8 @@ const SS9 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_17.jpg"
   },
   {
     id: "5426",
@@ -421,7 +438,8 @@ const SS9 = [
         name: "[VSTAR规则]",
         effect: "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_18.jpg"
   },
   {
     id: "5427",
@@ -444,7 +462,8 @@ const SS9 = [
         name: "火拳",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_19.jpg"
   },
   {
     id: "5428",
@@ -467,7 +486,8 @@ const SS9 = [
         name: "伏特爆发",
         effect: "若自己的备战区有「电击魔兽」，则增加120点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_20.jpg"
   },
   {
     id: "5429",
@@ -486,7 +506,8 @@ const SS9 = [
         name: "烈火之翼",
         effect: "若这只宝可梦身上放置有伤害指示物，则增加70点伤害。这个招式的伤害不计算弱点。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_21.jpg"
   },
   {
     id: "5685",
@@ -513,7 +534,8 @@ const SS9 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_22.jpg"
   },
   {
     id: "5687",
@@ -536,7 +558,8 @@ const SS9 = [
         name: "防守压制",
         effect: "在下个对手的回合，这只宝可梦受到招式的伤害「-30」点。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_23.jpg"
   },
   {
     id: "5430",
@@ -555,7 +578,8 @@ const SS9 = [
         name: "火花",
         effect: "选择1个这只宝可梦身上附加的能量，将其丢弃。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_24.jpg"
   },
   {
     id: "5431",
@@ -578,7 +602,8 @@ const SS9 = [
         name: "喷射火焰",
         effect: "选择1个这只宝可梦身上附加的能量，将其丢弃。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_25.jpg"
   },
   {
     id: "5432",
@@ -601,7 +626,8 @@ const SS9 = [
         name: "燃烧踢",
         effect: "将这只宝可梦身上附加的能量全部丢弃。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_26.jpg"
   },
   {
     id: "5692",
@@ -628,7 +654,8 @@ const SS9 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_27.jpg"
   },
   {
     id: "5709",
@@ -655,7 +682,8 @@ const SS9 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_28.jpg"
   },
   {
     id: "5710",
@@ -682,7 +710,8 @@ const SS9 = [
         name: "[VMAX规则]",
         effect: "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_29.jpg"
   },
   {
     id: "5714",
@@ -701,7 +730,8 @@ const SS9 = [
         name: "双重旋转",
         effect: "掷2次硬币，造成正面出现的次数×10点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_30.jpg"
   },
   {
     id: "5433",
@@ -720,7 +750,8 @@ const SS9 = [
         name: "激狂冰冻",
         effect: "若在上个对手的回合，自己的宝可梦因招式的伤害而【气绝】了，则将对手的战斗宝可梦【麻痺】。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_31.jpg"
   },
   {
     id: "5434",
@@ -743,7 +774,8 @@ const SS9 = [
         name: "蟹钳锤",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_32.jpg"
   },
   {
     id: "5435",
@@ -766,7 +798,8 @@ const SS9 = [
         name: "虾钳冲击",
         effect: "选择2个这只宝可梦身上附加的能量，将其丢弃。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_33.jpg"
   },
   {
     id: "5225",
@@ -789,7 +822,8 @@ const SS9 = [
         name: "雪花冰",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_34.jpg"
   },
   {
     id: "5436",
@@ -808,7 +842,8 @@ const SS9 = [
         name: "泡沫",
         effect: "掷1次硬币若为正面，则将对手的战斗宝可梦【麻痺】。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_35.jpg"
   },
   {
     id: "5437",
@@ -827,7 +862,8 @@ const SS9 = [
         name: "啄",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_36.jpg"
   },
   {
     id: "5438",
@@ -850,7 +886,8 @@ const SS9 = [
         name: "水箭",
         effect: "对手的1只宝可梦受到60点伤害。[在备战区不计算弱点・抵抗力。]"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_37.jpg"
   },
   {
     id: "5439",
@@ -869,7 +906,8 @@ const SS9 = [
         name: "高速移动",
         effect: "掷1次硬币若为正面，则在下个对手的回合，这只宝可梦不会受到招式的伤害与效果的影响。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_38.jpg"
   },
   {
     id: "5440",
@@ -892,7 +930,8 @@ const SS9 = [
         name: "水枪",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_39.jpg"
   },
   {
     id: "5441",
@@ -919,7 +958,8 @@ const SS9 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_40.jpg"
   },
   {
     id: "5442",
@@ -942,7 +982,8 @@ const SS9 = [
         name: "泼水",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_41.jpg"
   },
   {
     id: "5443",
@@ -961,7 +1002,8 @@ const SS9 = [
         name: "寒意",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_42.jpg"
   },
   {
     id: "5444",
@@ -984,7 +1026,8 @@ const SS9 = [
         name: "冰霜粉碎",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_43.jpg"
   },
   {
     id: "5232",
@@ -1007,7 +1050,8 @@ const SS9 = [
         name: "冰柱飞弹",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_44.jpg"
   },
   {
     id: "5445",
@@ -1034,7 +1078,8 @@ const SS9 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_45.jpg"
   },
   {
     id: "5446",
@@ -1057,7 +1102,8 @@ const SS9 = [
         name: "伏特头击",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_46.jpg"
   },
   {
     id: "5447",
@@ -1080,7 +1126,8 @@ const SS9 = [
         name: "高压电流",
         effect: "对手的所有宝可梦各受到50点伤害。[在备战区不计算弱点・抵抗力。]"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_47.jpg"
   },
   {
     id: "5766",
@@ -1107,7 +1154,8 @@ const SS9 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_48.jpg"
   },
   {
     id: "5448",
@@ -1126,7 +1174,8 @@ const SS9 = [
         name: "咬",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_49.jpg"
   },
   {
     id: "5449",
@@ -1145,7 +1194,8 @@ const SS9 = [
         name: "电击",
         effect: "掷1次硬币若为正面，则将对手的战斗宝可梦【麻痺】。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_50.jpg"
   },
   {
     id: "5450",
@@ -1168,7 +1218,8 @@ const SS9 = [
         name: "闪光冲击",
         effect: "自己的1只备战宝可梦也受到30点伤害。[在备战区不计算弱点・抵抗力。]"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_51.jpg"
   },
   {
     id: "5451",
@@ -1187,7 +1238,8 @@ const SS9 = [
         name: "机关闪电",
         effect: "造成自己的场上宝可梦身上附加的「宝可梦道具」的数量×30点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_52.jpg"
   },
   {
     id: "5452",
@@ -1210,7 +1262,8 @@ const SS9 = [
         name: "魔法射击",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_53.jpg"
   },
   {
     id: "5453",
@@ -1233,7 +1286,8 @@ const SS9 = [
         name: "魔法射击",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_54.jpg"
   },
   {
     id: "5795",
@@ -1256,7 +1310,8 @@ const SS9 = [
         name: "力量宝石",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_55.jpg"
   },
   {
     id: "5798",
@@ -1279,7 +1334,8 @@ const SS9 = [
         name: "精神灼烧",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_56.jpg"
   },
   {
     id: "5802",
@@ -1306,7 +1362,8 @@ const SS9 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_57.jpg"
   },
   {
     id: "5454",
@@ -1325,7 +1382,8 @@ const SS9 = [
         name: "三重旋转",
         effect: "掷3次硬币，造成正面出现的次数×20点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_58.jpg"
   },
   {
     id: "5455",
@@ -1348,7 +1406,8 @@ const SS9 = [
         name: "巧合泥偶",
         effect: "若自己的备战宝可梦与对手的备战宝可梦数量相同，则增加90点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_59.jpg"
   },
   {
     id: "5456",
@@ -1367,7 +1426,8 @@ const SS9 = [
         name: "蛊惑",
         effect: "掷1次硬币若为正面，则将对手的战斗宝可梦【混乱】。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_60.jpg"
   },
   {
     id: "5457",
@@ -1386,7 +1446,8 @@ const SS9 = [
         name: "漆黑",
         effect: "将对手的战斗宝可梦【混乱】。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_61.jpg"
   },
   {
     id: "5458",
@@ -1409,7 +1470,8 @@ const SS9 = [
         name: "灵魂吃食",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_62.jpg"
   },
   {
     id: "5459",
@@ -1432,7 +1494,8 @@ const SS9 = [
         name: "垂吊",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_63.jpg"
   },
   {
     id: "5460",
@@ -1459,7 +1522,8 @@ const SS9 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_64.jpg"
   },
   {
     id: "5461",
@@ -1486,7 +1550,8 @@ const SS9 = [
         name: "[VSTAR规则]",
         effect: "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_65.jpg"
   },
   {
     id: "5462",
@@ -1509,7 +1574,8 @@ const SS9 = [
         name: "精神强念",
         effect: "增加对手的战斗宝可梦身上附加的能量的数量×30点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_66.jpg"
   },
   {
     id: "5261",
@@ -1528,7 +1594,8 @@ const SS9 = [
         name: "咚咚闪光",
         effect: "若对手剩余奖赏卡的张数为1张，则增加60点伤害，并将对手的战斗宝可梦【混乱】。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_67.jpg"
   },
   {
     id: "5264",
@@ -1555,7 +1622,8 @@ const SS9 = [
         name: "[VMAX规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_68.jpg"
   },
   {
     id: "5265",
@@ -1582,7 +1650,8 @@ const SS9 = [
         name: "[VMAX规则]",
         effect: "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_69.jpg"
   },
   {
     id: "5268",
@@ -1605,7 +1674,8 @@ const SS9 = [
         name: "冲撞",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_70.jpg"
   },
   {
     id: "5269",
@@ -1628,7 +1698,8 @@ const SS9 = [
         name: "彩虹口味",
         effect: "增加自己的场上宝可梦身上附加的基本能量的属性种类的数量×40点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_71.jpg"
   },
   {
     id: "5846",
@@ -1651,7 +1722,8 @@ const SS9 = [
         name: "旋风踢",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_72.jpg"
   },
   {
     id: "5463",
@@ -1670,7 +1742,8 @@ const SS9 = [
         name: "冲撞",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_73.jpg"
   },
   {
     id: "5850",
@@ -1689,7 +1762,8 @@ const SS9 = [
         name: "上冲",
         effect: "掷1次硬币若为正面，则增加10点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_74.jpg"
   },
   {
     id: "5851",
@@ -1708,7 +1782,8 @@ const SS9 = [
         name: "锐利羽",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_75.jpg"
   },
   {
     id: "5852",
@@ -1731,7 +1806,8 @@ const SS9 = [
         name: "爆破之风",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_76.jpg"
   },
   {
     id: "5464",
@@ -1754,7 +1830,8 @@ const SS9 = [
         name: "束缚",
         effect: "在下个对手的回合，受到这个招式的宝可梦无法撤退。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_77.jpg"
   },
   {
     id: "5465",
@@ -1773,7 +1850,8 @@ const SS9 = [
         name: "踢倒",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_78.jpg"
   },
   {
     id: "5466",
@@ -1796,7 +1874,8 @@ const SS9 = [
         name: "连续波导弹",
         effect: "将这只宝可梦身上附加的【斗】能量全部丢弃，增加其张数×60点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_79.jpg"
   },
   {
     id: "5467",
@@ -1819,7 +1898,8 @@ const SS9 = [
         name: "地球上投",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_80.jpg"
   },
   {
     id: "5468",
@@ -1838,7 +1918,8 @@ const SS9 = [
         name: "扫腿",
         effect: "掷1次硬币若为正面，则选择1个对手的战斗宝可梦身上附加的能量，将其丢弃。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_81.jpg"
   },
   {
     id: "5469",
@@ -1861,7 +1942,8 @@ const SS9 = [
         name: "拍击",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_82.jpg"
   },
   {
     id: "5470",
@@ -1884,7 +1966,8 @@ const SS9 = [
         name: "百万吨重拳",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_83.jpg"
   },
   {
     id: "5471",
@@ -1903,7 +1986,8 @@ const SS9 = [
         name: "毒瓦斯",
         effect: "将对手的战斗宝可梦【中毒】。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_84.jpg"
   },
   {
     id: "5472",
@@ -1926,7 +2010,8 @@ const SS9 = [
         name: "绝境猛毒",
         effect: "将对手的战斗宝可梦【中毒】与【混乱】。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_85.jpg"
   },
   {
     id: "5473",
@@ -1949,7 +2034,8 @@ const SS9 = [
         name: "劈开",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_86.jpg"
   },
   {
     id: "5474",
@@ -1972,7 +2058,8 @@ const SS9 = [
         name: "劈开",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_87.jpg"
   },
   {
     id: "5475",
@@ -1999,7 +2086,8 @@ const SS9 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_88.jpg"
   },
   {
     id: "5476",
@@ -2022,7 +2110,8 @@ const SS9 = [
         name: "诅咒水滴",
         effect: "将2个伤害指示物以任意方式放置于对手的宝可梦身上。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_89.jpg"
   },
   {
     id: "5898",
@@ -2041,7 +2130,8 @@ const SS9 = [
         name: "偷袭",
         effect: "掷1次硬币若为反面，则这个招式失败。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_90.jpg"
   },
   {
     id: "5899",
@@ -2064,7 +2154,8 @@ const SS9 = [
         name: "劈开",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_91.jpg"
   },
   {
     id: "5913",
@@ -2087,7 +2178,8 @@ const SS9 = [
         name: "咬住",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_92.jpg"
   },
   {
     id: "5914",
@@ -2110,7 +2202,8 @@ const SS9 = [
         name: "突刺",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_93.jpg"
   },
   {
     id: "5915",
@@ -2133,7 +2226,8 @@ const SS9 = [
         name: "暗之牙",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_94.jpg"
   },
   {
     id: "5917",
@@ -2160,7 +2254,8 @@ const SS9 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_95.jpg"
   },
   {
     id: "5926",
@@ -2187,7 +2282,8 @@ const SS9 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_96.jpg"
   },
   {
     id: "5927",
@@ -2214,7 +2310,8 @@ const SS9 = [
         name: "[VMAX规则]",
         effect: "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_97.jpg"
   },
   {
     id: "5477",
@@ -2237,7 +2334,8 @@ const SS9 = [
         name: "落铁屑",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_98.jpg"
   },
   {
     id: "5478",
@@ -2260,7 +2358,8 @@ const SS9 = [
         name: "铁之冲撞",
         effect: "这只宝可梦也受到20点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_99.jpg"
   },
   {
     id: "5479",
@@ -2283,7 +2382,8 @@ const SS9 = [
         name: "熨烫锤",
         effect: "若这只宝可梦身上附有【火】能量，则增加80点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_100.jpg"
   },
   {
     id: "5932",
@@ -2306,7 +2406,8 @@ const SS9 = [
         name: "长枪",
         effect: "对手的1只备战宝可梦也受到30点伤害。[在备战区不计算弱点・抵抗力。]"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_101.jpg"
   },
   {
     id: "5480",
@@ -2329,7 +2430,8 @@ const SS9 = [
         name: "回转攻击",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_102.jpg"
   },
   {
     id: "5481",
@@ -2352,7 +2454,8 @@ const SS9 = [
         name: "防守压制",
         effect: "在下个对手的回合，这只宝可梦受到招式的伤害「-30」点。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_103.jpg"
   },
   {
     id: "5482",
@@ -2375,7 +2478,8 @@ const SS9 = [
         name: "回转攻击",
         effect: "掷1次硬币若为正面，则增加90点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_104.jpg"
   },
   {
     id: "5940",
@@ -2402,7 +2506,8 @@ const SS9 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_105.jpg"
   },
   {
     id: "5483",
@@ -2429,7 +2534,8 @@ const SS9 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_106.jpg"
   },
   {
     id: "5484",
@@ -2448,7 +2554,8 @@ const SS9 = [
         name: "咬",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_107.jpg"
   },
   {
     id: "5485",
@@ -2467,7 +2574,8 @@ const SS9 = [
         name: "龙爪",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_108.jpg"
   },
   {
     id: "5486",
@@ -2490,7 +2598,8 @@ const SS9 = [
         name: "龙之利刃",
         effect: "将自己的牌库上方2张卡丢弃。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_109.jpg"
   },
   {
     id: "5944",
@@ -2509,7 +2618,8 @@ const SS9 = [
         name: "超进化",
         effect: "掷1次硬币若为正面，则从自己的牌库选择1张「双斧战龙」卡，放置于这只「牙牙」身上完成进化。并且重洗牌库。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_110.jpg"
   },
   {
     id: "5945",
@@ -2532,7 +2642,8 @@ const SS9 = [
         name: "龙爪",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_111.jpg"
   },
   {
     id: "5946",
@@ -2555,7 +2666,8 @@ const SS9 = [
         name: "疯狂斧",
         effect: "这只宝可梦也受到30点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_112.jpg"
   },
   {
     id: "5309",
@@ -2578,7 +2690,8 @@ const SS9 = [
         name: "龙爪",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_113.jpg"
   },
   {
     id: "5581",
@@ -2605,7 +2718,8 @@ const SS9 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_114.jpg"
   },
   {
     id: "5487",
@@ -2624,7 +2738,8 @@ const SS9 = [
         name: "用葱敲打",
         effect: "增加对手的战斗宝可梦身上放置的伤害指示物的数量×10点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_115.jpg"
   },
   {
     id: "5488",
@@ -2647,7 +2762,8 @@ const SS9 = [
         name: "暴风",
         effect: "选择1个这只宝可梦身上附加的基本能量，改附于备战宝可梦身上。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_116.jpg"
   },
   {
     id: "5489",
@@ -2666,7 +2782,8 @@ const SS9 = [
         name: "钩爪",
         effect: "掷1次硬币若为反面，则这个招式失败。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_117.jpg"
   },
   {
     id: "5490",
@@ -2685,7 +2802,8 @@ const SS9 = [
         name: "翅膀攻击",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_118.jpg"
   },
   {
     id: "5491",
@@ -2708,7 +2826,8 @@ const SS9 = [
         name: "旋转鸟击",
         effect: "选择2个这只宝可梦身上附加的能量，将其丢弃。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_119.jpg"
   },
   {
     id: "5492",
@@ -2727,7 +2846,8 @@ const SS9 = [
         name: "滚动",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_120.jpg"
   },
   {
     id: "5493",
@@ -2750,7 +2870,8 @@ const SS9 = [
         name: "长尾击碎",
         effect: "掷1次硬币若为反面，则这个招式失败。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_121.jpg"
   },
   {
     id: "5494",
@@ -2777,7 +2898,8 @@ const SS9 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_122.jpg"
   },
   {
     id: "5495",
@@ -2804,7 +2926,8 @@ const SS9 = [
         name: "[VSTAR规则]",
         effect: "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_123.jpg"
   },
   {
     id: "5496",
@@ -2827,7 +2950,8 @@ const SS9 = [
         name: "拍击",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_124.jpg"
   },
   {
     id: "5497",
@@ -2850,7 +2974,8 @@ const SS9 = [
         name: "三旋击",
         effect: "掷3次硬币，造成正面出现的次数×50点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_125.jpg"
   },
   {
     id: "5498",
@@ -2873,7 +2998,8 @@ const SS9 = [
         name: "爆破之风",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_126.jpg"
   },
   {
     id: "5983",
@@ -2896,7 +3022,8 @@ const SS9 = [
         name: "挥击",
         effect: "若对手的战斗宝可梦为进化宝可梦，则增加30点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_127.jpg"
   },
   {
     id: "5985",
@@ -2923,7 +3050,8 @@ const SS9 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_128.jpg"
   },
   {
     id: "5509",
@@ -2940,7 +3068,8 @@ const SS9 = [
         name: "[竞技场规则]",
         effect: "在自己的回合时，只可将1张竞技场卡放置于战斗场旁边。若其他名称的竞技场卡被放置，则将这张卡丢弃。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_137.jpg"
   },
   {
     id: "5510",
@@ -2957,7 +3086,8 @@ const SS9 = [
         name: "[竞技场规则]",
         effect: "在自己的回合时，只可将1张竞技场卡放置于战斗场旁边。若其他名称的竞技场卡被放置，则将这张卡丢弃。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_144.jpg"
   },
   {
     id: "5336",
@@ -2974,7 +3104,8 @@ const SS9 = [
         name: "[支援者规则]",
         effect: "在自己的回合时，支援者卡只可使用1张。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_129.jpg"
   },
   {
     id: "6025",
@@ -2991,7 +3122,8 @@ const SS9 = [
         name: "[支援者规则]",
         effect: "在自己的回合时，支援者卡只可使用1张。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_130.jpg"
   },
   {
     id: "5508",
@@ -3008,7 +3140,8 @@ const SS9 = [
         name: "[支援者规则]",
         effect: "在自己的回合时，支援者卡只可使用1张。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_132.jpg"
   },
   {
     id: "5347",
@@ -3025,7 +3158,8 @@ const SS9 = [
         name: "[支援者规则]",
         effect: "在自己的回合时，支援者卡只可使用1张。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_133.jpg"
   },
   {
     id: "5505",
@@ -3042,7 +3176,8 @@ const SS9 = [
         name: "[支援者规则]",
         effect: "在自己的回合时，支援者卡只可使用1张。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_134.jpg"
   },
   {
     id: "5504",
@@ -3059,7 +3194,8 @@ const SS9 = [
         name: "[支援者规则]",
         effect: "在自己的回合时，支援者卡只可使用1张。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_138.jpg"
   },
   {
     id: "5337",
@@ -3076,7 +3212,8 @@ const SS9 = [
         name: "[支援者规则]",
         effect: "在自己的回合时，支援者卡只可使用1张。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_140.jpg"
   },
   {
     id: "5351",
@@ -3093,7 +3230,8 @@ const SS9 = [
         name: "[支援者规则]",
         effect: "在自己的回合时，支援者卡只可使用1张。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_141.jpg"
   },
   {
     id: "5503",
@@ -3110,7 +3248,8 @@ const SS9 = [
         name: "[支援者规则]",
         effect: "在自己的回合时，支援者卡只可使用1张。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_143.jpg"
   },
   {
     id: "6034",
@@ -3127,7 +3266,8 @@ const SS9 = [
         name: "[支援者规则]",
         effect: "在自己的回合时，支援者卡只可使用1张。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_145.jpg"
   },
   {
     id: "5506",
@@ -3144,7 +3284,8 @@ const SS9 = [
         name: "[支援者规则]",
         effect: "在自己的回合时，支援者卡只可使用1张。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_147.jpg"
   },
   {
     id: "5507",
@@ -3161,7 +3302,8 @@ const SS9 = [
         name: "[支援者规则]",
         effect: "在自己的回合时，支援者卡只可使用1张。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_148.jpg"
   },
   {
     id: "6014",
@@ -3178,7 +3320,8 @@ const SS9 = [
         name: "[支援者规则]",
         effect: "在自己的回合时，支援者卡只可使用1张。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_149.jpg"
   },
   {
     id: "5583",
@@ -3199,7 +3342,8 @@ const SS9 = [
         name: "[物品规则]",
         effect: "在自己的回合时，物品卡可不限张数使用。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_131.jpg"
   },
   {
     id: "5501",
@@ -3220,7 +3364,8 @@ const SS9 = [
         name: "[物品规则]",
         effect: "在自己的回合时，物品卡可不限张数使用。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_135.jpg"
   },
   {
     id: "5330",
@@ -3241,7 +3386,8 @@ const SS9 = [
         name: "[物品规则]",
         effect: "在自己的回合时，物品卡可不限张数使用。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_136.jpg"
   },
   {
     id: "5332",
@@ -3262,7 +3408,8 @@ const SS9 = [
         name: "[物品规则]",
         effect: "在自己的回合时，物品卡可不限张数使用。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_142.jpg"
   },
   {
     id: "5502",
@@ -3283,7 +3430,8 @@ const SS9 = [
         name: "[物品规则]",
         effect: "在自己的回合时，物品卡可不限张数使用。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_146.jpg"
   },
   {
     id: "5499",
@@ -3300,7 +3448,8 @@ const SS9 = [
         name: "[物品规则]",
         effect: "在自己的回合时，物品卡可不限张数使用。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_139.jpg"
   },
   {
     id: "5500",
@@ -3317,7 +3466,8 @@ const SS9 = [
         name: "[物品规则]",
         effect: "在自己的回合时，物品卡可不限张数使用。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_150.jpg"
   },
   {
     id: "5511",
@@ -3330,7 +3480,8 @@ const SS9 = [
         name: "",
         effect: "只要这张卡附于宝可梦身上，视为提供2个【无】能量。  附有这张卡的宝可梦使用的招式，对对手的宝可梦造成的伤害「-20」点。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_151.jpg"
   }
 ];
 exports.default = SS9;

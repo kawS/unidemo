@@ -22,7 +22,8 @@ const SS7_5 = [
         name: "大字爆炎",
         effect: "选择1个这只宝可梦身上附加的能量，将其丢弃。"
       }
-    ]
+    ],
+    enImgUrl: "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_1.png"
   },
   {
     id: "2080",
@@ -45,7 +46,8 @@ const SS7_5 = [
         name: "暗黑火焰",
         effect: "若自己的备战区有「捷克罗姆」，则增加80点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_2.png"
   },
   {
     id: "2077",
@@ -68,7 +70,8 @@ const SS7_5 = [
         name: "冲浪",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_3.png"
   },
   {
     id: "2079",
@@ -91,7 +94,8 @@ const SS7_5 = [
         name: "超频击碎",
         effect: "在下个自己的回合，这只宝可梦「超频击碎」的伤害「+80」点。"
       }
-    ]
+    ],
+    enImgUrl: "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_4.png"
   },
   {
     id: "2071",
@@ -114,7 +118,8 @@ const SS7_5 = [
         name: "电流攻击",
         effect: "掷1次硬币若为反面，则这只宝可梦也受到10点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_5.png"
   },
   {
     id: "2093",
@@ -141,7 +146,8 @@ const SS7_5 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_6.png"
   },
   {
     id: "2094",
@@ -164,7 +170,8 @@ const SS7_5 = [
         name: "[VMAX规则]",
         effect: "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_7.png"
   },
   {
     id: "2091",
@@ -187,7 +194,8 @@ const SS7_5 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_8.png"
   },
   {
     id: "2092",
@@ -210,7 +218,8 @@ const SS7_5 = [
         name: "[V规则]",
         effect: "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_9.png"
   },
   {
     id: "2081",
@@ -233,7 +242,8 @@ const SS7_5 = [
         name: "皎白雷电",
         effect: "若自己的备战区有「莱希拉姆」，则增加80点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_10.png"
   },
   {
     id: "2072",
@@ -256,7 +266,8 @@ const SS7_5 = [
         name: "精神射击",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_11.png"
   },
   {
     id: "2082",
@@ -279,7 +290,8 @@ const SS7_5 = [
         name: "极光角击",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_12.png"
   },
   {
     id: "2084",
@@ -298,7 +310,8 @@ const SS7_5 = [
         name: "星星守护",
         effect: "掷1次硬币若为正面，则在下个对手的回合，这只宝可梦不会受到招式的伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_13.png"
   },
   {
     id: "2085",
@@ -317,7 +330,8 @@ const SS7_5 = [
         name: "星星守护",
         effect: "掷1次硬币若为正面，则在下个对手的回合，这只宝可梦不会受到招式的伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_14.png"
   },
   {
     id: "2087",
@@ -340,7 +354,8 @@ const SS7_5 = [
         name: "精神子弹",
         effect: "对手的1只备战宝可梦也受到30点伤害。[在备战区不计算弱点・抵抗力。]"
       }
-    ]
+    ],
+    enImgUrl: "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_15.png"
   },
   {
     id: "2088",
@@ -367,7 +382,8 @@ const SS7_5 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_16.png"
   },
   {
     id: "2076",
@@ -390,7 +406,8 @@ const SS7_5 = [
         name: "大切断",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_17.png"
   },
   {
     id: "2089",
@@ -417,7 +434,8 @@ const SS7_5 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_18.png"
   },
   {
     id: "2083",
@@ -440,7 +458,8 @@ const SS7_5 = [
         name: "黑暗羽毛",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_19.png"
   },
   {
     id: "2078",
@@ -463,7 +482,8 @@ const SS7_5 = [
         name: "金属爆破",
         effect: "增加这只宝可梦身上附加的【钢】能量的数量×20点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_20.png"
   },
   {
     id: "2086",
@@ -486,7 +506,8 @@ const SS7_5 = [
         name: "日光喷涌",
         effect: "从自己的弃牌区选择最多2张基本能量卡，附于1只备战宝可梦身上。"
       }
-    ]
+    ],
+    enImgUrl: "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_21.png"
   },
   {
     id: "2075",
@@ -509,7 +530,8 @@ const SS7_5 = [
         name: "深击粉碎",
         effect: "在下个自己的回合，这只宝可梦无法使用招式。"
       }
-    ]
+    ],
+    enImgUrl: "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_22.png"
   },
   {
     id: "2073",
@@ -526,7 +548,8 @@ const SS7_5 = [
         name: "[支援者规则]",
         effect: "在自己的回合时，支援者卡只可使用1张。"
       }
-    ]
+    ],
+    enImgUrl: "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_23.png"
   }
 ];
 exports.default = SS7_5;

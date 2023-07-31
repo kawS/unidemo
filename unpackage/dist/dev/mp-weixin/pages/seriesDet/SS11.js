@@ -18,7 +18,8 @@ const SS11 = [
         name: "冲撞",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_1.jpg"
   },
   {
     id: "6053",
@@ -37,7 +38,8 @@ const SS11 = [
         name: "吸取",
         effect: "将这只宝可梦恢复「30」HP。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_2.jpg"
   },
   {
     id: "6054",
@@ -60,7 +62,8 @@ const SS11 = [
         name: "过敏性风暴",
         effect: "掷1次硬币若为正面，则在下个对手的回合，对手无法从手牌使出支援者卡。若为反面，则在下个对手的回合，对手无法从手牌使出物品卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_3.jpg"
   },
   {
     id: "6367",
@@ -79,7 +82,8 @@ const SS11 = [
         name: "吸取",
         effect: "将这只宝可梦恢复「10」HP。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_4.jpg"
   },
   {
     id: "6368",
@@ -102,7 +106,8 @@ const SS11 = [
         name: "十字剪",
         effect: "掷1次硬币若为正面，则增加50点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_5.jpg"
   },
   {
     id: "6370",
@@ -125,7 +130,8 @@ const SS11 = [
         name: "绵绵集聚",
         effect: "从自己的牌库选择任意数量的「刺尾虫」「甲壳茧」「狩猎凤蝶」「盾甲茧」「毒粉蛾」卡，在给对手看过后加入手牌。并且重洗牌库。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_6.jpg"
   },
   {
     id: "6371",
@@ -148,7 +154,8 @@ const SS11 = [
         name: "冲撞",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_7.jpg"
   },
   {
     id: "6372",
@@ -171,7 +178,8 @@ const SS11 = [
         name: "超级吸取",
         effect: "将这只宝可梦恢复「30」HP。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_8.jpg"
   },
   {
     id: "6373",
@@ -194,7 +202,8 @@ const SS11 = [
         name: "滚动冲撞",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_9.jpg"
   },
   {
     id: "6374",
@@ -217,7 +226,8 @@ const SS11 = [
         name: "利刃之风",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_10.jpg"
   },
   {
     id: "6742",
@@ -236,7 +246,8 @@ const SS11 = [
         name: "吸取",
         effect: "将这只宝可梦恢复「10」HP。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_11.jpg"
   },
   {
     id: "6743",
@@ -255,7 +266,8 @@ const SS11 = [
         name: "推倒",
         effect: "若希望，将对手的战斗宝可梦与备战宝可梦互换。[由对手选择放置于战斗场的宝可梦。]"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_12.jpg"
   },
   {
     id: "6744",
@@ -278,7 +290,8 @@ const SS11 = [
         name: "毁坏阵风",
         effect: "将这只宝可梦与附加的卡，全部放置于放逐区。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_13.jpg"
   },
   {
     id: "6057",
@@ -297,7 +310,8 @@ const SS11 = [
         name: "芳香催眠",
         effect: "将对手的战斗宝可梦【睡眠】。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_14.jpg"
   },
   {
     id: "6058",
@@ -320,7 +334,8 @@ const SS11 = [
         name: "刺杀蔷薇",
         effect: "若对手的战斗宝可梦处于特殊状态，则对手的1只备战宝可梦也受到60点伤害。[在备战区不计算弱点・抵抗力。]"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_15.jpg"
   },
   {
     id: "6748",
@@ -339,7 +354,8 @@ const SS11 = [
         name: "钩住",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_16.jpg"
   },
   {
     id: "6749",
@@ -362,7 +378,8 @@ const SS11 = [
         name: "终极冲击",
         effect: "在下个自己的回合，这只宝可梦无法使用招式。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_17.jpg"
   },
   {
     id: "6307",
@@ -381,7 +398,8 @@ const SS11 = [
         name: "咬",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_18.jpg"
   },
   {
     id: "6308",
@@ -400,7 +418,8 @@ const SS11 = [
         name: "屏障攻击",
         effect: "在下个对手的回合，这只宝可梦受到招式的伤害「-30」点。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_19.jpg"
   },
   {
     id: "6309",
@@ -423,7 +442,8 @@ const SS11 = [
         name: "神秘波",
         effect: "增加对手的战斗宝可梦身上附加的能量的数量×50点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_20.jpg"
   },
   {
     id: "6752",
@@ -446,7 +466,8 @@ const SS11 = [
         name: "烈焰",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_21.jpg"
   },
   {
     id: "6753",
@@ -469,7 +490,8 @@ const SS11 = [
         name: "放逐火山",
         effect: "将这只宝可梦身上附加的所有能量放置于放逐区。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_22.jpg"
   },
   {
     id: "6312",
@@ -492,7 +514,8 @@ const SS11 = [
         name: "喷射火焰",
         effect: "选择1个这只宝可梦身上附加的能量，将其丢弃。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_23.jpg"
   },
   {
     id: "6062",
@@ -511,7 +534,8 @@ const SS11 = [
         name: "小火灾",
         effect: "将对手的牌库上方1张卡丢弃。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_24.jpg"
   },
   {
     id: "6063",
@@ -530,7 +554,8 @@ const SS11 = [
         name: "摇晃灯火",
         effect: "掷1次硬币若为正面，则选择1个对手的战斗宝可梦身上附加的能量，将其丢弃。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_25.jpg"
   },
   {
     id: "6064",
@@ -553,7 +578,8 @@ const SS11 = [
         name: "高温爆破",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_26.jpg"
   },
   {
     id: "6754",
@@ -580,7 +606,8 @@ const SS11 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_27.jpg"
   },
   {
     id: "6065",
@@ -599,7 +626,8 @@ const SS11 = [
         name: "灼热",
         effect: "将对手的战斗宝可梦【灼伤】。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_28.jpg"
   },
   {
     id: "6066",
@@ -622,7 +650,8 @@ const SS11 = [
         name: "火焰牙",
         effect: "掷1次硬币若为正面，则将对手的战斗宝可梦【灼伤】。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_29.jpg"
   },
   {
     id: "6243",
@@ -641,7 +670,8 @@ const SS11 = [
         name: "跃起闪避",
         effect: "掷1次硬币若为正面，则在下个对手的回合，这只宝可梦不会受到招式的伤害与效果的影响。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_30.jpg"
   },
   {
     id: "6244",
@@ -664,7 +694,8 @@ const SS11 = [
         name: "双重粉碎",
         effect: "掷2次硬币，造成正面出现的次数×50点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_31.jpg"
   },
   {
     id: "6245",
@@ -687,7 +718,8 @@ const SS11 = [
         name: "水炮溅射",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_32.jpg"
   },
   {
     id: "6757",
@@ -710,7 +742,8 @@ const SS11 = [
         name: "泼水",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_33.jpg"
   },
   {
     id: "6758",
@@ -733,7 +766,8 @@ const SS11 = [
         name: "冰块回旋",
         effect: "将自己的场上宝可梦身上附加的任意数量的【水】能量卡放回牌库，造成其张数×40点伤害。这个情况下，重洗牌库。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_34.jpg"
   },
   {
     id: "6759",
@@ -752,7 +786,8 @@ const SS11 = [
         name: "逆向喷射",
         effect: "将这只宝可梦与备战宝可梦互换。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_35.jpg"
   },
   {
     id: "6760",
@@ -775,7 +810,8 @@ const SS11 = [
         name: "水炮射",
         effect: "对手的1只宝可梦受到这只宝可梦，身上附加的【水】能量的数量×20点伤害。[在备战区不计算弱点・抵抗力。]"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_36.jpg"
   },
   {
     id: "6761",
@@ -798,7 +834,8 @@ const SS11 = [
         name: "水炮溅射",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_37.jpg"
   },
   {
     id: "6317",
@@ -821,7 +858,8 @@ const SS11 = [
         name: "撞击",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_38.jpg"
   },
   {
     id: "6319",
@@ -844,7 +882,8 @@ const SS11 = [
         name: "冲浪",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_39.jpg"
   },
   {
     id: "6764",
@@ -867,7 +906,8 @@ const SS11 = [
         name: "水枪",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_40.jpg"
   },
   {
     id: "6765",
@@ -890,7 +930,8 @@ const SS11 = [
         name: "攀瀑",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_41.jpg"
   },
   {
     id: "6375",
@@ -913,7 +954,8 @@ const SS11 = [
         name: "冰柱飞弹",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_42.jpg"
   },
   {
     id: "6376",
@@ -936,7 +978,8 @@ const SS11 = [
         name: "舍身冲撞",
         effect: "这只宝可梦也受到30点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_43.jpg"
   },
   {
     id: "6378",
@@ -955,7 +998,8 @@ const SS11 = [
         name: "偷袭",
         effect: "掷1次硬币若为反面，则这个招式失败。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_44.jpg"
   },
   {
     id: "6379",
@@ -978,7 +1022,8 @@ const SS11 = [
         name: "水射击",
         effect: "选择1个这只宝可梦身上附加的能量，将其丢弃。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_45.jpg"
   },
   {
     id: "6249",
@@ -997,7 +1042,8 @@ const SS11 = [
         name: "泼水",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_46.jpg"
   },
   {
     id: "6250",
@@ -1020,7 +1066,8 @@ const SS11 = [
         name: "空气斩",
         effect: "选择1个这只宝可梦身上附加的能量，将其丢弃。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_47.jpg"
   },
   {
     id: "6766",
@@ -1047,7 +1094,8 @@ const SS11 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_48.jpg"
   },
   {
     id: "6767",
@@ -1074,7 +1122,8 @@ const SS11 = [
         name: "[VMAX规则]",
         effect: "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_49.jpg"
   },
   {
     id: "6770",
@@ -1097,7 +1146,8 @@ const SS11 = [
         name: "装傻喷吐",
         effect: "这个招式的伤害不计算弱点。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_50.jpg"
   },
   {
     id: "6771",
@@ -1120,7 +1170,8 @@ const SS11 = [
         name: "狂野冲撞",
         effect: "这只宝可梦也受到30点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_51.jpg"
   },
   {
     id: "6380",
@@ -1143,7 +1194,8 @@ const SS11 = [
         name: "胡思乱撞",
         effect: "掷1次硬币若为反面，则这个招式失败。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_52.jpg"
   },
   {
     id: "6381",
@@ -1166,7 +1218,8 @@ const SS11 = [
         name: "王牌电光",
         effect: "若自己已经使出了【VSTAR】力量，则增加120点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_53.jpg"
   },
   {
     id: "6251",
@@ -1189,7 +1242,8 @@ const SS11 = [
         name: "雷电牙",
         effect: "掷1次硬币若为正面，则将对手的战斗宝可梦【麻痺】。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_54.jpg"
   },
   {
     id: "6252",
@@ -1212,7 +1266,8 @@ const SS11 = [
         name: "进击镭射",
         effect: "若对手的战斗宝可梦身上附有「宝可梦道具」，则增加80点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_55.jpg"
   },
   {
     id: "6382",
@@ -1239,7 +1294,8 @@ const SS11 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_56.jpg"
   },
   {
     id: "6383",
@@ -1266,7 +1322,8 @@ const SS11 = [
         name: "[VSTAR规则]",
         effect: "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_57.jpg"
   },
   {
     id: "6774",
@@ -1293,7 +1350,8 @@ const SS11 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_58.jpg"
   },
   {
     id: "6776",
@@ -1316,7 +1374,8 @@ const SS11 = [
         name: "小电气",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_59.jpg"
   },
   {
     id: "6777",
@@ -1339,7 +1398,8 @@ const SS11 = [
         name: "劈哩啪啦",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_60.jpg"
   },
   {
     id: "6778",
@@ -1362,7 +1422,8 @@ const SS11 = [
         name: "激电流",
         effect: "选择2个这只宝可梦身上附加的能量，将其丢弃。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_61.jpg"
   },
   {
     id: "6385",
@@ -1385,7 +1446,8 @@ const SS11 = [
         name: "奇迹风暴",
         effect: "造成自己的场上宝可梦身上附加的【超】能量的数量×20点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_62.jpg"
   },
   {
     id: "6386",
@@ -1408,7 +1470,8 @@ const SS11 = [
         name: "月亮冲击",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_63.jpg"
   },
   {
     id: "6387",
@@ -1427,7 +1490,8 @@ const SS11 = [
         name: "无声加害",
         effect: "在对手的战斗宝可梦身上放置1个伤害指示物。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_64.jpg"
   },
   {
     id: "6388",
@@ -1446,7 +1510,8 @@ const SS11 = [
         name: "诅咒水滴",
         effect: "将3个伤害指示物以任意方式放置于对手的宝可梦身上。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_65.jpg"
   },
   {
     id: "6389",
@@ -1469,7 +1534,8 @@ const SS11 = [
         name: "尖啸阵",
         effect: "将与对手的备战宝可梦的数量×2个的相同数量的伤害指示物，放置于对手的战斗宝可梦身上。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_66.jpg"
   },
   {
     id: "6390",
@@ -1492,7 +1558,8 @@ const SS11 = [
         name: "戏法巴掌",
         effect: "与对手玩家猜拳，若己方获胜，则在下个对手的回合，这只宝可梦不会受到招式的伤害与效果的影响。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_67.jpg"
   },
   {
     id: "6076",
@@ -1515,7 +1582,8 @@ const SS11 = [
         name: "超念力",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_68.jpg"
   },
   {
     id: "6393",
@@ -1542,7 +1610,8 @@ const SS11 = [
         name: "精神强念",
         effect: "增加对手的战斗宝可梦身上附加的能量的数量×20点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_69.jpg"
   },
   {
     id: "6781",
@@ -1565,7 +1634,8 @@ const SS11 = [
         name: "放逐矿山",
         effect: "这个招式只有在自己的放逐区有10张以上的卡时才可使用。将12个伤害指示物以任意方式放置于对手的宝可梦身上。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_70.jpg"
   },
   {
     id: "6256",
@@ -1588,7 +1658,8 @@ const SS11 = [
         name: "咬住",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_71.jpg"
   },
   {
     id: "6782",
@@ -1607,7 +1678,8 @@ const SS11 = [
         name: "舌击",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_72.jpg"
   },
   {
     id: "6783",
@@ -1630,7 +1702,8 @@ const SS11 = [
         name: "阴森射击",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_73.jpg"
   },
   {
     id: "6260",
@@ -1653,7 +1726,8 @@ const SS11 = [
         name: "月光爆破",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_74.jpg"
   },
   {
     id: "6395",
@@ -1676,7 +1750,8 @@ const SS11 = [
         name: "呓语",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_75.jpg"
   },
   {
     id: "6396",
@@ -1699,7 +1774,8 @@ const SS11 = [
         name: "唤回",
         effect: "从自己的弃牌区任意选择1张卡，在给对手看过后加入手牌。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_76.jpg"
   },
   {
     id: "6331",
@@ -1718,7 +1794,8 @@ const SS11 = [
         name: "浮躁攻击",
         effect: "掷1次硬币若为反面，则这个招式失败。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_77.jpg"
   },
   {
     id: "6332",
@@ -1741,7 +1818,8 @@ const SS11 = [
         name: "念动弹",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_78.jpg"
   },
   {
     id: "6786",
@@ -1764,7 +1842,8 @@ const SS11 = [
         name: "回转攻击",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_79.jpg"
   },
   {
     id: "6787",
@@ -1787,7 +1866,8 @@ const SS11 = [
         name: "极恶之礼",
         effect: "造成对手的场上宝可梦身上放置的伤害指示物的数量×10点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_80.jpg"
   },
   {
     id: "6792",
@@ -1810,7 +1890,8 @@ const SS11 = [
         name: "幻影强袭",
         effect: "在下个自己的回合，这只宝可梦无法使用「幻影强袭」。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_81.jpg"
   },
   {
     id: "6397",
@@ -1837,7 +1918,8 @@ const SS11 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_82.jpg"
   },
   {
     id: "6398",
@@ -1856,7 +1938,8 @@ const SS11 = [
         name: "灼热",
         effect: "将对手的战斗宝可梦【灼伤】。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_83.jpg"
   },
   {
     id: "6399",
@@ -1879,7 +1962,8 @@ const SS11 = [
         name: "锐利之牙",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_84.jpg"
   },
   {
     id: "6263",
@@ -1902,7 +1986,8 @@ const SS11 = [
         name: "飞溅闭环",
         effect: "选择2个这只宝可梦身上附加的能量，放回手牌。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_85.jpg"
   },
   {
     id: "6400",
@@ -1921,7 +2006,8 @@ const SS11 = [
         name: "出拳",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_86.jpg"
   },
   {
     id: "6401",
@@ -1944,7 +2030,8 @@ const SS11 = [
         name: "地球上投",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_87.jpg"
   },
   {
     id: "6402",
@@ -1967,7 +2054,8 @@ const SS11 = [
         name: "刚腕金勾臂",
         effect: "若希望，增加100点伤害。这个情况下，在下个自己的回合，这只宝可梦无法使用招式。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_88.jpg"
   },
   {
     id: "6086",
@@ -1986,7 +2074,8 @@ const SS11 = [
         name: "猛撞",
         effect: "这只宝可梦也受到20点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_89.jpg"
   },
   {
     id: "6087",
@@ -2009,7 +2098,8 @@ const SS11 = [
         name: "猛撞",
         effect: "这只宝可梦也受到30点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_90.jpg"
   },
   {
     id: "6088",
@@ -2032,7 +2122,8 @@ const SS11 = [
         name: "巨岩冲撞",
         effect: "这只宝可梦也受到30点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_91.jpg"
   },
   {
     id: "6793",
@@ -2059,7 +2150,8 @@ const SS11 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_92.jpg"
   },
   {
     id: "6794",
@@ -2086,7 +2178,8 @@ const SS11 = [
         name: "[VSTAR规则]",
         effect: "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_93.jpg"
   },
   {
     id: "6403",
@@ -2109,7 +2202,8 @@ const SS11 = [
         name: "围困",
         effect: "在下个对手的回合，受到这个招式的宝可梦无法撤退。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_94.jpg"
   },
   {
     id: "6404",
@@ -2128,7 +2222,8 @@ const SS11 = [
         name: "旋风钳",
         effect: "掷4次硬币，造成正面出现的次数×10点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_95.jpg"
   },
   {
     id: "6405",
@@ -2147,7 +2242,8 @@ const SS11 = [
         name: "飓风冲击",
         effect: "掷4次硬币，造成正面出现的次数×50点伤害。若出现2次以上正面，则将对手的战斗宝可梦【麻痺】。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_96.jpg"
   },
   {
     id: "6333",
@@ -2166,7 +2262,8 @@ const SS11 = [
         name: "击掌奇袭",
         effect: "掷1次硬币若为正面，则将对手的战斗宝可梦【麻痺】。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_97.jpg"
   },
   {
     id: "6334",
@@ -2189,7 +2286,8 @@ const SS11 = [
         name: "筋肉巴掌",
         effect: "这个招式的伤害不计算抵抗力。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_98.jpg"
   },
   {
     id: "6187",
@@ -2208,7 +2306,8 @@ const SS11 = [
         name: "真气突刺",
         effect: "掷1次硬币若为反面，则这个招式失败。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_99.jpg"
   },
   {
     id: "6188",
@@ -2227,7 +2326,8 @@ const SS11 = [
         name: "战斗舞步",
         effect: "从自己的牌库选择最多2张【斗】能量卡，以任意方式附于备战宝可梦身上。并且重洗牌库。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_100.jpg"
   },
   {
     id: "6089",
@@ -2250,7 +2350,8 @@ const SS11 = [
         name: "撞击",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_101.jpg"
   },
   {
     id: "6336",
@@ -2273,7 +2374,8 @@ const SS11 = [
         name: "地震",
         effect: "自己的所有备战宝可梦也各受到20点伤害。[在备战区不计算弱点・抵抗力。]"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_102.jpg"
   },
   {
     id: "6269",
@@ -2296,7 +2398,8 @@ const SS11 = [
         name: "回转踢",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_103.jpg"
   },
   {
     id: "6270",
@@ -2319,7 +2422,8 @@ const SS11 = [
         name: "双重粉碎",
         effect: "掷2次硬币，造成正面出现的次数×70点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_104.jpg"
   },
   {
     id: "6191",
@@ -2342,7 +2446,8 @@ const SS11 = [
         name: "粉碎刀锋",
         effect: "选择2个这只宝可梦身上附加的能量，将其丢弃。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_105.jpg"
   },
   {
     id: "6797",
@@ -2365,7 +2470,8 @@ const SS11 = [
         name: "劈开",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_106.jpg"
   },
   {
     id: "6798",
@@ -2388,7 +2494,8 @@ const SS11 = [
         name: "爆裂劈",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_107.jpg"
   },
   {
     id: "6337",
@@ -2411,7 +2518,8 @@ const SS11 = [
         name: "力量宝石",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_108.jpg"
   },
   {
     id: "6192",
@@ -2434,7 +2542,8 @@ const SS11 = [
         name: "后踢",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_109.jpg"
   },
   {
     id: "6193",
@@ -2457,7 +2566,8 @@ const SS11 = [
         name: "喷射头击",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_110.jpg"
   },
   {
     id: "6802",
@@ -2480,7 +2590,8 @@ const SS11 = [
         name: "放逐射击",
         effect: "将对手的牌库上方1张卡放置于放逐区。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_111.jpg"
   },
   {
     id: "6271",
@@ -2499,7 +2610,8 @@ const SS11 = [
         name: "毒针",
         effect: "将对手的战斗宝可梦【中毒】。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_112.jpg"
   },
   {
     id: "6272",
@@ -2522,7 +2634,8 @@ const SS11 = [
         name: "毒牙",
         effect: "将对手的战斗宝可梦【中毒】。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_113.jpg"
   },
   {
     id: "6209",
@@ -2545,7 +2658,8 @@ const SS11 = [
         name: "翅膀攻击",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_114.jpg"
   },
   {
     id: "6210",
@@ -2568,7 +2682,8 @@ const SS11 = [
         name: "暗黑旋风",
         effect: "将这只宝可梦身上附加的所有能量，以任意方式改附于备战宝可梦身上。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_115.jpg"
   },
   {
     id: "6213",
@@ -2587,7 +2702,8 @@ const SS11 = [
         name: "突袭回转",
         effect: "将这只宝可梦与备战区的【恶】宝可梦互换。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_116.jpg"
   },
   {
     id: "6413",
@@ -2610,7 +2726,8 @@ const SS11 = [
         name: "孤魂连锁",
         effect: "增加自己的弃牌区的「花岩怪」的张数×60点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_117.jpg"
   },
   {
     id: "6803",
@@ -2637,7 +2754,8 @@ const SS11 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_118.jpg"
   },
   {
     id: "6804",
@@ -2664,7 +2782,8 @@ const SS11 = [
         name: "[VSTAR规则]",
         effect: "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_119.jpg"
   },
   {
     id: "6344",
@@ -2687,7 +2806,8 @@ const SS11 = [
         name: "漆黑利刃",
         effect: "在下个自己的回合，这只宝可梦无法使用招式。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_120.jpg"
   },
   {
     id: "6216",
@@ -2710,7 +2830,8 @@ const SS11 = [
         name: "撞击",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_121.jpg"
   },
   {
     id: "6217",
@@ -2733,7 +2854,8 @@ const SS11 = [
         name: "暴君黑洞",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_122.jpg"
   },
   {
     id: "6412",
@@ -2760,7 +2882,8 @@ const SS11 = [
         name: "毒击",
         effect: "将对手的战斗宝可梦【中毒】。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_123.jpg"
   },
   {
     id: "6416",
@@ -2787,7 +2910,8 @@ const SS11 = [
         name: "终结破坏",
         effect: "将自己的牌库上方的卡丢弃直到剩余张数变为1张为止，增加其中的能量卡的张数×30点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_124.jpg"
   },
   {
     id: "6417",
@@ -2806,7 +2930,8 @@ const SS11 = [
         name: "回转攻击",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_125.jpg"
   },
   {
     id: "6418",
@@ -2829,7 +2954,8 @@ const SS11 = [
         name: "重力坠击",
         effect: "增加对手的战斗宝可梦【撤退】所需的能量的数量×40点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_126.jpg"
   },
   {
     id: "6815",
@@ -2852,7 +2978,8 @@ const SS11 = [
         name: "撞击",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_127.jpg"
   },
   {
     id: "6349",
@@ -2875,7 +3002,8 @@ const SS11 = [
         name: "机关光束",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_128.jpg"
   },
   {
     id: "6816",
@@ -2902,7 +3030,8 @@ const SS11 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_129.jpg"
   },
   {
     id: "6817",
@@ -2929,7 +3058,8 @@ const SS11 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_130.jpg"
   },
   {
     id: "6818",
@@ -2956,7 +3086,8 @@ const SS11 = [
         name: "[VSTAR规则]",
         effect: "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_131.jpg"
   },
   {
     id: "6419",
@@ -2979,7 +3110,8 @@ const SS11 = [
         name: "溶解",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_132.jpg"
   },
   {
     id: "6420",
@@ -3002,7 +3134,8 @@ const SS11 = [
         name: "重掴",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_133.jpg"
   },
   {
     id: "6421",
@@ -3025,7 +3158,8 @@ const SS11 = [
         name: "重磅冲击",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_134.jpg"
   },
   {
     id: "6422",
@@ -3052,7 +3186,8 @@ const SS11 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_135.jpg"
   },
   {
     id: "6423",
@@ -3079,7 +3214,8 @@ const SS11 = [
         name: "[VSTAR规则]",
         effect: "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_136.jpg"
   },
   {
     id: "6819",
@@ -3106,7 +3242,8 @@ const SS11 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_137.jpg"
   },
   {
     id: "6351",
@@ -3125,7 +3262,8 @@ const SS11 = [
         name: "口水",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_138.jpg"
   },
   {
     id: "6352",
@@ -3148,7 +3286,8 @@ const SS11 = [
         name: "重磅冲击",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_139.jpg"
   },
   {
     id: "6820",
@@ -3171,7 +3310,8 @@ const SS11 = [
         name: "光束",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_140.jpg"
   },
   {
     id: "6821",
@@ -3190,7 +3330,8 @@ const SS11 = [
         name: "废物攻击",
         effect: "造成双方的放逐区的「宝可梦道具」卡的张数×20点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_141.jpg"
   },
   {
     id: "6822",
@@ -3213,7 +3354,8 @@ const SS11 = [
         name: "强力光束",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_142.jpg"
   },
   {
     id: "6424",
@@ -3236,7 +3378,8 @@ const SS11 = [
         name: "轰隆打呼",
         effect: "将这只宝可梦【睡眠】。因这个【睡眠】的掷硬币次数改为2次，若没有全部为正面则无法恢复。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_143.jpg"
   },
   {
     id: "6425",
@@ -3259,7 +3402,8 @@ const SS11 = [
         name: "抓",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_144.jpg"
   },
   {
     id: "6426",
@@ -3282,7 +3426,8 @@ const SS11 = [
         name: "拍落",
         effect: "在不看正面的情况下，选择1张对手的手牌，将其丢弃。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_145.jpg"
   },
   {
     id: "6427",
@@ -3309,7 +3454,8 @@ const SS11 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_146.jpg"
   },
   {
     id: "6428",
@@ -3336,7 +3482,8 @@ const SS11 = [
         name: "[VSTAR规则]",
         effect: "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_147.jpg"
   },
   {
     id: "6826",
@@ -3359,7 +3506,8 @@ const SS11 = [
         name: "怪力角击",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_148.jpg"
   },
   {
     id: "6358",
@@ -3382,7 +3530,8 @@ const SS11 = [
         name: "倒下",
         effect: "将这只宝可梦【睡眠】。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_149.jpg"
   },
   {
     id: "6289",
@@ -3401,7 +3550,8 @@ const SS11 = [
         name: "咬",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_150.jpg"
   },
   {
     id: "6290",
@@ -3424,7 +3574,8 @@ const SS11 = [
         name: "倾泻",
         effect: "将自己的手牌全部丢弃，若丢弃的张数为5张以上，则增加150点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_151.jpg"
   },
   {
     id: "6437",
@@ -3441,7 +3592,8 @@ const SS11 = [
         name: "[竞技场规则]",
         effect: "在自己的回合时，只可将1张竞技场卡放置于战斗场旁边。若其他名称的竞技场卡被放置，则将这张卡丢弃。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_160.jpg"
   },
   {
     id: "6836",
@@ -3458,7 +3610,8 @@ const SS11 = [
         name: "[竞技场规则]",
         effect: "在自己的回合时，只可将1张竞技场卡放置于战斗场旁边。若其他名称的竞技场卡被放置，则将这张卡丢弃。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_161.jpg"
   },
   {
     id: "6435",
@@ -3475,7 +3628,8 @@ const SS11 = [
         name: "[支援者规则]",
         effect: "在自己的回合时，支援者卡只可使用1张。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_153.jpg"
   },
   {
     id: "6832",
@@ -3492,7 +3646,8 @@ const SS11 = [
         name: "[支援者规则]",
         effect: "在自己的回合时，支援者卡只可使用1张。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_155.jpg"
   },
   {
     id: "6835",
@@ -3509,7 +3664,8 @@ const SS11 = [
         name: "[支援者规则]",
         effect: "在自己的回合时，支援者卡只可使用1张。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_157.jpg"
   },
   {
     id: "6434",
@@ -3526,7 +3682,8 @@ const SS11 = [
         name: "[支援者规则]",
         effect: "在自己的回合时，支援者卡只可使用1张。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_158.jpg"
   },
   {
     id: "6833",
@@ -3543,7 +3700,8 @@ const SS11 = [
         name: "[支援者规则]",
         effect: "在自己的回合时，支援者卡只可使用1张。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_159.jpg"
   },
   {
     id: "6436",
@@ -3560,7 +3718,8 @@ const SS11 = [
         name: "[支援者规则]",
         effect: "在自己的回合时，支援者卡只可使用1张。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_164.jpg"
   },
   {
     id: "5629",
@@ -3577,7 +3736,8 @@ const SS11 = [
         name: "[支援者规则]",
         effect: "在自己的回合时，支援者卡只可使用1张。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_166.jpg"
   },
   {
     id: "6834",
@@ -3594,7 +3754,8 @@ const SS11 = [
         name: "[支援者规则]",
         effect: "在自己的回合时，支援者卡只可使用1张。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_167.jpg"
   },
   {
     id: "6433",
@@ -3611,7 +3772,8 @@ const SS11 = [
         name: "[支援者规则]",
         effect: "在自己的回合时，支援者卡只可使用1张。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_169.jpg"
   },
   {
     id: "6432",
@@ -3632,7 +3794,8 @@ const SS11 = [
         name: "[物品规则]",
         effect: "在自己的回合时，物品卡可不限张数使用。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_154.jpg"
   },
   {
     id: "6831",
@@ -3653,7 +3816,8 @@ const SS11 = [
         name: "[物品规则]",
         effect: "在自己的回合时，物品卡可不限张数使用。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_165.jpg"
   },
   {
     id: "6431",
@@ -3674,7 +3838,8 @@ const SS11 = [
         name: "[物品规则]",
         effect: "在自己的回合时，物品卡可不限张数使用。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_170.jpg"
   },
   {
     id: "6429",
@@ -3691,7 +3856,8 @@ const SS11 = [
         name: "[物品规则]",
         effect: "在自己的回合时，物品卡可不限张数使用。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_152.jpg"
   },
   {
     id: "6430",
@@ -3708,7 +3874,8 @@ const SS11 = [
         name: "[物品规则]",
         effect: "在自己的回合时，物品卡可不限张数使用。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_156.jpg"
   },
   {
     id: "6830",
@@ -3725,7 +3892,8 @@ const SS11 = [
         name: "[物品规则]",
         effect: "在自己的回合时，物品卡可不限张数使用。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_162.jpg"
   },
   {
     id: "6829",
@@ -3742,7 +3910,8 @@ const SS11 = [
         name: "[物品规则]",
         effect: "在自己的回合时，物品卡可不限张数使用。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_163.jpg"
   },
   {
     id: "6828",
@@ -3759,7 +3928,8 @@ const SS11 = [
         name: "[物品规则]",
         effect: "在自己的回合时，物品卡可不限张数使用。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_168.jpg"
   },
   {
     id: "6837",
@@ -3772,7 +3942,8 @@ const SS11 = [
         name: "",
         effect: "只要这张卡附于宝可梦身上，视为提供1个【无】能量。当附有这张卡的宝可梦受到对手的宝可梦招式的伤害而【气绝】时，从牌库抽卡直到自己的手牌满7张为止。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_171.jpg"
   }
 ];
 exports.default = SS11;

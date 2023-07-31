@@ -22,7 +22,8 @@ const SS10_5 = [
         name: "飞叶快刀",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_1.jpg"
   },
   {
     id: "6535",
@@ -45,7 +46,8 @@ const SS10_5 = [
         name: "飞叶快刀",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_2.jpg"
   },
   {
     id: "6536",
@@ -68,7 +70,8 @@ const SS10_5 = [
         name: "日光束",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_3.jpg"
   },
   {
     id: "6537",
@@ -95,7 +98,8 @@ const SS10_5 = [
         name: "危险花粉",
         effect: "将对手的战斗宝可梦【中毒】，【灼伤】与【混乱】。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_4.jpg"
   },
   {
     id: "6538",
@@ -122,7 +126,8 @@ const SS10_5 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_5.jpg"
   },
   {
     id: "6539",
@@ -141,7 +146,8 @@ const SS10_5 = [
         name: "毒针",
         effect: "掷1次硬币若为正面，则将对手的战斗宝可梦【中毒】。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_6.jpg"
   },
   {
     id: "6540",
@@ -164,7 +170,8 @@ const SS10_5 = [
         name: "吸取",
         effect: "将这只宝可梦恢复「50」HP。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_7.jpg"
   },
   {
     id: "6541",
@@ -183,7 +190,8 @@ const SS10_5 = [
         name: "燃烧之尾",
         effect: "从自己的牌库选择1张【火】能量卡，附于这只宝可梦身上。并且重洗牌库。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_8.jpg"
   },
   {
     id: "6542",
@@ -206,7 +214,8 @@ const SS10_5 = [
         name: "喷射火焰",
         effect: "选择1个这只宝可梦身上附加的【火】能量，将其丢弃。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_9.jpg"
   },
   {
     id: "6543",
@@ -229,7 +238,8 @@ const SS10_5 = [
         name: "闪焰冲锋",
         effect: "将这只宝可梦身上附加的【火】能量全部丢弃。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_10.jpg"
   },
   {
     id: "6544",
@@ -256,7 +266,8 @@ const SS10_5 = [
         name: "烈焰爆",
         effect: "在下个自己的回合，这只宝可梦无法使用「烈焰爆」。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_11.jpg"
   },
   {
     id: "6545",
@@ -279,7 +290,8 @@ const SS10_5 = [
         name: "火焰之翼",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_12.jpg"
   },
   {
     id: "6546",
@@ -302,7 +314,8 @@ const SS10_5 = [
         name: "踩踏",
         effect: "掷1次硬币若为正面，则增加50点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_13.jpg"
   },
   {
     id: "6547",
@@ -325,7 +338,8 @@ const SS10_5 = [
         name: "高温爆破",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_14.jpg"
   },
   {
     id: "6548",
@@ -344,7 +358,8 @@ const SS10_5 = [
         name: "水枪",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_15.jpg"
   },
   {
     id: "6549",
@@ -367,7 +382,8 @@ const SS10_5 = [
         name: "水炮",
         effect: "增加这只宝可梦身上附加的【水】能量的数量×10点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_16.jpg"
   },
   {
     id: "6550",
@@ -390,7 +406,8 @@ const SS10_5 = [
         name: "水炮",
         effect: "增加这只宝可梦身上附加的【水】能量的数量×30点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_17.jpg"
   },
   {
     id: "6551",
@@ -417,7 +434,8 @@ const SS10_5 = [
         name: "激流炮",
         effect: "在下个自己的回合，这只宝可梦无法使用「激流炮」。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_18.jpg"
   },
   {
     id: "6552",
@@ -440,7 +458,8 @@ const SS10_5 = [
         name: "钓鱼日",
         effect: "从自己的弃牌区选择1张物品卡，在给对手看过后加入手牌。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_19.jpg"
   },
   {
     id: "6553",
@@ -463,7 +482,8 @@ const SS10_5 = [
         name: "黄昏耀闪",
         effect: "这个招式只有在对手剩余奖赏卡的张数为1张时才可使用。获得2张自己的奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_20.jpg"
   },
   {
     id: "6554",
@@ -486,7 +506,8 @@ const SS10_5 = [
         name: "怒之尾鳍",
         effect: "增加自己的弃牌区的「鲤鱼王」与「暴鲤龙」的张数×30点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_21.jpg"
   },
   {
     id: "6555",
@@ -509,7 +530,8 @@ const SS10_5 = [
         name: "疯狂飞溅",
         effect: "将自己的牌库上方5张卡丢弃。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_22.jpg"
   },
   {
     id: "6556",
@@ -532,7 +554,8 @@ const SS10_5 = [
         name: "冲浪",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_23.jpg"
   },
   {
     id: "6557",
@@ -555,7 +578,8 @@ const SS10_5 = [
         name: "冻凝之风",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_24.jpg"
   },
   {
     id: "6558",
@@ -578,7 +602,8 @@ const SS10_5 = [
         name: "咬",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_25.jpg"
   },
   {
     id: "6559",
@@ -601,7 +626,8 @@ const SS10_5 = [
         name: "劈开",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_26.jpg"
   },
   {
     id: "6560",
@@ -620,7 +646,8 @@ const SS10_5 = [
         name: "好友伏特",
         effect: "在这个回合，若从手牌使出了支援者卡，则增加30点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_27.jpg"
   },
   {
     id: "6561",
@@ -639,7 +666,8 @@ const SS10_5 = [
         name: "疯狂伏特",
         effect: "这只宝可梦也受到30点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_28.jpg"
   },
   {
     id: "6562",
@@ -662,7 +690,8 @@ const SS10_5 = [
         name: "雷电球",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_29.jpg"
   },
   {
     id: "6563",
@@ -689,7 +718,8 @@ const SS10_5 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_30.jpg"
   },
   {
     id: "6564",
@@ -716,7 +746,8 @@ const SS10_5 = [
         name: "[VSTAR规则]",
         effect: "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_31.jpg"
   },
   {
     id: "6565",
@@ -739,7 +770,8 @@ const SS10_5 = [
         name: "啄",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_32.jpg"
   },
   {
     id: "6566",
@@ -762,7 +794,8 @@ const SS10_5 = [
         name: "精神歪曲",
         effect: "将对手的战斗宝可梦【混乱】。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_33.jpg"
   },
   {
     id: "6567",
@@ -785,7 +818,8 @@ const SS10_5 = [
         name: "月亮强念",
         effect: "增加这只宝可梦身上附加的【超】能量的数量×30点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_34.jpg"
   },
   {
     id: "6568",
@@ -808,7 +842,8 @@ const SS10_5 = [
         name: "奇迹闪光",
         effect: "若对手的战斗宝可梦为【龙】宝可梦，则增加90点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_35.jpg"
   },
   {
     id: "6569",
@@ -831,7 +866,8 @@ const SS10_5 = [
         name: "怒之横扫",
         effect: "造成这只宝可梦身上放置的伤害指示物的数量×50点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_36.jpg"
   },
   {
     id: "6570",
@@ -850,7 +886,8 @@ const SS10_5 = [
         name: "碎岩",
         effect: "掷1次硬币若为正面，则增加10点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_37.jpg"
   },
   {
     id: "6571",
@@ -873,7 +910,8 @@ const SS10_5 = [
         name: "撞击",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_38.jpg"
   },
   {
     id: "6572",
@@ -896,7 +934,8 @@ const SS10_5 = [
         name: "回转攻击",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_39.jpg"
   },
   {
     id: "6573",
@@ -923,7 +962,8 @@ const SS10_5 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_40.jpg"
   },
   {
     id: "6574",
@@ -942,7 +982,8 @@ const SS10_5 = [
         name: "必杀门牙",
         effect: "掷1次硬币若为反面，则这个招式失败。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_41.jpg"
   },
   {
     id: "6575",
@@ -965,7 +1006,8 @@ const SS10_5 = [
         name: "怒之门牙",
         effect: "在对手的战斗宝可梦身上放置伤害指示物直到剩余HP变为「10」为止。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_42.jpg"
   },
   {
     id: "6576",
@@ -988,7 +1030,8 @@ const SS10_5 = [
         name: "地震",
         effect: "自己的所有备战宝可梦也各受到20点伤害。[在备战区不计算弱点・抵抗力。]"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_43.jpg"
   },
   {
     id: "6577",
@@ -1011,7 +1054,8 @@ const SS10_5 = [
         name: "铁之光炮",
         effect: "在下个自己的回合，这只宝可梦无法使用招式。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_44.jpg"
   },
   {
     id: "6578",
@@ -1030,7 +1074,8 @@ const SS10_5 = [
         name: "电击",
         effect: "掷1次硬币若为正面，则将对手的战斗宝可梦【麻痺】。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_45.jpg"
   },
   {
     id: "6579",
@@ -1053,7 +1098,8 @@ const SS10_5 = [
         name: "横扫粉碎",
         effect: "掷2次硬币，增加正面出现的次数×90点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_46.jpg"
   },
   {
     id: "6580",
@@ -1080,7 +1126,8 @@ const SS10_5 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_47.jpg"
   },
   {
     id: "6581",
@@ -1103,7 +1150,8 @@ const SS10_5 = [
         name: "[VMAX规则]",
         effect: "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_48.jpg"
   },
   {
     id: "6582",
@@ -1130,7 +1178,8 @@ const SS10_5 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_49.jpg"
   },
   {
     id: "6583",
@@ -1157,7 +1206,8 @@ const SS10_5 = [
         name: "[VSTAR规则]",
         effect: "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_50.jpg"
   },
   {
     id: "6584",
@@ -1180,7 +1230,8 @@ const SS10_5 = [
         name: "重掴",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_51.jpg"
   },
   {
     id: "6585",
@@ -1203,7 +1254,8 @@ const SS10_5 = [
         name: "意念头锤",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_52.jpg"
   },
   {
     id: "6586",
@@ -1222,7 +1274,8 @@ const SS10_5 = [
         name: "[特性]突然变化",
         effect: "这只宝可梦可使用自己弃牌区的【基础】宝可梦（「拥有规则的宝可梦」除外）持有的所有招式。[需要有足够使用招式的能量。]"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_53.jpg"
   },
   {
     id: "6587",
@@ -1245,7 +1298,8 @@ const SS10_5 = [
         name: "撞击",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_54.jpg"
   },
   {
     id: "6589",
@@ -1268,7 +1322,8 @@ const SS10_5 = [
         name: "倒下",
         effect: "将这只宝可梦【睡眠】。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_55.jpg"
   },
   {
     id: "6590",
@@ -1291,7 +1346,8 @@ const SS10_5 = [
         name: "巴掌",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_56.jpg"
   },
   {
     id: "6591",
@@ -1314,7 +1370,8 @@ const SS10_5 = [
         name: "投掷MAX",
         effect: "掷与这只宝可梦身上附加的能量的数量相同次数的硬币，造成正面出现的次数×60点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_57.jpg"
   },
   {
     id: "6592",
@@ -1341,7 +1398,8 @@ const SS10_5 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_58.jpg"
   },
   {
     id: "6593",
@@ -1360,7 +1418,8 @@ const SS10_5 = [
         name: "猛撞",
         effect: "这只宝可梦也受到10点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_59.jpg"
   },
   {
     id: "6594",
@@ -1383,7 +1442,8 @@ const SS10_5 = [
         name: "头突",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_60.jpg"
   },
   {
     id: "6595",
@@ -1406,7 +1466,8 @@ const SS10_5 = [
         name: "羽击",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_61.jpg"
   },
   {
     id: "6596",
@@ -1429,7 +1490,8 @@ const SS10_5 = [
         name: "羽击",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_62.jpg"
   },
   {
     id: "6597",
@@ -1452,7 +1514,8 @@ const SS10_5 = [
         name: "飓风之翼",
         effect: "掷4次硬币，造成正面出现的次数×70点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_63.jpg"
   },
   {
     id: "6604",
@@ -1469,7 +1532,8 @@ const SS10_5 = [
         name: "[竞技场规则]",
         effect: "在自己的回合时，只可将1张竞技场卡放置于战斗场旁边。若其他名称的竞技场卡被放置，则将这张卡丢弃。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_68.jpg"
   },
   {
     id: "6603",
@@ -1486,7 +1550,8 @@ const SS10_5 = [
         name: "[支援者规则]",
         effect: "在自己的回合时，支援者卡只可使用1张。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_64.jpg"
   },
   {
     id: "6601",
@@ -1503,7 +1568,8 @@ const SS10_5 = [
         name: "[支援者规则]",
         effect: "在自己的回合时，支援者卡只可使用1张。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_65.jpg"
   },
   {
     id: "6602",
@@ -1520,7 +1586,8 @@ const SS10_5 = [
         name: "[支援者规则]",
         effect: "在自己的回合时，支援者卡只可使用1张。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_70.jpg"
   },
   {
     id: "6598",
@@ -1537,7 +1604,8 @@ const SS10_5 = [
         name: "[物品规则]",
         effect: "在自己的回合时，物品卡可不限张数使用。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_66.jpg"
   },
   {
     id: "6600",
@@ -1554,7 +1622,8 @@ const SS10_5 = [
         name: "[物品规则]",
         effect: "在自己的回合时，物品卡可不限张数使用。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_67.jpg"
   },
   {
     id: "6599",
@@ -1571,7 +1640,8 @@ const SS10_5 = [
         name: "[物品规则]",
         effect: "在自己的回合时，物品卡可不限张数使用。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_69.jpg"
   }
 ];
 exports.default = SS10_5;

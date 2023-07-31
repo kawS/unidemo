@@ -22,7 +22,8 @@ const SS8 = [
         name: "虫咬",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_1.jpg"
   },
   {
     id: "3",
@@ -45,7 +46,8 @@ const SS8 = [
         name: "冲撞",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_2.jpg"
   },
   {
     id: "4",
@@ -68,7 +70,8 @@ const SS8 = [
         name: "起风",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_3.jpg"
   },
   {
     id: "5",
@@ -91,7 +94,8 @@ const SS8 = [
         name: "种子炸弹",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_4.jpg"
   },
   {
     id: "6",
@@ -114,7 +118,8 @@ const SS8 = [
         name: "冲击打击",
         effect: "在下个自己的回合，这只宝可梦无法使用「冲击打击」。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_5.jpg"
   },
   {
     id: "5570",
@@ -141,7 +146,8 @@ const SS8 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_6.jpg"
   },
   {
     id: "2116",
@@ -160,7 +166,8 @@ const SS8 = [
         name: "抓",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_7.jpg"
   },
   {
     id: "2117",
@@ -183,7 +190,8 @@ const SS8 = [
         name: "鞭打粉碎",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_8.jpg"
   },
   {
     id: "605",
@@ -202,7 +210,8 @@ const SS8 = [
         name: "嚼草",
         effect: "选择1个对手的战斗宝可梦身上附加的【草】能量，将其丢弃。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_9.jpg"
   },
   {
     id: "606",
@@ -225,7 +234,8 @@ const SS8 = [
         name: "种子炸弹",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_10.jpg"
   },
   {
     id: "607",
@@ -248,7 +258,8 @@ const SS8 = [
         name: "飞叶快刀",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_11.jpg"
   },
   {
     id: "7",
@@ -271,7 +282,8 @@ const SS8 = [
         name: "丢丢摇摆",
         effect: "从自己的手牌将任意数量的「宝可梦道具」卡丢弃，造成其张数×50点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_12.jpg"
   },
   {
     id: "8",
@@ -290,7 +302,8 @@ const SS8 = [
         name: "喷吐光束",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_13.jpg"
   },
   {
     id: "9",
@@ -309,7 +322,8 @@ const SS8 = [
         name: "忍者龙卷风",
         effect: "在这个回合，若从备战区将这只宝可梦放置于战斗场，则这个招式只需要1个【草】能量即可使用。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_14.jpg"
   },
   {
     id: "10",
@@ -332,7 +346,8 @@ const SS8 = [
         name: "日光束",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_15.jpg"
   },
   {
     id: "2014",
@@ -355,7 +370,8 @@ const SS8 = [
         name: "种子炸弹",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_16.jpg"
   },
   {
     id: "2015",
@@ -378,7 +394,8 @@ const SS8 = [
         name: "木槌",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_17.jpg"
   },
   {
     id: "11",
@@ -401,7 +418,8 @@ const SS8 = [
         name: "偷袭",
         effect: "掷1次硬币若为反面，则这个招式失败。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_18.jpg"
   },
   {
     id: "608",
@@ -420,7 +438,8 @@ const SS8 = [
         name: "虫咬",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_19.jpg"
   },
   {
     id: "609",
@@ -443,7 +462,8 @@ const SS8 = [
         name: "飞射泡弹",
         effect: "选择1个这只宝可梦身上附加的能量，改附于备战宝可梦身上。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_20.jpg"
   },
   {
     id: "12",
@@ -466,7 +486,8 @@ const SS8 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_21.jpg"
   },
   {
     id: "2123",
@@ -493,7 +514,8 @@ const SS8 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_22.jpg"
   },
   {
     id: "2124",
@@ -516,7 +538,8 @@ const SS8 = [
         name: "[VMAX规则]",
         effect: "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_23.jpg"
   },
   {
     id: "2016",
@@ -535,7 +558,8 @@ const SS8 = [
         name: "树叶",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_24.jpg"
   },
   {
     id: "2017",
@@ -554,7 +578,8 @@ const SS8 = [
         name: "太阳之风",
         effect: "将这只宝可梦恢复「20」HP。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_25.jpg"
   },
   {
     id: "2018",
@@ -581,7 +606,8 @@ const SS8 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_26.jpg"
   },
   {
     id: "2019",
@@ -604,7 +630,8 @@ const SS8 = [
         name: "暴乱之鞭",
         effect: "掷1次硬币若为正面，则增加30点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_27.jpg"
   },
   {
     id: "2125",
@@ -623,7 +650,8 @@ const SS8 = [
         name: "火种",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_28.jpg"
   },
   {
     id: "5675",
@@ -642,7 +670,8 @@ const SS8 = [
         name: "踢飞",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_29.jpg"
   },
   {
     id: "5676",
@@ -661,7 +690,8 @@ const SS8 = [
         name: "灵异火焰",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_30.jpg"
   },
   {
     id: "5677",
@@ -684,7 +714,8 @@ const SS8 = [
         name: "火之尾",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_31.jpg"
   },
   {
     id: "13",
@@ -707,7 +738,8 @@ const SS8 = [
         name: "烈焰",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_32.jpg"
   },
   {
     id: "14",
@@ -730,7 +762,8 @@ const SS8 = [
         name: "热力冲撞",
         effect: "这只宝可梦也受到30点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_33.jpg"
   },
   {
     id: "5682",
@@ -753,7 +786,8 @@ const SS8 = [
         name: "火焰",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_34.jpg"
   },
   {
     id: "5683",
@@ -776,7 +810,8 @@ const SS8 = [
         name: "身躯飞溅",
         effect: "掷3次硬币，选择与反面出现的次数相同数量的这只宝可梦身上附加的能量，将其丢弃。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_35.jpg"
   },
   {
     id: "2022",
@@ -799,7 +834,8 @@ const SS8 = [
         name: "火焰",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_36.jpg"
   },
   {
     id: "5690",
@@ -818,7 +854,8 @@ const SS8 = [
         name: "偷袭",
         effect: "掷1次硬币若为反面，则这个招式失败。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_37.jpg"
   },
   {
     id: "5691",
@@ -841,7 +878,8 @@ const SS8 = [
         name: "火焰一投",
         effect: "从自己的手牌将最多2张基本能量卡丢弃，造成其张数×60点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_38.jpg"
   },
   {
     id: "15",
@@ -868,7 +906,8 @@ const SS8 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_39.jpg"
   },
   {
     id: "16",
@@ -895,7 +934,8 @@ const SS8 = [
         name: "[VMAX规则]",
         effect: "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_40.jpg"
   },
   {
     id: "17",
@@ -918,7 +958,8 @@ const SS8 = [
         name: "激动火焰",
         effect: "若身上附有的能量比使用这个招式所需的能量多3个，则对手的1只备战宝可梦也受到180点伤害。[在备战区不计算弱点・抵抗力。]"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_41.jpg"
   },
   {
     id: "18",
@@ -941,7 +982,8 @@ const SS8 = [
         name: "热情水滴",
         effect: "将5个伤害指示物以任意方式放置于对手的宝可梦身上。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_42.jpg"
   },
   {
     id: "5702",
@@ -964,7 +1006,8 @@ const SS8 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_43.jpg"
   },
   {
     id: "2134",
@@ -991,7 +1034,8 @@ const SS8 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_44.jpg"
   },
   {
     id: "2135",
@@ -1014,7 +1058,8 @@ const SS8 = [
         name: "[VMAX规则]",
         effect: "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_45.jpg"
   },
   {
     id: "2137",
@@ -1037,7 +1082,8 @@ const SS8 = [
         name: "火花",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_46.jpg"
   },
   {
     id: "2136",
@@ -1056,7 +1102,8 @@ const SS8 = [
         name: "灼热",
         effect: "将对手的战斗宝可梦【灼伤】。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_47.jpg"
   },
   {
     id: "2138",
@@ -1079,7 +1126,8 @@ const SS8 = [
         name: "燃烧列车",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_48.jpg"
   },
   {
     id: "2139",
@@ -1102,7 +1150,8 @@ const SS8 = [
         name: "高温爆破",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_49.jpg"
   },
   {
     id: "5707",
@@ -1125,7 +1174,8 @@ const SS8 = [
         name: "飞溅",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_50.jpg"
   },
   {
     id: "5708",
@@ -1148,7 +1198,8 @@ const SS8 = [
         name: "水分岔",
         effect: "对手的2只备战宝可梦也各受到30点伤害。[在备战区不计算弱点・抵抗力。]"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_51.jpg"
   },
   {
     id: "19",
@@ -1171,7 +1222,8 @@ const SS8 = [
         name: "回转攻击",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_52.jpg"
   },
   {
     id: "20",
@@ -1190,7 +1242,8 @@ const SS8 = [
         name: "连弹星星",
         effect: "将这只宝可梦身上附加的任意数量的【水】能量卡丢弃，以其张数选择对手的宝可梦（1只可选择2次以上）。然后，对所选的所有宝可梦不计算弱点・抵抗力，造成其选择次数×30点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_53.jpg"
   },
   {
     id: "5715",
@@ -1213,7 +1266,8 @@ const SS8 = [
         name: "飞溅弓击",
         effect: "将这只宝可梦身上附加的能量全部放回手牌，对手的1只备战宝可梦受到100点伤害。[在备战区不计算弱点・抵抗力。]"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_54.jpg"
   },
   {
     id: "21",
@@ -1232,7 +1286,8 @@ const SS8 = [
         name: "泼水",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_55.jpg"
   },
   {
     id: "22",
@@ -1255,7 +1310,8 @@ const SS8 = [
         name: "冲浪",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_56.jpg"
   },
   {
     id: "23",
@@ -1278,7 +1334,8 @@ const SS8 = [
         name: "咬碎",
         effect: "选择1个对手的战斗宝可梦身上附加的能量，将其丢弃。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_57.jpg"
   },
   {
     id: "1716",
@@ -1301,7 +1358,8 @@ const SS8 = [
         name: "一同滚动",
         effect: "造成自己的备战区的，持有「一同滚动」招式的宝可梦的数量×20点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_58.jpg"
   },
   {
     id: "1717",
@@ -1324,7 +1382,8 @@ const SS8 = [
         name: "冲浪",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_59.jpg"
   },
   {
     id: "2026",
@@ -1347,7 +1406,8 @@ const SS8 = [
         name: "针刺",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_60.jpg"
   },
   {
     id: "5720",
@@ -1370,7 +1430,8 @@ const SS8 = [
         name: "飞溅",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_61.jpg"
   },
   {
     id: "5722",
@@ -1393,7 +1454,8 @@ const SS8 = [
         name: "调皮踢",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_62.jpg"
   },
   {
     id: "5723",
@@ -1416,7 +1478,8 @@ const SS8 = [
         name: "能量闭环",
         effect: "选择1个这只宝可梦身上附加的能量，放回手牌。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_63.jpg"
   },
   {
     id: "5724",
@@ -1439,7 +1502,8 @@ const SS8 = [
         name: "地震",
         effect: "自己的所有备战宝可梦也各受到20点伤害。[在备战区不计算弱点・抵抗力。]"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_64.jpg"
   },
   {
     id: "24",
@@ -1458,7 +1522,8 @@ const SS8 = [
         name: "泡沫溅射",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_65.jpg"
   },
   {
     id: "25",
@@ -1481,7 +1546,8 @@ const SS8 = [
         name: "深咬",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_66.jpg"
   },
   {
     id: "26",
@@ -1504,7 +1570,8 @@ const SS8 = [
         name: "吸取之吻",
         effect: "将这只宝可梦恢复「30」HP。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_67.jpg"
   },
   {
     id: "815",
@@ -1523,7 +1590,8 @@ const SS8 = [
         name: "猛地一动",
         effect: "查看对手的手牌。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_68.jpg"
   },
   {
     id: "816",
@@ -1546,7 +1614,8 @@ const SS8 = [
         name: "湿透杂耍",
         effect: "查看对手的手牌，造成其中支援者卡的张数×60点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_69.jpg"
   },
   {
     id: "2147",
@@ -1565,7 +1634,8 @@ const SS8 = [
         name: "伤痕累累",
         effect: "增加对手的战斗宝可梦身上放置的伤害指示物的数量×10点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_70.jpg"
   },
   {
     id: "2148",
@@ -1584,7 +1654,8 @@ const SS8 = [
         name: "突击",
         effect: "掷1次硬币若为反面，则这只宝可梦也受到10点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_71.jpg"
   },
   {
     id: "2149",
@@ -1607,7 +1678,8 @@ const SS8 = [
         name: "达摩头击",
         effect: "若这只宝可梦身上放置有伤害指示物，则这个招式只需要1个【水】能量即可使用。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_72.jpg"
   },
   {
     id: "5736",
@@ -1634,7 +1706,8 @@ const SS8 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_73.jpg"
   },
   {
     id: "5737",
@@ -1657,7 +1730,8 @@ const SS8 = [
         name: "夹住",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_74.jpg"
   },
   {
     id: "5738",
@@ -1680,7 +1754,8 @@ const SS8 = [
         name: "蟹钳锤",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_75.jpg"
   },
   {
     id: "27",
@@ -1707,7 +1782,8 @@ const SS8 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_76.jpg"
   },
   {
     id: "28",
@@ -1730,7 +1806,8 @@ const SS8 = [
         name: "拳骨",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_77.jpg"
   },
   {
     id: "2153",
@@ -1757,7 +1834,8 @@ const SS8 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_78.jpg"
   },
   {
     id: "2154",
@@ -1784,7 +1862,8 @@ const SS8 = [
         name: "[VMAX规则]",
         effect: "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_79.jpg"
   },
   {
     id: "2028",
@@ -1803,7 +1882,8 @@ const SS8 = [
         name: "咬住",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_80.jpg"
   },
   {
     id: "2029",
@@ -1822,7 +1902,8 @@ const SS8 = [
         name: "坚硬啃咬",
         effect: "掷1次硬币若为正面，则增加50点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_81.jpg"
   },
   {
     id: "2030",
@@ -1841,7 +1922,8 @@ const SS8 = [
         name: "啄",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_82.jpg"
   },
   {
     id: "2031",
@@ -1860,7 +1942,8 @@ const SS8 = [
         name: "突刺",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_83.jpg"
   },
   {
     id: "29",
@@ -1879,7 +1962,8 @@ const SS8 = [
         name: "冰之呼唤",
         effect: "从自己的牌库选择最多2张【水】能量卡，在给对手看过后加入手牌。并且重洗牌库。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_84.jpg"
   },
   {
     id: "30",
@@ -1902,7 +1986,8 @@ const SS8 = [
         name: "暴雪闭环",
         effect: "将这只宝可梦身上附加的能量全部放回手牌。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_85.jpg"
   },
   {
     id: "2032",
@@ -1929,7 +2014,8 @@ const SS8 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_86.jpg"
   },
   {
     id: "1737",
@@ -1948,7 +2034,8 @@ const SS8 = [
         name: "单爆炸弹",
         effect: "掷1次硬币若为反面，则这个招式失败。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_87.jpg"
   },
   {
     id: "1738",
@@ -1971,7 +2058,8 @@ const SS8 = [
         name: "大爆炸",
         effect: "这只宝可梦也受到90点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_88.jpg"
   },
   {
     id: "5767",
@@ -1990,7 +2078,8 @@ const SS8 = [
         name: "双电光",
         effect: "在上个自己的回合，若自己的「负电拍拍」使用了招式，则增加100点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_89.jpg"
   },
   {
     id: "5768",
@@ -2013,7 +2102,8 @@ const SS8 = [
         name: "劈哩啪啦",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_90.jpg"
   },
   {
     id: "2033",
@@ -2036,7 +2126,8 @@ const SS8 = [
         name: "电气之爪",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_91.jpg"
   },
   {
     id: "2034",
@@ -2055,7 +2146,8 @@ const SS8 = [
         name: "电气之爪",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_92.jpg"
   },
   {
     id: "2035",
@@ -2074,7 +2166,8 @@ const SS8 = [
         name: "闪电爪",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_93.jpg"
   },
   {
     id: "632",
@@ -2097,7 +2190,8 @@ const SS8 = [
         name: "劈哩啪啦",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_94.jpg"
   },
   {
     id: "633",
@@ -2120,7 +2214,8 @@ const SS8 = [
         name: "撞击",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_95.jpg"
   },
   {
     id: "634",
@@ -2143,7 +2238,8 @@ const SS8 = [
         name: "打雷",
         effect: "这只宝可梦也受到20点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_96.jpg"
   },
   {
     id: "635",
@@ -2166,7 +2262,8 @@ const SS8 = [
         name: "疯狂伏特",
         effect: "这只宝可梦也受到30点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_97.jpg"
   },
   {
     id: "31",
@@ -2189,7 +2286,8 @@ const SS8 = [
         name: "电球",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_98.jpg"
   },
   {
     id: "32",
@@ -2212,7 +2310,8 @@ const SS8 = [
         name: "电气子弹",
         effect: "对手的1只备战宝可梦也受到20点伤害。[在备战区不计算弱点・抵抗力。]"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_99.jpg"
   },
   {
     id: "33",
@@ -2235,7 +2334,8 @@ const SS8 = [
         name: "伏特头击",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_100.jpg"
   },
   {
     id: "34",
@@ -2258,7 +2358,8 @@ const SS8 = [
         name: "电气引爆",
         effect: "将这只宝可梦身上附加的2个【雷】能量丢弃，对手的1只宝可梦受到200点伤害。[在备战区不计算弱点・抵抗力。]"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_101.jpg"
   },
   {
     id: "5780",
@@ -2277,7 +2378,8 @@ const SS8 = [
         name: "疯狂伏特",
         effect: "这只宝可梦也受到20点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_102.jpg"
   },
   {
     id: "35",
@@ -2304,7 +2406,8 @@ const SS8 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_103.jpg"
   },
   {
     id: "36",
@@ -2331,7 +2434,8 @@ const SS8 = [
         name: "[VMAX规则]",
         effect: "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_104.jpg"
   },
   {
     id: "5785",
@@ -2350,7 +2454,8 @@ const SS8 = [
         name: "冲撞",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_105.jpg"
   },
   {
     id: "37",
@@ -2373,7 +2478,8 @@ const SS8 = [
         name: "小伏特",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_106.jpg"
   },
   {
     id: "5786",
@@ -2392,7 +2498,8 @@ const SS8 = [
         name: "庞克冲击",
         effect: "若希望，将对手的战斗宝可梦【麻痺】。这个情况下，这只宝可梦也受到70点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_107.jpg"
   },
   {
     id: "38",
@@ -2415,7 +2522,8 @@ const SS8 = [
         name: "伏特头击",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_108.jpg"
   },
   {
     id: "5787",
@@ -2434,7 +2542,8 @@ const SS8 = [
         name: "瞄准电光",
         effect: "对手的1只宝可梦受到30点伤害。[在备战区不计算弱点・抵抗力。]"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_109.jpg"
   },
   {
     id: "820",
@@ -2457,7 +2566,8 @@ const SS8 = [
         name: "一同滚动",
         effect: "造成自己的备战区的，持有「一同滚动」招式的宝可梦的数量×20点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_110.jpg"
   },
   {
     id: "821",
@@ -2480,7 +2590,8 @@ const SS8 = [
         name: "巨声",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_111.jpg"
   },
   {
     id: "39",
@@ -2503,7 +2614,8 @@ const SS8 = [
         name: "眩目舞",
         effect: "将对手的战斗宝可梦【混乱】。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_112.jpg"
   },
   {
     id: "40",
@@ -2530,7 +2642,8 @@ const SS8 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_113.jpg"
   },
   {
     id: "41",
@@ -2557,7 +2670,8 @@ const SS8 = [
         name: "[VMAX规则]",
         effect: "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_114.jpg"
   },
   {
     id: "42",
@@ -2580,7 +2694,8 @@ const SS8 = [
         name: "咬住",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_115.jpg"
   },
   {
     id: "43",
@@ -2603,7 +2718,8 @@ const SS8 = [
         name: "咬住",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_116.jpg"
   },
   {
     id: "44",
@@ -2622,7 +2738,8 @@ const SS8 = [
         name: "撞击",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_117.jpg"
   },
   {
     id: "45",
@@ -2645,7 +2762,8 @@ const SS8 = [
         name: "阴森射击",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_118.jpg"
   },
   {
     id: "637",
@@ -2664,7 +2782,8 @@ const SS8 = [
         name: "咬咬控制",
         effect: "在下个对手的回合，受到这个招式的宝可梦使用招式所需的能量与【撤退】所需的能量，各增加1个【无】能量。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_119.jpg"
   },
   {
     id: "46",
@@ -2683,7 +2802,8 @@ const SS8 = [
         name: "光子提升",
         effect: "若这只宝可梦身上附有「汇流能量」，则增加80点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_120.jpg"
   },
   {
     id: "47",
@@ -2702,7 +2822,8 @@ const SS8 = [
         name: "冲撞",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_121.jpg"
   },
   {
     id: "48",
@@ -2725,7 +2846,8 @@ const SS8 = [
         name: "精神强念",
         effect: "增加对手的战斗宝可梦身上附加的能量的数量×30点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_122.jpg"
   },
   {
     id: "5813",
@@ -2748,7 +2870,8 @@ const SS8 = [
         name: "能量反射",
         effect: "选择1个这只宝可梦身上附加的能量，改附于备战宝可梦身上。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_123.jpg"
   },
   {
     id: "49",
@@ -2767,7 +2890,8 @@ const SS8 = [
         name: "旋律回响",
         effect: "造成自己的场上宝可梦身上附加的「汇流能量」的数量×70点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_124.jpg"
   },
   {
     id: "5823",
@@ -2790,7 +2914,8 @@ const SS8 = [
         name: "阴森射击",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_125.jpg"
   },
   {
     id: "5824",
@@ -2813,7 +2938,8 @@ const SS8 = [
         name: "沙尘压迫",
         effect: "若对手的战斗宝可梦为【基础】宝可梦，则将那只宝可梦【气绝】。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_126.jpg"
   },
   {
     id: "5830",
@@ -2836,7 +2962,8 @@ const SS8 = [
         name: "爱心标志",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_127.jpg"
   },
   {
     id: "50",
@@ -2855,7 +2982,8 @@ const SS8 = [
         name: "死缠烂打",
         effect: "在下个对手的回合，受到这个招式的宝可梦无法撤退。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_128.jpg"
   },
   {
     id: "51",
@@ -2878,7 +3006,8 @@ const SS8 = [
         name: "急速折返",
         effect: "将这只宝可梦与备战宝可梦互换。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_129.jpg"
   },
   {
     id: "52",
@@ -2901,7 +3030,8 @@ const SS8 = [
         name: "高速攻击",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_130.jpg"
   },
   {
     id: "911",
@@ -2924,7 +3054,8 @@ const SS8 = [
         name: "一同滚动",
         effect: "造成自己的备战区的，持有「一同滚动」招式的宝可梦的数量×20点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_131.jpg"
   },
   {
     id: "912",
@@ -2943,7 +3074,8 @@ const SS8 = [
         name: "挖出攻击",
         effect: "从自己的弃牌区任意选择1张卡，在给对手看过后加入手牌。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_132.jpg"
   },
   {
     id: "2038",
@@ -2962,7 +3094,8 @@ const SS8 = [
         name: "抓",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_133.jpg"
   },
   {
     id: "2039",
@@ -2981,7 +3114,8 @@ const SS8 = [
         name: "毅力拳",
         effect: "若对手的战斗宝可梦为「宝可梦【V】」，则增加60点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_134.jpg"
   },
   {
     id: "53",
@@ -3004,7 +3138,8 @@ const SS8 = [
         name: "打击",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_135.jpg"
   },
   {
     id: "54",
@@ -3027,7 +3162,8 @@ const SS8 = [
         name: "岩石粉碎",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_136.jpg"
   },
   {
     id: "55",
@@ -3050,7 +3186,8 @@ const SS8 = [
         name: "舍身冲撞",
         effect: "这只宝可梦也受到30点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_137.jpg"
   },
   {
     id: "56",
@@ -3073,7 +3210,8 @@ const SS8 = [
         name: "落石",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_138.jpg"
   },
   {
     id: "57",
@@ -3096,7 +3234,8 @@ const SS8 = [
         name: "地震",
         effect: "自己的所有备战宝可梦也各受到30点伤害。[在备战区不计算弱点・抵抗力。]"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_139.jpg"
   },
   {
     id: "2186",
@@ -3119,7 +3258,8 @@ const SS8 = [
         name: "突刺",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_140.jpg"
   },
   {
     id: "2187",
@@ -3142,7 +3282,8 @@ const SS8 = [
         name: "毒液一击",
         effect: "将对手的战斗宝可梦【中毒】。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_141.jpg"
   },
   {
     id: "2188",
@@ -3165,7 +3306,8 @@ const SS8 = [
         name: "头突",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_142.jpg"
   },
   {
     id: "2189",
@@ -3188,7 +3330,8 @@ const SS8 = [
         name: "头突",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_143.jpg"
   },
   {
     id: "2190",
@@ -3207,7 +3350,8 @@ const SS8 = [
         name: "掌击",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_144.jpg"
   },
   {
     id: "2191",
@@ -3230,7 +3374,8 @@ const SS8 = [
         name: "古代刻印",
         effect: "在对手的战斗宝可梦身上放置伤害指示物直到剩余HP变为「60」为止。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_145.jpg"
   },
   {
     id: "5853",
@@ -3253,7 +3398,8 @@ const SS8 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_146.jpg"
   },
   {
     id: "58",
@@ -3272,7 +3418,8 @@ const SS8 = [
         name: "抓",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_147.jpg"
   },
   {
     id: "2192",
@@ -3295,7 +3442,8 @@ const SS8 = [
         name: "大地轰然",
         effect: "将这只宝可梦身上附加的所有能量，以任意方式改附于备战宝可梦身上。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_148.jpg"
   },
   {
     id: "5861",
@@ -3318,7 +3466,8 @@ const SS8 = [
         name: "踢飞",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_149.jpg"
   },
   {
     id: "2194",
@@ -3341,7 +3490,8 @@ const SS8 = [
         name: "滚动",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_150.jpg"
   },
   {
     id: "2195",
@@ -3364,7 +3514,8 @@ const SS8 = [
         name: "怪力",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_151.jpg"
   },
   {
     id: "2196",
@@ -3387,7 +3538,8 @@ const SS8 = [
         name: "拳骨",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_152.jpg"
   },
   {
     id: "2197",
@@ -3410,7 +3562,8 @@ const SS8 = [
         name: "增量拳",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_153.jpg"
   },
   {
     id: "59",
@@ -3433,7 +3586,8 @@ const SS8 = [
         name: "背水列阵",
         effect: "若对手剩余奖赏卡的张数为1张，则增加160点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_154.jpg"
   },
   {
     id: "2043",
@@ -3452,7 +3606,8 @@ const SS8 = [
         name: "攻入",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_155.jpg"
   },
   {
     id: "2199",
@@ -3479,7 +3634,8 @@ const SS8 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_156.jpg"
   },
   {
     id: "2200",
@@ -3506,7 +3662,8 @@ const SS8 = [
         name: "[VMAX规则]",
         effect: "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_157.jpg"
   },
   {
     id: "2044",
@@ -3533,7 +3690,8 @@ const SS8 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_158.jpg"
   },
   {
     id: "60",
@@ -3552,7 +3710,8 @@ const SS8 = [
         name: "舌舔",
         effect: "掷1次硬币若为正面，则将对手的战斗宝可梦【麻痺】。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_159.jpg"
   },
   {
     id: "61",
@@ -3571,7 +3730,8 @@ const SS8 = [
         name: "后踢",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_160.jpg"
   },
   {
     id: "62",
@@ -3594,7 +3754,8 @@ const SS8 = [
         name: "狠心一击",
         effect: "若对手的战斗宝可梦身上放置有伤害指示物，则增加90点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_161.jpg"
   },
   {
     id: "2045",
@@ -3613,7 +3774,8 @@ const SS8 = [
         name: "咬住",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_162.jpg"
   },
   {
     id: "2046",
@@ -3632,7 +3794,8 @@ const SS8 = [
         name: "锐利之牙",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_163.jpg"
   },
   {
     id: "5894",
@@ -3655,7 +3818,8 @@ const SS8 = [
         name: "劈开",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_164.jpg"
   },
   {
     id: "5895",
@@ -3674,7 +3838,8 @@ const SS8 = [
         name: "推击",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_165.jpg"
   },
   {
     id: "5896",
@@ -3697,7 +3862,8 @@ const SS8 = [
         name: "增量拳",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_166.jpg"
   },
   {
     id: "5897",
@@ -3716,7 +3882,8 @@ const SS8 = [
         name: "暗黑利刃",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_167.jpg"
   },
   {
     id: "63",
@@ -3739,7 +3906,8 @@ const SS8 = [
         name: "毒之气息",
         effect: "将对手的战斗宝可梦【中毒】。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_168.jpg"
   },
   {
     id: "64",
@@ -3762,7 +3930,8 @@ const SS8 = [
         name: "污泥旋涡",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_169.jpg"
   },
   {
     id: "2048",
@@ -3785,7 +3954,8 @@ const SS8 = [
         name: "后踢",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_170.jpg"
   },
   {
     id: "2049",
@@ -3808,7 +3978,8 @@ const SS8 = [
         name: "暗黑爆破",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_171.jpg"
   },
   {
     id: "65",
@@ -3831,7 +4002,8 @@ const SS8 = [
         name: "空气斩",
         effect: "选择1个这只宝可梦身上附加的能量，将其丢弃。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_172.jpg"
   },
   {
     id: "66",
@@ -3854,7 +4026,8 @@ const SS8 = [
         name: "暗黑利刃",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_173.jpg"
   },
   {
     id: "5911",
@@ -3877,7 +4050,8 @@ const SS8 = [
         name: "恐吓掠夺",
         effect: "在不看正面的情况下，选择1张对手的手牌，将其丢弃。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_174.jpg"
   },
   {
     id: "5912",
@@ -3900,7 +4074,8 @@ const SS8 = [
         name: "一击之翼",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_175.jpg"
   },
   {
     id: "1783",
@@ -3919,7 +4094,8 @@ const SS8 = [
         name: "嬉闹",
         effect: "掷1次硬币若为正面，则增加30点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_176.jpg"
   },
   {
     id: "1784",
@@ -3942,7 +4118,8 @@ const SS8 = [
         name: "破坏一击",
         effect: "掷1次硬币若为正面，则选择1个对手的战斗宝可梦身上附加的能量，将其丢弃。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_177.jpg"
   },
   {
     id: "1785",
@@ -3965,7 +4142,8 @@ const SS8 = [
         name: "殿后攻击",
         effect: "若自己的备战宝可梦的数量为2只以下，则增加140点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_178.jpg"
   },
   {
     id: "2211",
@@ -3984,7 +4162,8 @@ const SS8 = [
         name: "怨气爆炸",
         effect: "造成这只宝可梦身上放置的伤害指示物的数量×30点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_179.jpg"
   },
   {
     id: "5918",
@@ -4007,7 +4186,8 @@ const SS8 = [
         name: "劈开",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_180.jpg"
   },
   {
     id: "5919",
@@ -4030,7 +4210,8 @@ const SS8 = [
         name: "铁头碰",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_181.jpg"
   },
   {
     id: "5921",
@@ -4053,7 +4234,8 @@ const SS8 = [
         name: "利刃切割",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_182.jpg"
   },
   {
     id: "68",
@@ -4076,7 +4258,8 @@ const SS8 = [
         name: "岩石封锁",
         effect: "在下个对手的回合，受到这个招式的宝可梦无法撤退。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_183.jpg"
   },
   {
     id: "69",
@@ -4095,7 +4278,8 @@ const SS8 = [
         name: "逆境颚",
         effect: "若对手的战斗宝可梦为【火】宝可梦，则将那只宝可梦【麻痺】。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_184.jpg"
   },
   {
     id: "70",
@@ -4122,7 +4306,8 @@ const SS8 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_185.jpg"
   },
   {
     id: "5934",
@@ -4141,7 +4326,8 @@ const SS8 = [
         name: "解锁",
         effect: "从自己的牌库抽出2张卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_186.jpg"
   },
   {
     id: "71",
@@ -4164,7 +4350,8 @@ const SS8 = [
         name: "滚球攻击",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_187.jpg"
   },
   {
     id: "72",
@@ -4187,7 +4374,8 @@ const SS8 = [
         name: "头锤",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_188.jpg"
   },
   {
     id: "73",
@@ -4210,7 +4398,8 @@ const SS8 = [
         name: "爆破之锤",
         effect: "选择1个这只宝可梦身上附加的能量，将其丢弃。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_189.jpg"
   },
   {
     id: "74",
@@ -4233,7 +4422,8 @@ const SS8 = [
         name: "能量旋风",
         effect: "选择1个这只宝可梦身上附加的能量，改附于备战宝可梦身上。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_190.jpg"
   },
   {
     id: "5938",
@@ -4256,7 +4446,8 @@ const SS8 = [
         name: "十万马力",
         effect: "这只宝可梦也受到20点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_191.jpg"
   },
   {
     id: "5939",
@@ -4279,7 +4470,8 @@ const SS8 = [
         name: "十万马力",
         effect: "这只宝可梦也受到30点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_192.jpg"
   },
   {
     id: "75",
@@ -4302,7 +4494,8 @@ const SS8 = [
         name: "力之屏障",
         effect: "在下个对手的回合，这只宝可梦不会受到「宝可梦【VMAX】」招式的伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_193.jpg"
   },
   {
     id: "76",
@@ -4325,7 +4518,8 @@ const SS8 = [
         name: "洁净光芒",
         effect: "选择2个这只宝可梦身上附加的能量，将其丢弃。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_194.jpg"
   },
   {
     id: "77",
@@ -4348,7 +4542,8 @@ const SS8 = [
         name: "溶解",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_195.jpg"
   },
   {
     id: "78",
@@ -4371,7 +4566,8 @@ const SS8 = [
         name: "泰山压顶",
         effect: "掷1次硬币若为正面，则将对手的战斗宝可梦【麻痺】。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_196.jpg"
   },
   {
     id: "79",
@@ -4394,7 +4590,8 @@ const SS8 = [
         name: "光炮尾",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_197.jpg"
   },
   {
     id: "5950",
@@ -4417,7 +4614,8 @@ const SS8 = [
         name: "高温重压",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_198.jpg"
   },
   {
     id: "5957",
@@ -4436,7 +4634,8 @@ const SS8 = [
         name: "聚宝功",
         effect: "从自己的牌库抽出1张卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_199.jpg"
   },
   {
     id: "5958",
@@ -4459,7 +4658,8 @@ const SS8 = [
         name: "咬住",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_200.jpg"
   },
   {
     id: "5549",
@@ -4486,7 +4686,8 @@ const SS8 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_201.jpg"
   },
   {
     id: "5959",
@@ -4509,7 +4710,8 @@ const SS8 = [
         name: "重掴",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_202.jpg"
   },
   {
     id: "5960",
@@ -4532,7 +4734,8 @@ const SS8 = [
         name: "一同滚动",
         effect: "造成自己的备战区的，持有「一同滚动」招式的宝可梦的数量×20点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_203.jpg"
   },
   {
     id: "5962",
@@ -4555,7 +4758,8 @@ const SS8 = [
         name: "亲子联合拳",
         effect: "掷1次硬币若为正面，则增加100点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_204.jpg"
   },
   {
     id: "5964",
@@ -4574,7 +4778,8 @@ const SS8 = [
         name: "连续舞步",
         effect: "掷硬币直到出现反面，造成正面出现的次数×30点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_205.jpg"
   },
   {
     id: "5968",
@@ -4593,7 +4798,8 @@ const SS8 = [
         name: "重磅冲击",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_206.jpg"
   },
   {
     id: "80",
@@ -4616,7 +4822,8 @@ const SS8 = [
         name: "滚动",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_207.jpg"
   },
   {
     id: "5970",
@@ -4639,7 +4846,8 @@ const SS8 = [
         name: "疯狂奇袭",
         effect: "造成对手的战斗宝可梦身上附加的能量的数量×30点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_208.jpg"
   },
   {
     id: "81",
@@ -4662,7 +4870,8 @@ const SS8 = [
         name: "摆尾拍击",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_209.jpg"
   },
   {
     id: "82",
@@ -4681,7 +4890,8 @@ const SS8 = [
         name: "胡思乱撞",
         effect: "掷1次硬币若为反面，则这个招式失败。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_210.jpg"
   },
   {
     id: "83",
@@ -4704,7 +4914,8 @@ const SS8 = [
         name: "连环巴掌",
         effect: "掷2次硬币，造成正面出现的次数×50点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_211.jpg"
   },
   {
     id: "2224",
@@ -4723,7 +4934,8 @@ const SS8 = [
         name: "二连踢",
         effect: "掷2次硬币，造成正面出现的次数×20点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_212.jpg"
   },
   {
     id: "2225",
@@ -4742,7 +4954,8 @@ const SS8 = [
         name: "蹦跳射击",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_213.jpg"
   },
   {
     id: "84",
@@ -4765,7 +4978,8 @@ const SS8 = [
         name: "猛撞",
         effect: "这只宝可梦也受到10点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_214.jpg"
   },
   {
     id: "85",
@@ -4788,7 +5002,8 @@ const SS8 = [
         name: "猛撞",
         effect: "这只宝可梦也受到30点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_215.jpg"
   },
   {
     id: "2226",
@@ -4807,7 +5022,8 @@ const SS8 = [
         name: "飞身顿足",
         effect: "选择1个对手的战斗宝可梦身上附加的特殊能量，将其丢弃。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_216.jpg"
   },
   {
     id: "86",
@@ -4834,7 +5050,8 @@ const SS8 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_217.jpg"
   },
   {
     id: "87",
@@ -4861,7 +5078,8 @@ const SS8 = [
         name: "[VMAX规则]",
         effect: "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_218.jpg"
   },
   {
     id: "88",
@@ -4880,7 +5098,8 @@ const SS8 = [
         name: "乱击",
         effect: "掷3次硬币，造成正面出现的次数×10点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_219.jpg"
   },
   {
     id: "89",
@@ -4899,7 +5118,8 @@ const SS8 = [
         name: "乱击",
         effect: "掷3次硬币，造成正面出现的次数×30点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_220.jpg"
   },
   {
     id: "5988",
@@ -4922,7 +5142,8 @@ const SS8 = [
         name: "一同滚动",
         effect: "造成自己的备战区的，持有「一同滚动」招式的宝可梦的数量×20点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_221.jpg"
   },
   {
     id: "2052",
@@ -4941,7 +5162,8 @@ const SS8 = [
         name: "击飞",
         effect: "掷1次硬币若为正面，则增加40点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_222.jpg"
   },
   {
     id: "865",
@@ -4964,7 +5186,8 @@ const SS8 = [
         name: "滚动冲撞",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_223.jpg"
   },
   {
     id: "100",
@@ -4981,7 +5204,8 @@ const SS8 = [
         name: "[竞技场规则]",
         effect: "在自己的回合时，只可将1张竞技场卡放置于战斗场旁边。若其他名称的竞技场卡被放置，则将这张卡丢弃。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_242.jpg"
   },
   {
     id: "2252",
@@ -4998,7 +5222,8 @@ const SS8 = [
         name: "[支援者规则]",
         effect: "在自己的回合时，支援者卡只可使用1张。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_224.jpg"
   },
   {
     id: "2066",
@@ -5015,7 +5240,8 @@ const SS8 = [
         name: "[支援者规则]",
         effect: "在自己的回合时，支援者卡只可使用1张。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_226.jpg"
   },
   {
     id: "99",
@@ -5032,7 +5258,8 @@ const SS8 = [
         name: "[支援者规则]",
         effect: "在自己的回合时，支援者卡只可使用1张。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_227.jpg"
   },
   {
     id: "6019",
@@ -5049,7 +5276,8 @@ const SS8 = [
         name: "[支援者规则]",
         effect: "在自己的回合时，支援者卡只可使用1张。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_228.jpg"
   },
   {
     id: "98",
@@ -5066,7 +5294,8 @@ const SS8 = [
         name: "[支援者规则]",
         effect: "在自己的回合时，支援者卡只可使用1张。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_232.jpg"
   },
   {
     id: "97",
@@ -5083,7 +5312,8 @@ const SS8 = [
         name: "[支援者规则]",
         effect: "在自己的回合时，支援者卡只可使用1张。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_233.jpg"
   },
   {
     id: "6024",
@@ -5100,7 +5330,8 @@ const SS8 = [
         name: "[支援者规则]",
         effect: "在自己的回合时，支援者卡只可使用1张。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_235.jpg"
   },
   {
     id: "6027",
@@ -5117,7 +5348,8 @@ const SS8 = [
         name: "[支援者规则]",
         effect: "在自己的回合时，支援者卡只可使用1张。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_238.jpg"
   },
   {
     id: "6026",
@@ -5134,7 +5366,8 @@ const SS8 = [
         name: "[支援者规则]",
         effect: "在自己的回合时，支援者卡只可使用1张。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_239.jpg"
   },
   {
     id: "6021",
@@ -5151,7 +5384,8 @@ const SS8 = [
         name: "[支援者规则]",
         effect: "在自己的回合时，支援者卡只可使用1张。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_240.jpg"
   },
   {
     id: "96",
@@ -5168,7 +5402,8 @@ const SS8 = [
         name: "[支援者规则]",
         effect: "在自己的回合时，支援者卡只可使用1张。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_241.jpg"
   },
   {
     id: "95",
@@ -5189,7 +5424,8 @@ const SS8 = [
         name: "[物品规则]",
         effect: "在自己的回合时，物品卡可不限张数使用。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_234.jpg"
   },
   {
     id: "94",
@@ -5210,7 +5446,8 @@ const SS8 = [
         name: "[物品规则]",
         effect: "在自己的回合时，物品卡可不限张数使用。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_243.jpg"
   },
   {
     id: "92",
@@ -5227,7 +5464,8 @@ const SS8 = [
         name: "[物品规则]",
         effect: "在自己的回合时，物品卡可不限张数使用。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_225.jpg"
   },
   {
     id: "5576",
@@ -5244,7 +5482,8 @@ const SS8 = [
         name: "[物品规则]",
         effect: "在自己的回合时，物品卡可不限张数使用。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_229.jpg"
   },
   {
     id: "91",
@@ -5261,7 +5500,8 @@ const SS8 = [
         name: "[物品规则]",
         effect: "在自己的回合时，物品卡可不限张数使用。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_230.jpg"
   },
   {
     id: "90",
@@ -5278,7 +5518,8 @@ const SS8 = [
         name: "[物品规则]",
         effect: "在自己的回合时，物品卡可不限张数使用。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_231.jpg"
   },
   {
     id: "93",
@@ -5295,7 +5536,8 @@ const SS8 = [
         name: "[物品规则]",
         effect: "在自己的回合时，物品卡可不限张数使用。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_236.jpg"
   },
   {
     id: "101",
@@ -5308,7 +5550,8 @@ const SS8 = [
         name: "",
         effect: "这张卡只可附于「汇流」宝可梦身上，若附于「汇流」宝可梦以外的宝可梦身上，则将其丢弃。  只要这张卡附于宝可梦身上，视为提供1个所有属性的能量，附有这张卡的宝可梦，不会受到对手的宝可梦的特性效果影响。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_244.jpg"
   }
 ];
 exports.default = SS8;

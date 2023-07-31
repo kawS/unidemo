@@ -18,7 +18,8 @@ const SS12 = [
         name: "撞击",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_1.jpg"
   },
   {
     id: "6739",
@@ -41,7 +42,8 @@ const SS12 = [
         name: "起风",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_2.jpg"
   },
   {
     id: "7043",
@@ -60,7 +62,8 @@ const SS12 = [
         name: "虫咬",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_3.jpg"
   },
   {
     id: "7044",
@@ -83,7 +86,8 @@ const SS12 = [
         name: "突刺",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_4.jpg"
   },
   {
     id: "6740",
@@ -102,7 +106,8 @@ const SS12 = [
         name: "种子炸弹",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_5.jpg"
   },
   {
     id: "6741",
@@ -121,7 +126,8 @@ const SS12 = [
         name: "灿灿光束",
         effect: "若希望，从自己的手牌将最多3张能量卡丢弃，增加其张数×70点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_6.jpg"
   },
   {
     id: "6945",
@@ -148,7 +154,8 @@ const SS12 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_7.jpg"
   },
   {
     id: "6946",
@@ -175,7 +182,8 @@ const SS12 = [
         name: "[VSTAR规则]",
         effect: "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_8.jpg"
   },
   {
     id: "6947",
@@ -198,7 +206,8 @@ const SS12 = [
         name: "活蹦乱跳",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_9.jpg"
   },
   {
     id: "6948",
@@ -221,7 +230,8 @@ const SS12 = [
         name: "回转踢",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_10.jpg"
   },
   {
     id: "6745",
@@ -240,7 +250,8 @@ const SS12 = [
         name: "冲撞",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_11.jpg"
   },
   {
     id: "6746",
@@ -263,7 +274,8 @@ const SS12 = [
         name: "昏睡之锤",
         effect: "将对手的战斗宝可梦【睡眠】。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_12.jpg"
   },
   {
     id: "6747",
@@ -286,7 +298,8 @@ const SS12 = [
         name: "咬住",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_13.jpg"
   },
   {
     id: "7045",
@@ -309,7 +322,8 @@ const SS12 = [
         name: "绿叶吸取",
         effect: "将这只宝可梦恢复「20」HP。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_14.jpg"
   },
   {
     id: "7046",
@@ -336,7 +350,8 @@ const SS12 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_15.jpg"
   },
   {
     id: "6949",
@@ -363,7 +378,8 @@ const SS12 = [
         name: "芳香射击",
         effect: "将这只宝可梦的特殊状态全部恢复。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_16.jpg"
   },
   {
     id: "6750",
@@ -382,7 +398,8 @@ const SS12 = [
         name: "飞扑",
         effect: "掷1次硬币若为正面，则增加20点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_17.jpg"
   },
   {
     id: "6751",
@@ -405,7 +422,8 @@ const SS12 = [
         name: "灼热气息",
         effect: "在下个自己的回合，这只宝可梦无法使用招式。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_18.jpg"
   },
   {
     id: "6952",
@@ -428,7 +446,8 @@ const SS12 = [
         name: "冲撞",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_19.jpg"
   },
   {
     id: "6953",
@@ -451,7 +470,8 @@ const SS12 = [
         name: "斗志冲撞",
         effect: "若对手的战斗宝可梦为「宝可梦【V】」，则增加100点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_20.jpg"
   },
   {
     id: "7047",
@@ -470,7 +490,8 @@ const SS12 = [
         name: "猛撞",
         effect: "这只宝可梦也受到10点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_21.jpg"
   },
   {
     id: "7048",
@@ -493,7 +514,8 @@ const SS12 = [
         name: "火之鬃",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_22.jpg"
   },
   {
     id: "7049",
@@ -516,7 +538,8 @@ const SS12 = [
         name: "火焰",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_23.jpg"
   },
   {
     id: "6955",
@@ -543,7 +566,8 @@ const SS12 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_24.jpg"
   },
   {
     id: "6956",
@@ -566,7 +590,8 @@ const SS12 = [
         name: "火种",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_25.jpg"
   },
   {
     id: "6957",
@@ -589,7 +614,8 @@ const SS12 = [
         name: "闪焰游行",
         effect: "造成自己的弃牌区的「莎莉娜」的张数×60点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_26.jpg"
   },
   {
     id: "6958",
@@ -612,7 +638,8 @@ const SS12 = [
         name: "能量粉碎",
         effect: "造成对手的场上宝可梦身上附加的能量的数量×50点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_27.jpg"
   },
   {
     id: "6755",
@@ -631,7 +658,8 @@ const SS12 = [
         name: "吐火",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_28.jpg"
   },
   {
     id: "6756",
@@ -654,7 +682,8 @@ const SS12 = [
         name: "狠心一击",
         effect: "若对手的战斗宝可梦身上放置有伤害指示物，则增加80点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_29.jpg"
   },
   {
     id: "7052",
@@ -677,7 +706,8 @@ const SS12 = [
         name: "回击",
         effect: "造成这只宝可梦身上放置的伤害指示物的数量×20点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_30.jpg"
   },
   {
     id: "7053",
@@ -700,7 +730,8 @@ const SS12 = [
         name: "烈焰",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_31.jpg"
   },
   {
     id: "7054",
@@ -723,7 +754,8 @@ const SS12 = [
         name: "闪焰射击",
         effect: "将这只宝可梦身上附加的能量全部丢弃。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_32.jpg"
   },
   {
     id: "6962",
@@ -750,7 +782,8 @@ const SS12 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_33.jpg"
   },
   {
     id: "6963",
@@ -777,7 +810,8 @@ const SS12 = [
         name: "[VSTAR规则]",
         effect: "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_34.jpg"
   },
   {
     id: "7055",
@@ -804,7 +838,8 @@ const SS12 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_35.jpg"
   },
   {
     id: "6964",
@@ -827,7 +862,8 @@ const SS12 = [
         name: "狂野冰冻",
         effect: "这只宝可梦也受到50点伤害。将对手的战斗宝可梦【麻痺】。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_36.jpg"
   },
   {
     id: "6762",
@@ -850,7 +886,8 @@ const SS12 = [
         name: "飞溅",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_37.jpg"
   },
   {
     id: "6763",
@@ -873,7 +910,8 @@ const SS12 = [
         name: "特殊波",
         effect: "若这只宝可梦身上附有特殊能量，则增加120点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_38.jpg"
   },
   {
     id: "6967",
@@ -896,7 +934,8 @@ const SS12 = [
         name: "跃起",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_39.jpg"
   },
   {
     id: "6968",
@@ -919,7 +958,8 @@ const SS12 = [
         name: "柔和波",
         effect: "将对手的战斗宝可梦【睡眠】。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_40.jpg"
   },
   {
     id: "7056",
@@ -942,7 +982,8 @@ const SS12 = [
         name: "雪花冰",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_41.jpg"
   },
   {
     id: "7057",
@@ -965,7 +1006,8 @@ const SS12 = [
         name: "大嘴",
         effect: "在这个回合，若从手牌使出了「小菘」，则增加130点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_42.jpg"
   },
   {
     id: "7058",
@@ -988,7 +1030,8 @@ const SS12 = [
         name: "冰息",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_43.jpg"
   },
   {
     id: "7059",
@@ -1011,7 +1054,8 @@ const SS12 = [
         name: "水之波动",
         effect: "将对手的战斗宝可梦【睡眠】。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_44.jpg"
   },
   {
     id: "6377",
@@ -1034,7 +1078,8 @@ const SS12 = [
         name: "飞溅",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_45.jpg"
   },
   {
     id: "7060",
@@ -1057,7 +1102,8 @@ const SS12 = [
         name: "同心协力",
         effect: "若自己的备战区有「勾帕路翁」「代拉基翁」「毕力吉翁」，则增加170点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_46.jpg"
   },
   {
     id: "6768",
@@ -1076,7 +1122,8 @@ const SS12 = [
         name: "钩住",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_47.jpg"
   },
   {
     id: "6769",
@@ -1099,7 +1146,8 @@ const SS12 = [
         name: "鲁莽头击",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_48.jpg"
   },
   {
     id: "7061",
@@ -1118,7 +1166,8 @@ const SS12 = [
         name: "皮卡强袭",
         effect: "在上个自己的回合，若自己的「咚咚鼠」使出了「咚咚短路」，则增加180点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_49.jpg"
   },
   {
     id: "7062",
@@ -1141,7 +1190,8 @@ const SS12 = [
         name: "雷电球",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_50.jpg"
   },
   {
     id: "6772",
@@ -1164,7 +1214,8 @@ const SS12 = [
         name: "重掴",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_51.jpg"
   },
   {
     id: "6773",
@@ -1187,7 +1238,8 @@ const SS12 = [
         name: "强力伏特",
         effect: "选择2个这只宝可梦身上附加的能量，将其丢弃。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_52.jpg"
   },
   {
     id: "7168",
@@ -1210,7 +1262,8 @@ const SS12 = [
         name: "音速伏特",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_53.jpg"
   },
   {
     id: "6775",
@@ -1233,7 +1286,8 @@ const SS12 = [
         name: "劈哩啪啦",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_54.jpg"
   },
   {
     id: "7066",
@@ -1256,7 +1310,8 @@ const SS12 = [
         name: "神秘伏特",
         effect: "这个招式只有在自己的弃牌区1张支援者卡都没有时才可使用。对手的1只宝可梦受到100点伤害。[在备战区不计算弱点・抵抗力。]"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_55.jpg"
   },
   {
     id: "7069",
@@ -1279,7 +1334,8 @@ const SS12 = [
         name: "音速伏特",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_56.jpg"
   },
   {
     id: "7070",
@@ -1306,7 +1362,8 @@ const SS12 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_57.jpg"
   },
   {
     id: "7071",
@@ -1333,7 +1390,8 @@ const SS12 = [
         name: "[VMAX规则]",
         effect: "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_58.jpg"
   },
   {
     id: "6971",
@@ -1360,7 +1418,8 @@ const SS12 = [
         name: "意志统治者",
         effect: "造成对手的手牌的张数×20点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_59.jpg"
   },
   {
     id: "6779",
@@ -1383,7 +1442,8 @@ const SS12 = [
         name: "催眠光线",
         effect: "将对手的战斗宝可梦【睡眠】。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_60.jpg"
   },
   {
     id: "6780",
@@ -1406,7 +1466,8 @@ const SS12 = [
         name: "意念头锤",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_61.jpg"
   },
   {
     id: "6974",
@@ -1429,7 +1490,8 @@ const SS12 = [
         name: "精神伤害",
         effect: "增加对手的战斗宝可梦身上放置的伤害指示物的数量×10点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_62.jpg"
   },
   {
     id: "6391",
@@ -1448,7 +1510,8 @@ const SS12 = [
         name: "奇异之光",
         effect: "掷1次硬币若为正面，则将对手的战斗宝可梦【混乱】。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_63.jpg"
   },
   {
     id: "6392",
@@ -1471,7 +1534,8 @@ const SS12 = [
         name: "不祥歌声",
         effect: "在对手的所有宝可梦身上各放置2个伤害指示物。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_64.jpg"
   },
   {
     id: "7072",
@@ -1498,7 +1562,8 @@ const SS12 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_65.jpg"
   },
   {
     id: "7073",
@@ -1525,7 +1590,8 @@ const SS12 = [
         name: "[VSTAR规则]",
         effect: "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_66.jpg"
   },
   {
     id: "6976",
@@ -1544,7 +1610,8 @@ const SS12 = [
         name: "记忆跳接",
         effect: "选择对手的战斗宝可梦持有的1个招式。在下个对手的回合，受到这个招式的宝可梦无法使用被选择的招式。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_67.jpg"
   },
   {
     id: "6977",
@@ -1567,7 +1634,8 @@ const SS12 = [
         name: "巴掌",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_68.jpg"
   },
   {
     id: "6978",
@@ -1590,7 +1658,8 @@ const SS12 = [
         name: "魔法射击",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_69.jpg"
   },
   {
     id: "6979",
@@ -1617,7 +1686,8 @@ const SS12 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_70.jpg"
   },
   {
     id: "6980",
@@ -1644,7 +1714,8 @@ const SS12 = [
         name: "[VSTAR规则]",
         effect: "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_71.jpg"
   },
   {
     id: "7074",
@@ -1667,7 +1738,8 @@ const SS12 = [
         name: "精神射击",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_72.jpg"
   },
   {
     id: "7075",
@@ -1690,7 +1762,8 @@ const SS12 = [
         name: "活力踢",
         effect: "若对手的场上有「宝可梦【VMAX】」，则增加90点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_73.jpg"
   },
   {
     id: "6394",
@@ -1713,7 +1786,8 @@ const SS12 = [
         name: "垂吊",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_74.jpg"
   },
   {
     id: "7076",
@@ -1736,7 +1810,8 @@ const SS12 = [
         name: "利刃之风",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_75.jpg"
   },
   {
     id: "7077",
@@ -1755,7 +1830,8 @@ const SS12 = [
         name: "冲撞",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_76.jpg"
   },
   {
     id: "7078",
@@ -1774,7 +1850,8 @@ const SS12 = [
         name: "细胞尖枪",
         effect: "在对手的1只备战宝可梦身上放置2个伤害指示物。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_77.jpg"
   },
   {
     id: "7079",
@@ -1797,7 +1874,8 @@ const SS12 = [
         name: "细胞叉",
         effect: "在对手的2只备战宝可梦身上，各放置3个伤害指示物。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_78.jpg"
   },
   {
     id: "7080",
@@ -1816,7 +1894,8 @@ const SS12 = [
         name: "头锤",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_79.jpg"
   },
   {
     id: "7081",
@@ -1839,7 +1918,8 @@ const SS12 = [
         name: "精神箭",
         effect: "对手的1只宝可梦受到60点伤害。这个招式的伤害，就算在备战区也计算弱点・抵抗力。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_80.jpg"
   },
   {
     id: "6981",
@@ -1862,7 +1942,8 @@ const SS12 = [
         name: "重掴",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_81.jpg"
   },
   {
     id: "6982",
@@ -1885,7 +1966,8 @@ const SS12 = [
         name: "超念力",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_82.jpg"
   },
   {
     id: "7193",
@@ -1908,7 +1990,8 @@ const SS12 = [
         name: "撞击",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_83.jpg"
   },
   {
     id: "7194",
@@ -1931,7 +2014,8 @@ const SS12 = [
         name: "魔法射击",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_84.jpg"
   },
   {
     id: "7082",
@@ -1954,7 +2038,8 @@ const SS12 = [
         name: "咚咚短路",
         effect: "这个招式必须在上个自己的回合「托戈德玛尔」使用了「托戈冲刺」才可使用。将对手的战斗宝可梦【麻痺】。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_85.jpg"
   },
   {
     id: "6788",
@@ -1977,7 +2062,8 @@ const SS12 = [
         name: "掌击",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_86.jpg"
   },
   {
     id: "6789",
@@ -1996,7 +2082,8 @@ const SS12 = [
         name: "突击",
         effect: "这只宝可梦也受到10点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_87.jpg"
   },
   {
     id: "6790",
@@ -2015,7 +2102,8 @@ const SS12 = [
         name: "阴森射击",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_88.jpg"
   },
   {
     id: "6791",
@@ -2038,7 +2126,8 @@ const SS12 = [
         name: "阴森射击",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_89.jpg"
   },
   {
     id: "7083",
@@ -2065,7 +2154,8 @@ const SS12 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_90.jpg"
   },
   {
     id: "6795",
@@ -2084,7 +2174,8 @@ const SS12 = [
         name: "击飞",
         effect: "掷1次硬币若为正面，则增加20点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_91.jpg"
   },
   {
     id: "6796",
@@ -2107,7 +2198,8 @@ const SS12 = [
         name: "巨大之牙",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_92.jpg"
   },
   {
     id: "7084",
@@ -2130,7 +2222,8 @@ const SS12 = [
         name: "巴掌",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_93.jpg"
   },
   {
     id: "7085",
@@ -2153,7 +2246,8 @@ const SS12 = [
         name: "回转攻击",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_94.jpg"
   },
   {
     id: "7086",
@@ -2172,7 +2266,8 @@ const SS12 = [
         name: "化石击落",
         effect: "若希望，从自己的手牌选择1张「谜之化石」卡，将其丢弃。这个情况下，增加120点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_95.jpg"
   },
   {
     id: "7087",
@@ -2195,7 +2290,8 @@ const SS12 = [
         name: "岩石粉碎",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_96.jpg"
   },
   {
     id: "7088",
@@ -2214,7 +2310,8 @@ const SS12 = [
         name: "岩窟冲撞",
         effect: "在下个对手的回合，这只宝可梦不会受到招式的伤害。在上个自己的回合，若自己的宝可梦使用了「岩窟冲撞」，则无法使用这个招式。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_97.jpg"
   },
   {
     id: "6799",
@@ -2237,7 +2334,8 @@ const SS12 = [
         name: "杂技",
         effect: "掷2次硬币，增加正面出现的次数×20点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_98.jpg"
   },
   {
     id: "6800",
@@ -2256,7 +2354,8 @@ const SS12 = [
         name: "穷追不舍",
         effect: "在下个对手的回合，受到这个招式的宝可梦无法撤退。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_99.jpg"
   },
   {
     id: "6801",
@@ -2279,7 +2378,8 @@ const SS12 = [
         name: "大地粉碎",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_100.jpg"
   },
   {
     id: "7092",
@@ -2302,7 +2402,8 @@ const SS12 = [
         name: "神秘压制",
         effect: "若自己的弃牌区1张支援者卡都没有，则增加130点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_101.jpg"
   },
   {
     id: "6925",
@@ -2325,7 +2426,8 @@ const SS12 = [
         name: "泥炭肩膀",
         effect: "减少这只宝可梦身上放置的伤害指示物的数量×10点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_102.jpg"
   },
   {
     id: "6407",
@@ -2344,7 +2446,8 @@ const SS12 = [
         name: "咬住",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_103.jpg"
   },
   {
     id: "6408",
@@ -2363,7 +2466,8 @@ const SS12 = [
         name: "咬住",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_104.jpg"
   },
   {
     id: "6409",
@@ -2386,7 +2490,8 @@ const SS12 = [
         name: "关键啃咬",
         effect: "对手的1只宝可梦受到30点伤害。若对手的宝可梦因这个招式的伤害而【气绝】，则多获得2张奖赏卡。[在备战区不计算弱点・抵抗力。]"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_105.jpg"
   },
   {
     id: "6410",
@@ -2409,7 +2514,8 @@ const SS12 = [
         name: "啄",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_106.jpg"
   },
   {
     id: "6411",
@@ -2432,7 +2538,8 @@ const SS12 = [
         name: "无情之翼",
         effect: "若希望，将这只宝可梦与备战区的「黑暗鸦」互换。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_107.jpg"
   },
   {
     id: "7093",
@@ -2459,7 +2566,8 @@ const SS12 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_108.jpg"
   },
   {
     id: "6414",
@@ -2478,7 +2586,8 @@ const SS12 = [
         name: "推击",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_109.jpg"
   },
   {
     id: "6415",
@@ -2501,7 +2610,8 @@ const SS12 = [
         name: "冲天跳水",
         effect: "在下个对手的回合，这只宝可梦受到招式的伤害「+50」点。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_110.jpg"
   },
   {
     id: "6805",
@@ -2520,7 +2630,8 @@ const SS12 = [
         name: "咬住",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_111.jpg"
   },
   {
     id: "6806",
@@ -2539,7 +2650,8 @@ const SS12 = [
         name: "咬碎",
         effect: "掷1次硬币若为正面，则选择1个对手的战斗宝可梦身上附加的能量，将其丢弃。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_112.jpg"
   },
   {
     id: "6807",
@@ -2562,7 +2674,8 @@ const SS12 = [
         name: "舍身冲撞",
         effect: "这只宝可梦也受到30点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_113.jpg"
   },
   {
     id: "6808",
@@ -2581,7 +2694,8 @@ const SS12 = [
         name: "毒针",
         effect: "将对手的战斗宝可梦【中毒】。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_114.jpg"
   },
   {
     id: "6809",
@@ -2604,7 +2718,8 @@ const SS12 = [
         name: "尖刺射击",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_115.jpg"
   },
   {
     id: "7099",
@@ -2623,7 +2738,8 @@ const SS12 = [
         name: "贝可轰炸",
         effect: "这个招式必须在上个自己的回合「咚咚鼠」使用了「咚咚短路」才可使用。对手的所有宝可梦各受到60点伤害。[在备战区不计算弱点・抵抗力。]"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_116.jpg"
   },
   {
     id: "6810",
@@ -2646,7 +2762,8 @@ const SS12 = [
         name: "撞击",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_117.jpg"
   },
   {
     id: "6811",
@@ -2665,7 +2782,8 @@ const SS12 = [
         name: "子弹拳",
         effect: "掷2次硬币，增加正面出现的次数×30点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_118.jpg"
   },
   {
     id: "6812",
@@ -2688,7 +2806,8 @@ const SS12 = [
         name: "彗星拳",
         effect: "在下个自己的回合，这只宝可梦「彗星拳」的伤害「+100」点。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_119.jpg"
   },
   {
     id: "6985",
@@ -2715,7 +2834,8 @@ const SS12 = [
         name: "星星降灾",
         effect: "掷2次硬币，若全部为正面，则将对手的战斗宝可梦【气绝】。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_120.jpg"
   },
   {
     id: "6813",
@@ -2738,7 +2858,8 @@ const SS12 = [
         name: "滚动冲撞",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_121.jpg"
   },
   {
     id: "6814",
@@ -2761,7 +2882,8 @@ const SS12 = [
         name: "鞭打粉碎",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_122.jpg"
   },
   {
     id: "6986",
@@ -2780,7 +2902,8 @@ const SS12 = [
         name: "呼唤信号",
         effect: "从自己的牌库选择1张宝可梦卡，在给对手看过后加入手牌。并且重洗牌库。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_123.jpg"
   },
   {
     id: "6987",
@@ -2799,7 +2922,8 @@ const SS12 = [
         name: "齿轮飞盘",
         effect: "掷2次硬币，造成正面出现的次数×80点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_124.jpg"
   },
   {
     id: "6988",
@@ -2822,7 +2946,8 @@ const SS12 = [
         name: "强力光束",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_125.jpg"
   },
   {
     id: "7105",
@@ -2845,7 +2970,8 @@ const SS12 = [
         name: "跟进",
         effect: "选择最多2只自己的备战宝可梦，从牌库附给那些宝可梦各1张基本能量卡。并且重洗牌库。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_126.jpg"
   },
   {
     id: "7106",
@@ -2864,7 +2990,8 @@ const SS12 = [
         name: "托戈冲刺",
         effect: "掷1次硬币若为正面，则在下个对手的回合，就算这只宝可梦【气绝】，对手也无法获得奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_127.jpg"
   },
   {
     id: "6991",
@@ -2891,7 +3018,8 @@ const SS12 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_128.jpg"
   },
   {
     id: "7107",
@@ -2910,7 +3038,8 @@ const SS12 = [
         name: "摔打",
         effect: "掷2次硬币，造成正面出现的次数×30点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_129.jpg"
   },
   {
     id: "7108",
@@ -2933,7 +3062,8 @@ const SS12 = [
         name: "冲浪",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_130.jpg"
   },
   {
     id: "7109",
@@ -2956,7 +3086,8 @@ const SS12 = [
         name: "能量飓风",
         effect: "从自己的牌库选择最多3张基本能量卡，以任意方式附于自己的宝可梦身上。并且重洗牌库。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_131.jpg"
   },
   {
     id: "7110",
@@ -2979,7 +3110,8 @@ const SS12 = [
         name: "滑翔",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_132.jpg"
   },
   {
     id: "7111",
@@ -3002,7 +3134,8 @@ const SS12 = [
         name: "七弦回响",
         effect: "从牌库抽卡直到自己的手牌满7张为止。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_133.jpg"
   },
   {
     id: "7112",
@@ -3025,7 +3158,8 @@ const SS12 = [
         name: "高速攻击",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_134.jpg"
   },
   {
     id: "7113",
@@ -3052,7 +3186,8 @@ const SS12 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_135.jpg"
   },
   {
     id: "7114",
@@ -3079,7 +3214,8 @@ const SS12 = [
         name: "[VSTAR规则]",
         effect: "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_136.jpg"
   },
   {
     id: "6994",
@@ -3102,7 +3238,8 @@ const SS12 = [
         name: "冲撞",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_137.jpg"
   },
   {
     id: "7116",
@@ -3129,7 +3266,8 @@ const SS12 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_138.jpg"
   },
   {
     id: "7117",
@@ -3156,7 +3294,8 @@ const SS12 = [
         name: "[VSTAR规则]",
         effect: "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_139.jpg"
   },
   {
     id: "6995",
@@ -3183,7 +3322,8 @@ const SS12 = [
         name: "[V规则]",
         effect: "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_140.jpg"
   },
   {
     id: "6823",
@@ -3202,7 +3342,8 @@ const SS12 = [
         name: "摇晃旋转",
         effect: "对手的所有宝可梦各受到10点伤害。将对手的战斗宝可梦【混乱】。[在备战区不计算弱点・抵抗力。]"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_141.jpg"
   },
   {
     id: "6996",
@@ -3221,7 +3362,8 @@ const SS12 = [
         name: "连续旋转",
         effect: "掷硬币直到出现反面，造成正面出现的次数×20点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_142.jpg"
   },
   {
     id: "6997",
@@ -3244,7 +3386,8 @@ const SS12 = [
         name: "爆破之风",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_143.jpg"
   },
   {
     id: "6824",
@@ -3263,7 +3406,8 @@ const SS12 = [
         name: "试跳",
         effect: "掷1次硬币若为反面，则这个招式失败。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_144.jpg"
   },
   {
     id: "6825",
@@ -3286,7 +3430,8 @@ const SS12 = [
         name: "二连踢",
         effect: "掷2次硬币，造成正面出现的次数×100点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_145.jpg"
   },
   {
     id: "7119",
@@ -3309,7 +3454,8 @@ const SS12 = [
         name: "利爪劈击",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_146.jpg"
   },
   {
     id: "7120",
@@ -3332,7 +3478,8 @@ const SS12 = [
         name: "高速之翼",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_147.jpg"
   },
   {
     id: "7121",
@@ -3351,7 +3498,8 @@ const SS12 = [
         name: "飞扑",
         effect: "掷1次硬币若为正面，则增加30点伤害。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_148.jpg"
   },
   {
     id: "7122",
@@ -3374,7 +3522,8 @@ const SS12 = [
         name: "精神歪曲",
         effect: "将对手的战斗宝可梦【混乱】。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_149.jpg"
   },
   {
     id: "6827",
@@ -3393,7 +3542,8 @@ const SS12 = [
         name: "啄",
         effect: ""
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_150.jpg"
   },
   {
     id: "7134",
@@ -3410,7 +3560,8 @@ const SS12 = [
         name: "[竞技场规则]",
         effect: "在自己的回合时，只可将1张竞技场卡放置于战斗场旁边。若其他名称的竞技场卡被放置，则将这张卡丢弃。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_161.jpg"
   },
   {
     id: "7131",
@@ -3427,7 +3578,8 @@ const SS12 = [
         name: "[支援者规则]",
         effect: "在自己的回合时，支援者卡只可使用1张。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_151.jpg"
   },
   {
     id: "7132",
@@ -3444,7 +3596,8 @@ const SS12 = [
         name: "[支援者规则]",
         effect: "在自己的回合时，支援者卡只可使用1张。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_152.jpg"
   },
   {
     id: "7005",
@@ -3461,7 +3614,8 @@ const SS12 = [
         name: "[支援者规则]",
         effect: "在自己的回合时，支援者卡只可使用1张。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_157.jpg"
   },
   {
     id: "7133",
@@ -3478,7 +3632,8 @@ const SS12 = [
         name: "[支援者规则]",
         effect: "在自己的回合时，支援者卡只可使用1张。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_159.jpg"
   },
   {
     id: "6927",
@@ -3495,7 +3650,8 @@ const SS12 = [
         name: "[支援者规则]",
         effect: "在自己的回合时，支援者卡只可使用1张。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_162.jpg"
   },
   {
     id: "7004",
@@ -3512,7 +3668,8 @@ const SS12 = [
         name: "[支援者规则]",
         effect: "在自己的回合时，支援者卡只可使用1张。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_164.jpg"
   },
   {
     id: "7006",
@@ -3529,7 +3686,8 @@ const SS12 = [
         name: "[支援者规则]",
         effect: "在自己的回合时，支援者卡只可使用1张。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_166.jpg"
   },
   {
     id: "7130",
@@ -3546,7 +3704,8 @@ const SS12 = [
         name: "[支援者规则]",
         effect: "在自己的回合时，支援者卡只可使用1张。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_167.jpg"
   },
   {
     id: "7128",
@@ -3567,7 +3726,8 @@ const SS12 = [
         name: "[物品规则]",
         effect: "在自己的回合时，物品卡可不限张数使用。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_154.jpg"
   },
   {
     id: "7129",
@@ -3588,7 +3748,8 @@ const SS12 = [
         name: "[物品规则]",
         effect: "在自己的回合时，物品卡可不限张数使用。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_156.jpg"
   },
   {
     id: "7002",
@@ -3609,7 +3770,8 @@ const SS12 = [
         name: "[物品规则]",
         effect: "在自己的回合时，物品卡可不限张数使用。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_155.jpg"
   },
   {
     id: "7371",
@@ -3630,7 +3792,8 @@ const SS12 = [
         name: "[物品规则]",
         effect: "在自己的回合时，物品卡可不限张数使用。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_160.jpg"
   },
   {
     id: "7000",
@@ -3647,7 +3810,8 @@ const SS12 = [
         name: "[物品规则]",
         effect: "在自己的回合时，物品卡可不限张数使用。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_153.jpg"
   },
   {
     id: "7126",
@@ -3664,7 +3828,8 @@ const SS12 = [
         name: "[物品规则]",
         effect: "在自己的回合时，物品卡可不限张数使用。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_163.jpg"
   },
   {
     id: "7127",
@@ -3681,7 +3846,8 @@ const SS12 = [
         name: "[物品规则]",
         effect: "在自己的回合时，物品卡可不限张数使用。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_165.jpg"
   },
   {
     id: "7135",
@@ -3694,7 +3860,8 @@ const SS12 = [
         name: "",
         effect: "只要这张卡附于宝可梦身上，视为提供1个【无】能量。每次将附有这张卡的「宝可梦【V】」进化成从手牌使出的宝可梦时，将那只宝可梦恢复「100」HP。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_168.jpg"
   },
   {
     id: "7008",
@@ -3707,7 +3874,8 @@ const SS12 = [
         name: "",
         effect: "只要这张卡附于宝可梦身上，视为提供1个【无】能量。附有这张卡的宝可梦受到对手的「宝可梦【V】」招式的伤害「-30」点。无论附有多少张「V防守能量」卡，这个效果也不会重复。"
       }
-    ]
+    ],
+    enImgUrl: "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_169.jpg"
   }
 ];
 exports.default = SS12;

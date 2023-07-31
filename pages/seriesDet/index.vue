@@ -17,11 +17,11 @@
 		<div class="item" v-for="item in detList" :key="item.id" @click="showDet(item)">
 			<div class="picwp">
 				<image src="@/static/img/tcg-card-back.jpg" mode="widthFix" class="cback"></image>
-				<image :src="item.imgUrl" lazy-load mode="widthFix" class="img"></image>
+				<image :src="item.imgUrl" lazy-load mode="widthFix" class="img" v-if="showImgType == null"></image>
+				<image :src="item.enImgUrl" lazy-load mode="widthFix" class="img" v-else></image>
 			</div>
-			<!-- {{ item.cardName }} -->
+			<div v-if="showImgType == 'en'">{{ item.cardName }}</div>
 			<!-- {{ item.id }} -->
-			<!-- <div class="name" v-if="/\d/.test(item.id) == false">{{ item.id }}</div> -->
 		</div>
 	</div>
 	<div v-if="!isLoading && detList.length == 0" class="empty">
@@ -55,7 +55,8 @@
 	</div>
 	<div class="popups" v-if="isShowCard">
 		<div class="p-showcard" :class="{'animate__zoomIn': isShowCard}">
-			<image :src="showCardDet.imgUrl" mode="widthFix" class="img"></image>
+			<image :src="showCardDet.imgUrl" mode="widthFix" class="img" v-if="showImgType == null"></image>
+			<image :src="showCardDet.enImgUrl" mode="widthFix" class="img" v-else></image>
 			<div class="detInfo">
 				<div class="name">{{ showCardDet.cardName }}</div>
 				<div class="skill" v-if="!/^(基本).*?(能量)$/.test(showCardDet.cardName)">
@@ -94,6 +95,8 @@
 	let filterStr = ref(null);
 	let isShowCard = ref(false);
 	let showCardDet = ref(null);
+	let showImgType = ref(null);
+
 	
 	onLoad(options => {
 		sno = options.no;
@@ -110,6 +113,12 @@
 			case 'SS8': import('./SS8.json').then((res) => {getData(res)}); break;
 			case 'SS7.5': import('./SS7_5.json').then((res) => {getData(res)}); break;
 			default: isLoading.value = false; break
+		}
+		let t = wx.getStorageSync('imgType');
+		if(t == 'en'){
+			showImgType.value = t
+		}else{
+			showImgType.value = null
 		}
 	})
 
