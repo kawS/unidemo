@@ -1,9 +1,9 @@
 <template>
   <div class="hot">
-    <navigator :url="'../webview/index?url=https://play.limitlesstcg.com/decks'">
-      <image src="https://play.limitlesstcg.com/limitless.png" mode="widthFix" class="img"></image>
-      limitlesstcg卡组推荐
-    </navigator>
+    <!-- <navigator :url="'../webview/index?url=https://play.limitlesstcg.com/decks'"> -->
+      <image src="https://play.limitlesstcg.com/limitless.png" mode="heightFix" class="img"></image>
+      卡组推荐网站-limitlesstcg
+    <!-- </navigator> -->
   </div>
   <div class="showCardImgType">
     <div class="tlt">显示卡图版本</div>
@@ -71,7 +71,7 @@
     padding: 20rpx;
     .img{
       margin: 0 auto;
-      width: 200rpx;
+      height: 100rpx;
       display: block
     }
     text-align: center;

@@ -112,6 +112,8 @@
 			case 'SS9': import('./SS9.json').then((res) => {getData(res)}); break;
 			case 'SS8': import('./SS8.json').then((res) => {getData(res)}); break;
 			case 'SS7.5': import('./SS7_5.json').then((res) => {getData(res)}); break;
+			case 'SS7': import('./SS7.json').then((res) => {getData(res)}); break;
+			case 'SS6': import('./SS6.json').then((res) => {getData(res)}); break;
 			default: isLoading.value = false; break
 		}
 		let t = wx.getStorageSync('imgType');
@@ -141,10 +143,10 @@
 		isLoading.value = false;
 		setTimeout(function () {
 			uni.hideLoading();
-		}, 2000);
+		}, 1000);
 	}
 
-	const _showLoading = (duration = 2000) => {
+	const _showLoading = (duration = 1000) => {
 		uni.showLoading({
 			title: '加载中',
 			mask: true
@@ -179,6 +181,11 @@
 	}
 
 	const filterPokemon = (type) => {
+		if(wx.pageScrollTo){
+			wx.pageScrollTo({
+				scrollTop: 0
+			})
+		}
 		_showLoading();
 		filterStr.value = type;
 		detList.value = aList.value.filter(item => {
@@ -223,7 +230,10 @@
 						sno == 'SS10' || 
 						sno == 'SS9' || 
 						sno == 'SS8' || 
-						sno == 'SS7.5'
+						sno == 'SS7.5' ||
+						sno == 'SS7' ||
+						sno == 'SS6'
+
 	}
 </script>
 
@@ -329,8 +339,9 @@
 				text-align: center;
 				box-sizing: border-box;
 				&.on{
+					background: #16baaa;
 					border-color: #16baaa;
-					color: #16baaa
+					color: #fff
 				}
 				.img{
 					margin: 10rpx auto;

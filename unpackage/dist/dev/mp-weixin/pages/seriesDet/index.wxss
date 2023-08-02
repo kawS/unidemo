@@ -128,8 +128,9 @@
   box-sizing: border-box;
 }
 .p-filter .plist .item.on.data-v-30998fa7 {
+  background: #16baaa;
   border-color: #16baaa;
-  color: #16baaa;
+  color: #fff;
 }
 .p-filter .plist .item .img.data-v-30998fa7 {
   margin: 10rpx auto;

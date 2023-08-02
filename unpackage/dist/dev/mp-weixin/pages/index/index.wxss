@@ -29,7 +29,7 @@
 }
 .hot .img.data-v-1cf27b2a {
   margin: 0 auto;
-  width: 200rpx;
+  height: 100rpx;
   display: block;
 }
 .showCardImgType.data-v-1cf27b2a {

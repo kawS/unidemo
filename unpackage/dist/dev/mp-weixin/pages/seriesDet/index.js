@@ -74,6 +74,16 @@ const _sfc_main = {
             getData(res);
           });
           break;
+        case "SS7":
+          Promise.resolve(require("./SS7.js")).then((res) => {
+            getData(res);
+          });
+          break;
+        case "SS6":
+          Promise.resolve(require("./SS6.js")).then((res) => {
+            getData(res);
+          });
+          break;
         default:
           isLoading.value = false;
           break;
@@ -104,9 +114,9 @@ const _sfc_main = {
       isLoading.value = false;
       setTimeout(function() {
         common_vendor.index.hideLoading();
-      }, 2e3);
+      }, 1e3);
     };
-    const _showLoading = (duration = 2e3) => {
+    const _showLoading = (duration = 1e3) => {
       common_vendor.index.showLoading({
         title: "加载中",
         mask: true
@@ -145,6 +155,11 @@ const _sfc_main = {
       isShowFilter.value = true;
     };
     const filterPokemon = (type) => {
+      if (common_vendor.wx$1.pageScrollTo) {
+        common_vendor.wx$1.pageScrollTo({
+          scrollTop: 0
+        });
+      }
       _showLoading();
       filterStr.value = type;
       detList.value = aList.value.filter((item) => {
@@ -176,7 +191,7 @@ const _sfc_main = {
       isShowCard.value = true;
     };
     const returnShowFilterDom = (sno2) => {
-      return sno2 == "SV1" || sno2 == "SV2" || sno2 == "SS12" || sno2 == "SS12.5" || sno2 == "SS11" || sno2 == "SS10.5" || sno2 == "SS10" || sno2 == "SS9" || sno2 == "SS8" || sno2 == "SS7.5";
+      return sno2 == "SV1" || sno2 == "SV2" || sno2 == "SS12" || sno2 == "SS12.5" || sno2 == "SS11" || sno2 == "SS10.5" || sno2 == "SS10" || sno2 == "SS9" || sno2 == "SS8" || sno2 == "SS7.5" || sno2 == "SS7" || sno2 == "SS6";
     };
     return (_ctx, _cache) => {
       return common_vendor.e({
