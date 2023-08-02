@@ -88,7 +88,7 @@ const _sfc_main = {
           isLoading.value = false;
           break;
       }
-      let t = common_vendor.wx$1.getStorageSync("imgType");
+      let t = common_vendor.index.getStorageSync("imgType");
       if (t == "en") {
         showImgType.value = t;
       } else {
@@ -155,8 +155,8 @@ const _sfc_main = {
       isShowFilter.value = true;
     };
     const filterPokemon = (type) => {
-      if (common_vendor.wx$1.pageScrollTo) {
-        common_vendor.wx$1.pageScrollTo({
+      if (common_vendor.index.pageScrollTo) {
+        common_vendor.index.pageScrollTo({
           scrollTop: 0
         });
       }

@@ -116,7 +116,7 @@
 			case 'SS6': import('./SS6.json').then((res) => {getData(res)}); break;
 			default: isLoading.value = false; break
 		}
-		let t = wx.getStorageSync('imgType');
+		let t = uni.getStorageSync('imgType');
 		if(t == 'en'){
 			showImgType.value = t
 		}else{
@@ -181,8 +181,8 @@
 	}
 
 	const filterPokemon = (type) => {
-		if(wx.pageScrollTo){
-			wx.pageScrollTo({
+		if(uni.pageScrollTo){
+			uni.pageScrollTo({
 				scrollTop: 0
 			})
 		}

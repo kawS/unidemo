@@ -48,6 +48,19 @@
   background: #16baaa;
   color: #fff;
 }
+.useNo.data-v-1cf27b2a {
+  padding: 10rpx 20rpx 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+}
+.useNo .em.data-v-1cf27b2a {
+  margin: 0 10rpx;
+  padding: 0 10rpx;
+  background: #ce2a2c;
+  color: #fff;
+}
 .list.data-v-1cf27b2a {
   padding: 30rpx 0;
 }
@@ -89,4 +102,9 @@
 }
 .list .sbox .slist .item .ps.data-v-1cf27b2a {
   font-size: 12px;
+}
+.list .sbox .slist .item.dis.data-v-1cf27b2a {
+  background: #ce2a2c;
+  color: #fff;
+  opacity: 0.5;
 }
