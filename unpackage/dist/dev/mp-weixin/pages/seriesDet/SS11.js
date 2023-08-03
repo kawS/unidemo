@@ -28,7 +28,7 @@ const SS11 = [
     extraInformation: [
       "No.44杂草宝可梦",
       "身高0.8/体重8.6",
-      "雌蕊会散发一种极其强烈的恶臭，能让２公里外的人昏倒。"
+      "雌蕊会散发一种极其强烈的恶臭，能让2公里外的人昏倒。"
     ],
     typeEnergy: "Grass",
     type: "Pokemon",
@@ -636,7 +636,7 @@ const SS11 = [
     extraInformation: [
       "No.668王者宝可梦",
       "身高1.5/体重81.5",
-      "能吐出摄氏６０００度的气息，但不会用在猎物身上，因为牠比较喜欢吃生肉。"
+      "能吐出摄氏6000度的气息，但不会用在猎物身上，因为牠比较喜欢吃生肉。"
     ],
     typeEnergy: "Fire",
     type: "Pokemon",
@@ -1592,7 +1592,7 @@ const SS11 = [
     extraInformation: [
       "No.282包容宝可梦",
       "身高1.6/体重48.4",
-      "有著预知未来的能力。在保护训练家的时候，\r会发挥出最强的力量。"
+      "有著预知未来的能力。在保护训练家的时候，会发挥出最强的力量。"
     ],
     typeEnergy: "Psychic",
     type: "Pokemon",
@@ -1996,7 +1996,7 @@ const SS11 = [
     extraInformation: [
       "No.66怪力宝可梦",
       "身高0.8/体重19.5",
-      "全身都是肌肉，虽然体型只有小孩那么大，却可以扔飞１００个大人。"
+      "全身都是肌肉，虽然体型只有小孩那么大，却可以扔飞100个大人。"
     ],
     typeEnergy: "Fighting",
     type: "Pokemon",
@@ -2040,7 +2040,7 @@ const SS11 = [
     extraInformation: [
       "No.68怪力宝可梦",
       "身高1.6/体重130.0",
-      "能够迅速活动４只手臂，从各种角度毫不停歇地使出拳击或手刀。"
+      "能够迅速活动4只手臂，从各种角度毫不停歇地使出拳击或手刀。"
     ],
     typeEnergy: "Fighting",
     type: "Pokemon",
@@ -2108,7 +2108,7 @@ const SS11 = [
     extraInformation: [
       "No.464钻锥宝可梦",
       "身高2.4/体重282.8",
-      "会在手掌的洞里塞进岩石和石丸子发射出去，每只手里可以装填３个。"
+      "会在手掌的洞里塞进岩石和石丸子发射出去，每只手里可以装填3个。"
     ],
     typeEnergy: "Fighting",
     type: "Pokemon",
@@ -2296,7 +2296,7 @@ const SS11 = [
     extraInformation: [
       "No.307冥想宝可梦",
       "身高0.6/体重11.2",
-      "１天只吃１个树果。借由忍耐饥饿来来磨练自己的心。"
+      "1天只吃1个树果。借由忍耐饥饿来来磨练自己的心。"
     ],
     typeEnergy: "Fighting",
     type: "Pokemon",
@@ -2384,7 +2384,7 @@ const SS11 = [
     extraInformation: [
       "No.619武术宝可梦",
       "身高0.9/体重20.0",
-      "千锤百炼的功夫鼬能够在１分钟内使出超过１００次的劈击。"
+      "千锤百炼的功夫鼬能够在1分钟内使出超过100次的劈击。"
     ],
     typeEnergy: "Fighting",
     type: "Pokemon",
@@ -2456,7 +2456,7 @@ const SS11 = [
     extraInformation: [
       "No.688双手宝可梦",
       "身高0.5/体重31",
-      "２只龟脚脚会在海边找一块大小合适的岩石，附在上面一起生活。涨潮的时候会互相合作寻找食物。"
+      "2只龟脚脚会在海边找一块大小合适的岩石，附在上面一起生活。涨潮的时候会互相合作寻找食物。"
     ],
     typeEnergy: "Fighting",
     type: "Pokemon",
@@ -2480,7 +2480,7 @@ const SS11 = [
     extraInformation: [
       "No.689集合宝可梦",
       "身高1.3/体重96",
-      "７只龟脚脚组成了１只龟足巨铠的身体。由头部对手脚发号施令。"
+      "7只龟脚脚组成了1只龟足巨铠的身体。由头部对手脚发号施令。"
     ],
     typeEnergy: "Fighting",
     type: "Pokemon",
@@ -2552,7 +2552,7 @@ const SS11 = [
     extraInformation: [
       "No.870阵形宝可梦",
       "身高3/体重62",
-      "列阵兵由１个头头和５个跟班组成。头头的命令不可违抗。"
+      "列阵兵由1个头头和5个跟班组成。头头的命令不可违抗。"
     ],
     typeEnergy: "Fighting",
     type: "Pokemon",
@@ -2712,7 +2712,7 @@ const SS11 = [
     extraInformation: [
       "No.442封印宝可梦",
       "身高1.0/体重108.0",
-      "１０８个灵魂聚集在一起成为了宝可梦，但其中似乎混进了坏心眼的灵魂。"
+      "108个灵魂聚集在一起成为了宝可梦，但其中似乎混进了坏心眼的灵魂。"
     ],
     typeEnergy: "Darkness",
     type: "Pokemon",
@@ -2864,7 +2864,7 @@ const SS11 = [
     extraInformation: [
       "No.903攀崖宝可梦",
       "身高1.3/体重43.0",
-      "拥有凌驾其他物种之上的身体能力以及剧毒。在寒冷的高地上所向无敌。\r偏好独自行动，而不会集结成群。"
+      "拥有凌驾其他物种之上的身体能力以及剧毒。在寒冷的高地上所向无敌。偏好独自行动，而不会集结成群。"
     ],
     typeEnergy: "Darkness",
     type: "Pokemon",
@@ -2892,7 +2892,7 @@ const SS11 = [
     extraInformation: [
       "No.208铁蛇宝可梦",
       "身高9.2/体重400.0",
-      "据说当大岩蛇活到了１００年以上，身体的成分\r就会变得如同钻石一般。"
+      "据说当大岩蛇活到了100年以上，身体的成分就会变得如同钻石一般。"
     ],
     typeEnergy: "Metal",
     type: "Pokemon",
@@ -2988,7 +2988,7 @@ const SS11 = [
     extraInformation: [
       "No.801人造宝可梦",
       "身高1.0/体重80.5",
-      "由大约５００年前的科学家所制造。本体是被称为魂心的零件。"
+      "由大约500年前的科学家所制造。本体是被称为魂心的零件。"
     ],
     typeEnergy: "Metal",
     type: "Pokemon",
@@ -3320,7 +3320,7 @@ const SS11 = [
     extraInformation: [
       "No.233虚拟宝可梦",
       "身高0.6/体重32.5",
-      "#N/A"
+      ""
     ],
     typeEnergy: "Colorless",
     type: "Pokemon",
@@ -3340,7 +3340,7 @@ const SS11 = [
     extraInformation: [
       "No.474虚拟宝可梦",
       "身高0.9/体重34",
-      "#N/A"
+      ""
     ],
     typeEnergy: "Colorless",
     type: "Pokemon",
@@ -3364,7 +3364,7 @@ const SS11 = [
     extraInformation: [
       "No.143瞌睡宝可梦",
       "身高2.1/体重460.0",
-      "每天不吃下４００公斤的食物绝不会善罢甘休。吃饱了就会开始睡觉。"
+      "每天不吃下300公斤的食物绝不会善罢甘休。吃饱了就会开始睡觉。"
     ],
     typeEnergy: "Colorless",
     type: "Pokemon",

@@ -25,7 +25,7 @@
 		</div>
 	</div>
 	<div v-if="!isLoading && detList.length == 0" class="empty">
-		<image src="@/static/img/150.png" mode="widthFix" class="img"></image>
+		<image src="@/static/img/pikachu.png" mode="widthFix" class="img"></image>
 		暂无数据
 	</div>
 	<div class="popups" v-show="isShowFilter">
@@ -114,6 +114,7 @@
 			case 'SS7.5': import('./SS7_5.json').then((res) => {getData(res)}); break;
 			case 'SS7': import('./SS7.json').then((res) => {getData(res)}); break;
 			case 'SS6': import('./SS6.json').then((res) => {getData(res)}); break;
+			case 'SS5': import('./SS5.json').then((res) => {getData(res)}); break;
 			default: isLoading.value = false; break
 		}
 		let t = uni.getStorageSync('imgType');
@@ -157,6 +158,11 @@
 	}
   
 	const changeTabs = (type) => {
+		if(uni.pageScrollTo){
+			uni.pageScrollTo({
+				scrollTop: 0
+			})
+		}
 		_showLoading();
 		classType.value = type;
 		switch(type){
@@ -196,6 +202,11 @@
 	}
 
 	const filterTrainers = (type) => {
+		if(uni.pageScrollTo){
+			uni.pageScrollTo({
+				scrollTop: 0
+			})
+		}
 		_showLoading();
 		filterStr.value = type;
 		detList.value = aList.value.filter(item => {
@@ -232,8 +243,8 @@
 						sno == 'SS8' || 
 						sno == 'SS7.5' ||
 						sno == 'SS7' ||
-						sno == 'SS6'
-
+						sno == 'SS6' ||
+						sno == 'SS5'
 	}
 </script>
 
@@ -311,7 +322,7 @@
 		color: #ccc;
 		.img{
 			margin: 0 auto 20rpx;
-			width: 475rpx;
+			width: 266rpx;
 			display: block;
 		}
 	}
@@ -372,6 +383,7 @@
 		.img{
 			margin: 0 auto;
 			width: 70%;
+			border-radius: 25rpx;
 			display: block;
 		}
 		.detInfo{

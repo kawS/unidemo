@@ -84,6 +84,11 @@ const _sfc_main = {
             getData(res);
           });
           break;
+        case "SS5":
+          Promise.resolve(require("./SS5.js")).then((res) => {
+            getData(res);
+          });
+          break;
         default:
           isLoading.value = false;
           break;
@@ -126,6 +131,11 @@ const _sfc_main = {
       }, duration);
     };
     const changeTabs = (type) => {
+      if (common_vendor.index.pageScrollTo) {
+        common_vendor.index.pageScrollTo({
+          scrollTop: 0
+        });
+      }
       _showLoading();
       classType.value = type;
       switch (type) {
@@ -169,6 +179,11 @@ const _sfc_main = {
       isShowFilter.value = false;
     };
     const filterTrainers = (type) => {
+      if (common_vendor.index.pageScrollTo) {
+        common_vendor.index.pageScrollTo({
+          scrollTop: 0
+        });
+      }
       _showLoading();
       filterStr.value = type;
       detList.value = aList.value.filter((item) => {
@@ -191,7 +206,7 @@ const _sfc_main = {
       isShowCard.value = true;
     };
     const returnShowFilterDom = (sno2) => {
-      return sno2 == "SV1" || sno2 == "SV2" || sno2 == "SS12" || sno2 == "SS12.5" || sno2 == "SS11" || sno2 == "SS10.5" || sno2 == "SS10" || sno2 == "SS9" || sno2 == "SS8" || sno2 == "SS7.5" || sno2 == "SS7" || sno2 == "SS6";
+      return sno2 == "SV1" || sno2 == "SV2" || sno2 == "SS12" || sno2 == "SS12.5" || sno2 == "SS11" || sno2 == "SS10.5" || sno2 == "SS10" || sno2 == "SS9" || sno2 == "SS8" || sno2 == "SS7.5" || sno2 == "SS7" || sno2 == "SS6" || sno2 == "SS5";
     };
     return (_ctx, _cache) => {
       return common_vendor.e({

@@ -98,7 +98,7 @@
 }
 .empty .img.data-v-30998fa7 {
   margin: 0 auto 20rpx;
-  width: 475rpx;
+  width: 266rpx;
   display: block;
 }
 .p-filter.data-v-30998fa7 {
@@ -159,6 +159,7 @@
 .p-showcard .img.data-v-30998fa7 {
   margin: 0 auto;
   width: 70%;
+  border-radius: 25rpx;
   display: block;
 }
 .p-showcard .detInfo.data-v-30998fa7 {
