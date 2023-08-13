@@ -6,14 +6,14 @@ const sdata = [
     list: [
       {
         name: "151",
-        no: "",
+        no: "SV3.5",
         logo: "https://www.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/sv_series/sv035/sv035-slider-logo-en.png",
         isBack: false,
         tipNo: "G"
       },
       {
         name: "Obsidian Flames",
-        no: "",
+        no: "SV3",
         logo: "https://www.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/sv_series/sv03/sv03-slider-logo-en.png",
         isBack: false,
         tipNo: "G"

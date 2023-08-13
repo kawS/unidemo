@@ -24,68 +24,78 @@ const _sfc_main = {
       sno = options.no;
       serName.value = decodeURIComponent(options.sname);
       switch (sno) {
-        case "SV1":
-          Promise.resolve(require("./SV1.js")).then((res) => {
+        case "SV3.5":
+          Promise.resolve(require("../../common/js/SV3_5.js")).then((res) => {
+            getData(res);
+          });
+          break;
+        case "SV3":
+          Promise.resolve(require("../../common/js/SV3.js")).then((res) => {
             getData(res);
           });
           break;
         case "SV2":
-          Promise.resolve(require("./SV2.js")).then((res) => {
+          Promise.resolve(require("../../common/js/SV2.js")).then((res) => {
+            getData(res);
+          });
+          break;
+        case "SV1":
+          Promise.resolve(require("../../common/js/SV1.js")).then((res) => {
             getData(res);
           });
           break;
         case "SS12.5":
-          Promise.resolve(require("./SS12_5.js")).then((res) => {
+          Promise.resolve(require("../../common/js/SS12_5.js")).then((res) => {
             getData(res);
           });
           break;
         case "SS12":
-          Promise.resolve(require("./SS12.js")).then((res) => {
+          Promise.resolve(require("../../common/js/SS12.js")).then((res) => {
             getData(res);
           });
           break;
         case "SS11":
-          Promise.resolve(require("./SS11.js")).then((res) => {
+          Promise.resolve(require("../../common/js/SS11.js")).then((res) => {
             getData(res);
           });
           break;
         case "SS10.5":
-          Promise.resolve(require("./SS10_5.js")).then((res) => {
+          Promise.resolve(require("../../common/js/SS10_5.js")).then((res) => {
             getData(res);
           });
           break;
         case "SS10":
-          Promise.resolve(require("./SS10.js")).then((res) => {
+          Promise.resolve(require("../../common/js/SS10.js")).then((res) => {
             getData(res);
           });
           break;
         case "SS9":
-          Promise.resolve(require("./SS9.js")).then((res) => {
+          Promise.resolve(require("../../common/js/SS9.js")).then((res) => {
             getData(res);
           });
           break;
         case "SS8":
-          Promise.resolve(require("./SS8.js")).then((res) => {
+          Promise.resolve(require("../../common/js/SS8.js")).then((res) => {
             getData(res);
           });
           break;
         case "SS7.5":
-          Promise.resolve(require("./SS7_5.js")).then((res) => {
+          Promise.resolve(require("../../common/js/SS7_5.js")).then((res) => {
             getData(res);
           });
           break;
         case "SS7":
-          Promise.resolve(require("./SS7.js")).then((res) => {
+          Promise.resolve(require("../../common/js/SS7.js")).then((res) => {
             getData(res);
           });
           break;
         case "SS6":
-          Promise.resolve(require("./SS6.js")).then((res) => {
+          Promise.resolve(require("../../common/js/SS6.js")).then((res) => {
             getData(res);
           });
           break;
         case "SS5":
-          Promise.resolve(require("./SS5.js")).then((res) => {
+          Promise.resolve(require("../../common/js/SS5.js")).then((res) => {
             getData(res);
           });
           break;
@@ -206,7 +216,8 @@ const _sfc_main = {
       isShowCard.value = true;
     };
     const returnShowFilterDom = (sno2) => {
-      return sno2 == "SV1" || sno2 == "SV2" || sno2 == "SS12" || sno2 == "SS12.5" || sno2 == "SS11" || sno2 == "SS10.5" || sno2 == "SS10" || sno2 == "SS9" || sno2 == "SS8" || sno2 == "SS7.5" || sno2 == "SS7" || sno2 == "SS6" || sno2 == "SS5";
+      return sno2 == "SV3" || // sno == 'SV3.5' || 
+      sno2 == "SV2" || sno2 == "SV1" || sno2 == "SS12" || sno2 == "SS12.5" || sno2 == "SS11" || sno2 == "SS10.5" || sno2 == "SS10" || sno2 == "SS9" || sno2 == "SS8" || sno2 == "SS7.5" || sno2 == "SS7" || sno2 == "SS6" || sno2 == "SS5";
     };
     return (_ctx, _cache) => {
       return common_vendor.e({
@@ -256,10 +267,10 @@ const _sfc_main = {
         w: common_vendor.unref(classType) == "All" || common_vendor.unref(classType) == "Pokemon",
         x: common_vendor.unref(filterStr) == "竞技场" ? 1 : "",
         y: common_vendor.o(($event) => filterTrainers("竞技场")),
-        z: common_vendor.unref(filterStr) == "宝可梦道具" ? 1 : "",
-        A: common_vendor.o(($event) => filterTrainers("宝可梦道具")),
-        B: common_vendor.unref(filterStr) == "支援者" ? 1 : "",
-        C: common_vendor.o(($event) => filterTrainers("支援者")),
+        z: common_vendor.unref(filterStr) == "支援者" ? 1 : "",
+        A: common_vendor.o(($event) => filterTrainers("支援者")),
+        B: common_vendor.unref(filterStr) == "宝可梦道具" ? 1 : "",
+        C: common_vendor.o(($event) => filterTrainers("宝可梦道具")),
         D: common_vendor.unref(filterStr) == "物品" ? 1 : "",
         E: common_vendor.o(($event) => filterTrainers("物品")),
         F: common_vendor.unref(classType) == "All" || common_vendor.unref(classType) == "Trainers",

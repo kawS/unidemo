@@ -10,7 +10,7 @@
     <div class="bns" :class="{on: showImgType == 'en'}" @click="setLag('en')">美版</div>
     <div class="bns" :class="{on: showImgType == null}" @click="setLag('cn')">繁中</div>
   </div>
-  <div class="useNo">标准环境最低<span class="em">{{ tipNowNo }}</span>标</div>
+  <div class="useNo">标准环境<span class="em">{{ tipNowNo }}</span>标</div>
   <div class="list">
     <div class="sbox" v-for="item in seriesList" :key="item.sname">
       <div class="tlt">{{ item.sname }} {{ item.sename }}</div>

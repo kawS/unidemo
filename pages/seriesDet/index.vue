@@ -42,8 +42,8 @@
 				<div>训练家卡</div>
 				<div class="plist">
 					<div class="item" :class="{on: filterStr == '竞技场'}" @click="filterTrainers('竞技场')">竞技场</div>
-					<div class="item" :class="{on: filterStr == '宝可梦道具'}" @click="filterTrainers('宝可梦道具')">宝可梦道具</div>
 					<div class="item" :class="{on: filterStr == '支援者'}" @click="filterTrainers('支援者')">支援者</div>
+					<div class="item" :class="{on: filterStr == '宝可梦道具'}" @click="filterTrainers('宝可梦道具')">宝可梦道具</div>
 					<div class="item" :class="{on: filterStr == '物品'}" @click="filterTrainers('物品')">物品</div>
 				</div>
 			</div>
@@ -102,19 +102,21 @@
 		sno = options.no;
 		serName.value = decodeURIComponent(options.sname);
 		switch(sno) {
-			case 'SV1': import('./SV1.json').then((res) => {getData(res)}); break;
-			case 'SV2': import('./SV2.json').then((res) => {getData(res)}); break;
-			case 'SS12.5': import('./SS12_5.json').then((res) => {getData(res)}); break;
-			case 'SS12': import('./SS12.json').then((res) => {getData(res)}); break;
-			case 'SS11': import('./SS11.json').then((res) => {getData(res)}); break;
-			case 'SS10.5': import('./SS10_5.json').then((res) => {getData(res)}); break;
-			case 'SS10': import('./SS10.json').then((res) => {getData(res)}); break;
-			case 'SS9': import('./SS9.json').then((res) => {getData(res)}); break;
-			case 'SS8': import('./SS8.json').then((res) => {getData(res)}); break;
-			case 'SS7.5': import('./SS7_5.json').then((res) => {getData(res)}); break;
-			case 'SS7': import('./SS7.json').then((res) => {getData(res)}); break;
-			case 'SS6': import('./SS6.json').then((res) => {getData(res)}); break;
-			case 'SS5': import('./SS5.json').then((res) => {getData(res)}); break;
+			case 'SV3.5': import('../../common/js/SV3_5.json').then((res) => {getData(res)}); break;
+			case 'SV3': import('../../common/js/SV3.json').then((res) => {getData(res)}); break;
+			case 'SV2': import('../../common/js/SV2.json').then((res) => {getData(res)}); break;
+			case 'SV1': import('../../common/js/SV1.json').then((res) => {getData(res)}); break;
+			case 'SS12.5': import('../../common/js/SS12_5.json').then((res) => {getData(res)}); break;
+			case 'SS12': import('../../common/js/SS12.json').then((res) => {getData(res)}); break;
+			case 'SS11': import('../../common/js/SS11.json').then((res) => {getData(res)}); break;
+			case 'SS10.5': import('../../common/js/SS10_5.json').then((res) => {getData(res)}); break;
+			case 'SS10': import('../../common/js/SS10.json').then((res) => {getData(res)}); break;
+			case 'SS9': import('../../common/js/SS9.json').then((res) => {getData(res)}); break;
+			case 'SS8': import('../../common/js/SS8.json').then((res) => {getData(res)}); break;
+			case 'SS7.5': import('../../common/js/SS7_5.json').then((res) => {getData(res)}); break;
+			case 'SS7': import('../../common/js/SS7.json').then((res) => {getData(res)}); break;
+			case 'SS6': import('../../common/js/SS6.json').then((res) => {getData(res)}); break;
+			case 'SS5': import('../../common/js/SS5.json').then((res) => {getData(res)}); break;
 			default: isLoading.value = false; break
 		}
 		let t = uni.getStorageSync('imgType');
@@ -232,8 +234,10 @@
   }
 
 	const returnShowFilterDom = (sno) => {
-		return sno == 'SV1' || 
+		return sno == 'SV3' || 
+						// sno == 'SV3.5' || 
 						sno == 'SV2' || 
+						sno == 'SV1' || 
 						sno == 'SS12' || 
 						sno == 'SS12.5' || 
 						sno == 'SS11' || 
