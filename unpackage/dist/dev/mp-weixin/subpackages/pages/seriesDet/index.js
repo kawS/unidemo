@@ -1,11 +1,11 @@
 "use strict";
-const common_vendor = require("../../common/vendor.js");
-const common_assets = require("../../common/assets.js");
-const common_js_returnCHN = require("../../common/js/returnCHN.js");
+const common_vendor = require("../../../common/vendor.js");
+const common_assets = require("../../../common/assets.js");
+const subpackages_pages_seriesDet_js_returnCHN = require("./js/returnCHN.js");
 const _sfc_main = {
   __name: "index",
   setup(__props) {
-    const typeList = common_js_returnCHN.returnPMType("all");
+    const typeList = subpackages_pages_seriesDet_js_returnCHN.returnPMType("all");
     let isLoading = common_vendor.ref(true);
     let sno = common_vendor.ref(null);
     let serName = common_vendor.ref(null);
@@ -25,77 +25,77 @@ const _sfc_main = {
       serName.value = decodeURIComponent(options.sname);
       switch (sno) {
         case "SV3.5":
-          Promise.resolve(require("../../common/js/SV3_5.js")).then((res) => {
+          Promise.resolve(require("./json/SV3_5.js")).then((res) => {
             getData(res);
           });
           break;
         case "SV3":
-          Promise.resolve(require("../../common/js/SV3.js")).then((res) => {
+          Promise.resolve(require("./json/SV3.js")).then((res) => {
             getData(res);
           });
           break;
         case "SV2":
-          Promise.resolve(require("../../common/js/SV2.js")).then((res) => {
+          Promise.resolve(require("./json/SV2.js")).then((res) => {
             getData(res);
           });
           break;
         case "SV1":
-          Promise.resolve(require("../../common/js/SV1.js")).then((res) => {
+          Promise.resolve(require("./json/SV1.js")).then((res) => {
             getData(res);
           });
           break;
         case "SS12.5":
-          Promise.resolve(require("../../common/js/SS12_5.js")).then((res) => {
+          Promise.resolve(require("./json/SS12_5.js")).then((res) => {
             getData(res);
           });
           break;
         case "SS12":
-          Promise.resolve(require("../../common/js/SS12.js")).then((res) => {
+          Promise.resolve(require("./json/SS12.js")).then((res) => {
             getData(res);
           });
           break;
         case "SS11":
-          Promise.resolve(require("../../common/js/SS11.js")).then((res) => {
+          Promise.resolve(require("./json/SS11.js")).then((res) => {
             getData(res);
           });
           break;
         case "SS10.5":
-          Promise.resolve(require("../../common/js/SS10_5.js")).then((res) => {
+          Promise.resolve(require("./json/SS10_5.js")).then((res) => {
             getData(res);
           });
           break;
         case "SS10":
-          Promise.resolve(require("../../common/js/SS10.js")).then((res) => {
+          Promise.resolve(require("./json/SS10.js")).then((res) => {
             getData(res);
           });
           break;
         case "SS9":
-          Promise.resolve(require("../../common/js/SS9.js")).then((res) => {
+          Promise.resolve(require("./json/SS9.js")).then((res) => {
             getData(res);
           });
           break;
         case "SS8":
-          Promise.resolve(require("../../common/js/SS8.js")).then((res) => {
+          Promise.resolve(require("./json/SS8.js")).then((res) => {
             getData(res);
           });
           break;
         case "SS7.5":
-          Promise.resolve(require("../../common/js/SS7_5.js")).then((res) => {
+          Promise.resolve(require("./json/SS7_5.js")).then((res) => {
             getData(res);
           });
           break;
         case "SS7":
-          Promise.resolve(require("../../common/js/SS7.js")).then((res) => {
+          Promise.resolve(require("./json/SS7.js")).then((res) => {
             getData(res);
           });
           break;
         case "SS6":
-          Promise.resolve(require("../../common/js/SS6.js")).then((res) => {
+          Promise.resolve(require("./json/SS6.js")).then((res) => {
             getData(res);
           });
           break;
         case "SS5":
-          Promise.resolve(require("../../common/js/SS5.js")).then((res) => {
+          Promise.resolve(require("./json/SS5.js")).then((res) => {
             getData(res);
           });
           break;
@@ -306,5 +306,5 @@ const _sfc_main = {
     };
   }
 };
-const MiniProgramPage = /* @__PURE__ */ common_vendor._export_sfc(_sfc_main, [["__scopeId", "data-v-30998fa7"], ["__file", "/Users/kaws-mac/Desktop/unidemo/pages/seriesDet/index.vue"]]);
+const MiniProgramPage = /* @__PURE__ */ common_vendor._export_sfc(_sfc_main, [["__scopeId", "data-v-8e061aea"], ["__file", "/Users/kaws-mac/Desktop/unidemo/subpackages/pages/seriesDet/index.vue"]]);
 wx.createPage(MiniProgramPage);

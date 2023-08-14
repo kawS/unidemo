@@ -16,7 +16,7 @@
 	<div class="list">
 		<div class="item" v-for="item in detList" :key="item.id" @click="showDet(item)">
 			<div class="picwp">
-				<image src="@/static/img/tcg-card-back.jpg" mode="widthFix" class="cback"></image>
+				<image src="../img/tcg-card-back.jpg" mode="widthFix" class="cback"></image>
 				<image :src="item.imgUrl" lazy-load mode="widthFix" class="img" v-if="showImgType == null"></image>
 				<image :src="item.enImgUrl" lazy-load mode="widthFix" class="img" v-else></image>
 			</div>
@@ -25,7 +25,7 @@
 		</div>
 	</div>
 	<div v-if="!isLoading && detList.length == 0" class="empty">
-		<image src="@/static/img/pikachu.png" mode="widthFix" class="img"></image>
+		<image src="../img/pikachu.png" mode="widthFix" class="img"></image>
 		暂无数据
 	</div>
 	<div class="popups" v-show="isShowFilter">
@@ -78,7 +78,7 @@
 <script setup>
 	import { ref } from 'vue'
   import { onLoad } from '@dcloudio/uni-app'
-	import { returnPMType } from '../../common/js/returnCHN'
+	import { returnPMType } from './js/returnCHN'
 
 	const typeList = returnPMType('all');
 
@@ -102,21 +102,21 @@
 		sno = options.no;
 		serName.value = decodeURIComponent(options.sname);
 		switch(sno) {
-			case 'SV3.5': import('../../common/js/SV3_5.json').then((res) => {getData(res)}); break;
-			case 'SV3': import('../../common/js/SV3.json').then((res) => {getData(res)}); break;
-			case 'SV2': import('../../common/js/SV2.json').then((res) => {getData(res)}); break;
-			case 'SV1': import('../../common/js/SV1.json').then((res) => {getData(res)}); break;
-			case 'SS12.5': import('../../common/js/SS12_5.json').then((res) => {getData(res)}); break;
-			case 'SS12': import('../../common/js/SS12.json').then((res) => {getData(res)}); break;
-			case 'SS11': import('../../common/js/SS11.json').then((res) => {getData(res)}); break;
-			case 'SS10.5': import('../../common/js/SS10_5.json').then((res) => {getData(res)}); break;
-			case 'SS10': import('../../common/js/SS10.json').then((res) => {getData(res)}); break;
-			case 'SS9': import('../../common/js/SS9.json').then((res) => {getData(res)}); break;
-			case 'SS8': import('../../common/js/SS8.json').then((res) => {getData(res)}); break;
-			case 'SS7.5': import('../../common/js/SS7_5.json').then((res) => {getData(res)}); break;
-			case 'SS7': import('../../common/js/SS7.json').then((res) => {getData(res)}); break;
-			case 'SS6': import('../../common/js/SS6.json').then((res) => {getData(res)}); break;
-			case 'SS5': import('../../common/js/SS5.json').then((res) => {getData(res)}); break;
+			case 'SV3.5': import('./json/SV3_5.json').then((res) => {getData(res)}); break;
+			case 'SV3': import('./json/SV3.json').then((res) => {getData(res)}); break;
+			case 'SV2': import('./json/SV2.json').then((res) => {getData(res)}); break;
+			case 'SV1': import('./json/SV1.json').then((res) => {getData(res)}); break;
+			case 'SS12.5': import('./json/SS12_5.json').then((res) => {getData(res)}); break;
+			case 'SS12': import('./json/SS12.json').then((res) => {getData(res)}); break;
+			case 'SS11': import('./json/SS11.json').then((res) => {getData(res)}); break;
+			case 'SS10.5': import('./json/SS10_5.json').then((res) => {getData(res)}); break;
+			case 'SS10': import('./json/SS10.json').then((res) => {getData(res)}); break;
+			case 'SS9': import('./json/SS9.json').then((res) => {getData(res)}); break;
+			case 'SS8': import('./json/SS8.json').then((res) => {getData(res)}); break;
+			case 'SS7.5': import('./json/SS7_5.json').then((res) => {getData(res)}); break;
+			case 'SS7': import('./json/SS7.json').then((res) => {getData(res)}); break;
+			case 'SS6': import('./json/SS6.json').then((res) => {getData(res)}); break;
+			case 'SS5': import('./json/SS5.json').then((res) => {getData(res)}); break;
 			default: isLoading.value = false; break
 		}
 		let t = uni.getStorageSync('imgType');

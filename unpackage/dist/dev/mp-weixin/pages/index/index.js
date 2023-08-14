@@ -28,7 +28,7 @@ const _sfc_main = {
         return;
       }
       common_vendor.index.navigateTo({
-        url: `/pages/seriesDet/index?no=${item.no}&sname=${encodeURIComponent(item.name)}`,
+        url: `/subpackages/pages/seriesDet/index?no=${item.no}&sname=${encodeURIComponent(item.name)}`,
         success: (res) => {
         },
         fail: () => {

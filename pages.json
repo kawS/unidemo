@@ -1,24 +1,20 @@
 {
 	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
 		{
-			"path": "pages/index/index",
-			"style": {
-				// "navigationBarTitleText": ""
-			}
+			"path": "pages/index/index"
 		},
 		{
-			"path" : "pages/seriesDet/index",
-			"style" :                                                                                    
-			{
-				// "navigationBarTitleText": ""
-			}
-		},
+			"path" : "pages/webview/index"
+		}
+	],
+	"subpackages": [
 		{
-			"path" : "pages/webview/index",
-			"style" :                                                                                    
-			{
-				// "navigationBarTitleText": ""
-			}
+			"root": "subpackages",
+			"pages": [
+				{
+					"path": "pages/seriesDet/index"
+				}
+			]
 		}
 	],
 	"globalStyle": {

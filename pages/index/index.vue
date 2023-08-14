@@ -68,7 +68,7 @@
       return
     }
     uni.navigateTo({
-			url: `/pages/seriesDet/index?no=${item.no}&sname=${encodeURIComponent(item.name)}`,
+			url: `/subpackages/pages/seriesDet/index?no=${item.no}&sname=${encodeURIComponent(item.name)}`,
 			success: res => {},
 			fail: () => {},
 			complete: () => {}
