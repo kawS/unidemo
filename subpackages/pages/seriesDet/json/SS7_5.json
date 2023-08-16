@@ -21,7 +21,9 @@
         "effect": "选择1个这只宝可梦身上附加的能量，将其丢弃。"
       }
     ],
-    "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_1.png"
+    "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_1.png",
+    "gameNo": "001",
+    "ename": "Ho-Oh"
   },
   {
     "id": "2080",
@@ -45,7 +47,9 @@
         "effect": "若自己的备战区有「捷克罗姆」，则增加80点伤害。"
       }
     ],
-    "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_2.png"
+    "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_2.png",
+    "gameNo": "002",
+    "ename": "Reshiram"
   },
   {
     "id": "2077",
@@ -69,7 +73,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_3.png"
+    "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_3.png",
+    "gameNo": "003",
+    "ename": "Kyogre"
   },
   {
     "id": "2079",
@@ -93,7 +99,9 @@
         "effect": "在下个自己的回合，这只宝可梦「超频击碎」的伤害「+80」点。"
       }
     ],
-    "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_4.png"
+    "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_4.png",
+    "gameNo": "004",
+    "ename": "Palkia"
   },
   {
     "id": "2071",
@@ -117,7 +125,9 @@
         "effect": "掷1次硬币若为反面，则这只宝可梦也受到10点伤害。"
       }
     ],
-    "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_5.png"
+    "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_5.png",
+    "gameNo": "005",
+    "ename": "Pikachu"
   },
   {
     "id": "2093",
@@ -145,7 +155,9 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_6.png"
+    "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_6.png",
+    "gameNo": "006",
+    "ename": "Flying Pikachu V"
   },
   {
     "id": "2094",
@@ -169,7 +181,9 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_7.png"
+    "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_7.png",
+    "gameNo": "007",
+    "ename": "Flying Pikachu VMAX"
   },
   {
     "id": "2091",
@@ -193,7 +207,9 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_8.png"
+    "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_8.png",
+    "gameNo": "008",
+    "ename": "Surfing Pikachu V"
   },
   {
     "id": "2092",
@@ -217,7 +233,9 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_9.png"
+    "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_9.png",
+    "gameNo": "009",
+    "ename": "Surfing Pikachu VMAX"
   },
   {
     "id": "2081",
@@ -241,7 +259,9 @@
         "effect": "若自己的备战区有「莱希拉姆」，则增加80点伤害。"
       }
     ],
-    "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_10.png"
+    "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_10.png",
+    "gameNo": "010",
+    "ename": "Zekrom"
   },
   {
     "id": "2072",
@@ -265,7 +285,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_11.png"
+    "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_11.png",
+    "gameNo": "011",
+    "ename": "Mew"
   },
   {
     "id": "2082",
@@ -289,7 +311,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_12.png"
+    "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_12.png",
+    "gameNo": "012",
+    "ename": "Xerneas"
   },
   {
     "id": "2084",
@@ -309,7 +333,9 @@
         "effect": "掷1次硬币若为正面，则在下个对手的回合，这只宝可梦不会受到招式的伤害。"
       }
     ],
-    "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_13.png"
+    "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_13.png",
+    "gameNo": "013",
+    "ename": "Cosmog"
   },
   {
     "id": "2085",
@@ -329,7 +355,9 @@
         "effect": "掷1次硬币若为正面，则在下个对手的回合，这只宝可梦不会受到招式的伤害。"
       }
     ],
-    "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_14.png"
+    "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_14.png",
+    "gameNo": "014",
+    "ename": "Cosmoem"
   },
   {
     "id": "2087",
@@ -353,7 +381,9 @@
         "effect": "对手的1只备战宝可梦也受到30点伤害。[在备战区不计算弱点・抵抗力。]"
       }
     ],
-    "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_15.png"
+    "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_15.png",
+    "gameNo": "015",
+    "ename": "Lunala"
   },
   {
     "id": "2088",
@@ -381,7 +411,9 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_16.png"
+    "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_16.png",
+    "gameNo": "016",
+    "ename": "Zacian V"
   },
   {
     "id": "2076",
@@ -405,7 +437,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_17.png"
+    "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_17.png",
+    "gameNo": "017",
+    "ename": "Groudon"
   },
   {
     "id": "2089",
@@ -433,7 +467,9 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_18.png"
+    "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_18.png",
+    "gameNo": "018",
+    "ename": "Zamazenta V"
   },
   {
     "id": "2083",
@@ -457,7 +493,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_19.png"
+    "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_19.png",
+    "gameNo": "019",
+    "ename": "Yveltal"
   },
   {
     "id": "2078",
@@ -481,7 +519,9 @@
         "effect": "增加这只宝可梦身上附加的【钢】能量的数量×20点伤害。"
       }
     ],
-    "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_20.png"
+    "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_20.png",
+    "gameNo": "020",
+    "ename": "Dialga"
   },
   {
     "id": "2086",
@@ -505,7 +545,9 @@
         "effect": "从自己的弃牌区选择最多2张基本能量卡，附于1只备战宝可梦身上。"
       }
     ],
-    "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_21.png"
+    "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_21.png",
+    "gameNo": "021",
+    "ename": "Solgaleo"
   },
   {
     "id": "2075",
@@ -529,7 +571,9 @@
         "effect": "在下个自己的回合，这只宝可梦无法使用招式。"
       }
     ],
-    "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_22.png"
+    "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_22.png",
+    "gameNo": "022",
+    "ename": "Lugia"
   },
   {
     "id": "2073",
@@ -547,6 +591,8 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_23.png"
+    "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_23.png",
+    "gameNo": "023",
+    "ename": "Professor's Research"
   }
 ]

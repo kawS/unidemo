@@ -21,7 +21,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_1.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_1.jpg",
+    "gameNo": "001",
+    "ename": "Exeggcute"
   },
   {
     "id": "5413",
@@ -45,7 +47,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_2.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_2.jpg",
+    "gameNo": "002",
+    "ename": "Exeggutor"
   },
   {
     "id": "5414",
@@ -65,7 +69,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_3.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_3.jpg",
+    "gameNo": "003",
+    "ename": "Shroomish"
   },
   {
     "id": "5415",
@@ -89,7 +95,9 @@
         "effect": "这个招式必须在上个自己的回合这只宝可梦使用了「孢子弹」才可使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_4.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_4.jpg",
+    "gameNo": "004",
+    "ename": "Breloom"
   },
   {
     "id": "5416",
@@ -113,7 +121,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_5.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_5.jpg",
+    "gameNo": "005",
+    "ename": "Tropius"
   },
   {
     "id": "5417",
@@ -137,7 +147,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_6.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_6.jpg",
+    "gameNo": "006",
+    "ename": "Turtwig"
   },
   {
     "id": "5418",
@@ -161,7 +173,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_7.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_7.jpg",
+    "gameNo": "007",
+    "ename": "Grotle"
   },
   {
     "id": "5419",
@@ -185,7 +199,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_8.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_8.jpg",
+    "gameNo": "008",
+    "ename": "Torterra"
   },
   {
     "id": "5420",
@@ -205,7 +221,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_9.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_9.jpg",
+    "gameNo": "009",
+    "ename": "Burmy"
   },
   {
     "id": "5421",
@@ -229,7 +247,9 @@
         "effect": "将这只宝可梦恢复「30」HP。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_10.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_10.jpg",
+    "gameNo": "010",
+    "ename": "Wormadam"
   },
   {
     "id": "5422",
@@ -253,7 +273,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_11.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_11.jpg",
+    "gameNo": "011",
+    "ename": "Mothim"
   },
   {
     "id": "5196",
@@ -277,7 +299,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_12.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_12.jpg",
+    "gameNo": "012",
+    "ename": "Cherubi"
   },
   {
     "id": "5423",
@@ -305,7 +329,9 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_13.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_13.jpg",
+    "gameNo": "013",
+    "ename": "Shaymin V"
   },
   {
     "id": "5424",
@@ -333,7 +359,9 @@
         "effect": "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_14.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_14.jpg",
+    "gameNo": "014",
+    "ename": "Shaymin VSTAR"
   },
   {
     "id": "5654",
@@ -353,7 +381,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_15.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_15.jpg",
+    "gameNo": "015",
+    "ename": "Karrablast"
   },
   {
     "id": "5674",
@@ -381,7 +411,9 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_16.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_16.jpg",
+    "gameNo": "016",
+    "ename": "ZarudeV"
   },
   {
     "id": "5425",
@@ -409,7 +441,9 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_17.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_17.jpg",
+    "gameNo": "017",
+    "ename": "Charizard V"
   },
   {
     "id": "5426",
@@ -437,7 +471,9 @@
         "effect": "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_18.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_18.jpg",
+    "gameNo": "018",
+    "ename": "Charizard VSTAR"
   },
   {
     "id": "5427",
@@ -461,7 +497,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_19.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_19.jpg",
+    "gameNo": "019",
+    "ename": "Magmar"
   },
   {
     "id": "5428",
@@ -485,7 +523,9 @@
         "effect": "若自己的备战区有「电击魔兽」，则增加120点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_20.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_20.jpg",
+    "gameNo": "020",
+    "ename": "Magmortar"
   },
   {
     "id": "5429",
@@ -505,7 +545,9 @@
         "effect": "若这只宝可梦身上放置有伤害指示物，则增加70点伤害。这个招式的伤害不计算弱点。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_21.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_21.jpg",
+    "gameNo": "021",
+    "ename": "Moltres"
   },
   {
     "id": "5685",
@@ -533,7 +575,9 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_22.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_22.jpg",
+    "gameNo": "022",
+    "ename": "Entei V"
   },
   {
     "id": "5687",
@@ -557,7 +601,9 @@
         "effect": "在下个对手的回合，这只宝可梦受到招式的伤害「-30」点。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_23.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_23.jpg",
+    "gameNo": "023",
+    "ename": "Torkoal"
   },
   {
     "id": "5430",
@@ -577,7 +623,9 @@
         "effect": "选择1个这只宝可梦身上附加的能量，将其丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_24.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_24.jpg",
+    "gameNo": "024",
+    "ename": "Chimchar"
   },
   {
     "id": "5431",
@@ -601,7 +649,9 @@
         "effect": "选择1个这只宝可梦身上附加的能量，将其丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_25.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_25.jpg",
+    "gameNo": "025",
+    "ename": "Monferno"
   },
   {
     "id": "5432",
@@ -625,7 +675,9 @@
         "effect": "将这只宝可梦身上附加的能量全部丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_26.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_26.jpg",
+    "gameNo": "026",
+    "ename": "Infernape"
   },
   {
     "id": "5692",
@@ -653,7 +705,9 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_27.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_27.jpg",
+    "gameNo": "027",
+    "ename": "SimisearV"
   },
   {
     "id": "5709",
@@ -681,7 +735,9 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_28.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_28.jpg",
+    "gameNo": "028",
+    "ename": "KinglerV"
   },
   {
     "id": "5710",
@@ -709,7 +765,9 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_29.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_29.jpg",
+    "gameNo": "029",
+    "ename": "KinglerVMAX"
   },
   {
     "id": "5714",
@@ -729,7 +787,9 @@
         "effect": "掷2次硬币，造成正面出现的次数×10点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_30.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_30.jpg",
+    "gameNo": "030",
+    "ename": "Staryu"
   },
   {
     "id": "5433",
@@ -749,7 +809,9 @@
         "effect": "若在上个对手的回合，自己的宝可梦因招式的伤害而【气绝】了，则将对手的战斗宝可梦【麻痺】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_31.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_31.jpg",
+    "gameNo": "031",
+    "ename": "Lapras"
   },
   {
     "id": "5434",
@@ -773,7 +835,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_32.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_32.jpg",
+    "gameNo": "032",
+    "ename": "Corphish"
   },
   {
     "id": "5435",
@@ -797,7 +861,9 @@
         "effect": "选择2个这只宝可梦身上附加的能量，将其丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_33.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_33.jpg",
+    "gameNo": "033",
+    "ename": "Crawdaunt"
   },
   {
     "id": "5225",
@@ -821,7 +887,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_34.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_34.jpg",
+    "gameNo": "034",
+    "ename": "Snorunt"
   },
   {
     "id": "5436",
@@ -841,7 +909,9 @@
         "effect": "掷1次硬币若为正面，则将对手的战斗宝可梦【麻痺】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_35.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_35.jpg",
+    "gameNo": "035",
+    "ename": "Piplup"
   },
   {
     "id": "5437",
@@ -861,7 +931,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_36.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_36.jpg",
+    "gameNo": "036",
+    "ename": "Prinplup"
   },
   {
     "id": "5438",
@@ -885,7 +957,9 @@
         "effect": "对手的1只宝可梦受到60点伤害。[在备战区不计算弱点・抵抗力。]"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_37.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_37.jpg",
+    "gameNo": "037",
+    "ename": "EmpoleonH"
   },
   {
     "id": "5439",
@@ -905,7 +979,9 @@
         "effect": "掷1次硬币若为正面，则在下个对手的回合，这只宝可梦不会受到招式的伤害与效果的影响。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_38.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_38.jpg",
+    "gameNo": "038",
+    "ename": "Buizel"
   },
   {
     "id": "5440",
@@ -929,7 +1005,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_39.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_39.jpg",
+    "gameNo": "039",
+    "ename": "Floatzel"
   },
   {
     "id": "5441",
@@ -957,7 +1035,9 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_40.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_40.jpg",
+    "gameNo": "040",
+    "ename": "LumineonV"
   },
   {
     "id": "5442",
@@ -981,7 +1061,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_41.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_41.jpg",
+    "gameNo": "041",
+    "ename": "Manaphy"
   },
   {
     "id": "5443",
@@ -1001,7 +1083,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_42.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_42.jpg",
+    "gameNo": "042",
+    "ename": "Cubchoo"
   },
   {
     "id": "5444",
@@ -1025,7 +1109,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_43.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_43.jpg",
+    "gameNo": "043",
+    "ename": "Beartic"
   },
   {
     "id": "5232",
@@ -1049,7 +1135,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_44.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_44.jpg",
+    "gameNo": "044",
+    "ename": "Eiscue"
   },
   {
     "id": "5445",
@@ -1077,7 +1165,9 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_45.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_45.jpg",
+    "gameNo": "045",
+    "ename": "Raichu V"
   },
   {
     "id": "5446",
@@ -1101,7 +1191,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_46.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_46.jpg",
+    "gameNo": "046",
+    "ename": "Electabuzz"
   },
   {
     "id": "5447",
@@ -1125,7 +1217,9 @@
         "effect": "对手的所有宝可梦各受到50点伤害。[在备战区不计算弱点・抵抗力。]"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_47.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_47.jpg",
+    "gameNo": "047",
+    "ename": "Electivire"
   },
   {
     "id": "5766",
@@ -1153,7 +1247,9 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_48.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_48.jpg",
+    "gameNo": "048",
+    "ename": "Raikou V"
   },
   {
     "id": "5448",
@@ -1173,7 +1269,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_49.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_49.jpg",
+    "gameNo": "049",
+    "ename": "Shinx"
   },
   {
     "id": "5449",
@@ -1193,7 +1291,9 @@
         "effect": "掷1次硬币若为正面，则将对手的战斗宝可梦【麻痺】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_50.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_50.jpg",
+    "gameNo": "050",
+    "ename": "Luxio"
   },
   {
     "id": "5450",
@@ -1217,7 +1317,9 @@
         "effect": "自己的1只备战宝可梦也受到30点伤害。[在备战区不计算弱点・抵抗力。]"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_51.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_51.jpg",
+    "gameNo": "051",
+    "ename": "Luxray"
   },
   {
     "id": "5451",
@@ -1237,7 +1339,9 @@
         "effect": "造成自己的场上宝可梦身上附加的「宝可梦道具」的数量×30点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_52.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_52.jpg",
+    "gameNo": "052",
+    "ename": "Pachirisu"
   },
   {
     "id": "5452",
@@ -1261,7 +1365,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_53.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_53.jpg",
+    "gameNo": "053",
+    "ename": "Clefairy"
   },
   {
     "id": "5453",
@@ -1285,7 +1391,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_54.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_54.jpg",
+    "gameNo": "054",
+    "ename": "Clefable"
   },
   {
     "id": "5795",
@@ -1296,7 +1404,7 @@
       "身高1.1/体重80",
       "释放强烈的精神力量时，被称为核心的器官就会闪烁七彩光芒。"
     ],
-    "typeEnergy": "Water",
+    "typeEnergy": "Psychic",
     "type": "Pokemon",
     "cardName": "宝石海星",
     "skillList": [
@@ -1309,7 +1417,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_55.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_55.jpg",
+    "gameNo": "055",
+    "ename": "Starmie"
   },
   {
     "id": "5798",
@@ -1333,7 +1443,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_56.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_56.jpg",
+    "gameNo": "056",
+    "ename": "Mewtwo"
   },
   {
     "id": "5802",
@@ -1361,7 +1473,9 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_57.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_57.jpg",
+    "gameNo": "057",
+    "ename": "Granbull V"
   },
   {
     "id": "5454",
@@ -1381,7 +1495,9 @@
         "effect": "掷3次硬币，造成正面出现的次数×20点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_58.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_58.jpg",
+    "gameNo": "058",
+    "ename": "Baltoy"
   },
   {
     "id": "5455",
@@ -1405,7 +1521,9 @@
         "effect": "若自己的备战宝可梦与对手的备战宝可梦数量相同，则增加90点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_59.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_59.jpg",
+    "gameNo": "059",
+    "ename": "Claydol"
   },
   {
     "id": "5456",
@@ -1425,7 +1543,9 @@
         "effect": "掷1次硬币若为正面，则将对手的战斗宝可梦【混乱】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_60.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_60.jpg",
+    "gameNo": "060",
+    "ename": "Duskull"
   },
   {
     "id": "5457",
@@ -1445,7 +1565,9 @@
         "effect": "将对手的战斗宝可梦【混乱】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_61.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_61.jpg",
+    "gameNo": "061",
+    "ename": "Dusdops"
   },
   {
     "id": "5458",
@@ -1469,7 +1591,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_62.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_62.jpg",
+    "gameNo": "062",
+    "ename": "DusknoirH"
   },
   {
     "id": "5459",
@@ -1493,7 +1617,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_63.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_63.jpg",
+    "gameNo": "063",
+    "ename": "Chimecho"
   },
   {
     "id": "5460",
@@ -1521,7 +1647,9 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_64.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_64.jpg",
+    "gameNo": "064",
+    "ename": "WhimsicottV"
   },
   {
     "id": "5461",
@@ -1549,7 +1677,9 @@
         "effect": "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_65.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_65.jpg",
+    "gameNo": "065",
+    "ename": "Whimsicott VSTAR"
   },
   {
     "id": "5462",
@@ -1573,7 +1703,9 @@
         "effect": "增加对手的战斗宝可梦身上附加的能量的数量×30点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_66.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_66.jpg",
+    "gameNo": "066",
+    "ename": "Sigilyph"
   },
   {
     "id": "5261",
@@ -1593,7 +1725,9 @@
         "effect": "若对手剩余奖赏卡的张数为1张，则增加60点伤害，并将对手的战斗宝可梦【混乱】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_67.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_67.jpg",
+    "gameNo": "067",
+    "ename": "Dedenne"
   },
   {
     "id": "5264",
@@ -1621,7 +1755,9 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_68.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_68.jpg",
+    "gameNo": "068",
+    "ename": "MimikyuV"
   },
   {
     "id": "5265",
@@ -1649,7 +1785,9 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_69.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_69.jpg",
+    "gameNo": "069",
+    "ename": "MimikyuVMAX"
   },
   {
     "id": "5268",
@@ -1673,7 +1811,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_70.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_70.jpg",
+    "gameNo": "070",
+    "ename": "Milcery"
   },
   {
     "id": "5269",
@@ -1697,7 +1837,9 @@
         "effect": "增加自己的场上宝可梦身上附加的基本能量的属性种类的数量×40点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_71.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_71.jpg",
+    "gameNo": "071",
+    "ename": "Alcremie"
   },
   {
     "id": "5846",
@@ -1721,7 +1863,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_72.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_72.jpg",
+    "gameNo": "072",
+    "ename": "Hitmontop"
   },
   {
     "id": "5463",
@@ -1741,7 +1885,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_73.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_73.jpg",
+    "gameNo": "073",
+    "ename": "Nosepass"
   },
   {
     "id": "5850",
@@ -1761,7 +1907,9 @@
         "effect": "掷1次硬币若为正面，则增加10点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_74.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_74.jpg",
+    "gameNo": "074",
+    "ename": "Trapinch"
   },
   {
     "id": "5851",
@@ -1781,7 +1929,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_75.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_75.jpg",
+    "gameNo": "075",
+    "ename": "Vibrava"
   },
   {
     "id": "5852",
@@ -1805,7 +1955,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_76.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_76.jpg",
+    "gameNo": "076",
+    "ename": "Flygon"
   },
   {
     "id": "5464",
@@ -1829,7 +1981,9 @@
         "effect": "在下个对手的回合，受到这个招式的宝可梦无法撤退。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_77.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_77.jpg",
+    "gameNo": "077",
+    "ename": "Wormadam"
   },
   {
     "id": "5465",
@@ -1849,7 +2003,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_78.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_78.jpg",
+    "gameNo": "078",
+    "ename": "Riolu"
   },
   {
     "id": "5466",
@@ -1873,7 +2029,9 @@
         "effect": "将这只宝可梦身上附加的【斗】能量全部丢弃，增加其张数×60点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_79.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_79.jpg",
+    "gameNo": "079",
+    "ename": "Lucario"
   },
   {
     "id": "5467",
@@ -1897,7 +2055,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_80.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_80.jpg",
+    "gameNo": "080",
+    "ename": "Throh"
   },
   {
     "id": "5468",
@@ -1917,7 +2077,9 @@
         "effect": "掷1次硬币若为正面，则选择1个对手的战斗宝可梦身上附加的能量，将其丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_81.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_81.jpg",
+    "gameNo": "081",
+    "ename": "Sawk"
   },
   {
     "id": "5469",
@@ -1941,7 +2103,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_82.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_82.jpg",
+    "gameNo": "082",
+    "ename": "Golett"
   },
   {
     "id": "5470",
@@ -1965,7 +2129,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_83.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_83.jpg",
+    "gameNo": "083",
+    "ename": "Golurk"
   },
   {
     "id": "5471",
@@ -1985,7 +2151,9 @@
         "effect": "将对手的战斗宝可梦【中毒】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_84.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_84.jpg",
+    "gameNo": "084",
+    "ename": "G rimer"
   },
   {
     "id": "5472",
@@ -2009,7 +2177,9 @@
         "effect": "将对手的战斗宝可梦【中毒】与【混乱】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_85.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_85.jpg",
+    "gameNo": "085",
+    "ename": "Muk"
   },
   {
     "id": "5473",
@@ -2033,7 +2203,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_86.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_86.jpg",
+    "gameNo": "086",
+    "ename": "Sneasel"
   },
   {
     "id": "5474",
@@ -2057,7 +2229,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_87.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_87.jpg",
+    "gameNo": "087",
+    "ename": "Weavile"
   },
   {
     "id": "5475",
@@ -2085,7 +2259,9 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_88.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_88.jpg",
+    "gameNo": "088",
+    "ename": "HonchkrowV"
   },
   {
     "id": "5476",
@@ -2109,7 +2285,9 @@
         "effect": "将2个伤害指示物以任意方式放置于对手的宝可梦身上。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_89.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_89.jpg",
+    "gameNo": "089",
+    "ename": "Spiritomb"
   },
   {
     "id": "5898",
@@ -2129,7 +2307,9 @@
         "effect": "掷1次硬币若为反面，则这个招式失败。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_90.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_90.jpg",
+    "gameNo": "090",
+    "ename": "Purrloin"
   },
   {
     "id": "5899",
@@ -2153,7 +2333,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_91.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_91.jpg",
+    "gameNo": "091",
+    "ename": "Liepard"
   },
   {
     "id": "5913",
@@ -2177,7 +2359,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_92.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_92.jpg",
+    "gameNo": "092",
+    "ename": "Impidimp"
   },
   {
     "id": "5914",
@@ -2201,7 +2385,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_93.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_93.jpg",
+    "gameNo": "093",
+    "ename": "Morgrem"
   },
   {
     "id": "5915",
@@ -2225,7 +2411,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_94.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_94.jpg",
+    "gameNo": "094",
+    "ename": "Grimmsnarl"
   },
   {
     "id": "5917",
@@ -2253,7 +2441,9 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_95.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_95.jpg",
+    "gameNo": "095",
+    "ename": "Morpeko V"
   },
   {
     "id": "5926",
@@ -2281,7 +2471,9 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_96.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_96.jpg",
+    "gameNo": "096",
+    "ename": "Aggron V"
   },
   {
     "id": "5927",
@@ -2309,7 +2501,9 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_97.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_97.jpg",
+    "gameNo": "097",
+    "ename": "Aggron VMAX"
   },
   {
     "id": "5477",
@@ -2333,7 +2527,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_98.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_98.jpg",
+    "gameNo": "098",
+    "ename": "Wormadam"
   },
   {
     "id": "5478",
@@ -2357,7 +2553,9 @@
         "effect": "这只宝可梦也受到20点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_99.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_99.jpg",
+    "gameNo": "099",
+    "ename": "Probopass"
   },
   {
     "id": "5479",
@@ -2381,7 +2579,9 @@
         "effect": "若这只宝可梦身上附有【火】能量，则增加80点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_100.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_100.jpg",
+    "gameNo": "100",
+    "ename": "Heatran"
   },
   {
     "id": "5932",
@@ -2405,7 +2605,9 @@
         "effect": "对手的1只备战宝可梦也受到30点伤害。[在备战区不计算弱点・抵抗力。]"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_101.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_101.jpg",
+    "gameNo": "101",
+    "ename": "Escavalier"
   },
   {
     "id": "5480",
@@ -2429,7 +2631,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_102.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_102.jpg",
+    "gameNo": "102",
+    "ename": "Klink"
   },
   {
     "id": "5481",
@@ -2453,7 +2657,9 @@
         "effect": "在下个对手的回合，这只宝可梦受到招式的伤害「-30」点。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_103.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_103.jpg",
+    "gameNo": "103",
+    "ename": "Klang"
   },
   {
     "id": "5482",
@@ -2477,7 +2683,9 @@
         "effect": "掷1次硬币若为正面，则增加90点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_104.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_104.jpg",
+    "gameNo": "104",
+    "ename": "Klinklang"
   },
   {
     "id": "5940",
@@ -2488,7 +2696,7 @@
       "",
       ""
     ],
-    "typeEnergy": "Fighting",
+    "typeEnergy": "Metal",
     "type": "Pokemon",
     "cardName": "藏玛然特V",
     "skillList": [
@@ -2505,7 +2713,9 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_105.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_105.jpg",
+    "gameNo": "105",
+    "ename": "Zamazenta V"
   },
   {
     "id": "5483",
@@ -2533,7 +2743,9 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_106.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_106.jpg",
+    "gameNo": "106",
+    "ename": "Flygon V"
   },
   {
     "id": "5484",
@@ -2553,7 +2765,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_107.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_107.jpg",
+    "gameNo": "107",
+    "ename": "Gible"
   },
   {
     "id": "5485",
@@ -2573,7 +2787,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_108.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_108.jpg",
+    "gameNo": "108",
+    "ename": "Gabite"
   },
   {
     "id": "5486",
@@ -2597,7 +2813,9 @@
         "effect": "将自己的牌库上方2张卡丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_109.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_109.jpg",
+    "gameNo": "109",
+    "ename": "Garchomp"
   },
   {
     "id": "5944",
@@ -2617,7 +2835,9 @@
         "effect": "掷1次硬币若为正面，则从自己的牌库选择1张「双斧战龙」卡，放置于这只「牙牙」身上完成进化。并且重洗牌库。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_110.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_110.jpg",
+    "gameNo": "110",
+    "ename": "Axew"
   },
   {
     "id": "5945",
@@ -2641,7 +2861,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_111.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_111.jpg",
+    "gameNo": "111",
+    "ename": "Fraxure"
   },
   {
     "id": "5946",
@@ -2665,7 +2887,9 @@
         "effect": "这只宝可梦也受到30点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_112.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_112.jpg",
+    "gameNo": "112",
+    "ename": "Haxorus"
   },
   {
     "id": "5309",
@@ -2689,7 +2913,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_113.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_113.jpg",
+    "gameNo": "113",
+    "ename": "Druddigon"
   },
   {
     "id": "5581",
@@ -2717,7 +2943,9 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_114.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_114.jpg",
+    "gameNo": "114",
+    "ename": "Dracovish V"
   },
   {
     "id": "5487",
@@ -2737,7 +2965,9 @@
         "effect": "增加对手的战斗宝可梦身上放置的伤害指示物的数量×10点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_115.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_115.jpg",
+    "gameNo": "115",
+    "ename": "Farfetch'd"
   },
   {
     "id": "5488",
@@ -2761,7 +2991,9 @@
         "effect": "选择1个这只宝可梦身上附加的基本能量，改附于备战宝可梦身上。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_116.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_116.jpg",
+    "gameNo": "116",
+    "ename": "Castform"
   },
   {
     "id": "5489",
@@ -2781,7 +3013,9 @@
         "effect": "掷1次硬币若为反面，则这个招式失败。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_117.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_117.jpg",
+    "gameNo": "117",
+    "ename": "Starly"
   },
   {
     "id": "5490",
@@ -2801,7 +3035,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_118.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_118.jpg",
+    "gameNo": "118",
+    "ename": "Staravia"
   },
   {
     "id": "5491",
@@ -2825,7 +3061,9 @@
         "effect": "选择2个这只宝可梦身上附加的能量，将其丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_119.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_119.jpg",
+    "gameNo": "119",
+    "ename": "Sta raptor"
   },
   {
     "id": "5492",
@@ -2845,7 +3083,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_120.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_120.jpg",
+    "gameNo": "120",
+    "ename": "Bidoof"
   },
   {
     "id": "5493",
@@ -2869,7 +3109,9 @@
         "effect": "掷1次硬币若为反面，则这个招式失败。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_121.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_121.jpg",
+    "gameNo": "121",
+    "ename": "Bibarel"
   },
   {
     "id": "5494",
@@ -2897,7 +3139,9 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_122.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_122.jpg",
+    "gameNo": "122",
+    "ename": "ArceusV"
   },
   {
     "id": "5495",
@@ -2925,7 +3169,9 @@
         "effect": "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_123.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_123.jpg",
+    "gameNo": "123",
+    "ename": "Arceus VSTAR"
   },
   {
     "id": "5496",
@@ -2949,7 +3195,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_124.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_124.jpg",
+    "gameNo": "124",
+    "ename": "Minccino"
   },
   {
     "id": "5497",
@@ -2973,7 +3221,9 @@
         "effect": "掷3次硬币，造成正面出现的次数×50点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_125.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_125.jpg",
+    "gameNo": "125",
+    "ename": "Cinccino"
   },
   {
     "id": "5498",
@@ -2997,7 +3247,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_126.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_126.jpg",
+    "gameNo": "126",
+    "ename": "Tornadus"
   },
   {
     "id": "5983",
@@ -3021,7 +3273,9 @@
         "effect": "若对手的战斗宝可梦为进化宝可梦，则增加30点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_127.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_127.jpg",
+    "gameNo": "127",
+    "ename": "Hawlucha"
   },
   {
     "id": "5985",
@@ -3049,7 +3303,9 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_128.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_128.jpg",
+    "gameNo": "128",
+    "ename": "Dram pa V"
   },
   {
     "id": "5509",
@@ -3067,7 +3323,9 @@
         "effect": "在自己的回合时，只可将1张竞技场卡放置于战斗场旁边。若其他名称的竞技场卡被放置，则将这张卡丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_137.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_137.jpg",
+    "gameNo": "137",
+    "ename": "Collapsed Stadium"
   },
   {
     "id": "5510",
@@ -3085,7 +3343,9 @@
         "effect": "在自己的回合时，只可将1张竞技场卡放置于战斗场旁边。若其他名称的竞技场卡被放置，则将这张卡丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_144.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_144.jpg",
+    "gameNo": "144",
+    "ename": "Magma Basin"
   },
   {
     "id": "5336",
@@ -3103,7 +3363,9 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_129.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_129.jpg",
+    "gameNo": "129",
+    "ename": "Acerola's Premonition"
   },
   {
     "id": "6025",
@@ -3121,7 +3383,9 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_130.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_130.jpg",
+    "gameNo": "130",
+    "ename": "Barry"
   },
   {
     "id": "5508",
@@ -3139,7 +3403,9 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_132.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_132.jpg",
+    "gameNo": "132",
+    "ename": "Boss's Orders (Cyrus)"
   },
   {
     "id": "5347",
@@ -3157,7 +3423,9 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_133.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_133.jpg",
+    "gameNo": "133",
+    "ename": "Cafe Master"
   },
   {
     "id": "5505",
@@ -3175,7 +3443,9 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_134.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_134.jpg",
+    "gameNo": "134",
+    "ename": "Cheren's Care"
   },
   {
     "id": "5504",
@@ -3193,7 +3463,9 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_138.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_138.jpg",
+    "gameNo": "138",
+    "ename": "Cynthia's Ambition"
   },
   {
     "id": "5337",
@@ -3211,7 +3483,9 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_140.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_140.jpg",
+    "gameNo": "140",
+    "ename": "Friends in Galar"
   },
   {
     "id": "5351",
@@ -3229,7 +3503,9 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_141.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_141.jpg",
+    "gameNo": "141",
+    "ename": "Gloria"
   },
   {
     "id": "5503",
@@ -3247,7 +3523,9 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_143.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_143.jpg",
+    "gameNo": "143",
+    "ename": "Kindler"
   },
   {
     "id": "6034",
@@ -3265,7 +3543,9 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_145.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_145.jpg",
+    "gameNo": "145",
+    "ename": "Mamie's Pride"
   },
   {
     "id": "5506",
@@ -3283,7 +3563,9 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_147.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_147.jpg",
+    "gameNo": "147",
+    "ename": "Professor's Research (Professor Rowan)"
   },
   {
     "id": "5507",
@@ -3301,7 +3583,9 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_148.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_148.jpg",
+    "gameNo": "148",
+    "ename": "Roseanne's Backup"
   },
   {
     "id": "6014",
@@ -3319,7 +3603,9 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_149.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_149.jpg",
+    "gameNo": "149",
+    "ename": "Team Yell's Cheer"
   },
   {
     "id": "5583",
@@ -3341,7 +3627,9 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_131.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_131.jpg",
+    "gameNo": "131",
+    "ename": "Blunder Policy"
   },
   {
     "id": "5501",
@@ -3363,7 +3651,9 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_135.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_135.jpg",
+    "gameNo": "135",
+    "ename": "Choice Belt"
   },
   {
     "id": "5330",
@@ -3385,7 +3675,9 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_136.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_136.jpg",
+    "gameNo": "136",
+    "ename": "Cleansing Gloves"
   },
   {
     "id": "5332",
@@ -3407,7 +3699,9 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_142.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_142.jpg",
+    "gameNo": "142",
+    "ename": "Hunting Gloves"
   },
   {
     "id": "5502",
@@ -3429,7 +3723,9 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_146.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_146.jpg",
+    "gameNo": "146",
+    "ename": "Pot Helmet"
   },
   {
     "id": "5499",
@@ -3447,7 +3743,9 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_139.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_139.jpg",
+    "gameNo": "139",
+    "ename": "Fresh Water Set"
   },
   {
     "id": "5500",
@@ -3465,7 +3763,9 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_150.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_150.jpg",
+    "gameNo": "150",
+    "ename": "Ultra Ball"
   },
   {
     "id": "5511",
@@ -3479,6 +3779,8 @@
         "effect": "只要这张卡附于宝可梦身上，视为提供2个【无】能量。  附有这张卡的宝可梦使用的招式，对对手的宝可梦造成的伤害「-20」点。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_151.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_151.jpg",
+    "gameNo": "151",
+    "ename": "Double Turbo Energy"
   }
 ]

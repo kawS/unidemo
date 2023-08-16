@@ -17,7 +17,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_1.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_1.jpg",
+    "gameNo": "001",
+    "ename": "Oddish"
   },
   {
     "id": "6053",
@@ -37,7 +39,9 @@
         "effect": "将这只宝可梦恢复「30」HP。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_2.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_2.jpg",
+    "gameNo": "002",
+    "ename": "Gloom"
   },
   {
     "id": "6054",
@@ -61,7 +65,9 @@
         "effect": "掷1次硬币若为正面，则在下个对手的回合，对手无法从手牌使出支援者卡。若为反面，则在下个对手的回合，对手无法从手牌使出物品卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_3.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_3.jpg",
+    "gameNo": "003",
+    "ename": "Vileplume"
   },
   {
     "id": "6367",
@@ -81,7 +87,9 @@
         "effect": "将这只宝可梦恢复「10」HP。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_4.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_4.jpg",
+    "gameNo": "004",
+    "ename": "Paras"
   },
   {
     "id": "6368",
@@ -105,7 +113,9 @@
         "effect": "掷1次硬币若为正面，则增加50点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_5.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_5.jpg",
+    "gameNo": "005",
+    "ename": "Parasect"
   },
   {
     "id": "6370",
@@ -129,7 +139,9 @@
         "effect": "从自己的牌库选择任意数量的「刺尾虫」「甲壳茧」「狩猎凤蝶」「盾甲茧」「毒粉蛾」卡，在给对手看过后加入手牌。并且重洗牌库。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_6.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_6.jpg",
+    "gameNo": "006",
+    "ename": "Wurmple"
   },
   {
     "id": "6371",
@@ -153,7 +165,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_7.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_7.jpg",
+    "gameNo": "007",
+    "ename": "Silcoon"
   },
   {
     "id": "6372",
@@ -177,7 +191,9 @@
         "effect": "将这只宝可梦恢复「30」HP。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_8.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_8.jpg",
+    "gameNo": "008",
+    "ename": "Beautifly"
   },
   {
     "id": "6373",
@@ -201,7 +217,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_9.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_9.jpg",
+    "gameNo": "009",
+    "ename": "Cascoon"
   },
   {
     "id": "6374",
@@ -225,7 +243,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_10.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_10.jpg",
+    "gameNo": "010",
+    "ename": "Dustox"
   },
   {
     "id": "6742",
@@ -245,7 +265,9 @@
         "effect": "将这只宝可梦恢复「10」HP。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_11.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_11.jpg",
+    "gameNo": "011",
+    "ename": "Seedot"
   },
   {
     "id": "6743",
@@ -265,7 +287,9 @@
         "effect": "若希望，将对手的战斗宝可梦与备战宝可梦互换。[由对手选择放置于战斗场的宝可梦。]"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_12.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_12.jpg",
+    "gameNo": "012",
+    "ename": "Nuzleaf"
   },
   {
     "id": "6744",
@@ -289,7 +313,9 @@
         "effect": "将这只宝可梦与附加的卡，全部放置于放逐区。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_13.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_13.jpg",
+    "gameNo": "013",
+    "ename": "Shiftry"
   },
   {
     "id": "6057",
@@ -309,7 +335,9 @@
         "effect": "将对手的战斗宝可梦【睡眠】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_14.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_14.jpg",
+    "gameNo": "014",
+    "ename": "Roselia"
   },
   {
     "id": "6058",
@@ -333,7 +361,9 @@
         "effect": "若对手的战斗宝可梦处于特殊状态，则对手的1只备战宝可梦也受到60点伤害。[在备战区不计算弱点・抵抗力。]"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_15.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_15.jpg",
+    "gameNo": "015",
+    "ename": "Roserade"
   },
   {
     "id": "6748",
@@ -353,7 +383,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_16.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_16.jpg",
+    "gameNo": "016",
+    "ename": "Phantump"
   },
   {
     "id": "6749",
@@ -377,7 +409,9 @@
         "effect": "在下个自己的回合，这只宝可梦无法使用招式。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_17.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_17.jpg",
+    "gameNo": "017",
+    "ename": "Trevenant"
   },
   {
     "id": "6307",
@@ -397,7 +431,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_18.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_18.jpg",
+    "gameNo": "018",
+    "ename": "Blipbug"
   },
   {
     "id": "6308",
@@ -417,7 +453,9 @@
         "effect": "在下个对手的回合，这只宝可梦受到招式的伤害「-30」点。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_19.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_19.jpg",
+    "gameNo": "019",
+    "ename": "Dottler"
   },
   {
     "id": "6309",
@@ -441,7 +479,9 @@
         "effect": "增加对手的战斗宝可梦身上附加的能量的数量×50点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_20.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_20.jpg",
+    "gameNo": "020",
+    "ename": "Orbeetle"
   },
   {
     "id": "6752",
@@ -465,7 +505,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_21.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_21.jpg",
+    "gameNo": "021",
+    "ename": "Slugma"
   },
   {
     "id": "6753",
@@ -489,7 +531,9 @@
         "effect": "将这只宝可梦身上附加的所有能量放置于放逐区。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_22.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_22.jpg",
+    "gameNo": "022",
+    "ename": "Magcargo"
   },
   {
     "id": "6312",
@@ -513,7 +557,9 @@
         "effect": "选择1个这只宝可梦身上附加的能量，将其丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_23.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_23.jpg",
+    "gameNo": "023",
+    "ename": "Torkoal"
   },
   {
     "id": "6062",
@@ -533,7 +579,9 @@
         "effect": "将对手的牌库上方1张卡丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_24.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_24.jpg",
+    "gameNo": "024",
+    "ename": "Litwick"
   },
   {
     "id": "6063",
@@ -553,7 +601,9 @@
         "effect": "掷1次硬币若为正面，则选择1个对手的战斗宝可梦身上附加的能量，将其丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_25.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_25.jpg",
+    "gameNo": "025",
+    "ename": "Lampent"
   },
   {
     "id": "6064",
@@ -577,7 +627,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_26.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_26.jpg",
+    "gameNo": "026",
+    "ename": "Chandelure"
   },
   {
     "id": "6754",
@@ -605,7 +657,9 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_27.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_27.jpg",
+    "gameNo": "027",
+    "ename": "Delphox V"
   },
   {
     "id": "6065",
@@ -625,7 +679,9 @@
         "effect": "将对手的战斗宝可梦【灼伤】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_28.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_28.jpg",
+    "gameNo": "028",
+    "ename": "Litleo"
   },
   {
     "id": "6066",
@@ -649,7 +705,9 @@
         "effect": "掷1次硬币若为正面，则将对手的战斗宝可梦【灼伤】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_29.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_29.jpg",
+    "gameNo": "029",
+    "ename": "Pyroar"
   },
   {
     "id": "6243",
@@ -669,7 +727,9 @@
         "effect": "掷1次硬币若为正面，则在下个对手的回合，这只宝可梦不会受到招式的伤害与效果的影响。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_30.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_30.jpg",
+    "gameNo": "030",
+    "ename": "Poliwag"
   },
   {
     "id": "6244",
@@ -693,7 +753,9 @@
         "effect": "掷2次硬币，造成正面出现的次数×50点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_31.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_31.jpg",
+    "gameNo": "031",
+    "ename": "Poliwhirl"
   },
   {
     "id": "6245",
@@ -717,7 +779,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_32.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_32.jpg",
+    "gameNo": "032",
+    "ename": "Politoed"
   },
   {
     "id": "6757",
@@ -741,7 +805,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_33.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_33.jpg",
+    "gameNo": "033",
+    "ename": "Seel"
   },
   {
     "id": "6758",
@@ -765,7 +831,9 @@
         "effect": "将自己的场上宝可梦身上附加的任意数量的【水】能量卡放回牌库，造成其张数×40点伤害。这个情况下，重洗牌库。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_34.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_34.jpg",
+    "gameNo": "034",
+    "ename": "Dewgong"
   },
   {
     "id": "6759",
@@ -785,7 +853,9 @@
         "effect": "将这只宝可梦与备战宝可梦互换。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_35.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_35.jpg",
+    "gameNo": "035",
+    "ename": "Horsea"
   },
   {
     "id": "6760",
@@ -809,7 +879,9 @@
         "effect": "对手的1只宝可梦受到这只宝可梦，身上附加的【水】能量的数量×20点伤害。[在备战区不计算弱点・抵抗力。]"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_36.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_36.jpg",
+    "gameNo": "036",
+    "ename": "Seadra"
   },
   {
     "id": "6761",
@@ -833,7 +905,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_37.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_37.jpg",
+    "gameNo": "037",
+    "ename": "Kingdra"
   },
   {
     "id": "6317",
@@ -857,7 +931,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_38.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_38.jpg",
+    "gameNo": "038",
+    "ename": "Luvdisc"
   },
   {
     "id": "6319",
@@ -881,7 +957,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_39.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_39.jpg",
+    "gameNo": "039",
+    "ename": "Shellos"
   },
   {
     "id": "6764",
@@ -905,7 +983,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_40.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_40.jpg",
+    "gameNo": "040",
+    "ename": "Finneon"
   },
   {
     "id": "6765",
@@ -929,7 +1009,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_41.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_41.jpg",
+    "gameNo": "041",
+    "ename": "Lumineon"
   },
   {
     "id": "6375",
@@ -953,7 +1035,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_42.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_42.jpg",
+    "gameNo": "042",
+    "ename": "Snover"
   },
   {
     "id": "6376",
@@ -977,7 +1061,9 @@
         "effect": "这只宝可梦也受到30点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_43.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_43.jpg",
+    "gameNo": "043",
+    "ename": "Abomasnow"
   },
   {
     "id": "6378",
@@ -997,7 +1083,9 @@
         "effect": "掷1次硬币若为反面，则这个招式失败。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_44.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_44.jpg",
+    "gameNo": "044",
+    "ename": "Hisuian Basculin"
   },
   {
     "id": "6379",
@@ -1021,7 +1109,9 @@
         "effect": "选择1个这只宝可梦身上附加的能量，将其丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_45.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_45.jpg",
+    "gameNo": "045",
+    "ename": "Hisuian Basculegion"
   },
   {
     "id": "6249",
@@ -1041,7 +1131,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_46.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_46.jpg",
+    "gameNo": "046",
+    "ename": "Ducklett"
   },
   {
     "id": "6250",
@@ -1065,7 +1157,9 @@
         "effect": "选择1个这只宝可梦身上附加的能量，将其丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_47.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_47.jpg",
+    "gameNo": "047",
+    "ename": "Swanna"
   },
   {
     "id": "6766",
@@ -1093,7 +1187,9 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_48.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_48.jpg",
+    "gameNo": "048",
+    "ename": "Kyurem V"
   },
   {
     "id": "6767",
@@ -1121,7 +1217,9 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_49.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_49.jpg",
+    "gameNo": "049",
+    "ename": "Kyurem VMAX"
   },
   {
     "id": "6770",
@@ -1145,7 +1243,9 @@
         "effect": "这个招式的伤害不计算弱点。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_50.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_50.jpg",
+    "gameNo": "050",
+    "ename": "Cramorant"
   },
   {
     "id": "6771",
@@ -1169,7 +1269,9 @@
         "effect": "这只宝可梦也受到30点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_51.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_51.jpg",
+    "gameNo": "051",
+    "ename": "Glastrier"
   },
   {
     "id": "6380",
@@ -1193,7 +1295,9 @@
         "effect": "掷1次硬币若为反面，则这个招式失败。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_52.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_52.jpg",
+    "gameNo": "052",
+    "ename": "Pikachu"
   },
   {
     "id": "6381",
@@ -1217,7 +1321,9 @@
         "effect": "若自己已经使出了【VSTAR】力量，则增加120点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_53.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_53.jpg",
+    "gameNo": "053",
+    "ename": "Raichu"
   },
   {
     "id": "6251",
@@ -1241,7 +1347,9 @@
         "effect": "掷1次硬币若为正面，则将对手的战斗宝可梦【麻痺】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_54.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_54.jpg",
+    "gameNo": "054",
+    "ename": "Electrike"
   },
   {
     "id": "6252",
@@ -1265,7 +1373,9 @@
         "effect": "若对手的战斗宝可梦身上附有「宝可梦道具」，则增加80点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_55.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_55.jpg",
+    "gameNo": "055",
+    "ename": "Manectric"
   },
   {
     "id": "6382",
@@ -1293,7 +1403,9 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_56.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_56.jpg",
+    "gameNo": "056",
+    "ename": "Magnezone V"
   },
   {
     "id": "6383",
@@ -1321,7 +1433,9 @@
         "effect": "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_57.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_57.jpg",
+    "gameNo": "057",
+    "ename": "Magnezone VSTAR"
   },
   {
     "id": "6774",
@@ -1349,7 +1463,9 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_58.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_58.jpg",
+    "gameNo": "058",
+    "ename": "Rotom V"
   },
   {
     "id": "6776",
@@ -1373,7 +1489,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_59.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_59.jpg",
+    "gameNo": "059",
+    "ename": "Tynamo"
   },
   {
     "id": "6777",
@@ -1397,7 +1515,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_60.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_60.jpg",
+    "gameNo": "060",
+    "ename": "Eelektrik"
   },
   {
     "id": "6778",
@@ -1421,7 +1541,9 @@
         "effect": "选择2个这只宝可梦身上附加的能量，将其丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_61.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_61.jpg",
+    "gameNo": "061",
+    "ename": "Eelektross"
   },
   {
     "id": "6385",
@@ -1445,7 +1567,9 @@
         "effect": "造成自己的场上宝可梦身上附加的【超】能量的数量×20点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_62.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_62.jpg",
+    "gameNo": "062",
+    "ename": "Clefairy"
   },
   {
     "id": "6386",
@@ -1469,7 +1593,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_63.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_63.jpg",
+    "gameNo": "063",
+    "ename": "Clefable"
   },
   {
     "id": "6387",
@@ -1489,7 +1615,9 @@
         "effect": "在对手的战斗宝可梦身上放置1个伤害指示物。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_64.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_64.jpg",
+    "gameNo": "064",
+    "ename": "Gastly"
   },
   {
     "id": "6388",
@@ -1509,7 +1637,9 @@
         "effect": "将3个伤害指示物以任意方式放置于对手的宝可梦身上。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_65.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_65.jpg",
+    "gameNo": "065",
+    "ename": "Haunter"
   },
   {
     "id": "6389",
@@ -1533,7 +1663,9 @@
         "effect": "将与对手的备战宝可梦的数量×2个的相同数量的伤害指示物，放置于对手的战斗宝可梦身上。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_66.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_66.jpg",
+    "gameNo": "066",
+    "ename": "Gengar"
   },
   {
     "id": "6390",
@@ -1557,7 +1689,9 @@
         "effect": "与对手玩家猜拳，若己方获胜，则在下个对手的回合，这只宝可梦不会受到招式的伤害与效果的影响。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_67.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_67.jpg",
+    "gameNo": "067",
+    "ename": "Mr. Mime"
   },
   {
     "id": "6076",
@@ -1581,7 +1715,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_68.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_68.jpg",
+    "gameNo": "068",
+    "ename": "Jynx"
   },
   {
     "id": "6393",
@@ -1609,7 +1745,9 @@
         "effect": "增加对手的战斗宝可梦身上附加的能量的数量×20点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_69.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_69.jpg",
+    "gameNo": "069",
+    "ename": "Radiant Gardevoir"
   },
   {
     "id": "6781",
@@ -1633,7 +1771,9 @@
         "effect": "这个招式只有在自己的放逐区有10张以上的卡时才可使用。将12个伤害指示物以任意方式放置于对手的宝可梦身上。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_70.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_70.jpg",
+    "gameNo": "070",
+    "ename": "Sableye"
   },
   {
     "id": "6256",
@@ -1657,7 +1797,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_71.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_71.jpg",
+    "gameNo": "071",
+    "ename": "Mawile"
   },
   {
     "id": "6782",
@@ -1677,7 +1819,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_72.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_72.jpg",
+    "gameNo": "072",
+    "ename": "Shuppet"
   },
   {
     "id": "6783",
@@ -1701,7 +1845,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_73.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_73.jpg",
+    "gameNo": "073",
+    "ename": "Banette"
   },
   {
     "id": "6260",
@@ -1725,7 +1871,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_74.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_74.jpg",
+    "gameNo": "074",
+    "ename": "Cresselia"
   },
   {
     "id": "6395",
@@ -1749,7 +1897,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_75.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_75.jpg",
+    "gameNo": "075",
+    "ename": "Hisuian Zorua"
   },
   {
     "id": "6396",
@@ -1773,7 +1923,9 @@
         "effect": "从自己的弃牌区任意选择1张卡，在给对手看过后加入手牌。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_76.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_76.jpg",
+    "gameNo": "076",
+    "ename": "Hisuian Zoroark"
   },
   {
     "id": "6331",
@@ -1793,7 +1945,9 @@
         "effect": "掷1次硬币若为反面，则这个招式失败。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_77.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_77.jpg",
+    "gameNo": "077",
+    "ename": "Inkay"
   },
   {
     "id": "6332",
@@ -1817,7 +1971,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_78.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_78.jpg",
+    "gameNo": "078",
+    "ename": "Malamar"
   },
   {
     "id": "6786",
@@ -1841,7 +1997,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_79.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_79.jpg",
+    "gameNo": "079",
+    "ename": "Comfey"
   },
   {
     "id": "6787",
@@ -1865,7 +2023,9 @@
         "effect": "造成对手的场上宝可梦身上放置的伤害指示物的数量×10点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_80.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_80.jpg",
+    "gameNo": "080",
+    "ename": "Mimikyu"
   },
   {
     "id": "6792",
@@ -1889,7 +2049,9 @@
         "effect": "在下个自己的回合，这只宝可梦无法使用「幻影强袭」。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_81.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_81.jpg",
+    "gameNo": "081",
+    "ename": "Spectrier"
   },
   {
     "id": "6397",
@@ -1917,7 +2079,9 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_82.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_82.jpg",
+    "gameNo": "082",
+    "ename": "Enamorus V"
   },
   {
     "id": "6398",
@@ -1937,7 +2101,9 @@
         "effect": "将对手的战斗宝可梦【灼伤】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_83.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_83.jpg",
+    "gameNo": "083",
+    "ename": "Hisuian Growlithe"
   },
   {
     "id": "6399",
@@ -1961,7 +2127,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_84.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_84.jpg",
+    "gameNo": "084",
+    "ename": "Hisuian Arcanine"
   },
   {
     "id": "6263",
@@ -1985,7 +2153,9 @@
         "effect": "选择2个这只宝可梦身上附加的能量，放回手牌。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_85.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_85.jpg",
+    "gameNo": "085",
+    "ename": "Poliwrath"
   },
   {
     "id": "6400",
@@ -2005,7 +2175,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_86.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_86.jpg",
+    "gameNo": "086",
+    "ename": "Machop"
   },
   {
     "id": "6401",
@@ -2029,7 +2201,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_87.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_87.jpg",
+    "gameNo": "087",
+    "ename": "Machoke"
   },
   {
     "id": "6402",
@@ -2053,7 +2227,9 @@
         "effect": "若希望，增加100点伤害。这个情况下，在下个自己的回合，这只宝可梦无法使用招式。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_88.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_88.jpg",
+    "gameNo": "088",
+    "ename": "Machamp"
   },
   {
     "id": "6086",
@@ -2073,7 +2249,9 @@
         "effect": "这只宝可梦也受到20点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_89.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_89.jpg",
+    "gameNo": "089",
+    "ename": "Rhyhorn"
   },
   {
     "id": "6087",
@@ -2097,7 +2275,9 @@
         "effect": "这只宝可梦也受到30点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_90.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_90.jpg",
+    "gameNo": "090",
+    "ename": "Rhydon"
   },
   {
     "id": "6088",
@@ -2121,7 +2301,9 @@
         "effect": "这只宝可梦也受到30点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_91.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_91.jpg",
+    "gameNo": "091",
+    "ename": "Rhyperior"
   },
   {
     "id": "6793",
@@ -2149,7 +2331,9 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_92.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_92.jpg",
+    "gameNo": "092",
+    "ename": "Aerodactyl V"
   },
   {
     "id": "6794",
@@ -2177,7 +2361,9 @@
         "effect": "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_93.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_93.jpg",
+    "gameNo": "093",
+    "ename": "Aerodactyl VSTAR"
   },
   {
     "id": "6403",
@@ -2201,7 +2387,9 @@
         "effect": "在下个对手的回合，受到这个招式的宝可梦无法撤退。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_94.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_94.jpg",
+    "gameNo": "094",
+    "ename": "Sudowoodo"
   },
   {
     "id": "6404",
@@ -2221,7 +2409,9 @@
         "effect": "掷4次硬币，造成正面出现的次数×10点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_95.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_95.jpg",
+    "gameNo": "095",
+    "ename": "Gligar"
   },
   {
     "id": "6405",
@@ -2241,7 +2431,9 @@
         "effect": "掷4次硬币，造成正面出现的次数×50点伤害。若出现2次以上正面，则将对手的战斗宝可梦【麻痺】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_96.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_96.jpg",
+    "gameNo": "096",
+    "ename": "Gliscor"
   },
   {
     "id": "6333",
@@ -2261,7 +2453,9 @@
         "effect": "掷1次硬币若为正面，则将对手的战斗宝可梦【麻痺】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_97.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_97.jpg",
+    "gameNo": "097",
+    "ename": "Makuhita"
   },
   {
     "id": "6334",
@@ -2285,7 +2479,9 @@
         "effect": "这个招式的伤害不计算抵抗力。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_98.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_98.jpg",
+    "gameNo": "098",
+    "ename": "Hariyama"
   },
   {
     "id": "6187",
@@ -2305,7 +2501,9 @@
         "effect": "掷1次硬币若为反面，则这个招式失败。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_99.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_99.jpg",
+    "gameNo": "099",
+    "ename": "Meditite"
   },
   {
     "id": "6188",
@@ -2325,7 +2523,9 @@
         "effect": "从自己的牌库选择最多2张【斗】能量卡，以任意方式附于备战宝可梦身上。并且重洗牌库。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_100.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_100.jpg",
+    "gameNo": "100",
+    "ename": "Medicham"
   },
   {
     "id": "6089",
@@ -2349,7 +2549,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_101.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_101.jpg",
+    "gameNo": "101",
+    "ename": "Relicanth"
   },
   {
     "id": "6336",
@@ -2373,7 +2575,9 @@
         "effect": "自己的所有备战宝可梦也各受到20点伤害。[在备战区不计算弱点・抵抗力。]"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_102.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_102.jpg",
+    "gameNo": "102",
+    "ename": "Gastrodon"
   },
   {
     "id": "6269",
@@ -2397,7 +2601,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_103.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_103.jpg",
+    "gameNo": "103",
+    "ename": "Mienfoo"
   },
   {
     "id": "6270",
@@ -2421,7 +2627,9 @@
         "effect": "掷2次硬币，造成正面出现的次数×70点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_104.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_104.jpg",
+    "gameNo": "104",
+    "ename": "Mienshao"
   },
   {
     "id": "6191",
@@ -2445,7 +2653,9 @@
         "effect": "选择2个这只宝可梦身上附加的能量，将其丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_105.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_105.jpg",
+    "gameNo": "105",
+    "ename": "Landorus"
   },
   {
     "id": "6797",
@@ -2469,7 +2679,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_106.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_106.jpg",
+    "gameNo": "106",
+    "ename": "Binacle"
   },
   {
     "id": "6798",
@@ -2493,7 +2705,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_107.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_107.jpg",
+    "gameNo": "107",
+    "ename": "Barbaracle"
   },
   {
     "id": "6337",
@@ -2517,7 +2731,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_108.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_108.jpg",
+    "gameNo": "108",
+    "ename": "Carbink"
   },
   {
     "id": "6192",
@@ -2541,7 +2757,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_109.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_109.jpg",
+    "gameNo": "109",
+    "ename": "Rockruff"
   },
   {
     "id": "6193",
@@ -2565,7 +2783,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_110.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_110.jpg",
+    "gameNo": "110",
+    "ename": "Falinks"
   },
   {
     "id": "6802",
@@ -2589,7 +2809,9 @@
         "effect": "将对手的牌库上方1张卡放置于放逐区。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_111.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_111.jpg",
+    "gameNo": "111",
+    "ename": "Stonjourner"
   },
   {
     "id": "6271",
@@ -2609,7 +2831,9 @@
         "effect": "将对手的战斗宝可梦【中毒】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_112.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_112.jpg",
+    "gameNo": "112",
+    "ename": "Spinarak"
   },
   {
     "id": "6272",
@@ -2633,7 +2857,9 @@
         "effect": "将对手的战斗宝可梦【中毒】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_113.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_113.jpg",
+    "gameNo": "113",
+    "ename": "Ariados"
   },
   {
     "id": "6209",
@@ -2657,7 +2883,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_114.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_114.jpg",
+    "gameNo": "114",
+    "ename": "Murkrow"
   },
   {
     "id": "6210",
@@ -2681,7 +2909,9 @@
         "effect": "将这只宝可梦身上附加的所有能量，以任意方式改附于备战宝可梦身上。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_115.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_115.jpg",
+    "gameNo": "115",
+    "ename": "Honchkrow"
   },
   {
     "id": "6213",
@@ -2701,7 +2931,9 @@
         "effect": "将这只宝可梦与备战区的【恶】宝可梦互换。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_116.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_116.jpg",
+    "gameNo": "116",
+    "ename": "Seviper"
   },
   {
     "id": "6413",
@@ -2725,7 +2957,9 @@
         "effect": "增加自己的弃牌区的「花岩怪」的张数×60点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_117.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_117.jpg",
+    "gameNo": "117",
+    "ename": "Spiritomb"
   },
   {
     "id": "6803",
@@ -2753,7 +2987,9 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_118.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_118.jpg",
+    "gameNo": "118",
+    "ename": "Drapion V"
   },
   {
     "id": "6804",
@@ -2781,7 +3017,9 @@
         "effect": "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_119.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_119.jpg",
+    "gameNo": "119",
+    "ename": "Drapion VSTAR"
   },
   {
     "id": "6344",
@@ -2805,7 +3043,9 @@
         "effect": "在下个自己的回合，这只宝可梦无法使用招式。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_120.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_120.jpg",
+    "gameNo": "120",
+    "ename": "Darkrai"
   },
   {
     "id": "6216",
@@ -2829,7 +3069,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_121.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_121.jpg",
+    "gameNo": "121",
+    "ename": "Inkay"
   },
   {
     "id": "6217",
@@ -2853,7 +3095,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_122.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_122.jpg",
+    "gameNo": "122",
+    "ename": "Hoopa"
   },
   {
     "id": "6412",
@@ -2881,7 +3125,9 @@
         "effect": "将对手的战斗宝可梦【中毒】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_123.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_123.jpg",
+    "gameNo": "123",
+    "ename": "Radiant Hisuian Sneasler"
   },
   {
     "id": "6416",
@@ -2909,7 +3155,9 @@
         "effect": "将自己的牌库上方的卡丢弃直到剩余张数变为1张为止，增加其中的能量卡的张数×30点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_124.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_124.jpg",
+    "gameNo": "124",
+    "ename": "Radiant Steelix"
   },
   {
     "id": "6417",
@@ -2929,7 +3177,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_125.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_125.jpg",
+    "gameNo": "125",
+    "ename": "Bronzor"
   },
   {
     "id": "6418",
@@ -2953,7 +3203,9 @@
         "effect": "增加对手的战斗宝可梦【撤退】所需的能量的数量×40点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_126.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_126.jpg",
+    "gameNo": "126",
+    "ename": "Bronzong"
   },
   {
     "id": "6815",
@@ -2977,7 +3229,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_127.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_127.jpg",
+    "gameNo": "127",
+    "ename": "Galarian Stunfisk"
   },
   {
     "id": "6349",
@@ -3001,7 +3255,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_128.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_128.jpg",
+    "gameNo": "128",
+    "ename": "Magearna"
   },
   {
     "id": "6816",
@@ -3029,7 +3285,9 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_129.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_129.jpg",
+    "gameNo": "129",
+    "ename": "Galarian Perrserker V"
   },
   {
     "id": "6817",
@@ -3057,7 +3315,9 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_130.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_130.jpg",
+    "gameNo": "130",
+    "ename": "Giratina V"
   },
   {
     "id": "6818",
@@ -3085,7 +3345,9 @@
         "effect": "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_131.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_131.jpg",
+    "gameNo": "131",
+    "ename": "Giratina VSTAR"
   },
   {
     "id": "6419",
@@ -3109,7 +3371,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_132.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_132.jpg",
+    "gameNo": "132",
+    "ename": "Goomy"
   },
   {
     "id": "6420",
@@ -3133,7 +3397,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_133.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_133.jpg",
+    "gameNo": "133",
+    "ename": "Hisuian Sliggoo"
   },
   {
     "id": "6421",
@@ -3157,7 +3423,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_134.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_134.jpg",
+    "gameNo": "134",
+    "ename": "Hisuian Goodra"
   },
   {
     "id": "6422",
@@ -3185,7 +3453,9 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_135.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_135.jpg",
+    "gameNo": "135",
+    "ename": "Hisuian Goodra V"
   },
   {
     "id": "6423",
@@ -3213,7 +3483,9 @@
         "effect": "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_136.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_136.jpg",
+    "gameNo": "136",
+    "ename": "Hisuian Goodra VSTAR"
   },
   {
     "id": "6819",
@@ -3241,7 +3513,9 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_137.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_137.jpg",
+    "gameNo": "137",
+    "ename": "Pidgeot V"
   },
   {
     "id": "6351",
@@ -3261,7 +3535,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_138.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_138.jpg",
+    "gameNo": "138",
+    "ename": "Lickitung"
   },
   {
     "id": "6352",
@@ -3285,7 +3561,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_139.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_139.jpg",
+    "gameNo": "139",
+    "ename": "Lickilicky"
   },
   {
     "id": "6820",
@@ -3309,7 +3587,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_140.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_140.jpg",
+    "gameNo": "140",
+    "ename": "Porygon"
   },
   {
     "id": "6821",
@@ -3329,7 +3609,9 @@
         "effect": "造成双方的放逐区的「宝可梦道具」卡的张数×20点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_141.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_141.jpg",
+    "gameNo": "141",
+    "ename": "Porygon2"
   },
   {
     "id": "6822",
@@ -3353,7 +3635,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_142.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_142.jpg",
+    "gameNo": "142",
+    "ename": "Porygon-Z"
   },
   {
     "id": "6424",
@@ -3377,7 +3661,9 @@
         "effect": "将这只宝可梦【睡眠】。因这个【睡眠】的掷硬币次数改为2次，若没有全部为正面则无法恢复。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_143.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_143.jpg",
+    "gameNo": "143",
+    "ename": "Snorlax"
   },
   {
     "id": "6425",
@@ -3401,7 +3687,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_144.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_144.jpg",
+    "gameNo": "144",
+    "ename": "Aipom"
   },
   {
     "id": "6426",
@@ -3425,7 +3713,9 @@
         "effect": "在不看正面的情况下，选择1张对手的手牌，将其丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_145.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_145.jpg",
+    "gameNo": "145",
+    "ename": "Ambipom"
   },
   {
     "id": "6427",
@@ -3453,7 +3743,9 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_146.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_146.jpg",
+    "gameNo": "146",
+    "ename": "Hisuian Zoroark V"
   },
   {
     "id": "6428",
@@ -3481,7 +3773,9 @@
         "effect": "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_147.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_147.jpg",
+    "gameNo": "147",
+    "ename": "Hisuian Zoroark VSTAR"
   },
   {
     "id": "6826",
@@ -3505,7 +3799,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_148.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_148.jpg",
+    "gameNo": "148",
+    "ename": "Bouffalant"
   },
   {
     "id": "6358",
@@ -3529,7 +3825,9 @@
         "effect": "将这只宝可梦【睡眠】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_149.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_149.jpg",
+    "gameNo": "149",
+    "ename": "Komala"
   },
   {
     "id": "6289",
@@ -3549,7 +3847,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_150.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_150.jpg",
+    "gameNo": "150",
+    "ename": "Skwovet"
   },
   {
     "id": "6290",
@@ -3573,7 +3873,9 @@
         "effect": "将自己的手牌全部丢弃，若丢弃的张数为5张以上，则增加150点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_151.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_151.jpg",
+    "gameNo": "151",
+    "ename": "Greedent"
   },
   {
     "id": "6437",
@@ -3591,7 +3893,9 @@
         "effect": "在自己的回合时，只可将1张竞技场卡放置于战斗场旁边。若其他名称的竞技场卡被放置，则将这张卡丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_160.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_160.jpg",
+    "gameNo": "160",
+    "ename": "Lake Acuity"
   },
   {
     "id": "6836",
@@ -3609,7 +3913,9 @@
         "effect": "在自己的回合时，只可将1张竞技场卡放置于战斗场旁边。若其他名称的竞技场卡被放置，则将这张卡丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_161.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_161.jpg",
+    "gameNo": "161",
+    "ename": "Lost City"
   },
   {
     "id": "6435",
@@ -3627,7 +3933,9 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_153.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_153.jpg",
+    "gameNo": "153",
+    "ename": "Arezu"
   },
   {
     "id": "6832",
@@ -3645,7 +3953,9 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_155.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_155.jpg",
+    "gameNo": "155",
+    "ename": "Colress's Experiment"
   },
   {
     "id": "6835",
@@ -3663,7 +3973,9 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_157.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_157.jpg",
+    "gameNo": "157",
+    "ename": "Fantina"
   },
   {
     "id": "6434",
@@ -3681,7 +3993,9 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_158.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_158.jpg",
+    "gameNo": "158",
+    "ename": "Iscan"
   },
   {
     "id": "6833",
@@ -3699,7 +4013,9 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_159.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_159.jpg",
+    "gameNo": "159",
+    "ename": "Lady"
   },
   {
     "id": "6436",
@@ -3717,7 +4033,9 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_164.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_164.jpg",
+    "gameNo": "164",
+    "ename": "Miss Fortune Sisters"
   },
   {
     "id": "5629",
@@ -3735,7 +4053,9 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_166.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_166.jpg",
+    "gameNo": "166",
+    "ename": "Riley"
   },
   {
     "id": "6834",
@@ -3753,7 +4073,9 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_167.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_167.jpg",
+    "gameNo": "167",
+    "ename": "Thorton"
   },
   {
     "id": "6433",
@@ -3771,7 +4093,9 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_169.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_169.jpg",
+    "gameNo": "169",
+    "ename": "Volo"
   },
   {
     "id": "6432",
@@ -3793,7 +4117,9 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_154.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_154.jpg",
+    "gameNo": "154",
+    "ename": "Box of Disaster"
   },
   {
     "id": "6831",
@@ -3815,7 +4141,9 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_165.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_165.jpg",
+    "gameNo": "165",
+    "ename": "Panic Mask"
   },
   {
     "id": "6431",
@@ -3837,7 +4165,9 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_170.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_170.jpg",
+    "gameNo": "170",
+    "ename": "Windup Arm"
   },
   {
     "id": "6429",
@@ -3855,7 +4185,9 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_152.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_152.jpg",
+    "gameNo": "152",
+    "ename": "Arc Phone"
   },
   {
     "id": "6430",
@@ -3873,7 +4205,9 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_156.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_156.jpg",
+    "gameNo": "156",
+    "ename": "Damage Pump"
   },
   {
     "id": "6830",
@@ -3891,7 +4225,9 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_162.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_162.jpg",
+    "gameNo": "162",
+    "ename": "Lost Vacuum"
   },
   {
     "id": "6829",
@@ -3909,7 +4245,9 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_163.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_163.jpg",
+    "gameNo": "163",
+    "ename": "Mirage Gate"
   },
   {
     "id": "6828",
@@ -3927,7 +4265,9 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_168.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_168.jpg",
+    "gameNo": "168",
+    "ename": "Tool Box"
   },
   {
     "id": "6837",
@@ -3941,6 +4281,8 @@
         "effect": "只要这张卡附于宝可梦身上，视为提供1个【无】能量。当附有这张卡的宝可梦受到对手的宝可梦招式的伤害而【气绝】时，从牌库抽卡直到自己的手牌满7张为止。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_171.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_171.jpg",
+    "gameNo": "171",
+    "ename": "Gift Energy"
   }
 ]

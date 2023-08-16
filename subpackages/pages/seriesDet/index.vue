@@ -20,7 +20,8 @@
 				<image :src="item.imgUrl" lazy-load mode="widthFix" class="img" v-if="showImgType == null"></image>
 				<image :src="item.enImgUrl" lazy-load mode="widthFix" class="img" v-else></image>
 			</div>
-			<div v-if="showImgType == 'en'">{{ item.cardName }}</div>
+			<div>{{ item.cardName }}</div>
+			<div>{{ item.ename }}</div>
 			<!-- {{ item.id }} -->
 		</div>
 	</div>
@@ -298,7 +299,6 @@
 					width: 100%;
 					border-radius: 20rpx;
 					display: block;
-					box-shadow: 2px 2px 5px 0px #9E9E9E;
 					opacity: .5;
 				}
 				.img{
@@ -306,6 +306,8 @@
 					top: 0;
 					left: 0;
 					width: 100%;
+					border-radius: 15rpx;
+					box-shadow: 2px 2px 5px 0px #9E9E9E;
 					display: block;
 				}
 			}
@@ -396,7 +398,7 @@
 			width: 90%;
 			background: rgba(255,255,255,.9);
 			border-radius: 20rpx;
-			font-size: 14px;
+			font-size: 30rpx;
 			.name{
 				text-align: center;
 			}
@@ -430,7 +432,7 @@
 			background: #fff;
 			width: 30%;
 			border-radius: 10rpx;
-			font-size: 14px;
+			font-size: 28rpx;
 			text-align: center;
 		}
 	}

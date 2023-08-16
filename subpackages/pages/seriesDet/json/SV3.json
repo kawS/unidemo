@@ -21,7 +21,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_1.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_1.jpg",
+    "gameNo": "001",
+    "ename": "Oddish"
   },
   {
     "id": "8485",
@@ -45,7 +47,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_2.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_2.jpg",
+    "gameNo": "002",
+    "ename": "Gloom"
   },
   {
     "id": "8486",
@@ -69,7 +73,9 @@
         "effect": "掷与这只宝可梦身上附加的能量的数量相同次数的硬币，造成正面出现的次数×90点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_3.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_3.jpg",
+    "gameNo": "003",
+    "ename": "Bellossom"
   },
   {
     "id": "8487",
@@ -93,7 +99,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_4.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_4.jpg",
+    "gameNo": "004",
+    "ename": "Scyther"
   },
   {
     "id": "8488",
@@ -117,7 +125,9 @@
         "effect": "在下个对手的回合，这只宝可梦受到招式的伤害「-30」点。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_5.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_5.jpg",
+    "gameNo": "005",
+    "ename": "Shuckle"
   },
   {
     "id": "7941",
@@ -136,7 +146,9 @@
         "effect": "擲1次硬幣若為反面，則這個招式失敗。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_6.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_6.jpg",
+    "gameNo": "006",
+    "ename": "Surskit"
   },
   {
     "id": "7942",
@@ -159,7 +171,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_7.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_7.jpg",
+    "gameNo": "007",
+    "ename": "Masquerain"
   },
   {
     "id": "8489",
@@ -183,7 +197,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_8.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_8.jpg",
+    "gameNo": "008",
+    "ename": "Combee"
   },
   {
     "id": "8337",
@@ -207,7 +223,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_9.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_9.jpg",
+    "gameNo": "009",
+    "ename": "Foongus"
   },
   {
     "id": "8338",
@@ -227,7 +245,9 @@
         "effect": "掷1次硬币若为正面，则将对手的战斗宝可梦【中毒】与【麻痺】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_10.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_10.jpg",
+    "gameNo": "010",
+    "ename": "Amoonguss"
   },
   {
     "id": "8490",
@@ -247,7 +267,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_11.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_11.jpg",
+    "gameNo": "011",
+    "ename": "Phantump"
   },
   {
     "id": "8491",
@@ -271,7 +293,9 @@
         "effect": "在下个对手的回合，受到这个招式的宝可梦无法撤退。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_12.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_12.jpg",
+    "gameNo": "012",
+    "ename": "Trevenant"
   },
   {
     "id": "8339",
@@ -291,7 +315,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_13.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_13.jpg",
+    "gameNo": "013",
+    "ename": "Rowlet"
   },
   {
     "id": "8340",
@@ -311,7 +337,9 @@
         "effect": "对手的1只备战宝可梦也受到20点伤害。[在备战区不计算弱点・抵抗力。]"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_14.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_14.jpg",
+    "gameNo": "014",
+    "ename": "Dartrix"
   },
   {
     "id": "8341",
@@ -339,7 +367,9 @@
         "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_15.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_15.jpg",
+    "gameNo": "015",
+    "ename": "Decidueye ex"
   },
   {
     "id": "7947",
@@ -362,7 +392,9 @@
         "effect": "這隻寶可夢也受到10點傷害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_16.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_16.jpg",
+    "gameNo": "016",
+    "ename": "Bounsweet"
   },
   {
     "id": "7948",
@@ -385,7 +417,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_17.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_17.jpg",
+    "gameNo": "017",
+    "ename": "Steenee"
   },
   {
     "id": "7949",
@@ -408,7 +442,9 @@
         "effect": "這隻寶可夢也受到20點傷害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_18.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_18.jpg",
+    "gameNo": "018",
+    "ename": "Tsareena"
   },
   {
     "id": "8342",
@@ -428,7 +464,9 @@
         "effect": "将这只宝可梦恢复「10」HP。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_19.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_19.jpg",
+    "gameNo": "019",
+    "ename": "Smoliv"
   },
   {
     "id": "8343",
@@ -448,7 +486,9 @@
         "effect": "将这只宝可梦恢复「30」HP。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_20.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_20.jpg",
+    "gameNo": "020",
+    "ename": "Dolliv"
   },
   {
     "id": "8344",
@@ -472,7 +512,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_21.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_21.jpg",
+    "gameNo": "021",
+    "ename": "Arboliva"
   },
   {
     "id": "8114",
@@ -500,7 +542,9 @@
         "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_22.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_22.jpg",
+    "gameNo": "022",
+    "ename": "Toedscruel ex"
   },
   {
     "id": "8492",
@@ -520,7 +564,9 @@
         "effect": "这只宝可梦也受到10点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_23.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_23.jpg",
+    "gameNo": "023",
+    "ename": "Capsakid"
   },
   {
     "id": "8493",
@@ -540,7 +586,9 @@
         "effect": "掷2次硬币，造成正面出现的次数×50点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_24.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_24.jpg",
+    "gameNo": "024",
+    "ename": "Capsakid"
   },
   {
     "id": "8494",
@@ -564,7 +612,9 @@
         "effect": "这个招式的伤害不计算抵抗力。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_25.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_25.jpg",
+    "gameNo": "025",
+    "ename": "Scovillain"
   },
   {
     "id": "8495",
@@ -584,7 +634,9 @@
         "effect": "这只宝可梦也受到10点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_26.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_26.jpg",
+    "gameNo": "026",
+    "ename": "Charmander"
   },
   {
     "id": "8496",
@@ -604,7 +656,9 @@
         "effect": "这只宝可梦也受到20点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_27.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_27.jpg",
+    "gameNo": "027",
+    "ename": "Charmeleon"
   },
   {
     "id": "8497",
@@ -628,7 +682,9 @@
         "effect": "将对手的战斗宝可梦【混乱】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_28.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_28.jpg",
+    "gameNo": "028",
+    "ename": "Vulpix"
   },
   {
     "id": "8498",
@@ -652,7 +708,9 @@
         "effect": "在对手的1只宝可梦身上放置9个伤害指示物。在下个自己的回合，这只宝可梦无法使用招式。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_29.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_29.jpg",
+    "gameNo": "029",
+    "ename": "Ninetales"
   },
   {
     "id": "8499",
@@ -676,7 +734,9 @@
         "effect": "增加这只宝可梦身上附加的【火】能量的数量×20点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_30.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_30.jpg",
+    "gameNo": "030",
+    "ename": "Entei"
   },
   {
     "id": "8021",
@@ -695,7 +755,9 @@
       "體內燃燒著1200度的熔岩。一旦氣溫變低，熔岩就會凝固，動作也會因此變得遲緩。"
     ],
     "typeEnergy": "Fire",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_31.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_31.jpg",
+    "gameNo": "031",
+    "ename": "Numel"
   },
   {
     "id": "8022",
@@ -718,7 +780,9 @@
       "平時生活在火山口。以背上的駝峰每10年會大爆發一次而聞名。"
     ],
     "typeEnergy": "Fire",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_32.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_32.jpg",
+    "gameNo": "032",
+    "ename": "Camerupt"
   },
   {
     "id": "8347",
@@ -746,7 +810,9 @@
         "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_33.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_33.jpg",
+    "gameNo": "033",
+    "ename": "Victini ex"
   },
   {
     "id": "8500",
@@ -770,7 +836,9 @@
         "effect": "掷1次硬币若为反面，则这个招式失败。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_34.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_34.jpg",
+    "gameNo": "034",
+    "ename": "Darumaka"
   },
   {
     "id": "8501",
@@ -794,7 +862,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_35.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_35.jpg",
+    "gameNo": "035",
+    "ename": "Darmanitan"
   },
   {
     "id": "8348",
@@ -814,7 +884,9 @@
         "effect": "掷1次硬币若为正面，则增加10点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_36.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_36.jpg",
+    "gameNo": "036",
+    "ename": "Litwick"
   },
   {
     "id": "8349",
@@ -838,7 +910,9 @@
         "effect": "选择1只对手的备战宝可梦，与战斗宝可梦互换。然后，新上场的宝可梦受到30点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_37.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_37.jpg",
+    "gameNo": "037",
+    "ename": "Lampent"
   },
   {
     "id": "8350",
@@ -862,7 +936,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_38.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_38.jpg",
+    "gameNo": "038",
+    "ename": "Chandelure"
   },
   {
     "id": "8502",
@@ -882,7 +958,9 @@
         "effect": "增加对手的战斗宝可梦身上附加的能量的数量×30点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_39.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_39.jpg",
+    "gameNo": "039",
+    "ename": "Heatmor"
   },
   {
     "id": "8351",
@@ -906,7 +984,9 @@
         "effect": "这只宝可梦也受到10点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_40.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_40.jpg",
+    "gameNo": "040",
+    "ename": "Larvesta"
   },
   {
     "id": "8352",
@@ -930,7 +1010,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_41.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_41.jpg",
+    "gameNo": "041",
+    "ename": "Volcarona"
   },
   {
     "id": "8503",
@@ -958,7 +1040,9 @@
         "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_42.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_42.jpg",
+    "gameNo": "042",
+    "ename": "Eiscue ex"
   },
   {
     "id": "8353",
@@ -982,7 +1066,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_43.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_43.jpg",
+    "gameNo": "043",
+    "ename": "Charcadet"
   },
   {
     "id": "8354",
@@ -1006,7 +1092,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_44.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_44.jpg",
+    "gameNo": "044",
+    "ename": "Armarouge"
   },
   {
     "id": "8355",
@@ -1030,7 +1118,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_45.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_45.jpg",
+    "gameNo": "045",
+    "ename": "Lapras"
   },
   {
     "id": "8504",
@@ -1050,7 +1140,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_46.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_46.jpg",
+    "gameNo": "046",
+    "ename": "Carvanha"
   },
   {
     "id": "8505",
@@ -1074,7 +1166,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_47.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_47.jpg",
+    "gameNo": "047",
+    "ename": "Sharpedo"
   },
   {
     "id": "8357",
@@ -1094,7 +1188,9 @@
         "effect": "掷1次硬币若为正面，则增加10点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_48.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_48.jpg",
+    "gameNo": "048",
+    "ename": "Buizel"
   },
   {
     "id": "8358",
@@ -1118,7 +1214,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_49.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_49.jpg",
+    "gameNo": "049",
+    "ename": "Floatzel"
   },
   {
     "id": "8506",
@@ -1138,7 +1236,9 @@
         "effect": "掷1次硬币若为正面，则选择1个对手的战斗宝可梦身上附加的能量，将其丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_50.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_50.jpg",
+    "gameNo": "050",
+    "ename": "Tympole"
   },
   {
     "id": "8507",
@@ -1158,7 +1258,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_51.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_51.jpg",
+    "gameNo": "051",
+    "ename": "Palpitoad"
   },
   {
     "id": "8508",
@@ -1182,7 +1284,9 @@
         "effect": "在下个自己的回合，这只宝可梦「回声」的伤害「+100」点。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_52.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_52.jpg",
+    "gameNo": "052",
+    "ename": "Seismitoad"
   },
   {
     "id": "8509",
@@ -1206,7 +1310,9 @@
         "effect": "掷1次硬币若为正面，则增加20点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_53.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_53.jpg",
+    "gameNo": "053",
+    "ename": "Cubchoo"
   },
   {
     "id": "8510",
@@ -1230,7 +1336,9 @@
         "effect": "掷1次硬币若为反面，则将这只宝可梦身上附加的能量全部丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_54.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_54.jpg",
+    "gameNo": "054",
+    "ename": "Beartic"
   },
   {
     "id": "8511",
@@ -1250,7 +1358,9 @@
         "effect": "若在后攻玩家的最初回合，则将对手的战斗宝可梦【麻痺】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_55.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_55.jpg",
+    "gameNo": "055",
+    "ename": "Cryogonal"
   },
   {
     "id": "8360",
@@ -1270,7 +1380,9 @@
         "effect": "掷1次硬币若为反面，则这个招式失败。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_56.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_56.jpg",
+    "gameNo": "056",
+    "ename": "Froakie"
   },
   {
     "id": "8361",
@@ -1290,7 +1402,9 @@
         "effect": "若希望，将这只宝可梦与备战宝可梦互换。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_57.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_57.jpg",
+    "gameNo": "057",
+    "ename": "Frogadier"
   },
   {
     "id": "8363",
@@ -1310,7 +1424,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_58.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_58.jpg",
+    "gameNo": "058",
+    "ename": "Wiglett"
   },
   {
     "id": "8364",
@@ -1330,7 +1446,9 @@
         "effect": "在下个对手的回合，受到这个招式的宝可梦无法撤退。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_59.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_59.jpg",
+    "gameNo": "059",
+    "ename": "Wugtrio"
   },
   {
     "id": "8512",
@@ -1354,7 +1472,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_60.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_60.jpg",
+    "gameNo": "060",
+    "ename": "Finizen"
   },
   {
     "id": "8513",
@@ -1374,7 +1494,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_61.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_61.jpg",
+    "gameNo": "061",
+    "ename": "Finizen"
   },
   {
     "id": "8514",
@@ -1398,7 +1520,9 @@
         "effect": "在这个回合，若没有从备战区将这只宝可梦放置于战斗场，则这个招式失败。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_62.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_62.jpg",
+    "gameNo": "062",
+    "ename": "Palafin"
   },
   {
     "id": "8369",
@@ -1422,7 +1546,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_63.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_63.jpg",
+    "gameNo": "063",
+    "ename": "Magnemite"
   },
   {
     "id": "8370",
@@ -1446,7 +1572,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_64.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_64.jpg",
+    "gameNo": "064",
+    "ename": "Magneton"
   },
   {
     "id": "8371",
@@ -1470,7 +1598,9 @@
         "effect": "这只宝可梦也受到30点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_65.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_65.jpg",
+    "gameNo": "065",
+    "ename": "Magnezone"
   },
   {
     "id": "8515",
@@ -1502,7 +1632,9 @@
         "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_66.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_66.jpg",
+    "gameNo": "066",
+    "ename": "Tyranitar ex"
   },
   {
     "id": "8516",
@@ -1526,7 +1658,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_67.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_67.jpg",
+    "gameNo": "067",
+    "ename": "Tynamo"
   },
   {
     "id": "8517",
@@ -1550,7 +1684,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_68.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_68.jpg",
+    "gameNo": "068",
+    "ename": "Eelektrik"
   },
   {
     "id": "8518",
@@ -1574,7 +1710,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_69.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_69.jpg",
+    "gameNo": "069",
+    "ename": "Eelektross"
   },
   {
     "id": "8519",
@@ -1598,7 +1736,9 @@
         "effect": "这只宝可梦也受到90点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_70.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_70.jpg",
+    "gameNo": "070",
+    "ename": "Thundurus"
   },
   {
     "id": "8520",
@@ -1618,7 +1758,9 @@
         "effect": "这只宝可梦也受到10点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_71.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_71.jpg",
+    "gameNo": "071",
+    "ename": "Toxel"
   },
   {
     "id": "8521",
@@ -1642,7 +1784,9 @@
         "effect": "增加自己的备战宝可梦的属性种类的数量×30点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_72.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_72.jpg",
+    "gameNo": "072",
+    "ename": "Toxtricity"
   },
   {
     "id": "8117",
@@ -1670,7 +1814,9 @@
         "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_73.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_73.jpg",
+    "gameNo": "073",
+    "ename": "Pawmot ex"
   },
   {
     "id": "8522",
@@ -1694,7 +1840,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_74.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_74.jpg",
+    "gameNo": "074",
+    "ename": "Tadbulb"
   },
   {
     "id": "8374",
@@ -1714,7 +1862,9 @@
         "effect": "这只宝可梦也受到10点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_75.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_75.jpg",
+    "gameNo": "075",
+    "ename": "Tadbulb"
   },
   {
     "id": "8523",
@@ -1734,7 +1884,9 @@
         "effect": "对手的1只备战宝可梦也受到10点伤害。[在备战区不计算弱点・抵抗力。]"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_76.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_76.jpg",
+    "gameNo": "076",
+    "ename": "Tadbulb"
   },
   {
     "id": "8375",
@@ -1754,7 +1906,9 @@
         "effect": "对手的1只备战宝可梦也受到30点伤害。[在备战区不计算弱点・抵抗力。]"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_77.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_77.jpg",
+    "gameNo": "077",
+    "ename": "Bellibolt"
   },
   {
     "id": "8524",
@@ -1778,7 +1932,9 @@
         "effect": "这个招式的伤害不计算对手的战斗宝可梦身上的附加效果。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_78.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_78.jpg",
+    "gameNo": "078",
+    "ename": "Bellibolt"
   },
   {
     "id": "8379",
@@ -1806,7 +1962,9 @@
         "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_79.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_79.jpg",
+    "gameNo": "079",
+    "ename": "Miraidon ex"
   },
   {
     "id": "8525",
@@ -1826,7 +1984,9 @@
         "effect": "从牌库抽卡直到自己的手牌满7张为止。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_80.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_80.jpg",
+    "gameNo": "080",
+    "ename": "Cleffa"
   },
   {
     "id": "8380",
@@ -1846,7 +2006,9 @@
         "effect": "掷2次硬币，造成正面出现的次数×30点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_81.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_81.jpg",
+    "gameNo": "081",
+    "ename": "Clefairy"
   },
   {
     "id": "8381",
@@ -1874,7 +2036,9 @@
         "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_82.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_82.jpg",
+    "gameNo": "082",
+    "ename": "Clefable ex"
   },
   {
     "id": "8526",
@@ -1898,7 +2062,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_83.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_83.jpg",
+    "gameNo": "083",
+    "ename": "Togepi"
   },
   {
     "id": "8527",
@@ -1922,7 +2088,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_84.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_84.jpg",
+    "gameNo": "084",
+    "ename": "Togetic"
   },
   {
     "id": "8528",
@@ -1946,7 +2114,9 @@
         "effect": "选择1个这只宝可梦身上附加的能量，改附于备战宝可梦身上。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_85.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_85.jpg",
+    "gameNo": "085",
+    "ename": "Togekiss"
   },
   {
     "id": "8529",
@@ -1970,7 +2140,9 @@
         "effect": "掷1次硬币若为正面，则将对手的战斗宝可梦【麻痺】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_86.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_86.jpg",
+    "gameNo": "086",
+    "ename": "Espeon"
   },
   {
     "id": "8382",
@@ -1994,7 +2166,9 @@
         "effect": "这只宝可梦也受到10点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_87.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_87.jpg",
+    "gameNo": "087",
+    "ename": "Snubbull"
   },
   {
     "id": "8383",
@@ -2018,7 +2192,9 @@
         "effect": "这只宝可梦也受到30点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_88.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_88.jpg",
+    "gameNo": "088",
+    "ename": "Granbull"
   },
   {
     "id": "8384",
@@ -2038,7 +2214,9 @@
         "effect": "造成这只宝可梦身上附加的【超】能量的数量×30点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_89.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_89.jpg",
+    "gameNo": "089",
+    "ename": "Mawile"
   },
   {
     "id": "7903",
@@ -2061,7 +2239,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_90.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_90.jpg",
+    "gameNo": "090",
+    "ename": "Spoink"
   },
   {
     "id": "7904",
@@ -2084,7 +2264,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_91.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_91.jpg",
+    "gameNo": "091",
+    "ename": "Grumpig"
   },
   {
     "id": "8530",
@@ -2108,7 +2290,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_92.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_92.jpg",
+    "gameNo": "092",
+    "ename": "Lunatone"
   },
   {
     "id": "8531",
@@ -2132,7 +2316,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_93.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_93.jpg",
+    "gameNo": "093",
+    "ename": "Solrock"
   },
   {
     "id": "8532",
@@ -2152,7 +2338,9 @@
         "effect": "将这只宝可梦与备战宝可梦互换。然后，对手将对手自己的战斗宝可梦与备战宝可梦互换。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_94.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_94.jpg",
+    "gameNo": "094",
+    "ename": "Baltoy"
   },
   {
     "id": "8533",
@@ -2176,7 +2364,9 @@
         "effect": "将对手的战斗宝可梦【混乱】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_95.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_95.jpg",
+    "gameNo": "095",
+    "ename": "Claydol"
   },
   {
     "id": "8534",
@@ -2208,7 +2398,9 @@
         "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_96.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_96.jpg",
+    "gameNo": "096",
+    "ename": "Vespiquen ex"
   },
   {
     "id": "7975",
@@ -2227,7 +2419,9 @@
         "effect": "擲1次硬幣若為正面，則將對手的戰鬥寶可夢【麻痺】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_97.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_97.jpg",
+    "gameNo": "097",
+    "ename": "Sinistea"
   },
   {
     "id": "7976",
@@ -2250,7 +2444,9 @@
         "effect": "在對手的戰鬥寶可夢身上放置5個傷害指示物。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_98.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_98.jpg",
+    "gameNo": "098",
+    "ename": "Polteageist"
   },
   {
     "id": "8535",
@@ -2274,7 +2470,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_99.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_99.jpg",
+    "gameNo": "099",
+    "ename": "Greavard"
   },
   {
     "id": "8536",
@@ -2294,7 +2492,9 @@
         "effect": "掷1次硬币若为正面，则增加30点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_100.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_100.jpg",
+    "gameNo": "100",
+    "ename": "Greavard"
   },
   {
     "id": "8537",
@@ -2318,7 +2518,9 @@
         "effect": "若对手剩余奖赏卡的张数为4张・2张，则增加120点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_101.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_101.jpg",
+    "gameNo": "101",
+    "ename": "Houndstone"
   },
   {
     "id": "8119",
@@ -2346,7 +2548,9 @@
         "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_102.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_102.jpg",
+    "gameNo": "102",
+    "ename": "Houndstone ex"
   },
   {
     "id": "7911",
@@ -2365,7 +2569,9 @@
         "effect": "將自己的牌庫上方1張卡丟棄。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_103.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_103.jpg",
+    "gameNo": "103",
+    "ename": "Diglett"
   },
   {
     "id": "7912",
@@ -2384,7 +2590,9 @@
         "effect": "擲1次硬幣若為正面，則在下個對手的回合，這隻寶可夢不會受到招式的傷害與效果的影響。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_104.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_104.jpg",
+    "gameNo": "104",
+    "ename": "Dugtrio"
   },
   {
     "id": "8538",
@@ -2408,7 +2616,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_105.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_105.jpg",
+    "gameNo": "105",
+    "ename": "Larvitar"
   },
   {
     "id": "8539",
@@ -2432,7 +2642,9 @@
         "effect": "自己的1只备战宝可梦也受到20点伤害。[在备战区不计算弱点・抵抗力。]"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_106.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_106.jpg",
+    "gameNo": "106",
+    "ename": "Pupitar"
   },
   {
     "id": "8540",
@@ -2456,7 +2668,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_107.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_107.jpg",
+    "gameNo": "107",
+    "ename": "Nosepass"
   },
   {
     "id": "8049",
@@ -2479,7 +2693,9 @@
       "2根鬍子是靈敏的雷達。即使在因為泥濘而渾濁的水中，也能偵查到獵物的位置。"
     ],
     "typeEnergy": "Fighting",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_108.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_108.jpg",
+    "gameNo": "108",
+    "ename": "Barboach"
   },
   {
     "id": "8050",
@@ -2502,7 +2718,9 @@
       "地盤意識非常強烈，如果有外敵靠近，就會劇烈搖晃地面發動襲擊。"
     ],
     "typeEnergy": "Fighting",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_109.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_109.jpg",
+    "gameNo": "109",
+    "ename": "Whiscash"
   },
   {
     "id": "8541",
@@ -2522,7 +2740,9 @@
         "effect": "将对手的战斗宝可梦【混乱】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_110.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_110.jpg",
+    "gameNo": "110",
+    "ename": "Bonsly"
   },
   {
     "id": "8394",
@@ -2542,7 +2762,9 @@
         "effect": "掷1次硬币若为正面，则增加10点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_111.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_111.jpg",
+    "gameNo": "111",
+    "ename": "Drilbur"
   },
   {
     "id": "8542",
@@ -2566,7 +2788,9 @@
         "effect": "在下个对手的回合，受到这个招式的宝可梦无法撤退。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_112.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_112.jpg",
+    "gameNo": "112",
+    "ename": "Stunfisk"
   },
   {
     "id": "8543",
@@ -2590,7 +2814,9 @@
         "effect": "将对手的牌库上方1张卡丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_113.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_113.jpg",
+    "gameNo": "113",
+    "ename": "Diggersby"
   },
   {
     "id": "8053",
@@ -2613,7 +2839,9 @@
       "會擊落樹上的樹果來吃。訓練和覓食都能同時達成，簡直可以說是一舉兩得。"
     ],
     "typeEnergy": "Fighting",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_114.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_114.jpg",
+    "gameNo": "114",
+    "ename": "Crabrawler"
   },
   {
     "id": "8054",
@@ -2636,7 +2864,9 @@
       "脫落的鉗子十分美味。還有些訓練家會特地帶著愛吃豚到山裡找牠。"
     ],
     "typeEnergy": "Fighting",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_115.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_115.jpg",
+    "gameNo": "115",
+    "ename": "Crabominable"
   },
   {
     "id": "8544",
@@ -2656,7 +2886,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_116.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_116.jpg",
+    "gameNo": "116",
+    "ename": "Rockruff"
   },
   {
     "id": "8545",
@@ -2680,7 +2912,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_117.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_117.jpg",
+    "gameNo": "117",
+    "ename": "Lycanroc"
   },
   {
     "id": "8398",
@@ -2704,7 +2938,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_118.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_118.jpg",
+    "gameNo": "118",
+    "ename": "Toedscool"
   },
   {
     "id": "8399",
@@ -2728,7 +2964,9 @@
         "effect": "掷2次硬币，造成正面出现的次数×100点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_119.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_119.jpg",
+    "gameNo": "119",
+    "ename": "Toedscruel"
   },
   {
     "id": "7829",
@@ -2756,7 +2994,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_120.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_120.jpg",
+    "gameNo": "120",
+    "ename": "Klawf ex"
   },
   {
     "id": "8546",
@@ -2780,7 +3020,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_121.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_121.jpg",
+    "gameNo": "121",
+    "ename": "Glimmet"
   },
   {
     "id": "8547",
@@ -2800,7 +3042,9 @@
         "effect": "将对手的战斗宝可梦【中毒】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_122.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_122.jpg",
+    "gameNo": "122",
+    "ename": "Glimmet"
   },
   {
     "id": "8548",
@@ -2828,7 +3072,9 @@
         "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_123.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_123.jpg",
+    "gameNo": "123",
+    "ename": "Glimmora ex"
   },
   {
     "id": "8401",
@@ -2856,7 +3102,9 @@
         "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_124.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_124.jpg",
+    "gameNo": "124",
+    "ename": "Koraidon ex"
   },
   {
     "id": "8549",
@@ -2888,7 +3136,9 @@
         "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_125.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_125.jpg",
+    "gameNo": "125",
+    "ename": "Charizard ex"
   },
   {
     "id": "8402",
@@ -2908,7 +3158,9 @@
         "effect": "将对手的战斗宝可梦【中毒】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_126.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_126.jpg",
+    "gameNo": "126",
+    "ename": "Paldean Wooper"
   },
   {
     "id": "8551",
@@ -2928,7 +3180,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_127.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_127.jpg",
+    "gameNo": "127",
+    "ename": "Paldean Wooper"
   },
   {
     "id": "8403",
@@ -2952,7 +3206,9 @@
         "effect": "将对手的牌库上方1张卡丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_128.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_128.jpg",
+    "gameNo": "128",
+    "ename": "Paldean Clodsire"
   },
   {
     "id": "8552",
@@ -2976,7 +3232,9 @@
         "effect": "若对手的战斗宝可梦【中毒】，则增加120点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_129.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_129.jpg",
+    "gameNo": "129",
+    "ename": "Paldean Clodsire"
   },
   {
     "id": "8553",
@@ -3000,7 +3258,9 @@
         "effect": "在下个自己的回合，这只宝可梦无法使用招式。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_130.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_130.jpg",
+    "gameNo": "130",
+    "ename": "Umbreon"
   },
   {
     "id": "8554",
@@ -3024,7 +3284,9 @@
         "effect": "掷1次硬币若为反面，则这个招式失败。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_131.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_131.jpg",
+    "gameNo": "131",
+    "ename": "Houndour"
   },
   {
     "id": "8404",
@@ -3048,7 +3310,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_132.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_132.jpg",
+    "gameNo": "132",
+    "ename": "Houndour"
   },
   {
     "id": "8555",
@@ -3072,7 +3336,9 @@
         "effect": "选择1个这只宝可梦身上附加的能量，将其丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_133.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_133.jpg",
+    "gameNo": "133",
+    "ename": "Houndoom"
   },
   {
     "id": "8405",
@@ -3100,7 +3366,9 @@
         "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_134.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_134.jpg",
+    "gameNo": "134",
+    "ename": "Houndoom ex"
   },
   {
     "id": "8556",
@@ -3128,7 +3396,9 @@
         "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_135.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_135.jpg",
+    "gameNo": "135",
+    "ename": "Absol ex"
   },
   {
     "id": "8557",
@@ -3152,7 +3422,9 @@
         "effect": "将这只宝可梦身上附加的所有能量卡，以任意方式改附于备战宝可梦身上。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_136.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_136.jpg",
+    "gameNo": "136",
+    "ename": "Darkrai"
   },
   {
     "id": "8558",
@@ -3172,7 +3444,9 @@
         "effect": "在下个对手的回合，受到这个招式的宝可梦无法撤退。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_137.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_137.jpg",
+    "gameNo": "137",
+    "ename": "Inkay"
   },
   {
     "id": "8559",
@@ -3196,7 +3470,9 @@
         "effect": "将对手的战斗宝可梦【睡眠】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_138.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_138.jpg",
+    "gameNo": "138",
+    "ename": "Malamar"
   },
   {
     "id": "7927",
@@ -3219,7 +3495,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_139.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_139.jpg",
+    "gameNo": "139",
+    "ename": "Salandit"
   },
   {
     "id": "7928",
@@ -3242,7 +3520,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_140.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_140.jpg",
+    "gameNo": "140",
+    "ename": "Salazzle"
   },
   {
     "id": "8560",
@@ -3266,7 +3546,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_141.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_141.jpg",
+    "gameNo": "141",
+    "ename": "Scizor"
   },
   {
     "id": "8414",
@@ -3290,7 +3572,9 @@
         "effect": "在下个自己的回合，这只宝可梦无法使用「钢铁挥砍」。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_142.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_142.jpg",
+    "gameNo": "142",
+    "ename": "Skarmory"
   },
   {
     "id": "8561",
@@ -3314,7 +3598,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_143.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_143.jpg",
+    "gameNo": "143",
+    "ename": "Mawile"
   },
   {
     "id": "7990",
@@ -3337,7 +3623,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_144.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_144.jpg",
+    "gameNo": "144",
+    "ename": "Bronzor"
   },
   {
     "id": "7991",
@@ -3360,7 +3648,9 @@
         "effect": "若自己的手牌與對手的手牌張數相同，則增加90點傷害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_145.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_145.jpg",
+    "gameNo": "145",
+    "ename": "Bronzong"
   },
   {
     "id": "8562",
@@ -3384,7 +3674,9 @@
         "effect": "在下个自己的回合，这只宝可梦无法使用招式。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_146.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_146.jpg",
+    "gameNo": "146",
+    "ename": "Probopass"
   },
   {
     "id": "8415",
@@ -3404,7 +3696,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_147.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_147.jpg",
+    "gameNo": "147",
+    "ename": "Excadrill"
   },
   {
     "id": "8563",
@@ -3424,7 +3718,9 @@
         "effect": "掷3次硬币，造成正面出现的次数×10点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_148.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_148.jpg",
+    "gameNo": "148",
+    "ename": "Pawniard"
   },
   {
     "id": "8564",
@@ -3448,7 +3744,9 @@
         "effect": "掷3次硬币。若出现1次正面，则增加20点伤害。若出现2次正面，则增加60点伤害。若全部为正面，则增加120点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_149.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_149.jpg",
+    "gameNo": "149",
+    "ename": "Bisharp"
   },
   {
     "id": "8565",
@@ -3472,7 +3770,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_150.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_150.jpg",
+    "gameNo": "150",
+    "ename": "Kingambit"
   },
   {
     "id": "8416",
@@ -3496,7 +3796,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_151.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_151.jpg",
+    "gameNo": "151",
+    "ename": "Togedemaru"
   },
   {
     "id": "8417",
@@ -3516,7 +3818,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_152.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_152.jpg",
+    "gameNo": "152",
+    "ename": "Meltan"
   },
   {
     "id": "8418",
@@ -3544,7 +3848,9 @@
         "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_153.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_153.jpg",
+    "gameNo": "153",
+    "ename": "Melmetal ex"
   },
   {
     "id": "8566",
@@ -3564,7 +3870,9 @@
         "effect": "从自己的牌库抽出1张卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_154.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_154.jpg",
+    "gameNo": "154",
+    "ename": "Varoom"
   },
   {
     "id": "8567",
@@ -3584,7 +3892,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_155.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_155.jpg",
+    "gameNo": "155",
+    "ename": "Varoom"
   },
   {
     "id": "8568",
@@ -3612,7 +3922,9 @@
         "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_156.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_156.jpg",
+    "gameNo": "156",
+    "ename": "Revavroom ex"
   },
   {
     "id": "8421",
@@ -3632,7 +3944,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_157.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_157.jpg",
+    "gameNo": "157",
+    "ename": "Dratini"
   },
   {
     "id": "8422",
@@ -3656,7 +3970,9 @@
         "effect": "掷2次硬币，造成正面出现的次数×70点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_158.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_158.jpg",
+    "gameNo": "158",
+    "ename": "Dragonair"
   },
   {
     "id": "8423",
@@ -3688,7 +4004,9 @@
         "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_159.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_159.jpg",
+    "gameNo": "159",
+    "ename": "Dragonite ex"
   },
   {
     "id": "8569",
@@ -3712,7 +4030,9 @@
         "effect": "将对手的战斗宝可梦【睡眠】。因这个【睡眠】的掷硬币次数改为2次，若没有全部为正面则无法恢复。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_160.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_160.jpg",
+    "gameNo": "160",
+    "ename": "Altaria"
   },
   {
     "id": "8424",
@@ -3732,7 +4052,9 @@
         "effect": "增加这只宝可梦身上放置的伤害指示物的数量×10点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_161.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_161.jpg",
+    "gameNo": "161",
+    "ename": "Drampa"
   },
   {
     "id": "8570",
@@ -3752,7 +4074,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_162.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_162.jpg",
+    "gameNo": "162",
+    "ename": "Pidgey"
   },
   {
     "id": "8571",
@@ -3772,7 +4096,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_163.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_163.jpg",
+    "gameNo": "163",
+    "ename": "Pidgeotto"
   },
   {
     "id": "8572",
@@ -3800,7 +4126,9 @@
         "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_164.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_164.jpg",
+    "gameNo": "164",
+    "ename": "Pidgeot ex"
   },
   {
     "id": "8573",
@@ -3824,7 +4152,9 @@
         "effect": "从自己的牌库抽出2张卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_165.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_165.jpg",
+    "gameNo": "165",
+    "ename": "Kangaskhan"
   },
   {
     "id": "8574",
@@ -3848,7 +4178,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_166.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_166.jpg",
+    "gameNo": "166",
+    "ename": "Eevee"
   },
   {
     "id": "8575",
@@ -3872,7 +4204,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_167.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_167.jpg",
+    "gameNo": "167",
+    "ename": "Zigzagoon"
   },
   {
     "id": "8576",
@@ -3896,7 +4230,9 @@
         "effect": "这只宝可梦也受到30点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_168.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_168.jpg",
+    "gameNo": "168",
+    "ename": "Linoone"
   },
   {
     "id": "8577",
@@ -3920,7 +4256,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_169.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_169.jpg",
+    "gameNo": "169",
+    "ename": "Swablu"
   },
   {
     "id": "8427",
@@ -3940,7 +4278,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_170.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_170.jpg",
+    "gameNo": "170",
+    "ename": "Lillipup"
   },
   {
     "id": "8428",
@@ -3964,7 +4304,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_171.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_171.jpg",
+    "gameNo": "171",
+    "ename": "Herdier"
   },
   {
     "id": "8429",
@@ -3988,7 +4330,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_172.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_172.jpg",
+    "gameNo": "172",
+    "ename": "Stoutland"
   },
   {
     "id": "8430",
@@ -4012,7 +4356,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_173.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_173.jpg",
+    "gameNo": "173",
+    "ename": "Audino"
   },
   {
     "id": "8431",
@@ -4036,7 +4382,9 @@
         "effect": "掷硬币直到出现反面，增加正面出现的次数×30点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_174.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_174.jpg",
+    "gameNo": "174",
+    "ename": "Bouffalant"
   },
   {
     "id": "8578",
@@ -4056,7 +4404,9 @@
         "effect": "掷2次硬币，造成正面出现的次数×10点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_175.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_175.jpg",
+    "gameNo": "175",
+    "ename": "Bunnelby"
   },
   {
     "id": "7929",
@@ -4075,7 +4425,9 @@
         "effect": "擲1次硬幣若為正面，則增加10點傷害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_176.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_176.jpg",
+    "gameNo": "176",
+    "ename": "Yungoos"
   },
   {
     "id": "7930",
@@ -4098,7 +4450,9 @@
         "effect": "選擇1個對手的戰鬥寶可夢身上附加的能量，將其丟棄。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_177.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_177.jpg",
+    "gameNo": "177",
+    "ename": "Gumshoos"
   },
   {
     "id": "8432",
@@ -4122,7 +4476,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_178.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_178.jpg",
+    "gameNo": "178",
+    "ename": "Skwovet"
   },
   {
     "id": "8433",
@@ -4154,7 +4510,9 @@
         "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_179.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_179.jpg",
+    "gameNo": "179",
+    "ename": "Greedent ex"
   },
   {
     "id": "8579",
@@ -4174,7 +4532,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_180.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_180.jpg",
+    "gameNo": "180",
+    "ename": "Lechonk"
   },
   {
     "id": "8580",
@@ -4194,7 +4554,9 @@
         "effect": "将对手的战斗宝可梦【混乱】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_181.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_181.jpg",
+    "gameNo": "181",
+    "ename": "Lechonk"
   },
   {
     "id": "8435",
@@ -4218,7 +4580,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_182.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_182.jpg",
+    "gameNo": "182",
+    "ename": "Lechonk"
   },
   {
     "id": "8436",
@@ -4242,7 +4606,9 @@
         "effect": "掷1次硬币若为反面，则这只宝可梦也受到60点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_183.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_183.jpg",
+    "gameNo": "183",
+    "ename": "Oinkologne"
   },
   {
     "id": "8581",
@@ -4266,7 +4632,9 @@
         "effect": "将对手的战斗宝可梦【混乱】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_184.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_184.jpg",
+    "gameNo": "184",
+    "ename": "Oinkologne"
   },
   {
     "id": "8582",
@@ -4290,7 +4658,9 @@
         "effect": "若自己的备战区有「缠红鹤」，则对手的1只备战宝可梦也受到60点伤害。[在备战区不计算弱点・抵抗力。]"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_185.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_185.jpg",
+    "gameNo": "185",
+    "ename": "Flamigo"
   },
   {
     "id": "8591",
@@ -4308,7 +4678,9 @@
         "effect": "在自己的回合时，可将1张竞技场卡放置于战斗场旁边。若其他竞技场卡被放置，则将这张卡丢弃。不可放置名称相同的竞技场卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_192.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_192.jpg",
+    "gameNo": "192",
+    "ename": "Pokémon League Headquarters"
   },
   {
     "id": "8590",
@@ -4326,7 +4698,9 @@
         "effect": "在自己的回合时，可将1张竞技场卡放置于战斗场旁边。若其他竞技场卡被放置，则将这张卡丢弃。不可放置名称相同的竞技场卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_196.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_196.jpg",
+    "gameNo": "196",
+    "ename": "Town Store"
   },
   {
     "id": "7724",
@@ -4344,7 +4718,9 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_186.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_186.jpg",
+    "gameNo": "186",
+    "ename": "Arven"
   },
   {
     "id": "7831",
@@ -4360,13 +4736,11 @@
       {
         "name": "[支援者规则]",
         "effect": "在自己的回合时，支援者卡只可使用1张。"
-      },
-      {
-        "name": "",
-        "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_187.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_187.jpg",
+    "gameNo": "187",
+    "ename": "Brassius"
   },
   {
     "id": "8586",
@@ -4384,7 +4758,9 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_188.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_188.jpg",
+    "gameNo": "188",
+    "ename": "Geeta"
   },
   {
     "id": "8587",
@@ -4402,7 +4778,9 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_190.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_190.jpg",
+    "gameNo": "190",
+    "ename": "Ortega"
   },
   {
     "id": "8588",
@@ -4420,7 +4798,9 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_193.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_193.jpg",
+    "gameNo": "193",
+    "ename": "Poppy"
   },
   {
     "id": "8589",
@@ -4438,7 +4818,9 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_194.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_194.jpg",
+    "gameNo": "194",
+    "ename": "Ryme"
   },
   {
     "id": "7645",
@@ -4456,7 +4838,9 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_195.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_195.jpg",
+    "gameNo": "195",
+    "ename": "Team Star Grunt"
   },
   {
     "id": "8584",
@@ -4474,7 +4858,9 @@
         "effect": "在自己的回合时，宝可梦道具卡可不限张数附于自己的宝可梦身上。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_191.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_191.jpg",
+    "gameNo": "191",
+    "ename": "Patrol Cap"
   },
   {
     "id": "8585",
@@ -4492,7 +4878,9 @@
         "effect": "在自己的回合时，宝可梦道具卡可不限张数附于自己的宝可梦身上。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_197.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_197.jpg",
+    "gameNo": "197",
+    "ename": "Vengeful Punch"
   },
   {
     "id": "8583",
@@ -4510,6 +4898,8 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_189.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_189.jpg",
+    "gameNo": "189",
+    "ename": "Letter of Encouragement"
   }
 ]

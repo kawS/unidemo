@@ -25,7 +25,9 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_1.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_1.jpg",
+    "gameNo": "001",
+    "ename": "Beedrill V"
   },
   {
     "id": "6301",
@@ -49,7 +51,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_2.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_2.jpg",
+    "gameNo": "002",
+    "ename": "Hisuian Voltorb"
   },
   {
     "id": "6302",
@@ -73,7 +77,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_3.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_3.jpg",
+    "gameNo": "003",
+    "ename": "Hisuian Electrode"
   },
   {
     "id": "6186",
@@ -93,7 +99,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_4.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_4.jpg",
+    "gameNo": "004",
+    "ename": "Scyther"
   },
   {
     "id": "6055",
@@ -113,7 +121,9 @@
         "effect": "掷1次硬币若为正面，则增加30点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_5.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_5.jpg",
+    "gameNo": "005",
+    "ename": "Scyther"
   },
   {
     "id": "6233",
@@ -133,7 +143,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_6.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_6.jpg",
+    "gameNo": "006",
+    "ename": "Yanma"
   },
   {
     "id": "6234",
@@ -157,7 +169,9 @@
         "effect": "若自己手牌的张数比对手手牌的张数多，则增加80点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_7.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_7.jpg",
+    "gameNo": "007",
+    "ename": "Yanmega"
   },
   {
     "id": "6056",
@@ -181,7 +195,9 @@
         "effect": "自己的1只备战宝可梦也受到30点伤害。[在备战区不计算弱点・抵抗力。]"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_8.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_8.jpg",
+    "gameNo": "008",
+    "ename": "Heracross"
   },
   {
     "id": "6303",
@@ -201,7 +217,9 @@
         "effect": "掷1次硬币若为正面，则增加20点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_9.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_9.jpg",
+    "gameNo": "009",
+    "ename": "Kricketot"
   },
   {
     "id": "6304",
@@ -225,7 +243,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_10.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_10.jpg",
+    "gameNo": "010",
+    "ename": "Kricketune"
   },
   {
     "id": "6059",
@@ -249,7 +269,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_11.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_11.jpg",
+    "gameNo": "011",
+    "ename": "Combee"
   },
   {
     "id": "6060",
@@ -273,7 +295,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_12.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_12.jpg",
+    "gameNo": "012",
+    "ename": "Vespiquen"
   },
   {
     "id": "6235",
@@ -297,7 +321,9 @@
         "effect": "在下个自己的回合，这只宝可梦无法使用招式。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_13.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_13.jpg",
+    "gameNo": "013",
+    "ename": "Leafeon"
   },
   {
     "id": "6236",
@@ -321,7 +347,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_14.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_14.jpg",
+    "gameNo": "014",
+    "ename": "Shaymin"
   },
   {
     "id": "6237",
@@ -341,7 +369,9 @@
         "effect": "将这只宝可梦与备战宝可梦互换。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_15.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_15.jpg",
+    "gameNo": "015",
+    "ename": "Petilil"
   },
   {
     "id": "6238",
@@ -365,7 +395,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_16.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_16.jpg",
+    "gameNo": "016",
+    "ename": "Hisuian Lilligant"
   },
   {
     "id": "6239",
@@ -393,7 +425,9 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_17.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_17.jpg",
+    "gameNo": "017",
+    "ename": "Hisuian Lilligant V"
   },
   {
     "id": "6240",
@@ -421,7 +455,9 @@
         "effect": "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_18.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_18.jpg",
+    "gameNo": "018",
+    "ename": "Hisuian Lilligant VSTAR"
   },
   {
     "id": "6305",
@@ -441,7 +477,9 @@
         "effect": "掷1次硬币若为正面，则增加10点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_19.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_19.jpg",
+    "gameNo": "019",
+    "ename": "Rowlet"
   },
   {
     "id": "6306",
@@ -465,7 +503,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_20.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_20.jpg",
+    "gameNo": "020",
+    "ename": "Dartrix"
   },
   {
     "id": "6310",
@@ -485,7 +525,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_21.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_21.jpg",
+    "gameNo": "021",
+    "ename": "Ponyta"
   },
   {
     "id": "6311",
@@ -509,7 +551,9 @@
         "effect": "将对手的战斗宝可梦【灼伤】。在下个对手的回合，受到这个招式的宝可梦无法撤退。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_22.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_22.jpg",
+    "gameNo": "022",
+    "ename": "Rapidash"
   },
   {
     "id": "6241",
@@ -533,7 +577,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_23.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_23.jpg",
+    "gameNo": "023",
+    "ename": "Cyndaquil"
   },
   {
     "id": "6242",
@@ -557,7 +603,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_24.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_24.jpg",
+    "gameNo": "024",
+    "ename": "Quilava"
   },
   {
     "id": "6313",
@@ -585,7 +633,9 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_25.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_25.jpg",
+    "gameNo": "025",
+    "ename": "Heatran V"
   },
   {
     "id": "6314",
@@ -613,7 +663,9 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_26.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_26.jpg",
+    "gameNo": "026",
+    "ename": "Heatran VMAX"
   },
   {
     "id": "6116",
@@ -637,7 +689,9 @@
         "effect": "造成这只宝可梦身上放置的伤害指示物的数量×70点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_27.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_27.jpg",
+    "gameNo": "027",
+    "ename": "Radiant Heatran"
   },
   {
     "id": "6315",
@@ -661,7 +715,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_28.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_28.jpg",
+    "gameNo": "028",
+    "ename": "Psyduck"
   },
   {
     "id": "6316",
@@ -685,7 +741,9 @@
         "effect": "将双方的战斗宝可梦与附加的卡全部丢弃。[自己先将下一只宝可梦放置于战斗场。]"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_29.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_29.jpg",
+    "gameNo": "029",
+    "ename": "Golduck"
   },
   {
     "id": "6067",
@@ -713,7 +771,9 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_30.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_30.jpg",
+    "gameNo": "030",
+    "ename": "Starmie V"
   },
   {
     "id": "6068",
@@ -737,7 +797,9 @@
         "effect": "将对手的战斗宝可梦【睡眠】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_31.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_31.jpg",
+    "gameNo": "031",
+    "ename": "Swinub"
   },
   {
     "id": "6069",
@@ -761,7 +823,9 @@
         "effect": "对手的所有备战宝可梦也各受到10点伤害。[在备战区不计算弱点・抵抗力。]"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_32.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_32.jpg",
+    "gameNo": "032",
+    "ename": "Piloswine"
   },
   {
     "id": "6070",
@@ -785,7 +849,9 @@
         "effect": "选择1个这只宝可梦身上附加的能量，将其丢弃。在下个对手的回合，受到这个招式的宝可梦无法使用招式。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_33.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_33.jpg",
+    "gameNo": "033",
+    "ename": "Mamoswine"
   },
   {
     "id": "6246",
@@ -809,7 +875,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_34.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_34.jpg",
+    "gameNo": "034",
+    "ename": "Mantine"
   },
   {
     "id": "6071",
@@ -829,7 +897,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_35.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_35.jpg",
+    "gameNo": "035",
+    "ename": "Barboach"
   },
   {
     "id": "6072",
@@ -853,7 +923,9 @@
         "effect": "掷1次硬币若为正面，则增加60点伤害。若为反面，则这只宝可梦也受到60点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_36.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_36.jpg",
+    "gameNo": "036",
+    "ename": "Whiscash"
   },
   {
     "id": "6318",
@@ -877,7 +949,9 @@
         "effect": "在下个对手的回合，受到这个招式的「宝可梦【V】」，无法使用招式。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_37.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_37.jpg",
+    "gameNo": "037",
+    "ename": "Regice"
   },
   {
     "id": "6320",
@@ -901,7 +975,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_38.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_38.jpg",
+    "gameNo": "038",
+    "ename": "Glaceon"
   },
   {
     "id": "6321",
@@ -929,7 +1005,9 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_39.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_39.jpg",
+    "gameNo": "039",
+    "ename": "Origin Forme Palkia V"
   },
   {
     "id": "6322",
@@ -957,7 +1035,9 @@
         "effect": "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_40.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_40.jpg",
+    "gameNo": "040",
+    "ename": "Origin Forme Palkia VSTAR"
   },
   {
     "id": "6247",
@@ -977,7 +1057,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_41.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_41.jpg",
+    "gameNo": "041",
+    "ename": "Oshawott"
   },
   {
     "id": "6248",
@@ -997,7 +1079,9 @@
         "effect": "掷1次硬币若为正面，则增加20点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_42.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_42.jpg",
+    "gameNo": "042",
+    "ename": "Dewott"
   },
   {
     "id": "6073",
@@ -1021,7 +1105,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_43.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_43.jpg",
+    "gameNo": "043",
+    "ename": "Hisuian Basculin"
   },
   {
     "id": "6074",
@@ -1045,7 +1131,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_44.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_44.jpg",
+    "gameNo": "044",
+    "ename": "Hisuian Basculegion"
   },
   {
     "id": "6075",
@@ -1069,7 +1157,9 @@
         "effect": "增加自己的备战宝可梦的数量×20点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_45.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_45.jpg",
+    "gameNo": "045",
+    "ename": "Keldeo"
   },
   {
     "id": "6117",
@@ -1097,7 +1187,9 @@
         "effect": "将这只宝可梦身上附加的2个能量丢弃，对手的2只宝可梦各受到90点伤害。[在备战区不计算弱点・抵抗力。]"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_46.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_46.jpg",
+    "gameNo": "046",
+    "ename": "Radiant Greninja"
   },
   {
     "id": "6323",
@@ -1117,7 +1209,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_47.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_47.jpg",
+    "gameNo": "047",
+    "ename": "Bergmite"
   },
   {
     "id": "6324",
@@ -1141,7 +1235,9 @@
         "effect": "若场上有竞技场卡，则增加120点伤害。然后，将那张竞技场卡丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_48.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_48.jpg",
+    "gameNo": "048",
+    "ename": "Hisuian Avalugg"
   },
   {
     "id": "5591",
@@ -1169,7 +1265,9 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_49.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_49.jpg",
+    "gameNo": "049",
+    "ename": "Galarian Mr. Rime V"
   },
   {
     "id": "6253",
@@ -1197,7 +1295,9 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_50.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_50.jpg",
+    "gameNo": "050",
+    "ename": "Luxray V"
   },
   {
     "id": "6254",
@@ -1221,7 +1321,9 @@
         "effect": "将这只宝可梦身上附加的2个【雷】能量丢弃，对手的1只备战宝可梦受到120点伤害。[在备战区不计算弱点・抵抗力。]"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_51.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_51.jpg",
+    "gameNo": "051",
+    "ename": "Regieleki"
   },
   {
     "id": "6255",
@@ -1245,7 +1347,9 @@
         "effect": "在下个对手的回合，受到这个招式的宝可梦无法撤退。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_52.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_52.jpg",
+    "gameNo": "052",
+    "ename": "Hisuian Typhlosion"
   },
   {
     "id": "6077",
@@ -1273,7 +1377,9 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_53.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_53.jpg",
+    "gameNo": "053",
+    "ename": "Hisuian Typhlosion V"
   },
   {
     "id": "6078",
@@ -1301,7 +1407,9 @@
         "effect": "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_54.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_54.jpg",
+    "gameNo": "054",
+    "ename": "Hisuian Typhlosion VSTAR"
   },
   {
     "id": "6325",
@@ -1325,7 +1433,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_55.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_55.jpg",
+    "gameNo": "055",
+    "ename": "Togepi"
   },
   {
     "id": "6326",
@@ -1349,7 +1459,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_56.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_56.jpg",
+    "gameNo": "056",
+    "ename": "Togetic"
   },
   {
     "id": "6327",
@@ -1373,7 +1485,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_57.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_57.jpg",
+    "gameNo": "057",
+    "ename": "Togekiss"
   },
   {
     "id": "6079",
@@ -1393,7 +1507,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_58.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_58.jpg",
+    "gameNo": "058",
+    "ename": "Misdreavus"
   },
   {
     "id": "6080",
@@ -1417,7 +1533,9 @@
         "effect": "将对手的战斗宝可梦【混乱】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_59.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_59.jpg",
+    "gameNo": "059",
+    "ename": "Mismagius"
   },
   {
     "id": "6081",
@@ -1437,7 +1555,9 @@
         "effect": "将这只宝可梦与备战宝可梦互换。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_60.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_60.jpg",
+    "gameNo": "060",
+    "ename": "Ralts"
   },
   {
     "id": "6082",
@@ -1457,7 +1577,9 @@
         "effect": "将这只宝可梦与备战宝可梦互换。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_61.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_61.jpg",
+    "gameNo": "061",
+    "ename": "Kirlia"
   },
   {
     "id": "6083",
@@ -1481,7 +1603,9 @@
         "effect": "选择1个这只宝可梦身上附加的能量，改附于备战宝可梦身上。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_62.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_62.jpg",
+    "gameNo": "062",
+    "ename": "Gallade"
   },
   {
     "id": "6258",
@@ -1501,7 +1625,9 @@
         "effect": "掷3次硬币，造成正面出现的次数×10点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_63.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_63.jpg",
+    "gameNo": "063",
+    "ename": "Drifloon"
   },
   {
     "id": "6259",
@@ -1521,7 +1647,9 @@
         "effect": "在对手的1只备战宝可梦身上放置2个伤害指示物。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_64.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_64.jpg",
+    "gameNo": "064",
+    "ename": "Drifblim"
   },
   {
     "id": "6328",
@@ -1545,7 +1673,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_65.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_65.jpg",
+    "gameNo": "065",
+    "ename": "Uxie"
   },
   {
     "id": "6329",
@@ -1569,7 +1699,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_66.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_66.jpg",
+    "gameNo": "066",
+    "ename": "Mesprit"
   },
   {
     "id": "6330",
@@ -1589,7 +1721,9 @@
         "effect": "将对手的战斗宝可梦【混乱】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_67.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_67.jpg",
+    "gameNo": "067",
+    "ename": "Azelf"
   },
   {
     "id": "6084",
@@ -1613,7 +1747,9 @@
         "effect": "从自己的牌库抽出2张卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_68.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_68.jpg",
+    "gameNo": "068",
+    "ename": "Diancie"
   },
   {
     "id": "6085",
@@ -1637,7 +1773,9 @@
         "effect": "若自己的手牌的张数与对手的手牌的张数相同，则增加80点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_69.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_69.jpg",
+    "gameNo": "069",
+    "ename": "Wyrdeer"
   },
   {
     "id": "6261",
@@ -1661,7 +1799,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_70.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_70.jpg",
+    "gameNo": "070",
+    "ename": "Hisuian Growlithe"
   },
   {
     "id": "6262",
@@ -1685,7 +1825,9 @@
         "effect": "若这只宝可梦身上附有【火】能量，则增加80点伤害，并将对手的战斗宝可梦【灼伤】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_71.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_71.jpg",
+    "gameNo": "071",
+    "ename": "Hisuian Arcanine"
   },
   {
     "id": "6264",
@@ -1713,7 +1855,9 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_72.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_72.jpg",
+    "gameNo": "072",
+    "ename": "Machamp V"
   },
   {
     "id": "6265",
@@ -1741,7 +1885,9 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_73.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_73.jpg",
+    "gameNo": "073",
+    "ename": "Machamp VMAX"
   },
   {
     "id": "6266",
@@ -1765,7 +1911,9 @@
         "effect": "这只宝可梦也受到30点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_74.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_74.jpg",
+    "gameNo": "074",
+    "ename": "Sudowoodo"
   },
   {
     "id": "6335",
@@ -1789,7 +1937,9 @@
         "effect": "在下个自己的回合，这只宝可梦无法使用招式。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_75.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_75.jpg",
+    "gameNo": "075",
+    "ename": "Regirock"
   },
   {
     "id": "6267",
@@ -1813,7 +1963,9 @@
         "effect": "掷1次硬币若为正面，则增加40点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_76.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_76.jpg",
+    "gameNo": "076",
+    "ename": "Cranidos"
   },
   {
     "id": "6268",
@@ -1837,7 +1989,9 @@
         "effect": "若对手的手牌为3张以下，则这个招式失败。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_77.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_77.jpg",
+    "gameNo": "077",
+    "ename": "Rampardos"
   },
   {
     "id": "6189",
@@ -1865,7 +2019,9 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_78.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_78.jpg",
+    "gameNo": "078",
+    "ename": "Lucario V"
   },
   {
     "id": "6090",
@@ -1889,7 +2045,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_79.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_79.jpg",
+    "gameNo": "079",
+    "ename": "Hippopotas"
   },
   {
     "id": "6091",
@@ -1913,7 +2071,9 @@
         "effect": "选择2个这只宝可梦身上附加的能量，将其丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_80.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_80.jpg",
+    "gameNo": "080",
+    "ename": "Hippowdon"
   },
   {
     "id": "6118",
@@ -1941,7 +2101,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_81.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_81.jpg",
+    "gameNo": "081",
+    "ename": "Radiant Hawlucha"
   },
   {
     "id": "6338",
@@ -1965,7 +2127,9 @@
         "effect": "对手的1只宝可梦受到80点伤害。[在备战区不计算弱点・抵抗力。]"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_82.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_82.jpg",
+    "gameNo": "082",
+    "ename": "Hisuian Decidueye"
   },
   {
     "id": "6092",
@@ -1993,7 +2157,9 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_83.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_83.jpg",
+    "gameNo": "083",
+    "ename": "Hisuian Decidueye V"
   },
   {
     "id": "6093",
@@ -2021,7 +2187,9 @@
         "effect": "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_84.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_84.jpg",
+    "gameNo": "084",
+    "ename": "Hisuian Decidueye VSTAR"
   },
   {
     "id": "6194",
@@ -2045,7 +2213,9 @@
         "effect": "这只宝可梦也受到50点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_85.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_85.jpg",
+    "gameNo": "085",
+    "ename": "Kleavor"
   },
   {
     "id": "6094",
@@ -2069,7 +2239,9 @@
         "effect": "这只宝可梦也受到30点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_86.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_86.jpg",
+    "gameNo": "086",
+    "ename": "Kleavor"
   },
   {
     "id": "6339",
@@ -2097,7 +2269,9 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_87.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_87.jpg",
+    "gameNo": "087",
+    "ename": "Kleavor V"
   },
   {
     "id": "6211",
@@ -2121,7 +2295,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_88.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_88.jpg",
+    "gameNo": "088",
+    "ename": "Hisuian Qwilfish"
   },
   {
     "id": "6095",
@@ -2141,7 +2317,9 @@
         "effect": "掷硬币直到出现反面，造成正面出现的次数×10点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_89.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_89.jpg",
+    "gameNo": "089",
+    "ename": "Hisuian Qwilfish"
   },
   {
     "id": "6096",
@@ -2165,7 +2343,9 @@
         "effect": "在下个对手的回合，受到这个招式的宝可梦无法撤退。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_90.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_90.jpg",
+    "gameNo": "090",
+    "ename": "Hisuian Overqwil"
   },
   {
     "id": "6212",
@@ -2189,7 +2369,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_91.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_91.jpg",
+    "gameNo": "091",
+    "ename": "Hisuian Overqwil"
   },
   {
     "id": "6341",
@@ -2213,7 +2395,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_92.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_92.jpg",
+    "gameNo": "092",
+    "ename": "Hisuian Sneasel"
   },
   {
     "id": "6342",
@@ -2237,7 +2421,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_93.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_93.jpg",
+    "gameNo": "093",
+    "ename": "Hisuian Sneasler"
   },
   {
     "id": "6343",
@@ -2265,7 +2451,9 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_94.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_94.jpg",
+    "gameNo": "094",
+    "ename": "Hisuian Sneasler V"
   },
   {
     "id": "6097",
@@ -2289,7 +2477,9 @@
         "effect": "这只宝可梦也受到10点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_95.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_95.jpg",
+    "gameNo": "095",
+    "ename": "Poochyena"
   },
   {
     "id": "6098",
@@ -2313,7 +2503,9 @@
         "effect": "这只宝可梦也受到50点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_96.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_96.jpg",
+    "gameNo": "096",
+    "ename": "Mightyena"
   },
   {
     "id": "6099",
@@ -2337,7 +2529,9 @@
         "effect": "若对手的战斗宝可梦身上放置有伤害指示物，则增加70点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_97.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_97.jpg",
+    "gameNo": "097",
+    "ename": "Absol"
   },
   {
     "id": "6214",
@@ -2365,7 +2559,9 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_98.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_98.jpg",
+    "gameNo": "098",
+    "ename": "Darkrai V"
   },
   {
     "id": "6215",
@@ -2393,7 +2589,9 @@
         "effect": "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_99.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_99.jpg",
+    "gameNo": "099",
+    "ename": "Darkrai VSTAR"
   },
   {
     "id": "6273",
@@ -2417,7 +2615,9 @@
         "effect": "增加自己的场上宝可梦身上附加的能量的数量×20点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_100.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_100.jpg",
+    "gameNo": "100",
+    "ename": "Hisuian Samurott"
   },
   {
     "id": "6100",
@@ -2445,7 +2645,9 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_101.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_101.jpg",
+    "gameNo": "101",
+    "ename": "Hisuian Samurott V"
   },
   {
     "id": "6101",
@@ -2473,7 +2675,9 @@
         "effect": "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_102.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_102.jpg",
+    "gameNo": "102",
+    "ename": "Hisuian Samurott VSTAR"
   },
   {
     "id": "6274",
@@ -2493,7 +2697,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_103.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_103.jpg",
+    "gameNo": "103",
+    "ename": "Nickit"
   },
   {
     "id": "6275",
@@ -2517,7 +2723,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_104.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_104.jpg",
+    "gameNo": "104",
+    "ename": "Thievul"
   },
   {
     "id": "6276",
@@ -2541,7 +2749,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_105.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_105.jpg",
+    "gameNo": "105",
+    "ename": "Magnemite"
   },
   {
     "id": "6277",
@@ -2561,7 +2771,9 @@
         "effect": "将对手的战斗宝可梦与备战宝可梦互换。[由对手选择放置于战斗场的宝可梦。]"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_106.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_106.jpg",
+    "gameNo": "106",
+    "ename": "Magneton"
   },
   {
     "id": "6278",
@@ -2585,7 +2797,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_107.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_107.jpg",
+    "gameNo": "107",
+    "ename": "Magnezone"
   },
   {
     "id": "6279",
@@ -2609,7 +2823,9 @@
         "effect": "减少对手的战斗宝可梦【撤退】所需的能量的数量×50点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_108.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_108.jpg",
+    "gameNo": "108",
+    "ename": "Registeel"
   },
   {
     "id": "6345",
@@ -2633,7 +2849,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_109.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_109.jpg",
+    "gameNo": "109",
+    "ename": "Shieldon"
   },
   {
     "id": "6346",
@@ -2657,7 +2875,9 @@
         "effect": "这只宝可梦也受到30点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_110.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_110.jpg",
+    "gameNo": "110",
+    "ename": "Bastiodon"
   },
   {
     "id": "6347",
@@ -2677,7 +2897,9 @@
         "effect": "掷1次硬币若为正面，则将对手的战斗宝可梦【麻痺】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_111.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_111.jpg",
+    "gameNo": "111",
+    "ename": "Bronzor"
   },
   {
     "id": "6348",
@@ -2701,7 +2923,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_112.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_112.jpg",
+    "gameNo": "112",
+    "ename": "Bronzong"
   },
   {
     "id": "6280",
@@ -2729,7 +2953,9 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_113.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_113.jpg",
+    "gameNo": "113",
+    "ename": "Origin Forme Dialga V"
   },
   {
     "id": "6281",
@@ -2757,7 +2983,9 @@
         "effect": "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_114.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_114.jpg",
+    "gameNo": "114",
+    "ename": "Origin Forme Dialga VSTAR"
   },
   {
     "id": "6282",
@@ -2777,7 +3005,9 @@
         "effect": "这只宝可梦也受到10点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_115.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_115.jpg",
+    "gameNo": "115",
+    "ename": "Pawniard"
   },
   {
     "id": "6283",
@@ -2801,7 +3031,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_116.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_116.jpg",
+    "gameNo": "116",
+    "ename": "Bisharp"
   },
   {
     "id": "6102",
@@ -2829,7 +3061,9 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_117.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_117.jpg",
+    "gameNo": "117",
+    "ename": "Garchomp V"
   },
   {
     "id": "6350",
@@ -2853,7 +3087,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_118.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_118.jpg",
+    "gameNo": "118",
+    "ename": "Regidrago"
   },
   {
     "id": "6353",
@@ -2877,7 +3113,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_119.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_119.jpg",
+    "gameNo": "119",
+    "ename": "Eevee"
   },
   {
     "id": "6103",
@@ -2901,7 +3139,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_120.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_120.jpg",
+    "gameNo": "120",
+    "ename": "Hoothoot"
   },
   {
     "id": "6104",
@@ -2925,7 +3165,9 @@
         "effect": "选择1个这只宝可梦身上附加的能量，将其丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_121.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_121.jpg",
+    "gameNo": "121",
+    "ename": "Noctowl"
   },
   {
     "id": "6354",
@@ -2949,7 +3191,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_122.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_122.jpg",
+    "gameNo": "122",
+    "ename": "Teddiursa"
   },
   {
     "id": "6355",
@@ -2973,7 +3217,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_123.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_123.jpg",
+    "gameNo": "123",
+    "ename": "Ursaring"
   },
   {
     "id": "6356",
@@ -2997,7 +3243,9 @@
         "effect": "选择2个这只宝可梦身上附加的能量，将其丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_124.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_124.jpg",
+    "gameNo": "124",
+    "ename": "Ursaluna"
   },
   {
     "id": "6105",
@@ -3017,7 +3265,9 @@
         "effect": "在下个对手的回合，这只宝可梦受到招式的伤害「-30」点。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_125.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_125.jpg",
+    "gameNo": "125",
+    "ename": "Stantler"
   },
   {
     "id": "6106",
@@ -3041,7 +3291,9 @@
         "effect": "增加对手的备战宝可梦的数量×20点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_126.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_126.jpg",
+    "gameNo": "126",
+    "ename": "Miltank"
   },
   {
     "id": "6107",
@@ -3061,7 +3313,9 @@
         "effect": "掷1次硬币若为正面，则将对手的战斗宝可梦【麻痺】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_127.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_127.jpg",
+    "gameNo": "127",
+    "ename": "Glameow"
   },
   {
     "id": "6108",
@@ -3085,7 +3339,9 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_128.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_128.jpg",
+    "gameNo": "128",
+    "ename": "Purugly"
   },
   {
     "id": "6285",
@@ -3109,7 +3365,9 @@
         "effect": "在下个对手的回合，受到这个招式的宝可梦无法撤退。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_129.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_129.jpg",
+    "gameNo": "129",
+    "ename": "Chatot"
   },
   {
     "id": "6286",
@@ -3133,7 +3391,9 @@
         "effect": "若对手的战斗宝可梦为「宝可梦【VMAX】」，则增加150点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_130.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_130.jpg",
+    "gameNo": "130",
+    "ename": "Regigigas"
   },
   {
     "id": "6287",
@@ -3153,7 +3413,9 @@
         "effect": "掷1次硬币若为反面，则这个招式失败。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_131.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_131.jpg",
+    "gameNo": "131",
+    "ename": "Rufflet"
   },
   {
     "id": "6288",
@@ -3177,7 +3439,9 @@
         "effect": "在下个自己的回合，这只宝可梦无法使用「猛击在地」。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_132.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_132.jpg",
+    "gameNo": "132",
+    "ename": "Hisuian Braviary"
   },
   {
     "id": "6357",
@@ -3205,7 +3469,9 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_133.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_133.jpg",
+    "gameNo": "133",
+    "ename": "Oranguru V"
   },
   {
     "id": "6291",
@@ -3233,7 +3499,9 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_134.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_134.jpg",
+    "gameNo": "134",
+    "ename": "Wyrdeer V"
   },
   {
     "id": "6299",
@@ -3251,7 +3519,9 @@
         "effect": "在自己的回合时，只可将1张竞技场卡放置于战斗场旁边。若其他名称的竞技场卡被放置，则将这张卡丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_142.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_142.jpg",
+    "gameNo": "142",
+    "ename": "Gapejaw Bog"
   },
   {
     "id": "6115",
@@ -3269,7 +3539,9 @@
         "effect": "在自己的回合时，只可将1张竞技场卡放置于战斗场旁边。若其他名称的竞技场卡被放置，则将这张卡丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_148.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_148.jpg",
+    "gameNo": "148",
+    "ename": "Jubilife Village"
   },
   {
     "id": "6366",
@@ -3287,7 +3559,9 @@
         "effect": "在自己的回合时，只可将1张竞技场卡放置于战斗场旁边。若其他名称的竞技场卡被放置，则将这张卡丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_155.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_155.jpg",
+    "gameNo": "155",
+    "ename": "Temple of Sinnoh"
   },
   {
     "id": "6296",
@@ -3305,7 +3579,9 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_135.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_135.jpg",
+    "gameNo": "135",
+    "ename": "Adaman"
   },
   {
     "id": "6365",
@@ -3323,7 +3599,9 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_137.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_137.jpg",
+    "gameNo": "137",
+    "ename": "Choy"
   },
   {
     "id": "6112",
@@ -3341,7 +3619,9 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_138.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_138.jpg",
+    "gameNo": "138",
+    "ename": "Cyllene"
   },
   {
     "id": "6297",
@@ -3359,7 +3639,9 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_143.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_143.jpg",
+    "gameNo": "143",
+    "ename": "Gardenia's Vigor"
   },
   {
     "id": "6364",
@@ -3377,7 +3659,9 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_144.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_144.jpg",
+    "gameNo": "144",
+    "ename": "Grant"
   },
   {
     "id": "6363",
@@ -3395,7 +3679,9 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_147.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_147.jpg",
+    "gameNo": "147",
+    "ename": "Irida"
   },
   {
     "id": "6114",
@@ -3413,7 +3699,9 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_149.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_149.jpg",
+    "gameNo": "149",
+    "ename": "Kamado"
   },
   {
     "id": "6113",
@@ -3431,7 +3719,9 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_150.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_150.jpg",
+    "gameNo": "150",
+    "ename": "Roxanne"
   },
   {
     "id": "6298",
@@ -3449,7 +3739,9 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_159.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_159.jpg",
+    "gameNo": "159",
+    "ename": "Zisu"
   },
   {
     "id": "6362",
@@ -3471,7 +3763,9 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_152.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_152.jpg",
+    "gameNo": "152",
+    "ename": "Supereffective Glasses"
   },
   {
     "id": "6111",
@@ -3489,7 +3783,9 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_136.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_136.jpg",
+    "gameNo": "136",
+    "ename": "Canceling Cologne"
   },
   {
     "id": "6219",
@@ -3507,7 +3803,9 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_139.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_139.jpg",
+    "gameNo": "139",
+    "ename": "Dark Patch"
   },
   {
     "id": "6359",
@@ -3525,7 +3823,9 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_140.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_140.jpg",
+    "gameNo": "140",
+    "ename": "Energy Loto"
   },
   {
     "id": "6295",
@@ -3543,7 +3843,9 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_141.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_141.jpg",
+    "gameNo": "141",
+    "ename": "Feather Ball"
   },
   {
     "id": "6196",
@@ -3561,7 +3863,9 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_145.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_145.jpg",
+    "gameNo": "145",
+    "ename": "Gutsy Pickaxe"
   },
   {
     "id": "6361",
@@ -3579,7 +3883,9 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_146.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_146.jpg",
+    "gameNo": "146",
+    "ename": "Hisuian Heavy Ball"
   },
   {
     "id": "5596",
@@ -3597,7 +3903,9 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_151.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_151.jpg",
+    "gameNo": "151",
+    "ename": "Spicy Seasoned Curry"
   },
   {
     "id": "6110",
@@ -3615,7 +3923,9 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_153.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_153.jpg",
+    "gameNo": "153",
+    "ename": "Sweet Honey"
   },
   {
     "id": "6292",
@@ -3633,7 +3943,9 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_154.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_154.jpg",
+    "gameNo": "154",
+    "ename": "Switch Cart"
   },
   {
     "id": "6293",
@@ -3651,7 +3963,9 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_156.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_156.jpg",
+    "gameNo": "156",
+    "ename": "Trekking Shoes"
   },
   {
     "id": "6360",
@@ -3669,7 +3983,9 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_157.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_157.jpg",
+    "gameNo": "157",
+    "ename": "Unidentified Fossil"
   },
   {
     "id": "6109",
@@ -3687,6 +4003,8 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_158.jpg"
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_158.jpg",
+    "gameNo": "158",
+    "ename": "Wait and See Turbo"
   }
 ]
