@@ -134,16 +134,17 @@
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7941/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007941.png",
     "extraInformation": [
-      "No.283水黽寶可夢",
-      "身高0.5/體重1.7",
-      "平時住在池塘裡，午後下過雷陣雨時，會出現在街上的小水窪中。"
+      "No.283水黾宝可梦",
+      "身高0.5/体重1.7",
+      "平时住在池塘里，午后下过雷阵雨时，会出现在街上的小水洼中。"
     ],
     "typeEnergy": "Grass",
+    "type": "Pokemon",
     "cardName": "溜溜糖球",
     "skillList": [
       {
-        "name": "猛撲",
-        "effect": "擲1次硬幣若為反面，則這個招式失敗。"
+        "name": "猛扑",
+        "effect": "掷1次硬币若为反面，则这个招式失败。"
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_6.jpg",
@@ -155,19 +156,20 @@
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7942/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007942.png",
     "extraInformation": [
-      "No.284眼珠寶可夢",
-      "身高0.8/體重3.6",
-      "能用4片翅膀浮在空中，並前後左右自在地飛來飛去。"
+      "No.284眼珠宝可梦",
+      "身高0.8/体重3.6",
+      "能用4片翅膀浮在空中，并前后左右自在地飞来飞去。"
     ],
     "typeEnergy": "Grass",
+    "type": "Pokemon",
     "cardName": "雨翅蛾",
     "skillList": [
       {
-        "name": "恐慌花紋",
-        "effect": "擲硬幣直到出現反面，在不看手牌正面的情況下，選擇與正面出現的次數相同數量的對手的手牌，將其丟棄。"
+        "name": "恐慌花纹",
+        "effect": "掷硬币直到出现反面，在不看手牌正面的情况下，选择与正面出现的次数相同数量的对手的手牌，将其丢弃。"
       },
       {
-        "name": "蟲鳴",
+        "name": "虫鸣",
         "effect": ""
       }
     ],
@@ -376,11 +378,12 @@
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7947/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007947.png",
     "extraInformation": [
-      "No.761水果寶可夢",
-      "身高0.3/體重3.2",
-      "汗水帶著像是經過熬煮的水果甜味，在過去甜食尚少的時代相當受到人們珍視。"
+      "No.761水果宝可梦",
+      "身高0.3/体重3.2",
+      "汗水带著像是经过熬煮的水果甜味，在过去甜食尚少的时代相当受到人们珍视。"
     ],
     "typeEnergy": "Grass",
+    "type": "Pokemon",
     "cardName": "甜竹竹",
     "skillList": [
       {
@@ -388,8 +391,8 @@
         "effect": ""
       },
       {
-        "name": "突擊",
-        "effect": "這隻寶可夢也受到10點傷害。"
+        "name": "突击",
+        "effect": "这只宝可梦也受到10点伤害。"
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_16.jpg",
@@ -401,19 +404,20 @@
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7948/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007948.png",
     "extraInformation": [
-      "No.762水果寶可夢",
-      "身高0.7/體重8.2",
-      "會散發出能振奮心情的香甜氣味。作為止汗劑的香味擁有極高的人氣。"
+      "No.762水果宝可梦",
+      "身高0.7/体重8.2",
+      "会散发出能振奋心情的香甜气味。作为止汗剂的香味拥有极高的人气。"
     ],
     "typeEnergy": "Grass",
+    "type": "Pokemon",
     "cardName": "甜舞妮",
     "skillList": [
       {
-        "name": "芳香治療",
-        "effect": "將自己的所有寶可夢各恢復「30」HP。"
+        "name": "芳香治疗",
+        "effect": "将自己的所有宝可梦各恢复「30」HP。"
       },
       {
-        "name": "飛葉快刀",
+        "name": "飞叶快刀",
         "effect": ""
       }
     ],
@@ -426,20 +430,21 @@
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7949/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007949.png",
     "extraInformation": [
-      "No.763水果寶可夢",
-      "身高1.2/體重21.4",
-      "雖然性情高傲且攻擊性強，但據說只要摸摸牠果蒂的冠，牠立刻會變得很溫順。"
+      "No.763水果宝可梦",
+      "身高1.2/体重21.4",
+      "虽然性情高傲且攻击性强，但据说只要摸摸牠果蒂的冠，牠立刻会变得很温顺。"
     ],
     "typeEnergy": "Grass",
+    "type": "Pokemon",
     "cardName": "甜冷美后",
     "skillList": [
       {
-        "name": "女王的腳跟",
-        "effect": "在下個對手的回合，受到這個招式的寶可夢無法進化成從手牌使出的寶可夢。"
+        "name": "女王的脚跟",
+        "effect": "在下个对手的回合，受到这个招式的宝可梦无法进化成从手牌使出的宝可梦。"
       },
       {
-        "name": "旋轉踢",
-        "effect": "這隻寶可夢也受到20點傷害。"
+        "name": "旋转踢",
+        "effect": "这只宝可梦也受到20点伤害。"
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_18.jpg",
@@ -742,19 +747,20 @@
     "id": "8021",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/8021/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008021.png",
-    "cardName": "呆火駝",
+    "cardName": "呆火驼",
     "skillList": [
       {
-        "name": "熾熱熔岩",
-        "effect": "將對手的戰鬥寶可夢【灼傷】。"
+        "name": "炽热熔岩",
+        "effect": "将对手的战斗宝可梦【灼伤】。"
       }
     ],
     "extraInformation": [
-      "No.322遲鈍寶可夢",
-      "身高0.7/體重24.0",
-      "體內燃燒著1200度的熔岩。一旦氣溫變低，熔岩就會凝固，動作也會因此變得遲緩。"
+      "No.322迟钝宝可梦",
+      "身高0.7/体重24.0",
+      "体内燃烧著1200度的熔岩。一旦气温变低，熔岩就会凝固，动作也会因此变得迟缓。"
     ],
     "typeEnergy": "Fire",
+    "type": "Pokemon",
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_31.jpg",
     "gameNo": "031",
     "ename": "Numel"
@@ -763,23 +769,24 @@
     "id": "8022",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/8022/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008022.png",
-    "cardName": "噴火駝",
+    "cardName": "喷火驼",
     "skillList": [
       {
-        "name": "噴火",
-        "effect": "將雙方的牌庫上方各1張卡丟棄，增加其中能量卡的張數×100點傷害。"
+        "name": "喷火",
+        "effect": "将双方的牌库上方各1张卡丢弃，增加其中能量卡的张数×100点伤害。"
       },
       {
-        "name": "爆熱踩踏",
+        "name": "爆热踩踏",
         "effect": ""
       }
     ],
     "extraInformation": [
-      "No.323噴火寶可夢",
-      "身高1.9/體重220.0",
-      "平時生活在火山口。以背上的駝峰每10年會大爆發一次而聞名。"
+      "No.323喷火宝可梦",
+      "身高1.9/体重220.0",
+      "平时生活在火山口。以背上的驼峰每10年会大爆发一次而闻名。"
     ],
     "typeEnergy": "Fire",
+    "type": "Pokemon",
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_32.jpg",
     "gameNo": "032",
     "ename": "Camerupt"
@@ -2223,19 +2230,20 @@
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7903/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007903.png",
     "extraInformation": [
-      "No.325彈跳寶可夢",
-      "身高0.7/體重30.6",
-      "如果不保持跳動就會死亡。戴在頭上的珍珠能讓自己的精神力量增強。"
+      "No.325弹跳宝可梦",
+      "身高0.7/体重30.6",
+      "如果不保持跳动就会死亡。戴在头上的珍珠能让自己的精神力量增强。"
     ],
     "typeEnergy": "Psychic",
-    "cardName": "跳跳豬",
+    "type": "Pokemon",
+    "cardName": "跳跳猪",
     "skillList": [
       {
-        "name": "躍起",
+        "name": "跃起",
         "effect": ""
       },
       {
-        "name": "衝撞",
+        "name": "冲撞",
         "effect": ""
       }
     ],
@@ -2248,19 +2256,20 @@
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7904/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007904.png",
     "extraInformation": [
-      "No.326操縱寶可夢",
-      "身高0.9/體重71.5",
-      "操縱對手時跳的奇異舞步，過去曾在外國掀起過一陣風潮。"
+      "No.326操纵宝可梦",
+      "身高0.9/体重71.5",
+      "操纵对手时跳的奇异舞步，过去曾在外国掀起过一阵风潮。"
     ],
     "typeEnergy": "Psychic",
-    "cardName": "噗噗豬",
+    "type": "Pokemon",
+    "cardName": "噗噗猪",
     "skillList": [
       {
         "name": "力量舞步",
-        "effect": "從自己的牌庫選擇最多2張基本能量卡，以任意方式附於自己的寶可夢身上。並且重洗牌庫。"
+        "effect": "从自己的牌库选择最多2张基本能量卡，以任意方式附于自己的宝可梦身上。并且重洗牌库。"
       },
       {
-        "name": "意念頭錘",
+        "name": "意念头锤",
         "effect": ""
       }
     ],
@@ -2407,16 +2416,17 @@
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7975/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007975.png",
     "extraInformation": [
-      "No.854紅茶寶可夢",
-      "身高0.1/體重0.2",
-      "死於孤獨的死者之魂附在了喝剩的紅茶上。會在旅館或民宅出現。"
+      "No.854红茶宝可梦",
+      "身高0.1/体重0.2",
+      "死于孤独的死者之魂附在了喝剩的红茶上。会在旅馆或民宅出现。"
     ],
     "typeEnergy": "Psychic",
-    "cardName": "來悲茶",
+    "type": "Pokemon",
+    "cardName": "来悲茶",
     "skillList": [
       {
         "name": "冷茶",
-        "effect": "擲1次硬幣若為正面，則將對手的戰鬥寶可夢【麻痺】。"
+        "effect": "掷1次硬币若为正面，则将对手的战斗宝可梦【麻痺】。"
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_97.jpg",
@@ -2428,20 +2438,21 @@
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7976/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007976.png",
     "extraInformation": [
-      "No.855紅茶寶可夢",
-      "身高0.2/體重0.4",
-      "以紅茶構成的身體風味獨特卻不失美味，但飲用過量可能致死。"
+      "No.855红茶宝可梦",
+      "身高0.2/体重0.4",
+      "以红茶构成的身体风味独特却不失美味，但饮用过量可能致死。"
     ],
     "typeEnergy": "Psychic",
-    "cardName": "怖思壺",
+    "type": "Pokemon",
+    "cardName": "怖思壶",
     "skillList": [
       {
         "name": "集古董",
-        "effect": "從自己的棄牌區選擇「物品」卡與「寶可夢道具」卡合計最多2張，在給對手看過後加入手牌。"
+        "effect": "从自己的弃牌区选择「物品」卡与「宝可梦道具」卡合计最多2张，在给对手看过后加入手牌。"
       },
       {
         "name": "倒茶",
-        "effect": "在對手的戰鬥寶可夢身上放置5個傷害指示物。"
+        "effect": "在对手的战斗宝可梦身上放置5个伤害指示物。"
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_98.jpg",
@@ -2557,16 +2568,17 @@
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7911/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007911.png",
     "extraInformation": [
-      "No.50鼴鼠寶可夢",
-      "身高0.2/體重0.8",
-      "在大約1公尺深的地底挖洞前進，靠啃食樹根之類的東西生存。偶爾會到地面上露個臉。"
+      "No.50鼹鼠宝可梦",
+      "身高0.2/体重0.8",
+      "在大约1公尺深的地底挖洞前进，靠啃食树根之类的东西生存。偶尔会到地面上露个脸。"
     ],
     "typeEnergy": "Fighting",
+    "type": "Pokemon",
     "cardName": "地鼠",
     "skillList": [
       {
-        "name": "開洞頭擊",
-        "effect": "將自己的牌庫上方1張卡丟棄。"
+        "name": "开洞头击",
+        "effect": "将自己的牌库上方1张卡丢弃。"
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_103.jpg",
@@ -2578,16 +2590,17 @@
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7912/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007912.png",
     "extraInformation": [
-      "No.51鼴鼠寶可夢",
-      "身高0.7/體重33.3",
-      "三顆頭會輪流活動，是為了讓周圍的土變得更鬆更好挖。"
+      "No.51鼹鼠宝可梦",
+      "身高0.7/体重33.3",
+      "三颗头会轮流活动，是为了让周围的土变得更松更好挖。"
     ],
     "typeEnergy": "Fighting",
+    "type": "Pokemon",
     "cardName": "三地鼠",
     "skillList": [
       {
         "name": "挖洞",
-        "effect": "擲1次硬幣若為正面，則在下個對手的回合，這隻寶可夢不會受到招式的傷害與效果的影響。"
+        "effect": "掷1次硬币若为正面，则在下个对手的回合，这只宝可梦不会受到招式的伤害与效果的影响。"
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_104.jpg",
@@ -2676,23 +2689,24 @@
     "id": "8049",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/8049/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008049.png",
-    "cardName": "泥泥鰍",
+    "cardName": "泥泥鳅",
     "skillList": [
       {
         "name": "躲藏",
-        "effect": "擲1次硬幣若為正面，則在下個對手的回合，這隻寶可夢不會受到招式的傷害與效果的影響。"
+        "effect": "掷1次硬币若为正面，则在下个对手的回合，这只宝可梦不会受到招式的伤害与效果的影响。"
       },
       {
-        "name": "擲泥",
+        "name": "掷泥",
         "effect": ""
       }
     ],
     "extraInformation": [
-      "No.339鬚魚寶可夢",
-      "身高0.4/體重1.9",
-      "2根鬍子是靈敏的雷達。即使在因為泥濘而渾濁的水中，也能偵查到獵物的位置。"
+      "No.339须鱼宝可梦",
+      "身高0.4/体重1.9",
+      "2根胡子是灵敏的雷达。即使在因为泥泞而浑浊的水中，也能侦查到猎物的位置。"
     ],
     "typeEnergy": "Fighting",
+    "type": "Pokemon",
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_108.jpg",
     "gameNo": "108",
     "ename": "Barboach"
@@ -2701,11 +2715,11 @@
     "id": "8050",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/8050/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008050.png",
-    "cardName": "鯰魚王",
+    "cardName": "鲶鱼王",
     "skillList": [
       {
-        "name": "暴搖",
-        "effect": "將對手的牌庫上方與這隻寶可夢身上附加的【鬥】能量相同數量的卡丟棄。"
+        "name": "暴摇",
+        "effect": "将对手的牌库上方与这只宝可梦身上附加的【斗】能量相同数量的卡丢弃。"
       },
       {
         "name": "大地粉碎",
@@ -2713,11 +2727,12 @@
       }
     ],
     "extraInformation": [
-      "No.340鬚魚寶可夢",
-      "身高0.9/體重23.6",
-      "地盤意識非常強烈，如果有外敵靠近，就會劇烈搖晃地面發動襲擊。"
+      "No.340须鱼宝可梦",
+      "身高0.9/体重23.6",
+      "地盘意识非常强烈，如果有外敌靠近，就会剧烈摇晃地面发动袭击。"
     ],
     "typeEnergy": "Fighting",
+    "type": "Pokemon",
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_109.jpg",
     "gameNo": "109",
     "ename": "Whiscash"
@@ -2822,7 +2837,7 @@
     "id": "8053",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/8053/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008053.png",
-    "cardName": "好勝蟹",
+    "cardName": "好胜蟹",
     "skillList": [
       {
         "name": "拳骨",
@@ -2834,11 +2849,12 @@
       }
     ],
     "extraInformation": [
-      "No.739拳鬥寶可夢",
-      "身高0.6/體重7.0",
-      "會擊落樹上的樹果來吃。訓練和覓食都能同時達成，簡直可以說是一舉兩得。"
+      "No.739拳斗宝可梦",
+      "身高0.6/体重7.0",
+      "会击落树上的树果来吃。训练和觅食都能同时达成，简直可以说是一举两得。"
     ],
     "typeEnergy": "Fighting",
+    "type": "Pokemon",
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_114.jpg",
     "gameNo": "114",
     "ename": "Crabrawler"
@@ -2847,23 +2863,24 @@
     "id": "8054",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/8054/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008054.png",
-    "cardName": "好勝毛蟹",
+    "cardName": "好胜毛蟹",
     "skillList": [
       {
-        "name": "正面對決",
+        "name": "正面对决",
         "effect": ""
       },
       {
-        "name": "關節衝擊",
-        "effect": "在下個自己的回合，這隻寶可夢無法使用招式。"
+        "name": "关节冲击",
+        "effect": "在下个自己的回合，这只宝可梦无法使用招式。"
       }
     ],
     "extraInformation": [
-      "No.740毛蟹寶可夢",
-      "身高1.7/體重180.0",
-      "脫落的鉗子十分美味。還有些訓練家會特地帶著愛吃豚到山裡找牠。"
+      "No.740毛蟹宝可梦",
+      "身高1.7/体重180.0",
+      "脱落的钳子十分美味。还有些训练家会特地带著爱吃豚到山里找牠。"
     ],
     "typeEnergy": "Fighting",
+    "type": "Pokemon",
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_115.jpg",
     "gameNo": "115",
     "ename": "Crabominable"
@@ -3479,15 +3496,16 @@
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7927/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007927.png",
     "extraInformation": [
-      "No.757毒蜥寶可夢",
-      "身高0.6/體重4.8",
-      "會挑釁獵物並引進狹窄的岩堆裡，接著噴出能造成頭暈的毒瓦斯後奪其性命。"
+      "No.757毒蜥宝可梦",
+      "身高0.6/体重4.8",
+      "会挑衅猎物并引进狭窄的岩堆里，接著喷出能造成头晕的毒瓦斯后夺其性命。"
     ],
     "typeEnergy": "Darkness",
-    "cardName": "夜盜火蜥",
+    "type": "Pokemon",
+    "cardName": "夜盗火蜥",
     "skillList": [
       {
-        "name": "瓦斯包圍",
+        "name": "瓦斯包围",
         "effect": ""
       },
       {
@@ -3504,19 +3522,20 @@
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7928/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007928.png",
     "extraInformation": [
-      "No.758毒蜥寶可夢",
-      "身高1.2/體重22.2",
-      "會用妖豔的身姿誘惑被牠的毒瓦斯弄得頭昏眼花的對手，使其變成自己忠實的僕人。"
+      "No.758毒蜥宝可梦",
+      "身高1.2/体重22.2",
+      "会用妖艳的身姿诱惑被牠的毒瓦斯弄得头昏眼花的对手，使其变成自己忠实的仆人。"
     ],
     "typeEnergy": "Darkness",
+    "type": "Pokemon",
     "cardName": "焰后蜥",
     "skillList": [
       {
-        "name": "瓦斯包圍",
+        "name": "瓦斯包围",
         "effect": ""
       },
       {
-        "name": "重摑",
+        "name": "重掴",
         "effect": ""
       }
     ],
@@ -3607,19 +3626,20 @@
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7990/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007990.png",
     "extraInformation": [
-      "No.436青銅寶可夢",
-      "身高0.5/體重60.5",
-      "過去的人們相信，銅鏡怪背上的花紋裡蘊藏著神秘的力量。"
+      "No.436青铜宝可梦",
+      "身高0.5/体重60.5",
+      "过去的人们相信，铜镜怪背上的花纹里蕴藏著神秘的力量。"
     ],
     "typeEnergy": "Metal",
-    "cardName": "銅鏡怪",
+    "type": "Pokemon",
+    "cardName": "铜镜怪",
     "skillList": [
       {
-        "name": "鏡面抽出",
-        "effect": "從牌庫抽卡直到自己的手牌與對手的手牌張數相同為止。"
+        "name": "镜面抽出",
+        "effect": "从牌库抽卡直到自己的手牌与对手的手牌张数相同为止。"
       },
       {
-        "name": "高速飛行",
+        "name": "高速飞行",
         "effect": ""
       }
     ],
@@ -3632,20 +3652,21 @@
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7991/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007991.png",
     "extraInformation": [
-      "No.437銅鐘寶可夢",
-      "身高1.3/體重187",
-      "從遙遠的過去開始就被人當成能召喚雨雲的寶可夢而供奉著。有時候會被埋進地下。"
+      "No.437铜钟宝可梦",
+      "身高1.3/体重187",
+      "从遥远的过去开始就被人当成能召唤雨云的宝可梦而供奉著。有时候会被埋进地下。"
     ],
     "typeEnergy": "Metal",
-    "cardName": "青銅鐘",
+    "type": "Pokemon",
+    "cardName": "青铜钟",
     "skillList": [
       {
-        "name": "神諭壓制",
-        "effect": "在下個對手的回合，這隻寶可夢不會受到對手的寶可夢使用招式的效果的影響。"
+        "name": "神谕压制",
+        "effect": "在下个对手的回合，这只宝可梦不会受到对手的宝可梦使用招式的效果的影响。"
       },
       {
         "name": "神通力",
-        "effect": "若自己的手牌與對手的手牌張數相同，則增加90點傷害。"
+        "effect": "若自己的手牌与对手的手牌张数相同，则增加90点伤害。"
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_145.jpg",
@@ -4413,16 +4434,17 @@
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7929/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007929.png",
     "extraInformation": [
-      "No.734巡迴寶可夢",
-      "身高0.4/體重6.0",
-      "整個身體幾乎都是胃。每天都徘徊在固定的路線上，四處尋找新鮮的食物。"
+      "No.734巡回宝可梦",
+      "身高0.4/体重6.0",
+      "整个身体几乎都是胃。每天都徘徊在固定的路线上，四处寻找新鲜的食物。"
     ],
     "typeEnergy": "Colorless",
-    "cardName": "貓鼬少",
+    "type": "Pokemon",
+    "cardName": "猫鼬少",
     "skillList": [
       {
-        "name": "擊飛",
-        "effect": "擲1次硬幣若為正面，則增加10點傷害。"
+        "name": "击飞",
+        "effect": "掷1次硬币若为正面，则增加10点伤害。"
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_176.jpg",
@@ -4434,20 +4456,21 @@
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/7930/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007930.png",
     "extraInformation": [
-      "No.735監視寶可夢",
-      "身高0.7/體重14.2",
-      "一旦發現獵物的蹤跡，就會發揮十足的耐心蹲守在該處直到日落。"
+      "No.735监视宝可梦",
+      "身高0.7/体重14.2",
+      "一旦发现猎物的踪迹，就会发挥十足的耐心蹲守在该处直到日落。"
     ],
     "typeEnergy": "Colorless",
-    "cardName": "貓鼬探長",
+    "type": "Pokemon",
+    "cardName": "猫鼬探长",
     "skillList": [
       {
-        "name": "鐵頭碰",
+        "name": "铁头碰",
         "effect": ""
       },
       {
         "name": "咬碎",
-        "effect": "選擇1個對手的戰鬥寶可夢身上附加的能量，將其丟棄。"
+        "effect": "选择1个对手的战斗宝可梦身上附加的能量，将其丢弃。"
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_177.jpg",
