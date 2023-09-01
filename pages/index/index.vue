@@ -11,6 +11,10 @@
     <div class="bns" :class="{on: showImgType == null}" @click="setLag('cn')">繁中</div>
   </div>
   <div class="useNo">标准环境<span class="em">{{ tipNowNo }}</span>标</div>
+  <div class="search">
+    <input type="text" v-model="searchInp" placeholder="请输入卡名(支持简中、英文)" />
+    <div class="bn" @click="goSearch">检索</div>
+  </div>
   <div class="list">
     <div class="sbox" v-for="item in seriesList" :key="item.sname">
       <div class="tlt">{{ item.sname }} {{ item.sename }}</div>
@@ -43,6 +47,7 @@
 
   const tipNowNo = ref('E/F/G');
   let showImgType = ref(null);
+  let searchInp = ref('');
 
   onLoad(options => {
     let t = uni.getStorageSync('imgType');
@@ -86,11 +91,30 @@
       }
     })
   }
+
+  const goSearch = () => {
+    if(searchInp.value == ''){
+      uni.showToast({
+        title: '请输入卡名',
+        icon: 'none',
+        duration: 2000
+      });
+      return
+    }
+    uni.navigateTo({
+			url: `/subpackages/pages/search/index?searchinp=${encodeURIComponent(searchInp.value)}`,
+			success: res => {
+        searchInp.value = ''
+      },
+			fail: () => {},
+			complete: () => {}
+		})
+  }
 </script>
 
 <style scoped lang="scss">
   .hot{
-    padding: 20rpx;
+    padding: 20rpx 30rpx;
     .img{
       margin: 0 auto;
       height: 100rpx;
@@ -99,7 +123,7 @@
     text-align: center;
   }
   .showCardImgType{
-    padding: 0 20rpx;
+    padding: 0 30rpx;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -115,7 +139,7 @@
     }
   }
   .useNo{
-    padding: 10rpx 20rpx 0;
+    padding: 10rpx 30rpx;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -125,6 +149,28 @@
       padding: 0 10rpx;
       background: #ce2a2c;
       color: #fff
+    }
+  }
+  .search{
+    margin: 10rpx 30rpx;
+    border: 1px solid #eee;
+    border-radius: 10rpx;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    overflow: hidden;
+    input{
+      padding: 0 0 0 10rpx;
+      width: 80%;
+      height: 60rpx
+    }
+    .bn{
+      background: #4caf50;
+      width: 20%;
+      height: 60rpx;
+      line-height: 60rpx;
+      color: #fff;
+      text-align: center;
     }
   }
   .list{
@@ -146,6 +192,7 @@
           padding: 30rpx 0 20rpx;
           background: rgba(0,0,0,.1);
           width: 48%;
+          border-radius: 10rpx;
           text-align: center;
           display: flex;
           align-items: center;

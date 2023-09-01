@@ -17,15 +17,16 @@
 		<div class="item" v-for="item in detList" :key="item.id" @click="showDet(item)">
 			<div class="picwp">
 				<image src="../img/tcg-card-back.jpg" mode="widthFix" class="cback"></image>
-				<image :src="item.imgUrl" lazy-load mode="widthFix" class="img" v-if="showImgType == null"></image>
-				<image :src="item.enImgUrl" lazy-load mode="widthFix" class="img" v-else></image>
+				<image :src="item.imgUrl" lazy-load mode="heightFix" class="img" v-if="showImgType == null"></image>
+				<image :src="item.imgUrl" mode="heightFix" class="img" v-else-if="!item.enImgUrl"></image>
+				<image :src="item.enImgUrl" lazy-load mode="heightFix" class="img" v-else></image>
 			</div>
 			<div>{{ item.cardName }}</div>
 			<div>{{ item.ename }}</div>
 			<!-- {{ item.id }} -->
 		</div>
 	</div>
-	<div v-if="!isLoading && detList.length == 0" class="empty">
+	<div class="empty" v-if="!isLoading && detList.length == 0">
 		<image src="../img/pikachu.png" mode="widthFix" class="img"></image>
 		暂无数据
 	</div>
@@ -57,6 +58,7 @@
 	<div class="popups" v-if="isShowCard">
 		<div class="p-showcard" :class="{'animate__zoomIn': isShowCard}">
 			<image :src="showCardDet.imgUrl" mode="widthFix" class="img" v-if="showImgType == null"></image>
+			<image :src="showCardDet.imgUrl" mode="widthFix" class="img" v-else-if="!showCardDet.enImgUrl"></image>
 			<image :src="showCardDet.enImgUrl" mode="widthFix" class="img" v-else></image>
 			<div class="detInfo">
 				<div class="name">{{ showCardDet.cardName }}</div>
@@ -293,8 +295,11 @@
 			width: 48%;
 			min-height: 80rpx;
 			text-align: center;
+			font-size: 30rpx;
 			.picwp{
 				position: relative;
+				margin: 0 0 10rpx 0;
+				overflow: hidden;
 				.cback{
 					width: 100%;
 					border-radius: 20rpx;
@@ -306,6 +311,7 @@
 					top: 0;
 					left: 0;
 					width: 100%;
+					height: 100%;
 					border-radius: 15rpx;
 					box-shadow: 2px 2px 5px 0px #9E9E9E;
 					display: block;
