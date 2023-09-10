@@ -57,9 +57,17 @@
 	</div>
 	<div class="popups" v-if="isShowCard">
 		<div class="p-showcard" :class="{'animate__zoomIn': isShowCard}">
-			<image :src="showCardDet.imgUrl" mode="widthFix" class="img" v-if="showImgType == null"></image>
-			<image :src="showCardDet.imgUrl" mode="widthFix" class="img" v-else-if="!showCardDet.enImgUrl"></image>
-			<image :src="showCardDet.enImgUrl" mode="widthFix" class="img" v-else></image>
+			<div class="cardShow" :class="{tc: !showCardDet.artList}">
+				<image :src="showCardDet.showImg" mode="widthFix" class="img"></image>
+				<div class="artList" v-if="showCardDet.artList?.length > 0">
+					<image :src="showCardDet.imgUrl" lazy-load mode="widthFix" class="img" @click="changeArt(showCardDet.imgUrl)" v-if="showImgType == null"></image>
+					<image :src="showCardDet.imgUrl" mode="widthFix" class="img" @click="changeArt(showCardDet.imgUrl)" v-else-if="!showCardDet.enImgUrl"></image>
+					<image :src="showCardDet.enImgUrl" lazy-load mode="widthFix" @click="changeArt(showCardDet.enImgUrl)" class="img" v-else></image>
+					<template v-for="(img, index) in showCardDet.artList" :key="index">
+						<image :src="img" mode="widthFix" class="img" @click="changeArt(img)"></image>
+					</template>
+				</div>
+			</div>
 			<div class="detInfo">
 				<div class="name">{{ showCardDet.cardName }}</div>
 				<div class="skill" v-if="!/^(基本).*?(能量)$/.test(showCardDet.cardName)">
@@ -231,8 +239,12 @@
 	}
 
   const showDet = (item) => {
-    // console.log(item.id)
 		showCardDet.value = item;
+		if(showImgType.value == null){
+			showCardDet.value.showImg = showCardDet.value.imgUrl
+		}else{
+			showCardDet.value.showImg = showCardDet.value.enImgUrl
+		}
 		isShowCard.value = true
   }
 
@@ -252,6 +264,10 @@
 						sno == 'SS7' ||
 						sno == 'SS6' ||
 						sno == 'SS5'
+	}
+
+	const changeArt = (url) => {
+		showCardDet.value.showImg = url
 	}
 </script>
 
@@ -386,25 +402,46 @@
 		position: absolute;
 		top: 0;
 		left: 0;
-		padding: 10% 5% 5%;
+		padding: 5% 5% 20rpx;
 		width: 100%;
 		height: 100%;
 		animation-duration: .4s;
 		overflow-y: scroll;
 		box-sizing: border-box;
-		.img{
-			margin: 0 auto;
-			width: 70%;
-			border-radius: 25rpx;
-			display: block;
+		.cardShow{
+			display: flex;
+			align-items: flex-start;
+			justify-content: space-between;
+			&.tc .img{
+				margin: 0 auto
+			}
+			.img{
+				margin: 0;
+				width: 70%;
+				border-radius: 25rpx;
+				display: block;
+			}
+			.artList{
+				width: 160rpx;
+				height: 650rpx;
+				overflow-x: hidden;
+				overflow-y: auto;
+				.img{
+					margin: 0 0 10rpx;
+					width: 100%;
+					border-radius: 8rpx;
+					display: block;
+				}
+			}
 		}
 		.detInfo{
 			margin: 30rpx auto 0;
 			padding: 10rpx 20rpx;
-			width: 90%;
+			width: 100%;
 			background: rgba(255,255,255,.9);
 			border-radius: 20rpx;
 			font-size: 30rpx;
+			box-sizing: border-box;
 			.name{
 				text-align: center;
 			}

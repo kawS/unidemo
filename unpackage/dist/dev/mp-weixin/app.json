@@ -1,13 +1,13 @@
 {
   "pages": [
-    "pages/index/index",
-    "pages/webview/index"
+    "pages/index/index"
   ],
   "subPackages": [
     {
       "root": "subpackages",
       "pages": [
-        "pages/seriesDet/index"
+        "pages/seriesDet/index",
+        "pages/search/index"
       ]
     }
   ],

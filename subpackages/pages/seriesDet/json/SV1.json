@@ -423,7 +423,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_17.jpg",
     "gameNo": "017",
-    "ename": "Tarountula"
+    "ename": "Tarountula",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_199.jpg"
+    ]
   },
   {
     "id": "7655",
@@ -475,7 +478,11 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_19.jpg",
     "gameNo": "019",
-    "ename": "Spidops ex"
+    "ename": "Spidops ex",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_223.jpg",
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_243.jpg"
+    ]
   },
   {
     "id": "7575",
@@ -549,7 +556,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_22.jpg",
     "gameNo": "022",
-    "ename": "Dolliv"
+    "ename": "Dolliv",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_200.jpg"
+    ]
   },
   {
     "id": "7578",
@@ -597,7 +607,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_24.jpg",
     "gameNo": "024",
-    "ename": "Toedscool"
+    "ename": "Toedscool",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_201.jpg"
+    ]
   },
   {
     "id": "7658",
@@ -723,7 +736,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_29.jpg",
     "gameNo": "029",
-    "ename": "Scovillain"
+    "ename": "Scovillain",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_202.jpg"
+    ]
   },
   {
     "id": "7727",
@@ -805,7 +821,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_32.jpg",
     "gameNo": "032",
-    "ename": "Arcanine ex"
+    "ename": "Arcanine ex",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_224.jpg"
+    ]
   },
   {
     "id": "7665",
@@ -1031,7 +1050,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_41.jpg",
     "gameNo": "041",
-    "ename": "Armarouge"
+    "ename": "Armarouge",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_203.jpg"
+    ]
   },
   {
     "id": "7667",
@@ -1057,7 +1079,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_42.jpg",
     "gameNo": "042",
-    "ename": "Slowpoke"
+    "ename": "Slowpoke",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_204.jpg"
+    ]
   },
   {
     "id": "7668",
@@ -1139,7 +1164,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_45.jpg",
     "gameNo": "045",
-    "ename": "Gyarados ex"
+    "ename": "Gyarados ex",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_225.jpg"
+    ]
   },
   {
     "id": "7585",
@@ -1235,7 +1263,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_49.jpg",
     "gameNo": "049",
-    "ename": "Clauncher"
+    "ename": "Clauncher",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_205.jpg"
+    ]
   },
   {
     "id": "7670",
@@ -1387,7 +1418,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_55.jpg",
     "gameNo": "055",
-    "ename": "Wiglett"
+    "ename": "Wiglett",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_206.jpg"
+    ]
   },
   {
     "id": "7589",
@@ -1539,7 +1573,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_61.jpg",
     "gameNo": "061",
-    "ename": "Dondozo"
+    "ename": "Dondozo",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_207.jpg"
+    ]
   },
   {
     "id": "7592",
@@ -1647,7 +1684,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_65.jpg",
     "gameNo": "065",
-    "ename": "Magnezone ex"
+    "ename": "Magnezone ex",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_226.jpg"
+    ]
   },
   {
     "id": "7731",
@@ -1725,7 +1765,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_68.jpg",
     "gameNo": "068",
-    "ename": "Pachirisu"
+    "ename": "Pachirisu",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_208.jpg"
+    ]
   },
   {
     "id": "7734",
@@ -1921,7 +1964,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_76.jpg",
     "gameNo": "076",
-    "ename": "Pawmot"
+    "ename": "Pawmot",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_209.jpg"
+    ]
   },
   {
     "id": "7593",
@@ -2051,7 +2097,12 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_81.jpg",
     "gameNo": "081",
-    "ename": "Miraidon ex"
+    "ename": "Miraidon ex",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_227.jpg",
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_244.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_253_R_EN_SM.png"
+    ]
   },
   {
     "id": "7686",
@@ -2077,7 +2128,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_82.jpg",
     "gameNo": "082",
-    "ename": "Drowzee"
+    "ename": "Drowzee",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_210.jpg"
+    ]
   },
   {
     "id": "7687",
@@ -2125,7 +2179,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_84.jpg",
     "gameNo": "084",
-    "ename": "Ralts"
+    "ename": "Ralts",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_211.jpg"
+    ]
   },
   {
     "id": "7597",
@@ -2151,7 +2208,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_85.jpg",
     "gameNo": "085",
-    "ename": "Kirlia"
+    "ename": "Kirlia",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_212.jpg"
+    ]
   },
   {
     "id": "7598",
@@ -2181,7 +2241,11 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_86.jpg",
     "gameNo": "086",
-    "ename": "Gardevoir ex"
+    "ename": "Gardevoir ex",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_228.jpg",
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_245.jpg"
+    ]
   },
   {
     "id": "7688",
@@ -2233,7 +2297,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_88.jpg",
     "gameNo": "088",
-    "ename": "Banette ex"
+    "ename": "Banette ex",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_229.jpg"
+    ]
   },
   {
     "id": "7599",
@@ -2473,7 +2540,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_98.jpg",
     "gameNo": "098",
-    "ename": "Fidough"
+    "ename": "Fidough",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_213.jpg"
+    ]
   },
   {
     "id": "7604",
@@ -2613,7 +2683,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_104.jpg",
     "gameNo": "104",
-    "ename": "Greavard"
+    "ename": "Greavard",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_214.jpg"
+    ]
   },
   {
     "id": "7695",
@@ -2831,7 +2904,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_113.jpg",
     "gameNo": "113",
-    "ename": "Riolu"
+    "ename": "Riolu",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_215.jpg"
+    ]
   },
   {
     "id": "7611",
@@ -2883,7 +2959,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_115.jpg",
     "gameNo": "115",
-    "ename": "Sandile"
+    "ename": "Sandile",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_216.jpg"
+    ]
   },
   {
     "id": "7613",
@@ -3061,7 +3140,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_122.jpg",
     "gameNo": "122",
-    "ename": "Klawf"
+    "ename": "Klawf",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_217.jpg"
+    ]
   },
   {
     "id": "7619",
@@ -3091,7 +3173,11 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_123.jpg",
     "gameNo": "123",
-    "ename": "Great Tusk ex"
+    "ename": "Great Tusk ex",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_230.jpg",
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_246.jpg"
+    ]
   },
   {
     "id": "7809",
@@ -3147,7 +3233,12 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_125.jpg",
     "gameNo": "125",
-    "ename": "Koraidon ex"
+    "ename": "Koraidon ex",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_231.jpg",
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_247.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_254_R_EN_SM.png"
+    ]
   },
   {
     "id": "7621",
@@ -3303,7 +3394,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_131.jpg",
     "gameNo": "131",
-    "ename": "Toxicroak ex"
+    "ename": "Toxicroak ex",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_232.jpg"
+    ]
   },
   {
     "id": "7626",
@@ -3381,7 +3475,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_134.jpg",
     "gameNo": "134",
-    "ename": "Kingambit"
+    "ename": "Kingambit",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_220.jpg"
+    ]
   },
   {
     "id": "7701",
@@ -3455,7 +3552,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_137.jpg",
     "gameNo": "137",
-    "ename": "Mabosstiff"
+    "ename": "Mabosstiff",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_218.jpg"
+    ]
   },
   {
     "id": "7704",
@@ -3481,7 +3581,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_138.jpg",
     "gameNo": "138",
-    "ename": "Bombirdier"
+    "ename": "Bombirdier",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_219.jpg"
+    ]
   },
   {
     "id": "7705",
@@ -3607,7 +3710,11 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_143.jpg",
     "gameNo": "143",
-    "ename": "Iron Treads ex"
+    "ename": "Iron Treads ex",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_233.jpg",
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_248.jpg"
+    ]
   },
   {
     "id": "7707",
@@ -3729,7 +3836,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_148.jpg",
     "gameNo": "148",
-    "ename": "Starly"
+    "ename": "Starly",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_221.jpg"
+    ]
   },
   {
     "id": "7634",
@@ -3807,7 +3917,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_151.jpg",
     "gameNo": "151",
-    "ename": "Skwovet"
+    "ename": "Skwovet",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_222.jpg"
+    ]
   },
   {
     "id": "7710",
@@ -3989,7 +4102,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_158.jpg",
     "gameNo": "158",
-    "ename": "Oinkologne ex"
+    "ename": "Oinkologne ex",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_234.jpg"
+    ]
   },
   {
     "id": "7712",
@@ -4219,7 +4335,11 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_166.jpg",
     "gameNo": "166",
-    "ename": "Arven"
+    "ename": "Arven",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_235.jpg",
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_249.jpg"
+    ]
   },
   {
     "id": "7644",
@@ -4239,7 +4359,11 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_175.jpg",
     "gameNo": "175",
-    "ename": "Jacq"
+    "ename": "Jacq",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_236.jpg",
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_250.jpg"
+    ]
   },
   {
     "id": "8107",
@@ -4279,7 +4403,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_177.jpg",
     "gameNo": "177",
-    "ename": "Katy"
+    "ename": "Katy",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_237.jpg"
+    ]
   },
   {
     "id": "7725",
@@ -4299,7 +4426,11 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_179.jpg",
     "gameNo": "179",
-    "ename": "Miriam"
+    "ename": "Miriam",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_238.jpg",
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_251.jpg"
+    ]
   },
   {
     "id": "8466",
@@ -4339,7 +4470,11 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_183.jpg",
     "gameNo": "183",
-    "ename": "Penny"
+    "ename": "Penny",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_239.jpg",
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_252.jpg"
+    ]
   },
   {
     "id": "7646",
@@ -4359,7 +4494,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_189.jpg",
     "gameNo": "189",
-    "ename": "Professor's Research (Professor Sada)"
+    "ename": "Professor's Research (Professor Sada)",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_240.jpg"
+    ]
   },
   {
     "id": "8110",
@@ -4379,7 +4517,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_190.jpg",
     "gameNo": "190",
-    "ename": "Professor's Research (Professor Turo)"
+    "ename": "Professor's Research (Professor Turo)",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_241-2x.jpg"
+    ]
   },
   {
     "id": "7645",
@@ -4399,7 +4540,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_195.jpg",
     "gameNo": "195",
-    "ename": "Team Star Grunt"
+    "ename": "Team Star Grunt",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_242.jpg"
+    ]
   },
   {
     "id": "8108",
@@ -4639,7 +4783,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_181.jpg",
     "gameNo": "181",
-    "ename": "Nest Ball"
+    "ename": "Nest Ball",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_255_R_EN_SM.png"
+    ]
   },
   {
     "id": "7639",
@@ -4779,7 +4926,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_191.jpg",
     "gameNo": "191",
-    "ename": "Rare Candy"
+    "ename": "Rare Candy",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_256_R_EN_SM.png"
+    ]
   },
   {
     "id": "8105",
