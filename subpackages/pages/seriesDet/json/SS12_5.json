@@ -17,7 +17,7 @@
         "effect": "掷2次硬币，造成正面出现的次数×10点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_1.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_1-2x.jpg",
     "gameNo": "001",
     "ename": "Oddish"
   },
@@ -39,7 +39,7 @@
         "effect": "将对手的战斗宝可梦【中毒】与【混乱】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_2.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_2-2x.jpg",
     "gameNo": "002",
     "ename": "Gloom"
   },
@@ -61,7 +61,7 @@
         "effect": "掷3次硬币，造成正面出现的次数×80点伤害。将这只宝可梦与备战宝可梦互换。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_3.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_3-2x.jpg",
     "gameNo": "003",
     "ename": "Bellossom"
   },
@@ -87,7 +87,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_4.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_4-2x.jpg",
     "gameNo": "004",
     "ename": "Tangela"
   },
@@ -113,7 +113,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_5.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_5-2x.jpg",
     "gameNo": "005",
     "ename": "Tangrowth"
   },
@@ -135,7 +135,7 @@
         "effect": "选择1个对手的战斗宝可梦身上附加的特殊能量，将其丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_6.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_6-2x.jpg",
     "gameNo": "006",
     "ename": "Scyther"
   },
@@ -157,7 +157,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_7.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_7-2x.jpg",
     "gameNo": "007",
     "ename": "Sunkern"
   },
@@ -183,7 +183,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_8.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_8-2x.jpg",
     "gameNo": "008",
     "ename": "Yanma"
   },
@@ -209,7 +209,7 @@
         "effect": "在下个自己的回合，这只宝可梦无法使用招式。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_9.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_9-2x.jpg",
     "gameNo": "009",
     "ename": "Yanmega"
   },
@@ -231,7 +231,7 @@
         "effect": "掷1次硬币若为正面，则增加20点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_10.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_10-2x.jpg",
     "gameNo": "010",
     "ename": "Kricketot"
   },
@@ -253,7 +253,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_11.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_11-2x.jpg",
     "gameNo": "011",
     "ename": "Cherubi"
   },
@@ -279,7 +279,7 @@
         "effect": "在下个对手的回合，受到这个招式的宝可梦无法撤退。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_12.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_12-2x.jpg",
     "gameNo": "012",
     "ename": "Carnivine"
   },
@@ -309,7 +309,7 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_13.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_13-2x.jpg",
     "gameNo": "013",
     "ename": "Leafeon V"
   },
@@ -339,7 +339,7 @@
         "effect": "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_14.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_14-2x.jpg",
     "gameNo": "014",
     "ename": "Leafeon VSTAR"
   },
@@ -365,7 +365,7 @@
         "effect": "掷1次硬币若为反面，则这个招式失败。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_15.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_15-2x.jpg",
     "gameNo": "015",
     "ename": "Grubbin"
   },
@@ -391,7 +391,7 @@
         "effect": "掷3次硬币，造成正面出现的次数×70点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_16.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_16-2x.jpg",
     "gameNo": "016",
     "ename": "Zarude"
   },
@@ -417,7 +417,7 @@
         "effect": "将自己的所有宝可梦各恢复「20」HP。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_17.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_17-2x.jpg",
     "gameNo": "017",
     "ename": "Calyrex"
   },
@@ -447,7 +447,7 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_18.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_18-2x.jpg",
     "gameNo": "018",
     "ename": "Charizard V"
   },
@@ -477,7 +477,7 @@
         "effect": "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_19.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_19-2x.jpg",
     "gameNo": "019",
     "ename": "Charizard VSTAR"
   },
@@ -507,7 +507,7 @@
         "effect": "在下个自己的回合，这只宝可梦无法使用「烈焰爆」。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_20.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_20-2x.jpg",
     "gameNo": "020",
     "ename": "Radiant Charizard"
   },
@@ -533,7 +533,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_21.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_21-2x.jpg",
     "gameNo": "021",
     "ename": "Entei"
   },
@@ -563,7 +563,7 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_22.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_22-2x.jpg",
     "gameNo": "022",
     "ename": "Simisear V"
   },
@@ -593,7 +593,7 @@
         "effect": "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_23.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_23-2x.jpg",
     "gameNo": "023",
     "ename": "Simisear VSTAR"
   },
@@ -615,7 +615,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_24.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_24-2x.jpg",
     "gameNo": "024",
     "ename": "Larvesta"
   },
@@ -641,7 +641,7 @@
         "effect": "在下个自己的回合，这只宝可梦无法使用招式。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_25.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_25-2x.jpg",
     "gameNo": "025",
     "ename": "Volcarona"
   },
@@ -667,7 +667,7 @@
         "effect": "若这只宝可梦身上附有【水】能量，则增加80点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_26.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_26-2x.jpg",
     "gameNo": "026",
     "ename": "Volcanion"
   },
@@ -693,7 +693,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_27.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_27-2x.jpg",
     "gameNo": "027",
     "ename": "Salandit"
   },
@@ -719,7 +719,7 @@
         "effect": "将对手的战斗宝可梦【灼伤】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_28.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_28-2x.jpg",
     "gameNo": "028",
     "ename": "Salazzle"
   },
@@ -745,7 +745,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_29.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_29-2x.jpg",
     "gameNo": "029",
     "ename": "Seel"
   },
@@ -771,7 +771,7 @@
         "effect": "从自己的牌库选择1张物品卡，在给对手看过后加入手牌。并且重洗牌库。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_30.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_30-2x.jpg",
     "gameNo": "030",
     "ename": "Galarian Mr. Mime"
   },
@@ -797,7 +797,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_31.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_31-2x.jpg",
     "gameNo": "031",
     "ename": "Wailmer"
   },
@@ -823,7 +823,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_32.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_32-2x.jpg",
     "gameNo": "032",
     "ename": "Wailord"
   },
@@ -849,7 +849,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_33.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_33-2x.jpg",
     "gameNo": "033",
     "ename": "Corphish"
   },
@@ -871,7 +871,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_34.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_34-2x.jpg",
     "gameNo": "034",
     "ename": "Snorunt"
   },
@@ -897,7 +897,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_35.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_35-2x.jpg",
     "gameNo": "035",
     "ename": "Luvdisc"
   },
@@ -923,7 +923,7 @@
         "effect": "将这只宝可梦身上附加的3个能量放回手牌，对手的1只宝可梦受到180点伤害。[在备战区不计算弱点・抵抗力。]"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_36.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_36-2x.jpg",
     "gameNo": "036",
     "ename": "Kyogre"
   },
@@ -953,7 +953,7 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_37.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_37-2x.jpg",
     "gameNo": "037",
     "ename": "Kyogre V"
   },
@@ -983,7 +983,7 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_38.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_38-2x.jpg",
     "gameNo": "038",
     "ename": "Glaceon V"
   },
@@ -1005,7 +1005,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_39.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_39-2x.jpg",
     "gameNo": "039",
     "ename": "Shinx"
   },
@@ -1027,7 +1027,7 @@
         "effect": "这只宝可梦也受到10点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_40.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_40-2x.jpg",
     "gameNo": "040",
     "ename": "Shinx"
   },
@@ -1053,7 +1053,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_41.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_41-2x.jpg",
     "gameNo": "041",
     "ename": "Luxio"
   },
@@ -1079,7 +1079,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_42.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_42-2x.jpg",
     "gameNo": "042",
     "ename": "Luxio"
   },
@@ -1105,7 +1105,7 @@
         "effect": "若对手的战斗宝可梦身上放置有伤害指示物，则增加100点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_43.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_43-2x.jpg",
     "gameNo": "043",
     "ename": "Luxray"
   },
@@ -1131,7 +1131,7 @@
         "effect": "从自己的牌库选择最多2张训练家卡，在给对手看过后加入手牌。并且重洗牌库。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_44.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_44-2x.jpg",
     "gameNo": "044",
     "ename": "Luxray"
   },
@@ -1161,7 +1161,7 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_45.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_45-2x.jpg",
     "gameNo": "045",
     "ename": "Rotom V"
   },
@@ -1191,7 +1191,7 @@
         "effect": "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_46.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_46-2x.jpg",
     "gameNo": "046",
     "ename": "Rotom VSTAR"
   },
@@ -1213,7 +1213,7 @@
         "effect": "掷1次硬币若为正面，则将对手的战斗宝可梦【麻痺】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_47.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_47-2x.jpg",
     "gameNo": "047",
     "ename": "Emolga"
   },
@@ -1239,7 +1239,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_48.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_48-2x.jpg",
     "gameNo": "048",
     "ename": "Eelektrik"
   },
@@ -1265,7 +1265,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_49.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_49-2x.jpg",
     "gameNo": "049",
     "ename": "Helioptile"
   },
@@ -1291,7 +1291,7 @@
         "effect": "这只宝可梦也受到50点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_50.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_50-2x.jpg",
     "gameNo": "050",
     "ename": "Heliolisk"
   },
@@ -1321,7 +1321,7 @@
         "effect": "对手的1只宝可梦受到30点伤害。[在备战区不计算弱点・抵抗力。]"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_51.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_51-2x.jpg",
     "gameNo": "051",
     "ename": "Radiant Charjabug"
   },
@@ -1343,7 +1343,7 @@
         "effect": "这只宝可梦也受到20点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_52.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_52-2x.jpg",
     "gameNo": "052",
     "ename": "Zeraora"
   },
@@ -1373,7 +1373,7 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_53.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_53-2x.jpg",
     "gameNo": "053",
     "ename": "Zeraora V"
   },
@@ -1403,7 +1403,7 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_54.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_54-2x.jpg",
     "gameNo": "054",
     "ename": "Zeraora VMAX"
   },
@@ -1433,7 +1433,7 @@
         "effect": "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_55.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_55-2x.jpg",
     "gameNo": "055",
     "ename": "Zeraora VSTAR"
   },
@@ -1459,7 +1459,7 @@
         "effect": "掷硬币直到出现反面，增加正面出现的次数×30点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_56.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_56-2x.jpg",
     "gameNo": "056",
     "ename": "Pincurchin"
   },
@@ -1481,7 +1481,7 @@
         "effect": "掷1次硬币若为正面，则将对手的战斗宝可梦【麻痺】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_57.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_57-2x.jpg",
     "gameNo": "057",
     "ename": "Exeggcute"
   },
@@ -1507,7 +1507,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_58.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_58-2x.jpg",
     "gameNo": "058",
     "ename": "Exeggutor"
   },
@@ -1533,7 +1533,7 @@
         "effect": "若对手剩余奖赏卡的张数为3张以下，则增加90点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_59.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_59-2x.jpg",
     "gameNo": "059",
     "ename": "Mewtwo"
   },
@@ -1563,7 +1563,7 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_60.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_60-2x.jpg",
     "gameNo": "060",
     "ename": "Mew V"
   },
@@ -1589,7 +1589,7 @@
         "effect": "将对手的战斗宝可梦【混乱】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_61.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_61-2x.jpg",
     "gameNo": "061",
     "ename": "Girafarig"
   },
@@ -1615,7 +1615,7 @@
         "effect": "增加这只宝可梦身上附加的【超】能量的数量×30点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_62.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_62-2x.jpg",
     "gameNo": "062",
     "ename": "Lunatone"
   },
@@ -1637,7 +1637,7 @@
         "effect": "将对手的战斗宝可梦【混乱】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_63.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_63-2x.jpg",
     "gameNo": "063",
     "ename": "Dusclops"
   },
@@ -1663,7 +1663,7 @@
         "effect": "将这只宝可梦恢复「30」HP。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_64.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_64-2x.jpg",
     "gameNo": "064",
     "ename": "Tapu Lele"
   },
@@ -1693,7 +1693,7 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_65.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_65-2x.jpg",
     "gameNo": "065",
     "ename": "Hatterene V"
   },
@@ -1723,7 +1723,7 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_66.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_66-2x.jpg",
     "gameNo": "066",
     "ename": "Hatterene VMAX"
   },
@@ -1749,7 +1749,7 @@
         "effect": "若自己的手牌的张数与对手的手牌的张数相同，则增加70点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_67.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_67-2x.jpg",
     "gameNo": "067",
     "ename": "Enamorus"
   },
@@ -1775,7 +1775,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_68.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_68-2x.jpg",
     "gameNo": "068",
     "ename": "Graveler"
   },
@@ -1801,7 +1801,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_69.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_69-2x.jpg",
     "gameNo": "069",
     "ename": "Solrock"
   },
@@ -1823,7 +1823,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_70.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_70-2x.jpg",
     "gameNo": "070",
     "ename": "Baltoy"
   },
@@ -1845,7 +1845,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_71.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_71-2x.jpg",
     "gameNo": "071",
     "ename": "Riolu"
   },
@@ -1867,7 +1867,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_72.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_72-2x.jpg",
     "gameNo": "072",
     "ename": "Pancham"
   },
@@ -1893,7 +1893,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_73.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_73-2x.jpg",
     "gameNo": "073",
     "ename": "Rockruff"
   },
@@ -1915,7 +1915,7 @@
         "effect": "减少对手的战斗宝可梦身上附加的能量的数量×80点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_74.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_74-2x.jpg",
     "gameNo": "074",
     "ename": "Lycanroc"
   },
@@ -1937,7 +1937,7 @@
         "effect": "将对手的战斗宝可梦【中毒】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_75.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_75-2x.jpg",
     "gameNo": "075",
     "ename": "Koffing"
   },
@@ -1971,7 +1971,7 @@
         "effect": "在不看正面的情况下，选择1张对手的手牌，放置于放逐区。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_76.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_76-2x.jpg",
     "gameNo": "076",
     "ename": "Absol"
   },
@@ -1993,7 +1993,7 @@
         "effect": "掷3次硬币，造成正面出现的次数×10点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_77.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_77-2x.jpg",
     "gameNo": "077",
     "ename": "Purrloin"
   },
@@ -2019,7 +2019,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_78.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_78-2x.jpg",
     "gameNo": "078",
     "ename": "Liepard"
   },
@@ -2045,7 +2045,7 @@
         "effect": "这只宝可梦也受到30点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_80.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_80-2x.jpg",
     "gameNo": "079",
     "ename": "Krokorok"
   },
@@ -2071,7 +2071,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_81.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_81-2x.jpg",
     "gameNo": "080",
     "ename": "Pangoro"
   },
@@ -2097,7 +2097,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_82.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_82-2x.jpg",
     "gameNo": "081",
     "ename": "Skrelp"
   },
@@ -2119,7 +2119,7 @@
         "effect": "掷1次硬币若为正面，则增加20点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_84.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_84-2x.jpg",
     "gameNo": "082",
     "ename": "Dragalge"
   },
@@ -2145,7 +2145,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_85.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_85-2x.jpg",
     "gameNo": "083",
     "ename": "Hoopa"
   },
@@ -2171,7 +2171,7 @@
         "effect": "若对手的战斗宝可梦为【基础】宝可梦，则增加80点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_86.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_86-2x.jpg",
     "gameNo": "084",
     "ename": "Galarian Meowth"
   },
@@ -2197,7 +2197,7 @@
         "effect": "这只宝可梦也受到10点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_87.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_87-2x.jpg",
     "gameNo": "085",
     "ename": "Galarian Perrserker"
   },
@@ -2223,7 +2223,7 @@
         "effect": "掷硬币直到出现反面，将对手的牌库上方与正面出现的次数相同数量的卡丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_88.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_88-2x.jpg",
     "gameNo": "086",
     "ename": "Scizor"
   },
@@ -2249,7 +2249,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_89.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_89-2x.jpg",
     "gameNo": "087",
     "ename": "Aron"
   },
@@ -2271,7 +2271,7 @@
         "effect": "掷2次硬币，增加正面出现的次数×30点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_90.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_90-2x.jpg",
     "gameNo": "088",
     "ename": "Lairon"
   },
@@ -2293,7 +2293,7 @@
         "effect": "这只宝可梦也受到10点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_91.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_91-2x.jpg",
     "gameNo": "089",
     "ename": "Aggron"
   },
@@ -2315,7 +2315,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_92.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_92-2x.jpg",
     "gameNo": "090",
     "ename": "Metang"
   },
@@ -2341,7 +2341,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_93.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_93-2x.jpg",
     "gameNo": "091",
     "ename": "Pawniard"
   },
@@ -2367,7 +2367,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_94.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_94-2x.jpg",
     "gameNo": "092",
     "ename": "Pawniard"
   },
@@ -2397,7 +2397,7 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_95.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_95-2x.jpg",
     "gameNo": "093",
     "ename": "Bisharp"
   },
@@ -2427,7 +2427,7 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_96.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_96-2x.jpg",
     "gameNo": "094",
     "ename": "Zacian"
   },
@@ -2453,7 +2453,7 @@
         "effect": "在上个对手的回合，若自己的宝可梦【气绝】了，则增加120点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_97.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_97-2x.jpg",
     "gameNo": "095",
     "ename": "Zacian V"
   },
@@ -2483,7 +2483,7 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_98.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_98-2x.jpg",
     "gameNo": "096",
     "ename": "Zacian VSTAR"
   },
@@ -2513,7 +2513,7 @@
         "effect": "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_99.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_99-2x.jpg",
     "gameNo": "097",
     "ename": "Zamazenta"
   },
@@ -2543,7 +2543,7 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_100.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_100-2x.jpg",
     "gameNo": "098",
     "ename": "Zamazenta V"
   },
@@ -2573,7 +2573,7 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_101.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_101-2x.jpg",
     "gameNo": "099",
     "ename": "Zamazenta VSTAR"
   },
@@ -2603,7 +2603,7 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_102.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_102-2x.jpg",
     "gameNo": "100",
     "ename": "Rayquaza V"
   },
@@ -2634,7 +2634,7 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_103.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_103-2x.jpg",
     "gameNo": "101",
     "ename": "Rayquaza VMAX"
   },
@@ -2664,7 +2664,7 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_104.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_104-2x.jpg",
     "gameNo": "102",
     "ename": "Rayquaza VMAX"
   },
@@ -2694,7 +2694,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_105.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_105-2x.jpg",
     "gameNo": "103",
     "ename": "Duraludon V"
   },
@@ -2720,7 +2720,7 @@
         "effect": "若这只宝可梦身上没有放置伤害指示物，则这个招式失败。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_106.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_106-2x.jpg",
     "gameNo": "104",
     "ename": "Duraludon VMAX"
   },
@@ -2742,7 +2742,7 @@
         "effect": "这只宝可梦可使用自己弃牌区的【基础】宝可梦（「拥有规则的宝可梦」除外）持有的所有招式。[需要有足够使用招式的能量。]"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_107.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_107-2x.jpg",
     "gameNo": "105",
     "ename": "Radiant Eternatus"
   },
@@ -2772,7 +2772,7 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_108.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_108-2x.jpg",
     "gameNo": "106",
     "ename": "Tauros"
   },
@@ -2794,7 +2794,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_109.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_109-2x.jpg",
     "gameNo": "107",
     "ename": "Ditto"
   },
@@ -2816,7 +2816,7 @@
         "effect": "掷1次硬币若为反面，则这个招式失败。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_110.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_110-2x.jpg",
     "gameNo": "108",
     "ename": "Eevee V"
   },
@@ -2842,7 +2842,7 @@
         "effect": "掷1次硬币若为反面，则这个招式失败。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_111.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_111-2x.jpg",
     "gameNo": "109",
     "ename": "Snorlax"
   },
@@ -2868,7 +2868,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_112.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_112-2x.jpg",
     "gameNo": "110",
     "ename": "Starly"
   },
@@ -2898,7 +2898,7 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_113.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_113-2x.jpg",
     "gameNo": "111",
     "ename": "Bidoof"
   },
@@ -2928,7 +2928,7 @@
         "effect": "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_114.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_114-2x.jpg",
     "gameNo": "112",
     "ename": "Chatot"
   },
@@ -2954,7 +2954,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_115.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_115-2x.jpg",
     "gameNo": "113",
     "ename": "Regigigas V"
   },
@@ -2984,7 +2984,7 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_116.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_116-2x.jpg",
     "gameNo": "114",
     "ename": "Regigigas VSTAR"
   },
@@ -3006,7 +3006,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_117.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_117-2x.jpg",
     "gameNo": "115",
     "ename": "Shaymin"
   },
@@ -3032,7 +3032,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_118.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_118-2x.jpg",
     "gameNo": "116",
     "ename": "Stoutland V"
   },
@@ -3058,7 +3058,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_119.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_119-2x.jpg",
     "gameNo": "117",
     "ename": "Yungoos"
   },
@@ -3088,7 +3088,7 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_120.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_120-2x.jpg",
     "gameNo": "118",
     "ename": "Gumshoos"
   },
@@ -3110,7 +3110,7 @@
         "effect": "掷硬币直到出现反面，造成正面出现的次数×30点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_121.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_121-2x.jpg",
     "gameNo": "119",
     "ename": "Oranguru"
   },
@@ -3136,7 +3136,7 @@
         "effect": "掷硬币直到出现反面，增加正面出现的次数×30点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_122.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_122-2x.jpg",
     "gameNo": "120",
     "ename": "Greedent V"
   },
@@ -3156,7 +3156,7 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_126.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_126-2x.jpg",
     "gameNo": "126",
     "ename": "Digging Duo"
   },
@@ -3176,7 +3176,7 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_130.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_130-2x.jpg",
     "gameNo": "130",
     "ename": "Friends in Hisui"
   },
@@ -3196,7 +3196,7 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_131.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_131-2x.jpg",
     "gameNo": "131",
     "ename": "Friends in Sinnohv"
   },
@@ -3216,7 +3216,7 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_140.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_140-2x.jpg",
     "gameNo": "140",
     "ename": "Raihan"
   },
@@ -3240,7 +3240,7 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_143.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_143-2x.jpg",
     "gameNo": "143",
     "ename": "Sky Seal Stone"
   },
@@ -3260,7 +3260,7 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_125.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_125-2x.jpg",
     "gameNo": "125",
     "ename": "Crushing Hammer"
   },
@@ -3280,7 +3280,7 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_127.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_127-2x.jpg",
     "gameNo": "127",
     "ename": "Energy Retrieval"
   },
@@ -3300,7 +3300,7 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_128.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_128-2x.jpg",
     "gameNo": "128",
     "ename": "Energy Search"
   },
@@ -3320,7 +3320,7 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_129.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_129-2x.jpg",
     "gameNo": "129",
     "ename": "Energy Switch"
   },
@@ -3340,7 +3340,7 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_132.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_132-2x.jpg",
     "gameNo": "132",
     "ename": "Great Ball"
   },
@@ -3360,7 +3360,7 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_135.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_135-2x.jpg",
     "gameNo": "135",
     "ename": "Lost Vacuum"
   },
@@ -3380,7 +3380,7 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_137.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_137-2x.jpg",
     "gameNo": "137",
     "ename": "Poké Ball"
   },
@@ -3400,7 +3400,7 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_138.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_138-2x.jpg",
     "gameNo": "138",
     "ename": "Pokémon Catcher"
   },
@@ -3420,7 +3420,7 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_139.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_139-2x.jpg",
     "gameNo": "139",
     "ename": "Potion"
   },
@@ -3440,7 +3440,7 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_141.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_141-2x.jpg",
     "gameNo": "141",
     "ename": "Rare Candy"
   },
@@ -3460,7 +3460,7 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_142.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_142-2x.jpg",
     "gameNo": "142",
     "ename": "Rescue Carrier"
   },
@@ -3480,7 +3480,7 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_144.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_144-2x.jpg",
     "gameNo": "144",
     "ename": "Switch"
   },
@@ -3500,7 +3500,7 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_145.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_145-2x.jpg",
     "gameNo": "145",
     "ename": "Trekking Shoes"
   },
@@ -3520,7 +3520,7 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_146.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_146-2x.jpg",
     "gameNo": "146",
     "ename": "Ultra Ball"
   }

@@ -17,7 +17,7 @@
         "effect": "在下个对手的回合，这只宝可梦受到招式的伤害「-30」点。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_1.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_1-2x.jpg",
     "gameNo": "001",
     "ename": "Pineco"
   },
@@ -43,7 +43,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_2.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_2-2x.jpg",
     "gameNo": "002",
     "ename": "Heracross"
   },
@@ -65,7 +65,7 @@
         "effect": "将这只宝可梦恢复「10」HP。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_3.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_3-2x.jpg",
     "gameNo": "003",
     "ename": "Shroomish"
   },
@@ -87,7 +87,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_4.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_4-2x.jpg",
     "gameNo": "004",
     "ename": "Breloom"
   },
@@ -113,7 +113,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_5.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_5-2x.jpg",
     "gameNo": "005",
     "ename": "Cacnea"
   },
@@ -139,7 +139,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_6.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_6-2x.jpg",
     "gameNo": "006",
     "ename": "Cacturne"
   },
@@ -165,7 +165,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Grass",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_7.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_7-2x.jpg",
     "gameNo": "007",
     "ename": "Tropius"
   },
@@ -191,7 +191,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_8.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_8-2x.jpg",
     "gameNo": "008",
     "ename": "Scatterbug"
   },
@@ -217,7 +217,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_9.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_9-2x.jpg",
     "gameNo": "009",
     "ename": "Spewpa"
   },
@@ -243,7 +243,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_10.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_10-2x.jpg",
     "gameNo": "010",
     "ename": "Vivillon"
   },
@@ -269,7 +269,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_11.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_11-2x.jpg",
     "gameNo": "011",
     "ename": "Skiddo"
   },
@@ -295,7 +295,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_12.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_12-2x.jpg",
     "gameNo": "012",
     "ename": "Gogoat"
   },
@@ -321,7 +321,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Grass",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_13.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_13-2x.jpg",
     "gameNo": "013",
     "ename": "Sprigatito"
   },
@@ -347,7 +347,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Grass",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_14.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_14-2x.jpg",
     "gameNo": "014",
     "ename": "Floragato"
   },
@@ -373,7 +373,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Grass",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_15.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_15-2x.jpg",
     "gameNo": "015",
     "ename": "Meowscarada"
   },
@@ -399,7 +399,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_16.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_16-2x.jpg",
     "gameNo": "016",
     "ename": "Tarountula"
   },
@@ -421,11 +421,11 @@
         "effect": "掷1次硬币若为正面，则将对手的战斗宝可梦【麻痺】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_17.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_17-2x.jpg",
     "gameNo": "017",
     "ename": "Tarountula",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_199.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_199-2x.jpg"
     ]
   },
   {
@@ -446,7 +446,7 @@
         "effect": "掷1次硬币若为反面，则这个招式失败。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_18.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_18-2x.jpg",
     "gameNo": "018",
     "ename": "Tarountula"
   },
@@ -476,12 +476,12 @@
         "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_19.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_19-2x.jpg",
     "gameNo": "019",
     "ename": "Spidops ex",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_223.jpg",
-      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_243.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_223-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_243-2x.jpg"
     ]
   },
   {
@@ -502,7 +502,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_20.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_20-2x.jpg",
     "gameNo": "020",
     "ename": "Smoliv"
   },
@@ -528,7 +528,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_21.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_21-2x.jpg",
     "gameNo": "021",
     "ename": "Smoliv"
   },
@@ -554,11 +554,11 @@
         "effect": "在下个对手的回合，受到这个招式的宝可梦使用招式时，对手掷1次硬币。若为反面，则那个招式失败。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_22.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_22-2x.jpg",
     "gameNo": "022",
     "ename": "Dolliv",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_200.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_200-2x.jpg"
     ]
   },
   {
@@ -583,7 +583,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_23.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_23-2x.jpg",
     "gameNo": "023",
     "ename": "Arboliva"
   },
@@ -605,11 +605,11 @@
         "effect": "掷3次硬币，造成正面出现的次数×10点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_24.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_24-2x.jpg",
     "gameNo": "024",
     "ename": "Toedscool",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_201.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_201-2x.jpg"
     ]
   },
   {
@@ -634,7 +634,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_25.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_25-2x.jpg",
     "gameNo": "025",
     "ename": "Toedscool"
   },
@@ -660,7 +660,7 @@
         "effect": "掷3次硬币，造成正面出现的次数×80点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_26.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_26-2x.jpg",
     "gameNo": "026",
     "ename": "Toedscruel"
   },
@@ -682,7 +682,7 @@
         "effect": "掷1次硬币若为正面，则将对手的战斗宝可梦【灼伤】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_27.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_27-2x.jpg",
     "gameNo": "027",
     "ename": "Capsakid"
   },
@@ -708,7 +708,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_28.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_28-2x.jpg",
     "gameNo": "028",
     "ename": "Capsakid"
   },
@@ -734,11 +734,11 @@
         "effect": "若这只宝可梦身上附有【火】能量卡，则增加90点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_29.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_29-2x.jpg",
     "gameNo": "029",
     "ename": "Scovillain",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_202.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_202-2x.jpg"
     ]
   },
   {
@@ -759,7 +759,7 @@
         "effect": "掷硬币直到出现反面，造成正面出现的次数×30点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_30.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_30-2x.jpg",
     "gameNo": "030",
     "ename": "Growlithe"
   },
@@ -785,7 +785,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_31.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_31-2x.jpg",
     "gameNo": "031",
     "ename": "Growlithe"
   },
@@ -819,11 +819,11 @@
         "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_32.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_32-2x.jpg",
     "gameNo": "032",
     "ename": "Arcanine ex",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_224.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_224-2x.jpg"
     ]
   },
   {
@@ -848,7 +848,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_33.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_33-2x.jpg",
     "gameNo": "033",
     "ename": "Houndour"
   },
@@ -874,7 +874,7 @@
         "effect": "选择1个这只宝可梦身上附加的能量，将其丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_34.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_34-2x.jpg",
     "gameNo": "034",
     "ename": "Houndoom"
   },
@@ -900,7 +900,7 @@
         "effect": "掷与这只宝可梦身上附加的【火】能量的数量相同次数的硬币，造成正面出现的次数×80点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_35.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_35-2x.jpg",
     "gameNo": "035",
     "ename": "Torkoal"
   },
@@ -926,7 +926,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Fire",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_36.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_36-2x.jpg",
     "gameNo": "036",
     "ename": "Fuecoco"
   },
@@ -952,7 +952,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Fire",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_37.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_37-2x.jpg",
     "gameNo": "037",
     "ename": "Crocalor"
   },
@@ -978,7 +978,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Fire",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_38.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_38-2x.jpg",
     "gameNo": "038",
     "ename": "Skeledirge"
   },
@@ -1000,7 +1000,7 @@
         "effect": "选择1个这只宝可梦身上附加的能量，将其丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_39.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_39-2x.jpg",
     "gameNo": "039",
     "ename": "Charcadet"
   },
@@ -1022,7 +1022,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_40.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_40-2x.jpg",
     "gameNo": "040",
     "ename": "Charcadet"
   },
@@ -1048,11 +1048,11 @@
         "effect": "将对手的战斗宝可梦【灼伤】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_41.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_41-2x.jpg",
     "gameNo": "041",
     "ename": "Armarouge",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_203.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_203-2x.jpg"
     ]
   },
   {
@@ -1077,11 +1077,11 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_42.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_42-2x.jpg",
     "gameNo": "042",
     "ename": "Slowpoke",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_204.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_204-2x.jpg"
     ]
   },
   {
@@ -1106,7 +1106,7 @@
         "effect": "将这只宝可梦恢复「30」HP。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_43.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_43-2x.jpg",
     "gameNo": "043",
     "ename": "Slowbro"
   },
@@ -1128,7 +1128,7 @@
         "effect": "掷1次硬币若为正面，则对手的1只宝可梦受到10点伤害。[在备战区不计算弱点・抵抗力。]"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_44.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_44-2x.jpg",
     "gameNo": "044",
     "ename": "Magikarp"
   },
@@ -1162,11 +1162,11 @@
         "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_45.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_45-2x.jpg",
     "gameNo": "045",
     "ename": "Gyarados ex",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_225.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_225-2x.jpg"
     ]
   },
   {
@@ -1191,7 +1191,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_46.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_46-2x.jpg",
     "gameNo": "046",
     "ename": "Buizel"
   },
@@ -1213,7 +1213,7 @@
         "effect": "增加这只宝可梦身上附加的【水】能量的数量×20点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_47.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_47-2x.jpg",
     "gameNo": "047",
     "ename": "Floatzel"
   },
@@ -1239,7 +1239,7 @@
         "effect": "在下个自己的回合，这只宝可梦无法使用招式。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_48.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_48-2x.jpg",
     "gameNo": "048",
     "ename": "Alomomola"
   },
@@ -1261,11 +1261,11 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_49.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_49-2x.jpg",
     "gameNo": "049",
     "ename": "Clauncher",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_205.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_205-2x.jpg"
     ]
   },
   {
@@ -1290,7 +1290,7 @@
         "effect": "在下个自己的回合，这只宝可梦无法使用招式。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_50.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_50-2x.jpg",
     "gameNo": "050",
     "ename": "Clawitzer"
   },
@@ -1316,7 +1316,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_51.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_51-2x.jpg",
     "gameNo": "051",
     "ename": "Bruxish"
   },
@@ -1342,7 +1342,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Water",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_52.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_52-2x.jpg",
     "gameNo": "052",
     "ename": "Quaxly"
   },
@@ -1368,7 +1368,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Water",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_53.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_53-2x.jpg",
     "gameNo": "053",
     "ename": "Quaxwell"
   },
@@ -1394,7 +1394,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Water",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_54.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_54-2x.jpg",
     "gameNo": "054",
     "ename": "Quaquaval"
   },
@@ -1416,11 +1416,11 @@
         "effect": "掷1次硬币若为正面，则在下个对手的回合，这只宝可梦不会受到招式的伤害与效果的影响。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_55.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_55-2x.jpg",
     "gameNo": "055",
     "ename": "Wiglett",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_206.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_206-2x.jpg"
     ]
   },
   {
@@ -1445,7 +1445,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_56.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_56-2x.jpg",
     "gameNo": "056",
     "ename": "Wiglett"
   },
@@ -1471,7 +1471,7 @@
         "effect": "掷3次硬币，将对手的牌库上方与正面出现的次数×3张相同数量的卡丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_57.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_57-2x.jpg",
     "gameNo": "057",
     "ename": "Wugtrio"
   },
@@ -1493,7 +1493,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_58.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_58-2x.jpg",
     "gameNo": "058",
     "ename": "Cetoddle"
   },
@@ -1519,7 +1519,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_59.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_59-2x.jpg",
     "gameNo": "059",
     "ename": "Cetoddle"
   },
@@ -1545,7 +1545,7 @@
         "effect": "减少这只宝可梦身上放置的伤害指示物的数量×20点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_60.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_60-2x.jpg",
     "gameNo": "060",
     "ename": "Cetitan"
   },
@@ -1571,11 +1571,11 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_61.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_61-2x.jpg",
     "gameNo": "061",
     "ename": "Dondozo",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_207.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_207-2x.jpg"
     ]
   },
   {
@@ -1600,7 +1600,7 @@
         "effect": "将这只宝可梦与附加的卡，全部放回手牌。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_62.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_62-2x.jpg",
     "gameNo": "062",
     "ename": "Tatsugiri"
   },
@@ -1626,7 +1626,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_63.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_63-2x.jpg",
     "gameNo": "063",
     "ename": "Magnemite"
   },
@@ -1652,7 +1652,7 @@
         "effect": "这只宝可梦也受到90点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_64.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_64-2x.jpg",
     "gameNo": "064",
     "ename": "Magneton"
   },
@@ -1682,11 +1682,11 @@
         "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_65.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_65-2x.jpg",
     "gameNo": "065",
     "ename": "Magnezone ex",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_226.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_226-2x.jpg"
     ]
   },
   {
@@ -1711,7 +1711,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_66.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_66-2x.jpg",
     "gameNo": "066",
     "ename": "Mareep"
   },
@@ -1737,7 +1737,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_67.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_67-2x.jpg",
     "gameNo": "067",
     "ename": "Flaaffy"
   },
@@ -1763,11 +1763,11 @@
         "effect": "增加自己的备战区的【雷】宝可梦的数量×20点伤害。这个招式的伤害不计算弱点。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_68.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_68-2x.jpg",
     "gameNo": "068",
     "ename": "Pachirisu",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_208.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_208-2x.jpg"
     ]
   },
   {
@@ -1788,7 +1788,7 @@
         "effect": "对手的1只宝可梦受到20点伤害。[在备战区不计算弱点・抵抗力。]"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_69.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_69-2x.jpg",
     "gameNo": "069",
     "ename": "Rotom"
   },
@@ -1814,7 +1814,7 @@
         "effect": "掷1次硬币若为正面，则将对手的战斗宝可梦【麻痺】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_70.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_70-2x.jpg",
     "gameNo": "070",
     "ename": "Rotom"
   },
@@ -1836,7 +1836,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_71.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_71-2x.jpg",
     "gameNo": "071",
     "ename": "Toxel"
   },
@@ -1862,7 +1862,7 @@
         "effect": "这只宝可梦也受到20点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_72.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_72-2x.jpg",
     "gameNo": "072",
     "ename": "Toxtricity"
   },
@@ -1884,7 +1884,7 @@
         "effect": "掷1次硬币若为正面，则将对手的战斗宝可梦【麻痺】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_73.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_73-2x.jpg",
     "gameNo": "073",
     "ename": "Pawmi"
   },
@@ -1910,7 +1910,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_74.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_74-2x.jpg",
     "gameNo": "074",
     "ename": "Pawmi"
   },
@@ -1936,7 +1936,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_75.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_75-2x.jpg",
     "gameNo": "075",
     "ename": "Pawmo"
   },
@@ -1962,11 +1962,11 @@
         "effect": "将这只宝可梦身上附加的能量卡全部丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_76.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_76-2x.jpg",
     "gameNo": "076",
     "ename": "Pawmot",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_209.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_209-2x.jpg"
     ]
   },
   {
@@ -1991,7 +1991,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_77.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_77-2x.jpg",
     "gameNo": "077",
     "ename": "Wattrel"
   },
@@ -2013,7 +2013,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_78.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_78-2x.jpg",
     "gameNo": "078",
     "ename": "Wattrel"
   },
@@ -2039,7 +2039,7 @@
         "effect": "选择1个这只宝可梦身上附加的【雷】能量，将其丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_79.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_79-2x.jpg",
     "gameNo": "079",
     "ename": "Kilowattrel"
   },
@@ -2065,7 +2065,7 @@
         "effect": "对手的1只备战宝可梦也受到30点伤害。[在备战区不计算弱点・抵抗力。]"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_80.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_80-2x.jpg",
     "gameNo": "080",
     "ename": "Miraidon"
   },
@@ -2095,13 +2095,13 @@
         "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_81.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_81-2x.jpg",
     "gameNo": "081",
     "ename": "Miraidon ex",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_227.jpg",
-      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_244.jpg",
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_253_R_EN_SM.png"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_227-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_244-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_253_R_EN.png"
     ]
   },
   {
@@ -2126,11 +2126,11 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_82.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_82-2x.jpg",
     "gameNo": "082",
     "ename": "Drowzee",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_210.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_210-2x.jpg"
     ]
   },
   {
@@ -2155,7 +2155,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_83.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_83-2x.jpg",
     "gameNo": "083",
     "ename": "Hypno"
   },
@@ -2177,11 +2177,11 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_84.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_84-2x.jpg",
     "gameNo": "084",
     "ename": "Ralts",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_211.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_211-2x.jpg"
     ]
   },
   {
@@ -2206,11 +2206,11 @@
         "effect": "增加对手的战斗宝可梦身上附加的能量的数量×20点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_85.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_85-2x.jpg",
     "gameNo": "085",
     "ename": "Kirlia",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_212.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_212-2x.jpg"
     ]
   },
   {
@@ -2239,12 +2239,12 @@
         "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_86.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_86-2x.jpg",
     "gameNo": "086",
     "ename": "Gardevoir ex",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_228.jpg",
-      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_245.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_228-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_245-2x.jpg"
     ]
   },
   {
@@ -2265,7 +2265,7 @@
         "effect": "掷1次硬币若为正面，则在下个对手的回合，对手无法从手牌使出物品卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_87.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_87-2x.jpg",
     "gameNo": "087",
     "ename": "Shuppet"
   },
@@ -2295,11 +2295,11 @@
         "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_88.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_88-2x.jpg",
     "gameNo": "088",
     "ename": "Banette ex",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_229.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_229-2x.jpg"
     ]
   },
   {
@@ -2324,7 +2324,7 @@
         "effect": "造成这只宝可梦身上放置的伤害指示物的数量×30点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_89.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_89-2x.jpg",
     "gameNo": "089",
     "ename": "Drifloon"
   },
@@ -2350,7 +2350,7 @@
         "effect": "将8个伤害指示物以任意方式放置于对手的宝可梦身上。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_90.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_90-2x.jpg",
     "gameNo": "090",
     "ename": "Drifblim"
   },
@@ -2372,7 +2372,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_91.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_91-2x.jpg",
     "gameNo": "091",
     "ename": "Flab茅b茅"
   },
@@ -2394,7 +2394,7 @@
         "effect": "掷1次硬币若为正面，则增加30点伤害，并将这只宝可梦恢复「30」HP。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_92.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_92-2x.jpg",
     "gameNo": "092",
     "ename": "Floette"
   },
@@ -2420,7 +2420,7 @@
         "effect": "在下个对手的回合，受到这个招式的宝可梦使用招式的伤害「-30」点。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_93.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_93-2x.jpg",
     "gameNo": "093",
     "ename": "Florges"
   },
@@ -2442,7 +2442,7 @@
         "effect": "掷1次硬币若为正面，则选择1个对手的战斗宝可梦身上附加的能量，将其丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_94.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_94-2x.jpg",
     "gameNo": "094",
     "ename": "Dedenne"
   },
@@ -2464,7 +2464,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_95.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_95-2x.jpg",
     "gameNo": "095",
     "ename": "Dedenne"
   },
@@ -2490,7 +2490,7 @@
         "effect": "在造成伤害前，将对手的战斗宝可梦身上附加的「宝可梦道具」卡丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_96.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_96-2x.jpg",
     "gameNo": "096",
     "ename": "Klefki"
   },
@@ -2512,7 +2512,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_97.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_97-2x.jpg",
     "gameNo": "097",
     "ename": "Fidough"
   },
@@ -2538,11 +2538,11 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_98.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_98-2x.jpg",
     "gameNo": "098",
     "ename": "Fidough",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_213.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_213-2x.jpg"
     ]
   },
   {
@@ -2567,7 +2567,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_99.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_99-2x.jpg",
     "gameNo": "099",
     "ename": "Dachsbun"
   },
@@ -2589,7 +2589,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_100.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_100-2x.jpg",
     "gameNo": "100",
     "ename": "Flittle"
   },
@@ -2611,7 +2611,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_101.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_101-2x.jpg",
     "gameNo": "101",
     "ename": "Flittle"
   },
@@ -2633,7 +2633,7 @@
         "effect": "将这只宝可梦与备战宝可梦互换。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_102.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_102-2x.jpg",
     "gameNo": "102",
     "ename": "Flittle"
   },
@@ -2659,7 +2659,7 @@
         "effect": "增加对手的战斗宝可梦身上附加的能量的数量×50点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_103.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_103-2x.jpg",
     "gameNo": "103",
     "ename": "Espathra"
   },
@@ -2681,11 +2681,11 @@
         "effect": "造成自己的弃牌区的【超】宝可梦的张数×10点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_104.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_104-2x.jpg",
     "gameNo": "104",
     "ename": "Greavard",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_214.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_214-2x.jpg"
     ]
   },
   {
@@ -2710,7 +2710,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_105.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_105-2x.jpg",
     "gameNo": "105",
     "ename": "Greavard"
   },
@@ -2732,7 +2732,7 @@
         "effect": "增加自己的弃牌区的【超】宝可梦卡的张数×10点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_106.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_106-2x.jpg",
     "gameNo": "106",
     "ename": "Houndstone"
   },
@@ -2754,7 +2754,7 @@
         "effect": "这只宝可梦也受到10点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_107.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_107-2x.jpg",
     "gameNo": "107",
     "ename": "Mankey"
   },
@@ -2776,7 +2776,7 @@
         "effect": "这只宝可梦也受到20点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_108.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_108-2x.jpg",
     "gameNo": "108",
     "ename": "Primeape"
   },
@@ -2802,7 +2802,7 @@
         "effect": "这只宝可梦也受到50点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_109.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_109-2x.jpg",
     "gameNo": "109",
     "ename": "Annihilape"
   },
@@ -2824,7 +2824,7 @@
         "effect": "这个招式的伤害不计算抵抗力。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_110.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_110-2x.jpg",
     "gameNo": "110",
     "ename": "Meditite"
   },
@@ -2850,7 +2850,7 @@
         "effect": "掷1次硬币若为反面，则这个招式失败。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_111.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_111-2x.jpg",
     "gameNo": "111",
     "ename": "Medicham"
   },
@@ -2876,7 +2876,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_112.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_112-2x.jpg",
     "gameNo": "112",
     "ename": "Riolu"
   },
@@ -2902,11 +2902,11 @@
         "effect": "这只宝可梦也受到20点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_113.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_113-2x.jpg",
     "gameNo": "113",
     "ename": "Riolu",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_215.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_215-2x.jpg"
     ]
   },
   {
@@ -2931,7 +2931,7 @@
         "effect": "在下个自己的回合，这只宝可梦无法使用「加速突刺」。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_114.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_114-2x.jpg",
     "gameNo": "114",
     "ename": "Lucario"
   },
@@ -2957,11 +2957,11 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_115.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_115-2x.jpg",
     "gameNo": "115",
     "ename": "Sandile",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_216.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_216-2x.jpg"
     ]
   },
   {
@@ -2986,7 +2986,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_116.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_116-2x.jpg",
     "gameNo": "116",
     "ename": "Krokorok"
   },
@@ -3012,7 +3012,7 @@
         "effect": "自己的所有备战宝可梦也各受到30点伤害。[在备战区不计算弱点・抵抗力。]"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_117.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_117-2x.jpg",
     "gameNo": "117",
     "ename": "Krookodile"
   },
@@ -3038,7 +3038,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_118.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_118-2x.jpg",
     "gameNo": "118",
     "ename": "Hawlucha"
   },
@@ -3060,7 +3060,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_119.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_119-2x.jpg",
     "gameNo": "119",
     "ename": "Silicobra"
   },
@@ -3086,7 +3086,7 @@
         "effect": "选择2个这只宝可梦身上附加的能量，将其丢弃。然后，将对手的战斗宝可梦与附加的卡，全部放回对手的牌库并重洗。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_120.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_120-2x.jpg",
     "gameNo": "120",
     "ename": "Sandaconda"
   },
@@ -3112,7 +3112,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_121.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_121-2x.jpg",
     "gameNo": "121",
     "ename": "Stonjourner"
   },
@@ -3138,11 +3138,11 @@
         "effect": "将这只宝可梦【混乱】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_122.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_122-2x.jpg",
     "gameNo": "122",
     "ename": "Klawf",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_217.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_217-2x.jpg"
     ]
   },
   {
@@ -3171,12 +3171,12 @@
         "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_123.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_123-2x.jpg",
     "gameNo": "123",
     "ename": "Great Tusk ex",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_230.jpg",
-      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_246.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_230-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_246-2x.jpg"
     ]
   },
   {
@@ -3201,7 +3201,7 @@
         "effect": "选择3个这只宝可梦身上附加的能量，将其丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_124.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_124-2x.jpg",
     "gameNo": "124",
     "ename": "Koraidon"
   },
@@ -3231,13 +3231,13 @@
         "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_125.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_125-2x.jpg",
     "gameNo": "125",
     "ename": "Koraidon ex",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_231.jpg",
-      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_247.jpg",
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_254_R_EN_SM.png"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_231-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_247-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_254_R_EN.png"
     ]
   },
   {
@@ -3258,7 +3258,7 @@
         "effect": "将对手的战斗宝可梦【中毒】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_126.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_126-2x.jpg",
     "gameNo": "126",
     "ename": "Grimer"
   },
@@ -3284,7 +3284,7 @@
         "effect": "将对手的战斗宝可梦【中毒】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_127.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_127-2x.jpg",
     "gameNo": "127",
     "ename": "Muk"
   },
@@ -3310,7 +3310,7 @@
         "effect": "若对手的战斗宝可梦【中毒】，则增加120点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_128.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_128-2x.jpg",
     "gameNo": "128",
     "ename": "Seviper"
   },
@@ -3336,7 +3336,7 @@
         "effect": "掷2次硬币，若全部为正面，则将对手的战斗宝可梦【昏厥】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_129.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_129-2x.jpg",
     "gameNo": "129",
     "ename": "Spiritomb"
   },
@@ -3362,7 +3362,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_130.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_130-2x.jpg",
     "gameNo": "130",
     "ename": "Croagunk"
   },
@@ -3392,11 +3392,11 @@
         "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_131.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_131-2x.jpg",
     "gameNo": "131",
     "ename": "Toxicroak ex",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_232.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_232-2x.jpg"
     ]
   },
   {
@@ -3421,7 +3421,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_132.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_132-2x.jpg",
     "gameNo": "132",
     "ename": "Pawniard"
   },
@@ -3447,7 +3447,7 @@
         "effect": "这只宝可梦也受到30点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_133.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_133-2x.jpg",
     "gameNo": "133",
     "ename": "Bisharp"
   },
@@ -3473,11 +3473,11 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_134.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_134-2x.jpg",
     "gameNo": "134",
     "ename": "Kingambit",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_220.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_220-2x.jpg"
     ]
   },
   {
@@ -3502,7 +3502,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_135.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_135-2x.jpg",
     "gameNo": "135",
     "ename": "Maschiff"
   },
@@ -3524,7 +3524,7 @@
         "effect": "掷1次硬币若为正面，则选择1个对手的战斗宝可梦身上附加的能量，将其丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_136.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_136-2x.jpg",
     "gameNo": "136",
     "ename": "Maschiff"
   },
@@ -3550,11 +3550,11 @@
         "effect": "这只宝可梦也受到30点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_137.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_137-2x.jpg",
     "gameNo": "137",
     "ename": "Mabosstiff",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_218.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_218-2x.jpg"
     ]
   },
   {
@@ -3579,11 +3579,11 @@
         "effect": "在下个对手的回合，受到这个招式的宝可梦无法撤退。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_138.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_138-2x.jpg",
     "gameNo": "138",
     "ename": "Bombirdier",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_219.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_219-2x.jpg"
     ]
   },
   {
@@ -3608,7 +3608,7 @@
         "effect": "在下个对手的回合，这只宝可梦受到招式的伤害「-50」点。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_139.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_139-2x.jpg",
     "gameNo": "139",
     "ename": "Forretress"
   },
@@ -3630,7 +3630,7 @@
         "effect": "将对手的战斗宝可梦【中毒】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_140.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_140-2x.jpg",
     "gameNo": "140",
     "ename": "Varoom"
   },
@@ -3652,7 +3652,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_141.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_141-2x.jpg",
     "gameNo": "141",
     "ename": "Varoom"
   },
@@ -3678,7 +3678,7 @@
         "effect": "掷1次硬币若为正面，则增加90点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_142.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_142-2x.jpg",
     "gameNo": "142",
     "ename": "Revavroom"
   },
@@ -3708,12 +3708,12 @@
         "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_143.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_143-2x.jpg",
     "gameNo": "143",
     "ename": "Iron Treads ex",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_233.jpg",
-      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_248.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_233-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_248-2x.jpg"
     ]
   },
   {
@@ -3738,7 +3738,7 @@
         "effect": "掷硬币直到出现反面，造成正面出现的次数×60点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_144.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_144-2x.jpg",
     "gameNo": "144",
     "ename": "Chansey"
   },
@@ -3764,7 +3764,7 @@
         "effect": "将这只宝可梦身上附加的能量卡，全部改附于1只备战宝可梦身上。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_145.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_145-2x.jpg",
     "gameNo": "145",
     "ename": "Blissey"
   },
@@ -3786,7 +3786,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_146.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_146-2x.jpg",
     "gameNo": "146",
     "ename": "Zangoose"
   },
@@ -3812,7 +3812,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_147.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_147-2x.jpg",
     "gameNo": "147",
     "ename": "Zangoose"
   },
@@ -3834,11 +3834,11 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_148.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_148-2x.jpg",
     "gameNo": "148",
     "ename": "Starly",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_221.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_221-2x.jpg"
     ]
   },
   {
@@ -3863,7 +3863,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_149.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_149-2x.jpg",
     "gameNo": "149",
     "ename": "Staravia"
   },
@@ -3889,7 +3889,7 @@
         "effect": "选择1个这只宝可梦身上附加的能量，将其丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_150.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_150-2x.jpg",
     "gameNo": "150",
     "ename": "Staraptor"
   },
@@ -3915,11 +3915,11 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_151.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_151-2x.jpg",
     "gameNo": "151",
     "ename": "Skwovet",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_222.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_222-2x.jpg"
     ]
   },
   {
@@ -3944,7 +3944,7 @@
         "effect": "若这只宝可梦附有「宝可梦道具」卡，则增加80点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_152.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_152-2x.jpg",
     "gameNo": "152",
     "ename": "Greedent"
   },
@@ -3970,7 +3970,7 @@
         "effect": "将对手的战斗宝可梦【睡眠】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_153.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_153-2x.jpg",
     "gameNo": "153",
     "ename": "Indeedee"
   },
@@ -3996,7 +3996,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_154.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_154-2x.jpg",
     "gameNo": "154",
     "ename": "Lechonk"
   },
@@ -4022,7 +4022,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_155.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_155-2x.jpg",
     "gameNo": "155",
     "ename": "Lechonk"
   },
@@ -4044,7 +4044,7 @@
         "effect": "掷1次硬币若为反面，则这个招式失败。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_156.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_156-2x.jpg",
     "gameNo": "156",
     "ename": "Lechonk"
   },
@@ -4070,7 +4070,7 @@
         "effect": "掷1次硬币若为反面，则在下个自己的回合，这只宝可梦无法使用招式。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_157.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_157-2x.jpg",
     "gameNo": "157",
     "ename": "Oinkologne"
   },
@@ -4100,11 +4100,11 @@
         "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_158.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_158-2x.jpg",
     "gameNo": "158",
     "ename": "Oinkologne ex",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_234.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_234-2x.jpg"
     ]
   },
   {
@@ -4125,7 +4125,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_159.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_159-2x.jpg",
     "gameNo": "159",
     "ename": "Tandemaus"
   },
@@ -4147,7 +4147,7 @@
         "effect": "掷2次硬币，造成正面出现的次数×30点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_160.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_160-2x.jpg",
     "gameNo": "160",
     "ename": "Tandemaus"
   },
@@ -4173,7 +4173,7 @@
         "effect": "造成自己的场上的「一家鼠」的数量×70点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_161.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_161-2x.jpg",
     "gameNo": "161",
     "ename": "Maushold"
   },
@@ -4199,7 +4199,7 @@
         "effect": "掷1次硬币若为反面，则这个招式失败。若为正面，则在下个对手的回合，这只宝可梦不会受到招式的伤害与效果的影响。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_162.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_162-2x.jpg",
     "gameNo": "162",
     "ename": "Squawkabilly"
   },
@@ -4221,7 +4221,7 @@
         "effect": "这只宝可梦也受到10点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_163.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_163-2x.jpg",
     "gameNo": "163",
     "ename": "Cyclizar"
   },
@@ -4247,7 +4247,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_164.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_164-2x.jpg",
     "gameNo": "164",
     "ename": "Cyclizar"
   },
@@ -4273,7 +4273,7 @@
         "effect": "这只宝可梦也受到20点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_165.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_165-2x.jpg",
     "gameNo": "165",
     "ename": "Flamigo"
   },
@@ -4293,7 +4293,7 @@
         "effect": "在自己的回合时，可将1张竞技场卡放置于战斗场旁边。若其他竞技场卡被放置，则将这张卡丢弃。不可放置名称相同的竞技场卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_167.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_167-2x.jpg",
     "gameNo": "167",
     "ename": "Beach Court"
   },
@@ -4313,7 +4313,7 @@
         "effect": "在自己的回合时，可将1张竞技场卡放置于战斗场旁边。若其他竞技场卡被放置，则将这张卡丢弃。不可放置名称相同的竞技场卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_178.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_178-2x.jpg",
     "gameNo": "178",
     "ename": "Mesagoza"
   },
@@ -4333,12 +4333,12 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_166.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_166-2x.jpg",
     "gameNo": "166",
     "ename": "Arven",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_235.jpg",
-      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_249.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_235-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_249-2x.jpg"
     ]
   },
   {
@@ -4357,12 +4357,12 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_175.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_175-2x.jpg",
     "gameNo": "175",
     "ename": "Jacq",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_236.jpg",
-      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_250.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_236-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_250-2x.jpg"
     ]
   },
   {
@@ -4381,7 +4381,7 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_176.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_176-2x.jpg",
     "gameNo": "176",
     "ename": "Judge"
   },
@@ -4401,11 +4401,11 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_177.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_177-2x.jpg",
     "gameNo": "177",
     "ename": "Katy",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_237.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_237-2x.jpg"
     ]
   },
   {
@@ -4424,12 +4424,12 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_179.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_179-2x.jpg",
     "gameNo": "179",
     "ename": "Miriam",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_238.jpg",
-      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_251.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_238-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_251-2x.jpg"
     ]
   },
   {
@@ -4448,7 +4448,7 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_180.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_180-2x.jpg",
     "gameNo": "180",
     "ename": "Nemona"
   },
@@ -4468,12 +4468,12 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_183.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_183-2x.jpg",
     "gameNo": "183",
     "ename": "Penny",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_239.jpg",
-      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_252.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_239-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_252-2x.jpg"
     ]
   },
   {
@@ -4492,11 +4492,11 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_189.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_189-2x.jpg",
     "gameNo": "189",
     "ename": "Professor's Research (Professor Sada)",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_240.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_240-2x.jpg"
     ]
   },
   {
@@ -4515,7 +4515,7 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_190.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_190-2x.jpg",
     "gameNo": "190",
     "ename": "Professor's Research (Professor Turo)",
     "artList": [
@@ -4538,11 +4538,11 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_195.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_195-2x.jpg",
     "gameNo": "195",
     "ename": "Team Star Grunt",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_242.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_242-2x.jpg"
     ]
   },
   {
@@ -4561,7 +4561,7 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_198.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_198-2x.jpg",
     "gameNo": "198",
     "ename": "Youngster"
   },
@@ -4581,7 +4581,7 @@
         "effect": "在自己的回合时，宝可梦道具卡可不限张数附于自己的宝可梦身上。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_169.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_169-2x.jpg",
     "gameNo": "169",
     "ename": "Defiance Band"
   },
@@ -4601,7 +4601,7 @@
         "effect": "在自己的回合时，宝可梦道具卡可不限张数附于自己的宝可梦身上。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_174.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_174-2x.jpg",
     "gameNo": "174",
     "ename": "Exp. Share"
   },
@@ -4621,7 +4621,7 @@
         "effect": "在自己的回合时，宝可梦道具卡可不限张数附于自己的宝可梦身上。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_192.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_192-2x.jpg",
     "gameNo": "192",
     "ename": "Rock Chestplate"
   },
@@ -4641,7 +4641,7 @@
         "effect": "在自己的回合时，宝可梦道具卡可不限张数附于自己的宝可梦身上。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_193.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_193-2x.jpg",
     "gameNo": "193",
     "ename": "Rocky Helmet"
   },
@@ -4661,7 +4661,7 @@
         "effect": "在自己的回合时，宝可梦道具卡可不限张数附于自己的宝可梦身上。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_197.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_197-2x.jpg",
     "gameNo": "197",
     "ename": "Vitality Band"
   },
@@ -4681,7 +4681,7 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_168.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_168-2x.jpg",
     "gameNo": "168",
     "ename": "Crushing Hammer"
   },
@@ -4701,7 +4701,7 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_170.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_170-2x.jpg",
     "gameNo": "170",
     "ename": "Electric Generator"
   },
@@ -4721,7 +4721,7 @@
       }
     ],
     "type": "Trainers",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_171.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_171-2x.jpg",
     "gameNo": "171",
     "ename": "Energy Retrieval"
   },
@@ -4741,7 +4741,7 @@
       }
     ],
     "type": "Trainers",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_172.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_172-2x.jpg",
     "gameNo": "172",
     "ename": "Energy Search"
   },
@@ -4761,7 +4761,7 @@
       }
     ],
     "type": "Trainers",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_173.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_173-2x.jpg",
     "gameNo": "173",
     "ename": "Energy Switch"
   },
@@ -4781,11 +4781,11 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_181.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_181-2x.jpg",
     "gameNo": "181",
     "ename": "Nest Ball",
     "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_255_R_EN_SM.png"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_255_R_EN.png"
     ]
   },
   {
@@ -4804,7 +4804,7 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_182.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_182-2x.jpg",
     "gameNo": "182",
     "ename": "Pal Pad"
   },
@@ -4824,7 +4824,7 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_184.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_184-2x.jpg",
     "gameNo": "184",
     "ename": "Picnic Basket"
   },
@@ -4844,7 +4844,7 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_185.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_185-2x.jpg",
     "gameNo": "185",
     "ename": "Poké Ball"
   },
@@ -4864,7 +4864,7 @@
       }
     ],
     "type": "Trainers",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_186.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_186-2x.jpg",
     "gameNo": "186",
     "ename": "Pokégear 3.0"
   },
@@ -4884,7 +4884,7 @@
       }
     ],
     "type": "Trainers",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_187.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_187-2x.jpg",
     "gameNo": "187",
     "ename": "Pokémon Catcher"
   },
@@ -4904,7 +4904,7 @@
       }
     ],
     "type": "Trainers",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_188.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_188-2x.jpg",
     "gameNo": "188",
     "ename": "Potion"
   },
@@ -4924,11 +4924,11 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_191.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_191-2x.jpg",
     "gameNo": "191",
     "ename": "Rare Candy",
     "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_256_R_EN_SM.png"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_256_R_EN.png"
     ]
   },
   {
@@ -4947,7 +4947,7 @@
       }
     ],
     "type": "Trainers",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_194.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_194-2x.jpg",
     "gameNo": "194",
     "ename": "Switch"
   },
@@ -4967,7 +4967,7 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_196.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_196-2x.jpg",
     "gameNo": "196",
     "ename": "Ultra Ball"
   }

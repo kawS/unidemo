@@ -17,7 +17,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Grass",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_1.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_1-2x.jpg",
     "gameNo": "001",
     "ename": "Hoppip"
   },
@@ -43,7 +43,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Grass",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_2.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_2-2x.jpg",
     "gameNo": "002",
     "ename": "Skiploom"
   },
@@ -69,7 +69,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Grass",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_3.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_3-2x.jpg",
     "gameNo": "003",
     "ename": "Jumpluff"
   },
@@ -91,7 +91,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Grass",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_4.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_4-2x.jpg",
     "gameNo": "004",
     "ename": "Pineco"
   },
@@ -125,11 +125,11 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Grass",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_5.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_5-2x.jpg",
     "gameNo": "005",
     "ename": "Forretress ex",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_230.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_230-2x.jpg"
     ]
   },
   {
@@ -154,11 +154,11 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Grass",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_6.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_6-2x.jpg",
     "gameNo": "006",
     "ename": "Heracross",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_194.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_194-2x.jpg"
     ]
   },
   {
@@ -183,11 +183,11 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Grass",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_7.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_7-2x.jpg",
     "gameNo": "007",
     "ename": "Tropius",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_195.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_195-2x.jpg"
     ]
   },
   {
@@ -208,7 +208,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Grass",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_8.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_8-2x.jpg",
     "gameNo": "008",
     "ename": "Combee"
   },
@@ -234,7 +234,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Grass",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_9.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_9-2x.jpg",
     "gameNo": "009",
     "ename": "Vespiquen"
   },
@@ -256,7 +256,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Grass",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_10.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_10-2x.jpg",
     "gameNo": "010",
     "ename": "Snover"
   },
@@ -282,7 +282,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Grass",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_11.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_11-2x.jpg",
     "gameNo": "011",
     "ename": "Abomasnow"
   },
@@ -308,11 +308,11 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Grass",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_12.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_12-2x.jpg",
     "gameNo": "012",
     "ename": "Sprigatito",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_196.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_196-2x.jpg"
     ]
   },
   {
@@ -333,7 +333,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Grass",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_13.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_13-2x.jpg",
     "gameNo": "013",
     "ename": "Sprigatito"
   },
@@ -359,11 +359,11 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Grass",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_14.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_14-2x.jpg",
     "gameNo": "014",
     "ename": "Floragato",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_197.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_197-2x.jpg"
     ]
   },
   {
@@ -392,13 +392,13 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Grass",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_15.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_15-2x.jpg",
     "gameNo": "015",
     "ename": "Meowscarada ex",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_231.jpg",
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_256.jpg",
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAL/PAL_271_R_EN_SM.png"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_231-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_256-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAL/PAL_271_R_EN.png"
     ]
   },
   {
@@ -419,7 +419,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Grass",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_16.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_16-2x.jpg",
     "gameNo": "016",
     "ename": "Tarountula"
   },
@@ -441,7 +441,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Grass",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_17.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_17-2x.jpg",
     "gameNo": "017",
     "ename": "Tarountula"
   },
@@ -467,7 +467,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Grass",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_18.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_18-2x.jpg",
     "gameNo": "018",
     "ename": "Spidops"
   },
@@ -493,7 +493,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Grass",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_19.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_19-2x.jpg",
     "gameNo": "019",
     "ename": "Nymble"
   },
@@ -519,7 +519,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Grass",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_20.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_20-2x.jpg",
     "gameNo": "020",
     "ename": "Nymble"
   },
@@ -545,7 +545,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Grass",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_21.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_21-2x.jpg",
     "gameNo": "021",
     "ename": "Lokix"
   },
@@ -567,7 +567,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Grass",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_22.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_22-2x.jpg",
     "gameNo": "022",
     "ename": "Bramblin"
   },
@@ -589,11 +589,11 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Grass",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_23.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_23-2x.jpg",
     "gameNo": "023",
     "ename": "Bramblin",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_198.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_198-2x.jpg"
     ]
   },
   {
@@ -618,7 +618,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Grass",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_24.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_24-2x.jpg",
     "gameNo": "024",
     "ename": "Brambleghast"
   },
@@ -640,7 +640,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Grass",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_25.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_25-2x.jpg",
     "gameNo": "025",
     "ename": "Rellor"
   },
@@ -662,7 +662,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Grass",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_26.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_26-2x.jpg",
     "gameNo": "026",
     "ename": "Rellor"
   },
@@ -692,12 +692,12 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Grass",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_27.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_27-2x.jpg",
     "gameNo": "027",
     "ename": "Wo-Chien ex",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_232.jpg",
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_257.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_232-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_257-2x.jpg"
     ]
   },
   {
@@ -722,7 +722,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Fire",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_28.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_28-2x.jpg",
     "gameNo": "028",
     "ename": "Paldean Tauros"
   },
@@ -744,11 +744,11 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Fire",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_29.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_29-2x.jpg",
     "gameNo": "029",
     "ename": "Fletchinder",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_199.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_199-2x.jpg"
     ]
   },
   {
@@ -773,7 +773,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Fire",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_30.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_30-2x.jpg",
     "gameNo": "030",
     "ename": "Talonflame"
   },
@@ -799,7 +799,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Fire",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_31.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_31-2x.jpg",
     "gameNo": "031",
     "ename": "Litleo"
   },
@@ -825,11 +825,11 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Fire",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_32.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_32-2x.jpg",
     "gameNo": "032",
     "ename": "Pyroar",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_200.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_200-2x.jpg"
     ]
   },
   {
@@ -854,7 +854,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Fire",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_33.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_33-2x.jpg",
     "gameNo": "033",
     "ename": "Oricorio"
   },
@@ -876,7 +876,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Fire",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_34.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_34-2x.jpg",
     "gameNo": "034",
     "ename": "Fuecoco"
   },
@@ -902,11 +902,11 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Fire",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_35.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_35-2x.jpg",
     "gameNo": "035",
     "ename": "Fuecoco",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_201.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_201-2x.jpg"
     ]
   },
   {
@@ -931,11 +931,11 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Fire",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_36.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_36-2x.jpg",
     "gameNo": "036",
     "ename": "Crocalor",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_202.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_202-2x.jpg"
     ]
   },
   {
@@ -964,13 +964,13 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Fire",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_37.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_37-2x.jpg",
     "gameNo": "037",
     "ename": "Skeledirge ex",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_233.jpg",
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_258.jpg",
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAL/PAL_272_R_EN_SM.png"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_233-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_258-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAL/PAL_272_R_EN.png"
     ]
   },
   {
@@ -991,7 +991,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Fire",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_38.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_38-2x.jpg",
     "gameNo": "038",
     "ename": "Charcadet"
   },
@@ -1017,7 +1017,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Fire",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_39.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_39-2x.jpg",
     "gameNo": "039",
     "ename": "Charcadet"
   },
@@ -1047,12 +1047,12 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Fire",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_40.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_40-2x.jpg",
     "gameNo": "040",
     "ename": "Chi-Yu ex",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_234.jpg",
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_259.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_234-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_259-2x.jpg"
     ]
   },
   {
@@ -1077,7 +1077,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Water",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_41.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_41-2x.jpg",
     "gameNo": "041",
     "ename": "Paldean Tauros"
   },
@@ -1099,11 +1099,11 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Water",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_42.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_42-2x.jpg",
     "gameNo": "042",
     "ename": "Magikarp",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_203.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_203-2x.jpg"
     ]
   },
   {
@@ -1128,7 +1128,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Water",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_43.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_43-2x.jpg",
     "gameNo": "043",
     "ename": "Gyarados"
   },
@@ -1150,11 +1150,11 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Water",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_44.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_44-2x.jpg",
     "gameNo": "044",
     "ename": "Marill",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_204.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_204-2x.jpg"
     ]
   },
   {
@@ -1179,7 +1179,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Water",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_45.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_45-2x.jpg",
     "gameNo": "045",
     "ename": "Azumarill"
   },
@@ -1205,7 +1205,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Water",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_46.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_46-2x.jpg",
     "gameNo": "046",
     "ename": "Delibird"
   },
@@ -1231,7 +1231,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Water",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_47.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_47-2x.jpg",
     "gameNo": "047",
     "ename": "Luvdisc"
   },
@@ -1257,11 +1257,11 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Water",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_48.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_48-2x.jpg",
     "gameNo": "048",
     "ename": "Eiscue",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_205.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_205-2x.jpg"
     ]
   },
   {
@@ -1282,11 +1282,11 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Water",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_49.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_49-2x.jpg",
     "gameNo": "049",
     "ename": "Quaxly",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_206.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_206-2x.jpg"
     ]
   },
   {
@@ -1307,7 +1307,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Water",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_50.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_50-2x.jpg",
     "gameNo": "050",
     "ename": "Quaxly"
   },
@@ -1333,11 +1333,11 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Water",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_51.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_51-2x.jpg",
     "gameNo": "051",
     "ename": "Quaxwell",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_207.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_207-2x.jpg"
     ]
   },
   {
@@ -1366,13 +1366,13 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Water",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_52.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_52-2x.jpg",
     "gameNo": "052",
     "ename": "Quaquaval ex",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_235.jpg",
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_260.jpg",
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAL/PAL_273_R_EN_SM.png"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_235-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_260-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAL/PAL_273_R_EN.png"
     ]
   },
   {
@@ -1393,7 +1393,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Water",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_53.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_53-2x.jpg",
     "gameNo": "053",
     "ename": "Cetoddle"
   },
@@ -1419,7 +1419,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Water",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_54.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_54-2x.jpg",
     "gameNo": "054",
     "ename": "Cetoddle"
   },
@@ -1445,7 +1445,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Water",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_55.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_55-2x.jpg",
     "gameNo": "055",
     "ename": "Cetitan"
   },
@@ -1471,7 +1471,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Water",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_56.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_56-2x.jpg",
     "gameNo": "056",
     "ename": "Veluza"
   },
@@ -1493,11 +1493,11 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Water",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_57.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_57-2x.jpg",
     "gameNo": "057",
     "ename": "Frigibax",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_208.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_208-2x.jpg"
     ]
   },
   {
@@ -1522,7 +1522,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Water",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_58.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_58-2x.jpg",
     "gameNo": "058",
     "ename": "Frigibax"
   },
@@ -1548,11 +1548,11 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Water",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_59.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_59-2x.jpg",
     "gameNo": "059",
     "ename": "Arctibax",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_209.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_209-2x.jpg"
     ]
   },
   {
@@ -1577,11 +1577,11 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Water",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_60.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_60-2x.jpg",
     "gameNo": "060",
     "ename": "Baxcalibur",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_210.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_210-2x.jpg"
     ]
   },
   {
@@ -1610,13 +1610,13 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Water",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_61.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_61-2x.jpg",
     "gameNo": "061",
     "ename": "Chien-Pao ex",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_236.jpg",
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_261.jpg",
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAL/PAL_274_R_EN_SM.png"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_236-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_261-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAL/PAL_274_R_EN.png"
     ]
   },
   {
@@ -1641,7 +1641,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Lightning",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_62.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_62-2x.jpg",
     "gameNo": "062",
     "ename": "Pikachu"
   },
@@ -1671,7 +1671,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Lightning",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_63.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_63-2x.jpg",
     "gameNo": "063",
     "ename": "Pikachu ex"
   },
@@ -1697,11 +1697,11 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Lightning",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_64.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_64-2x.jpg",
     "gameNo": "064",
     "ename": "Raichu",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_211.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_211-2x.jpg"
     ]
   },
   {
@@ -1726,7 +1726,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Lightning",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_65.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_65-2x.jpg",
     "gameNo": "065",
     "ename": "Magnemite"
   },
@@ -1752,7 +1752,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Lightning",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_66.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_66-2x.jpg",
     "gameNo": "066",
     "ename": "Voltorb"
   },
@@ -1778,7 +1778,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Lightning",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_67.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_67-2x.jpg",
     "gameNo": "067",
     "ename": "Electrode"
   },
@@ -1804,7 +1804,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Lightning",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_68.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_68-2x.jpg",
     "gameNo": "068",
     "ename": "Shinx"
   },
@@ -1826,7 +1826,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Lightning",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_69.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_69-2x.jpg",
     "gameNo": "069",
     "ename": "Shinx"
   },
@@ -1852,7 +1852,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Lightning",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_70.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_70-2x.jpg",
     "gameNo": "070",
     "ename": "Luxio"
   },
@@ -1878,7 +1878,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Lightning",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_71.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_71-2x.jpg",
     "gameNo": "071",
     "ename": "Luxray"
   },
@@ -1900,7 +1900,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Lightning",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_72.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_72-2x.jpg",
     "gameNo": "072",
     "ename": "Pincurchin"
   },
@@ -1926,7 +1926,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Lightning",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_73.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_73-2x.jpg",
     "gameNo": "073",
     "ename": "Pincurchin"
   },
@@ -1948,7 +1948,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Lightning",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_74.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_74-2x.jpg",
     "gameNo": "074",
     "ename": "Pawmi"
   },
@@ -1974,7 +1974,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Lightning",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_75.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_75-2x.jpg",
     "gameNo": "075",
     "ename": "Pawmo"
   },
@@ -2000,7 +2000,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Lightning",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_76.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_76-2x.jpg",
     "gameNo": "076",
     "ename": "Pawmot"
   },
@@ -2022,7 +2022,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Lightning",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_77.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_77-2x.jpg",
     "gameNo": "077",
     "ename": "Tadbulb"
   },
@@ -2048,7 +2048,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Lightning",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_78.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_78-2x.jpg",
     "gameNo": "078",
     "ename": "Tadbulb"
   },
@@ -2078,11 +2078,11 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Lightning",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_79.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_79-2x.jpg",
     "gameNo": "079",
     "ename": "Bellibolt ex",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_237.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_237-2x.jpg"
     ]
   },
   {
@@ -2107,7 +2107,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Lightning",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_80.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_80-2x.jpg",
     "gameNo": "080",
     "ename": "Wattrel"
   },
@@ -2133,7 +2133,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Lightning",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_81.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_81-2x.jpg",
     "gameNo": "081",
     "ename": "Wattrel"
   },
@@ -2159,7 +2159,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Lightning",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_82.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_82-2x.jpg",
     "gameNo": "082",
     "ename": "Kilowattrel"
   },
@@ -2185,7 +2185,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Psychic",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_83.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_83-2x.jpg",
     "gameNo": "083",
     "ename": "Jigglypuff"
   },
@@ -2211,7 +2211,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Psychic",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_84.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_84-2x.jpg",
     "gameNo": "084",
     "ename": "Wigglytuff"
   },
@@ -2237,7 +2237,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Psychic",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_85.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_85-2x.jpg",
     "gameNo": "085",
     "ename": "Slowpoke"
   },
@@ -2271,11 +2271,11 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Psychic",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_86.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_86-2x.jpg",
     "gameNo": "086",
     "ename": "Slowking ex",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_238.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_238-2x.jpg"
     ]
   },
   {
@@ -2296,7 +2296,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Psychic",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_87.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_87-2x.jpg",
     "gameNo": "087",
     "ename": "Misdreavus"
   },
@@ -2322,11 +2322,11 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Psychic",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_88.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_88-2x.jpg",
     "gameNo": "088",
     "ename": "Mismagius",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_212.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_212-2x.jpg"
     ]
   },
   {
@@ -2351,7 +2351,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Psychic",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_89.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_89-2x.jpg",
     "gameNo": "089",
     "ename": "Spiritomb"
   },
@@ -2377,7 +2377,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Psychic",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_90.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_90-2x.jpg",
     "gameNo": "090",
     "ename": "Gothita"
   },
@@ -2403,11 +2403,11 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Psychic",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_91.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_91-2x.jpg",
     "gameNo": "091",
     "ename": "Gothorita",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_213.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_213-2x.jpg"
     ]
   },
   {
@@ -2432,7 +2432,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Psychic",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_92.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_92-2x.jpg",
     "gameNo": "092",
     "ename": "Gothitelle"
   },
@@ -2466,11 +2466,11 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Psychic",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_93.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_93-2x.jpg",
     "gameNo": "093",
     "ename": "Dedenne ex",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_239.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_239-2x.jpg"
     ]
   },
   {
@@ -2495,7 +2495,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Psychic",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_94.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_94-2x.jpg",
     "gameNo": "094",
     "ename": "Oranguru"
   },
@@ -2521,11 +2521,11 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Psychic",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_95.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_95-2x.jpg",
     "gameNo": "095",
     "ename": "Sandygast",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_214.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_214-2x.jpg"
     ]
   },
   {
@@ -2550,7 +2550,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Psychic",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_96.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_96-2x.jpg",
     "gameNo": "096",
     "ename": "Palossand"
   },
@@ -2576,7 +2576,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Psychic",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_97.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_97-2x.jpg",
     "gameNo": "097",
     "ename": "Mimikyu"
   },
@@ -2602,7 +2602,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Psychic",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_98.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_98-2x.jpg",
     "gameNo": "098",
     "ename": "Ceruledge"
   },
@@ -2628,11 +2628,11 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Psychic",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_99.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_99-2x.jpg",
     "gameNo": "099",
     "ename": "Rabsca",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_215.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_215-2x.jpg"
     ]
   },
   {
@@ -2657,7 +2657,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Psychic",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_100.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_100-2x.jpg",
     "gameNo": "100",
     "ename": "Tinkatink"
   },
@@ -2683,11 +2683,11 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Psychic",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_101.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_101-2x.jpg",
     "gameNo": "101",
     "ename": "Tinkatink",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_216.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_216-2x.jpg"
     ]
   },
   {
@@ -2708,7 +2708,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Psychic",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_102.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_102-2x.jpg",
     "gameNo": "102",
     "ename": "Tinkatink"
   },
@@ -2734,7 +2734,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Psychic",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_103.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_103-2x.jpg",
     "gameNo": "103",
     "ename": "Tinkatuff"
   },
@@ -2760,11 +2760,11 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Psychic",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_104.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_104-2x.jpg",
     "gameNo": "104",
     "ename": "Tinkatuff",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_217.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_217-2x.jpg"
     ]
   },
   {
@@ -2789,7 +2789,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Psychic",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_105.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_105-2x.jpg",
     "gameNo": "105",
     "ename": "Tinkaton"
   },
@@ -2809,7 +2809,8 @@
       {
         "name": "粉碎壓制",
         "effect": "這個招式的傷害不計算對手的戰鬥寶可夢身上的附加效果。"
-      },{
+      },
+      {
         "name": "[ex規則]",
         "effect": "寶可夢【ex】【昏厥】時，對手獲得2張獎賞卡。"
       }
@@ -2820,8 +2821,8 @@
     "gameNo": "240",
     "ename": "Tinkaton ex",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_240.jpg",
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_262.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_240-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_262-2x.jpg"
     ]
   },
   {
@@ -2846,7 +2847,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Fighting",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_106.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_106-2x.jpg",
     "gameNo": "106",
     "ename": "Mankey"
   },
@@ -2872,7 +2873,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Fighting",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_107.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_107-2x.jpg",
     "gameNo": "107",
     "ename": "Primeape"
   },
@@ -2898,11 +2899,11 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Fighting",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_108.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_108-2x.jpg",
     "gameNo": "108",
     "ename": "Paldean Tauros",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_218.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_218-2x.jpg"
     ]
   },
   {
@@ -2927,11 +2928,11 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Fighting",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_109.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_109-2x.jpg",
     "gameNo": "109",
     "ename": "Sudowoodo",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_219.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_219-2x.jpg"
     ]
   },
   {
@@ -2952,7 +2953,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Fighting",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_110.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_110-2x.jpg",
     "gameNo": "110",
     "ename": "Larvitar"
   },
@@ -2974,7 +2975,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Fighting",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_111.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_111-2x.jpg",
     "gameNo": "111",
     "ename": "Pupitar"
   },
@@ -2996,7 +2997,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Fighting",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_112.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_112-2x.jpg",
     "gameNo": "112",
     "ename": "Makuhita"
   },
@@ -3022,7 +3023,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Fighting",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_113.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_113-2x.jpg",
     "gameNo": "113",
     "ename": "Hariyama"
   },
@@ -3044,7 +3045,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Fighting",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_114.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_114-2x.jpg",
     "gameNo": "114",
     "ename": "Croagunk"
   },
@@ -3070,7 +3071,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Fighting",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_115.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_115-2x.jpg",
     "gameNo": "115",
     "ename": "Toxicroak"
   },
@@ -3096,7 +3097,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Fighting",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_116.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_116-2x.jpg",
     "gameNo": "116",
     "ename": "Rockruff"
   },
@@ -3126,11 +3127,11 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Fighting",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_117.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_117-2x.jpg",
     "gameNo": "117",
     "ename": "Lycanroc ex",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_241.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_241-2x.jpg"
     ]
   },
   {
@@ -3151,7 +3152,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Fighting",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_118.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_118-2x.jpg",
     "gameNo": "118",
     "ename": "Passimian"
   },
@@ -3177,7 +3178,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Fighting",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_119.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_119-2x.jpg",
     "gameNo": "119",
     "ename": "Falinks"
   },
@@ -3199,7 +3200,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Fighting",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_120.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_120-2x.jpg",
     "gameNo": "120",
     "ename": "Nacli"
   },
@@ -3225,11 +3226,11 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Fighting",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_121.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_121-2x.jpg",
     "gameNo": "121",
     "ename": "Nacli",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_220.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_220-2x.jpg"
     ]
   },
   {
@@ -3250,7 +3251,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Fighting",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_122.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_122-2x.jpg",
     "gameNo": "122",
     "ename": "Naclstack"
   },
@@ -3276,7 +3277,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Fighting",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_123.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_123-2x.jpg",
     "gameNo": "123",
     "ename": "Garganacl"
   },
@@ -3298,7 +3299,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Fighting",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_124.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_124-2x.jpg",
     "gameNo": "124",
     "ename": "Glimmet"
   },
@@ -3320,7 +3321,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Fighting",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_125.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_125-2x.jpg",
     "gameNo": "125",
     "ename": "Glimmet"
   },
@@ -3346,7 +3347,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Fighting",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_126.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_126-2x.jpg",
     "gameNo": "126",
     "ename": "Glimmora"
   },
@@ -3376,13 +3377,13 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Fighting",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_127.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_127-2x.jpg",
     "gameNo": "127",
     "ename": "Ting-Lu ex",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_243.jpg",
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_263.jpg",
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAL/PAL_275_R_EN_SM.png"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_243-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_263-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAL/PAL_275_R_EN.png"
     ]
   },
   {
@@ -3415,7 +3416,7 @@
     "gameNo": "242",
     "ename": "Annihilape ex",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_242.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_242-2x.jpg"
     ]
   },
   {
@@ -3440,11 +3441,11 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Darkness",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_128.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_128-2x.jpg",
     "gameNo": "128",
     "ename": "Paldean Wooper",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_221.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_221-2x.jpg"
     ]
   },
   {
@@ -3469,7 +3470,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Darkness",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_129.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_129-2x.jpg",
     "gameNo": "129",
     "ename": "Paldean Wooper"
   },
@@ -3499,11 +3500,11 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Darkness",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_130.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_130-2x.jpg",
     "gameNo": "130",
     "ename": "Paldean Clodsire ex",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_244.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_244-2x.jpg"
     ]
   },
   {
@@ -3528,7 +3529,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Darkness",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_131.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_131-2x.jpg",
     "gameNo": "131",
     "ename": "Murkrow"
   },
@@ -3554,7 +3555,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Darkness",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_132.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_132-2x.jpg",
     "gameNo": "132",
     "ename": "Honchkrow"
   },
@@ -3576,7 +3577,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Darkness",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_133.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_133-2x.jpg",
     "gameNo": "133",
     "ename": "Sneasel"
   },
@@ -3602,7 +3603,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Darkness",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_134.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_134-2x.jpg",
     "gameNo": "134",
     "ename": "Weavile"
   },
@@ -3628,11 +3629,11 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Darkness",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_135.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_135-2x.jpg",
     "gameNo": "135",
     "ename": "Tyranitar",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_222.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_222-2x.jpg"
     ]
   },
   {
@@ -3657,7 +3658,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Darkness",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_136.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_136-2x.jpg",
     "gameNo": "136",
     "ename": "Sableye"
   },
@@ -3683,7 +3684,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Darkness",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_137.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_137-2x.jpg",
     "gameNo": "137",
     "ename": "Seviper"
   },
@@ -3705,7 +3706,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Darkness",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_138.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_138-2x.jpg",
     "gameNo": "138",
     "ename": "Deino"
   },
@@ -3731,7 +3732,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Darkness",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_139.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_139-2x.jpg",
     "gameNo": "139",
     "ename": "Zweilous"
   },
@@ -3757,7 +3758,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Darkness",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_140.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_140-2x.jpg",
     "gameNo": "140",
     "ename": "Hydreigon"
   },
@@ -3779,7 +3780,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Darkness",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_141.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_141-2x.jpg",
     "gameNo": "141",
     "ename": "Maschiff"
   },
@@ -3805,7 +3806,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Darkness",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_142.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_142-2x.jpg",
     "gameNo": "142",
     "ename": "Maschiff"
   },
@@ -3831,7 +3832,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Darkness",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_143.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_143-2x.jpg",
     "gameNo": "143",
     "ename": "Mabosstiff"
   },
@@ -3857,7 +3858,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Darkness",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_144.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_144-2x.jpg",
     "gameNo": "144",
     "ename": "Shroodle"
   },
@@ -3879,7 +3880,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Darkness",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_145.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_145-2x.jpg",
     "gameNo": "145",
     "ename": "Shroodle"
   },
@@ -3905,11 +3906,11 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Darkness",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_146.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_146-2x.jpg",
     "gameNo": "146",
     "ename": "Grafaiai",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_223.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_223-2x.jpg"
     ]
   },
   {
@@ -3934,7 +3935,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Darkness",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_147.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_147-2x.jpg",
     "gameNo": "147",
     "ename": "Bombirdier"
   },
@@ -3960,7 +3961,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Metal",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_148.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_148-2x.jpg",
     "gameNo": "148",
     "ename": "Corviknight"
   },
@@ -3982,7 +3983,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Metal",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_149.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_149-2x.jpg",
     "gameNo": "149",
     "ename": "Cufant"
   },
@@ -4012,11 +4013,11 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Metal",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_150.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_150-2x.jpg",
     "gameNo": "150",
     "ename": "Copperajah ex",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_245.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_245-2x.jpg"
     ]
   },
   {
@@ -4041,11 +4042,11 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Metal",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_151.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_151-2x.jpg",
     "gameNo": "151",
     "ename": "Orthworm",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_224.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_224-2x.jpg"
     ]
   },
   {
@@ -4066,7 +4067,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Dragon",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_152.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_152-2x.jpg",
     "gameNo": "152",
     "ename": "Noibat"
   },
@@ -4096,11 +4097,11 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Dragon",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_153.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_153-2x.jpg",
     "gameNo": "153",
     "ename": "Noivern ex",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_246.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_246-2x.jpg"
     ]
   },
   {
@@ -4125,7 +4126,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Colorless",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_154.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_154-2x.jpg",
     "gameNo": "154",
     "ename": "Girafarig"
   },
@@ -4151,11 +4152,11 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Colorless",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_155.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_155-2x.jpg",
     "gameNo": "155",
     "ename": "Farigiraf",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_228.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_228-2x.jpg"
     ]
   },
   {
@@ -4180,7 +4181,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Colorless",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_156.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_156-2x.jpg",
     "gameNo": "156",
     "ename": "Dunsparce"
   },
@@ -4206,11 +4207,11 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Colorless",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_157.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_157-2x.jpg",
     "gameNo": "157",
     "ename": "Dudunsparce",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_229.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_229-2x.jpg"
     ]
   },
   {
@@ -4231,7 +4232,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Colorless",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_158.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_158-2x.jpg",
     "gameNo": "158",
     "ename": "Wingull"
   },
@@ -4257,7 +4258,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Colorless",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_159.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_159-2x.jpg",
     "gameNo": "159",
     "ename": "Pelipper"
   },
@@ -4279,7 +4280,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Colorless",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_160.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_160-2x.jpg",
     "gameNo": "160",
     "ename": "Slakoth"
   },
@@ -4305,7 +4306,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Colorless",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_161.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_161-2x.jpg",
     "gameNo": "161",
     "ename": "Vigoroth"
   },
@@ -4331,7 +4332,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Colorless",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_162.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_162-2x.jpg",
     "gameNo": "162",
     "ename": "Slaking"
   },
@@ -4353,7 +4354,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Colorless",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_163.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_163-2x.jpg",
     "gameNo": "163",
     "ename": "Fletchling"
   },
@@ -4375,11 +4376,11 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Colorless",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_164.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_164-2x.jpg",
     "gameNo": "164",
     "ename": "Rookidee",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_225.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_225-2x.jpg"
     ]
   },
   {
@@ -4404,7 +4405,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Colorless",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_165.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_165-2x.jpg",
     "gameNo": "165",
     "ename": "Corvisquire"
   },
@@ -4430,7 +4431,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Colorless",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_166.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_166-2x.jpg",
     "gameNo": "166",
     "ename": "Tandemaus"
   },
@@ -4456,7 +4457,7 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Colorless",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_167.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_167-2x.jpg",
     "gameNo": "167",
     "ename": "Tandemaus"
   },
@@ -4482,11 +4483,11 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Colorless",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_168.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_168-2x.jpg",
     "gameNo": "168",
     "ename": "Maushold",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_226.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_226-2x.jpg"
     ]
   },
   {
@@ -4515,12 +4516,12 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Colorless",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_169.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_169-2x.jpg",
     "gameNo": "169",
     "ename": "Squawkabilly ex",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_247.jpg",
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_264.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_247-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_264-2x.jpg"
     ]
   },
   {
@@ -4545,11 +4546,11 @@
     ],
     "type": "Pokemon",
     "typeEnergy": "Colorless",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_170.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_170-2x.jpg",
     "gameNo": "170",
     "ename": "Flamigo",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_227.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_227-2x.jpg"
     ]
   },
   {
@@ -4568,11 +4569,11 @@
       }
     ],
     "type": "Trainers",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_171.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_171-2x.jpg",
     "gameNo": "171",
     "ename": "Artazon",
     "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/OBF/OBF_229_R_EN_SM.png"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/OBF/OBF_229_R_EN.png"
     ]
   },
   {
@@ -4591,7 +4592,7 @@
       }
     ],
     "type": "Trainers",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_174.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_174-2x.jpg",
     "gameNo": "174",
     "ename": "Calamitous Snowy Mountain"
   },
@@ -4611,7 +4612,7 @@
       }
     ],
     "type": "Trainers",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_175.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_175-2x.jpg",
     "gameNo": "175",
     "ename": "Calamitous Wasteland"
   },
@@ -4631,7 +4632,7 @@
       }
     ],
     "type": "Trainers",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_186.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_186-2x.jpg",
     "gameNo": "186",
     "ename": "Practice Studio"
   },
@@ -4651,12 +4652,12 @@
       }
     ],
     "type": "Trainers",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_172.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_172-2x.jpg",
     "gameNo": "172",
     "ename": "Boss's Orders (Ghetsis)",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_248.jpg",
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_265.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_248-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_265-2x.jpg"
     ]
   },
   {
@@ -4675,11 +4676,11 @@
       }
     ],
     "type": "Trainers",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_177.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_177-2x.jpg",
     "gameNo": "177",
     "ename": "Clavell",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_249.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_249-2x.jpg"
     ]
   },
   {
@@ -4698,12 +4699,12 @@
       }
     ],
     "type": "Trainers",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_179.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_179-2x.jpg",
     "gameNo": "179",
     "ename": "Dendra",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_250.jpg",
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_266.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_250-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_266-2x.jpg"
     ]
   },
   {
@@ -4722,11 +4723,11 @@
       }
     ],
     "type": "Trainers",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_180.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_180-2x.jpg",
     "gameNo": "180",
     "ename": "Falkner",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_251.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_251-2x.jpg"
     ]
   },
   {
@@ -4745,12 +4746,12 @@
       }
     ],
     "type": "Trainers",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_182.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_182-2x.jpg",
     "gameNo": "182",
     "ename": "Giacomo",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_252.jpg",
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_267.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_252-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_267-2x.jpg"
     ]
   },
   {
@@ -4769,12 +4770,12 @@
       }
     ],
     "type": "Trainers",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_184.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_184-2x.jpg",
     "gameNo": "184",
     "ename": "Grusha",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_253.jpg",
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_268.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_253-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_268-2x.jpg"
     ]
   },
   {
@@ -4793,12 +4794,12 @@
       }
     ],
     "type": "Trainers",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_185.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_185-2x.jpg",
     "gameNo": "185",
     "ename": "Iono",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_254.jpg",
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_269.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_254-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_269-2x.jpg"
     ]
   },
   {
@@ -4817,12 +4818,12 @@
       }
     ],
     "type": "Trainers",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_187.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_187-2x.jpg",
     "gameNo": "187",
     "ename": "Saguaro",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_255.jpg",
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_270.jpg"
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_255-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_270-2x.jpg"
     ]
   },
   {
@@ -4841,7 +4842,7 @@
       }
     ],
     "type": "Trainers",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_173.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_173-2x.jpg",
     "gameNo": "173",
     "ename": "Bravery Charm"
   },
@@ -4861,7 +4862,7 @@
       }
     ],
     "type": "Trainers",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_176.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_176-2x.jpg",
     "gameNo": "176",
     "ename": "Choice Belt"
   },
@@ -4881,7 +4882,7 @@
       }
     ],
     "type": "Trainers",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_178.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_178-2x.jpg",
     "gameNo": "178",
     "ename": "Delivery Drone"
   },
@@ -4901,7 +4902,7 @@
       }
     ],
     "type": "Trainers",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_181.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_181-2x.jpg",
     "gameNo": "181",
     "ename": "Fighting Au Lait"
   },
@@ -4921,7 +4922,7 @@
       }
     ],
     "type": "Trainers",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_183.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_183-2x.jpg",
     "gameNo": "183",
     "ename": "Great Ball"
   },
@@ -4941,11 +4942,11 @@
       }
     ],
     "type": "Trainers",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_188.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_188-2x.jpg",
     "gameNo": "188",
     "ename": "Super Rod",
     "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAL/PAL_276_R_EN_SM.png"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAL/PAL_276_R_EN.png"
     ]
   },
   {
@@ -4964,11 +4965,11 @@
       }
     ],
     "type": "Trainers",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_189.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_189-2x.jpg",
     "gameNo": "189",
     "ename": "Superior Energy Retrieval",
     "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAL/PAL_277_R_EN_SM.png"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAL/PAL_277_R_EN.png"
     ]
   },
   {
@@ -4983,7 +4984,7 @@
       }
     ],
     "type": "Energy",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_190.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_190-2x.jpg",
     "gameNo": "190",
     "ename": "Jet Energy"
   },
@@ -4999,7 +5000,7 @@
       }
     ],
     "type": "Energy",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_191.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_191-2x.jpg",
     "gameNo": "191",
     "ename": "Luminous Energy"
   },
@@ -5015,7 +5016,7 @@
       }
     ],
     "type": "Energy",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_192.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_192-2x.jpg",
     "gameNo": "192",
     "ename": "Reversal Energy"
   },
@@ -5031,7 +5032,7 @@
       }
     ],
     "type": "Energy",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_193.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_193-2x.jpg",
     "gameNo": "193",
     "ename": "Therapeutic Energy"
   }
