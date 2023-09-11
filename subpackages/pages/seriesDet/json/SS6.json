@@ -497,7 +497,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_20-2x.jpg",
     "gameNo": "020",
-    "ename": "Blaziken V"
+    "ename": "Blaziken V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_14-2x.jpg"
+    ]
   },
   {
     "id": "399",
@@ -527,7 +530,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_21-2x.jpg",
     "gameNo": "021",
-    "ename": "Blaziken VMAX"
+    "ename": "Blaziken VMAX",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_15-2x.jpg"
+    ]
   },
   {
     "id": "681",
@@ -1335,7 +1341,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_53-2x.jpg",
     "gameNo": "053",
-    "ename": "Zeraora V"
+    "ename": "Zeraora V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_16-2x.jpg"
+    ]
   },
   {
     "id": "700",
@@ -1753,7 +1762,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_70-2x.jpg",
     "gameNo": "070",
-    "ename": "Malamar"
+    "ename": "Malamar",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_6-2x.jpg"
+    ]
   },
   {
     "id": "421",
@@ -2141,7 +2153,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_86-2x.jpg",
     "gameNo": "086",
-    "ename": "Rockruff"
+    "ename": "Rockruff",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_7-2x.jpg"
+    ]
   },
   {
     "id": "712",
@@ -2184,7 +2199,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_88-2x.jpg",
     "gameNo": "088",
-    "ename": "Passimian"
+    "ename": "Passimian",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_8-2x.jpg"
+    ]
   },
   {
     "id": "713",
@@ -2955,6 +2973,10 @@
     "cardName": "幸福蛋V",
     "skillList": [
       {
+        "name": "[特性]自然回复",
+        "effect": "每次从自己的手牌将能量附于这隻宝可梦身上时，都将这隻宝可梦的特殊状态全部恢复。"
+      },
+      {
         "name": "幸福轰炸",
         "effect": "增加这只宝可梦身上附加的能量的数量×30点伤害。若希望，在造成伤害后，从弃牌区选择最多3张能量卡，附于这只宝可梦身上。"
       },
@@ -2965,7 +2987,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_119-2x.jpg",
     "gameNo": "119",
-    "ename": "Blissey V"
+    "ename": "Blissey V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_22-2x.jpg"
+    ]
   },
   {
     "id": "447",
@@ -3455,7 +3480,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_146-2x.jpg",
     "gameNo": "146",
-    "ename": "Melony"
+    "ename": "Melony",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_64-2x.jpg"
+    ]
   },
   {
     "id": "806",

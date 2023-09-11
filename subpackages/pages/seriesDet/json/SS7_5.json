@@ -287,7 +287,10 @@
     ],
     "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_11.png",
     "gameNo": "011",
-    "ename": "Mew"
+    "ename": "Mew",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_10-2x.jpg"
+    ]
   },
   {
     "id": "2082",
@@ -413,7 +416,10 @@
     ],
     "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_16.png",
     "gameNo": "016",
-    "ename": "Zacian V"
+    "ename": "Zacian V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_48-2x.jpg"
+    ]
   },
   {
     "id": "2076",

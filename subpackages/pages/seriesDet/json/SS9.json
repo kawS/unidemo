@@ -149,7 +149,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_6-2x.jpg",
     "gameNo": "006",
-    "ename": "Turtwig"
+    "ename": "Turtwig",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_31-2x.jpg"
+    ]
   },
   {
     "id": "5418",
@@ -525,7 +528,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_20-2x.jpg",
     "gameNo": "020",
-    "ename": "Magmortar"
+    "ename": "Magmortar",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_3-2x.jpg"
+    ]
   },
   {
     "id": "5429",
@@ -577,7 +583,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_22-2x.jpg",
     "gameNo": "022",
-    "ename": "Entei V"
+    "ename": "Entei V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_36-2x.jpg"
+    ]
   },
   {
     "id": "5687",
@@ -811,7 +820,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_31-2x.jpg",
     "gameNo": "031",
-    "ename": "Lapras"
+    "ename": "Lapras",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_5-2x.jpg"
+    ]
   },
   {
     "id": "5434",
@@ -1037,7 +1049,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_40-2x.jpg",
     "gameNo": "040",
-    "ename": "LumineonV"
+    "ename": "Lumineon V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_39-2x.jpg"
+    ]
   },
   {
     "id": "5442",
@@ -1063,7 +1078,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_41-2x.jpg",
     "gameNo": "041",
-    "ename": "Manaphy"
+    "ename": "Manaphy",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_6-2x.jpg"
+    ]
   },
   {
     "id": "5443",
@@ -1219,7 +1237,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_47-2x.jpg",
     "gameNo": "047",
-    "ename": "Electivire"
+    "ename": "Electivire",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_8-2x.jpg"
+    ]
   },
   {
     "id": "5766",
@@ -1249,7 +1270,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_48-2x.jpg",
     "gameNo": "048",
-    "ename": "Raikou V"
+    "ename": "Raikou V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_41-2x.jpg"
+    ]
   },
   {
     "id": "5448",
@@ -1545,7 +1569,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_60-2x.jpg",
     "gameNo": "060",
-    "ename": "Duskull"
+    "ename": "Duskull",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_28-2x.jpg"
+    ]
   },
   {
     "id": "5457",
@@ -2005,7 +2032,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_78-2x.jpg",
     "gameNo": "078",
-    "ename": "Riolu"
+    "ename": "Riolu",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_26-2x.jpg"
+    ]
   },
   {
     "id": "5466",
@@ -2915,7 +2945,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_113-2x.jpg",
     "gameNo": "113",
-    "ename": "Druddigon"
+    "ename": "Druddigon",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_9-2x.jpg"
+    ]
   },
   {
     "id": "5581",
@@ -3111,7 +3144,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_121-2x.jpg",
     "gameNo": "121",
-    "ename": "Bibarel"
+    "ename": "Bibarel",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_25-2x.jpg"
+    ]
   },
   {
     "id": "5494",
@@ -3171,7 +3207,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_123-2x.jpg",
     "gameNo": "123",
-    "ename": "Arceus VSTAR"
+    "ename": "Arceus VSTAR",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_GG70_R_EN.png"
+    ]
   },
   {
     "id": "5496",
@@ -3445,7 +3484,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_134-2x.jpg",
     "gameNo": "134",
-    "ename": "Cheren's Care"
+    "ename": "Cheren's Care",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_58-2x.jpg"
+    ]
   },
   {
     "id": "5504",
@@ -3465,7 +3507,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_138-2x.jpg",
     "gameNo": "138",
-    "ename": "Cynthia's Ambition"
+    "ename": "Cynthia's Ambition",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_60-2x.jpg"
+    ]
   },
   {
     "id": "5337",
@@ -3485,7 +3530,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_140-2x.jpg",
     "gameNo": "140",
-    "ename": "Friends in Galar"
+    "ename": "Friends in Galar",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_23-2x.jpg"
+    ]
   },
   {
     "id": "5351",
@@ -3565,7 +3613,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_147-2x.jpg",
     "gameNo": "147",
-    "ename": "Professor's Research (Professor Rowan)"
+    "ename": "Professor's Research (Professor Rowan)",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_150-2x.jpg"
+    ]
   },
   {
     "id": "5507",

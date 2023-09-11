@@ -774,7 +774,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_31-2x.jpg",
     "gameNo": "031",
-    "ename": "Suicune V"
+    "ename": "Suicune V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_38-2x.jpg"
+    ]
   },
   {
     "id": "812",
@@ -1368,7 +1371,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_54-2x.jpg",
     "gameNo": "054",
-    "ename": "Mareep"
+    "ename": "Mareep",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_34-2x.jpg"
+    ]
   },
   {
     "id": "904",
@@ -1394,7 +1400,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_55-2x.jpg",
     "gameNo": "055",
-    "ename": "Flaaffy"
+    "ename": "Flaaffy",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_3-2x.jpg"
+    ]
   },
   {
     "id": "905",
@@ -2728,7 +2737,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_106-2x.jpg",
     "gameNo": "106",
-    "ename": "Altaria"
+    "ename": "Altaria",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_19-2x.jpg"
+    ]
   },
   {
     "id": "920",
@@ -2844,6 +2856,10 @@
     "cardName": "烈空坐VMAX",
     "skillList": [
       {
+        "name": "[特性]苍空波动",
+        "effect": "在自己的回合时，可使用1次。将自己的手牌全部丢弃，从牌库抽出3张卡。"
+      },
+      {
         "name": "极巨爆破",
         "effect": "将这只宝可梦身上附加的【火】或者【雷】任一属性的任意数量的基本能量卡丢弃，增加其张数×80点伤害。"
       },
@@ -2854,7 +2870,11 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_111-2x.jpg",
     "gameNo": "111",
-    "ename": "Rayquaza VMAX"
+    "ename": "Rayquaza VMAX",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_20-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_29-2x.jpg"
+    ]
   },
   {
     "id": "851",
@@ -3174,7 +3194,11 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_123-2x.jpg",
     "gameNo": "123",
-    "ename": "Duraludon VMAX"
+    "ename": "Duraludon VMAX",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_21-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_30-2x.jpg"
+    ]
   },
   {
     "id": "929",
@@ -3392,7 +3416,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_132-2x.jpg",
     "gameNo": "132",
-    "ename": "Swablu"
+    "ename": "Swablu",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_27-2x.jpg"
+    ]
   },
   {
     "id": "449",
@@ -3712,7 +3739,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_149-2x.jpg",
     "gameNo": "149",
-    "ename": "Gordie"
+    "ename": "Gordie",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_24-2x.jpg"
+    ]
   },
   {
     "id": "873",
@@ -3732,7 +3762,11 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_152-2x.jpg",
     "gameNo": "152",
-    "ename": "Raihan"
+    "ename": "Raihan",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_65-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_27-2x.jpg"
+    ]
   },
   {
     "id": "942",

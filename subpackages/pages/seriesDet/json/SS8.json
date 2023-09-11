@@ -1065,7 +1065,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_42-2x.jpg",
     "gameNo": "042",
-    "ename": "Oricorio"
+    "ename": "Oricorio",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_4-2x.jpg"
+    ]
   },
   {
     "id": "5702",
@@ -2737,7 +2740,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_108-2x.jpg",
     "gameNo": "108",
-    "ename": "Toxtricity"
+    "ename": "Toxtricity",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_9-2x.jpg"
+    ]
   },
   {
     "id": "5787",
@@ -3041,7 +3047,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_120-2x.jpg",
     "gameNo": "120",
-    "ename": "Deoxys"
+    "ename": "Deoxys",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_12-2x.jpg"
+    ]
   },
   {
     "id": "47",
@@ -4522,6 +4531,36 @@
     "ename": "Morpeko"
   },
   {
+    "id": "7551",
+    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7551/",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007551.png",
+    "extraInformation": [
+      "No.720",
+      "",
+      ""
+    ],
+    "typeEnergy": "Darkness",
+    "type": "Pokemon",
+    "cardName": "胡帕V",
+    "skillList": [
+      {
+        "name": "[特性]双面",
+        "effect": "只要这隻宝可梦在场上，改为【超】与【恶】2种属性。"
+      },
+      {
+        "name": "暗影衝击",
+        "effect": "在自己的1隻宝可梦身上放置3个伤害指示物。"
+      },
+      {
+        "name": "[V规则]",
+        "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_53-2x.jpg",
+    "gameNo": "231",
+    "ename": "Hoopa V"
+  },
+  {
     "id": "5918",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/5918/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00005918.png",
@@ -4879,7 +4918,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_193-2x.jpg",
     "gameNo": "193",
-    "ename": "Latias"
+    "ename": "Latias",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_20-2x.jpg"
+    ]
   },
   {
     "id": "76",
@@ -5235,7 +5277,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_207-2x.jpg",
     "gameNo": "207",
-    "ename": "Dunsparce"
+    "ename": "Dunsparce",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_23-2x.jpg"
+    ]
   },
   {
     "id": "5970",
@@ -5771,7 +5816,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_233-2x.jpg",
     "gameNo": "233",
-    "ename": "Elesa's Sparkle"
+    "ename": "Elesa's Sparkle",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_147-2x.jpg"
+    ]
   },
   {
     "id": "6024",
@@ -5791,7 +5839,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_235-2x.jpg",
     "gameNo": "235",
-    "ename": "Judge"
+    "ename": "Judge",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_25-2x.jpg"
+    ]
   },
   {
     "id": "6027",

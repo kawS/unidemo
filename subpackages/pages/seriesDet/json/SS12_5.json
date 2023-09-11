@@ -341,7 +341,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_14-2x.jpg",
     "gameNo": "014",
-    "ename": "Leafeon VSTAR"
+    "ename": "Leafeon VSTAR",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_35-2x.jpg"
+    ]
   },
   {
     "id": "5590",
@@ -595,7 +598,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_23-2x.jpg",
     "gameNo": "023",
-    "ename": "Simisear VSTAR"
+    "ename": "Simisear VSTAR",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_37-2x.jpg"
+    ]
   },
   {
     "id": "7050",
@@ -986,6 +992,36 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_38-2x.jpg",
     "gameNo": "038",
     "ename": "Glaceon V"
+  },
+  {
+    "id": "7537",
+    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7537/",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007537.png",
+    "extraInformation": [
+      "",
+      "",
+      ""
+    ],
+    "typeEnergy": "Water",
+    "type": "Pokemon",
+    "cardName": "冰伊布VSTAR",
+    "skillList": [
+      {
+        "name": "冰柱射击",
+        "effect": "在下个对手的回合，受到这个招式的宝可梦无法撤退。"
+      },
+      {
+        "name": "[VSTAR力量]水晶星星",
+        "effect": "在下个对手的回合，这隻宝可梦不会受到招式的伤害与效果的影响。[对战中，己方只可使用1次【VSTAR】力量。]"
+      },
+      {
+        "name": "[V规则]",
+        "effect": "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_40-2x.jpg",
+    "gameNo": "217",
+    "ename": "Glaceon VSTAR"
   },
   {
     "id": "5769",
@@ -1405,7 +1441,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_54-2x.jpg",
     "gameNo": "054",
-    "ename": "Zeraora VMAX"
+    "ename": "Zeraora VMAX",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_42-2x.jpg"
+    ]
   },
   {
     "id": "7266",
@@ -1435,7 +1474,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_55-2x.jpg",
     "gameNo": "055",
-    "ename": "Zeraora VSTAR"
+    "ename": "Zeraora VSTAR",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_43-2x.jpg"
+    ]
   },
   {
     "id": "6861",
@@ -1725,7 +1767,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_66-2x.jpg",
     "gameNo": "066",
-    "ename": "Hatterene VMAX"
+    "ename": "Hatterene VMAX",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_47-2x.jpg"
+    ]
   },
   {
     "id": "6937",
@@ -1752,6 +1797,66 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_67-2x.jpg",
     "gameNo": "067",
     "ename": "Enamorus"
+  },
+  {
+    "id": "7542",
+    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7542/",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007542.png",
+    "extraInformation": [
+      "",
+      "",
+      ""
+    ],
+    "typeEnergy": "Psychic",
+    "type": "Pokemon",
+    "cardName": "代欧奇希斯VMAX",
+    "skillList": [
+      {
+        "name": "[特性]防护DNA",
+        "effect": "只要这隻宝可梦在场上，自己的所有宝可梦受到对手的「宝可梦【VSTAR】」招式的伤害「-30」点。"
+      },
+      {
+        "name": "极巨吸取",
+        "effect": "将这隻宝可梦恢复「30」HP。"
+      },
+      {
+        "name": "[VMAX规则]",
+        "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_45-2x.jpg",
+    "gameNo": "222",
+    "ename": "Deoxys VMAX"
+  },
+  {
+    "id": "7543",
+    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7543/",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007543.png",
+    "extraInformation": [
+      "",
+      "",
+      ""
+    ],
+    "typeEnergy": "Psychic",
+    "type": "Pokemon",
+    "cardName": "代欧奇希斯VSTAR",
+    "skillList": [
+      {
+        "name": "精神标枪",
+        "effect": "对手的备战区的1隻「宝可梦【V】」也受到60点伤害。[在备战区不计算弱点・抵抗力。]"
+      },
+      {
+        "name": "[VSTAR力量]星星神力",
+        "effect": "造成双方的战斗宝可梦身上附加的能量的数量×60点伤害。[对战中，己方只可使用1次【VSTAR】力量。]"
+      },
+      {
+        "name": "[VSTAR规则]",
+        "effect": "宝可梦【VSTAR】【气绝】时，对手获得3张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_46-2x.jpg",
+    "gameNo": "223",
+    "ename": "Deoxys VSTAR"
   },
   {
     "id": "5594",
@@ -1803,7 +1908,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_69-2x.jpg",
     "gameNo": "069",
-    "ename": "Solrock"
+    "ename": "Solrock",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_15-2x.jpg"
+    ]
   },
   {
     "id": "5579",
@@ -1847,7 +1955,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_71-2x.jpg",
     "gameNo": "071",
-    "ename": "Riolu"
+    "ename": "Riolu",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_26-2x.jpg"
+    ]
   },
   {
     "id": "7089",
@@ -2046,8 +2157,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_80-2x.jpg",
-    "gameNo": "079",
-    "ename": "Krokorok"
+    "gameNo": "080",
+    "ename": "Pangoro"
   },
   {
     "id": "7097",
@@ -2072,8 +2183,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_81-2x.jpg",
-    "gameNo": "080",
-    "ename": "Pangoro"
+    "gameNo": "081",
+    "ename": "Skrelp"
   },
   {
     "id": "7098",
@@ -2098,8 +2209,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_82-2x.jpg",
-    "gameNo": "081",
-    "ename": "Skrelp"
+    "gameNo": "082",
+    "ename": "Dragalge"
   },
   {
     "id": "7100",
@@ -2120,8 +2231,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_84-2x.jpg",
-    "gameNo": "082",
-    "ename": "Dragalge"
+    "gameNo": "084",
+    "ename": "Galarian Meowth"
   },
   {
     "id": "7101",
@@ -2146,8 +2257,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_85-2x.jpg",
-    "gameNo": "083",
-    "ename": "Hoopa"
+    "gameNo": "085",
+    "ename": "Galarian Perrserker"
   },
   {
     "id": "6984",
@@ -2172,8 +2283,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_86-2x.jpg",
-    "gameNo": "084",
-    "ename": "Galarian Meowth"
+    "gameNo": "086",
+    "ename": "Scizor"
   },
   {
     "id": "7102",
@@ -2198,8 +2309,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_87-2x.jpg",
-    "gameNo": "085",
-    "ename": "Galarian Perrserker"
+    "gameNo": "087",
+    "ename": "Aron"
   },
   {
     "id": "7103",
@@ -2224,8 +2335,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_88-2x.jpg",
-    "gameNo": "086",
-    "ename": "Scizor"
+    "gameNo": "088",
+    "ename": "Lairon"
   },
   {
     "id": "7104",
@@ -2250,8 +2361,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_89-2x.jpg",
-    "gameNo": "087",
-    "ename": "Aron"
+    "gameNo": "089",
+    "ename": "Aggron"
   },
   {
     "id": "6938",
@@ -2272,8 +2383,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_90-2x.jpg",
-    "gameNo": "088",
-    "ename": "Lairon"
+    "gameNo": "090",
+    "ename": "Metang"
   },
   {
     "id": "6926",
@@ -2294,8 +2405,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_91-2x.jpg",
-    "gameNo": "089",
-    "ename": "Aggron"
+    "gameNo": "091",
+    "ename": "Pawniard"
   },
   {
     "id": "6989",
@@ -2316,8 +2427,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_92-2x.jpg",
-    "gameNo": "090",
-    "ename": "Metang"
+    "gameNo": "092",
+    "ename": "Pawniard"
   },
   {
     "id": "6990",
@@ -2342,8 +2453,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_93-2x.jpg",
-    "gameNo": "091",
-    "ename": "Pawniard"
+    "gameNo": "093",
+    "ename": "Bisharp"
   },
   {
     "id": "6992",
@@ -2368,8 +2479,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_94-2x.jpg",
-    "gameNo": "092",
-    "ename": "Pawniard"
+    "gameNo": "094",
+    "ename": "Zacian"
   },
   {
     "id": "6901",
@@ -2398,13 +2509,13 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_95-2x.jpg",
-    "gameNo": "093",
-    "ename": "Bisharp"
+    "gameNo": "095",
+    "ename": "Zacian V"
   },
   {
     "id": "6902",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6903/",
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006903.png",
+    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6902/",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006902.png",
     "extraInformation": [
       "No.889",
       "",
@@ -2412,24 +2523,24 @@
     ],
     "typeEnergy": "Metal",
     "type": "Pokemon",
-    "cardName": "藏玛然特V",
+    "cardName": "苍响VSTAR",
     "skillList": [
       {
-        "name": "[特性]王者之势",
-        "effect": "在自己的回合时可使用1次，若使用，则自己的回合结束。将自己的手牌全部丢弃，从牌库抽出5张卡。"
+        "name": "破坏刀锋",
+        "effect": "这个招式的伤害不计算弱点・抵抗力、对手的战斗宝可梦身上的附加效果。"
       },
       {
-        "name": "复仇暴击",
-        "effect": "增加对手已经获得的奖赏卡的张数×30点伤害。"
+        "name": "[VSTAR力量]劍之星星",
+        "effect": "这隻宝可梦也受到30点伤害。[对战中，己方只可使用1次【VSTAR】力量。]"
       },
       {
-        "name": "[V规则]",
-        "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
+        "name": "[VSTAR规则]",
+        "effect": "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_96-2x.jpg",
-    "gameNo": "094",
-    "ename": "Zacian"
+    "gameNo": "096",
+    "ename": "Zacian VSTAR"
   },
   {
     "id": "6993",
@@ -2454,8 +2565,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_97-2x.jpg",
-    "gameNo": "095",
-    "ename": "Zacian V"
+    "gameNo": "097",
+    "ename": "Zamazenta"
   },
   {
     "id": "6902",
@@ -2484,8 +2595,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_98-2x.jpg",
-    "gameNo": "096",
-    "ename": "Zacian VSTAR"
+    "gameNo": "098",
+    "ename": "Zamazenta V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_54-2x.jpg"
+    ]
   },
   {
     "id": "6904",
@@ -2514,8 +2628,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_99-2x.jpg",
-    "gameNo": "097",
-    "ename": "Zamazenta"
+    "gameNo": "099",
+    "ename": "Zamazenta VSTAR"
   },
   {
     "id": "5942",
@@ -2544,8 +2658,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_100-2x.jpg",
-    "gameNo": "098",
-    "ename": "Zamazenta V"
+    "gameNo": "100",
+    "ename": "Rayquaza V"
   },
   {
     "id": "5308",
@@ -2574,8 +2688,12 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_101-2x.jpg",
-    "gameNo": "099",
-    "ename": "Zamazenta VSTAR"
+    "gameNo": "101",
+    "ename": "Rayquaza VMAX",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_20-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_29-2x.jpg"
+    ]
   },
   {
     "id": "7466",
@@ -2604,8 +2722,12 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_102-2x.jpg",
-    "gameNo": "100",
-    "ename": "Rayquaza V"
+    "gameNo": "102",
+    "ename": "Rayquaza VMAX",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_20-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_29-2x.jpg"
+    ]
   },
   {
     "id": "5952",
@@ -2635,8 +2757,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_103-2x.jpg",
-    "gameNo": "101",
-    "ename": "Rayquaza VMAX"
+    "gameNo": "103",
+    "ename": "Duraludon V"
   },
   {
     "id": "5311",
@@ -2665,8 +2787,12 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_104-2x.jpg",
-    "gameNo": "102",
-    "ename": "Rayquaza VMAX"
+    "gameNo": "104",
+    "ename": "Duraludon VMAX",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_21-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_30-2x.jpg"
+    ]
   },
   {
     "id": "7339",
@@ -2695,8 +2821,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_105-2x.jpg",
-    "gameNo": "103",
-    "ename": "Duraludon V"
+    "gameNo": "105",
+    "ename": "Radiant Eternatus"
   },
   {
     "id": "7115",
@@ -2721,8 +2847,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_106-2x.jpg",
-    "gameNo": "104",
-    "ename": "Duraludon VMAX"
+    "gameNo": "106",
+    "ename": "Tauros"
   },
   {
     "id": "7341",
@@ -2743,8 +2869,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_107-2x.jpg",
-    "gameNo": "105",
-    "ename": "Radiant Eternatus"
+    "gameNo": "107",
+    "ename": "Ditto",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_22-2x.jpg"
+    ]
   },
   {
     "id": "7015",
@@ -2773,8 +2902,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_108-2x.jpg",
-    "gameNo": "106",
-    "ename": "Tauros"
+    "gameNo": "108",
+    "ename": "Eevee V"
   },
   {
     "id": "5969",
@@ -2795,8 +2924,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_109-2x.jpg",
-    "gameNo": "107",
-    "ename": "Ditto"
+    "gameNo": "109",
+    "ename": "Snorlax"
   },
   {
     "id": "5628",
@@ -2817,8 +2946,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_110-2x.jpg",
-    "gameNo": "108",
-    "ename": "Eevee V"
+    "gameNo": "110",
+    "ename": "Starly"
   },
   {
     "id": "7345",
@@ -2843,8 +2972,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_111-2x.jpg",
-    "gameNo": "109",
-    "ename": "Snorlax"
+    "gameNo": "111",
+    "ename": "Bidoof",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_29-2x.jpg"
+    ]
   },
   {
     "id": "6998",
@@ -2869,8 +3001,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_112-2x.jpg",
-    "gameNo": "110",
-    "ename": "Starly"
+    "gameNo": "112",
+    "ename": "Chatot"
   },
   {
     "id": "7348",
@@ -2899,8 +3031,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_113-2x.jpg",
-    "gameNo": "111",
-    "ename": "Bidoof"
+    "gameNo": "113",
+    "ename": "Regigigas V"
   },
   {
     "id": "7349",
@@ -2929,8 +3061,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_114-2x.jpg",
-    "gameNo": "112",
-    "ename": "Chatot"
+    "gameNo": "114",
+    "ename": "Regigigas VSTAR",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_55-2x.jpg"
+    ]
   },
   {
     "id": "7118",
@@ -2955,8 +3090,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_115-2x.jpg",
-    "gameNo": "113",
-    "ename": "Regigigas V"
+    "gameNo": "115",
+    "ename": "Shaymin"
   },
   {
     "id": "5977",
@@ -2985,8 +3120,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_116-2x.jpg",
-    "gameNo": "114",
-    "ename": "Regigigas VSTAR"
+    "gameNo": "116",
+    "ename": "Stoutland V"
   },
   {
     "id": "7123",
@@ -3007,8 +3142,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_117-2x.jpg",
-    "gameNo": "115",
-    "ename": "Shaymin"
+    "gameNo": "117",
+    "ename": "Yungoos"
   },
   {
     "id": "7124",
@@ -3033,8 +3168,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_118-2x.jpg",
-    "gameNo": "116",
-    "ename": "Stoutland V"
+    "gameNo": "118",
+    "ename": "Gumshoos"
   },
   {
     "id": "7125",
@@ -3059,8 +3194,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_119-2x.jpg",
-    "gameNo": "117",
-    "ename": "Yungoos"
+    "gameNo": "119",
+    "ename": "Oranguru"
   },
   {
     "id": "5987",
@@ -3089,8 +3224,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_120-2x.jpg",
-    "gameNo": "118",
-    "ename": "Gumshoos"
+    "gameNo": "120",
+    "ename": "Greedent V"
   },
   {
     "id": "7019",
@@ -3111,8 +3246,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_121-2x.jpg",
-    "gameNo": "119",
-    "ename": "Oranguru"
+    "gameNo": "121",
+    "ename": "Wooloo"
   },
   {
     "id": "7020",
@@ -3137,8 +3272,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_122-2x.jpg",
-    "gameNo": "120",
-    "ename": "Greedent V"
+    "gameNo": "122",
+    "ename": "Dubwool"
   },
   {
     "id": "6939",
@@ -3178,7 +3313,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_130-2x.jpg",
     "gameNo": "130",
-    "ename": "Friends in Hisui"
+    "ename": "Friends in Hisui",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_148-2x.jpg"
+    ]
   },
   {
     "id": "7378",
@@ -3198,7 +3336,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_131-2x.jpg",
     "gameNo": "131",
-    "ename": "Friends in Sinnohv"
+    "ename": "Friends in Sinnoh",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_149-2x.jpg"
+    ]
   },
   {
     "id": "7136",
@@ -3218,7 +3359,11 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_140-2x.jpg",
     "gameNo": "140",
-    "ename": "Raihan"
+    "ename": "Raihan",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_65-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_27-2x.jpg"
+    ]
   },
   {
     "id": "7370",
@@ -3322,7 +3467,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_129-2x.jpg",
     "gameNo": "129",
-    "ename": "Energy Switch"
+    "ename": "Energy Switch",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_212_R_EN.png"
+    ]
   },
   {
     "id": "7177",

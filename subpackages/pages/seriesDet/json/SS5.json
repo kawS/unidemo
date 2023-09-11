@@ -153,7 +153,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_6-2x.jpg",
     "gameNo": "006",
-    "ename": "Kricketune V"
+    "ename": "Kricketune V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_12-2x.jpg"
+    ]
   },
   {
     "id": "536",
@@ -2783,7 +2786,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_109-2x.jpg",
     "gameNo": "109",
-    "ename": "Corviknight V"
+    "ename": "Corviknight V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_18-2x.jpg"
+    ]
   },
   {
     "id": "587",
@@ -2813,7 +2819,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_110-2x.jpg",
     "gameNo": "110",
-    "ename": "Corviknight VMAX"
+    "ename": "Corviknight VMAX",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_19-2x.jpg"
+    ]
   },
   {
     "id": "516",

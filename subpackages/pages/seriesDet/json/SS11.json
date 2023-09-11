@@ -89,7 +89,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_4-2x.jpg",
     "gameNo": "004",
-    "ename": "Paras"
+    "ename": "Paras",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_32-2x.jpg"
+    ]
   },
   {
     "id": "6368",
@@ -1297,7 +1300,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_52-2x.jpg",
     "gameNo": "052",
-    "ename": "Pikachu"
+    "ename": "Pikachu",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_30-2x.jpg"
+    ]
   },
   {
     "id": "6381",
@@ -1999,7 +2005,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_79-2x.jpg",
     "gameNo": "079",
-    "ename": "Comfey"
+    "ename": "Comfey",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_14-2x.jpg"
+    ]
   },
   {
     "id": "6787",
@@ -2989,7 +2998,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_118-2x.jpg",
     "gameNo": "118",
-    "ename": "Drapion V"
+    "ename": "Drapion V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_49-2x.jpg"
+    ]
   },
   {
     "id": "6804",
@@ -3347,7 +3359,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_131-2x.jpg",
     "gameNo": "131",
-    "ename": "Giratina VSTAR"
+    "ename": "Giratina VSTAR",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_GG69_R_EN.png"
+    ]
   },
   {
     "id": "6419",
@@ -3425,7 +3440,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_134-2x.jpg",
     "gameNo": "134",
-    "ename": "Hisuian Goodra"
+    "ename": "Hisuian Goodra",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_21-2x.jpg"
+    ]
   },
   {
     "id": "6422",
@@ -3775,7 +3793,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_147-2x.jpg",
     "gameNo": "147",
-    "ename": "Hisuian Zoroark VSTAR"
+    "ename": "Hisuian Zoroark VSTAR",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_56-2x.jpg"
+    ]
   },
   {
     "id": "6826",
@@ -3955,7 +3976,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_155-2x.jpg",
     "gameNo": "155",
-    "ename": "Colress's Experiment"
+    "ename": "Colress's Experiment",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_59-2x.jpg"
+    ]
   },
   {
     "id": "6835",
@@ -4095,7 +4119,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_169-2x.jpg",
     "gameNo": "169",
-    "ename": "Volo"
+    "ename": "Volo",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_151-2x.jpg"
+    ]
   },
   {
     "id": "6432",

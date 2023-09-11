@@ -63,7 +63,6 @@
 	const seriesList = ['SV3.5', 'SV3', 'SV2', 'SV1', 'SS12_5', 'SS12', 'SS11', 'SS10_5', 'SS10', 'SS9', 'SS8', 'SS7_5', 'SS7', 'SS6', 'SS5'];
 	let resetData = [];
 	let allIndex = 0;
-	let allLength = 0;
 	let cardName = ref(null);
 	let resultList = ref([]);
 	let searchInp = ref('');
@@ -83,7 +82,10 @@
 	})
 
 	const getDataMap = async () => {
+		allIndex = 0;
 		resetData = [];
+		resultList.value = [];
+		searchInp.value = '';
 		uni.showLoading({
 			title: '加载中',
 			mask: true
@@ -101,23 +103,21 @@
 		let listSS = resSS.default;
 		let result = [];
 		for(let item of listSV){
-			let reg = new RegExp(`[${item.name.replace(/VSTAR|VMAX|V|ex/ig, '')}]|${item.ename.replace(/ /g, '|')}`, 'i');
+			let reg = new RegExp(`[${item.name.replace(/ex|VSTAR|VMAX|V/ig, '')}]|${item.ename.replace(/ /g, '|')}`, 'i');
 			if(reg.test(cardName.value)){
 				result.push({
 					name: item.name,
 					series: item.series
 				})
-				allLength += 1
 			}
 		}
 		for(let item of listSS){
-			let reg = new RegExp(`[${item.name.replace(/VSTAR|VMAX|V|ex/ig, '')}]|${item.ename.replace(/ /g, '|')}`, 'i');
+			let reg = new RegExp(`[${item.name.replace(/ex|VSTAR|VMAX|V/ig, '')}]|${item.ename.replace(/ /g, '|')}`, 'i');
 			if(reg.test(cardName.value)){
 				result.push({
 					name: item.name,
 					series: item.series
 				})
-				allLength += 1
 			}
 		}
 		if(result.length == 0){
@@ -164,7 +164,8 @@
 		});
 		allIndex += result.length;
 		resetData = [...resetData, ...result];
-		if(allIndex == allLength){
+		// console.log(allIndex, resetData.length)
+		if(allIndex == resetData.length){
 			resultList.value = resetData;
 		}
 	}

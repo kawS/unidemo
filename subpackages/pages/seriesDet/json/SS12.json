@@ -167,7 +167,11 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_7-2x.jpg",
     "gameNo": "007",
-    "ename": "Serperior V"
+    "ename": "Serperior V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_170-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_13-2x.jpg"
+    ]
   },
   {
     "id": "6946",
@@ -197,7 +201,11 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_8-2x.jpg",
     "gameNo": "008",
-    "ename": "Serperior VSTAR"
+    "ename": "Serperior VSTAR",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_196_R_EN.png",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_210_R_EN.png"
+    ]
   },
   {
     "id": "6947",
@@ -379,7 +387,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_15-2x.jpg",
     "gameNo": "015",
-    "ename": "Chesnaught V"
+    "ename": "Chesnaught V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_171-2x.jpg"
+    ]
   },
   {
     "id": "6949",
@@ -613,7 +624,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_24-2x.jpg",
     "gameNo": "024",
-    "ename": "Reshiram V"
+    "ename": "Reshiram V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_172-2x.jpg"
+    ]
   },
   {
     "id": "6956",
@@ -665,7 +679,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_26-2x.jpg",
     "gameNo": "026",
-    "ename": "Braixen"
+    "ename": "Braixen",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_1-2x.jpg"
+    ]
   },
   {
     "id": "6958",
@@ -847,7 +864,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_33-2x.jpg",
     "gameNo": "033",
-    "ename": "Alolan Vulpix V"
+    "ename": "Alolan Vulpix V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_173-2x.jpg"
+    ]
   },
   {
     "id": "6963",
@@ -877,7 +897,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_34-2x.jpg",
     "gameNo": "034",
-    "ename": "Alolan Vulpix VSTAR"
+    "ename": "Alolan Vulpix VSTAR",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_197_R_EN.png"
+    ]
   },
   {
     "id": "7055",
@@ -907,7 +930,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_35-2x.jpg",
     "gameNo": "035",
-    "ename": "Omastar V"
+    "ename": "Omastar V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_174-2x.jpg"
+    ]
   },
   {
     "id": "6964",
@@ -1037,7 +1063,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_40-2x.jpg",
     "gameNo": "040",
-    "ename": "Milotic"
+    "ename": "Milotic",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_2-2x.jpg"
+    ]
   },
   {
     "id": "7056",
@@ -1475,7 +1504,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_57-2x.jpg",
     "gameNo": "057",
-    "ename": "Regieleki V"
+    "ename": "Regieleki V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_175-2x.jpg"
+    ]
   },
   {
     "id": "7071",
@@ -1505,7 +1537,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_58-2x.jpg",
     "gameNo": "058",
-    "ename": "Regieleki VMAX"
+    "ename": "Regieleki VMAX",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_198_R_EN.png"
+    ]
   },
   {
     "id": "6971",
@@ -1613,7 +1648,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_62-2x.jpg",
     "gameNo": "062",
-    "ename": "Jynx"
+    "ename": "Jynx",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_4-2x.jpg"
+    ]
   },
   {
     "id": "6391",
@@ -1691,7 +1729,11 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_65-2x.jpg",
     "gameNo": "065",
-    "ename": "Unown V"
+    "ename": "Unown V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_176-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_177-2x.jpg"
+    ]
   },
   {
     "id": "7073",
@@ -1721,7 +1763,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_66-2x.jpg",
     "gameNo": "066",
-    "ename": "Unown VSTAR"
+    "ename": "Unown VSTAR",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_199_R_EN.png"
+    ]
   },
   {
     "id": "6976",
@@ -1795,7 +1840,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_69-2x.jpg",
     "gameNo": "069",
-    "ename": "Gardevoir"
+    "ename": "Gardevoir",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_5-2x.jpg"
+    ]
   },
   {
     "id": "6979",
@@ -1825,7 +1873,11 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_70-2x.jpg",
     "gameNo": "070",
-    "ename": "Mawile V"
+    "ename": "Mawile V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_178-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_17-2x.jpg"
+    ]
   },
   {
     "id": "6980",
@@ -1855,7 +1907,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_71-2x.jpg",
     "gameNo": "071",
-    "ename": "Mawile VSTAR"
+    "ename": "Mawile VSTAR",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_200_R_EN.png"
+    ]
   },
   {
     "id": "7074",
@@ -2333,7 +2388,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_90-2x.jpg",
     "gameNo": "090",
-    "ename": "Hisuian Arcanine V"
+    "ename": "Hisuian Arcanine V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_179-2x.jpg"
+    ]
   },
   {
     "id": "6795",
@@ -2781,7 +2839,11 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_108-2x.jpg",
     "gameNo": "108",
-    "ename": "Skuntank V"
+    "ename": "Skuntank V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_180-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_181-2x.jpg"
+    ]
   },
   {
     "id": "6414",
@@ -3273,7 +3335,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_128-2x.jpg",
     "gameNo": "128",
-    "ename": "Magearna V"
+    "ename": "Magearna V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_182-2x.jpg"
+    ]
   },
   {
     "id": "7107",
@@ -3455,7 +3520,11 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_135-2x.jpg",
     "gameNo": "135",
-    "ename": "Regidrago V"
+    "ename": "Regidrago V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_183-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_184-2x.jpg"
+    ]
   },
   {
     "id": "7114",
@@ -3485,7 +3554,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_136-2x.jpg",
     "gameNo": "136",
-    "ename": "Regidrago VSTAR"
+    "ename": "Regidrago VSTAR",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_201_R_EN.png"
+    ]
   },
   {
     "id": "6994",
@@ -3511,7 +3583,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_137-2x.jpg",
     "gameNo": "137",
-    "ename": "Smeargle"
+    "ename": "Smeargle",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_10-2x.jpg"
+    ]
   },
   {
     "id": "7116",
@@ -3541,7 +3616,11 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_138-2x.jpg",
     "gameNo": "138",
-    "ename": "Lugia V"
+    "ename": "Lugia V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_185-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_186-2x.jpg"
+    ]
   },
   {
     "id": "7117",
@@ -3571,7 +3650,11 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_139-2x.jpg",
     "gameNo": "139",
-    "ename": "Lugia VSTAR"
+    "ename": "Lugia VSTAR",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_202_R_EN.png",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_211_R_EN.png"
+    ]
   },
   {
     "id": "6995",
@@ -3601,7 +3684,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_140-2x.jpg",
     "gameNo": "140",
-    "ename": "Ho-Oh V"
+    "ename": "Ho-Oh V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_187-2x.jpg"
+    ]
   },
   {
     "id": "6823",
@@ -3671,7 +3757,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_143-2x.jpg",
     "gameNo": "143",
-    "ename": "Altaria"
+    "ename": "Altaria",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_11-2x.jpg"
+    ]
   },
   {
     "id": "6824",
@@ -3861,7 +3950,7 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_161-2x.jpg",
     "gameNo": "151",
-    "ename": "Brandon"
+    "ename": "Primordial Altar"
   },
   {
     "id": "7131",
@@ -3881,7 +3970,11 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_151-2x.jpg",
     "gameNo": "152",
-    "ename": "Candice"
+    "ename": "Brandon",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_188-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_203_R_EN.png"
+    ]
   },
   {
     "id": "7132",
@@ -3901,7 +3994,11 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_152-2x.jpg",
     "gameNo": "153",
-    "ename": "Capturing Aroma"
+    "ename": "Candice",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_189-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_204_R_EN.png"
+    ]
   },
   {
     "id": "7005",
@@ -3921,7 +4018,11 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_157-2x.jpg",
     "gameNo": "154",
-    "ename": "Earthen Seal Stone"
+    "ename": "Furisode Girl",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_190-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_205_R_EN.png"
+    ]
   },
   {
     "id": "7133",
@@ -3941,7 +4042,11 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_159-2x.jpg",
     "gameNo": "155",
-    "ename": "Emergency Jelly"
+    "ename": "Lance",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_192-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_206_R_EN.png"
+    ]
   },
   {
     "id": "6927",
@@ -3961,7 +4066,7 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_162-2x.jpg",
     "gameNo": "156",
-    "ename": "Forest Seal Stone"
+    "ename": "Professor Laventon"
   },
   {
     "id": "7004",
@@ -3981,7 +4086,11 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_164-2x.jpg",
     "gameNo": "157",
-    "ename": "Furisode Girl"
+    "ename": "Serena",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_193-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_207_R_EN.png"
+    ]
   },
   {
     "id": "7006",
@@ -4001,7 +4110,11 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_166-2x.jpg",
     "gameNo": "158",
-    "ename": "Gym Trainer"
+    "ename": "Wallace",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_194-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_208_R_EN.png"
+    ]
   },
   {
     "id": "7130",
@@ -4021,7 +4134,34 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_167-2x.jpg",
     "gameNo": "159",
-    "ename": "Lance"
+    "ename": "Worker",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_195-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_209_R_EN.png"
+    ]
+  },
+  {
+    "id": "2070",
+    "url": "https://asia.pokemon-card.com/tw/card-search/detail/2070/",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00002070.png",
+    "type": "Trainers",
+    "cardName": "芭內特博士",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "从自己的牌库任意选择最多2张卡，将其丢弃。并且重洗牌库。"
+      },
+      {
+        "name": "[支援者规则]",
+        "effect": "在自己的回合时，支援者卡只可使用1张。"
+      }
+    ],
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SSP/SSP_167_R_EN.png",
+    "gameNo": "013",
+    "ename": "Professor Burnet",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_26-2x.jpg"
+    ]
   },
   {
     "id": "7128",
@@ -4045,7 +4185,7 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_154-2x.jpg",
     "gameNo": "160",
-    "ename": "Leafy Camo Poncho"
+    "ename": "Earthen Seal Stone"
   },
   {
     "id": "7129",
@@ -4069,7 +4209,7 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_156-2x.jpg",
     "gameNo": "161",
-    "ename": "Primordial Altar"
+    "ename": "Forest Seal Stone"
   },
   {
     "id": "7002",
@@ -4093,7 +4233,7 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_155-2x.jpg",
     "gameNo": "162",
-    "ename": "Professor Laventon"
+    "ename": "Emergency Jelly"
   },
   {
     "id": "7371",
@@ -4117,7 +4257,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_160-2x.jpg",
     "gameNo": "163",
-    "ename": "Quad Stone"
+    "ename": "Leafy Camo Poncho",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_214_R_EN.png"
+    ]
   },
   {
     "id": "7000",
@@ -4137,7 +4280,7 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_153-2x.jpg",
     "gameNo": "164",
-    "ename": "Serena"
+    "ename": "Capturing Aroma"
   },
   {
     "id": "7126",
@@ -4157,7 +4300,7 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_163-2x.jpg",
     "gameNo": "165",
-    "ename": "Unidentified Fossil"
+    "ename": "Quad Stone"
   },
   {
     "id": "7127",
@@ -4177,7 +4320,7 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_165-2x.jpg",
     "gameNo": "166",
-    "ename": "Wallace"
+    "ename": "Unidentified Fossil"
   },
   {
     "id": "7135",
@@ -4193,7 +4336,7 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_168-2x.jpg",
     "gameNo": "167",
-    "ename": "Worker"
+    "ename": "Regenerative Energy"
   },
   {
     "id": "7008",
@@ -4209,6 +4352,9 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_169-2x.jpg",
     "gameNo": "168",
-    "ename": "Regenerative Energy"
+    "ename": "V Guard Energy",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_215_R_EN.png"
+    ]
   }
 ]

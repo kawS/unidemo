@@ -53,7 +53,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_2-2x.jpg",
     "gameNo": "002",
-    "ename": "Hisuian Voltorb"
+    "ename": "Hisuian Voltorb",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_1-2x.jpg"
+    ]
   },
   {
     "id": "6302",
@@ -245,7 +248,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_10-2x.jpg",
     "gameNo": "010",
-    "ename": "Kricketune"
+    "ename": "Kricketune",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_2-2x.jpg"
+    ]
   },
   {
     "id": "6059",
@@ -1037,7 +1043,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_40-2x.jpg",
     "gameNo": "040",
-    "ename": "Origin Forme Palkia VSTAR"
+    "ename": "Origin Forme Palkia VSTAR",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_GG67_R_EN.png"
+    ]
   },
   {
     "id": "6247",
@@ -1159,7 +1168,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_45-2x.jpg",
     "gameNo": "045",
-    "ename": "Keldeo"
+    "ename": "Keldeo",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_7-2x.jpg"
+    ]
   },
   {
     "id": "6117",
@@ -1749,7 +1761,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_68-2x.jpg",
     "gameNo": "068",
-    "ename": "Diancie"
+    "ename": "Diancie",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_13-2x.jpg"
+    ]
   },
   {
     "id": "6085",
@@ -2479,7 +2494,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_95-2x.jpg",
     "gameNo": "095",
-    "ename": "Poochyena"
+    "ename": "Poochyena",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_33-2x.jpg"
+    ]
   },
   {
     "id": "6098",
@@ -2531,7 +2549,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_97-2x.jpg",
     "gameNo": "097",
-    "ename": "Absol"
+    "ename": "Absol",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_16-2x.jpg"
+    ]
   },
   {
     "id": "6214",
@@ -2591,7 +2612,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_99-2x.jpg",
     "gameNo": "099",
-    "ename": "Darkrai VSTAR"
+    "ename": "Darkrai VSTAR",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_50-2x.jpg"
+    ]
   },
   {
     "id": "6273",
@@ -2647,7 +2671,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_101-2x.jpg",
     "gameNo": "101",
-    "ename": "Hisuian Samurott V"
+    "ename": "Hisuian Samurott V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_51-2x.jpg"
+    ]
   },
   {
     "id": "6101",
@@ -2677,7 +2704,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_102-2x.jpg",
     "gameNo": "102",
-    "ename": "Hisuian Samurott VSTAR"
+    "ename": "Hisuian Samurott VSTAR",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_52-2x.jpg"
+    ]
   },
   {
     "id": "6274",
@@ -2725,7 +2755,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_104-2x.jpg",
     "gameNo": "104",
-    "ename": "Thievul"
+    "ename": "Thievul",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_17-2x.jpg"
+    ]
   },
   {
     "id": "6276",
@@ -2799,7 +2832,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_107-2x.jpg",
     "gameNo": "107",
-    "ename": "Magnezone"
+    "ename": "Magnezone",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_18-2x.jpg"
+    ]
   },
   {
     "id": "6279",
@@ -2985,7 +3021,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_114-2x.jpg",
     "gameNo": "114",
-    "ename": "Origin Forme Dialga VSTAR"
+    "ename": "Origin Forme Dialga VSTAR",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_GG68_R_EN.png"
+    ]
   },
   {
     "id": "6282",
@@ -3293,7 +3332,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_126-2x.jpg",
     "gameNo": "126",
-    "ename": "Miltank"
+    "ename": "Miltank",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_24-2x.jpg"
+    ]
   },
   {
     "id": "6107",
@@ -3521,7 +3563,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_142-2x.jpg",
     "gameNo": "142",
-    "ename": "Gapejaw Bog"
+    "ename": "Gapejaw Bog",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_213_R_EN.png"
+    ]
   },
   {
     "id": "6115",
@@ -3581,7 +3626,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_135-2x.jpg",
     "gameNo": "135",
-    "ename": "Adaman"
+    "ename": "Adaman",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_57-2x.jpg"
+    ]
   },
   {
     "id": "6365",
@@ -3641,7 +3689,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_143-2x.jpg",
     "gameNo": "143",
-    "ename": "Gardenia's Vigor"
+    "ename": "Gardenia's Vigor",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_61-2x.jpg"
+    ]
   },
   {
     "id": "6364",
@@ -3661,7 +3712,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_144-2x.jpg",
     "gameNo": "144",
-    "ename": "Grant"
+    "ename": "Grant",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_62-2x.jpg"
+    ]
   },
   {
     "id": "6363",
@@ -3681,7 +3735,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_147-2x.jpg",
     "gameNo": "147",
-    "ename": "Irida"
+    "ename": "Irida",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_63-2x.jpg"
+    ]
   },
   {
     "id": "6114",
@@ -3721,7 +3778,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_150-2x.jpg",
     "gameNo": "150",
-    "ename": "Roxanne"
+    "ename": "Roxanne",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_66-2x.jpg"
+    ]
   },
   {
     "id": "6298",

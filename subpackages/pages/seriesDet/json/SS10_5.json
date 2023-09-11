@@ -721,7 +721,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_28-2x.jpg",
     "gameNo": "028",
-    "ename": "Pikachu"
+    "ename": "Pikachu",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_160_R_EN.png"
+    ]
   },
   {
     "id": "6562",
@@ -807,7 +810,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_31-2x.jpg",
     "gameNo": "031",
-    "ename": "Mewtwo VSTAR"
+    "ename": "Mewtwo VSTAR",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_44-2x.jpg"
+    ]
   },
   {
     "id": "6565",
@@ -885,7 +891,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_34-2x.jpg",
     "gameNo": "034",
-    "ename": "Lunatone"
+    "ename": "Lunatone",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_11-2x.jpg"
+    ]
   },
   {
     "id": "6568",
@@ -1011,7 +1020,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_39-2x.jpg",
     "gameNo": "039",
-    "ename": "Solrock"
+    "ename": "Solrock",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_15-2x.jpg"
+    ]
   },
   {
     "id": "6573",
@@ -1379,7 +1391,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_53-2x.jpg",
     "gameNo": "053",
-    "ename": "Ditto"
+    "ename": "Ditto",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_22-2x.jpg"
+    ]
   },
   {
     "id": "6587",
