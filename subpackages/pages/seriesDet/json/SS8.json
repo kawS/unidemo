@@ -22,8 +22,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_1-2x.jpg",
-    "gameNo": "001",
-    "ename": "Caterpie"
+    "ename": "Caterpie",
+    "series": "SS8"
   },
   {
     "id": "3",
@@ -48,8 +48,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_2-2x.jpg",
-    "gameNo": "002",
-    "ename": "Metapod"
+    "ename": "Metapod",
+    "series": "SS8"
   },
   {
     "id": "4",
@@ -74,8 +74,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_3-2x.jpg",
-    "gameNo": "003",
-    "ename": "Butterfree"
+    "ename": "Butterfree",
+    "series": "SS8"
   },
   {
     "id": "5",
@@ -100,8 +100,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_4-2x.jpg",
-    "gameNo": "004",
-    "ename": "Shroomish"
+    "ename": "Shroomish",
+    "series": "SS8"
   },
   {
     "id": "6",
@@ -126,8 +126,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_5-2x.jpg",
-    "gameNo": "005",
-    "ename": "Breloom"
+    "ename": "Breloom",
+    "series": "SS8"
   },
   {
     "id": "5570",
@@ -156,8 +156,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_6-2x.jpg",
-    "gameNo": "006",
-    "ename": "Breloom V"
+    "ename": "Breloom V",
+    "series": "SS8"
   },
   {
     "id": "2116",
@@ -178,8 +178,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_7-2x.jpg",
-    "gameNo": "007",
-    "ename": "Pansage"
+    "ename": "Pansage",
+    "series": "SS8"
   },
   {
     "id": "2117",
@@ -204,8 +204,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_8-2x.jpg",
-    "gameNo": "008",
-    "ename": "Simisage"
+    "ename": "Simisage",
+    "series": "SS8"
   },
   {
     "id": "605",
@@ -226,8 +226,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_9-2x.jpg",
-    "gameNo": "009",
-    "ename": "Sewaddle"
+    "ename": "Sewaddle",
+    "series": "SS8"
   },
   {
     "id": "606",
@@ -252,8 +252,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_10-2x.jpg",
-    "gameNo": "010",
-    "ename": "Swadloon"
+    "ename": "Swadloon",
+    "series": "SS8"
   },
   {
     "id": "607",
@@ -278,8 +278,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_11-2x.jpg",
-    "gameNo": "011",
-    "ename": "Leavanny"
+    "ename": "Leavanny",
+    "series": "SS8"
   },
   {
     "id": "7",
@@ -304,8 +304,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_12-2x.jpg",
-    "gameNo": "012",
-    "ename": "Maractus"
+    "ename": "Maractus",
+    "series": "SS8"
   },
   {
     "id": "8",
@@ -326,8 +326,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_13-2x.jpg",
-    "gameNo": "013",
-    "ename": "Shelmet"
+    "ename": "Shelmet",
+    "series": "SS8"
   },
   {
     "id": "9",
@@ -348,8 +348,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_14-2x.jpg",
-    "gameNo": "014",
-    "ename": "Accelgor"
+    "ename": "Accelgor",
+    "series": "SS8"
   },
   {
     "id": "10",
@@ -374,8 +374,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_15-2x.jpg",
-    "gameNo": "015",
-    "ename": "Virizion"
+    "ename": "Virizion",
+    "series": "SS8"
   },
   {
     "id": "2014",
@@ -400,8 +400,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_16-2x.jpg",
-    "gameNo": "016",
-    "ename": "Phantump"
+    "ename": "Phantump",
+    "series": "SS8"
   },
   {
     "id": "2015",
@@ -426,8 +426,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_17-2x.jpg",
-    "gameNo": "017",
-    "ename": "Trevenant"
+    "ename": "Trevenant",
+    "series": "SS8"
   },
   {
     "id": "11",
@@ -452,8 +452,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_18-2x.jpg",
-    "gameNo": "018",
-    "ename": "Grubbin"
+    "ename": "Grubbin",
+    "series": "SS8"
   },
   {
     "id": "608",
@@ -474,8 +474,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_19-2x.jpg",
-    "gameNo": "019",
-    "ename": "Dewpider"
+    "ename": "Dewpider",
+    "series": "SS8"
   },
   {
     "id": "609",
@@ -500,8 +500,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_20-2x.jpg",
-    "gameNo": "020",
-    "ename": "Araquanid"
+    "ename": "Araquanid",
+    "series": "SS8"
   },
   {
     "id": "12",
@@ -526,8 +526,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_21-2x.jpg",
-    "gameNo": "021",
-    "ename": "Tsareena V"
+    "ename": "Tsareena V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_246-2x.jpg"
+    ],
+    "series": "SS8"
   },
   {
     "id": "2123",
@@ -556,8 +559,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_22-2x.jpg",
-    "gameNo": "022",
-    "ename": "Rillaboom V"
+    "ename": "Rillaboom V",
+    "series": "SS8"
   },
   {
     "id": "2124",
@@ -582,8 +585,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_23-2x.jpg",
-    "gameNo": "023",
-    "ename": "Rillaboom VMAX"
+    "ename": "Rillaboom VMAX",
+    "series": "SS8"
   },
   {
     "id": "2016",
@@ -604,8 +607,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_24-2x.jpg",
-    "gameNo": "024",
-    "ename": "Gossifleur"
+    "ename": "Gossifleur",
+    "series": "SS8"
   },
   {
     "id": "2017",
@@ -626,8 +629,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_25-2x.jpg",
-    "gameNo": "025",
-    "ename": "Eldegoss"
+    "ename": "Eldegoss",
+    "series": "SS8"
   },
   {
     "id": "2018",
@@ -656,8 +659,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_26-2x.jpg",
-    "gameNo": "026",
-    "ename": "Appletun V"
+    "ename": "Appletun V",
+    "series": "SS8"
   },
   {
     "id": "2019",
@@ -682,8 +685,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_27-2x.jpg",
-    "gameNo": "027",
-    "ename": "Zarude"
+    "ename": "Zarude",
+    "series": "SS8"
   },
   {
     "id": "2125",
@@ -704,8 +707,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_28-2x.jpg",
-    "gameNo": "028",
-    "ename": "Vulpix"
+    "ename": "Vulpix",
+    "series": "SS8"
   },
   {
     "id": "5675",
@@ -726,8 +729,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_29-2x.jpg",
-    "gameNo": "029",
-    "ename": "Vulpix"
+    "ename": "Vulpix",
+    "series": "SS8"
   },
   {
     "id": "5676",
@@ -748,8 +751,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_30-2x.jpg",
-    "gameNo": "030",
-    "ename": "Ninetales"
+    "ename": "Ninetales",
+    "series": "SS8"
   },
   {
     "id": "5677",
@@ -774,8 +777,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_31-2x.jpg",
-    "gameNo": "031",
-    "ename": "Ninetales"
+    "ename": "Ninetales",
+    "series": "SS8"
   },
   {
     "id": "13",
@@ -800,8 +803,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_32-2x.jpg",
-    "gameNo": "032",
-    "ename": "Growlithe"
+    "ename": "Growlithe",
+    "series": "SS8"
   },
   {
     "id": "14",
@@ -826,8 +829,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_33-2x.jpg",
-    "gameNo": "033",
-    "ename": "Arcanine"
+    "ename": "Arcanine",
+    "series": "SS8"
   },
   {
     "id": "5682",
@@ -852,8 +855,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_34-2x.jpg",
-    "gameNo": "034",
-    "ename": "Slugma"
+    "ename": "Slugma",
+    "series": "SS8"
   },
   {
     "id": "5683",
@@ -878,8 +881,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_35-2x.jpg",
-    "gameNo": "035",
-    "ename": "Magcargo"
+    "ename": "Magcargo",
+    "series": "SS8"
   },
   {
     "id": "2022",
@@ -904,8 +907,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_36-2x.jpg",
-    "gameNo": "036",
-    "ename": "Victini"
+    "ename": "Victini",
+    "series": "SS8"
   },
   {
     "id": "5690",
@@ -926,8 +929,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_37-2x.jpg",
-    "gameNo": "037",
-    "ename": "Pansear"
+    "ename": "Pansear",
+    "series": "SS8"
   },
   {
     "id": "5691",
@@ -952,8 +955,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_38-2x.jpg",
-    "gameNo": "038",
-    "ename": "Simisear"
+    "ename": "Simisear",
+    "series": "SS8"
   },
   {
     "id": "15",
@@ -982,8 +985,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_39-2x.jpg",
-    "gameNo": "039",
-    "ename": "Chandelure V"
+    "ename": "Chandelure V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_247-2x.jpg"
+    ],
+    "series": "SS8"
   },
   {
     "id": "16",
@@ -1012,8 +1018,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_40-2x.jpg",
-    "gameNo": "040",
-    "ename": "Chandelure VMAX"
+    "ename": "Chandelure VMAX",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/FST/FST_265_R_EN.png"
+    ],
+    "series": "SS8"
   },
   {
     "id": "17",
@@ -1038,8 +1047,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_41-2x.jpg",
-    "gameNo": "041",
-    "ename": "Heatmor"
+    "ename": "Heatmor",
+    "series": "SS8"
   },
   {
     "id": "18",
@@ -1064,11 +1073,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_42-2x.jpg",
-    "gameNo": "042",
     "ename": "Oricorio",
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_4-2x.jpg"
-    ]
+    ],
+    "series": "SS8"
   },
   {
     "id": "5702",
@@ -1093,8 +1102,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_43-2x.jpg",
-    "gameNo": "043",
-    "ename": "Cinderace V"
+    "ename": "Cinderace V",
+    "series": "SS8"
   },
   {
     "id": "2134",
@@ -1123,8 +1132,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_44-2x.jpg",
-    "gameNo": "044",
-    "ename": "Cinderace V"
+    "ename": "Cinderace V",
+    "series": "SS8"
   },
   {
     "id": "2135",
@@ -1149,8 +1158,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_45-2x.jpg",
-    "gameNo": "045",
-    "ename": "Cinderace VMAX"
+    "ename": "Cinderace VMAX",
+    "series": "SS8"
   },
   {
     "id": "2137",
@@ -1175,8 +1184,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_46-2x.jpg",
-    "gameNo": "046",
-    "ename": "Sizzlipede"
+    "ename": "Sizzlipede",
+    "series": "SS8"
   },
   {
     "id": "2136",
@@ -1197,8 +1206,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_47-2x.jpg",
-    "gameNo": "047",
-    "ename": "Sizzlipede"
+    "ename": "Sizzlipede",
+    "series": "SS8"
   },
   {
     "id": "2138",
@@ -1223,8 +1232,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_48-2x.jpg",
-    "gameNo": "048",
-    "ename": "Centiskorch"
+    "ename": "Centiskorch",
+    "series": "SS8"
   },
   {
     "id": "2139",
@@ -1249,8 +1258,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_49-2x.jpg",
-    "gameNo": "049",
-    "ename": "Centiskorch"
+    "ename": "Centiskorch",
+    "series": "SS8"
   },
   {
     "id": "5707",
@@ -1275,8 +1284,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_50-2x.jpg",
-    "gameNo": "050",
-    "ename": "Shellder"
+    "ename": "Shellder",
+    "series": "SS8"
   },
   {
     "id": "5708",
@@ -1301,8 +1310,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_51-2x.jpg",
-    "gameNo": "051",
-    "ename": "Cloyster"
+    "ename": "Cloyster",
+    "series": "SS8"
   },
   {
     "id": "19",
@@ -1327,8 +1336,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_52-2x.jpg",
-    "gameNo": "052",
-    "ename": "Staryu"
+    "ename": "Staryu",
+    "series": "SS8"
   },
   {
     "id": "20",
@@ -1349,8 +1358,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_53-2x.jpg",
-    "gameNo": "053",
-    "ename": "Starmie"
+    "ename": "Starmie",
+    "series": "SS8"
   },
   {
     "id": "5715",
@@ -1375,8 +1384,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_54-2x.jpg",
-    "gameNo": "054",
-    "ename": "Lapras"
+    "ename": "Lapras",
+    "series": "SS8"
   },
   {
     "id": "21",
@@ -1397,8 +1406,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_55-2x.jpg",
-    "gameNo": "055",
-    "ename": "Totodile"
+    "ename": "Totodile",
+    "series": "SS8"
   },
   {
     "id": "22",
@@ -1423,8 +1432,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_56-2x.jpg",
-    "gameNo": "056",
-    "ename": "Croconaw"
+    "ename": "Croconaw",
+    "series": "SS8"
   },
   {
     "id": "23",
@@ -1449,8 +1458,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_57-2x.jpg",
-    "gameNo": "057",
-    "ename": "Feraligatr"
+    "ename": "Feraligatr",
+    "series": "SS8"
   },
   {
     "id": "1716",
@@ -1475,8 +1484,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_58-2x.jpg",
-    "gameNo": "058",
-    "ename": "Marill"
+    "ename": "Marill",
+    "series": "SS8"
   },
   {
     "id": "1717",
@@ -1501,8 +1510,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_59-2x.jpg",
-    "gameNo": "059",
-    "ename": "Azumarill"
+    "ename": "Azumarill",
+    "series": "SS8"
   },
   {
     "id": "2026",
@@ -1527,8 +1536,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_60-2x.jpg",
-    "gameNo": "060",
-    "ename": "Qwilfish"
+    "ename": "Qwilfish",
+    "series": "SS8"
   },
   {
     "id": "5720",
@@ -1553,8 +1562,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_61-2x.jpg",
-    "gameNo": "061",
-    "ename": "Mantine"
+    "ename": "Mantine",
+    "series": "SS8"
   },
   {
     "id": "5722",
@@ -1579,8 +1588,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_62-2x.jpg",
-    "gameNo": "062",
-    "ename": "Mudkip"
+    "ename": "Mudkip",
+    "series": "SS8"
   },
   {
     "id": "5723",
@@ -1605,8 +1614,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_63-2x.jpg",
-    "gameNo": "063",
-    "ename": "Marshtomp"
+    "ename": "Marshtomp",
+    "series": "SS8"
   },
   {
     "id": "5724",
@@ -1631,8 +1640,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_64-2x.jpg",
-    "gameNo": "064",
-    "ename": "Swampert"
+    "ename": "Swampert",
+    "series": "SS8"
   },
   {
     "id": "24",
@@ -1653,8 +1662,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_65-2x.jpg",
-    "gameNo": "065",
-    "ename": "Clamperl"
+    "ename": "Clamperl",
+    "series": "SS8"
   },
   {
     "id": "25",
@@ -1679,8 +1688,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_66-2x.jpg",
-    "gameNo": "066",
-    "ename": "Huntail"
+    "ename": "Huntail",
+    "series": "SS8"
   },
   {
     "id": "26",
@@ -1705,8 +1714,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_67-2x.jpg",
-    "gameNo": "067",
-    "ename": "Gorebyss"
+    "ename": "Gorebyss",
+    "series": "SS8"
   },
   {
     "id": "815",
@@ -1727,8 +1736,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_68-2x.jpg",
-    "gameNo": "068",
-    "ename": "Panpour"
+    "ename": "Panpour",
+    "series": "SS8"
   },
   {
     "id": "816",
@@ -1753,8 +1762,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_69-2x.jpg",
-    "gameNo": "069",
-    "ename": "Simipour"
+    "ename": "Simipour",
+    "series": "SS8"
   },
   {
     "id": "2147",
@@ -1775,8 +1784,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_70-2x.jpg",
-    "gameNo": "070",
-    "ename": "Basculin"
+    "ename": "Basculin",
+    "series": "SS8"
   },
   {
     "id": "2148",
@@ -1797,8 +1806,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_71-2x.jpg",
-    "gameNo": "071",
-    "ename": "Galarian Darumaka"
+    "ename": "Galarian Darumaka",
+    "series": "SS8"
   },
   {
     "id": "2149",
@@ -1823,8 +1832,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_72-2x.jpg",
-    "gameNo": "072",
-    "ename": "Galarian Darmanitan"
+    "ename": "Galarian Darmanitan",
+    "series": "SS8"
   },
   {
     "id": "5736",
@@ -1853,8 +1862,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_73-2x.jpg",
-    "gameNo": "073",
-    "ename": "Greninja V"
+    "ename": "Greninja V",
+    "series": "SS8"
   },
   {
     "id": "5737",
@@ -1879,8 +1888,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_74-2x.jpg",
-    "gameNo": "074",
-    "ename": "Clauncher"
+    "ename": "Clauncher",
+    "series": "SS8"
   },
   {
     "id": "5738",
@@ -1905,8 +1914,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_75-2x.jpg",
-    "gameNo": "075",
-    "ename": "Clawitzer"
+    "ename": "Clawitzer",
+    "series": "SS8"
   },
   {
     "id": "27",
@@ -1935,8 +1944,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_76-2x.jpg",
-    "gameNo": "076",
-    "ename": "Crabominable V"
+    "ename": "Crabominable V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_248-2x.jpg"
+    ],
+    "series": "SS8"
   },
   {
     "id": "28",
@@ -1961,8 +1973,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_77-2x.jpg",
-    "gameNo": "077",
-    "ename": "Pyukumuku"
+    "ename": "Pyukumuku",
+    "series": "SS8"
   },
   {
     "id": "2153",
@@ -1991,8 +2003,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_78-2x.jpg",
-    "gameNo": "078",
-    "ename": "Inteleon V"
+    "ename": "Inteleon V",
+    "series": "SS8"
   },
   {
     "id": "2154",
@@ -2021,8 +2033,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_79-2x.jpg",
-    "gameNo": "079",
-    "ename": "Inteleon VMAX"
+    "ename": "Inteleon VMAX",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/FST/FST_266_R_EN.png"
+    ],
+    "series": "SS8"
   },
   {
     "id": "2028",
@@ -2043,8 +2058,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_80-2x.jpg",
-    "gameNo": "080",
-    "ename": "Chewtle"
+    "ename": "Chewtle",
+    "series": "SS8"
   },
   {
     "id": "2029",
@@ -2065,8 +2080,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_81-2x.jpg",
-    "gameNo": "081",
-    "ename": "Drednaw"
+    "ename": "Drednaw",
+    "series": "SS8"
   },
   {
     "id": "2030",
@@ -2087,8 +2102,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_82-2x.jpg",
-    "gameNo": "082",
-    "ename": "Arrokuda"
+    "ename": "Arrokuda",
+    "series": "SS8"
   },
   {
     "id": "2031",
@@ -2109,8 +2124,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_83-2x.jpg",
-    "gameNo": "083",
-    "ename": "Barraskewda"
+    "ename": "Barraskewda",
+    "series": "SS8"
   },
   {
     "id": "29",
@@ -2131,8 +2146,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_84-2x.jpg",
-    "gameNo": "084",
-    "ename": "Snom"
+    "ename": "Snom",
+    "series": "SS8"
   },
   {
     "id": "30",
@@ -2157,8 +2172,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_85-2x.jpg",
-    "gameNo": "085",
-    "ename": "Frosmoth"
+    "ename": "Frosmoth",
+    "series": "SS8"
   },
   {
     "id": "2032",
@@ -2187,8 +2202,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_86-2x.jpg",
-    "gameNo": "086",
-    "ename": "Pikachu V"
+    "ename": "Pikachu V",
+    "series": "SS8"
   },
   {
     "id": "1737",
@@ -2209,8 +2224,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_87-2x.jpg",
-    "gameNo": "087",
-    "ename": "Voltorb"
+    "ename": "Voltorb",
+    "series": "SS8"
   },
   {
     "id": "1738",
@@ -2235,8 +2250,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_88-2x.jpg",
-    "gameNo": "088",
-    "ename": "Electrode"
+    "ename": "Electrode",
+    "series": "SS8"
   },
   {
     "id": "5767",
@@ -2257,8 +2272,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_89-2x.jpg",
-    "gameNo": "089",
-    "ename": "Plusle"
+    "ename": "Plusle",
+    "series": "SS8"
   },
   {
     "id": "5768",
@@ -2283,8 +2298,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_90-2x.jpg",
-    "gameNo": "090",
-    "ename": "Minun"
+    "ename": "Minun",
+    "series": "SS8"
   },
   {
     "id": "2033",
@@ -2309,8 +2324,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_91-2x.jpg",
-    "gameNo": "091",
-    "ename": "Shinx"
+    "ename": "Shinx",
+    "series": "SS8"
   },
   {
     "id": "2034",
@@ -2331,8 +2346,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_92-2x.jpg",
-    "gameNo": "092",
-    "ename": "Luxio"
+    "ename": "Luxio",
+    "series": "SS8"
   },
   {
     "id": "2035",
@@ -2353,8 +2368,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_93-2x.jpg",
-    "gameNo": "093",
-    "ename": "Luxray"
+    "ename": "Luxray",
+    "series": "SS8"
   },
   {
     "id": "632",
@@ -2379,8 +2394,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_94-2x.jpg",
-    "gameNo": "094",
-    "ename": "Rotom"
+    "ename": "Rotom",
+    "series": "SS8"
   },
   {
     "id": "633",
@@ -2405,8 +2420,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_95-2x.jpg",
-    "gameNo": "095",
-    "ename": "Tynamo"
+    "ename": "Tynamo",
+    "series": "SS8"
   },
   {
     "id": "634",
@@ -2431,8 +2446,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_96-2x.jpg",
-    "gameNo": "096",
-    "ename": "Eelektrik"
+    "ename": "Eelektrik",
+    "series": "SS8"
   },
   {
     "id": "635",
@@ -2457,8 +2472,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_97-2x.jpg",
-    "gameNo": "097",
-    "ename": "Eelektross"
+    "ename": "Eelektross",
+    "series": "SS8"
   },
   {
     "id": "31",
@@ -2483,8 +2498,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_98-2x.jpg",
-    "gameNo": "098",
-    "ename": "Helioptile"
+    "ename": "Helioptile",
+    "series": "SS8"
   },
   {
     "id": "32",
@@ -2509,8 +2524,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_99-2x.jpg",
-    "gameNo": "099",
-    "ename": "Heliolisk"
+    "ename": "Heliolisk",
+    "series": "SS8"
   },
   {
     "id": "33",
@@ -2535,8 +2550,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_100-2x.jpg",
-    "gameNo": "100",
-    "ename": "Charjabug"
+    "ename": "Charjabug",
+    "series": "SS8"
   },
   {
     "id": "34",
@@ -2561,8 +2576,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_101-2x.jpg",
-    "gameNo": "101",
-    "ename": "Vikavolt"
+    "ename": "Vikavolt",
+    "series": "SS8"
   },
   {
     "id": "5780",
@@ -2583,8 +2598,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_102-2x.jpg",
-    "gameNo": "102",
-    "ename": "Zeraora"
+    "ename": "Zeraora",
+    "series": "SS8"
   },
   {
     "id": "35",
@@ -2613,8 +2628,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_103-2x.jpg",
-    "gameNo": "103",
-    "ename": "Boltund V"
+    "ename": "Boltund V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_249-2x.jpg"
+    ],
+    "series": "SS8"
   },
   {
     "id": "36",
@@ -2643,8 +2661,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_104-2x.jpg",
-    "gameNo": "104",
-    "ename": "Boltund VMAX"
+    "ename": "Boltund VMAX",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/FST/FST_267_R_EN.png"
+    ],
+    "series": "SS8"
   },
   {
     "id": "5785",
@@ -2665,8 +2686,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_105-2x.jpg",
-    "gameNo": "105",
-    "ename": "Toxel"
+    "ename": "Toxel",
+    "series": "SS8"
   },
   {
     "id": "37",
@@ -2691,8 +2712,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_106-2x.jpg",
-    "gameNo": "106",
-    "ename": "Toxel"
+    "ename": "Toxel",
+    "series": "SS8"
   },
   {
     "id": "5786",
@@ -2713,8 +2734,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_107-2x.jpg",
-    "gameNo": "107",
-    "ename": "Toxtricity"
+    "ename": "Toxtricity",
+    "series": "SS8"
   },
   {
     "id": "38",
@@ -2739,11 +2760,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_108-2x.jpg",
-    "gameNo": "108",
     "ename": "Toxtricity",
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_9-2x.jpg"
-    ]
+    ],
+    "series": "SS8"
   },
   {
     "id": "5787",
@@ -2764,8 +2785,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_109-2x.jpg",
-    "gameNo": "109",
-    "ename": "Morpeko"
+    "ename": "Morpeko",
+    "series": "SS8"
   },
   {
     "id": "820",
@@ -2790,8 +2811,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_110-2x.jpg",
-    "gameNo": "110",
-    "ename": "Jigglypuff"
+    "ename": "Jigglypuff",
+    "series": "SS8"
   },
   {
     "id": "821",
@@ -2816,8 +2837,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_111-2x.jpg",
-    "gameNo": "111",
-    "ename": "Wigglytuff"
+    "ename": "Wigglytuff",
+    "series": "SS8"
   },
   {
     "id": "39",
@@ -2842,8 +2863,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_112-2x.jpg",
-    "gameNo": "112",
-    "ename": "Jynx"
+    "ename": "Jynx",
+    "series": "SS8"
   },
   {
     "id": "40",
@@ -2872,8 +2893,13 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_113-2x.jpg",
-    "gameNo": "113",
-    "ename": "Mew V"
+    "ename": "Mew V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_250-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_251-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_60-2x.jpg"
+    ],
+    "series": "SS8"
   },
   {
     "id": "41",
@@ -2902,8 +2928,13 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_114-2x.jpg",
-    "gameNo": "114",
-    "ename": "Mew VMAX"
+    "ename": "Mew VMAX",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/FST/FST_269_R_EN.png",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/FST/FST_268_R_EN.png",
+      "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_TG_30-2x.jpg"
+    ],
+    "series": "SS8"
   },
   {
     "id": "42",
@@ -2928,8 +2959,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_115-2x.jpg",
-    "gameNo": "115",
-    "ename": "Snubbull"
+    "ename": "Snubbull",
+    "series": "SS8"
   },
   {
     "id": "43",
@@ -2954,8 +2985,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_116-2x.jpg",
-    "gameNo": "116",
-    "ename": "Granbull"
+    "ename": "Granbull",
+    "series": "SS8"
   },
   {
     "id": "44",
@@ -2976,8 +3007,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_117-2x.jpg",
-    "gameNo": "117",
-    "ename": "Galarian Corsola"
+    "ename": "Galarian Corsola",
+    "series": "SS8"
   },
   {
     "id": "45",
@@ -3002,8 +3033,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_118-2x.jpg",
-    "gameNo": "118",
-    "ename": "Galarian Cursola"
+    "ename": "Galarian Cursola",
+    "series": "SS8"
   },
   {
     "id": "637",
@@ -3024,8 +3055,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_119-2x.jpg",
-    "gameNo": "119",
-    "ename": "Mawile"
+    "ename": "Mawile",
+    "series": "SS8"
   },
   {
     "id": "46",
@@ -3046,11 +3077,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_120-2x.jpg",
-    "gameNo": "120",
     "ename": "Deoxys",
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_12-2x.jpg"
-    ]
+    ],
+    "series": "SS8"
   },
   {
     "id": "47",
@@ -3071,8 +3102,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_121-2x.jpg",
-    "gameNo": "121",
-    "ename": "Munna"
+    "ename": "Munna",
+    "series": "SS8"
   },
   {
     "id": "48",
@@ -3097,8 +3128,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_122-2x.jpg",
-    "gameNo": "122",
-    "ename": "Musharna"
+    "ename": "Musharna",
+    "series": "SS8"
   },
   {
     "id": "5813",
@@ -3123,8 +3154,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_123-2x.jpg",
-    "gameNo": "123",
-    "ename": "Sigilyph"
+    "ename": "Sigilyph",
+    "series": "SS8"
   },
   {
     "id": "49",
@@ -3145,8 +3176,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_124-2x.jpg",
-    "gameNo": "124",
-    "ename": "Meloetta"
+    "ename": "Meloetta",
+    "series": "SS8"
   },
   {
     "id": "5823",
@@ -3171,8 +3202,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_125-2x.jpg",
-    "gameNo": "125",
-    "ename": "Sandygast"
+    "ename": "Sandygast",
+    "series": "SS8"
   },
   {
     "id": "5824",
@@ -3197,8 +3228,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_126-2x.jpg",
-    "gameNo": "126",
-    "ename": "Palossand"
+    "ename": "Palossand",
+    "series": "SS8"
   },
   {
     "id": "5830",
@@ -3223,8 +3254,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_127-2x.jpg",
-    "gameNo": "127",
-    "ename": "Indeedee"
+    "ename": "Indeedee",
+    "series": "SS8"
   },
   {
     "id": "50",
@@ -3245,8 +3276,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_128-2x.jpg",
-    "gameNo": "128",
-    "ename": "Dreepy"
+    "ename": "Dreepy",
+    "series": "SS8"
   },
   {
     "id": "51",
@@ -3271,8 +3302,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_129-2x.jpg",
-    "gameNo": "129",
-    "ename": "Drakloak"
+    "ename": "Drakloak",
+    "series": "SS8"
   },
   {
     "id": "52",
@@ -3297,8 +3328,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_130-2x.jpg",
-    "gameNo": "130",
-    "ename": "Dragapult"
+    "ename": "Dragapult",
+    "series": "SS8"
   },
   {
     "id": "911",
@@ -3323,8 +3354,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_131-2x.jpg",
-    "gameNo": "131",
-    "ename": "Sandshrew"
+    "ename": "Sandshrew",
+    "series": "SS8"
   },
   {
     "id": "912",
@@ -3345,8 +3376,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_132-2x.jpg",
-    "gameNo": "132",
-    "ename": "Sandslash"
+    "ename": "Sandslash",
+    "series": "SS8"
   },
   {
     "id": "2038",
@@ -3367,8 +3398,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_133-2x.jpg",
-    "gameNo": "133",
-    "ename": "Mankey"
+    "ename": "Mankey",
+    "series": "SS8"
   },
   {
     "id": "2039",
@@ -3389,8 +3420,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_134-2x.jpg",
-    "gameNo": "134",
-    "ename": "Primeape"
+    "ename": "Primeape",
+    "series": "SS8"
   },
   {
     "id": "53",
@@ -3415,8 +3446,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_135-2x.jpg",
-    "gameNo": "135",
-    "ename": "Geodude"
+    "ename": "Geodude",
+    "series": "SS8"
   },
   {
     "id": "54",
@@ -3441,8 +3472,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_136-2x.jpg",
-    "gameNo": "136",
-    "ename": "Graveler"
+    "ename": "Graveler",
+    "series": "SS8"
   },
   {
     "id": "55",
@@ -3467,8 +3498,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_137-2x.jpg",
-    "gameNo": "137",
-    "ename": "Golem"
+    "ename": "Golem",
+    "series": "SS8"
   },
   {
     "id": "56",
@@ -3493,8 +3524,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_138-2x.jpg",
-    "gameNo": "138",
-    "ename": "Onix"
+    "ename": "Onix",
+    "series": "SS8"
   },
   {
     "id": "57",
@@ -3519,8 +3550,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_139-2x.jpg",
-    "gameNo": "139",
-    "ename": "Steelix"
+    "ename": "Steelix",
+    "series": "SS8"
   },
   {
     "id": "2186",
@@ -3545,8 +3576,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_140-2x.jpg",
-    "gameNo": "140",
-    "ename": "Gligar"
+    "ename": "Gligar",
+    "series": "SS8"
   },
   {
     "id": "2187",
@@ -3571,8 +3602,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_141-2x.jpg",
-    "gameNo": "141",
-    "ename": "Gliscor"
+    "ename": "Gliscor",
+    "series": "SS8"
   },
   {
     "id": "2188",
@@ -3597,8 +3628,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_142-2x.jpg",
-    "gameNo": "142",
-    "ename": "Makuhita"
+    "ename": "Makuhita",
+    "series": "SS8"
   },
   {
     "id": "2189",
@@ -3623,8 +3654,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_143-2x.jpg",
-    "gameNo": "143",
-    "ename": "Hariyama"
+    "ename": "Hariyama",
+    "series": "SS8"
   },
   {
     "id": "2190",
@@ -3645,8 +3676,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_144-2x.jpg",
-    "gameNo": "144",
-    "ename": "Baltoy"
+    "ename": "Baltoy",
+    "series": "SS8"
   },
   {
     "id": "2191",
@@ -3671,8 +3702,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_145-2x.jpg",
-    "gameNo": "145",
-    "ename": "Claydol"
+    "ename": "Claydol",
+    "series": "SS8"
   },
   {
     "id": "5853",
@@ -3697,8 +3728,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_146-2x.jpg",
-    "gameNo": "146",
-    "ename": "Lucario V"
+    "ename": "Lucario V",
+    "series": "SS8"
   },
   {
     "id": "58",
@@ -3719,8 +3750,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_147-2x.jpg",
-    "gameNo": "147",
-    "ename": "Drilbur"
+    "ename": "Drilbur",
+    "series": "SS8"
   },
   {
     "id": "2192",
@@ -3745,8 +3776,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_148-2x.jpg",
-    "gameNo": "148",
-    "ename": "Landorus"
+    "ename": "Landorus",
+    "series": "SS8"
   },
   {
     "id": "5861",
@@ -3771,8 +3802,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_149-2x.jpg",
-    "gameNo": "149",
-    "ename": "Pancham"
+    "ename": "Pancham",
+    "series": "SS8"
   },
   {
     "id": "2194",
@@ -3797,8 +3828,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_150-2x.jpg",
-    "gameNo": "150",
-    "ename": "Stufful"
+    "ename": "Stufful",
+    "series": "SS8"
   },
   {
     "id": "2195",
@@ -3823,8 +3854,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_151-2x.jpg",
-    "gameNo": "151",
-    "ename": "Bewear"
+    "ename": "Bewear",
+    "series": "SS8"
   },
   {
     "id": "2196",
@@ -3849,8 +3880,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_152-2x.jpg",
-    "gameNo": "152",
-    "ename": "Clobbopus"
+    "ename": "Clobbopus",
+    "series": "SS8"
   },
   {
     "id": "2197",
@@ -3875,8 +3906,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_153-2x.jpg",
-    "gameNo": "153",
-    "ename": "Grapploct"
+    "ename": "Grapploct",
+    "series": "SS8"
   },
   {
     "id": "59",
@@ -3901,8 +3932,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_154-2x.jpg",
-    "gameNo": "154",
-    "ename": "Falinks"
+    "ename": "Falinks",
+    "series": "SS8"
   },
   {
     "id": "2043",
@@ -3923,8 +3954,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_155-2x.jpg",
-    "gameNo": "155",
-    "ename": "Falinks"
+    "ename": "Falinks",
+    "series": "SS8"
   },
   {
     "id": "2199",
@@ -3953,8 +3984,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_156-2x.jpg",
-    "gameNo": "156",
-    "ename": "Gengar V"
+    "ename": "Gengar V",
+    "series": "SS8"
   },
   {
     "id": "2200",
@@ -3983,8 +4014,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_157-2x.jpg",
-    "gameNo": "157",
-    "ename": "Gengar VMAX"
+    "ename": "Gengar VMAX",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/FST/FST_271_R_EN.png"
+    ],
+    "series": "SS8"
   },
   {
     "id": "2044",
@@ -4013,8 +4047,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_158-2x.jpg",
-    "gameNo": "158",
-    "ename": "Tyranitar V"
+    "ename": "Tyranitar V",
+    "series": "SS8"
   },
   {
     "id": "60",
@@ -4035,8 +4069,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_159-2x.jpg",
-    "gameNo": "159",
-    "ename": "Galarian Zigzagoon"
+    "ename": "Galarian Zigzagoon",
+    "series": "SS8"
   },
   {
     "id": "61",
@@ -4057,8 +4091,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_160-2x.jpg",
-    "gameNo": "160",
-    "ename": "Galarian Linoone"
+    "ename": "Galarian Linoone",
+    "series": "SS8"
   },
   {
     "id": "62",
@@ -4083,8 +4117,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_161-2x.jpg",
-    "gameNo": "161",
-    "ename": "Galarian Obstagoon"
+    "ename": "Galarian Obstagoon",
+    "series": "SS8"
   },
   {
     "id": "2045",
@@ -4105,8 +4139,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_162-2x.jpg",
-    "gameNo": "162",
-    "ename": "Carvanha"
+    "ename": "Carvanha",
+    "series": "SS8"
   },
   {
     "id": "2046",
@@ -4127,8 +4161,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_163-2x.jpg",
-    "gameNo": "163",
-    "ename": "Sharpedo"
+    "ename": "Sharpedo",
+    "series": "SS8"
   },
   {
     "id": "5894",
@@ -4153,8 +4187,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_164-2x.jpg",
-    "gameNo": "164",
-    "ename": "Absol"
+    "ename": "Absol",
+    "series": "SS8"
   },
   {
     "id": "5895",
@@ -4175,8 +4209,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_165-2x.jpg",
-    "gameNo": "165",
-    "ename": "Croagunk"
+    "ename": "Croagunk",
+    "series": "SS8"
   },
   {
     "id": "5896",
@@ -4201,8 +4235,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_166-2x.jpg",
-    "gameNo": "166",
-    "ename": "Toxicroak"
+    "ename": "Toxicroak",
+    "series": "SS8"
   },
   {
     "id": "5897",
@@ -4223,8 +4257,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_167-2x.jpg",
-    "gameNo": "167",
-    "ename": "Darkrai"
+    "ename": "Darkrai",
+    "series": "SS8"
   },
   {
     "id": "63",
@@ -4249,8 +4283,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_168-2x.jpg",
-    "gameNo": "168",
-    "ename": "Trubbish"
+    "ename": "Trubbish",
+    "series": "SS8"
   },
   {
     "id": "64",
@@ -4275,8 +4309,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_169-2x.jpg",
-    "gameNo": "169",
-    "ename": "Garbodor"
+    "ename": "Garbodor",
+    "series": "SS8"
   },
   {
     "id": "2048",
@@ -4301,8 +4335,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_170-2x.jpg",
-    "gameNo": "170",
-    "ename": "Zorua"
+    "ename": "Zorua",
+    "series": "SS8"
   },
   {
     "id": "2049",
@@ -4327,8 +4361,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_171-2x.jpg",
-    "gameNo": "171",
-    "ename": "Zoroark"
+    "ename": "Zoroark",
+    "series": "SS8"
   },
   {
     "id": "65",
@@ -4353,8 +4387,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_172-2x.jpg",
-    "gameNo": "172",
-    "ename": "Vullaby"
+    "ename": "Vullaby",
+    "series": "SS8"
   },
   {
     "id": "66",
@@ -4379,8 +4413,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_173-2x.jpg",
-    "gameNo": "173",
-    "ename": "Mandibuzz"
+    "ename": "Mandibuzz",
+    "series": "SS8"
   },
   {
     "id": "5911",
@@ -4405,8 +4439,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_174-2x.jpg",
-    "gameNo": "174",
-    "ename": "Pangoro"
+    "ename": "Pangoro",
+    "series": "SS8"
   },
   {
     "id": "5912",
@@ -4431,8 +4465,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_175-2x.jpg",
-    "gameNo": "175",
-    "ename": "Yveltal"
+    "ename": "Yveltal",
+    "series": "SS8"
   },
   {
     "id": "1783",
@@ -4453,8 +4487,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_176-2x.jpg",
-    "gameNo": "176",
-    "ename": "Impidimp"
+    "ename": "Impidimp",
+    "series": "SS8"
   },
   {
     "id": "1784",
@@ -4479,8 +4513,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_177-2x.jpg",
-    "gameNo": "177",
-    "ename": "Morgrem"
+    "ename": "Morgrem",
+    "series": "SS8"
   },
   {
     "id": "1785",
@@ -4505,8 +4539,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_178-2x.jpg",
-    "gameNo": "178",
-    "ename": "Grimmsnarl"
+    "ename": "Grimmsnarl",
+    "series": "SS8"
   },
   {
     "id": "2211",
@@ -4527,8 +4561,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_179-2x.jpg",
-    "gameNo": "179",
-    "ename": "Morpeko"
+    "ename": "Morpeko",
+    "series": "SS8"
   },
   {
     "id": "7551",
@@ -4557,8 +4591,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_53-2x.jpg",
-    "gameNo": "231",
-    "ename": "Hoopa V"
+    "ename": "Hoopa V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_253-2x.jpg"
+    ],
+    "series": "SS8"
   },
   {
     "id": "5918",
@@ -4583,8 +4620,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_180-2x.jpg",
-    "gameNo": "180",
-    "ename": "Galarian Meowth"
+    "ename": "Galarian Meowth",
+    "series": "SS8"
   },
   {
     "id": "5919",
@@ -4609,8 +4646,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_181-2x.jpg",
-    "gameNo": "181",
-    "ename": "Galarian Perrserker"
+    "ename": "Galarian Perrserker",
+    "series": "SS8"
   },
   {
     "id": "5921",
@@ -4635,8 +4672,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_182-2x.jpg",
-    "gameNo": "182",
-    "ename": "Skarmory"
+    "ename": "Skarmory",
+    "series": "SS8"
   },
   {
     "id": "68",
@@ -4661,8 +4698,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_183-2x.jpg",
-    "gameNo": "183",
-    "ename": "Excadrill"
+    "ename": "Excadrill",
+    "series": "SS8"
   },
   {
     "id": "69",
@@ -4683,8 +4720,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_184-2x.jpg",
-    "gameNo": "184",
-    "ename": "Durant"
+    "ename": "Durant",
+    "series": "SS8"
   },
   {
     "id": "70",
@@ -4713,8 +4750,12 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_185-2x.jpg",
-    "gameNo": "185",
-    "ename": "Genesect V"
+    "ename": "Genesect V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_254-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_255-2x.jpg"
+    ],
+    "series": "SS8"
   },
   {
     "id": "5934",
@@ -4735,8 +4776,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_186-2x.jpg",
-    "gameNo": "186",
-    "ename": "Klefki"
+    "ename": "Klefki",
+    "series": "SS8"
   },
   {
     "id": "71",
@@ -4761,8 +4802,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_187-2x.jpg",
-    "gameNo": "187",
-    "ename": "Togedemaru"
+    "ename": "Togedemaru",
+    "series": "SS8"
   },
   {
     "id": "72",
@@ -4787,8 +4828,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_188-2x.jpg",
-    "gameNo": "188",
-    "ename": "Meltan"
+    "ename": "Meltan",
+    "series": "SS8"
   },
   {
     "id": "73",
@@ -4813,8 +4854,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_189-2x.jpg",
-    "gameNo": "189",
-    "ename": "Melmetal"
+    "ename": "Melmetal",
+    "series": "SS8"
   },
   {
     "id": "74",
@@ -4839,8 +4880,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_190-2x.jpg",
-    "gameNo": "190",
-    "ename": "Corviknight"
+    "ename": "Corviknight",
+    "series": "SS8"
   },
   {
     "id": "5938",
@@ -4865,8 +4906,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_191-2x.jpg",
-    "gameNo": "191",
-    "ename": "Cufant"
+    "ename": "Cufant",
+    "series": "SS8"
   },
   {
     "id": "5939",
@@ -4891,8 +4932,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_192-2x.jpg",
-    "gameNo": "192",
-    "ename": "Copperajah"
+    "ename": "Copperajah",
+    "series": "SS8"
   },
   {
     "id": "75",
@@ -4917,11 +4958,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_193-2x.jpg",
-    "gameNo": "193",
     "ename": "Latias",
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_20-2x.jpg"
-    ]
+    ],
+    "series": "SS8"
   },
   {
     "id": "76",
@@ -4946,8 +4987,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_194-2x.jpg",
-    "gameNo": "194",
-    "ename": "Latios"
+    "ename": "Latios",
+    "series": "SS8"
   },
   {
     "id": "77",
@@ -4972,8 +5013,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_195-2x.jpg",
-    "gameNo": "195",
-    "ename": "Goomy"
+    "ename": "Goomy",
+    "series": "SS8"
   },
   {
     "id": "78",
@@ -4998,8 +5039,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_196-2x.jpg",
-    "gameNo": "196",
-    "ename": "Sliggoo"
+    "ename": "Sliggoo",
+    "series": "SS8"
   },
   {
     "id": "79",
@@ -5024,8 +5065,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_197-2x.jpg",
-    "gameNo": "197",
-    "ename": "Goodra"
+    "ename": "Goodra",
+    "series": "SS8"
   },
   {
     "id": "5950",
@@ -5050,8 +5091,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_198-2x.jpg",
-    "gameNo": "198",
-    "ename": "Turtonator"
+    "ename": "Turtonator",
+    "series": "SS8"
   },
   {
     "id": "5957",
@@ -5072,8 +5113,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_199-2x.jpg",
-    "gameNo": "199",
-    "ename": "Meowth"
+    "ename": "Meowth",
+    "series": "SS8"
   },
   {
     "id": "5958",
@@ -5098,8 +5139,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_200-2x.jpg",
-    "gameNo": "200",
-    "ename": "Persian"
+    "ename": "Persian",
+    "series": "SS8"
   },
   {
     "id": "5549",
@@ -5128,8 +5169,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_201-2x.jpg",
-    "gameNo": "201",
-    "ename": "Dodrio V"
+    "ename": "Dodrio V",
+    "series": "SS8"
   },
   {
     "id": "5959",
@@ -5154,8 +5195,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_202-2x.jpg",
-    "gameNo": "202",
-    "ename": "Chansey"
+    "ename": "Chansey",
+    "series": "SS8"
   },
   {
     "id": "5960",
@@ -5180,8 +5221,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_203-2x.jpg",
-    "gameNo": "203",
-    "ename": "Blissey"
+    "ename": "Blissey",
+    "series": "SS8"
   },
   {
     "id": "5962",
@@ -5206,8 +5247,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_204-2x.jpg",
-    "gameNo": "204",
-    "ename": "Kangaskhan"
+    "ename": "Kangaskhan",
+    "series": "SS8"
   },
   {
     "id": "5964",
@@ -5228,8 +5269,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_205-2x.jpg",
-    "gameNo": "205",
-    "ename": "Eevee"
+    "ename": "Eevee",
+    "series": "SS8"
   },
   {
     "id": "5968",
@@ -5250,8 +5291,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_206-2x.jpg",
-    "gameNo": "206",
-    "ename": "Snorlax"
+    "ename": "Snorlax",
+    "series": "SS8"
   },
   {
     "id": "80",
@@ -5276,11 +5317,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_207-2x.jpg",
-    "gameNo": "207",
     "ename": "Dunsparce",
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_23-2x.jpg"
-    ]
+    ],
+    "series": "SS8"
   },
   {
     "id": "5970",
@@ -5305,8 +5346,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_208-2x.jpg",
-    "gameNo": "208",
-    "ename": "Stantler"
+    "ename": "Stantler",
+    "series": "SS8"
   },
   {
     "id": "81",
@@ -5331,8 +5372,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_209-2x.jpg",
-    "gameNo": "209",
-    "ename": "Smeargle"
+    "ename": "Smeargle",
+    "series": "SS8"
   },
   {
     "id": "82",
@@ -5353,8 +5394,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_210-2x.jpg",
-    "gameNo": "210",
-    "ename": "Skitty"
+    "ename": "Skitty",
+    "series": "SS8"
   },
   {
     "id": "83",
@@ -5379,8 +5420,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_211-2x.jpg",
-    "gameNo": "211",
-    "ename": "Delcatty"
+    "ename": "Delcatty",
+    "series": "SS8"
   },
   {
     "id": "2224",
@@ -5401,8 +5442,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_212-2x.jpg",
-    "gameNo": "212",
-    "ename": "Buneary"
+    "ename": "Buneary",
+    "series": "SS8"
   },
   {
     "id": "2225",
@@ -5423,8 +5464,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_213-2x.jpg",
-    "gameNo": "213",
-    "ename": "Lopunny"
+    "ename": "Lopunny",
+    "series": "SS8"
   },
   {
     "id": "84",
@@ -5449,8 +5490,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_214-2x.jpg",
-    "gameNo": "214",
-    "ename": "Bunnelby"
+    "ename": "Bunnelby",
+    "series": "SS8"
   },
   {
     "id": "85",
@@ -5475,8 +5516,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_215-2x.jpg",
-    "gameNo": "215",
-    "ename": "Diggersby"
+    "ename": "Diggersby",
+    "series": "SS8"
   },
   {
     "id": "2226",
@@ -5497,8 +5538,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_216-2x.jpg",
-    "gameNo": "216",
-    "ename": "Hawlucha"
+    "ename": "Hawlucha",
+    "series": "SS8"
   },
   {
     "id": "86",
@@ -5527,8 +5568,12 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_217-2x.jpg",
-    "gameNo": "217",
-    "ename": "Greedent V"
+    "ename": "Greedent V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_256-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_257-2x.jpg"
+    ],
+    "series": "SS8"
   },
   {
     "id": "87",
@@ -5557,8 +5602,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_218-2x.jpg",
-    "gameNo": "218",
-    "ename": "Greedent VMAX"
+    "ename": "Greedent VMAX",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/FST/FST_272_R_EN.png"
+    ],
+    "series": "SS8"
   },
   {
     "id": "88",
@@ -5579,8 +5627,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_219-2x.jpg",
-    "gameNo": "219",
-    "ename": "Rookidee"
+    "ename": "Rookidee",
+    "series": "SS8"
   },
   {
     "id": "89",
@@ -5601,8 +5649,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_220-2x.jpg",
-    "gameNo": "220",
-    "ename": "Corvisquire"
+    "ename": "Corvisquire",
+    "series": "SS8"
   },
   {
     "id": "5988",
@@ -5627,8 +5675,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_221-2x.jpg",
-    "gameNo": "221",
-    "ename": "Wooloo"
+    "ename": "Wooloo",
+    "series": "SS8"
   },
   {
     "id": "2052",
@@ -5649,8 +5697,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_222-2x.jpg",
-    "gameNo": "222",
-    "ename": "Wooloo"
+    "ename": "Wooloo",
+    "series": "SS8"
   },
   {
     "id": "865",
@@ -5675,8 +5723,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_223-2x.jpg",
-    "gameNo": "223",
-    "ename": "Dubwool"
+    "ename": "Dubwool",
+    "series": "SS8"
   },
   {
     "id": "100",
@@ -5695,8 +5743,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_242-2x.jpg",
-    "gameNo": "242",
-    "ename": "Skaters' Park"
+    "ename": "Skaters' Park",
+    "series": "SS8"
   },
   {
     "id": "2252",
@@ -5715,8 +5763,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_224-2x.jpg",
-    "gameNo": "224",
-    "ename": "Adventurer's Discovery"
+    "ename": "Adventurer's Discovery",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_TG_23-2x.jpg"
+    ],
+    "series": "SS8"
   },
   {
     "id": "2066",
@@ -5735,8 +5786,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_226-2x.jpg",
-    "gameNo": "226",
-    "ename": "Bug Catcher"
+    "ename": "Bug Catcher",
+    "series": "SS8"
   },
   {
     "id": "99",
@@ -5755,8 +5806,12 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_227-2x.jpg",
-    "gameNo": "227",
-    "ename": "Chili & Cilan & Cress"
+    "ename": "Chili & Cilan & Cress",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_258-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/FST/FST_273_R_EN.png"
+    ],
+    "series": "SS8"
   },
   {
     "id": "6019",
@@ -5775,8 +5830,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_228-2x.jpg",
-    "gameNo": "228",
-    "ename": "Cook"
+    "ename": "Cook",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_TG_25-2x.jpg"
+    ],
+    "series": "SS8"
   },
   {
     "id": "98",
@@ -5795,8 +5853,12 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_232-2x.jpg",
-    "gameNo": "232",
-    "ename": "Dancer"
+    "ename": "Dancer",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_259-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/FST/FST_274_R_EN.png"
+    ],
+    "series": "SS8"
   },
   {
     "id": "97",
@@ -5815,11 +5877,13 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_233-2x.jpg",
-    "gameNo": "233",
     "ename": "Elesa's Sparkle",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_147-2x.jpg"
-    ]
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_147-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_260-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/FST/FST_275_R_EN.png"
+    ],
+    "series": "SS8"
   },
   {
     "id": "6024",
@@ -5838,11 +5902,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_235-2x.jpg",
-    "gameNo": "235",
     "ename": "Judge",
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_25-2x.jpg"
-    ]
+    ],
+    "series": "SS8"
   },
   {
     "id": "6027",
@@ -5861,8 +5925,12 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_238-2x.jpg",
-    "gameNo": "238",
-    "ename": "Schoolboy"
+    "ename": "Schoolboy",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_261-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/FST/FST_276_R_EN.png"
+    ],
+    "series": "SS8"
   },
   {
     "id": "6026",
@@ -5881,8 +5949,12 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_239-2x.jpg",
-    "gameNo": "239",
-    "ename": "Schoolgirl"
+    "ename": "Schoolgirl",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_262-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/FST/FST_277_R_EN.png"
+    ],
+    "series": "SS8"
   },
   {
     "id": "6021",
@@ -5901,8 +5973,12 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_240-2x.jpg",
-    "gameNo": "240",
-    "ename": "Shauna"
+    "ename": "Shauna",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_263-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/FST/FST_278_R_EN.png"
+    ],
+    "series": "SS8"
   },
   {
     "id": "96",
@@ -5921,8 +5997,12 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_241-2x.jpg",
-    "gameNo": "241",
-    "ename": "Sidney"
+    "ename": "Sidney",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_264-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/FST/FST_279_R_EN.png"
+    ],
+    "series": "SS8"
   },
   {
     "id": "95",
@@ -5945,8 +6025,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_234-2x.jpg",
-    "gameNo": "234",
-    "ename": "Farewell Bell"
+    "ename": "Farewell Bell",
+    "series": "SS8"
   },
   {
     "id": "94",
@@ -5969,8 +6049,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_243-2x.jpg",
-    "gameNo": "243",
-    "ename": "Spongy Gloves"
+    "ename": "Spongy Gloves",
+    "series": "SS8"
   },
   {
     "id": "92",
@@ -5989,8 +6069,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_225-2x.jpg",
-    "gameNo": "225",
-    "ename": "Battle VIP Pass"
+    "ename": "Battle VIP Pass",
+    "series": "SS8"
   },
   {
     "id": "5576",
@@ -6009,8 +6089,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_229-2x.jpg",
-    "gameNo": "229",
-    "ename": "Cram-o-matic"
+    "ename": "Cram-o-matic",
+    "series": "SS8"
   },
   {
     "id": "91",
@@ -6029,8 +6109,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_230-2x.jpg",
-    "gameNo": "230",
-    "ename": "Cross Switcher"
+    "ename": "Cross Switcher",
+    "series": "SS8"
   },
   {
     "id": "90",
@@ -6049,8 +6129,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_231-2x.jpg",
-    "gameNo": "231",
-    "ename": "Crossceiver"
+    "ename": "Crossceiver",
+    "series": "SS8"
   },
   {
     "id": "93",
@@ -6069,8 +6149,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_236-2x.jpg",
-    "gameNo": "236",
-    "ename": "Power Tablet"
+    "ename": "Power Tablet",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/FST/FST_281_R_EN.png"
+    ],
+    "series": "SS8"
   },
   {
     "id": "101",
@@ -6085,7 +6168,7 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_244-2x.jpg",
-    "gameNo": "243",
-    "ename": "Spongy Gloves"
+    "ename": "Spongy Gloves",
+    "series": "SS8"
   }
 ]

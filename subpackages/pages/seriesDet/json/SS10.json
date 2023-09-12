@@ -26,8 +26,12 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_1-2x.jpg",
-    "gameNo": "001",
-    "ename": "Beedrill V"
+    "ename": "Beedrill V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_160-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_161-2x.jpg"
+    ],
+    "series": "SS10"
   },
   {
     "id": "6301",
@@ -52,11 +56,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_2-2x.jpg",
-    "gameNo": "002",
     "ename": "Hisuian Voltorb",
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_1-2x.jpg"
-    ]
+    ],
+    "series": "SS10"
   },
   {
     "id": "6302",
@@ -81,8 +85,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_3-2x.jpg",
-    "gameNo": "003",
-    "ename": "Hisuian Electrode"
+    "ename": "Hisuian Electrode",
+    "series": "SS10"
   },
   {
     "id": "6186",
@@ -103,8 +107,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_4-2x.jpg",
-    "gameNo": "004",
-    "ename": "Scyther"
+    "ename": "Scyther",
+    "series": "SS10"
   },
   {
     "id": "6055",
@@ -125,8 +129,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_5-2x.jpg",
-    "gameNo": "005",
-    "ename": "Scyther"
+    "ename": "Scyther",
+    "series": "SS10"
   },
   {
     "id": "6233",
@@ -147,8 +151,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_6-2x.jpg",
-    "gameNo": "006",
-    "ename": "Yanma"
+    "ename": "Yanma",
+    "series": "SS10"
   },
   {
     "id": "6234",
@@ -173,8 +177,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_7-2x.jpg",
-    "gameNo": "007",
-    "ename": "Yanmega"
+    "ename": "Yanmega",
+    "series": "SS10"
   },
   {
     "id": "6056",
@@ -199,8 +203,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_8-2x.jpg",
-    "gameNo": "008",
-    "ename": "Heracross"
+    "ename": "Heracross",
+    "series": "SS10"
   },
   {
     "id": "6303",
@@ -221,8 +225,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_9-2x.jpg",
-    "gameNo": "009",
-    "ename": "Kricketot"
+    "ename": "Kricketot",
+    "series": "SS10"
   },
   {
     "id": "6304",
@@ -247,11 +251,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_10-2x.jpg",
-    "gameNo": "010",
     "ename": "Kricketune",
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_2-2x.jpg"
-    ]
+    ],
+    "series": "SS10"
   },
   {
     "id": "6059",
@@ -276,8 +280,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_11-2x.jpg",
-    "gameNo": "011",
-    "ename": "Combee"
+    "ename": "Combee",
+    "series": "SS10"
   },
   {
     "id": "6060",
@@ -302,8 +306,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_12-2x.jpg",
-    "gameNo": "012",
-    "ename": "Vespiquen"
+    "ename": "Vespiquen",
+    "series": "SS10"
   },
   {
     "id": "6235",
@@ -328,8 +332,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_13-2x.jpg",
-    "gameNo": "013",
-    "ename": "Leafeon"
+    "ename": "Leafeon",
+    "series": "SS10"
   },
   {
     "id": "6236",
@@ -354,8 +358,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_14-2x.jpg",
-    "gameNo": "014",
-    "ename": "Shaymin"
+    "ename": "Shaymin",
+    "series": "SS10"
   },
   {
     "id": "6237",
@@ -376,8 +380,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_15-2x.jpg",
-    "gameNo": "015",
-    "ename": "Petilil"
+    "ename": "Petilil",
+    "series": "SS10"
   },
   {
     "id": "6238",
@@ -402,8 +406,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_16-2x.jpg",
-    "gameNo": "016",
-    "ename": "Hisuian Lilligant"
+    "ename": "Hisuian Lilligant",
+    "series": "SS10"
   },
   {
     "id": "6239",
@@ -432,8 +436,12 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_17-2x.jpg",
-    "gameNo": "017",
-    "ename": "Hisuian Lilligant V"
+    "ename": "Hisuian Lilligant V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_162-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_163-2x.jpg"
+    ],
+    "series": "SS10"
   },
   {
     "id": "6240",
@@ -462,8 +470,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_18-2x.jpg",
-    "gameNo": "018",
-    "ename": "Hisuian Lilligant VSTAR"
+    "ename": "Hisuian Lilligant VSTAR",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_190_R_EN.png"
+    ],
+    "series": "SS10"
   },
   {
     "id": "6305",
@@ -484,8 +495,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_19-2x.jpg",
-    "gameNo": "019",
-    "ename": "Rowlet"
+    "ename": "Rowlet",
+    "series": "SS10"
   },
   {
     "id": "6306",
@@ -510,8 +521,38 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_20-2x.jpg",
-    "gameNo": "020",
-    "ename": "Dartrix"
+    "ename": "Dartrix",
+    "series": "SS10"
+  },
+  {
+    "id": "6061",
+    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6061/",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006061.png",
+    "extraInformation": [
+      "",
+      "",
+      ""
+    ],
+    "typeEnergy": "Grass",
+    "type": "Pokemon",
+    "cardName": "毕力吉翁V",
+    "skillList": [
+      {
+        "name": "[特性]春草之风",
+        "effect": "只要这隻宝可梦在场上，自己的所有身上附有【草】能量的宝可梦不会陷入特殊状态，并将受到的特殊状态全部恢复。"
+      },
+      {
+        "name": "绿宝石利刃",
+        "effect": "在下个自己的回合，这隻宝可梦无法使用招式。"
+      },
+      {
+        "name": "[V规则]",
+        "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_164-2x.jpg",
+    "ename": "Virizion V",
+    "series": "SS10"
   },
   {
     "id": "6310",
@@ -532,8 +573,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_21-2x.jpg",
-    "gameNo": "021",
-    "ename": "Ponyta"
+    "ename": "Ponyta",
+    "series": "SS10"
   },
   {
     "id": "6311",
@@ -558,8 +599,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_22-2x.jpg",
-    "gameNo": "022",
-    "ename": "Rapidash"
+    "ename": "Rapidash",
+    "series": "SS10"
   },
   {
     "id": "6241",
@@ -584,8 +625,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_23-2x.jpg",
-    "gameNo": "023",
-    "ename": "Cyndaquil"
+    "ename": "Cyndaquil",
+    "series": "SS10"
   },
   {
     "id": "6242",
@@ -610,8 +651,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_24-2x.jpg",
-    "gameNo": "024",
-    "ename": "Quilava"
+    "ename": "Quilava",
+    "series": "SS10"
   },
   {
     "id": "6313",
@@ -640,8 +681,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_25-2x.jpg",
-    "gameNo": "025",
-    "ename": "Heatran V"
+    "ename": "Heatran V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_165-2x.jpg"
+    ],
+    "series": "SS10"
   },
   {
     "id": "6314",
@@ -670,8 +714,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_26-2x.jpg",
-    "gameNo": "026",
-    "ename": "Heatran VMAX"
+    "ename": "Heatran VMAX",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_191_R_EN.png"
+    ],
+    "series": "SS10"
   },
   {
     "id": "6116",
@@ -696,8 +743,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_27-2x.jpg",
-    "gameNo": "027",
-    "ename": "Radiant Heatran"
+    "ename": "Radiant Heatran",
+    "series": "SS10"
   },
   {
     "id": "6315",
@@ -722,8 +769,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_28-2x.jpg",
-    "gameNo": "028",
-    "ename": "Psyduck"
+    "ename": "Psyduck",
+    "series": "SS10"
   },
   {
     "id": "6316",
@@ -748,8 +795,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_29-2x.jpg",
-    "gameNo": "029",
-    "ename": "Golduck"
+    "ename": "Golduck",
+    "series": "SS10"
   },
   {
     "id": "6067",
@@ -778,8 +825,12 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_30-2x.jpg",
-    "gameNo": "030",
-    "ename": "Starmie V"
+    "ename": "Starmie V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_166-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_TG_13-2x.jpg"
+    ],
+    "series": "SS10"
   },
   {
     "id": "6068",
@@ -804,8 +855,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_31-2x.jpg",
-    "gameNo": "031",
-    "ename": "Swinub"
+    "ename": "Swinub",
+    "series": "SS10"
   },
   {
     "id": "6069",
@@ -830,8 +881,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_32-2x.jpg",
-    "gameNo": "032",
-    "ename": "Piloswine"
+    "ename": "Piloswine",
+    "series": "SS10"
   },
   {
     "id": "6070",
@@ -856,8 +907,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_33-2x.jpg",
-    "gameNo": "033",
-    "ename": "Mamoswine"
+    "ename": "Mamoswine",
+    "series": "SS10"
   },
   {
     "id": "6246",
@@ -882,8 +933,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_34-2x.jpg",
-    "gameNo": "034",
-    "ename": "Mantine"
+    "ename": "Mantine",
+    "series": "SS10"
   },
   {
     "id": "6071",
@@ -904,8 +955,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_35-2x.jpg",
-    "gameNo": "035",
-    "ename": "Barboach"
+    "ename": "Barboach",
+    "series": "SS10"
   },
   {
     "id": "6072",
@@ -930,8 +981,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_36-2x.jpg",
-    "gameNo": "036",
-    "ename": "Whiscash"
+    "ename": "Whiscash",
+    "series": "SS10"
   },
   {
     "id": "6318",
@@ -956,8 +1007,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_37-2x.jpg",
-    "gameNo": "037",
-    "ename": "Regice"
+    "ename": "Regice",
+    "series": "SS10"
   },
   {
     "id": "6320",
@@ -982,8 +1033,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_38-2x.jpg",
-    "gameNo": "038",
-    "ename": "Glaceon"
+    "ename": "Glaceon",
+    "series": "SS10"
   },
   {
     "id": "6321",
@@ -1012,8 +1063,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_39-2x.jpg",
-    "gameNo": "039",
-    "ename": "Origin Forme Palkia V"
+    "ename": "Origin Forme Palkia V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_167-2x.jpg"
+    ],
+    "series": "SS10"
   },
   {
     "id": "6322",
@@ -1042,11 +1096,13 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_40-2x.jpg",
-    "gameNo": "040",
     "ename": "Origin Forme Palkia VSTAR",
     "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_GG67_R_EN.png"
-    ]
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_GG67_R_EN.png",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_192_R_EN.png",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_208_R_EN.png"
+    ],
+    "series": "SS10"
   },
   {
     "id": "6247",
@@ -1067,8 +1123,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_41-2x.jpg",
-    "gameNo": "041",
-    "ename": "Oshawott"
+    "ename": "Oshawott",
+    "series": "SS10"
   },
   {
     "id": "6248",
@@ -1089,8 +1145,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_42-2x.jpg",
-    "gameNo": "042",
-    "ename": "Dewott"
+    "ename": "Dewott",
+    "series": "SS10"
   },
   {
     "id": "6073",
@@ -1115,8 +1171,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_43-2x.jpg",
-    "gameNo": "043",
-    "ename": "Hisuian Basculin"
+    "ename": "Hisuian Basculin",
+    "series": "SS10"
   },
   {
     "id": "6074",
@@ -1141,8 +1197,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_44-2x.jpg",
-    "gameNo": "044",
-    "ename": "Hisuian Basculegion"
+    "ename": "Hisuian Basculegion",
+    "series": "SS10"
   },
   {
     "id": "6075",
@@ -1167,11 +1223,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_45-2x.jpg",
-    "gameNo": "045",
     "ename": "Keldeo",
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_7-2x.jpg"
-    ]
+    ],
+    "series": "SS10"
   },
   {
     "id": "6117",
@@ -1200,8 +1256,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_46-2x.jpg",
-    "gameNo": "046",
-    "ename": "Radiant Greninja"
+    "ename": "Radiant Greninja",
+    "series": "SS10"
   },
   {
     "id": "6323",
@@ -1222,8 +1278,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_47-2x.jpg",
-    "gameNo": "047",
-    "ename": "Bergmite"
+    "ename": "Bergmite",
+    "series": "SS10"
   },
   {
     "id": "6324",
@@ -1248,8 +1304,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_48-2x.jpg",
-    "gameNo": "048",
-    "ename": "Hisuian Avalugg"
+    "ename": "Hisuian Avalugg",
+    "series": "SS10"
   },
   {
     "id": "5591",
@@ -1278,8 +1334,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_49-2x.jpg",
-    "gameNo": "049",
-    "ename": "Galarian Mr. Rime V"
+    "ename": "Galarian Mr. Rime V",
+    "series": "SS10"
   },
   {
     "id": "6253",
@@ -1308,8 +1364,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_50-2x.jpg",
-    "gameNo": "050",
-    "ename": "Luxray V"
+    "ename": "Luxray V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_168-2x.jpg"
+    ],
+    "series": "SS10"
   },
   {
     "id": "6254",
@@ -1334,8 +1393,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_51-2x.jpg",
-    "gameNo": "051",
-    "ename": "Regieleki"
+    "ename": "Regieleki",
+    "series": "SS10"
   },
   {
     "id": "6255",
@@ -1360,8 +1419,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_52-2x.jpg",
-    "gameNo": "052",
-    "ename": "Hisuian Typhlosion"
+    "ename": "Hisuian Typhlosion",
+    "series": "SS10"
   },
   {
     "id": "6077",
@@ -1390,8 +1449,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_53-2x.jpg",
-    "gameNo": "053",
-    "ename": "Hisuian Typhlosion V"
+    "ename": "Hisuian Typhlosion V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_169-2x.jpg"
+    ],
+    "series": "SS10"
   },
   {
     "id": "6078",
@@ -1420,8 +1482,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_54-2x.jpg",
-    "gameNo": "054",
-    "ename": "Hisuian Typhlosion VSTAR"
+    "ename": "Hisuian Typhlosion VSTAR",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_193_R_EN.png"
+    ],
+    "series": "SS10"
   },
   {
     "id": "6325",
@@ -1446,8 +1511,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_55-2x.jpg",
-    "gameNo": "055",
-    "ename": "Togepi"
+    "ename": "Togepi",
+    "series": "SS10"
   },
   {
     "id": "6326",
@@ -1472,8 +1537,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_56-2x.jpg",
-    "gameNo": "056",
-    "ename": "Togetic"
+    "ename": "Togetic",
+    "series": "SS10"
   },
   {
     "id": "6327",
@@ -1498,8 +1563,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_57-2x.jpg",
-    "gameNo": "057",
-    "ename": "Togekiss"
+    "ename": "Togekiss",
+    "series": "SS10"
   },
   {
     "id": "6079",
@@ -1520,8 +1585,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_58-2x.jpg",
-    "gameNo": "058",
-    "ename": "Misdreavus"
+    "ename": "Misdreavus",
+    "series": "SS10"
   },
   {
     "id": "6080",
@@ -1546,8 +1611,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_59-2x.jpg",
-    "gameNo": "059",
-    "ename": "Mismagius"
+    "ename": "Mismagius",
+    "series": "SS10"
   },
   {
     "id": "6081",
@@ -1568,8 +1633,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_60-2x.jpg",
-    "gameNo": "060",
-    "ename": "Ralts"
+    "ename": "Ralts",
+    "series": "SS10"
   },
   {
     "id": "6082",
@@ -1590,8 +1655,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_61-2x.jpg",
-    "gameNo": "061",
-    "ename": "Kirlia"
+    "ename": "Kirlia",
+    "series": "SS10"
   },
   {
     "id": "6083",
@@ -1616,8 +1681,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_62-2x.jpg",
-    "gameNo": "062",
-    "ename": "Gallade"
+    "ename": "Gallade",
+    "series": "SS10"
   },
   {
     "id": "6258",
@@ -1638,8 +1703,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_63-2x.jpg",
-    "gameNo": "063",
-    "ename": "Drifloon"
+    "ename": "Drifloon",
+    "series": "SS10"
   },
   {
     "id": "6259",
@@ -1660,8 +1725,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_64-2x.jpg",
-    "gameNo": "064",
-    "ename": "Drifblim"
+    "ename": "Drifblim",
+    "series": "SS10"
   },
   {
     "id": "6328",
@@ -1686,8 +1751,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_65-2x.jpg",
-    "gameNo": "065",
-    "ename": "Uxie"
+    "ename": "Uxie",
+    "series": "SS10"
   },
   {
     "id": "6329",
@@ -1712,8 +1777,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_66-2x.jpg",
-    "gameNo": "066",
-    "ename": "Mesprit"
+    "ename": "Mesprit",
+    "series": "SS10"
   },
   {
     "id": "6330",
@@ -1734,8 +1799,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_67-2x.jpg",
-    "gameNo": "067",
-    "ename": "Azelf"
+    "ename": "Azelf",
+    "series": "SS10"
   },
   {
     "id": "6084",
@@ -1760,11 +1825,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_68-2x.jpg",
-    "gameNo": "068",
     "ename": "Diancie",
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_13-2x.jpg"
-    ]
+    ],
+    "series": "SS10"
   },
   {
     "id": "6085",
@@ -1789,8 +1854,41 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_69-2x.jpg",
-    "gameNo": "069",
-    "ename": "Wyrdeer"
+    "ename": "Wyrdeer",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_TG_6-2x.jpg"
+    ],
+    "series": "SS10"
+  },
+  {
+    "id": "6257",
+    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6257/",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006257.png",
+    "extraInformation": [
+      "",
+      "",
+      ""
+    ],
+    "typeEnergy": "Psychic",
+    "type": "Pokemon",
+    "cardName": "基拉祈V",
+    "skillList": [
+      {
+        "name": "[特性]许愿之桥",
+        "effect": "每次当自己的【基础】宝可梦的「宝可梦【V】」受到对手的宝可梦招式的伤害而【气绝】时，可使用1次。选择1张【气绝】的宝可梦身上附加的基本能量卡，改附于自己的其他宝可梦身上。"
+      },
+      {
+        "name": "催眠强袭",
+        "effect": "将双方的战斗宝可梦【睡眠】。"
+      },
+      {
+        "name": "[V规则]",
+        "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_170-2x.jpg",
+    "ename": "Jirachi V",
+    "series": "SS10"
   },
   {
     "id": "6261",
@@ -1815,8 +1913,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_70-2x.jpg",
-    "gameNo": "070",
-    "ename": "Hisuian Growlithe"
+    "ename": "Hisuian Growlithe",
+    "series": "SS10"
   },
   {
     "id": "6262",
@@ -1841,8 +1939,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_71-2x.jpg",
-    "gameNo": "071",
-    "ename": "Hisuian Arcanine"
+    "ename": "Hisuian Arcanine",
+    "series": "SS10"
   },
   {
     "id": "6264",
@@ -1871,8 +1969,12 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_72-2x.jpg",
-    "gameNo": "072",
-    "ename": "Machamp V"
+    "ename": "Machamp V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_171-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_172-2x.jpg"
+    ],
+    "series": "SS10"
   },
   {
     "id": "6265",
@@ -1901,8 +2003,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_73-2x.jpg",
-    "gameNo": "073",
-    "ename": "Machamp VMAX"
+    "ename": "Machamp VMAX",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_194_R_EN.png"
+    ],
+    "series": "SS10"
   },
   {
     "id": "6266",
@@ -1927,8 +2032,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_74-2x.jpg",
-    "gameNo": "074",
-    "ename": "Sudowoodo"
+    "ename": "Sudowoodo",
+    "series": "SS10"
   },
   {
     "id": "6335",
@@ -1953,8 +2058,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_75-2x.jpg",
-    "gameNo": "075",
-    "ename": "Regirock"
+    "ename": "Regirock",
+    "series": "SS10"
   },
   {
     "id": "6267",
@@ -1979,8 +2084,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_76-2x.jpg",
-    "gameNo": "076",
-    "ename": "Cranidos"
+    "ename": "Cranidos",
+    "series": "SS10"
   },
   {
     "id": "6268",
@@ -2005,8 +2110,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_77-2x.jpg",
-    "gameNo": "077",
-    "ename": "Rampardos"
+    "ename": "Rampardos",
+    "series": "SS10"
   },
   {
     "id": "6189",
@@ -2035,8 +2140,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_78-2x.jpg",
-    "gameNo": "078",
-    "ename": "Lucario V"
+    "ename": "Lucario V",
+    "series": "SS10"
   },
   {
     "id": "6090",
@@ -2061,8 +2166,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_79-2x.jpg",
-    "gameNo": "079",
-    "ename": "Hippopotas"
+    "ename": "Hippopotas",
+    "series": "SS10"
   },
   {
     "id": "6091",
@@ -2087,8 +2192,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_80-2x.jpg",
-    "gameNo": "080",
-    "ename": "Hippowdon"
+    "ename": "Hippowdon",
+    "series": "SS10"
   },
   {
     "id": "6118",
@@ -2117,8 +2222,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_81-2x.jpg",
-    "gameNo": "081",
-    "ename": "Radiant Hawlucha"
+    "ename": "Radiant Hawlucha",
+    "series": "SS10"
   },
   {
     "id": "6338",
@@ -2143,8 +2248,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_82-2x.jpg",
-    "gameNo": "082",
-    "ename": "Hisuian Decidueye"
+    "ename": "Hisuian Decidueye",
+    "series": "SS10"
   },
   {
     "id": "6092",
@@ -2173,8 +2278,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_83-2x.jpg",
-    "gameNo": "083",
-    "ename": "Hisuian Decidueye V"
+    "ename": "Hisuian Decidueye V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_173-2x.jpg"
+    ],
+    "series": "SS10"
   },
   {
     "id": "6093",
@@ -2203,8 +2311,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_84-2x.jpg",
-    "gameNo": "084",
-    "ename": "Hisuian Decidueye VSTAR"
+    "ename": "Hisuian Decidueye VSTAR",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_195_R_EN.png"
+    ],
+    "series": "SS10"
   },
   {
     "id": "6194",
@@ -2229,8 +2340,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_85-2x.jpg",
-    "gameNo": "085",
-    "ename": "Kleavor"
+    "ename": "Kleavor",
+    "series": "SS10"
   },
   {
     "id": "6094",
@@ -2255,8 +2366,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_86-2x.jpg",
-    "gameNo": "086",
-    "ename": "Kleavor"
+    "ename": "Kleavor",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_TG_8-2x.jpg"
+    ],
+    "series": "SS10"
   },
   {
     "id": "6339",
@@ -2285,8 +2399,41 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_87-2x.jpg",
-    "gameNo": "087",
-    "ename": "Kleavor V"
+    "ename": "Kleavor V",
+    "series": "SS10"
+  },
+  {
+    "id": "6340",
+    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6340/",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006340.png",
+    "extraInformation": [
+      "",
+      "",
+      ""
+    ],
+    "typeEnergy": "Fighting",
+    "type": "Pokemon",
+    "cardName": "劈斧螳螂VSTAR",
+    "skillList": [
+      {
+        "name": "破坏斧",
+        "effect": "对手的备战区的1隻「宝可梦【V】」也受到60点伤害。[在备战区不计算弱点・抵抗力。]"
+      },
+      {
+        "name": "[VSTAR力量]乱暴星星",
+        "effect": "造成自己的弃牌区的宝可梦卡的张数×30点伤害。[对战中，己方只可使用1次【VSTAR】力量。]"
+      },
+      {
+        "name": "[VSTAR规则]",
+        "effect": "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SSP/SSP_249_R_EN.png",
+    "ename": "Kleavor V",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_196_R_EN_SM.png"
+    ],
+    "series": "SS10"
   },
   {
     "id": "6211",
@@ -2311,8 +2458,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_88-2x.jpg",
-    "gameNo": "088",
-    "ename": "Hisuian Qwilfish"
+    "ename": "Hisuian Qwilfish",
+    "series": "SS10"
   },
   {
     "id": "6095",
@@ -2333,8 +2480,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_89-2x.jpg",
-    "gameNo": "089",
-    "ename": "Hisuian Qwilfish"
+    "ename": "Hisuian Qwilfish",
+    "series": "SS10"
   },
   {
     "id": "6096",
@@ -2347,7 +2494,7 @@
     ],
     "typeEnergy": "Darkness",
     "type": "Pokemon",
-    "cardName": "洗翠　万针鱼",
+    "cardName": "洗翠 万针鱼",
     "skillList": [
       {
         "name": "剧痛毒",
@@ -2359,8 +2506,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_90-2x.jpg",
-    "gameNo": "090",
-    "ename": "Hisuian Overqwil"
+    "ename": "Hisuian Overqwil",
+    "series": "SS10"
   },
   {
     "id": "6212",
@@ -2373,7 +2520,7 @@
     ],
     "typeEnergy": "Darkness",
     "type": "Pokemon",
-    "cardName": "洗翠　万针鱼",
+    "cardName": "洗翠 万针鱼",
     "skillList": [
       {
         "name": "恶劣压制",
@@ -2385,8 +2532,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_91-2x.jpg",
-    "gameNo": "091",
-    "ename": "Hisuian Overqwil"
+    "ename": "Hisuian Overqwil",
+    "series": "SS10"
   },
   {
     "id": "6341",
@@ -2411,8 +2558,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_92-2x.jpg",
-    "gameNo": "092",
-    "ename": "Hisuian Sneasel"
+    "ename": "Hisuian Sneasel",
+    "series": "SS10"
   },
   {
     "id": "6342",
@@ -2437,8 +2584,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_93-2x.jpg",
-    "gameNo": "093",
-    "ename": "Hisuian Sneasler"
+    "ename": "Hisuian Sneasler",
+    "series": "SS10"
   },
   {
     "id": "6343",
@@ -2467,8 +2614,12 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_94-2x.jpg",
-    "gameNo": "094",
-    "ename": "Hisuian Sneasler V"
+    "ename": "Hisuian Sneasler V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_174-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_175-2x.jpg"
+    ],
+    "series": "SS10"
   },
   {
     "id": "6097",
@@ -2493,11 +2644,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_95-2x.jpg",
-    "gameNo": "095",
     "ename": "Poochyena",
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_33-2x.jpg"
-    ]
+    ],
+    "series": "SS10"
   },
   {
     "id": "6098",
@@ -2522,8 +2673,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_96-2x.jpg",
-    "gameNo": "096",
-    "ename": "Mightyena"
+    "ename": "Mightyena",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_TG_9-2x.jpg"
+    ],
+    "series": "SS10"
   },
   {
     "id": "6099",
@@ -2548,11 +2702,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_97-2x.jpg",
-    "gameNo": "097",
     "ename": "Absol",
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_16-2x.jpg"
-    ]
+    ],
+    "series": "SS10"
   },
   {
     "id": "6214",
@@ -2581,8 +2735,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_98-2x.jpg",
-    "gameNo": "098",
-    "ename": "Darkrai V"
+    "ename": "Darkrai V",
+    "series": "SS10"
   },
   {
     "id": "6215",
@@ -2611,11 +2765,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_99-2x.jpg",
-    "gameNo": "099",
     "ename": "Darkrai VSTAR",
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_50-2x.jpg"
-    ]
+    ],
+    "series": "SS10"
   },
   {
     "id": "6273",
@@ -2640,8 +2794,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_100-2x.jpg",
-    "gameNo": "100",
-    "ename": "Hisuian Samurott"
+    "ename": "Hisuian Samurott",
+    "series": "SS10"
   },
   {
     "id": "6100",
@@ -2670,11 +2824,12 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_101-2x.jpg",
-    "gameNo": "101",
     "ename": "Hisuian Samurott V",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_51-2x.jpg"
-    ]
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_51-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_176-2x.jpg"
+    ],
+    "series": "SS10"
   },
   {
     "id": "6101",
@@ -2703,11 +2858,13 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_102-2x.jpg",
-    "gameNo": "102",
     "ename": "Hisuian Samurott VSTAR",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_52-2x.jpg"
-    ]
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_52-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_197_R_EN.png",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_209_R_EN.png"
+    ],
+    "series": "SS10"
   },
   {
     "id": "6274",
@@ -2728,8 +2885,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_103-2x.jpg",
-    "gameNo": "103",
-    "ename": "Nickit"
+    "ename": "Nickit",
+    "series": "SS10"
   },
   {
     "id": "6275",
@@ -2754,11 +2911,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_104-2x.jpg",
-    "gameNo": "104",
     "ename": "Thievul",
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_17-2x.jpg"
-    ]
+    ],
+    "series": "SS10"
   },
   {
     "id": "6276",
@@ -2783,8 +2940,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_105-2x.jpg",
-    "gameNo": "105",
-    "ename": "Magnemite"
+    "ename": "Magnemite",
+    "series": "SS10"
   },
   {
     "id": "6277",
@@ -2805,8 +2962,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_106-2x.jpg",
-    "gameNo": "106",
-    "ename": "Magneton"
+    "ename": "Magneton",
+    "series": "SS10"
   },
   {
     "id": "6278",
@@ -2831,11 +2988,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_107-2x.jpg",
-    "gameNo": "107",
     "ename": "Magnezone",
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_18-2x.jpg"
-    ]
+    ],
+    "series": "SS10"
   },
   {
     "id": "6279",
@@ -2860,8 +3017,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_108-2x.jpg",
-    "gameNo": "108",
-    "ename": "Registeel"
+    "ename": "Registeel",
+    "series": "SS10"
   },
   {
     "id": "6345",
@@ -2886,8 +3043,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_109-2x.jpg",
-    "gameNo": "109",
-    "ename": "Shieldon"
+    "ename": "Shieldon",
+    "series": "SS10"
   },
   {
     "id": "6346",
@@ -2912,8 +3069,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_110-2x.jpg",
-    "gameNo": "110",
-    "ename": "Bastiodon"
+    "ename": "Bastiodon",
+    "series": "SS10"
   },
   {
     "id": "6347",
@@ -2934,8 +3091,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_111-2x.jpg",
-    "gameNo": "111",
-    "ename": "Bronzor"
+    "ename": "Bronzor",
+    "series": "SS10"
   },
   {
     "id": "6348",
@@ -2960,8 +3117,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_112-2x.jpg",
-    "gameNo": "112",
-    "ename": "Bronzong"
+    "ename": "Bronzong",
+    "series": "SS10"
   },
   {
     "id": "6280",
@@ -2990,8 +3147,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_113-2x.jpg",
-    "gameNo": "113",
-    "ename": "Origin Forme Dialga V"
+    "ename": "Origin Forme Dialga V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_177-2x.jpg"
+    ],
+    "series": "SS10"
   },
   {
     "id": "6281",
@@ -3020,11 +3180,13 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_114-2x.jpg",
-    "gameNo": "114",
     "ename": "Origin Forme Dialga VSTAR",
     "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_GG68_R_EN.png"
-    ]
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_GG68_R_EN.png",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_198_R_EN.png",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_210_R_EN.png"
+    ],
+    "series": "SS10"
   },
   {
     "id": "6282",
@@ -3045,8 +3207,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_115-2x.jpg",
-    "gameNo": "115",
-    "ename": "Pawniard"
+    "ename": "Pawniard",
+    "series": "SS10"
   },
   {
     "id": "6283",
@@ -3071,8 +3233,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_116-2x.jpg",
-    "gameNo": "116",
-    "ename": "Bisharp"
+    "ename": "Bisharp",
+    "series": "SS10"
   },
   {
     "id": "6102",
@@ -3101,8 +3263,12 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_117-2x.jpg",
-    "gameNo": "117",
-    "ename": "Garchomp V"
+    "ename": "Garchomp V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_178-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_TG_23-2x.jpg"
+    ],
+    "series": "SS10"
   },
   {
     "id": "6350",
@@ -3127,8 +3293,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_118-2x.jpg",
-    "gameNo": "118",
-    "ename": "Regidrago"
+    "ename": "Regidrago",
+    "series": "SS10"
   },
   {
     "id": "6353",
@@ -3153,8 +3319,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_119-2x.jpg",
-    "gameNo": "119",
-    "ename": "Eevee"
+    "ename": "Eevee",
+    "series": "SS10"
   },
   {
     "id": "6103",
@@ -3179,8 +3345,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_120-2x.jpg",
-    "gameNo": "120",
-    "ename": "Hoothoot"
+    "ename": "Hoothoot",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_TG_12-2x.jpg"
+    ],
+    "series": "SS10"
   },
   {
     "id": "6104",
@@ -3205,8 +3374,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_121-2x.jpg",
-    "gameNo": "121",
-    "ename": "Noctowl"
+    "ename": "Noctowl",
+    "series": "SS10"
   },
   {
     "id": "6354",
@@ -3231,8 +3400,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_122-2x.jpg",
-    "gameNo": "122",
-    "ename": "Teddiursa"
+    "ename": "Teddiursa",
+    "series": "SS10"
   },
   {
     "id": "6355",
@@ -3257,8 +3426,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_123-2x.jpg",
-    "gameNo": "123",
-    "ename": "Ursaring"
+    "ename": "Ursaring",
+    "series": "SS10"
   },
   {
     "id": "6356",
@@ -3283,8 +3452,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_124-2x.jpg",
-    "gameNo": "124",
-    "ename": "Ursaluna"
+    "ename": "Ursaluna",
+    "series": "SS10"
   },
   {
     "id": "6105",
@@ -3305,8 +3474,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_125-2x.jpg",
-    "gameNo": "125",
-    "ename": "Stantler"
+    "ename": "Stantler",
+    "series": "SS10"
   },
   {
     "id": "6106",
@@ -3331,11 +3500,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_126-2x.jpg",
-    "gameNo": "126",
     "ename": "Miltank",
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_24-2x.jpg"
-    ]
+    ],
+    "series": "SS10"
   },
   {
     "id": "6107",
@@ -3356,8 +3525,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_127-2x.jpg",
-    "gameNo": "127",
-    "ename": "Glameow"
+    "ename": "Glameow",
+    "series": "SS10"
   },
   {
     "id": "6108",
@@ -3382,8 +3551,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_128-2x.jpg",
-    "gameNo": "128",
-    "ename": "Purugly"
+    "ename": "Purugly",
+    "series": "SS10"
   },
   {
     "id": "6285",
@@ -3408,8 +3577,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_129-2x.jpg",
-    "gameNo": "129",
-    "ename": "Chatot"
+    "ename": "Chatot",
+    "series": "SS10"
   },
   {
     "id": "6286",
@@ -3434,8 +3603,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_130-2x.jpg",
-    "gameNo": "130",
-    "ename": "Regigigas"
+    "ename": "Regigigas",
+    "series": "SS10"
   },
   {
     "id": "6287",
@@ -3456,8 +3625,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_131-2x.jpg",
-    "gameNo": "131",
-    "ename": "Rufflet"
+    "ename": "Rufflet",
+    "series": "SS10"
   },
   {
     "id": "6288",
@@ -3482,8 +3651,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_132-2x.jpg",
-    "gameNo": "132",
-    "ename": "Hisuian Braviary"
+    "ename": "Hisuian Braviary",
+    "series": "SS10"
   },
   {
     "id": "6357",
@@ -3512,8 +3681,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_133-2x.jpg",
-    "gameNo": "133",
-    "ename": "Oranguru V"
+    "ename": "Oranguru V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_179-2x.jpg"
+    ],
+    "series": "SS10"
   },
   {
     "id": "6291",
@@ -3542,8 +3714,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_134-2x.jpg",
-    "gameNo": "134",
-    "ename": "Wyrdeer V"
+    "ename": "Wyrdeer V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_180-2x.jpg"
+    ],
+    "series": "SS10"
   },
   {
     "id": "6299",
@@ -3562,11 +3737,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_142-2x.jpg",
-    "gameNo": "142",
     "ename": "Gapejaw Bog",
     "artList": [
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_213_R_EN.png"
-    ]
+    ],
+    "series": "SS10"
   },
   {
     "id": "6115",
@@ -3585,8 +3760,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_148-2x.jpg",
-    "gameNo": "148",
-    "ename": "Jubilife Village"
+    "ename": "Jubilife Village",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_212_R_EN.png"
+    ],
+    "series": "SS10"
   },
   {
     "id": "6366",
@@ -3605,8 +3783,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_155-2x.jpg",
-    "gameNo": "155",
-    "ename": "Temple of Sinnoh"
+    "ename": "Temple of Sinnoh",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_214_R_EN.png"
+    ],
+    "series": "SS10"
   },
   {
     "id": "6296",
@@ -3625,11 +3806,13 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_135-2x.jpg",
-    "gameNo": "135",
     "ename": "Adaman",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_57-2x.jpg"
-    ]
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_57-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_181-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_199_R_EN.png"
+    ],
+    "series": "SS10"
   },
   {
     "id": "6365",
@@ -3648,8 +3831,12 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_137-2x.jpg",
-    "gameNo": "137",
-    "ename": "Choy"
+    "ename": "Choy",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_182-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_200_R_EN.png"
+    ],
+    "series": "SS10"
   },
   {
     "id": "6112",
@@ -3668,8 +3855,12 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_138-2x.jpg",
-    "gameNo": "138",
-    "ename": "Cyllene"
+    "ename": "Cyllene",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_183-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_201_R_EN.png"
+    ],
+    "series": "SS10"
   },
   {
     "id": "6297",
@@ -3688,11 +3879,13 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_143-2x.jpg",
-    "gameNo": "143",
     "ename": "Gardenia's Vigor",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_61-2x.jpg"
-    ]
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_61-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_184-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_202_R_EN.png"
+    ],
+    "series": "SS10"
   },
   {
     "id": "6364",
@@ -3711,11 +3904,13 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_144-2x.jpg",
-    "gameNo": "144",
     "ename": "Grant",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_62-2x.jpg"
-    ]
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_62-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_185-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_203_R_EN.png"
+    ],
+    "series": "SS10"
   },
   {
     "id": "6363",
@@ -3734,11 +3929,13 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_147-2x.jpg",
-    "gameNo": "147",
     "ename": "Irida",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_63-2x.jpg"
-    ]
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_63-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_186-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_204_R_EN.png"
+    ],
+    "series": "SS10"
   },
   {
     "id": "6114",
@@ -3757,8 +3954,12 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_149-2x.jpg",
-    "gameNo": "149",
-    "ename": "Kamado"
+    "ename": "Kamado",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_187-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_205_R_EN.png"
+    ],
+    "series": "SS10"
   },
   {
     "id": "6113",
@@ -3777,11 +3978,13 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_150-2x.jpg",
-    "gameNo": "150",
     "ename": "Roxanne",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_66-2x.jpg"
-    ]
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_66-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_188-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_206_R_EN.png"
+    ],
+    "series": "SS10"
   },
   {
     "id": "6298",
@@ -3800,8 +4003,12 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_159-2x.jpg",
-    "gameNo": "159",
-    "ename": "Zisu"
+    "ename": "Zisu",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_189-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_207_R_EN.png"
+    ],
+    "series": "SS10"
   },
   {
     "id": "6362",
@@ -3824,8 +4031,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_152-2x.jpg",
-    "gameNo": "152",
-    "ename": "Supereffective Glasses"
+    "ename": "Supereffective Glasses",
+    "series": "SS10"
   },
   {
     "id": "6111",
@@ -3844,8 +4051,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_136-2x.jpg",
-    "gameNo": "136",
-    "ename": "Canceling Cologne"
+    "ename": "Canceling Cologne",
+    "series": "SS10"
   },
   {
     "id": "6219",
@@ -3864,8 +4071,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_139-2x.jpg",
-    "gameNo": "139",
-    "ename": "Dark Patch"
+    "ename": "Dark Patch",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_216_R_EN.png"
+    ],
+    "series": "SS10"
   },
   {
     "id": "6359",
@@ -3884,8 +4094,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_140-2x.jpg",
-    "gameNo": "140",
-    "ename": "Energy Loto"
+    "ename": "Energy Loto",
+    "series": "SS10"
   },
   {
     "id": "6295",
@@ -3904,8 +4114,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_141-2x.jpg",
-    "gameNo": "141",
-    "ename": "Feather Ball"
+    "ename": "Feather Ball",
+    "series": "SS10"
   },
   {
     "id": "6196",
@@ -3924,8 +4134,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_145-2x.jpg",
-    "gameNo": "145",
-    "ename": "Gutsy Pickaxe"
+    "ename": "Gutsy Pickaxe",
+    "series": "SS10"
   },
   {
     "id": "6361",
@@ -3944,8 +4154,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_146-2x.jpg",
-    "gameNo": "146",
-    "ename": "Hisuian Heavy Ball"
+    "ename": "Hisuian Heavy Ball",
+    "series": "SS10"
   },
   {
     "id": "5596",
@@ -3964,8 +4174,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_151-2x.jpg",
-    "gameNo": "151",
-    "ename": "Spicy Seasoned Curry"
+    "ename": "Spicy Seasoned Curry",
+    "series": "SS10"
   },
   {
     "id": "6110",
@@ -3984,8 +4194,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_153-2x.jpg",
-    "gameNo": "153",
-    "ename": "Sweet Honey"
+    "ename": "Sweet Honey",
+    "series": "SS10"
   },
   {
     "id": "6292",
@@ -4004,8 +4214,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_154-2x.jpg",
-    "gameNo": "154",
-    "ename": "Switch Cart"
+    "ename": "Switch Cart",
+    "series": "SS10"
   },
   {
     "id": "6293",
@@ -4024,8 +4234,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_156-2x.jpg",
-    "gameNo": "156",
-    "ename": "Trekking Shoes"
+    "ename": "Trekking Shoes",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_215_R_EN.png"
+    ],
+    "series": "SS10"
   },
   {
     "id": "6360",
@@ -4044,8 +4257,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_157-2x.jpg",
-    "gameNo": "157",
-    "ename": "Unidentified Fossil"
+    "ename": "Unidentified Fossil",
+    "series": "SS10"
   },
   {
     "id": "6109",
@@ -4064,7 +4277,7 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_158-2x.jpg",
-    "gameNo": "158",
-    "ename": "Wait and See Turbo"
+    "ename": "Wait and See Turbo",
+    "series": "SS10"
   }
 ]

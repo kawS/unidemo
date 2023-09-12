@@ -18,8 +18,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_1-2x.jpg",
-    "gameNo": "001",
-    "ename": "Oddish"
+    "ename": "Oddish",
+    "series": "SS11"
   },
   {
     "id": "6053",
@@ -40,8 +40,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_2-2x.jpg",
-    "gameNo": "002",
-    "ename": "Gloom"
+    "ename": "Gloom",
+    "series": "SS11"
   },
   {
     "id": "6054",
@@ -66,8 +66,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_3-2x.jpg",
-    "gameNo": "003",
-    "ename": "Vileplume"
+    "ename": "Vileplume",
+    "series": "SS11"
   },
   {
     "id": "6367",
@@ -88,11 +88,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_4-2x.jpg",
-    "gameNo": "004",
     "ename": "Paras",
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_32-2x.jpg"
-    ]
+    ],
+    "series": "SS11"
   },
   {
     "id": "6368",
@@ -117,8 +117,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_5-2x.jpg",
-    "gameNo": "005",
-    "ename": "Parasect"
+    "ename": "Parasect",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_TG_1-2x.jpg"
+    ],
+    "series": "SS11"
   },
   {
     "id": "6370",
@@ -143,8 +146,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_6-2x.jpg",
-    "gameNo": "006",
-    "ename": "Wurmple"
+    "ename": "Wurmple",
+    "series": "SS11"
   },
   {
     "id": "6371",
@@ -169,8 +172,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_7-2x.jpg",
-    "gameNo": "007",
-    "ename": "Silcoon"
+    "ename": "Silcoon",
+    "series": "SS11"
   },
   {
     "id": "6372",
@@ -195,8 +198,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_8-2x.jpg",
-    "gameNo": "008",
-    "ename": "Beautifly"
+    "ename": "Beautifly",
+    "series": "SS11"
   },
   {
     "id": "6373",
@@ -221,8 +224,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_9-2x.jpg",
-    "gameNo": "009",
-    "ename": "Cascoon"
+    "ename": "Cascoon",
+    "series": "SS11"
   },
   {
     "id": "6374",
@@ -247,8 +250,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_10-2x.jpg",
-    "gameNo": "010",
-    "ename": "Dustox"
+    "ename": "Dustox",
+    "series": "SS11"
   },
   {
     "id": "6742",
@@ -269,8 +272,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_11-2x.jpg",
-    "gameNo": "011",
-    "ename": "Seedot"
+    "ename": "Seedot",
+    "series": "SS11"
   },
   {
     "id": "6743",
@@ -291,8 +294,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_12-2x.jpg",
-    "gameNo": "012",
-    "ename": "Nuzleaf"
+    "ename": "Nuzleaf",
+    "series": "SS11"
   },
   {
     "id": "6744",
@@ -317,8 +320,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_13-2x.jpg",
-    "gameNo": "013",
-    "ename": "Shiftry"
+    "ename": "Shiftry",
+    "series": "SS11"
   },
   {
     "id": "6057",
@@ -339,8 +342,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_14-2x.jpg",
-    "gameNo": "014",
-    "ename": "Roselia"
+    "ename": "Roselia",
+    "series": "SS11"
   },
   {
     "id": "6058",
@@ -365,8 +368,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_15-2x.jpg",
-    "gameNo": "015",
-    "ename": "Roserade"
+    "ename": "Roserade",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_TG_2-2x.jpg"
+    ],
+    "series": "SS11"
   },
   {
     "id": "6748",
@@ -387,8 +393,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_16-2x.jpg",
-    "gameNo": "016",
-    "ename": "Phantump"
+    "ename": "Phantump",
+    "series": "SS11"
   },
   {
     "id": "6749",
@@ -413,8 +419,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_17-2x.jpg",
-    "gameNo": "017",
-    "ename": "Trevenant"
+    "ename": "Trevenant",
+    "series": "SS11"
   },
   {
     "id": "6307",
@@ -435,8 +441,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_18-2x.jpg",
-    "gameNo": "018",
-    "ename": "Blipbug"
+    "ename": "Blipbug",
+    "series": "SS11"
   },
   {
     "id": "6308",
@@ -457,8 +463,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_19-2x.jpg",
-    "gameNo": "019",
-    "ename": "Dottler"
+    "ename": "Dottler",
+    "series": "SS11"
   },
   {
     "id": "6309",
@@ -483,8 +489,38 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_20-2x.jpg",
-    "gameNo": "020",
-    "ename": "Orbeetle"
+    "ename": "Orbeetle",
+    "series": "SS11"
+  },
+  {
+    "id": "6369",
+    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6369/",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006369.png",
+    "extraInformation": [
+      "",
+      "",
+      ""
+    ],
+    "typeEnergy": "Grass",
+    "type": "Pokemon",
+    "cardName": "洗翠 顽皮雷弹V",
+    "skillList": [
+      {
+        "name": "烦躁炸弹",
+        "effect": "造成这只宝可梦处于特殊状态的数量×100点伤害。"
+      },
+      {
+        "name": "日光射击",
+        "effect": "将这只宝可梦身上附加的能量全部丢弃。"
+      },
+      {
+        "name": "[V规则]",
+        "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_172-2x.jpg",
+    "ename": "Hisuian Electrode V",
+    "series": "SS11"
   },
   {
     "id": "6752",
@@ -509,8 +545,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_21-2x.jpg",
-    "gameNo": "021",
-    "ename": "Slugma"
+    "ename": "Slugma",
+    "series": "SS11"
   },
   {
     "id": "6753",
@@ -535,8 +571,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_22-2x.jpg",
-    "gameNo": "022",
-    "ename": "Magcargo"
+    "ename": "Magcargo",
+    "series": "SS11"
   },
   {
     "id": "6312",
@@ -561,8 +597,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_23-2x.jpg",
-    "gameNo": "023",
-    "ename": "Torkoal"
+    "ename": "Torkoal",
+    "series": "SS11"
   },
   {
     "id": "6062",
@@ -583,8 +619,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_24-2x.jpg",
-    "gameNo": "024",
-    "ename": "Litwick"
+    "ename": "Litwick",
+    "series": "SS11"
   },
   {
     "id": "6063",
@@ -605,8 +641,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_25-2x.jpg",
-    "gameNo": "025",
-    "ename": "Lampent"
+    "ename": "Lampent",
+    "series": "SS11"
   },
   {
     "id": "6064",
@@ -631,8 +667,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_26-2x.jpg",
-    "gameNo": "026",
-    "ename": "Chandelure"
+    "ename": "Chandelure",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_TG_4-2x.jpg"
+    ],
+    "series": "SS11"
   },
   {
     "id": "6754",
@@ -661,8 +700,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_27-2x.jpg",
-    "gameNo": "027",
-    "ename": "Delphox V"
+    "ename": "Delphox V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_173-2x.jpg"
+    ],
+    "series": "SS11"
   },
   {
     "id": "6065",
@@ -683,8 +725,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_28-2x.jpg",
-    "gameNo": "028",
-    "ename": "Litleo"
+    "ename": "Litleo",
+    "series": "SS11"
   },
   {
     "id": "6066",
@@ -709,8 +751,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_29-2x.jpg",
-    "gameNo": "029",
-    "ename": "Pyroar"
+    "ename": "Pyroar",
+    "series": "SS11"
   },
   {
     "id": "6243",
@@ -731,8 +773,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_30-2x.jpg",
-    "gameNo": "030",
-    "ename": "Poliwag"
+    "ename": "Poliwag",
+    "series": "SS11"
   },
   {
     "id": "6244",
@@ -757,8 +799,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_31-2x.jpg",
-    "gameNo": "031",
-    "ename": "Poliwhirl"
+    "ename": "Poliwhirl",
+    "series": "SS11"
   },
   {
     "id": "6245",
@@ -783,8 +825,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_32-2x.jpg",
-    "gameNo": "032",
-    "ename": "Politoed"
+    "ename": "Politoed",
+    "series": "SS11"
   },
   {
     "id": "6757",
@@ -809,8 +851,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_33-2x.jpg",
-    "gameNo": "033",
-    "ename": "Seel"
+    "ename": "Seel",
+    "series": "SS11"
   },
   {
     "id": "6758",
@@ -835,8 +877,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_34-2x.jpg",
-    "gameNo": "034",
-    "ename": "Dewgong"
+    "ename": "Dewgong",
+    "series": "SS11"
   },
   {
     "id": "6759",
@@ -857,8 +899,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_35-2x.jpg",
-    "gameNo": "035",
-    "ename": "Horsea"
+    "ename": "Horsea",
+    "series": "SS11"
   },
   {
     "id": "6760",
@@ -883,8 +925,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_36-2x.jpg",
-    "gameNo": "036",
-    "ename": "Seadra"
+    "ename": "Seadra",
+    "series": "SS11"
   },
   {
     "id": "6761",
@@ -909,8 +951,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_37-2x.jpg",
-    "gameNo": "037",
-    "ename": "Kingdra"
+    "ename": "Kingdra",
+    "series": "SS11"
   },
   {
     "id": "6317",
@@ -935,8 +977,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_38-2x.jpg",
-    "gameNo": "038",
-    "ename": "Luvdisc"
+    "ename": "Luvdisc",
+    "series": "SS11"
   },
   {
     "id": "6319",
@@ -961,8 +1003,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_39-2x.jpg",
-    "gameNo": "039",
-    "ename": "Shellos"
+    "ename": "Shellos",
+    "series": "SS11"
   },
   {
     "id": "6764",
@@ -987,8 +1029,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_40-2x.jpg",
-    "gameNo": "040",
-    "ename": "Finneon"
+    "ename": "Finneon",
+    "series": "SS11"
   },
   {
     "id": "6765",
@@ -1013,8 +1055,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_41-2x.jpg",
-    "gameNo": "041",
-    "ename": "Lumineon"
+    "ename": "Lumineon",
+    "series": "SS11"
   },
   {
     "id": "6375",
@@ -1039,8 +1081,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_42-2x.jpg",
-    "gameNo": "042",
-    "ename": "Snover"
+    "ename": "Snover",
+    "series": "SS11"
   },
   {
     "id": "6376",
@@ -1065,8 +1107,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_43-2x.jpg",
-    "gameNo": "043",
-    "ename": "Abomasnow"
+    "ename": "Abomasnow",
+    "series": "SS11"
   },
   {
     "id": "6378",
@@ -1087,8 +1129,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_44-2x.jpg",
-    "gameNo": "044",
-    "ename": "Hisuian Basculin"
+    "ename": "Hisuian Basculin",
+    "series": "SS11"
   },
   {
     "id": "6379",
@@ -1113,8 +1155,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_45-2x.jpg",
-    "gameNo": "045",
-    "ename": "Hisuian Basculegion"
+    "ename": "Hisuian Basculegion",
+    "series": "SS11"
   },
   {
     "id": "6249",
@@ -1135,8 +1177,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_46-2x.jpg",
-    "gameNo": "046",
-    "ename": "Ducklett"
+    "ename": "Ducklett",
+    "series": "SS11"
   },
   {
     "id": "6250",
@@ -1161,8 +1203,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_47-2x.jpg",
-    "gameNo": "047",
-    "ename": "Swanna"
+    "ename": "Swanna",
+    "series": "SS11"
   },
   {
     "id": "6766",
@@ -1191,8 +1233,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_48-2x.jpg",
-    "gameNo": "048",
-    "ename": "Kyurem V"
+    "ename": "Kyurem V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_174-2x.jpg"
+    ],
+    "series": "SS11"
   },
   {
     "id": "6767",
@@ -1221,8 +1266,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_49-2x.jpg",
-    "gameNo": "049",
-    "ename": "Kyurem VMAX"
+    "ename": "Kyurem VMAX",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_197_R_EN.png"
+    ],
+    "series": "SS11"
   },
   {
     "id": "6770",
@@ -1247,8 +1295,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_50-2x.jpg",
-    "gameNo": "050",
-    "ename": "Cramorant"
+    "ename": "Cramorant",
+    "series": "SS11"
   },
   {
     "id": "6771",
@@ -1273,8 +1321,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_51-2x.jpg",
-    "gameNo": "051",
-    "ename": "Glastrier"
+    "ename": "Glastrier",
+    "series": "SS11"
   },
   {
     "id": "6380",
@@ -1299,11 +1347,12 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_52-2x.jpg",
-    "gameNo": "052",
     "ename": "Pikachu",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_30-2x.jpg"
-    ]
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_30-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_TG_5-2x.jpg"
+    ],
+    "series": "SS11"
   },
   {
     "id": "6381",
@@ -1328,8 +1377,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_53-2x.jpg",
-    "gameNo": "053",
-    "ename": "Raichu"
+    "ename": "Raichu",
+    "series": "SS11"
   },
   {
     "id": "6251",
@@ -1354,8 +1403,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_54-2x.jpg",
-    "gameNo": "054",
-    "ename": "Electrike"
+    "ename": "Electrike",
+    "series": "SS11"
   },
   {
     "id": "6252",
@@ -1380,8 +1429,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_55-2x.jpg",
-    "gameNo": "055",
-    "ename": "Manectric"
+    "ename": "Manectric",
+    "series": "SS11"
   },
   {
     "id": "6382",
@@ -1410,8 +1459,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_56-2x.jpg",
-    "gameNo": "056",
-    "ename": "Magnezone V"
+    "ename": "Magnezone V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_175-2x.jpg"
+    ],
+    "series": "SS11"
   },
   {
     "id": "6383",
@@ -1440,8 +1492,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_57-2x.jpg",
-    "gameNo": "057",
-    "ename": "Magnezone VSTAR"
+    "ename": "Magnezone VSTAR",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_198_R_EN.png"
+    ],
+    "series": "SS11"
   },
   {
     "id": "6774",
@@ -1470,8 +1525,12 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_58-2x.jpg",
-    "gameNo": "058",
-    "ename": "Rotom V"
+    "ename": "Rotom V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_176-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_177-2x.jpg"
+    ],
+    "series": "SS11"
   },
   {
     "id": "6776",
@@ -1496,8 +1555,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_59-2x.jpg",
-    "gameNo": "059",
-    "ename": "Tynamo"
+    "ename": "Tynamo",
+    "series": "SS11"
   },
   {
     "id": "6777",
@@ -1522,8 +1581,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_60-2x.jpg",
-    "gameNo": "060",
-    "ename": "Eelektrik"
+    "ename": "Eelektrik",
+    "series": "SS11"
   },
   {
     "id": "6778",
@@ -1548,8 +1607,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_61-2x.jpg",
-    "gameNo": "061",
-    "ename": "Eelektross"
+    "ename": "Eelektross",
+    "series": "SS11"
   },
   {
     "id": "6385",
@@ -1574,8 +1633,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_62-2x.jpg",
-    "gameNo": "062",
-    "ename": "Clefairy"
+    "ename": "Clefairy",
+    "series": "SS11"
   },
   {
     "id": "6386",
@@ -1600,8 +1659,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_63-2x.jpg",
-    "gameNo": "063",
-    "ename": "Clefable"
+    "ename": "Clefable",
+    "series": "SS11"
   },
   {
     "id": "6387",
@@ -1622,8 +1681,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_64-2x.jpg",
-    "gameNo": "064",
-    "ename": "Gastly"
+    "ename": "Gastly",
+    "series": "SS11"
   },
   {
     "id": "6388",
@@ -1644,8 +1703,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_65-2x.jpg",
-    "gameNo": "065",
-    "ename": "Haunter"
+    "ename": "Haunter",
+    "series": "SS11"
   },
   {
     "id": "6389",
@@ -1670,8 +1729,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_66-2x.jpg",
-    "gameNo": "066",
-    "ename": "Gengar"
+    "ename": "Gengar",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_TG_6-2x.jpg"
+    ],
+    "series": "SS11"
   },
   {
     "id": "6390",
@@ -1696,8 +1758,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_67-2x.jpg",
-    "gameNo": "067",
-    "ename": "Mr. Mime"
+    "ename": "Mr. Mime",
+    "series": "SS11"
   },
   {
     "id": "6076",
@@ -1722,8 +1784,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_68-2x.jpg",
-    "gameNo": "068",
-    "ename": "Jynx"
+    "ename": "Jynx",
+    "series": "SS11"
   },
   {
     "id": "6393",
@@ -1752,8 +1814,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_69-2x.jpg",
-    "gameNo": "069",
-    "ename": "Radiant Gardevoir"
+    "ename": "Radiant Gardevoir",
+    "series": "SS11"
   },
   {
     "id": "6781",
@@ -1778,8 +1840,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_70-2x.jpg",
-    "gameNo": "070",
-    "ename": "Sableye"
+    "ename": "Sableye",
+    "series": "SS11"
   },
   {
     "id": "6256",
@@ -1804,8 +1866,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_71-2x.jpg",
-    "gameNo": "071",
-    "ename": "Mawile"
+    "ename": "Mawile",
+    "series": "SS11"
   },
   {
     "id": "6782",
@@ -1826,8 +1888,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_72-2x.jpg",
-    "gameNo": "072",
-    "ename": "Shuppet"
+    "ename": "Shuppet",
+    "series": "SS11"
   },
   {
     "id": "6783",
@@ -1852,8 +1914,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_73-2x.jpg",
-    "gameNo": "073",
-    "ename": "Banette"
+    "ename": "Banette",
+    "series": "SS11"
   },
   {
     "id": "6260",
@@ -1878,8 +1940,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_74-2x.jpg",
-    "gameNo": "074",
-    "ename": "Cresselia"
+    "ename": "Cresselia",
+    "series": "SS11"
   },
   {
     "id": "6395",
@@ -1904,8 +1966,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_75-2x.jpg",
-    "gameNo": "075",
-    "ename": "Hisuian Zorua"
+    "ename": "Hisuian Zorua",
+    "series": "SS11"
   },
   {
     "id": "6396",
@@ -1930,8 +1992,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_76-2x.jpg",
-    "gameNo": "076",
-    "ename": "Hisuian Zoroark"
+    "ename": "Hisuian Zoroark",
+    "series": "SS11"
   },
   {
     "id": "6331",
@@ -1952,8 +2014,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_77-2x.jpg",
-    "gameNo": "077",
-    "ename": "Inkay"
+    "ename": "Inkay",
+    "series": "SS11"
   },
   {
     "id": "6332",
@@ -1978,8 +2040,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_78-2x.jpg",
-    "gameNo": "078",
-    "ename": "Malamar"
+    "ename": "Malamar",
+    "series": "SS11"
   },
   {
     "id": "6786",
@@ -2004,11 +2066,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_79-2x.jpg",
-    "gameNo": "079",
     "ename": "Comfey",
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_14-2x.jpg"
-    ]
+    ],
+    "series": "SS11"
   },
   {
     "id": "6787",
@@ -2033,8 +2095,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_80-2x.jpg",
-    "gameNo": "080",
-    "ename": "Mimikyu"
+    "ename": "Mimikyu",
+    "series": "SS11"
   },
   {
     "id": "6792",
@@ -2059,8 +2121,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_81-2x.jpg",
-    "gameNo": "081",
-    "ename": "Spectrier"
+    "ename": "Spectrier",
+    "series": "SS11"
   },
   {
     "id": "6397",
@@ -2089,8 +2151,12 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_82-2x.jpg",
-    "gameNo": "082",
-    "ename": "Enamorus V"
+    "ename": "Enamorus V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_178-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_TG_18-2x.jpg"
+    ],
+    "series": "SS11"
   },
   {
     "id": "6398",
@@ -2111,8 +2177,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_83-2x.jpg",
-    "gameNo": "083",
-    "ename": "Hisuian Growlithe"
+    "ename": "Hisuian Growlithe",
+    "series": "SS11"
   },
   {
     "id": "6399",
@@ -2137,8 +2203,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_84-2x.jpg",
-    "gameNo": "084",
-    "ename": "Hisuian Arcanine"
+    "ename": "Hisuian Arcanine",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_TG_8-2x.jpg"
+    ],
+    "series": "SS11"
   },
   {
     "id": "6263",
@@ -2163,8 +2232,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_85-2x.jpg",
-    "gameNo": "085",
-    "ename": "Poliwrath"
+    "ename": "Poliwrath",
+    "series": "SS11"
   },
   {
     "id": "6400",
@@ -2185,8 +2254,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_86-2x.jpg",
-    "gameNo": "086",
-    "ename": "Machop"
+    "ename": "Machop",
+    "series": "SS11"
   },
   {
     "id": "6401",
@@ -2211,8 +2280,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_87-2x.jpg",
-    "gameNo": "087",
-    "ename": "Machoke"
+    "ename": "Machoke",
+    "series": "SS11"
   },
   {
     "id": "6402",
@@ -2237,8 +2306,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_88-2x.jpg",
-    "gameNo": "088",
-    "ename": "Machamp"
+    "ename": "Machamp",
+    "series": "SS11"
   },
   {
     "id": "6086",
@@ -2259,8 +2328,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_89-2x.jpg",
-    "gameNo": "089",
-    "ename": "Rhyhorn"
+    "ename": "Rhyhorn",
+    "series": "SS11"
   },
   {
     "id": "6087",
@@ -2285,8 +2354,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_90-2x.jpg",
-    "gameNo": "090",
-    "ename": "Rhydon"
+    "ename": "Rhydon",
+    "series": "SS11"
   },
   {
     "id": "6088",
@@ -2311,8 +2380,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_91-2x.jpg",
-    "gameNo": "091",
-    "ename": "Rhyperior"
+    "ename": "Rhyperior",
+    "series": "SS11"
   },
   {
     "id": "6793",
@@ -2341,8 +2410,12 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_92-2x.jpg",
-    "gameNo": "092",
-    "ename": "Aerodactyl V"
+    "ename": "Aerodactyl V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_179-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_180-2x.jpg"
+    ],
+    "series": "SS11"
   },
   {
     "id": "6794",
@@ -2371,8 +2444,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_93-2x.jpg",
-    "gameNo": "093",
-    "ename": "Aerodactyl VSTAR"
+    "ename": "Aerodactyl VSTAR",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_199_R_EN.png"
+    ],
+    "series": "SS11"
   },
   {
     "id": "6403",
@@ -2397,8 +2473,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_94-2x.jpg",
-    "gameNo": "094",
-    "ename": "Sudowoodo"
+    "ename": "Sudowoodo",
+    "series": "SS11"
   },
   {
     "id": "6404",
@@ -2419,8 +2495,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_95-2x.jpg",
-    "gameNo": "095",
-    "ename": "Gligar"
+    "ename": "Gligar",
+    "series": "SS11"
   },
   {
     "id": "6405",
@@ -2441,8 +2517,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_96-2x.jpg",
-    "gameNo": "096",
-    "ename": "Gliscor"
+    "ename": "Gliscor",
+    "series": "SS11"
   },
   {
     "id": "6333",
@@ -2463,8 +2539,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_97-2x.jpg",
-    "gameNo": "097",
-    "ename": "Makuhita"
+    "ename": "Makuhita",
+    "series": "SS11"
   },
   {
     "id": "6334",
@@ -2489,8 +2565,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_98-2x.jpg",
-    "gameNo": "098",
-    "ename": "Hariyama"
+    "ename": "Hariyama",
+    "series": "SS11"
   },
   {
     "id": "6187",
@@ -2511,8 +2587,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_99-2x.jpg",
-    "gameNo": "099",
-    "ename": "Meditite"
+    "ename": "Meditite",
+    "series": "SS11"
   },
   {
     "id": "6188",
@@ -2533,8 +2609,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_100-2x.jpg",
-    "gameNo": "100",
-    "ename": "Medicham"
+    "ename": "Medicham",
+    "series": "SS11"
   },
   {
     "id": "6089",
@@ -2559,8 +2635,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_101-2x.jpg",
-    "gameNo": "101",
-    "ename": "Relicanth"
+    "ename": "Relicanth",
+    "series": "SS11"
   },
   {
     "id": "6336",
@@ -2585,8 +2661,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_102-2x.jpg",
-    "gameNo": "102",
-    "ename": "Gastrodon"
+    "ename": "Gastrodon",
+    "series": "SS11"
   },
   {
     "id": "6269",
@@ -2611,8 +2687,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_103-2x.jpg",
-    "gameNo": "103",
-    "ename": "Mienfoo"
+    "ename": "Mienfoo",
+    "series": "SS11"
   },
   {
     "id": "6270",
@@ -2637,8 +2713,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_104-2x.jpg",
-    "gameNo": "104",
-    "ename": "Mienshao"
+    "ename": "Mienshao",
+    "series": "SS11"
   },
   {
     "id": "6191",
@@ -2663,8 +2739,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_105-2x.jpg",
-    "gameNo": "105",
-    "ename": "Landorus"
+    "ename": "Landorus",
+    "series": "SS11"
   },
   {
     "id": "6797",
@@ -2689,8 +2765,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_106-2x.jpg",
-    "gameNo": "106",
-    "ename": "Binacle"
+    "ename": "Binacle",
+    "series": "SS11"
   },
   {
     "id": "6798",
@@ -2715,8 +2791,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_107-2x.jpg",
-    "gameNo": "107",
-    "ename": "Barbaracle"
+    "ename": "Barbaracle",
+    "series": "SS11"
   },
   {
     "id": "6337",
@@ -2741,8 +2817,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_108-2x.jpg",
-    "gameNo": "108",
-    "ename": "Carbink"
+    "ename": "Carbink",
+    "series": "SS11"
   },
   {
     "id": "6192",
@@ -2767,8 +2843,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_109-2x.jpg",
-    "gameNo": "109",
-    "ename": "Rockruff"
+    "ename": "Rockruff",
+    "series": "SS11"
   },
   {
     "id": "6193",
@@ -2793,8 +2869,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_110-2x.jpg",
-    "gameNo": "110",
-    "ename": "Falinks"
+    "ename": "Falinks",
+    "series": "SS11"
   },
   {
     "id": "6802",
@@ -2819,8 +2895,41 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_111-2x.jpg",
-    "gameNo": "111",
-    "ename": "Stonjourner"
+    "ename": "Stonjourner",
+    "series": "SS11"
+  },
+  {
+    "id": "6406",
+    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6406/",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006406.png",
+    "extraInformation": [
+      "",
+      "",
+      ""
+    ],
+    "typeEnergy": "Fighting",
+    "type": "Pokemon",
+    "cardName": "艾路雷朵V",
+    "skillList": [
+      {
+        "name": "璀璨之剑",
+        "effect": "增加自己已经获得的奖赏卡的张数×50点伤害。"
+      },
+      {
+        "name": "粗暴横扫",
+        "effect": "这个招式的伤害不计算抵抗力。"
+      },
+      {
+        "name": "[V规则]",
+        "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_181-2x.jpg",
+    "ename": "Gallade V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_TG_19-2x.jpg"
+    ],
+    "series": "SS11"
   },
   {
     "id": "6271",
@@ -2841,8 +2950,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_112-2x.jpg",
-    "gameNo": "112",
-    "ename": "Spinarak"
+    "ename": "Spinarak",
+    "series": "SS11"
   },
   {
     "id": "6272",
@@ -2867,8 +2976,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_113-2x.jpg",
-    "gameNo": "113",
-    "ename": "Ariados"
+    "ename": "Ariados",
+    "series": "SS11"
   },
   {
     "id": "6209",
@@ -2893,8 +3002,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_114-2x.jpg",
-    "gameNo": "114",
-    "ename": "Murkrow"
+    "ename": "Murkrow",
+    "series": "SS11"
   },
   {
     "id": "6210",
@@ -2919,8 +3028,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_115-2x.jpg",
-    "gameNo": "115",
-    "ename": "Honchkrow"
+    "ename": "Honchkrow",
+    "series": "SS11"
   },
   {
     "id": "6213",
@@ -2941,8 +3050,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_116-2x.jpg",
-    "gameNo": "116",
-    "ename": "Seviper"
+    "ename": "Seviper",
+    "series": "SS11"
   },
   {
     "id": "6413",
@@ -2967,8 +3076,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_117-2x.jpg",
-    "gameNo": "117",
-    "ename": "Spiritomb"
+    "ename": "Spiritomb",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_TG_9-2x.jpg"
+    ],
+    "series": "SS11"
   },
   {
     "id": "6803",
@@ -2997,11 +3109,12 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_118-2x.jpg",
-    "gameNo": "118",
     "ename": "Drapion V",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_49-2x.jpg"
-    ]
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_49-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_182-2x.jpg"
+    ],
+    "series": "SS11"
   },
   {
     "id": "6804",
@@ -3030,8 +3143,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_119-2x.jpg",
-    "gameNo": "119",
-    "ename": "Drapion VSTAR"
+    "ename": "Drapion VSTAR",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_200_R_EN.png"
+    ],
+    "series": "SS11"
   },
   {
     "id": "6344",
@@ -3056,8 +3172,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_120-2x.jpg",
-    "gameNo": "120",
-    "ename": "Darkrai"
+    "ename": "Darkrai",
+    "series": "SS11"
   },
   {
     "id": "6216",
@@ -3082,8 +3198,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_121-2x.jpg",
-    "gameNo": "121",
-    "ename": "Inkay"
+    "ename": "Inkay",
+    "series": "SS11"
   },
   {
     "id": "6217",
@@ -3108,8 +3224,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_122-2x.jpg",
-    "gameNo": "122",
-    "ename": "Hoopa"
+    "ename": "Hoopa",
+    "series": "SS11"
   },
   {
     "id": "6412",
@@ -3138,8 +3254,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_123-2x.jpg",
-    "gameNo": "123",
-    "ename": "Radiant Hisuian Sneasler"
+    "ename": "Radiant Hisuian Sneasler",
+    "series": "SS11"
   },
   {
     "id": "6416",
@@ -3168,8 +3284,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_124-2x.jpg",
-    "gameNo": "124",
-    "ename": "Radiant Steelix"
+    "ename": "Radiant Steelix",
+    "series": "SS11"
   },
   {
     "id": "6417",
@@ -3190,8 +3306,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_125-2x.jpg",
-    "gameNo": "125",
-    "ename": "Bronzor"
+    "ename": "Bronzor",
+    "series": "SS11"
   },
   {
     "id": "6418",
@@ -3216,8 +3332,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_126-2x.jpg",
-    "gameNo": "126",
-    "ename": "Bronzong"
+    "ename": "Bronzong",
+    "series": "SS11"
   },
   {
     "id": "6815",
@@ -3242,8 +3358,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_127-2x.jpg",
-    "gameNo": "127",
-    "ename": "Galarian Stunfisk"
+    "ename": "Galarian Stunfisk",
+    "series": "SS11"
   },
   {
     "id": "6349",
@@ -3268,8 +3384,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_128-2x.jpg",
-    "gameNo": "128",
-    "ename": "Magearna"
+    "ename": "Magearna",
+    "series": "SS11"
   },
   {
     "id": "6816",
@@ -3298,8 +3414,12 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_129-2x.jpg",
-    "gameNo": "129",
-    "ename": "Galarian Perrserker V"
+    "ename": "Galarian Perrserker V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_183-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_184-2x.jpg"
+    ],
+    "series": "SS11"
   },
   {
     "id": "6817",
@@ -3328,8 +3448,12 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_130-2x.jpg",
-    "gameNo": "130",
-    "ename": "Giratina V"
+    "ename": "Giratina V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_185-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_186-2x.jpg"
+    ],
+    "series": "SS11"
   },
   {
     "id": "6818",
@@ -3358,11 +3482,13 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_131-2x.jpg",
-    "gameNo": "131",
     "ename": "Giratina VSTAR",
     "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_GG69_R_EN.png"
-    ]
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_GG69_R_EN.png",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_201_R_EN.png",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_212_R_EN.png"
+    ],
+    "series": "SS11"
   },
   {
     "id": "6419",
@@ -3387,8 +3513,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_132-2x.jpg",
-    "gameNo": "132",
-    "ename": "Goomy"
+    "ename": "Goomy",
+    "series": "SS11"
   },
   {
     "id": "6420",
@@ -3413,8 +3539,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_133-2x.jpg",
-    "gameNo": "133",
-    "ename": "Hisuian Sliggoo"
+    "ename": "Hisuian Sliggoo",
+    "series": "SS11"
   },
   {
     "id": "6421",
@@ -3439,11 +3565,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_134-2x.jpg",
-    "gameNo": "134",
     "ename": "Hisuian Goodra",
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_21-2x.jpg"
-    ]
+    ],
+    "series": "SS11"
   },
   {
     "id": "6422",
@@ -3472,8 +3598,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_135-2x.jpg",
-    "gameNo": "135",
-    "ename": "Hisuian Goodra V"
+    "ename": "Hisuian Goodra V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_187-2x.jpg"
+    ],
+    "series": "SS11"
   },
   {
     "id": "6423",
@@ -3502,8 +3631,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_136-2x.jpg",
-    "gameNo": "136",
-    "ename": "Hisuian Goodra VSTAR"
+    "ename": "Hisuian Goodra VSTAR",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_202_R_EN.png"
+    ],
+    "series": "SS11"
   },
   {
     "id": "6819",
@@ -3532,8 +3664,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_137-2x.jpg",
-    "gameNo": "137",
-    "ename": "Pidgeot V"
+    "ename": "Pidgeot V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_188-2x.jpg"
+    ],
+    "series": "SS11"
   },
   {
     "id": "6351",
@@ -3554,8 +3689,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_138-2x.jpg",
-    "gameNo": "138",
-    "ename": "Lickitung"
+    "ename": "Lickitung",
+    "series": "SS11"
   },
   {
     "id": "6352",
@@ -3580,8 +3715,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_139-2x.jpg",
-    "gameNo": "139",
-    "ename": "Lickilicky"
+    "ename": "Lickilicky",
+    "series": "SS11"
   },
   {
     "id": "6820",
@@ -3606,8 +3741,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_140-2x.jpg",
-    "gameNo": "140",
-    "ename": "Porygon"
+    "ename": "Porygon",
+    "series": "SS11"
   },
   {
     "id": "6821",
@@ -3628,8 +3763,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_141-2x.jpg",
-    "gameNo": "141",
-    "ename": "Porygon2"
+    "ename": "Porygon2",
+    "series": "SS11"
   },
   {
     "id": "6822",
@@ -3654,8 +3789,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_142-2x.jpg",
-    "gameNo": "142",
-    "ename": "Porygon-Z"
+    "ename": "Porygon-Z",
+    "series": "SS11"
   },
   {
     "id": "6424",
@@ -3680,8 +3815,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_143-2x.jpg",
-    "gameNo": "143",
-    "ename": "Snorlax"
+    "ename": "Snorlax",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_TG_10-2x.jpg"
+    ],
+    "series": "SS11"
   },
   {
     "id": "6425",
@@ -3706,8 +3844,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_144-2x.jpg",
-    "gameNo": "144",
-    "ename": "Aipom"
+    "ename": "Aipom",
+    "series": "SS11"
   },
   {
     "id": "6426",
@@ -3732,8 +3870,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_145-2x.jpg",
-    "gameNo": "145",
-    "ename": "Ambipom"
+    "ename": "Ambipom",
+    "series": "SS11"
   },
   {
     "id": "6427",
@@ -3762,8 +3900,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_146-2x.jpg",
-    "gameNo": "146",
-    "ename": "Hisuian Zoroark V"
+    "ename": "Hisuian Zoroark V",
+    "series": "SS11"
   },
   {
     "id": "6428",
@@ -3792,11 +3930,13 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_147-2x.jpg",
-    "gameNo": "147",
     "ename": "Hisuian Zoroark VSTAR",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_56-2x.jpg"
-    ]
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_56-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_203_R_EN.png",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_213_R_EN.png"
+    ],
+    "series": "SS11"
   },
   {
     "id": "6826",
@@ -3821,8 +3961,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_148-2x.jpg",
-    "gameNo": "148",
-    "ename": "Bouffalant"
+    "ename": "Bouffalant",
+    "series": "SS11"
   },
   {
     "id": "6358",
@@ -3847,8 +3987,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_149-2x.jpg",
-    "gameNo": "149",
-    "ename": "Komala"
+    "ename": "Komala",
+    "series": "SS11"
   },
   {
     "id": "6289",
@@ -3869,8 +4009,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_150-2x.jpg",
-    "gameNo": "150",
-    "ename": "Skwovet"
+    "ename": "Skwovet",
+    "series": "SS11"
   },
   {
     "id": "6290",
@@ -3895,8 +4035,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_151-2x.jpg",
-    "gameNo": "151",
-    "ename": "Greedent"
+    "ename": "Greedent",
+    "series": "SS11"
   },
   {
     "id": "6437",
@@ -3915,8 +4055,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_160-2x.jpg",
-    "gameNo": "160",
-    "ename": "Lake Acuity"
+    "ename": "Lake Acuity",
+    "series": "SS11"
   },
   {
     "id": "6836",
@@ -3935,8 +4075,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_161-2x.jpg",
-    "gameNo": "161",
-    "ename": "Lost City"
+    "ename": "Lost City",
+    "series": "SS11"
   },
   {
     "id": "6435",
@@ -3955,8 +4095,12 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_153-2x.jpg",
-    "gameNo": "153",
-    "ename": "Arezu"
+    "ename": "Arezu",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_189-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_204_R_EN.png"
+    ],
+    "series": "SS11"
   },
   {
     "id": "6832",
@@ -3975,11 +4119,13 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_155-2x.jpg",
-    "gameNo": "155",
     "ename": "Colress's Experiment",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_59-2x.jpg"
-    ]
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_59-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_190-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_205_R_EN.png"
+    ],
+    "series": "SS11"
   },
   {
     "id": "6835",
@@ -3998,8 +4144,12 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_157-2x.jpg",
-    "gameNo": "157",
-    "ename": "Fantina"
+    "ename": "Fantina",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_191-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_206_R_EN.png"
+    ],
+    "series": "SS11"
   },
   {
     "id": "6434",
@@ -4018,8 +4168,12 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_158-2x.jpg",
-    "gameNo": "158",
-    "ename": "Iscan"
+    "ename": "Iscan",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_192-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_207_R_EN.png"
+    ],
+    "series": "SS11"
   },
   {
     "id": "6833",
@@ -4038,8 +4192,12 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_159-2x.jpg",
-    "gameNo": "159",
-    "ename": "Lady"
+    "ename": "Lady",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_193-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_208_R_EN.png"
+    ],
+    "series": "SS11"
   },
   {
     "id": "6436",
@@ -4058,8 +4216,12 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_164-2x.jpg",
-    "gameNo": "164",
-    "ename": "Miss Fortune Sisters"
+    "ename": "Miss Fortune Sisters",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_194-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_209_R_EN.png"
+    ],
+    "series": "SS11"
   },
   {
     "id": "5629",
@@ -4078,8 +4240,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_166-2x.jpg",
-    "gameNo": "166",
-    "ename": "Riley"
+    "ename": "Riley",
+    "series": "SS11"
   },
   {
     "id": "6834",
@@ -4098,8 +4260,12 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_167-2x.jpg",
-    "gameNo": "167",
-    "ename": "Thorton"
+    "ename": "Thorton",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_195-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_210_R_EN.png"
+    ],
+    "series": "SS11"
   },
   {
     "id": "6433",
@@ -4118,11 +4284,13 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_169-2x.jpg",
-    "gameNo": "169",
     "ename": "Volo",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_151-2x.jpg"
-    ]
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_151-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_196-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_211_R_EN.png"
+    ],
+    "series": "SS11"
   },
   {
     "id": "6432",
@@ -4145,8 +4313,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_154-2x.jpg",
-    "gameNo": "154",
-    "ename": "Box of Disaster"
+    "ename": "Box of Disaster",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_214_R_EN.png"
+    ],
+    "series": "SS11"
   },
   {
     "id": "6831",
@@ -4169,8 +4340,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_165-2x.jpg",
-    "gameNo": "165",
-    "ename": "Panic Mask"
+    "ename": "Panic Mask",
+    "series": "SS11"
   },
   {
     "id": "6431",
@@ -4193,8 +4364,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_170-2x.jpg",
-    "gameNo": "170",
-    "ename": "Windup Arm"
+    "ename": "Windup Arm",
+    "series": "SS11"
   },
   {
     "id": "6429",
@@ -4213,8 +4384,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_152-2x.jpg",
-    "gameNo": "152",
-    "ename": "Arc Phone"
+    "ename": "Arc Phone",
+    "series": "SS11"
   },
   {
     "id": "6430",
@@ -4233,8 +4404,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_156-2x.jpg",
-    "gameNo": "156",
-    "ename": "Damage Pump"
+    "ename": "Damage Pump",
+    "series": "SS11"
   },
   {
     "id": "6830",
@@ -4253,8 +4424,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_162-2x.jpg",
-    "gameNo": "162",
-    "ename": "Lost Vacuum"
+    "ename": "Lost Vacuum",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_217_R_EN.png"
+    ],
+    "series": "SS11"
   },
   {
     "id": "6829",
@@ -4273,8 +4447,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_163-2x.jpg",
-    "gameNo": "163",
-    "ename": "Mirage Gate"
+    "ename": "Mirage Gate",
+    "series": "SS11"
   },
   {
     "id": "6828",
@@ -4293,8 +4467,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_168-2x.jpg",
-    "gameNo": "168",
-    "ename": "Tool Box"
+    "ename": "Tool Box",
+    "series": "SS11"
   },
   {
     "id": "6837",
@@ -4309,7 +4483,7 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_171-2x.jpg",
-    "gameNo": "171",
-    "ename": "Gift Energy"
+    "ename": "Gift Energy",
+    "series": "SS11"
   }
 ]

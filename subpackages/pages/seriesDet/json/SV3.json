@@ -22,8 +22,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_1-2x.jpg",
-    "gameNo": "001",
-    "ename": "Oddish"
+    "ename": "Oddish",
+    "series": "SV3"
   },
   {
     "id": "8485",
@@ -48,11 +48,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_2-2x.jpg",
-    "gameNo": "002",
     "ename": "Gloom",
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_198-2x.jpg"
-    ]
+    ],
+    "series": "SV3"
   },
   {
     "id": "8486",
@@ -77,8 +77,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_3-2x.jpg",
-    "gameNo": "003",
-    "ename": "Bellossom"
+    "ename": "Bellossom",
+    "series": "SV3"
   },
   {
     "id": "8487",
@@ -103,8 +103,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_4-2x.jpg",
-    "gameNo": "004",
-    "ename": "Scyther"
+    "ename": "Scyther",
+    "series": "SV3"
   },
   {
     "id": "8488",
@@ -129,8 +129,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_5-2x.jpg",
-    "gameNo": "005",
-    "ename": "Shuckle"
+    "ename": "Shuckle",
+    "series": "SV3"
   },
   {
     "id": "7941",
@@ -151,8 +151,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_6-2x.jpg",
-    "gameNo": "006",
-    "ename": "Surskit"
+    "ename": "Surskit",
+    "series": "SV3"
   },
   {
     "id": "7942",
@@ -177,8 +177,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_7-2x.jpg",
-    "gameNo": "007",
-    "ename": "Masquerain"
+    "ename": "Masquerain",
+    "series": "SV3"
   },
   {
     "id": "8489",
@@ -203,8 +203,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_8-2x.jpg",
-    "gameNo": "008",
-    "ename": "Combee"
+    "ename": "Combee",
+    "series": "SV3"
   },
   {
     "id": "8337",
@@ -229,8 +229,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_9-2x.jpg",
-    "gameNo": "009",
-    "ename": "Foongus"
+    "ename": "Foongus",
+    "series": "SV3"
   },
   {
     "id": "8338",
@@ -251,8 +251,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_10-2x.jpg",
-    "gameNo": "010",
-    "ename": "Amoonguss"
+    "ename": "Amoonguss",
+    "series": "SV3"
   },
   {
     "id": "8490",
@@ -273,8 +273,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_11-2x.jpg",
-    "gameNo": "011",
-    "ename": "Phantump"
+    "ename": "Phantump",
+    "series": "SV3"
   },
   {
     "id": "8491",
@@ -299,8 +299,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_12-2x.jpg",
-    "gameNo": "012",
-    "ename": "Trevenant"
+    "ename": "Trevenant",
+    "series": "SV3"
   },
   {
     "id": "8339",
@@ -321,8 +321,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_13-2x.jpg",
-    "gameNo": "013",
-    "ename": "Rowlet"
+    "ename": "Rowlet",
+    "series": "SV3"
   },
   {
     "id": "8340",
@@ -343,8 +343,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_14-2x.jpg",
-    "gameNo": "014",
-    "ename": "Dartrix"
+    "ename": "Dartrix",
+    "series": "SV3"
   },
   {
     "id": "8341",
@@ -373,8 +373,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_15-2x.jpg",
-    "gameNo": "015",
-    "ename": "Decidueye ex"
+    "ename": "Decidueye ex",
+    "series": "SV3"
   },
   {
     "id": "7947",
@@ -399,8 +399,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_16-2x.jpg",
-    "gameNo": "016",
-    "ename": "Bounsweet"
+    "ename": "Bounsweet",
+    "series": "SV3"
   },
   {
     "id": "7948",
@@ -425,8 +425,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_17-2x.jpg",
-    "gameNo": "017",
-    "ename": "Steenee"
+    "ename": "Steenee",
+    "series": "SV3"
   },
   {
     "id": "7949",
@@ -451,8 +451,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_18-2x.jpg",
-    "gameNo": "018",
-    "ename": "Tsareena"
+    "ename": "Tsareena",
+    "series": "SV3"
   },
   {
     "id": "8342",
@@ -473,8 +473,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_19-2x.jpg",
-    "gameNo": "019",
-    "ename": "Smoliv"
+    "ename": "Smoliv",
+    "series": "SV3"
   },
   {
     "id": "8343",
@@ -495,8 +495,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_20-2x.jpg",
-    "gameNo": "020",
-    "ename": "Dolliv"
+    "ename": "Dolliv",
+    "series": "SV3"
   },
   {
     "id": "8344",
@@ -521,8 +521,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_21-2x.jpg",
-    "gameNo": "021",
-    "ename": "Arboliva"
+    "ename": "Arboliva",
+    "series": "SV3"
   },
   {
     "id": "8114",
@@ -551,8 +551,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_22-2x.jpg",
-    "gameNo": "022",
-    "ename": "Toedscruel ex"
+    "ename": "Toedscruel ex",
+    "series": "SV3"
   },
   {
     "id": "8492",
@@ -573,8 +573,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_23-2x.jpg",
-    "gameNo": "023",
-    "ename": "Capsakid"
+    "ename": "Capsakid",
+    "series": "SV3"
   },
   {
     "id": "8493",
@@ -595,8 +595,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_24-2x.jpg",
-    "gameNo": "024",
-    "ename": "Capsakid"
+    "ename": "Capsakid",
+    "series": "SV3"
   },
   {
     "id": "8494",
@@ -621,8 +621,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_25-2x.jpg",
-    "gameNo": "025",
-    "ename": "Scovillain"
+    "ename": "Scovillain",
+    "series": "SV3"
   },
   {
     "id": "8495",
@@ -643,8 +643,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_26-2x.jpg",
-    "gameNo": "026",
-    "ename": "Charmander"
+    "ename": "Charmander",
+    "series": "SV3"
   },
   {
     "id": "8496",
@@ -665,8 +665,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_27-2x.jpg",
-    "gameNo": "027",
-    "ename": "Charmeleon"
+    "ename": "Charmeleon",
+    "series": "SV3"
   },
   {
     "id": "8497",
@@ -691,8 +691,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_28-2x.jpg",
-    "gameNo": "028",
-    "ename": "Vulpix"
+    "ename": "Vulpix",
+    "series": "SV3"
   },
   {
     "id": "8498",
@@ -717,11 +717,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_29-2x.jpg",
-    "gameNo": "029",
     "ename": "Ninetales",
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_199-2x.jpg"
-    ]
+    ],
+    "series": "SV3"
   },
   {
     "id": "8499",
@@ -746,8 +746,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_30-2x.jpg",
-    "gameNo": "030",
-    "ename": "Entei"
+    "ename": "Entei",
+    "series": "SV3"
   },
   {
     "id": "8021",
@@ -768,8 +768,8 @@
     "typeEnergy": "Fire",
     "type": "Pokemon",
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_31-2x.jpg",
-    "gameNo": "031",
-    "ename": "Numel"
+    "ename": "Numel",
+    "series": "SV3"
   },
   {
     "id": "8022",
@@ -794,8 +794,8 @@
     "typeEnergy": "Fire",
     "type": "Pokemon",
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_32-2x.jpg",
-    "gameNo": "032",
-    "ename": "Camerupt"
+    "ename": "Camerupt",
+    "series": "SV3"
   },
   {
     "id": "8347",
@@ -824,8 +824,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_33-2x.jpg",
-    "gameNo": "033",
-    "ename": "Victini ex"
+    "ename": "Victini ex",
+    "series": "SV3"
   },
   {
     "id": "8500",
@@ -850,8 +850,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_34-2x.jpg",
-    "gameNo": "034",
-    "ename": "Darumaka"
+    "ename": "Darumaka",
+    "series": "SV3"
   },
   {
     "id": "8501",
@@ -876,8 +876,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_35-2x.jpg",
-    "gameNo": "035",
-    "ename": "Darmanitan"
+    "ename": "Darmanitan",
+    "series": "SV3"
   },
   {
     "id": "8348",
@@ -898,8 +898,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_36-2x.jpg",
-    "gameNo": "036",
-    "ename": "Litwick"
+    "ename": "Litwick",
+    "series": "SV3"
   },
   {
     "id": "8349",
@@ -924,8 +924,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_37-2x.jpg",
-    "gameNo": "037",
-    "ename": "Lampent"
+    "ename": "Lampent",
+    "series": "SV3"
   },
   {
     "id": "8350",
@@ -950,8 +950,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_38-2x.jpg",
-    "gameNo": "038",
-    "ename": "Chandelure"
+    "ename": "Chandelure",
+    "series": "SV3"
   },
   {
     "id": "8502",
@@ -972,8 +972,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_39-2x.jpg",
-    "gameNo": "039",
-    "ename": "Heatmor"
+    "ename": "Heatmor",
+    "series": "SV3"
   },
   {
     "id": "8351",
@@ -998,8 +998,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_40-2x.jpg",
-    "gameNo": "040",
-    "ename": "Larvesta"
+    "ename": "Larvesta",
+    "series": "SV3"
   },
   {
     "id": "8352",
@@ -1024,8 +1024,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_41-2x.jpg",
-    "gameNo": "041",
-    "ename": "Volcarona"
+    "ename": "Volcarona",
+    "series": "SV3"
   },
   {
     "id": "8503",
@@ -1054,12 +1054,12 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_42-2x.jpg",
-    "gameNo": "042",
     "ename": "Eiscue ex",
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_210-2x.jpg",
       "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_222-2x.jpg"
-    ]
+    ],
+    "series": "SV3"
   },
   {
     "id": "8353",
@@ -1084,8 +1084,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_43-2x.jpg",
-    "gameNo": "043",
-    "ename": "Charcadet"
+    "ename": "Charcadet",
+    "series": "SV3"
   },
   {
     "id": "8354",
@@ -1110,8 +1110,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_44-2x.jpg",
-    "gameNo": "044",
-    "ename": "Armarouge"
+    "ename": "Armarouge",
+    "series": "SV3"
   },
   {
     "id": "8355",
@@ -1136,8 +1136,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_45-2x.jpg",
-    "gameNo": "045",
-    "ename": "Lapras"
+    "ename": "Lapras",
+    "series": "SV3"
   },
   {
     "id": "8504",
@@ -1158,8 +1158,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_46-2x.jpg",
-    "gameNo": "046",
-    "ename": "Carvanha"
+    "ename": "Carvanha",
+    "series": "SV3"
   },
   {
     "id": "8505",
@@ -1184,8 +1184,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_47-2x.jpg",
-    "gameNo": "047",
-    "ename": "Sharpedo"
+    "ename": "Sharpedo",
+    "series": "SV3"
   },
   {
     "id": "8357",
@@ -1206,8 +1206,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_48-2x.jpg",
-    "gameNo": "048",
-    "ename": "Buizel"
+    "ename": "Buizel",
+    "series": "SV3"
   },
   {
     "id": "8358",
@@ -1232,8 +1232,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_49-2x.jpg",
-    "gameNo": "049",
-    "ename": "Floatzel"
+    "ename": "Floatzel",
+    "series": "SV3"
   },
   {
     "id": "8506",
@@ -1254,8 +1254,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_50-2x.jpg",
-    "gameNo": "050",
-    "ename": "Tympole"
+    "ename": "Tympole",
+    "series": "SV3"
   },
   {
     "id": "8507",
@@ -1276,8 +1276,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_51-2x.jpg",
-    "gameNo": "051",
-    "ename": "Palpitoad"
+    "ename": "Palpitoad",
+    "series": "SV3"
   },
   {
     "id": "8508",
@@ -1302,8 +1302,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_52-2x.jpg",
-    "gameNo": "052",
-    "ename": "Seismitoad"
+    "ename": "Seismitoad",
+    "series": "SV3"
   },
   {
     "id": "8509",
@@ -1328,8 +1328,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_53-2x.jpg",
-    "gameNo": "053",
-    "ename": "Cubchoo"
+    "ename": "Cubchoo",
+    "series": "SV3"
   },
   {
     "id": "8510",
@@ -1354,8 +1354,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_54-2x.jpg",
-    "gameNo": "054",
-    "ename": "Beartic"
+    "ename": "Beartic",
+    "series": "SV3"
   },
   {
     "id": "8511",
@@ -1376,8 +1376,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_55-2x.jpg",
-    "gameNo": "055",
-    "ename": "Cryogonal"
+    "ename": "Cryogonal",
+    "series": "SV3"
   },
   {
     "id": "8360",
@@ -1398,8 +1398,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_56-2x.jpg",
-    "gameNo": "056",
-    "ename": "Froakie"
+    "ename": "Froakie",
+    "series": "SV3"
   },
   {
     "id": "8361",
@@ -1420,8 +1420,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_57-2x.jpg",
-    "gameNo": "057",
-    "ename": "Frogadier"
+    "ename": "Frogadier",
+    "series": "SV3"
   },
   {
     "id": "8363",
@@ -1442,8 +1442,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_58-2x.jpg",
-    "gameNo": "058",
-    "ename": "Wiglett"
+    "ename": "Wiglett",
+    "series": "SV3"
   },
   {
     "id": "8364",
@@ -1464,8 +1464,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_59-2x.jpg",
-    "gameNo": "059",
-    "ename": "Wugtrio"
+    "ename": "Wugtrio",
+    "series": "SV3"
   },
   {
     "id": "8512",
@@ -1490,8 +1490,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_60-2x.jpg",
-    "gameNo": "060",
-    "ename": "Finizen"
+    "ename": "Finizen",
+    "series": "SV3"
   },
   {
     "id": "8513",
@@ -1512,8 +1512,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_61-2x.jpg",
-    "gameNo": "061",
-    "ename": "Finizen"
+    "ename": "Finizen",
+    "series": "SV3"
   },
   {
     "id": "8514",
@@ -1538,11 +1538,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_62-2x.jpg",
-    "gameNo": "062",
     "ename": "Palafin",
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_200-2x.jpg"
-    ]
+    ],
+    "series": "SV3"
   },
   {
     "id": "8369",
@@ -1567,8 +1567,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_63-2x.jpg",
-    "gameNo": "063",
-    "ename": "Magnemite"
+    "ename": "Magnemite",
+    "series": "SV3"
   },
   {
     "id": "8370",
@@ -1593,8 +1593,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_64-2x.jpg",
-    "gameNo": "064",
-    "ename": "Magneton"
+    "ename": "Magneton",
+    "series": "SV3"
   },
   {
     "id": "8371",
@@ -1619,8 +1619,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_65-2x.jpg",
-    "gameNo": "065",
-    "ename": "Magnezone"
+    "ename": "Magnezone",
+    "series": "SV3"
   },
   {
     "id": "8515",
@@ -1653,11 +1653,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_66-2x.jpg",
-    "gameNo": "066",
     "ename": "Tyranitar ex",
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_211-2x.jpg"
-    ]
+    ],
+    "series": "SV3"
   },
   {
     "id": "8516",
@@ -1682,8 +1682,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_67-2x.jpg",
-    "gameNo": "067",
-    "ename": "Tynamo"
+    "ename": "Tynamo",
+    "series": "SV3"
   },
   {
     "id": "8517",
@@ -1708,8 +1708,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_68-2x.jpg",
-    "gameNo": "068",
-    "ename": "Eelektrik"
+    "ename": "Eelektrik",
+    "series": "SV3"
   },
   {
     "id": "8518",
@@ -1734,8 +1734,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_69-2x.jpg",
-    "gameNo": "069",
-    "ename": "Eelektross"
+    "ename": "Eelektross",
+    "series": "SV3"
   },
   {
     "id": "8519",
@@ -1760,8 +1760,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_70-2x.jpg",
-    "gameNo": "070",
-    "ename": "Thundurus"
+    "ename": "Thundurus",
+    "series": "SV3"
   },
   {
     "id": "8520",
@@ -1782,8 +1782,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_71-2x.jpg",
-    "gameNo": "071",
-    "ename": "Toxel"
+    "ename": "Toxel",
+    "series": "SV3"
   },
   {
     "id": "8521",
@@ -1808,8 +1808,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_72-2x.jpg",
-    "gameNo": "072",
-    "ename": "Toxtricity"
+    "ename": "Toxtricity",
+    "series": "SV3"
   },
   {
     "id": "8117",
@@ -1838,8 +1838,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_73-2x.jpg",
-    "gameNo": "073",
-    "ename": "Pawmot ex"
+    "ename": "Pawmot ex",
+    "series": "SV3"
   },
   {
     "id": "8522",
@@ -1864,8 +1864,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_74-2x.jpg",
-    "gameNo": "074",
-    "ename": "Tadbulb"
+    "ename": "Tadbulb",
+    "series": "SV3"
   },
   {
     "id": "8374",
@@ -1886,8 +1886,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_75-2x.jpg",
-    "gameNo": "075",
-    "ename": "Tadbulb"
+    "ename": "Tadbulb",
+    "series": "SV3"
   },
   {
     "id": "8523",
@@ -1908,8 +1908,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_76-2x.jpg",
-    "gameNo": "076",
-    "ename": "Tadbulb"
+    "ename": "Tadbulb",
+    "series": "SV3"
   },
   {
     "id": "8375",
@@ -1930,8 +1930,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_77-2x.jpg",
-    "gameNo": "077",
-    "ename": "Bellibolt"
+    "ename": "Bellibolt",
+    "series": "SV3"
   },
   {
     "id": "8524",
@@ -1956,11 +1956,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_78-2x.jpg",
-    "gameNo": "078",
     "ename": "Bellibolt",
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_201-2x.jpg"
-    ]
+    ],
+    "series": "SV3"
   },
   {
     "id": "8379",
@@ -1989,8 +1989,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_79-2x.jpg",
-    "gameNo": "079",
-    "ename": "Miraidon ex"
+    "ename": "Miraidon ex",
+    "series": "SV3"
   },
   {
     "id": "8525",
@@ -2011,11 +2011,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_80-2x.jpg",
-    "gameNo": "080",
     "ename": "Cleffa",
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_202-2x-2x.jpg"
-    ]
+    ],
+    "series": "SV3"
   },
   {
     "id": "8380",
@@ -2036,8 +2036,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_81-2x.jpg",
-    "gameNo": "081",
-    "ename": "Clefairy"
+    "ename": "Clefairy",
+    "series": "SV3"
   },
   {
     "id": "8381",
@@ -2066,8 +2066,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_82-2x.jpg",
-    "gameNo": "082",
-    "ename": "Clefable ex"
+    "ename": "Clefable ex",
+    "series": "SV3"
   },
   {
     "id": "8526",
@@ -2092,8 +2092,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_83-2x.jpg",
-    "gameNo": "083",
-    "ename": "Togepi"
+    "ename": "Togepi",
+    "series": "SV3"
   },
   {
     "id": "8527",
@@ -2118,8 +2118,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_84-2x.jpg",
-    "gameNo": "084",
-    "ename": "Togetic"
+    "ename": "Togetic",
+    "series": "SV3"
   },
   {
     "id": "8528",
@@ -2144,8 +2144,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_85-2x.jpg",
-    "gameNo": "085",
-    "ename": "Togekiss"
+    "ename": "Togekiss",
+    "series": "SV3"
   },
   {
     "id": "8529",
@@ -2170,8 +2170,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_86-2x.jpg",
-    "gameNo": "086",
-    "ename": "Espeon"
+    "ename": "Espeon",
+    "series": "SV3"
   },
   {
     "id": "8382",
@@ -2196,8 +2196,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_87-2x.jpg",
-    "gameNo": "087",
-    "ename": "Snubbull"
+    "ename": "Snubbull",
+    "series": "SV3"
   },
   {
     "id": "8383",
@@ -2222,8 +2222,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_88-2x.jpg",
-    "gameNo": "088",
-    "ename": "Granbull"
+    "ename": "Granbull",
+    "series": "SV3"
   },
   {
     "id": "8384",
@@ -2244,8 +2244,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_89-2x.jpg",
-    "gameNo": "089",
-    "ename": "Mawile"
+    "ename": "Mawile",
+    "series": "SV3"
   },
   {
     "id": "7903",
@@ -2270,8 +2270,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_90-2x.jpg",
-    "gameNo": "090",
-    "ename": "Spoink"
+    "ename": "Spoink",
+    "series": "SV3"
   },
   {
     "id": "7904",
@@ -2296,8 +2296,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_91-2x.jpg",
-    "gameNo": "091",
-    "ename": "Grumpig"
+    "ename": "Grumpig",
+    "series": "SV3"
   },
   {
     "id": "8530",
@@ -2322,8 +2322,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_92-2x.jpg",
-    "gameNo": "092",
-    "ename": "Lunatone"
+    "ename": "Lunatone",
+    "series": "SV3"
   },
   {
     "id": "8531",
@@ -2348,8 +2348,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_93-2x.jpg",
-    "gameNo": "093",
-    "ename": "Solrock"
+    "ename": "Solrock",
+    "series": "SV3"
   },
   {
     "id": "8532",
@@ -2370,8 +2370,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_94-2x.jpg",
-    "gameNo": "094",
-    "ename": "Baltoy"
+    "ename": "Baltoy",
+    "series": "SV3"
   },
   {
     "id": "8533",
@@ -2396,8 +2396,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_95-2x.jpg",
-    "gameNo": "095",
-    "ename": "Claydol"
+    "ename": "Claydol",
+    "series": "SV3"
   },
   {
     "id": "8534",
@@ -2430,11 +2430,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_96-2x.jpg",
-    "gameNo": "096",
     "ename": "Vespiquen ex",
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_212-2x.jpg"
-    ]
+    ],
+    "series": "SV3"
   },
   {
     "id": "7975",
@@ -2455,8 +2455,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_97-2x.jpg",
-    "gameNo": "097",
-    "ename": "Sinistea"
+    "ename": "Sinistea",
+    "series": "SV3"
   },
   {
     "id": "7976",
@@ -2481,8 +2481,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_98-2x.jpg",
-    "gameNo": "098",
-    "ename": "Polteageist"
+    "ename": "Polteageist",
+    "series": "SV3"
   },
   {
     "id": "8535",
@@ -2507,8 +2507,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_99-2x.jpg",
-    "gameNo": "099",
-    "ename": "Greavard"
+    "ename": "Greavard",
+    "series": "SV3"
   },
   {
     "id": "8536",
@@ -2529,8 +2529,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_100-2x.jpg",
-    "gameNo": "100",
-    "ename": "Greavard"
+    "ename": "Greavard",
+    "series": "SV3"
   },
   {
     "id": "8537",
@@ -2555,8 +2555,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_101-2x.jpg",
-    "gameNo": "101",
-    "ename": "Houndstone"
+    "ename": "Houndstone",
+    "series": "SV3"
   },
   {
     "id": "8119",
@@ -2585,8 +2585,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_102-2x.jpg",
-    "gameNo": "102",
-    "ename": "Houndstone ex"
+    "ename": "Houndstone ex",
+    "series": "SV3"
   },
   {
     "id": "7911",
@@ -2607,8 +2607,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_103-2x.jpg",
-    "gameNo": "103",
-    "ename": "Diglett"
+    "ename": "Diglett",
+    "series": "SV3"
   },
   {
     "id": "7912",
@@ -2629,8 +2629,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_104-2x.jpg",
-    "gameNo": "104",
-    "ename": "Dugtrio"
+    "ename": "Dugtrio",
+    "series": "SV3"
   },
   {
     "id": "8538",
@@ -2655,11 +2655,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_105-2x.jpg",
-    "gameNo": "105",
     "ename": "Larvitar",
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_203-2x-2x.jpg"
-    ]
+    ],
+    "series": "SV3"
   },
   {
     "id": "8539",
@@ -2684,8 +2684,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_106-2x.jpg",
-    "gameNo": "106",
-    "ename": "Pupitar"
+    "ename": "Pupitar",
+    "series": "SV3"
   },
   {
     "id": "8540",
@@ -2710,8 +2710,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_107-2x.jpg",
-    "gameNo": "107",
-    "ename": "Nosepass"
+    "ename": "Nosepass",
+    "series": "SV3"
   },
   {
     "id": "8049",
@@ -2736,8 +2736,8 @@
     "typeEnergy": "Fighting",
     "type": "Pokemon",
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_108-2x.jpg",
-    "gameNo": "108",
-    "ename": "Barboach"
+    "ename": "Barboach",
+    "series": "SV3"
   },
   {
     "id": "8050",
@@ -2762,8 +2762,8 @@
     "typeEnergy": "Fighting",
     "type": "Pokemon",
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_109-2x.jpg",
-    "gameNo": "109",
-    "ename": "Whiscash"
+    "ename": "Whiscash",
+    "series": "SV3"
   },
   {
     "id": "8541",
@@ -2784,8 +2784,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_110-2x.jpg",
-    "gameNo": "110",
-    "ename": "Bonsly"
+    "ename": "Bonsly",
+    "series": "SV3"
   },
   {
     "id": "8394",
@@ -2806,8 +2806,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_111-2x.jpg",
-    "gameNo": "111",
-    "ename": "Drilbur"
+    "ename": "Drilbur",
+    "series": "SV3"
   },
   {
     "id": "8542",
@@ -2832,8 +2832,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_112-2x.jpg",
-    "gameNo": "112",
-    "ename": "Stunfisk"
+    "ename": "Stunfisk",
+    "series": "SV3"
   },
   {
     "id": "8543",
@@ -2858,8 +2858,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_113-2x.jpg",
-    "gameNo": "113",
-    "ename": "Diggersby"
+    "ename": "Diggersby",
+    "series": "SV3"
   },
   {
     "id": "8053",
@@ -2884,8 +2884,8 @@
     "typeEnergy": "Fighting",
     "type": "Pokemon",
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_114-2x.jpg",
-    "gameNo": "114",
-    "ename": "Crabrawler"
+    "ename": "Crabrawler",
+    "series": "SV3"
   },
   {
     "id": "8054",
@@ -2910,8 +2910,8 @@
     "typeEnergy": "Fighting",
     "type": "Pokemon",
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_115-2x.jpg",
-    "gameNo": "115",
-    "ename": "Crabominable"
+    "ename": "Crabominable",
+    "series": "SV3"
   },
   {
     "id": "8544",
@@ -2932,8 +2932,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_116-2x.jpg",
-    "gameNo": "116",
-    "ename": "Rockruff"
+    "ename": "Rockruff",
+    "series": "SV3"
   },
   {
     "id": "8545",
@@ -2958,8 +2958,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_117-2x.jpg",
-    "gameNo": "117",
-    "ename": "Lycanroc"
+    "ename": "Lycanroc",
+    "series": "SV3"
   },
   {
     "id": "8398",
@@ -2984,8 +2984,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_118-2x.jpg",
-    "gameNo": "118",
-    "ename": "Toedscool"
+    "ename": "Toedscool",
+    "series": "SV3"
   },
   {
     "id": "8399",
@@ -3010,8 +3010,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_119-2x.jpg",
-    "gameNo": "119",
-    "ename": "Toedscruel"
+    "ename": "Toedscruel",
+    "series": "SV3"
   },
   {
     "id": "7829",
@@ -3040,8 +3040,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_120-2x.jpg",
-    "gameNo": "120",
-    "ename": "Klawf ex"
+    "ename": "Klawf ex",
+    "series": "SV3"
   },
   {
     "id": "8546",
@@ -3066,8 +3066,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_121-2x.jpg",
-    "gameNo": "121",
-    "ename": "Glimmet"
+    "ename": "Glimmet",
+    "series": "SV3"
   },
   {
     "id": "8547",
@@ -3088,8 +3088,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_122-2x.jpg",
-    "gameNo": "122",
-    "ename": "Glimmet"
+    "ename": "Glimmet",
+    "series": "SV3"
   },
   {
     "id": "8548",
@@ -3118,11 +3118,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_123-2x.jpg",
-    "gameNo": "123",
     "ename": "Glimmora ex",
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_213-2x.jpg"
-    ]
+    ],
+    "series": "SV3"
   },
   {
     "id": "8401",
@@ -3151,8 +3151,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_124-2x.jpg",
-    "gameNo": "124",
-    "ename": "Koraidon ex"
+    "ename": "Koraidon ex",
+    "series": "SV3"
   },
   {
     "id": "8549",
@@ -3185,13 +3185,13 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_125-2x.jpg",
-    "gameNo": "125",
     "ename": "Charizard ex",
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_215-2x.jpg",
       "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_223-2x.jpg",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/OBF/OBF_228_R_EN.png"
-    ]
+    ],
+    "series": "SV3"
   },
   {
     "id": "8402",
@@ -3212,8 +3212,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_126-2x.jpg",
-    "gameNo": "126",
-    "ename": "Paldean Wooper"
+    "ename": "Paldean Wooper",
+    "series": "SV3"
   },
   {
     "id": "8551",
@@ -3234,8 +3234,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_127-2x.jpg",
-    "gameNo": "127",
-    "ename": "Paldean Wooper"
+    "ename": "Paldean Wooper",
+    "series": "SV3"
   },
   {
     "id": "8403",
@@ -3260,8 +3260,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_128-2x.jpg",
-    "gameNo": "128",
-    "ename": "Paldean Clodsire"
+    "ename": "Paldean Clodsire",
+    "series": "SV3"
   },
   {
     "id": "8552",
@@ -3286,8 +3286,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_129-2x.jpg",
-    "gameNo": "129",
-    "ename": "Paldean Clodsire"
+    "ename": "Paldean Clodsire",
+    "series": "SV3"
   },
   {
     "id": "8553",
@@ -3312,8 +3312,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_130-2x.jpg",
-    "gameNo": "130",
-    "ename": "Umbreon"
+    "ename": "Umbreon",
+    "series": "SV3"
   },
   {
     "id": "8554",
@@ -3338,11 +3338,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_131-2x.jpg",
-    "gameNo": "131",
     "ename": "Houndour",
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_204-2x.jpg"
-    ]
+    ],
+    "series": "SV3"
   },
   {
     "id": "8404",
@@ -3367,8 +3367,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_132-2x.jpg",
-    "gameNo": "132",
-    "ename": "Houndour"
+    "ename": "Houndour",
+    "series": "SV3"
   },
   {
     "id": "8555",
@@ -3393,8 +3393,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_133-2x.jpg",
-    "gameNo": "133",
-    "ename": "Houndoom"
+    "ename": "Houndoom",
+    "series": "SV3"
   },
   {
     "id": "8405",
@@ -3423,8 +3423,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_134-2x.jpg",
-    "gameNo": "134",
-    "ename": "Houndoom ex"
+    "ename": "Houndoom ex",
+    "series": "SV3"
   },
   {
     "id": "8556",
@@ -3453,11 +3453,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_135-2x.jpg",
-    "gameNo": "135",
     "ename": "Absol ex",
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_214-2x.jpg"
-    ]
+    ],
+    "series": "SV3"
   },
   {
     "id": "8557",
@@ -3482,8 +3482,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_136-2x.jpg",
-    "gameNo": "136",
-    "ename": "Darkrai"
+    "ename": "Darkrai",
+    "series": "SV3"
   },
   {
     "id": "8558",
@@ -3504,8 +3504,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_137-2x.jpg",
-    "gameNo": "137",
-    "ename": "Inkay"
+    "ename": "Inkay",
+    "series": "SV3"
   },
   {
     "id": "8559",
@@ -3530,8 +3530,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_138-2x.jpg",
-    "gameNo": "138",
-    "ename": "Malamar"
+    "ename": "Malamar",
+    "series": "SV3"
   },
   {
     "id": "7927",
@@ -3556,8 +3556,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_139-2x.jpg",
-    "gameNo": "139",
-    "ename": "Salandit"
+    "ename": "Salandit",
+    "series": "SV3"
   },
   {
     "id": "7928",
@@ -3582,8 +3582,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_140-2x.jpg",
-    "gameNo": "140",
-    "ename": "Salazzle"
+    "ename": "Salazzle",
+    "series": "SV3"
   },
   {
     "id": "8560",
@@ -3608,11 +3608,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_141-2x.jpg",
-    "gameNo": "141",
     "ename": "Scizor",
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_205-2x.jpg"
-    ]
+    ],
+    "series": "SV3"
   },
   {
     "id": "8414",
@@ -3637,8 +3637,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_142-2x.jpg",
-    "gameNo": "142",
-    "ename": "Skarmory"
+    "ename": "Skarmory",
+    "series": "SV3"
   },
   {
     "id": "8561",
@@ -3663,8 +3663,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_143-2x.jpg",
-    "gameNo": "143",
-    "ename": "Mawile"
+    "ename": "Mawile",
+    "series": "SV3"
   },
   {
     "id": "7990",
@@ -3689,8 +3689,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_144-2x.jpg",
-    "gameNo": "144",
-    "ename": "Bronzor"
+    "ename": "Bronzor",
+    "series": "SV3"
   },
   {
     "id": "7991",
@@ -3715,8 +3715,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_145-2x.jpg",
-    "gameNo": "145",
-    "ename": "Bronzong"
+    "ename": "Bronzong",
+    "series": "SV3"
   },
   {
     "id": "8562",
@@ -3741,8 +3741,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_146-2x.jpg",
-    "gameNo": "146",
-    "ename": "Probopass"
+    "ename": "Probopass",
+    "series": "SV3"
   },
   {
     "id": "8415",
@@ -3763,8 +3763,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_147-2x.jpg",
-    "gameNo": "147",
-    "ename": "Excadrill"
+    "ename": "Excadrill",
+    "series": "SV3"
   },
   {
     "id": "8563",
@@ -3785,8 +3785,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_148-2x.jpg",
-    "gameNo": "148",
-    "ename": "Pawniard"
+    "ename": "Pawniard",
+    "series": "SV3"
   },
   {
     "id": "8564",
@@ -3811,8 +3811,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_149-2x.jpg",
-    "gameNo": "149",
-    "ename": "Bisharp"
+    "ename": "Bisharp",
+    "series": "SV3"
   },
   {
     "id": "8565",
@@ -3837,8 +3837,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_150-2x.jpg",
-    "gameNo": "150",
-    "ename": "Kingambit"
+    "ename": "Kingambit",
+    "series": "SV3"
   },
   {
     "id": "8416",
@@ -3863,8 +3863,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_151-2x.jpg",
-    "gameNo": "151",
-    "ename": "Togedemaru"
+    "ename": "Togedemaru",
+    "series": "SV3"
   },
   {
     "id": "8417",
@@ -3885,8 +3885,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_152-2x.jpg",
-    "gameNo": "152",
-    "ename": "Meltan"
+    "ename": "Meltan",
+    "series": "SV3"
   },
   {
     "id": "8418",
@@ -3915,8 +3915,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_153-2x.jpg",
-    "gameNo": "153",
-    "ename": "Melmetal ex"
+    "ename": "Melmetal ex",
+    "series": "SV3"
   },
   {
     "id": "8566",
@@ -3937,11 +3937,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_154-2x.jpg",
-    "gameNo": "154",
     "ename": "Varoom",
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_206-2x.jpg"
-    ]
+    ],
+    "series": "SV3"
   },
   {
     "id": "8567",
@@ -3962,8 +3962,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_155-2x.jpg",
-    "gameNo": "155",
-    "ename": "Varoom"
+    "ename": "Varoom",
+    "series": "SV3"
   },
   {
     "id": "8568",
@@ -3992,12 +3992,12 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_156-2x.jpg",
-    "gameNo": "156",
     "ename": "Revavroom ex",
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_216-2x.jpg",
       "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_224-2x.jpg"
-    ]
+    ],
+    "series": "SV3"
   },
   {
     "id": "8421",
@@ -4018,8 +4018,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_157-2x.jpg",
-    "gameNo": "157",
-    "ename": "Dratini"
+    "ename": "Dratini",
+    "series": "SV3"
   },
   {
     "id": "8422",
@@ -4044,8 +4044,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_158-2x.jpg",
-    "gameNo": "158",
-    "ename": "Dragonair"
+    "ename": "Dragonair",
+    "series": "SV3"
   },
   {
     "id": "8423",
@@ -4078,8 +4078,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_159-2x.jpg",
-    "gameNo": "159",
-    "ename": "Dragonite ex"
+    "ename": "Dragonite ex",
+    "series": "SV3"
   },
   {
     "id": "8569",
@@ -4104,8 +4104,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_160-2x.jpg",
-    "gameNo": "160",
-    "ename": "Altaria"
+    "ename": "Altaria",
+    "series": "SV3"
   },
   {
     "id": "8424",
@@ -4126,8 +4126,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_161-2x.jpg",
-    "gameNo": "161",
-    "ename": "Drampa"
+    "ename": "Drampa",
+    "series": "SV3"
   },
   {
     "id": "8570",
@@ -4148,11 +4148,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_162-2x.jpg",
-    "gameNo": "162",
     "ename": "Pidgey",
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_207-2x.jpg"
-    ]
+    ],
+    "series": "SV3"
   },
   {
     "id": "8571",
@@ -4173,11 +4173,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_163-2x.jpg",
-    "gameNo": "163",
     "ename": "Pidgeotto",
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_208-2x-2x.jpg"
-    ]
+    ],
+    "series": "SV3"
   },
   {
     "id": "8572",
@@ -4206,12 +4206,12 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_164-2x.jpg",
-    "gameNo": "164",
     "ename": "Pidgeot ex",
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_217-2x.jpg",
       "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_225-2x.jpg"
-    ]
+    ],
+    "series": "SV3"
   },
   {
     "id": "8573",
@@ -4236,8 +4236,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_165-2x.jpg",
-    "gameNo": "165",
-    "ename": "Kangaskhan"
+    "ename": "Kangaskhan",
+    "series": "SV3"
   },
   {
     "id": "8574",
@@ -4262,8 +4262,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_166-2x.jpg",
-    "gameNo": "166",
-    "ename": "Eevee"
+    "ename": "Eevee",
+    "series": "SV3"
   },
   {
     "id": "8575",
@@ -4288,8 +4288,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_167-2x.jpg",
-    "gameNo": "167",
-    "ename": "Zigzagoon"
+    "ename": "Zigzagoon",
+    "series": "SV3"
   },
   {
     "id": "8576",
@@ -4314,8 +4314,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_168-2x.jpg",
-    "gameNo": "168",
-    "ename": "Linoone"
+    "ename": "Linoone",
+    "series": "SV3"
   },
   {
     "id": "8577",
@@ -4340,8 +4340,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_169-2x.jpg",
-    "gameNo": "169",
-    "ename": "Swablu"
+    "ename": "Swablu",
+    "series": "SV3"
   },
   {
     "id": "8427",
@@ -4362,8 +4362,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_170-2x.jpg",
-    "gameNo": "170",
-    "ename": "Lillipup"
+    "ename": "Lillipup",
+    "series": "SV3"
   },
   {
     "id": "8428",
@@ -4388,8 +4388,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_171-2x.jpg",
-    "gameNo": "171",
-    "ename": "Herdier"
+    "ename": "Herdier",
+    "series": "SV3"
   },
   {
     "id": "8429",
@@ -4414,8 +4414,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_172-2x.jpg",
-    "gameNo": "172",
-    "ename": "Stoutland"
+    "ename": "Stoutland",
+    "series": "SV3"
   },
   {
     "id": "8430",
@@ -4440,8 +4440,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_173-2x.jpg",
-    "gameNo": "173",
-    "ename": "Audino"
+    "ename": "Audino",
+    "series": "SV3"
   },
   {
     "id": "8431",
@@ -4466,8 +4466,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_174-2x.jpg",
-    "gameNo": "174",
-    "ename": "Bouffalant"
+    "ename": "Bouffalant",
+    "series": "SV3"
   },
   {
     "id": "8578",
@@ -4488,8 +4488,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_175-2x.jpg",
-    "gameNo": "175",
-    "ename": "Bunnelby"
+    "ename": "Bunnelby",
+    "series": "SV3"
   },
   {
     "id": "7929",
@@ -4510,8 +4510,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_176-2x.jpg",
-    "gameNo": "176",
-    "ename": "Yungoos"
+    "ename": "Yungoos",
+    "series": "SV3"
   },
   {
     "id": "7930",
@@ -4536,8 +4536,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_177-2x.jpg",
-    "gameNo": "177",
-    "ename": "Gumshoos"
+    "ename": "Gumshoos",
+    "series": "SV3"
   },
   {
     "id": "8432",
@@ -4562,8 +4562,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_178-2x.jpg",
-    "gameNo": "178",
-    "ename": "Skwovet"
+    "ename": "Skwovet",
+    "series": "SV3"
   },
   {
     "id": "8433",
@@ -4596,8 +4596,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_179-2x.jpg",
-    "gameNo": "179",
-    "ename": "Greedent ex"
+    "ename": "Greedent ex",
+    "series": "SV3"
   },
   {
     "id": "8579",
@@ -4618,11 +4618,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_180-2x.jpg",
-    "gameNo": "180",
     "ename": "Lechonk",
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_209-2x.jpg"
-    ]
+    ],
+    "series": "SV3"
   },
   {
     "id": "8580",
@@ -4643,8 +4643,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_181-2x.jpg",
-    "gameNo": "181",
-    "ename": "Lechonk"
+    "ename": "Lechonk",
+    "series": "SV3"
   },
   {
     "id": "8435",
@@ -4669,8 +4669,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_182-2x.jpg",
-    "gameNo": "182",
-    "ename": "Lechonk"
+    "ename": "Lechonk",
+    "series": "SV3"
   },
   {
     "id": "8436",
@@ -4695,8 +4695,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_183-2x.jpg",
-    "gameNo": "183",
-    "ename": "Oinkologne"
+    "ename": "Oinkologne",
+    "series": "SV3"
   },
   {
     "id": "8581",
@@ -4721,8 +4721,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_184-2x.jpg",
-    "gameNo": "184",
-    "ename": "Oinkologne"
+    "ename": "Oinkologne",
+    "series": "SV3"
   },
   {
     "id": "8582",
@@ -4747,8 +4747,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_185-2x.jpg",
-    "gameNo": "185",
-    "ename": "Flamigo"
+    "ename": "Flamigo",
+    "series": "SV3"
   },
   {
     "id": "8591",
@@ -4767,8 +4767,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_192-2x.jpg",
-    "gameNo": "192",
-    "ename": "Pokémon League Headquarters"
+    "ename": "Pokémon League Headquarters",
+    "series": "SV3"
   },
   {
     "id": "8590",
@@ -4787,8 +4787,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_196-2x.jpg",
-    "gameNo": "196",
-    "ename": "Town Store"
+    "ename": "Town Store",
+    "series": "SV3"
   },
   {
     "id": "7724",
@@ -4807,8 +4807,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_186-2x.jpg",
-    "gameNo": "186",
-    "ename": "Arven"
+    "ename": "Arven",
+    "series": "SV3"
   },
   {
     "id": "7831",
@@ -4827,8 +4827,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_187-2x.jpg",
-    "gameNo": "187",
-    "ename": "Brassius"
+    "ename": "Brassius",
+    "series": "SV3"
   },
   {
     "id": "8586",
@@ -4847,12 +4847,12 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_188-2x.jpg",
-    "gameNo": "188",
     "ename": "Geeta",
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_218-2x.jpg",
       "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_226-2x.jpg"
-    ]
+    ],
+    "series": "SV3"
   },
   {
     "id": "8587",
@@ -4871,11 +4871,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_190-2x.jpg",
-    "gameNo": "190",
     "ename": "Ortega",
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_219-2x.jpg"
-    ]
+    ],
+    "series": "SV3"
   },
   {
     "id": "8588",
@@ -4894,12 +4894,12 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_193-2x.jpg",
-    "gameNo": "193",
     "ename": "Poppy",
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_220-2x.jpg",
       "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_227-2x.jpg"
-    ]
+    ],
+    "series": "SV3"
   },
   {
     "id": "8589",
@@ -4918,11 +4918,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_194-2x.jpg",
-    "gameNo": "194",
     "ename": "Ryme",
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_221-2x.jpg"
-    ]
+    ],
+    "series": "SV3"
   },
   {
     "id": "7645",
@@ -4941,8 +4941,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_195-2x.jpg",
-    "gameNo": "195",
-    "ename": "Team Star Grunt"
+    "ename": "Team Star Grunt",
+    "series": "SV3"
   },
   {
     "id": "8584",
@@ -4961,8 +4961,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_191-2x.jpg",
-    "gameNo": "191",
-    "ename": "Patrol Cap"
+    "ename": "Patrol Cap",
+    "series": "SV3"
   },
   {
     "id": "8585",
@@ -4981,8 +4981,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_197-2x.jpg",
-    "gameNo": "197",
-    "ename": "Vengeful Punch"
+    "ename": "Vengeful Punch",
+    "series": "SV3"
   },
   {
     "id": "8583",
@@ -5001,7 +5001,7 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_189-2x.jpg",
-    "gameNo": "189",
-    "ename": "Letter of Encouragement"
+    "ename": "Letter of Encouragement",
+    "series": "SV3"
   }
 ]

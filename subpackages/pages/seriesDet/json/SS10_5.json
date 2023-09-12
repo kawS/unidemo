@@ -22,8 +22,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_1-2x.jpg",
-    "gameNo": "001",
-    "ename": "Bulbasaur"
+    "ename": "Bulbasaur",
+    "series": "SS10.5"
   },
   {
     "id": "6535",
@@ -48,8 +48,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_2-2x.jpg",
-    "gameNo": "002",
-    "ename": "Ivysaur"
+    "ename": "Ivysaur",
+    "series": "SS10.5"
   },
   {
     "id": "6536",
@@ -74,8 +74,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_3-2x.jpg",
-    "gameNo": "003",
-    "ename": "Venusaur"
+    "ename": "Venusaur",
+    "series": "SS10.5"
   },
   {
     "id": "6537",
@@ -104,8 +104,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_4-2x.jpg",
-    "gameNo": "004",
-    "ename": "Radiant Venusaur"
+    "ename": "Radiant Venusaur",
+    "series": "SS10.5"
   },
   {
     "id": "6538",
@@ -134,8 +134,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_5-2x.jpg",
-    "gameNo": "005",
-    "ename": "Alolan Exeggutor V"
+    "ename": "Alolan Exeggutor V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_71-2x.jpg"
+    ],
+    "series": "SS10.5"
   },
   {
     "id": "6539",
@@ -156,8 +159,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_6-2x.jpg",
-    "gameNo": "006",
-    "ename": "Spinarak"
+    "ename": "Spinarak",
+    "series": "SS10.5"
   },
   {
     "id": "6540",
@@ -182,8 +185,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_7-2x.jpg",
-    "gameNo": "007",
-    "ename": "Ariados"
+    "ename": "Ariados",
+    "series": "SS10.5"
   },
   {
     "id": "6541",
@@ -204,8 +207,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_8-2x.jpg",
-    "gameNo": "008",
-    "ename": "Charmander"
+    "ename": "Charmander",
+    "series": "SS10.5"
   },
   {
     "id": "6542",
@@ -230,8 +233,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_9-2x.jpg",
-    "gameNo": "009",
-    "ename": "Charmeleon"
+    "ename": "Charmeleon",
+    "series": "SS10.5"
   },
   {
     "id": "6543",
@@ -256,8 +259,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_10-2x.jpg",
-    "gameNo": "010",
-    "ename": "Charizard"
+    "ename": "Charizard",
+    "series": "SS10.5"
   },
   {
     "id": "6544",
@@ -286,8 +289,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_11-2x.jpg",
-    "gameNo": "011",
-    "ename": "Radiant Charizard"
+    "ename": "Radiant Charizard",
+    "series": "SS10.5"
   },
   {
     "id": "6545",
@@ -312,8 +315,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_12-2x.jpg",
-    "gameNo": "012",
-    "ename": "Moltres"
+    "ename": "Moltres",
+    "series": "SS10.5"
   },
   {
     "id": "6546",
@@ -338,8 +341,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_13-2x.jpg",
-    "gameNo": "013",
-    "ename": "Numel"
+    "ename": "Numel",
+    "series": "SS10.5"
   },
   {
     "id": "6547",
@@ -364,8 +367,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_14-2x.jpg",
-    "gameNo": "014",
-    "ename": "Camerupt"
+    "ename": "Camerupt",
+    "series": "SS10.5"
   },
   {
     "id": "6548",
@@ -386,8 +389,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_15-2x.jpg",
-    "gameNo": "015",
-    "ename": "Squirtle"
+    "ename": "Squirtle",
+    "series": "SS10.5"
   },
   {
     "id": "6549",
@@ -412,8 +415,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_16-2x.jpg",
-    "gameNo": "016",
-    "ename": "Wartortle"
+    "ename": "Wartortle",
+    "series": "SS10.5"
   },
   {
     "id": "6550",
@@ -438,8 +441,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_17-2x.jpg",
-    "gameNo": "017",
-    "ename": "Blastoise"
+    "ename": "Blastoise",
+    "series": "SS10.5"
   },
   {
     "id": "6551",
@@ -468,8 +471,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_18-2x.jpg",
-    "gameNo": "018",
-    "ename": "Radiant Blastoise"
+    "ename": "Radiant Blastoise",
+    "series": "SS10.5"
   },
   {
     "id": "6552",
@@ -494,8 +497,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_19-2x.jpg",
-    "gameNo": "019",
-    "ename": "Slowpoke"
+    "ename": "Slowpoke",
+    "series": "SS10.5"
   },
   {
     "id": "6553",
@@ -520,8 +523,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_20-2x.jpg",
-    "gameNo": "020",
-    "ename": "Slowbro"
+    "ename": "Slowbro",
+    "series": "SS10.5"
   },
   {
     "id": "6554",
@@ -546,8 +549,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_21-2x.jpg",
-    "gameNo": "021",
-    "ename": "Magikarp"
+    "ename": "Magikarp",
+    "series": "SS10.5"
   },
   {
     "id": "6555",
@@ -572,8 +575,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_22-2x.jpg",
-    "gameNo": "022",
-    "ename": "Gyarados"
+    "ename": "Gyarados",
+    "series": "SS10.5"
   },
   {
     "id": "6556",
@@ -598,8 +601,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_23-2x.jpg",
-    "gameNo": "023",
-    "ename": "Lapras"
+    "ename": "Lapras",
+    "series": "SS10.5"
   },
   {
     "id": "6557",
@@ -624,8 +627,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_24-2x.jpg",
-    "gameNo": "024",
-    "ename": "Articuno"
+    "ename": "Articuno",
+    "series": "SS10.5"
   },
   {
     "id": "6558",
@@ -650,8 +653,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_25-2x.jpg",
-    "gameNo": "025",
-    "ename": "Wimpod"
+    "ename": "Wimpod",
+    "series": "SS10.5"
   },
   {
     "id": "6559",
@@ -676,8 +679,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_26-2x.jpg",
-    "gameNo": "026",
-    "ename": "Golisopod"
+    "ename": "Golisopod",
+    "series": "SS10.5"
   },
   {
     "id": "6560",
@@ -698,8 +701,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_27-2x.jpg",
-    "gameNo": "027",
-    "ename": "Pikachu"
+    "ename": "Pikachu",
+    "series": "SS10.5"
   },
   {
     "id": "6561",
@@ -720,11 +723,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_28-2x.jpg",
-    "gameNo": "028",
     "ename": "Pikachu",
     "artList": [
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_160_R_EN.png"
-    ]
+    ],
+    "series": "SS10.5"
   },
   {
     "id": "6562",
@@ -749,8 +752,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_29-2x.jpg",
-    "gameNo": "029",
-    "ename": "Zapdos"
+    "ename": "Zapdos",
+    "series": "SS10.5"
   },
   {
     "id": "6563",
@@ -779,8 +782,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_30-2x.jpg",
-    "gameNo": "030",
-    "ename": "Mewtwo V"
+    "ename": "Mewtwo V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_72-2x.jpg"
+    ],
+    "series": "SS10.5"
   },
   {
     "id": "6564",
@@ -809,11 +815,13 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_31-2x.jpg",
-    "gameNo": "031",
     "ename": "Mewtwo VSTAR",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_44-2x.jpg"
-    ]
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_44-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PGO/PGO_079_R_EN.png",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PGO/PGO_086_R_EN.png"
+    ],
+    "series": "SS10.5"
   },
   {
     "id": "6565",
@@ -838,8 +846,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_32-2x.jpg",
-    "gameNo": "032",
-    "ename": "Natu"
+    "ename": "Natu",
+    "series": "SS10.5"
   },
   {
     "id": "6566",
@@ -864,8 +872,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_33-2x.jpg",
-    "gameNo": "033",
-    "ename": "Xatu"
+    "ename": "Xatu",
+    "series": "SS10.5"
   },
   {
     "id": "6567",
@@ -890,11 +898,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_34-2x.jpg",
-    "gameNo": "034",
     "ename": "Lunatone",
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_11-2x.jpg"
-    ]
+    ],
+    "series": "SS10.5"
   },
   {
     "id": "6568",
@@ -919,8 +927,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_35-2x.jpg",
-    "gameNo": "035",
-    "ename": "Sylveon"
+    "ename": "Sylveon",
+    "series": "SS10.5"
   },
   {
     "id": "6569",
@@ -945,8 +953,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_36-2x.jpg",
-    "gameNo": "036",
-    "ename": "Onix"
+    "ename": "Onix",
+    "series": "SS10.5"
   },
   {
     "id": "6570",
@@ -967,8 +975,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_37-2x.jpg",
-    "gameNo": "037",
-    "ename": "Larvitar"
+    "ename": "Larvitar",
+    "series": "SS10.5"
   },
   {
     "id": "6571",
@@ -993,8 +1001,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_38-2x.jpg",
-    "gameNo": "038",
-    "ename": "Pupitar"
+    "ename": "Pupitar",
+    "series": "SS10.5"
   },
   {
     "id": "6572",
@@ -1019,11 +1027,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_39-2x.jpg",
-    "gameNo": "039",
     "ename": "Solrock",
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_15-2x.jpg"
-    ]
+    ],
+    "series": "SS10.5"
   },
   {
     "id": "6573",
@@ -1052,8 +1060,12 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_40-2x.jpg",
-    "gameNo": "040",
-    "ename": "Conkeldurr V"
+    "ename": "Conkeldurr V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_73-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_74-2x.jpg"
+    ],
+    "series": "SS10.5"
   },
   {
     "id": "6574",
@@ -1074,8 +1086,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_41-2x.jpg",
-    "gameNo": "041",
-    "ename": "Alolan Rattata"
+    "ename": "Alolan Rattata",
+    "series": "SS10.5"
   },
   {
     "id": "6575",
@@ -1100,8 +1112,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_42-2x.jpg",
-    "gameNo": "042",
-    "ename": "Alolan Raticate"
+    "ename": "Alolan Raticate",
+    "series": "SS10.5"
   },
   {
     "id": "6576",
@@ -1126,8 +1138,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_43-2x.jpg",
-    "gameNo": "043",
-    "ename": "Tyranitar"
+    "ename": "Tyranitar",
+    "series": "SS10.5"
   },
   {
     "id": "6577",
@@ -1152,8 +1164,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_44-2x.jpg",
-    "gameNo": "044",
-    "ename": "Steelix"
+    "ename": "Steelix",
+    "series": "SS10.5"
   },
   {
     "id": "6578",
@@ -1174,8 +1186,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_45-2x.jpg",
-    "gameNo": "045",
-    "ename": "Meltan"
+    "ename": "Meltan",
+    "series": "SS10.5"
   },
   {
     "id": "6579",
@@ -1200,8 +1212,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_46-2x.jpg",
-    "gameNo": "046",
-    "ename": "Melmetal"
+    "ename": "Melmetal",
+    "series": "SS10.5"
   },
   {
     "id": "6580",
@@ -1230,8 +1242,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_47-2x.jpg",
-    "gameNo": "047",
-    "ename": "Melmetal V"
+    "ename": "Melmetal V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_75-2x.jpg"
+    ],
+    "series": "SS10.5"
   },
   {
     "id": "6581",
@@ -1256,8 +1271,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_48-2x.jpg",
-    "gameNo": "048",
-    "ename": "Melmetal VMAX"
+    "ename": "Melmetal VMAX",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PGO/PGO_080_R_EN.png"
+    ],
+    "series": "SS10.5"
   },
   {
     "id": "6582",
@@ -1286,8 +1304,13 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_49-2x.jpg",
-    "gameNo": "049",
-    "ename": "Dragonite V"
+    "ename": "Dragonite V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_76-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_191-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_192-2x.jpg"
+    ],
+    "series": "SS10.5"
   },
   {
     "id": "6583",
@@ -1316,8 +1339,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_50-2x.jpg",
-    "gameNo": "050",
-    "ename": "Dragonite VSTAR"
+    "ename": "Dragonite VSTAR",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PGO/PGO_081_R_EN.png"
+    ],
+    "series": "SS10.5"
   },
   {
     "id": "6584",
@@ -1342,8 +1368,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_51-2x.jpg",
-    "gameNo": "051",
-    "ename": "Chansey"
+    "ename": "Chansey",
+    "series": "SS10.5"
   },
   {
     "id": "6585",
@@ -1368,8 +1394,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_52-2x.jpg",
-    "gameNo": "052",
-    "ename": "Blissey"
+    "ename": "Blissey",
+    "series": "SS10.5"
   },
   {
     "id": "6586",
@@ -1390,11 +1416,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_53-2x.jpg",
-    "gameNo": "053",
     "ename": "Ditto",
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_22-2x.jpg"
-    ]
+    ],
+    "series": "SS10.5"
   },
   {
     "id": "6587",
@@ -1419,8 +1445,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_54-2x.jpg",
-    "gameNo": "054",
-    "ename": "Eevee"
+    "ename": "Eevee",
+    "series": "SS10.5"
   },
   {
     "id": "6589",
@@ -1445,8 +1471,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_55-2x.jpg",
-    "gameNo": "055",
-    "ename": "Snorlax"
+    "ename": "Snorlax",
+    "series": "SS10.5"
   },
   {
     "id": "6590",
@@ -1471,8 +1497,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_56-2x.jpg",
-    "gameNo": "056",
-    "ename": "Aipom"
+    "ename": "Aipom",
+    "series": "SS10.5"
   },
   {
     "id": "6591",
@@ -1497,8 +1523,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_57-2x.jpg",
-    "gameNo": "057",
-    "ename": "Ambipom"
+    "ename": "Ambipom",
+    "series": "SS10.5"
   },
   {
     "id": "6592",
@@ -1527,8 +1553,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_58-2x.jpg",
-    "gameNo": "058",
-    "ename": "Slaking V"
+    "ename": "Slaking V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_77-2x.jpg"
+    ],
+    "series": "SS10.5"
   },
   {
     "id": "6593",
@@ -1549,8 +1578,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_59-2x.jpg",
-    "gameNo": "059",
-    "ename": "Bidoof"
+    "ename": "Bidoof",
+    "series": "SS10.5"
   },
   {
     "id": "6594",
@@ -1575,8 +1604,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_60-2x.jpg",
-    "gameNo": "060",
-    "ename": "Bibarel"
+    "ename": "Bibarel",
+    "series": "SS10.5"
   },
   {
     "id": "6595",
@@ -1601,8 +1630,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_61-2x.jpg",
-    "gameNo": "061",
-    "ename": "Pidove"
+    "ename": "Pidove",
+    "series": "SS10.5"
   },
   {
     "id": "6596",
@@ -1627,8 +1656,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_62-2x.jpg",
-    "gameNo": "062",
-    "ename": "Tranquill"
+    "ename": "Tranquill",
+    "series": "SS10.5"
   },
   {
     "id": "6597",
@@ -1653,8 +1682,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_63-2x.jpg",
-    "gameNo": "063",
-    "ename": "Unfezant"
+    "ename": "Unfezant",
+    "series": "SS10.5"
   },
   {
     "id": "6604",
@@ -1673,8 +1702,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_68-2x.jpg",
-    "gameNo": "068",
-    "ename": "PokéStop"
+    "ename": "PokéStop",
+    "series": "SS10.5"
   },
   {
     "id": "6603",
@@ -1693,8 +1722,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_64-2x.jpg",
-    "gameNo": "064",
-    "ename": "Blanche"
+    "ename": "Blanche",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PGO/PGO_082_R_EN.png"
+    ],
+    "series": "SS10.5"
   },
   {
     "id": "6601",
@@ -1713,8 +1745,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_65-2x.jpg",
-    "gameNo": "065",
-    "ename": "Candela"
+    "ename": "Candela",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PGO/PGO_083_R_EN.png"
+    ],
+    "series": "SS10.5"
   },
   {
     "id": "6602",
@@ -1733,8 +1768,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_70-2x.jpg",
-    "gameNo": "070",
-    "ename": "Spark"
+    "ename": "Spark",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PGO/PGO_085_R_EN.png"
+    ],
+    "series": "SS10.5"
   },
   {
     "id": "6598",
@@ -1753,8 +1791,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_66-2x.jpg",
-    "gameNo": "066",
-    "ename": "Egg Incubator"
+    "ename": "Egg Incubator",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PGO/PGO_087_R_EN.png"
+    ],
+    "series": "SS10.5"
   },
   {
     "id": "6600",
@@ -1773,8 +1814,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_67-2x.jpg",
-    "gameNo": "067",
-    "ename": "Lure Module"
+    "ename": "Lure Module",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PGO/PGO_088_R_EN.png"
+    ],
+    "series": "SS10.5"
   },
   {
     "id": "6599",
@@ -1793,7 +1837,7 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_69-2x.jpg",
-    "gameNo": "069",
-    "ename": "Rare Candy"
+    "ename": "Rare Candy",
+    "series": "SS10.5"
   }
 ]

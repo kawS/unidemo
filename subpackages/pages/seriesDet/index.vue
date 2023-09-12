@@ -18,7 +18,6 @@
 			<div class="picwp">
 				<image src="../img/tcg-card-back.jpg" mode="widthFix" class="cback"></image>
 				<image :src="item.imgUrl" lazy-load mode="heightFix" class="img" v-if="showImgType == null"></image>
-				<image :src="item.imgUrl" mode="heightFix" class="img" v-else-if="!item.enImgUrl"></image>
 				<image :src="item.enImgUrl" lazy-load mode="heightFix" class="img" v-else></image>
 			</div>
 			<div>{{ item.cardName }}</div>
@@ -329,7 +328,6 @@
 					width: 100%;
 					height: 100%;
 					border-radius: 15rpx;
-					box-shadow: 2px 2px 5px 0px #9E9E9E;
 					display: block;
 				}
 			}

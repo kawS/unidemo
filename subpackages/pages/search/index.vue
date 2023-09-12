@@ -16,6 +16,7 @@
 				<image src="../img/tcg-card-back.jpg" mode="widthFix" class="cback"></image>
 				<image :src="item.imgUrl" lazy-load mode="heightFix" class="img" v-if="showImgType == null"></image>
 				<image :src="item.enImgUrl" lazy-load mode="heightFix" class="img" v-else></image>
+				<div class="series">{{ item.series }}</div>
 			</div>
 			<div>{{ item.cardName }}</div>
 			<div>{{ item.ename }}</div>
@@ -103,8 +104,8 @@
 		let listSS = resSS.default;
 		let result = [];
 		for(let item of listSV){
-			let reg = new RegExp(`[${item.name.replace(/ex|VSTAR|VMAX|V/ig, '')}]|${item.ename.replace(/ /g, '|')}`, 'i');
-			if(reg.test(cardName.value)){
+			let reg = `${item.name} ${item.ename.toLocaleLowerCase()}`;
+			if(reg.search(cardName.value.toLocaleLowerCase()) != -1){
 				result.push({
 					name: item.name,
 					series: item.series
@@ -112,8 +113,8 @@
 			}
 		}
 		for(let item of listSS){
-			let reg = new RegExp(`[${item.name.replace(/ex|VSTAR|VMAX|V/ig, '')}]|${item.ename.replace(/ /g, '|')}`, 'i');
-			if(reg.test(cardName.value)){
+			let reg = `${item.name} ${item.ename.toLocaleLowerCase()}`;
+			if(reg.search(cardName.value.toLocaleLowerCase()) != -1){
 				result.push({
 					name: item.name,
 					series: item.series
@@ -157,9 +158,8 @@
 			}
 		}
 	}
-
 	const loadData = (oData, data, series) => {
-		let result = oData.filter((ser) => {
+		let result = oData.filter(ser => {
 			return data.includes(ser.cardName);
 		});
 		allIndex += result.length;
@@ -266,6 +266,15 @@
 				position: relative;
 				margin: 0 0 10rpx 0;
 				overflow: hidden;
+				.series{
+					position: absolute;
+					bottom: 0;
+					right: 0;
+					background: #f9f9f9;
+					border-radius: 2px;
+					font-size: 12px;
+					color: #333;
+				}
 				.cback{
 					width: 100%;
 					border-radius: 20rpx;
@@ -279,7 +288,6 @@
 					width: 100%;
 					height: 100%;
 					border-radius: 15rpx;
-					box-shadow: 2px 2px 5px 0px #9E9E9E;
 					display: block;
 				}
 			}

@@ -22,8 +22,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_1-2x.jpg",
-    "gameNo": "001",
-    "ename": "Exeggcute"
+    "ename": "Exeggcute",
+    "series": "SS9"
   },
   {
     "id": "5413",
@@ -48,8 +48,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_2-2x.jpg",
-    "gameNo": "002",
-    "ename": "Exeggutor"
+    "ename": "Exeggutor",
+    "series": "SS9"
   },
   {
     "id": "5414",
@@ -70,8 +70,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_3-2x.jpg",
-    "gameNo": "003",
-    "ename": "Shroomish"
+    "ename": "Shroomish",
+    "series": "SS9"
   },
   {
     "id": "5415",
@@ -96,8 +96,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_4-2x.jpg",
-    "gameNo": "004",
-    "ename": "Breloom"
+    "ename": "Breloom",
+    "series": "SS9"
   },
   {
     "id": "5416",
@@ -122,8 +122,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_5-2x.jpg",
-    "gameNo": "005",
-    "ename": "Tropius"
+    "ename": "Tropius",
+    "series": "SS9"
   },
   {
     "id": "5417",
@@ -148,11 +148,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_6-2x.jpg",
-    "gameNo": "006",
     "ename": "Turtwig",
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_31-2x.jpg"
-    ]
+    ],
+    "series": "SS9"
   },
   {
     "id": "5418",
@@ -177,8 +177,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_7-2x.jpg",
-    "gameNo": "007",
-    "ename": "Grotle"
+    "ename": "Grotle",
+    "series": "SS9"
   },
   {
     "id": "5419",
@@ -203,8 +203,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_8-2x.jpg",
-    "gameNo": "008",
-    "ename": "Torterra"
+    "ename": "Torterra",
+    "series": "SS9"
   },
   {
     "id": "5420",
@@ -225,8 +225,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_9-2x.jpg",
-    "gameNo": "009",
-    "ename": "Burmy"
+    "ename": "Burmy",
+    "series": "SS9"
   },
   {
     "id": "5421",
@@ -251,8 +251,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_10-2x.jpg",
-    "gameNo": "010",
-    "ename": "Wormadam"
+    "ename": "Wormadam",
+    "series": "SS9"
   },
   {
     "id": "5422",
@@ -277,8 +277,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_11-2x.jpg",
-    "gameNo": "011",
-    "ename": "Mothim"
+    "ename": "Mothim",
+    "series": "SS9"
   },
   {
     "id": "5196",
@@ -303,8 +303,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_12-2x.jpg",
-    "gameNo": "012",
-    "ename": "Cherubi"
+    "ename": "Cherubi",
+    "series": "SS9"
   },
   {
     "id": "5423",
@@ -333,8 +333,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_13-2x.jpg",
-    "gameNo": "013",
-    "ename": "Shaymin V"
+    "ename": "Shaymin V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_152-2x.jpg"
+    ],
+    "series": "SS9"
   },
   {
     "id": "5424",
@@ -363,8 +366,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_14-2x.jpg",
-    "gameNo": "014",
-    "ename": "Shaymin VSTAR"
+    "ename": "Shaymin VSTAR",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_173_R_EN.png"
+    ],
+    "series": "SS9"
   },
   {
     "id": "5654",
@@ -385,8 +391,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_15-2x.jpg",
-    "gameNo": "015",
-    "ename": "Karrablast"
+    "ename": "Karrablast",
+    "series": "SS9"
   },
   {
     "id": "5674",
@@ -415,8 +421,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_16-2x.jpg",
-    "gameNo": "016",
-    "ename": "ZarudeV"
+    "ename": "ZarudeV",
+    "series": "SS9"
   },
   {
     "id": "5425",
@@ -445,8 +451,12 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_17-2x.jpg",
-    "gameNo": "017",
-    "ename": "Charizard V"
+    "ename": "Charizard V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_153-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_154-2x.jpg"
+    ],
+    "series": "SS9"
   },
   {
     "id": "5426",
@@ -475,8 +485,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_18-2x.jpg",
-    "gameNo": "018",
-    "ename": "Charizard VSTAR"
+    "ename": "Charizard VSTAR",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_174_R_EN.png"
+    ],
+    "series": "SS9"
   },
   {
     "id": "5427",
@@ -501,8 +514,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_19-2x.jpg",
-    "gameNo": "019",
-    "ename": "Magmar"
+    "ename": "Magmar",
+    "series": "SS9"
   },
   {
     "id": "5428",
@@ -527,11 +540,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_20-2x.jpg",
-    "gameNo": "020",
     "ename": "Magmortar",
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_3-2x.jpg"
-    ]
+    ],
+    "series": "SS9"
   },
   {
     "id": "5429",
@@ -552,8 +565,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_21-2x.jpg",
-    "gameNo": "021",
-    "ename": "Moltres"
+    "ename": "Moltres",
+    "series": "SS9"
   },
   {
     "id": "5685",
@@ -582,11 +595,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_22-2x.jpg",
-    "gameNo": "022",
     "ename": "Entei V",
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_36-2x.jpg"
-    ]
+    ],
+    "series": "SS9"
   },
   {
     "id": "5687",
@@ -611,8 +624,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_23-2x.jpg",
-    "gameNo": "023",
-    "ename": "Torkoal"
+    "ename": "Torkoal",
+    "series": "SS9"
   },
   {
     "id": "5430",
@@ -633,8 +646,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_24-2x.jpg",
-    "gameNo": "024",
-    "ename": "Chimchar"
+    "ename": "Chimchar",
+    "series": "SS9"
   },
   {
     "id": "5431",
@@ -659,8 +672,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_25-2x.jpg",
-    "gameNo": "025",
-    "ename": "Monferno"
+    "ename": "Monferno",
+    "series": "SS9"
   },
   {
     "id": "5432",
@@ -685,8 +698,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_26-2x.jpg",
-    "gameNo": "026",
-    "ename": "Infernape"
+    "ename": "Infernape",
+    "series": "SS9"
   },
   {
     "id": "5692",
@@ -715,8 +728,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_27-2x.jpg",
-    "gameNo": "027",
-    "ename": "SimisearV"
+    "ename": "SimisearV",
+    "series": "SS9"
   },
   {
     "id": "5709",
@@ -745,8 +758,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_28-2x.jpg",
-    "gameNo": "028",
-    "ename": "KinglerV"
+    "ename": "KinglerV",
+    "series": "SS9"
   },
   {
     "id": "5710",
@@ -775,8 +788,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_29-2x.jpg",
-    "gameNo": "029",
-    "ename": "KinglerVMAX"
+    "ename": "KinglerVMAX",
+    "series": "SS9"
   },
   {
     "id": "5714",
@@ -797,8 +810,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_30-2x.jpg",
-    "gameNo": "030",
-    "ename": "Staryu"
+    "ename": "Staryu",
+    "series": "SS9"
   },
   {
     "id": "5433",
@@ -819,11 +832,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_31-2x.jpg",
-    "gameNo": "031",
     "ename": "Lapras",
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_5-2x.jpg"
-    ]
+    ],
+    "series": "SS9"
   },
   {
     "id": "5434",
@@ -848,8 +861,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_32-2x.jpg",
-    "gameNo": "032",
-    "ename": "Corphish"
+    "ename": "Corphish",
+    "series": "SS9"
   },
   {
     "id": "5435",
@@ -874,8 +887,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_33-2x.jpg",
-    "gameNo": "033",
-    "ename": "Crawdaunt"
+    "ename": "Crawdaunt",
+    "series": "SS9"
   },
   {
     "id": "5225",
@@ -900,8 +913,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_34-2x.jpg",
-    "gameNo": "034",
-    "ename": "Snorunt"
+    "ename": "Snorunt",
+    "series": "SS9"
   },
   {
     "id": "5436",
@@ -922,8 +935,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_35-2x.jpg",
-    "gameNo": "035",
-    "ename": "Piplup"
+    "ename": "Piplup",
+    "series": "SS9"
   },
   {
     "id": "5437",
@@ -944,8 +957,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_36-2x.jpg",
-    "gameNo": "036",
-    "ename": "Prinplup"
+    "ename": "Prinplup",
+    "series": "SS9"
   },
   {
     "id": "5438",
@@ -970,8 +983,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_37-2x.jpg",
-    "gameNo": "037",
-    "ename": "EmpoleonH"
+    "ename": "EmpoleonH",
+    "series": "SS9"
   },
   {
     "id": "5439",
@@ -992,8 +1005,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_38-2x.jpg",
-    "gameNo": "038",
-    "ename": "Buizel"
+    "ename": "Buizel",
+    "series": "SS9"
   },
   {
     "id": "5440",
@@ -1018,8 +1031,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_39-2x.jpg",
-    "gameNo": "039",
-    "ename": "Floatzel"
+    "ename": "Floatzel",
+    "series": "SS9"
   },
   {
     "id": "5441",
@@ -1048,11 +1061,13 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_40-2x.jpg",
-    "gameNo": "040",
     "ename": "Lumineon V",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_39-2x.jpg"
-    ]
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_39-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_155-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_156-2x.jpg"
+    ],
+    "series": "SS9"
   },
   {
     "id": "5442",
@@ -1077,11 +1092,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_41-2x.jpg",
-    "gameNo": "041",
     "ename": "Manaphy",
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_6-2x.jpg"
-    ]
+    ],
+    "series": "SS9"
   },
   {
     "id": "5443",
@@ -1102,8 +1117,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_42-2x.jpg",
-    "gameNo": "042",
-    "ename": "Cubchoo"
+    "ename": "Cubchoo",
+    "series": "SS9"
   },
   {
     "id": "5444",
@@ -1128,8 +1143,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_43-2x.jpg",
-    "gameNo": "043",
-    "ename": "Beartic"
+    "ename": "Beartic",
+    "series": "SS9"
   },
   {
     "id": "5232",
@@ -1154,8 +1169,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_44-2x.jpg",
-    "gameNo": "044",
-    "ename": "Eiscue"
+    "ename": "Eiscue",
+    "series": "SS9"
   },
   {
     "id": "5445",
@@ -1184,8 +1199,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_45-2x.jpg",
-    "gameNo": "045",
-    "ename": "Raichu V"
+    "ename": "Raichu V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_158-2x.jpg"
+    ],
+    "series": "SS9"
   },
   {
     "id": "5446",
@@ -1210,8 +1228,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_46-2x.jpg",
-    "gameNo": "046",
-    "ename": "Electabuzz"
+    "ename": "Electabuzz",
+    "series": "SS9"
   },
   {
     "id": "5447",
@@ -1236,11 +1254,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_47-2x.jpg",
-    "gameNo": "047",
     "ename": "Electivire",
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_8-2x.jpg"
-    ]
+    ],
+    "series": "SS9"
   },
   {
     "id": "5766",
@@ -1269,11 +1287,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_48-2x.jpg",
-    "gameNo": "048",
     "ename": "Raikou V",
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_41-2x.jpg"
-    ]
+    ],
+    "series": "SS9"
   },
   {
     "id": "5448",
@@ -1294,8 +1312,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_49-2x.jpg",
-    "gameNo": "049",
-    "ename": "Shinx"
+    "ename": "Shinx",
+    "series": "SS9"
   },
   {
     "id": "5449",
@@ -1316,8 +1334,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_50-2x.jpg",
-    "gameNo": "050",
-    "ename": "Luxio"
+    "ename": "Luxio",
+    "series": "SS9"
   },
   {
     "id": "5450",
@@ -1342,8 +1360,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_51-2x.jpg",
-    "gameNo": "051",
-    "ename": "Luxray"
+    "ename": "Luxray",
+    "series": "SS9"
   },
   {
     "id": "5451",
@@ -1364,8 +1382,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_52-2x.jpg",
-    "gameNo": "052",
-    "ename": "Pachirisu"
+    "ename": "Pachirisu",
+    "series": "SS9"
   },
   {
     "id": "5452",
@@ -1390,8 +1408,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_53-2x.jpg",
-    "gameNo": "053",
-    "ename": "Clefairy"
+    "ename": "Clefairy",
+    "series": "SS9"
   },
   {
     "id": "5453",
@@ -1416,8 +1434,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_54-2x.jpg",
-    "gameNo": "054",
-    "ename": "Clefable"
+    "ename": "Clefable",
+    "series": "SS9"
   },
   {
     "id": "5795",
@@ -1442,8 +1460,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_55-2x.jpg",
-    "gameNo": "055",
-    "ename": "Starmie"
+    "ename": "Starmie",
+    "series": "SS9"
   },
   {
     "id": "5798",
@@ -1468,8 +1486,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_56-2x.jpg",
-    "gameNo": "056",
-    "ename": "Mewtwo"
+    "ename": "Mewtwo",
+    "series": "SS9"
   },
   {
     "id": "5802",
@@ -1498,8 +1516,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_57-2x.jpg",
-    "gameNo": "057",
-    "ename": "Granbull V"
+    "ename": "Granbull V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_159-2x.jpg"
+    ],
+    "series": "SS9"
   },
   {
     "id": "5454",
@@ -1520,8 +1541,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_58-2x.jpg",
-    "gameNo": "058",
-    "ename": "Baltoy"
+    "ename": "Baltoy",
+    "series": "SS9"
   },
   {
     "id": "5455",
@@ -1546,8 +1567,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_59-2x.jpg",
-    "gameNo": "059",
-    "ename": "Claydol"
+    "ename": "Claydol",
+    "series": "SS9"
   },
   {
     "id": "5456",
@@ -1568,11 +1589,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_60-2x.jpg",
-    "gameNo": "060",
     "ename": "Duskull",
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_28-2x.jpg"
-    ]
+    ],
+    "series": "SS9"
   },
   {
     "id": "5457",
@@ -1593,8 +1614,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_61-2x.jpg",
-    "gameNo": "061",
-    "ename": "Dusdops"
+    "ename": "Dusdops",
+    "series": "SS9"
   },
   {
     "id": "5458",
@@ -1619,8 +1640,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_62-2x.jpg",
-    "gameNo": "062",
-    "ename": "DusknoirH"
+    "ename": "DusknoirH",
+    "series": "SS9"
   },
   {
     "id": "5459",
@@ -1645,8 +1666,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_63-2x.jpg",
-    "gameNo": "063",
-    "ename": "Chimecho"
+    "ename": "Chimecho",
+    "series": "SS9"
   },
   {
     "id": "5460",
@@ -1675,8 +1696,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_64-2x.jpg",
-    "gameNo": "064",
-    "ename": "WhimsicottV"
+    "ename": "Whimsicott V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_160-2x.jpg"
+    ],
+    "series": "SS9"
   },
   {
     "id": "5461",
@@ -1705,8 +1729,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_65-2x.jpg",
-    "gameNo": "065",
-    "ename": "Whimsicott VSTAR"
+    "ename": "Whimsicott VSTAR",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_175_R_EN.png"
+    ],
+    "series": "SS9"
   },
   {
     "id": "5462",
@@ -1731,8 +1758,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_66-2x.jpg",
-    "gameNo": "066",
-    "ename": "Sigilyph"
+    "ename": "Sigilyph",
+    "series": "SS9"
   },
   {
     "id": "5261",
@@ -1753,8 +1780,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_67-2x.jpg",
-    "gameNo": "067",
-    "ename": "Dedenne"
+    "ename": "Dedenne",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_TG7_R_EN.png"
+    ],
+    "series": "SS9"
   },
   {
     "id": "5264",
@@ -1778,13 +1808,16 @@
         "effect": "将与对手已经获得的奖赏卡的张数×3个的相同数量的伤害指示物，放置于对手的战斗宝可梦身上。"
       },
       {
-        "name": "[VMAX规则]",
+        "name": "[V规则]",
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_68-2x.jpg",
-    "gameNo": "068",
-    "ename": "MimikyuV"
+    "ename": "Mimikyu V",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_TG16_R_EN.png"
+    ],
+    "series": "SS9"
   },
   {
     "id": "5265",
@@ -1813,8 +1846,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_69-2x.jpg",
-    "gameNo": "069",
-    "ename": "MimikyuVMAX"
+    "ename": "Mimikyu VMAX",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_TG17_R_EN.png"
+    ],
+    "series": "SS9"
   },
   {
     "id": "5268",
@@ -1839,8 +1875,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_70-2x.jpg",
-    "gameNo": "070",
-    "ename": "Milcery"
+    "ename": "Milcery",
+    "series": "SS9"
   },
   {
     "id": "5269",
@@ -1865,8 +1901,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_71-2x.jpg",
-    "gameNo": "071",
-    "ename": "Alcremie"
+    "ename": "Alcremie",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_TG8_R_EN.png"
+    ],
+    "series": "SS9"
   },
   {
     "id": "5846",
@@ -1891,8 +1930,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_72-2x.jpg",
-    "gameNo": "072",
-    "ename": "Hitmontop"
+    "ename": "Hitmontop",
+    "series": "SS9"
   },
   {
     "id": "5463",
@@ -1913,8 +1952,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_73-2x.jpg",
-    "gameNo": "073",
-    "ename": "Nosepass"
+    "ename": "Nosepass",
+    "series": "SS9"
   },
   {
     "id": "5850",
@@ -1935,8 +1974,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_74-2x.jpg",
-    "gameNo": "074",
-    "ename": "Trapinch"
+    "ename": "Trapinch",
+    "series": "SS9"
   },
   {
     "id": "5851",
@@ -1957,8 +1996,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_75-2x.jpg",
-    "gameNo": "075",
-    "ename": "Vibrava"
+    "ename": "Vibrava",
+    "series": "SS9"
   },
   {
     "id": "5852",
@@ -1983,8 +2022,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_76-2x.jpg",
-    "gameNo": "076",
-    "ename": "Flygon"
+    "ename": "Flygon",
+    "series": "SS9"
   },
   {
     "id": "5464",
@@ -2009,8 +2048,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_77-2x.jpg",
-    "gameNo": "077",
-    "ename": "Wormadam"
+    "ename": "Wormadam",
+    "series": "SS9"
   },
   {
     "id": "5465",
@@ -2031,11 +2070,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_78-2x.jpg",
-    "gameNo": "078",
     "ename": "Riolu",
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_26-2x.jpg"
-    ]
+    ],
+    "series": "SS9"
   },
   {
     "id": "5466",
@@ -2060,8 +2099,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_79-2x.jpg",
-    "gameNo": "079",
-    "ename": "Lucario"
+    "ename": "Lucario",
+    "series": "SS9"
   },
   {
     "id": "5467",
@@ -2086,8 +2125,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_80-2x.jpg",
-    "gameNo": "080",
-    "ename": "Throh"
+    "ename": "Throh",
+    "series": "SS9"
   },
   {
     "id": "5468",
@@ -2108,8 +2147,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_81-2x.jpg",
-    "gameNo": "081",
-    "ename": "Sawk"
+    "ename": "Sawk",
+    "series": "SS9"
   },
   {
     "id": "5469",
@@ -2134,8 +2173,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_82-2x.jpg",
-    "gameNo": "082",
-    "ename": "Golett"
+    "ename": "Golett",
+    "series": "SS9"
   },
   {
     "id": "5470",
@@ -2160,8 +2199,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_83-2x.jpg",
-    "gameNo": "083",
-    "ename": "Golurk"
+    "ename": "Golurk",
+    "series": "SS9"
   },
   {
     "id": "5471",
@@ -2182,8 +2221,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_84-2x.jpg",
-    "gameNo": "084",
-    "ename": "G rimer"
+    "ename": "G rimer",
+    "series": "SS9"
   },
   {
     "id": "5472",
@@ -2208,8 +2247,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_85-2x.jpg",
-    "gameNo": "085",
-    "ename": "Muk"
+    "ename": "Muk",
+    "series": "SS9"
   },
   {
     "id": "5473",
@@ -2234,8 +2273,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_86-2x.jpg",
-    "gameNo": "086",
-    "ename": "Sneasel"
+    "ename": "Sneasel",
+    "series": "SS9"
   },
   {
     "id": "5474",
@@ -2260,8 +2299,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_87-2x.jpg",
-    "gameNo": "087",
-    "ename": "Weavile"
+    "ename": "Weavile",
+    "series": "SS9"
   },
   {
     "id": "5475",
@@ -2290,8 +2329,12 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_88-2x.jpg",
-    "gameNo": "088",
-    "ename": "HonchkrowV"
+    "ename": "Honchkrow V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_161-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_162-2x.jpg"
+    ],
+    "series": "SS9"
   },
   {
     "id": "5476",
@@ -2316,8 +2359,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_89-2x.jpg",
-    "gameNo": "089",
-    "ename": "Spiritomb"
+    "ename": "Spiritomb",
+    "series": "SS9"
   },
   {
     "id": "5898",
@@ -2338,8 +2381,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_90-2x.jpg",
-    "gameNo": "090",
-    "ename": "Purrloin"
+    "ename": "Purrloin",
+    "series": "SS9"
   },
   {
     "id": "5899",
@@ -2364,8 +2407,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_91-2x.jpg",
-    "gameNo": "091",
-    "ename": "Liepard"
+    "ename": "Liepard",
+    "series": "SS9"
   },
   {
     "id": "5913",
@@ -2390,8 +2433,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_92-2x.jpg",
-    "gameNo": "092",
-    "ename": "Impidimp"
+    "ename": "Impidimp",
+    "series": "SS9"
   },
   {
     "id": "5914",
@@ -2416,8 +2459,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_93-2x.jpg",
-    "gameNo": "093",
-    "ename": "Morgrem"
+    "ename": "Morgrem",
+    "series": "SS9"
   },
   {
     "id": "5915",
@@ -2442,8 +2485,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_94-2x.jpg",
-    "gameNo": "094",
-    "ename": "Grimmsnarl"
+    "ename": "Grimmsnarl",
+    "series": "SS9"
   },
   {
     "id": "5917",
@@ -2472,8 +2515,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_95-2x.jpg",
-    "gameNo": "095",
-    "ename": "Morpeko V"
+    "ename": "Morpeko V",
+    "series": "SS9"
   },
   {
     "id": "5926",
@@ -2502,8 +2545,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_96-2x.jpg",
-    "gameNo": "096",
-    "ename": "Aggron V"
+    "ename": "Aggron V",
+    "series": "SS9"
   },
   {
     "id": "5927",
@@ -2532,8 +2575,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_97-2x.jpg",
-    "gameNo": "097",
-    "ename": "Aggron VMAX"
+    "ename": "Aggron VMAX",
+    "series": "SS9"
   },
   {
     "id": "5477",
@@ -2558,8 +2601,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_98-2x.jpg",
-    "gameNo": "098",
-    "ename": "Wormadam"
+    "ename": "Wormadam",
+    "series": "SS9"
   },
   {
     "id": "5478",
@@ -2584,8 +2627,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_99-2x.jpg",
-    "gameNo": "099",
-    "ename": "Probopass"
+    "ename": "Probopass",
+    "series": "SS9"
   },
   {
     "id": "5479",
@@ -2610,8 +2653,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_100-2x.jpg",
-    "gameNo": "100",
-    "ename": "Heatran"
+    "ename": "Heatran",
+    "series": "SS9"
   },
   {
     "id": "5932",
@@ -2636,8 +2679,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_101-2x.jpg",
-    "gameNo": "101",
-    "ename": "Escavalier"
+    "ename": "Escavalier",
+    "series": "SS9"
   },
   {
     "id": "5480",
@@ -2662,8 +2705,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_102-2x.jpg",
-    "gameNo": "102",
-    "ename": "Klink"
+    "ename": "Klink",
+    "series": "SS9"
   },
   {
     "id": "5481",
@@ -2688,8 +2731,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_103-2x.jpg",
-    "gameNo": "103",
-    "ename": "Klang"
+    "ename": "Klang",
+    "series": "SS9"
   },
   {
     "id": "5482",
@@ -2714,8 +2757,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_104-2x.jpg",
-    "gameNo": "104",
-    "ename": "Klinklang"
+    "ename": "Klinklang",
+    "series": "SS9"
   },
   {
     "id": "5940",
@@ -2744,8 +2787,12 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_105-2x.jpg",
-    "gameNo": "105",
-    "ename": "Zamazenta V"
+    "ename": "Zamazenta V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_54-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_163-2x.jpg"
+    ],
+    "series": "SS9"
   },
   {
     "id": "5483",
@@ -2774,8 +2821,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_106-2x.jpg",
-    "gameNo": "106",
-    "ename": "Flygon V"
+    "ename": "Flygon V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_164-2x.jpg"
+    ],
+    "series": "SS9"
   },
   {
     "id": "5484",
@@ -2796,8 +2846,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_107-2x.jpg",
-    "gameNo": "107",
-    "ename": "Gible"
+    "ename": "Gible",
+    "series": "SS9"
   },
   {
     "id": "5485",
@@ -2818,8 +2868,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_108-2x.jpg",
-    "gameNo": "108",
-    "ename": "Gabite"
+    "ename": "Gabite",
+    "series": "SS9"
   },
   {
     "id": "5486",
@@ -2844,8 +2894,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_109-2x.jpg",
-    "gameNo": "109",
-    "ename": "Garchomp"
+    "ename": "Garchomp",
+    "series": "SS9"
   },
   {
     "id": "5944",
@@ -2866,8 +2916,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_110-2x.jpg",
-    "gameNo": "110",
-    "ename": "Axew"
+    "ename": "Axew",
+    "series": "SS9"
   },
   {
     "id": "5945",
@@ -2892,8 +2942,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_111-2x.jpg",
-    "gameNo": "111",
-    "ename": "Fraxure"
+    "ename": "Fraxure",
+    "series": "SS9"
   },
   {
     "id": "5946",
@@ -2918,8 +2968,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_112-2x.jpg",
-    "gameNo": "112",
-    "ename": "Haxorus"
+    "ename": "Haxorus",
+    "series": "SS9"
   },
   {
     "id": "5309",
@@ -2944,11 +2994,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_113-2x.jpg",
-    "gameNo": "113",
     "ename": "Druddigon",
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_9-2x.jpg"
-    ]
+    ],
+    "series": "SS9"
   },
   {
     "id": "5581",
@@ -2977,8 +3027,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_114-2x.jpg",
-    "gameNo": "114",
-    "ename": "Dracovish V"
+    "ename": "Dracovish V",
+    "series": "SS9"
   },
   {
     "id": "5487",
@@ -2999,8 +3049,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_115-2x.jpg",
-    "gameNo": "115",
-    "ename": "Farfetch'd"
+    "ename": "Farfetch'd",
+    "series": "SS9"
   },
   {
     "id": "5488",
@@ -3025,8 +3075,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_116-2x.jpg",
-    "gameNo": "116",
-    "ename": "Castform"
+    "ename": "Castform",
+    "series": "SS9"
   },
   {
     "id": "5489",
@@ -3047,8 +3097,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_117-2x.jpg",
-    "gameNo": "117",
-    "ename": "Starly"
+    "ename": "Starly",
+    "series": "SS9"
   },
   {
     "id": "5490",
@@ -3069,8 +3119,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_118-2x.jpg",
-    "gameNo": "118",
-    "ename": "Staravia"
+    "ename": "Staravia",
+    "series": "SS9"
   },
   {
     "id": "5491",
@@ -3095,8 +3145,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_119-2x.jpg",
-    "gameNo": "119",
-    "ename": "Sta raptor"
+    "ename": "Sta raptor",
+    "series": "SS9"
   },
   {
     "id": "5492",
@@ -3117,8 +3167,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_120-2x.jpg",
-    "gameNo": "120",
-    "ename": "Bidoof"
+    "ename": "Bidoof",
+    "series": "SS9"
   },
   {
     "id": "5493",
@@ -3143,11 +3193,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_121-2x.jpg",
-    "gameNo": "121",
     "ename": "Bibarel",
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_25-2x.jpg"
-    ]
+    ],
+    "series": "SS9"
   },
   {
     "id": "5494",
@@ -3176,8 +3226,12 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_122-2x.jpg",
-    "gameNo": "122",
-    "ename": "ArceusV"
+    "ename": "Arceus V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_165-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_166-2x.jpg"
+    ],
+    "series": "SS9"
   },
   {
     "id": "5495",
@@ -3206,11 +3260,13 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_123-2x.jpg",
-    "gameNo": "123",
     "ename": "Arceus VSTAR",
     "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_GG70_R_EN.png"
-    ]
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_GG70_R_EN.png",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_176_R_EN.png",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_184_R_EN.png"
+    ],
+    "series": "SS9"
   },
   {
     "id": "5496",
@@ -3235,8 +3291,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_124-2x.jpg",
-    "gameNo": "124",
-    "ename": "Minccino"
+    "ename": "Minccino",
+    "series": "SS9"
   },
   {
     "id": "5497",
@@ -3261,8 +3317,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_125-2x.jpg",
-    "gameNo": "125",
-    "ename": "Cinccino"
+    "ename": "Cinccino",
+    "series": "SS9"
   },
   {
     "id": "5498",
@@ -3287,8 +3343,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_126-2x.jpg",
-    "gameNo": "126",
-    "ename": "Tornadus"
+    "ename": "Tornadus",
+    "series": "SS9"
   },
   {
     "id": "5983",
@@ -3313,8 +3369,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_127-2x.jpg",
-    "gameNo": "127",
-    "ename": "Hawlucha"
+    "ename": "Hawlucha",
+    "series": "SS9"
   },
   {
     "id": "5985",
@@ -3343,8 +3399,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_128-2x.jpg",
-    "gameNo": "128",
-    "ename": "Dram pa V"
+    "ename": "Dram pa V",
+    "series": "SS9"
   },
   {
     "id": "5509",
@@ -3363,8 +3419,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_137-2x.jpg",
-    "gameNo": "137",
-    "ename": "Collapsed Stadium"
+    "ename": "Collapsed Stadium",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_215_R_EN.png"
+    ],
+    "series": "SS9"
   },
   {
     "id": "5510",
@@ -3383,8 +3442,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_144-2x.jpg",
-    "gameNo": "144",
-    "ename": "Magma Basin"
+    "ename": "Magma Basin",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_185_R_EN.png"
+    ],
+    "series": "SS9"
   },
   {
     "id": "5336",
@@ -3403,8 +3465,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_129-2x.jpg",
-    "gameNo": "129",
-    "ename": "Acerola's Premonition"
+    "ename": "Acerola's Premonition",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_TG24_R_EN.png"
+    ],
+    "series": "SS9"
   },
   {
     "id": "6025",
@@ -3423,8 +3488,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_130-2x.jpg",
-    "gameNo": "130",
-    "ename": "Barry"
+    "ename": "Barry",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_167-2x.jpg"
+    ],
+    "series": "SS9"
   },
   {
     "id": "5508",
@@ -3443,8 +3511,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_132-2x.jpg",
-    "gameNo": "132",
-    "ename": "Boss's Orders (Cyrus)"
+    "ename": "Boss's Orders (Cyrus)",
+    "series": "SS9"
   },
   {
     "id": "5347",
@@ -3463,8 +3531,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_133-2x.jpg",
-    "gameNo": "133",
-    "ename": "Cafe Master"
+    "ename": "Cafe Master",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_TG25_R_EN.png"
+    ],
+    "series": "SS9"
   },
   {
     "id": "5505",
@@ -3483,11 +3554,13 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_134-2x.jpg",
-    "gameNo": "134",
     "ename": "Cheren's Care",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_58-2x.jpg"
-    ]
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_58-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_168-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_177_R_EN.png"
+    ],
+    "series": "SS9"
   },
   {
     "id": "5504",
@@ -3506,11 +3579,13 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_138-2x.jpg",
-    "gameNo": "138",
     "ename": "Cynthia's Ambition",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_60-2x.jpg"
-    ]
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_60-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_169-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_178_R_EN.png"
+    ],
+    "series": "SS9"
   },
   {
     "id": "5337",
@@ -3529,11 +3604,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_140-2x.jpg",
-    "gameNo": "140",
     "ename": "Friends in Galar",
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_23-2x.jpg"
-    ]
+    ],
+    "series": "SS9"
   },
   {
     "id": "5351",
@@ -3552,8 +3627,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_141-2x.jpg",
-    "gameNo": "141",
-    "ename": "Gloria"
+    "ename": "Gloria",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_TG26_R_EN.png"
+    ],
+    "series": "SS9"
   },
   {
     "id": "5503",
@@ -3572,8 +3650,12 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_143-2x.jpg",
-    "gameNo": "143",
-    "ename": "Kindler"
+    "ename": "Kindler",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_170-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_179_R_EN.png"
+    ],
+    "series": "SS9"
   },
   {
     "id": "6034",
@@ -3592,8 +3674,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_145-2x.jpg",
-    "gameNo": "145",
-    "ename": "Mamie's Pride"
+    "ename": "Marnie's Pride",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_171-2x.jpg"
+    ],
+    "series": "SS9"
   },
   {
     "id": "5506",
@@ -3612,11 +3697,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_147-2x.jpg",
-    "gameNo": "147",
     "ename": "Professor's Research (Professor Rowan)",
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_150-2x.jpg"
-    ]
+    ],
+    "series": "SS9"
   },
   {
     "id": "5507",
@@ -3635,8 +3720,12 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_148-2x.jpg",
-    "gameNo": "148",
-    "ename": "Roseanne's Backup"
+    "ename": "Roseanne's Backup",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_172-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_180_R_EN.png"
+    ],
+    "series": "SS9"
   },
   {
     "id": "6014",
@@ -3655,8 +3744,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_149-2x.jpg",
-    "gameNo": "149",
-    "ename": "Team Yell's Cheer"
+    "ename": "Team Yell's Cheer",
+    "series": "SS9"
   },
   {
     "id": "5583",
@@ -3679,8 +3768,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_131-2x.jpg",
-    "gameNo": "131",
-    "ename": "Blunder Policy"
+    "ename": "Blunder Policy",
+    "series": "SS9"
   },
   {
     "id": "5501",
@@ -3703,8 +3792,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_135-2x.jpg",
-    "gameNo": "135",
-    "ename": "Choice Belt"
+    "ename": "Choice Belt",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_211_R_EN.png"
+    ],
+    "series": "SS9"
   },
   {
     "id": "5330",
@@ -3727,8 +3819,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_136-2x.jpg",
-    "gameNo": "136",
-    "ename": "Cleansing Gloves"
+    "ename": "Cleansing Gloves",
+    "series": "SS9"
   },
   {
     "id": "5332",
@@ -3751,8 +3843,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_142-2x.jpg",
-    "gameNo": "142",
-    "ename": "Hunting Gloves"
+    "ename": "Hunting Gloves",
+    "series": "SS9"
   },
   {
     "id": "5502",
@@ -3775,8 +3867,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_146-2x.jpg",
-    "gameNo": "146",
-    "ename": "Pot Helmet"
+    "ename": "Pot Helmet",
+    "series": "SS9"
   },
   {
     "id": "5499",
@@ -3795,8 +3887,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_139-2x.jpg",
-    "gameNo": "139",
-    "ename": "Fresh Water Set"
+    "ename": "Fresh Water Set",
+    "series": "SS9"
   },
   {
     "id": "5500",
@@ -3815,8 +3907,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_150-2x.jpg",
-    "gameNo": "150",
-    "ename": "Ultra Ball"
+    "ename": "Ultra Ball",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_186_R_EN.png"
+    ],
+    "series": "SS9"
   },
   {
     "id": "5511",
@@ -3831,7 +3926,10 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_151-2x.jpg",
-    "gameNo": "151",
-    "ename": "Double Turbo Energy"
+    "ename": "Double Turbo Energy",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_216_R_EN.png"
+    ],
+    "series": "SS9"
   }
 ]

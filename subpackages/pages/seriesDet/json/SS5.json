@@ -18,8 +18,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_1-2x.jpg",
-    "gameNo": "001",
-    "ename": "Bellsprout"
+    "ename": "Bellsprout",
+    "series": "SS5"
   },
   {
     "id": "533",
@@ -44,8 +44,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_2-2x.jpg",
-    "gameNo": "002",
-    "ename": "Weepinbell"
+    "ename": "Weepinbell",
+    "series": "SS5"
   },
   {
     "id": "534",
@@ -70,8 +70,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_3-2x.jpg",
-    "gameNo": "003",
-    "ename": "Victreebel"
+    "ename": "Victreebel",
+    "series": "SS5"
   },
   {
     "id": "462",
@@ -96,8 +96,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_4-2x.jpg",
-    "gameNo": "004",
-    "ename": "Cacnea"
+    "ename": "Cacnea",
+    "series": "SS5"
   },
   {
     "id": "463",
@@ -122,8 +122,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_5-2x.jpg",
-    "gameNo": "005",
-    "ename": "Cacturne"
+    "ename": "Cacturne",
+    "series": "SS5"
   },
   {
     "id": "535",
@@ -152,11 +152,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_6-2x.jpg",
-    "gameNo": "006",
     "ename": "Kricketune V",
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_12-2x.jpg"
-    ]
+    ],
+    "series": "SS5"
   },
   {
     "id": "536",
@@ -177,8 +177,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_7-2x.jpg",
-    "gameNo": "007",
-    "ename": "Cherubi"
+    "ename": "Cherubi",
+    "series": "SS5"
   },
   {
     "id": "537",
@@ -203,8 +203,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_8-2x.jpg",
-    "gameNo": "008",
-    "ename": "Cherrim"
+    "ename": "Cherrim",
+    "series": "SS5"
   },
   {
     "id": "538",
@@ -229,8 +229,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_9-2x.jpg",
-    "gameNo": "009",
-    "ename": "Carnivine"
+    "ename": "Carnivine",
+    "series": "SS5"
   },
   {
     "id": "464",
@@ -255,8 +255,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_10-2x.jpg",
-    "gameNo": "010",
-    "ename": "Durant"
+    "ename": "Durant",
+    "series": "SS5"
   },
   {
     "id": "465",
@@ -277,8 +277,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_11-2x.jpg",
-    "gameNo": "011",
-    "ename": "Scatterbug"
+    "ename": "Scatterbug",
+    "series": "SS5"
   },
   {
     "id": "466",
@@ -303,8 +303,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_12-2x.jpg",
-    "gameNo": "012",
-    "ename": "Spewpa"
+    "ename": "Spewpa",
+    "series": "SS5"
   },
   {
     "id": "467",
@@ -329,8 +329,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_13-2x.jpg",
-    "gameNo": "013",
-    "ename": "Vivillon"
+    "ename": "Vivillon",
+    "series": "SS5"
   },
   {
     "id": "539",
@@ -351,8 +351,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_14-2x.jpg",
-    "gameNo": "014",
-    "ename": "Fomantis"
+    "ename": "Fomantis",
+    "series": "SS5"
   },
   {
     "id": "540",
@@ -377,8 +377,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_15-2x.jpg",
-    "gameNo": "015",
-    "ename": "Lurantis"
+    "ename": "Lurantis",
+    "series": "SS5"
   },
   {
     "id": "541",
@@ -403,8 +403,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_16-2x.jpg",
-    "gameNo": "016",
-    "ename": "Tapu Bulu"
+    "ename": "Tapu Bulu",
+    "series": "SS5"
   },
   {
     "id": "542",
@@ -425,8 +425,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_17-2x.jpg",
-    "gameNo": "017",
-    "ename": "Blipbug"
+    "ename": "Blipbug",
+    "series": "SS5"
   },
   {
     "id": "468",
@@ -455,8 +455,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_18-2x.jpg",
-    "gameNo": "018",
-    "ename": "Flapple V"
+    "ename": "Flapple V",
+    "series": "SS5"
   },
   {
     "id": "469",
@@ -481,8 +481,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_19-2x.jpg",
-    "gameNo": "019",
-    "ename": "Flapple VMAX"
+    "ename": "Flapple VMAX",
+    "series": "SS5"
   },
   {
     "id": "470",
@@ -507,8 +507,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_20-2x.jpg",
-    "gameNo": "020",
-    "ename": "Entei"
+    "ename": "Entei",
+    "series": "SS5"
   },
   {
     "id": "543",
@@ -537,8 +537,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_21-2x.jpg",
-    "gameNo": "021",
-    "ename": "Victini V"
+    "ename": "Victini V",
+    "series": "SS5"
   },
   {
     "id": "544",
@@ -567,8 +567,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_22-2x.jpg",
-    "gameNo": "022",
-    "ename": "Victini VMAX"
+    "ename": "Victini VMAX",
+    "series": "SS5"
   },
   {
     "id": "471",
@@ -593,8 +593,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_23-2x.jpg",
-    "gameNo": "023",
-    "ename": "Tepig"
+    "ename": "Tepig",
+    "series": "SS5"
   },
   {
     "id": "472",
@@ -619,8 +619,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_24-2x.jpg",
-    "gameNo": "024",
-    "ename": "Pignite"
+    "ename": "Pignite",
+    "series": "SS5"
   },
   {
     "id": "473",
@@ -645,8 +645,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_25-2x.jpg",
-    "gameNo": "025",
-    "ename": "Emboar"
+    "ename": "Emboar",
+    "series": "SS5"
   },
   {
     "id": "545",
@@ -671,8 +671,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_26-2x.jpg",
-    "gameNo": "026",
-    "ename": "Heatmor"
+    "ename": "Heatmor",
+    "series": "SS5"
   },
   {
     "id": "474",
@@ -693,8 +693,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_27-2x.jpg",
-    "gameNo": "027",
-    "ename": "Salandit"
+    "ename": "Salandit",
+    "series": "SS5"
   },
   {
     "id": "475",
@@ -719,8 +719,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_28-2x.jpg",
-    "gameNo": "028",
-    "ename": "Salazzle"
+    "ename": "Salazzle",
+    "series": "SS5"
   },
   {
     "id": "546",
@@ -741,8 +741,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_29-2x.jpg",
-    "gameNo": "029",
-    "ename": "Sizzlipede"
+    "ename": "Sizzlipede",
+    "series": "SS5"
   },
   {
     "id": "547",
@@ -767,8 +767,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_30-2x.jpg",
-    "gameNo": "030",
-    "ename": "Centiskorch"
+    "ename": "Centiskorch",
+    "series": "SS5"
   },
   {
     "id": "548",
@@ -789,8 +789,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_31-2x.jpg",
-    "gameNo": "031",
-    "ename": "Horsea"
+    "ename": "Horsea",
+    "series": "SS5"
   },
   {
     "id": "549",
@@ -811,8 +811,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_32-2x.jpg",
-    "gameNo": "032",
-    "ename": "Seadra"
+    "ename": "Seadra",
+    "series": "SS5"
   },
   {
     "id": "550",
@@ -837,8 +837,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_33-2x.jpg",
-    "gameNo": "033",
-    "ename": "Kingdra"
+    "ename": "Kingdra",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_TG_3-2x.jpg"
+    ],
+    "series": "SS5"
   },
   {
     "id": "551",
@@ -863,8 +866,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_34-2x.jpg",
-    "gameNo": "034",
-    "ename": "Galarian Mr. Mime"
+    "ename": "Galarian Mr. Mime",
+    "series": "SS5"
   },
   {
     "id": "552",
@@ -889,8 +892,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_35-2x.jpg",
-    "gameNo": "035",
-    "ename": "Galarian Mr. Rime"
+    "ename": "Galarian Mr. Rime",
+    "series": "SS5"
   },
   {
     "id": "553",
@@ -915,8 +918,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_36-2x.jpg",
-    "gameNo": "036",
-    "ename": "Remoraid"
+    "ename": "Remoraid",
+    "series": "SS5"
   },
   {
     "id": "554",
@@ -941,8 +944,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_37-2x.jpg",
-    "gameNo": "037",
-    "ename": "Octillery"
+    "ename": "Octillery",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_TG3_R_EN.png"
+    ],
+    "series": "SS5"
   },
   {
     "id": "555",
@@ -963,8 +969,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_38-2x.jpg",
-    "gameNo": "038",
-    "ename": "Corphish"
+    "ename": "Corphish",
+    "series": "SS5"
   },
   {
     "id": "556",
@@ -989,8 +995,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_39-2x.jpg",
-    "gameNo": "039",
-    "ename": "Crawdaunt"
+    "ename": "Crawdaunt",
+    "series": "SS5"
   },
   {
     "id": "557",
@@ -1019,8 +1025,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_40-2x.jpg",
-    "gameNo": "040",
-    "ename": "Empoleon V"
+    "ename": "Empoleon V",
+    "series": "SS5"
   },
   {
     "id": "558",
@@ -1045,8 +1051,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_41-2x.jpg",
-    "gameNo": "041",
-    "ename": "Frillish"
+    "ename": "Frillish",
+    "series": "SS5"
   },
   {
     "id": "559",
@@ -1067,8 +1073,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_42-2x.jpg",
-    "gameNo": "042",
-    "ename": "Jellicent"
+    "ename": "Jellicent",
+    "series": "SS5"
   },
   {
     "id": "560",
@@ -1093,8 +1099,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_43-2x.jpg",
-    "gameNo": "043",
-    "ename": "Bruxish"
+    "ename": "Bruxish",
+    "series": "SS5"
   },
   {
     "id": "476",
@@ -1115,8 +1121,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_44-2x.jpg",
-    "gameNo": "044",
-    "ename": "Electabuzz"
+    "ename": "Electabuzz",
+    "series": "SS5"
   },
   {
     "id": "477",
@@ -1141,8 +1147,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_45-2x.jpg",
-    "gameNo": "045",
-    "ename": "Electivire"
+    "ename": "Electivire",
+    "series": "SS5"
   },
   {
     "id": "561",
@@ -1163,8 +1169,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_46-2x.jpg",
-    "gameNo": "046",
-    "ename": "Shinx"
+    "ename": "Shinx",
+    "series": "SS5"
   },
   {
     "id": "562",
@@ -1189,8 +1195,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_47-2x.jpg",
-    "gameNo": "047",
-    "ename": "Luxio"
+    "ename": "Luxio",
+    "series": "SS5"
   },
   {
     "id": "563",
@@ -1215,8 +1221,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_48-2x.jpg",
-    "gameNo": "048",
-    "ename": "Luxray"
+    "ename": "Luxray",
+    "series": "SS5"
   },
   {
     "id": "564",
@@ -1241,8 +1247,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_49-2x.jpg",
-    "gameNo": "049",
-    "ename": "Pachirisu"
+    "ename": "Pachirisu",
+    "series": "SS5"
   },
   {
     "id": "478",
@@ -1271,8 +1277,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_50-2x.jpg",
-    "gameNo": "050",
-    "ename": "Tapu Koko V"
+    "ename": "Tapu Koko V",
+    "series": "SS5"
   },
   {
     "id": "479",
@@ -1297,8 +1303,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_51-2x.jpg",
-    "gameNo": "051",
-    "ename": "Tapu Koko VMAX"
+    "ename": "Tapu Koko VMAX",
+    "series": "SS5"
   },
   {
     "id": "480",
@@ -1323,8 +1329,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_52-2x.jpg",
-    "gameNo": "052",
-    "ename": "Yamper"
+    "ename": "Yamper",
+    "series": "SS5"
   },
   {
     "id": "481",
@@ -1349,8 +1355,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_53-2x.jpg",
-    "gameNo": "053",
-    "ename": "Boltund"
+    "ename": "Boltund",
+    "series": "SS5"
   },
   {
     "id": "482",
@@ -1371,8 +1377,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_54-2x.jpg",
-    "gameNo": "054",
-    "ename": "Galarian Slowpoke"
+    "ename": "Galarian Slowpoke",
+    "series": "SS5"
   },
   {
     "id": "483",
@@ -1397,8 +1403,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_55-2x.jpg",
-    "gameNo": "055",
-    "ename": "Spoink"
+    "ename": "Spoink",
+    "series": "SS5"
   },
   {
     "id": "484",
@@ -1423,8 +1429,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_56-2x.jpg",
-    "gameNo": "056",
-    "ename": "Grumpig"
+    "ename": "Grumpig",
+    "series": "SS5"
   },
   {
     "id": "565",
@@ -1445,8 +1451,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_57-2x.jpg",
-    "gameNo": "057",
-    "ename": "Baltoy"
+    "ename": "Baltoy",
+    "series": "SS5"
   },
   {
     "id": "566",
@@ -1471,8 +1477,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_58-2x.jpg",
-    "gameNo": "058",
-    "ename": "Claydol"
+    "ename": "Claydol",
+    "series": "SS5"
   },
   {
     "id": "485",
@@ -1497,8 +1503,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_59-2x.jpg",
-    "gameNo": "059",
-    "ename": "Chimecho"
+    "ename": "Chimecho",
+    "series": "SS5"
   },
   {
     "id": "486",
@@ -1519,8 +1525,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_60-2x.jpg",
-    "gameNo": "060",
-    "ename": "Espurr"
+    "ename": "Espurr",
+    "series": "SS5"
   },
   {
     "id": "487",
@@ -1545,8 +1551,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_61-2x.jpg",
-    "gameNo": "061",
-    "ename": "Meowstic"
+    "ename": "Meowstic",
+    "series": "SS5"
   },
   {
     "id": "488",
@@ -1575,8 +1581,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_62-2x.jpg",
-    "gameNo": "062",
-    "ename": "Mimikyu V"
+    "ename": "Mimikyu V",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_TG16_R_EN.png"
+    ],
+    "series": "SS5"
   },
   {
     "id": "567",
@@ -1605,8 +1614,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_63-2x.jpg",
-    "gameNo": "063",
-    "ename": "Necrozma V"
+    "ename": "Necrozma V",
+    "series": "SS5"
   },
   {
     "id": "568",
@@ -1631,8 +1640,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_64-2x.jpg",
-    "gameNo": "064",
-    "ename": "Dottler"
+    "ename": "Dottler",
+    "series": "SS5"
   },
   {
     "id": "569",
@@ -1657,8 +1666,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_65-2x.jpg",
-    "gameNo": "065",
-    "ename": "Orbeetle"
+    "ename": "Orbeetle",
+    "series": "SS5"
   },
   {
     "id": "489",
@@ -1679,8 +1688,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_66-2x.jpg",
-    "gameNo": "066",
-    "ename": "Mankey"
+    "ename": "Mankey",
+    "series": "SS5"
   },
   {
     "id": "490",
@@ -1705,8 +1714,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_67-2x.jpg",
-    "gameNo": "067",
-    "ename": "Primeape"
+    "ename": "Primeape",
+    "series": "SS5"
   },
   {
     "id": "570",
@@ -1731,8 +1740,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_68-2x.jpg",
-    "gameNo": "068",
-    "ename": "Onix"
+    "ename": "Onix",
+    "series": "SS5"
   },
   {
     "id": "571",
@@ -1757,8 +1766,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_69-2x.jpg",
-    "gameNo": "069",
-    "ename": "Cubone"
+    "ename": "Cubone",
+    "series": "SS5"
   },
   {
     "id": "572",
@@ -1783,8 +1792,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_70-2x.jpg",
-    "gameNo": "070",
-    "ename": "Marowak"
+    "ename": "Marowak",
+    "series": "SS5"
   },
   {
     "id": "491",
@@ -1805,8 +1814,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_71-2x.jpg",
-    "gameNo": "071",
-    "ename": "Gligar"
+    "ename": "Gligar",
+    "series": "SS5"
   },
   {
     "id": "492",
@@ -1831,8 +1840,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_72-2x.jpg",
-    "gameNo": "072",
-    "ename": "Gliscor"
+    "ename": "Gliscor",
+    "series": "SS5"
   },
   {
     "id": "573",
@@ -1853,8 +1862,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_73-2x.jpg",
-    "gameNo": "073",
-    "ename": "Timburr"
+    "ename": "Timburr",
+    "series": "SS5"
   },
   {
     "id": "574",
@@ -1879,8 +1888,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_74-2x.jpg",
-    "gameNo": "074",
-    "ename": "Gurdurr"
+    "ename": "Gurdurr",
+    "series": "SS5"
   },
   {
     "id": "575",
@@ -1905,8 +1914,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_75-2x.jpg",
-    "gameNo": "075",
-    "ename": "Conkeldurr"
+    "ename": "Conkeldurr",
+    "series": "SS5"
   },
   {
     "id": "576",
@@ -1927,8 +1936,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_76-2x.jpg",
-    "gameNo": "076",
-    "ename": "Mienfoo"
+    "ename": "Mienfoo",
+    "series": "SS5"
   },
   {
     "id": "577",
@@ -1953,8 +1962,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_77-2x.jpg",
-    "gameNo": "077",
-    "ename": "Mienshao"
+    "ename": "Mienshao",
+    "series": "SS5"
   },
   {
     "id": "493",
@@ -1975,8 +1984,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_78-2x.jpg",
-    "gameNo": "078",
-    "ename": "Rolycoly"
+    "ename": "Rolycoly",
+    "series": "SS5"
   },
   {
     "id": "494",
@@ -2001,8 +2010,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_79-2x.jpg",
-    "gameNo": "079",
-    "ename": "Carkol"
+    "ename": "Carkol",
+    "series": "SS5"
   },
   {
     "id": "495",
@@ -2027,8 +2036,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_80-2x.jpg",
-    "gameNo": "080",
-    "ename": "Coalossal"
+    "ename": "Coalossal",
+    "series": "SS5"
   },
   {
     "id": "578",
@@ -2053,8 +2062,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_81-2x.jpg",
-    "gameNo": "081",
-    "ename": "Silicobra"
+    "ename": "Silicobra",
+    "series": "SS5"
   },
   {
     "id": "579",
@@ -2079,8 +2088,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_82-2x.jpg",
-    "gameNo": "082",
-    "ename": "Sandaconda"
+    "ename": "Sandaconda",
+    "series": "SS5"
   },
   {
     "id": "580",
@@ -2101,8 +2110,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_83-2x.jpg",
-    "gameNo": "083",
-    "ename": "Falinks"
+    "ename": "Falinks",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_TG_7-2x.jpg"
+    ],
+    "series": "SS5"
   },
   {
     "id": "496",
@@ -2127,8 +2139,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_84-2x.jpg",
-    "gameNo": "084",
-    "ename": "Stonjourner"
+    "ename": "Stonjourner",
+    "series": "SS5"
   },
   {
     "id": "497",
@@ -2157,8 +2169,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_85-2x.jpg",
-    "gameNo": "085",
-    "ename": "Single Strike Urshifu V"
+    "ename": "Single Strike Urshifu V",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_TG18_R_EN.png"
+    ],
+    "series": "SS5"
   },
   {
     "id": "498",
@@ -2187,8 +2202,12 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_86-2x.jpg",
-    "gameNo": "086",
-    "ename": "Single Strike Urshifu VMAX"
+    "ename": "Single Strike Urshifu VMAX",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_TG19_R_EN.png",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_TG29_R_EN.png"
+    ],
+    "series": "SS5"
   },
   {
     "id": "581",
@@ -2217,8 +2236,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_87-2x.jpg",
-    "gameNo": "087",
-    "ename": "Rapid Strike Urshifu V"
+    "ename": "Rapid Strike Urshifu V",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_TG20_R_EN.png"
+    ],
+    "series": "SS5"
   },
   {
     "id": "582",
@@ -2247,8 +2269,12 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_88-2x.jpg",
-    "gameNo": "088",
-    "ename": "Rapid Strike Urshifu VMAX"
+    "ename": "Rapid Strike Urshifu VMAX",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_TG21_R_EN.png",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_TG30_R_EN.png"
+    ],
+    "series": "SS5"
   },
   {
     "id": "499",
@@ -2273,8 +2299,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_89-2x.jpg",
-    "gameNo": "089",
-    "ename": "Zubat"
+    "ename": "Zubat",
+    "series": "SS5"
   },
   {
     "id": "500",
@@ -2299,8 +2325,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_90-2x.jpg",
-    "gameNo": "090",
-    "ename": "Golbat"
+    "ename": "Golbat",
+    "series": "SS5"
   },
   {
     "id": "501",
@@ -2325,8 +2351,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_91-2x.jpg",
-    "gameNo": "091",
-    "ename": "Crobat"
+    "ename": "Crobat",
+    "series": "SS5"
   },
   {
     "id": "502",
@@ -2351,8 +2377,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_92-2x.jpg",
-    "gameNo": "092",
-    "ename": "Galarian Slowbro"
+    "ename": "Galarian Slowbro",
+    "series": "SS5"
   },
   {
     "id": "503",
@@ -2377,8 +2403,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_93-2x.jpg",
-    "gameNo": "093",
-    "ename": "Murkrow"
+    "ename": "Murkrow",
+    "series": "SS5"
   },
   {
     "id": "504",
@@ -2403,8 +2429,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_94-2x.jpg",
-    "gameNo": "094",
-    "ename": "Honchkrow"
+    "ename": "Honchkrow",
+    "series": "SS5"
   },
   {
     "id": "505",
@@ -2425,8 +2451,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_95-2x.jpg",
-    "gameNo": "095",
-    "ename": "Houndour"
+    "ename": "Houndour",
+    "series": "SS5"
   },
   {
     "id": "506",
@@ -2451,8 +2477,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_96-2x.jpg",
-    "gameNo": "096",
-    "ename": "Houndoom"
+    "ename": "Houndoom",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_TG10_R_EN.png"
+    ],
+    "series": "SS5"
   },
   {
     "id": "507",
@@ -2481,8 +2510,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_97-2x.jpg",
-    "gameNo": "097",
-    "ename": "Tyranitar V"
+    "ename": "Tyranitar V",
+    "series": "SS5"
   },
   {
     "id": "508",
@@ -2507,8 +2536,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_98-2x.jpg",
-    "gameNo": "098",
-    "ename": "Morpeko"
+    "ename": "Morpeko",
+    "series": "SS5"
   },
   {
     "id": "583",
@@ -2533,8 +2562,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_99-2x.jpg",
-    "gameNo": "099",
-    "ename": "Steelix"
+    "ename": "Steelix",
+    "series": "SS5"
   },
   {
     "id": "509",
@@ -2559,8 +2588,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_100-2x.jpg",
-    "gameNo": "100",
-    "ename": "Mawile"
+    "ename": "Mawile",
+    "series": "SS5"
   },
   {
     "id": "510",
@@ -2581,8 +2610,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_101-2x.jpg",
-    "gameNo": "101",
-    "ename": "Bronzor"
+    "ename": "Bronzor",
+    "series": "SS5"
   },
   {
     "id": "511",
@@ -2607,8 +2636,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_102-2x.jpg",
-    "gameNo": "102",
-    "ename": "Bronzong"
+    "ename": "Bronzong",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_TG_11-2x.jpg"
+    ],
+    "series": "SS5"
   },
   {
     "id": "584",
@@ -2633,8 +2665,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_103-2x.jpg",
-    "gameNo": "103",
-    "ename": "Pawniard"
+    "ename": "Pawniard",
+    "series": "SS5"
   },
   {
     "id": "585",
@@ -2659,8 +2691,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_104-2x.jpg",
-    "gameNo": "104",
-    "ename": "Bisharp"
+    "ename": "Bisharp",
+    "series": "SS5"
   },
   {
     "id": "512",
@@ -2681,8 +2713,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_105-2x.jpg",
-    "gameNo": "105",
-    "ename": "Honedge"
+    "ename": "Honedge",
+    "series": "SS5"
   },
   {
     "id": "513",
@@ -2703,8 +2735,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_106-2x.jpg",
-    "gameNo": "106",
-    "ename": "Doublade"
+    "ename": "Doublade",
+    "series": "SS5"
   },
   {
     "id": "514",
@@ -2729,8 +2761,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_107-2x.jpg",
-    "gameNo": "107",
-    "ename": "Aegislash"
+    "ename": "Aegislash",
+    "series": "SS5"
   },
   {
     "id": "515",
@@ -2755,8 +2787,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_108-2x.jpg",
-    "gameNo": "108",
-    "ename": "Aegislash"
+    "ename": "Aegislash",
+    "series": "SS5"
   },
   {
     "id": "586",
@@ -2785,11 +2817,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_109-2x.jpg",
-    "gameNo": "109",
     "ename": "Corviknight V",
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_18-2x.jpg"
-    ]
+    ],
+    "series": "SS5"
   },
   {
     "id": "587",
@@ -2818,11 +2850,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_110-2x.jpg",
-    "gameNo": "110",
     "ename": "Corviknight VMAX",
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_19-2x.jpg"
-    ]
+    ],
+    "series": "SS5"
   },
   {
     "id": "516",
@@ -2843,8 +2875,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_111-2x.jpg",
-    "gameNo": "111",
-    "ename": "Spearow"
+    "ename": "Spearow",
+    "series": "SS5"
   },
   {
     "id": "517",
@@ -2865,8 +2897,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_112-2x.jpg",
-    "gameNo": "112",
-    "ename": "Fearow"
+    "ename": "Fearow",
+    "series": "SS5"
   },
   {
     "id": "518",
@@ -2891,8 +2923,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_113-2x.jpg",
-    "gameNo": "113",
-    "ename": "Lickitung"
+    "ename": "Lickitung",
+    "series": "SS5"
   },
   {
     "id": "519",
@@ -2917,8 +2949,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_114-2x.jpg",
-    "gameNo": "114",
-    "ename": "Lickilicky"
+    "ename": "Lickilicky",
+    "series": "SS5"
   },
   {
     "id": "588",
@@ -2943,8 +2975,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_115-2x.jpg",
-    "gameNo": "115",
-    "ename": "Glameow"
+    "ename": "Glameow",
+    "series": "SS5"
   },
   {
     "id": "589",
@@ -2969,8 +3001,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_116-2x.jpg",
-    "gameNo": "116",
-    "ename": "Purugly"
+    "ename": "Purugly",
+    "series": "SS5"
   },
   {
     "id": "520",
@@ -2999,8 +3031,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_117-2x.jpg",
-    "gameNo": "117",
-    "ename": "Stoutland V"
+    "ename": "Stoutland V",
+    "series": "SS5"
   },
   {
     "id": "590",
@@ -3025,8 +3057,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_118-2x.jpg",
-    "gameNo": "118",
-    "ename": "Bouffalant"
+    "ename": "Bouffalant",
+    "series": "SS5"
   },
   {
     "id": "521",
@@ -3051,8 +3083,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_119-2x.jpg",
-    "gameNo": "119",
-    "ename": "Drampa"
+    "ename": "Drampa",
+    "series": "SS5"
   },
   {
     "id": "591",
@@ -3077,8 +3109,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_120-2x.jpg",
-    "gameNo": "120",
-    "ename": "Indeedee"
+    "ename": "Indeedee",
+    "series": "SS5"
   },
   {
     "id": "530",
@@ -3097,8 +3129,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_137-2x.jpg",
-    "gameNo": "137",
-    "ename": "Tower of Darkness"
+    "ename": "Tower of Darkness",
+    "series": "SS5"
   },
   {
     "id": "600",
@@ -3117,8 +3149,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_138-2x.jpg",
-    "gameNo": "138",
-    "ename": "Tower of Waters"
+    "ename": "Tower of Waters",
+    "series": "SS5"
   },
   {
     "id": "527",
@@ -3137,8 +3169,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_121-2x.jpg",
-    "gameNo": "121",
-    "ename": "Bruno"
+    "ename": "Bruno",
+    "series": "SS5"
   },
   {
     "id": "599",
@@ -3157,8 +3189,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_123-2x.jpg",
-    "gameNo": "123",
-    "ename": "Cheryl"
+    "ename": "Cheryl",
+    "series": "SS5"
   },
   {
     "id": "597",
@@ -3177,8 +3209,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_128-2x.jpg",
-    "gameNo": "128",
-    "ename": "Korrina's Focus"
+    "ename": "Korrina's Focus",
+    "series": "SS5"
   },
   {
     "id": "528",
@@ -3197,8 +3229,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_130-2x.jpg",
-    "gameNo": "130",
-    "ename": "Phoebe"
+    "ename": "Phoebe",
+    "series": "SS5"
   },
   {
     "id": "598",
@@ -3217,8 +3249,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_132-2x.jpg",
-    "gameNo": "132",
-    "ename": "Rapid Strike Style Mustard"
+    "ename": "Rapid Strike Style Mustard",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_TG27_R_EN.png"
+    ],
+    "series": "SS5"
   },
   {
     "id": "529",
@@ -3237,8 +3272,11 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_134-2x.jpg",
-    "gameNo": "134",
-    "ename": "Single Strike Style Mustard"
+    "ename": "Single Strike Style Mustard",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_TG28_R_EN.png"
+    ],
+    "series": "SS5"
   },
   {
     "id": "526",
@@ -3261,8 +3299,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_126-2x.jpg",
-    "gameNo": "126",
-    "ename": "Exp. Share"
+    "ename": "Exp. Share",
+    "series": "SS5"
   },
   {
     "id": "596",
@@ -3277,7 +3315,11 @@
       },
       {
         "name": "",
-        "effect": "附有这张卡的「连击」宝可梦，可使用这张卡上写的招式。[需要有足够使用招式的能量。] 斗●●　旋涡无双对手的所有宝可梦各受到30点伤害。[在备战区不计算弱点・抵抗力。]"
+        "effect": "附有这张卡的「连击」宝可梦，可使用这张卡上写的招式。[需要有足够使用招式的能量。]"
+      },
+      {
+        "name": "旋涡无双",
+        "effect": "对手的所有宝可梦各受到30点伤害。[在备战区不计算弱点・抵抗力。]"
       },
       {
         "name": "[物品规则]",
@@ -3285,8 +3327,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_131-2x.jpg",
-    "gameNo": "131",
-    "ename": "Rapid Strike Scroll of Swirls"
+    "ename": "Rapid Strike Scroll of Swirls",
+    "series": "SS5"
   },
   {
     "id": "525",
@@ -3301,7 +3343,11 @@
       },
       {
         "name": "",
-        "effect": "附有这张卡的「一击」宝可梦，可使用这张卡上写的招式。[需要有足够使用招式的能量。] 斗　怒发冲冠　10+ 增加这只宝可梦身上放置的伤害指示物的数量×10点伤害。"
+        "effect": "附有这张卡的「一击」宝可梦，可使用这张卡上写的招式。[需要有足够使用招式的能量。]"
+      },
+      {
+        "name": "怒发冲冠",
+        "effect": "增加这只宝可梦身上放置的伤害指示物的数量×10点伤害。"
       },
       {
         "name": "[物品规则]",
@@ -3309,8 +3355,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_133-2x.jpg",
-    "gameNo": "133",
-    "ename": "Single Strike Scroll of Scorn"
+    "ename": "Single Strike Scroll of Scorn",
+    "series": "SS5"
   },
   {
     "id": "595",
@@ -3333,8 +3379,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_136-2x.jpg",
-    "gameNo": "136",
-    "ename": "Tool Jammer"
+    "ename": "Tool Jammer",
+    "series": "SS5"
   },
   {
     "id": "524",
@@ -3353,8 +3399,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_122-2x.jpg",
-    "gameNo": "122",
-    "ename": "Camping Gear"
+    "ename": "Camping Gear",
+    "series": "SS5"
   },
   {
     "id": "593",
@@ -3373,8 +3419,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_124-2x.jpg",
-    "gameNo": "124",
-    "ename": "Energy Recycler"
+    "ename": "Energy Recycler",
+    "series": "SS5"
   },
   {
     "id": "522",
@@ -3393,8 +3439,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_125-2x.jpg",
-    "gameNo": "125",
-    "ename": "Escape Rope"
+    "ename": "Escape Rope",
+    "series": "SS5"
   },
   {
     "id": "592",
@@ -3413,8 +3459,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_127-2x.jpg",
-    "gameNo": "127",
-    "ename": "Fan of Waves"
+    "ename": "Fan of Waves",
+    "series": "SS5"
   },
   {
     "id": "594",
@@ -3433,8 +3479,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_129-2x.jpg",
-    "gameNo": "129",
-    "ename": "Level Ball"
+    "ename": "Level Ball",
+    "series": "SS5"
   },
   {
     "id": "523",
@@ -3453,8 +3499,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_139-2x.jpg",
-    "gameNo": "139",
-    "ename": "Urn of Vitality"
+    "ename": "Urn of Vitality",
+    "series": "SS5"
   },
   {
     "id": "601",
@@ -3469,8 +3515,8 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_140-2x.jpg",
-    "gameNo": "139",
-    "ename": "Urn of Vitality"
+    "ename": "Urn of Vitality",
+    "series": "SS5"
   },
   {
     "id": "531",
@@ -3485,7 +3531,7 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_141-2x.jpg",
-    "gameNo": "140",
-    "ename": "Rapid Strike Energy"
+    "ename": "Rapid Strike Energy",
+    "series": "SS5"
   }
 ]
