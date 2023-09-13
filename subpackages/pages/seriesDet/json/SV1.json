@@ -4603,6 +4603,9 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_174-2x.jpg",
     "ename": "Exp. Share",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BST/BST_180_R_EN.png"
+    ],
     "series": "SV1"
   },
   {

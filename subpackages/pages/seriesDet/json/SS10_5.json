@@ -1775,6 +1775,29 @@
     "series": "SS10.5"
   },
   {
+    "id": "",
+    "url": "",
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_78-2x.jpg",
+    "type": "Trainers",
+    "cardName": "博士的研究（维罗博士）",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "将自己的手牌全部丢弃，从牌库抽出7张卡。"
+      },
+      {
+        "name": "[支援者规则]",
+        "effect": "在自己的回合时，支援者卡只可使用1张。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_78-2x.jpg",
+    "ename": "Professor's Research (Professor Willow)",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PGO/PGO_084_R_EN.png"
+    ],
+    "series": "SS9"
+  },
+  {
     "id": "6598",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/6598/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006598.png",

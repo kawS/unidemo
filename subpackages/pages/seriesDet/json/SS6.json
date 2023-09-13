@@ -172,7 +172,8 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_7-2x.jpg",
     "ename": "Celebi V",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_245-2x.jpg"
+      "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_245-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_160-2x.jpg"
     ],
     "series": "SS6"
   },
@@ -200,6 +201,9 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_8-2x.jpg",
     "ename": "Celebi VMAX",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_199_R_EN.png"
+    ],
     "series": "SS6"
   },
   {
@@ -504,7 +508,8 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_20-2x.jpg",
     "ename": "Blaziken V",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_14-2x.jpg"
+      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_14-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_161-2x.jpg"
     ],
     "series": "SS6"
   },
@@ -537,7 +542,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_21-2x.jpg",
     "ename": "Blaziken VMAX",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_15-2x.jpg"
+      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_15-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_201_R_EN.png",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_200_R_EN.png"
     ],
     "series": "SS6"
   },
@@ -639,6 +646,9 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_25-2x.jpg",
     "ename": "Volcanion V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_162-2x.jpg"
+    ],
     "series": "SS6"
   },
   {
@@ -851,12 +861,12 @@
     "cardName": "飘浮泡泡 雪云的样子",
     "skillList": [
       {
-        "name": "[特性]能量工厂",
-        "effect": "只要这只宝可梦在场上，自己的场上的，名称中有「双弹瓦斯」的宝可梦身上附加的基本【恶】能量，各视为提供2个【恶】能量。无论有多少只拥有这个特性的宝可梦，这个效果也不会重复。"
+        "name": "[特性]看天",
+        "effect": "若自己的弃牌区有8张以上的「竞技场」卡，则这只宝可梦使用招式所需的能量全部消除。"
       },
       {
-        "name": "瓦斯包围",
-        "effect": ""
+        "name": "冰霜台风",
+        "effect": "在下个自己的回合，这只宝可梦无法使用「冰霜台风」。"
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_34-2x.jpg",
@@ -877,8 +887,8 @@
     "cardName": "雪童子",
     "skillList": [
       {
-        "name": "击掌奇袭",
-        "effect": "掷1次硬币若为正面，则将对手的战斗宝可梦【麻痺】。"
+        "name": "头锤",
+        "effect": ""
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_35-2x.jpg",
@@ -899,16 +909,19 @@
     "cardName": "雪妖女",
     "skillList": [
       {
-        "name": "天狗再见",
-        "effect": "将身上放置有伤害指示物的对手的战斗宝可梦与附加的卡，全部放回对手的手牌。"
+        "name": "[特性]降霜",
+        "effect": "在自己的回合，当从手牌使出这张卡并完成进化时，可使用1次。从自己的弃牌区选择1张【水】能量卡，附于自己的宝可梦身上。"
       },
       {
-        "name": "寒冬旋风",
-        "effect": "在不看正面的情况下，选择1张对手的手牌，将其丢弃。"
+        "name": "水晶吐息",
+        "effect": "在下个自己的回合，这只宝可梦无法使用招式。"
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_36-2x.jpg",
     "ename": "Froslass",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_226_R_EN.png"
+    ],
     "series": "SS6"
   },
   {
@@ -925,16 +938,8 @@
     "cardName": "海豹球",
     "skillList": [
       {
-        "name": "子弹拳",
-        "effect": "掷2次硬币，增加正面出现的次数×20点伤害。"
-      },
-      {
-        "name": "同步之锤",
-        "effect": "若这只宝可梦与对手的战斗宝可梦，身上附加的能量数量相同，则增加90点伤害。"
-      },
-      {
-        "name": "[V规则]",
-        "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
+        "name": "冲撞",
+        "effect": ""
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_37-2x.jpg",
@@ -955,16 +960,12 @@
     "cardName": "海魔狮",
     "skillList": [
       {
-        "name": "电磁吸附",
-        "effect": "从自己的牌库任意选择最多2张卡加入手牌。并且重洗牌库。"
+        "name": "冲撞",
+        "effect": ""
       },
       {
-        "name": "极巨冲刺",
-        "effect": "在下个自己的回合，这只宝可梦「极巨冲刺」的伤害「+150」点。"
-      },
-      {
-        "name": "[VMAX规则]",
-        "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
+        "name": "极光束",
+        "effect": ""
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_38-2x.jpg",
@@ -985,12 +986,12 @@
     "cardName": "帝牙海狮",
     "skillList": [
       {
-        "name": "铁头碰",
+        "name": "极光束",
         "effect": ""
       },
       {
-        "name": "金属斩",
-        "effect": "在下个自己的回合，这只宝可梦无法使用招式。"
+        "name": "冰雹牢笼",
+        "effect": "将这只宝可梦身上附加的2个能量丢弃，将对手的战斗宝可梦麻痹。"
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_39-2x.jpg",
@@ -1095,6 +1096,9 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_43-2x.jpg",
     "ename": "Inteleon",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_227_R_EN.png"
+    ],
     "series": "SS6"
   },
   {
@@ -1152,7 +1156,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_45-2x.jpg",
     "ename": "Ice Rider Calyrex V",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_TG_14-2x.jpg"
+      "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_TG_14-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_163-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_164-2x.jpg"
     ],
     "series": "SS6"
   },
@@ -1186,6 +1192,8 @@
     "ename": "Ice Rider Calyrex VMAX",
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_TG_15-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_203_R_EN.png",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_202_R_EN.png",
       "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_TG_29-2x.jpg"
     ],
     "series": "SS6"
@@ -1363,7 +1371,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_53-2x.jpg",
     "ename": "Zeraora V",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_16-2x.jpg"
+      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_16-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_165-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_166-2x.jpg"
     ],
     "series": "SS6"
   },
@@ -1493,6 +1503,8 @@
     "ename": "Galarian Articuno V",
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_TG_16-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_169-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_170-2x.jpg",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_181_R_EN.png"
     ],
     "series": "SS6"
@@ -1645,6 +1657,9 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_64-2x.jpg",
     "ename": "Cresselia",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_228_R_EN.png"
+    ],
     "series": "SS6"
   },
   {
@@ -1893,7 +1908,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_74-2x.jpg",
     "ename": "Shadow Rider Calyrex V",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_TG_17-2x.jpg"
+      "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_TG_17-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_171-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_172-2x.jpg"
     ],
     "series": "SS6"
   },
@@ -1927,7 +1944,42 @@
     "ename": "Shadow Rider Calyrex VMAX",
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_TG_18-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_205_R_EN.png",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_204_R_EN.png",
       "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_TG_30-2x.jpg"
+    ],
+    "series": "SS6"
+  },
+  {
+    "id": "699",
+    "url": "https://asia.pokemon-card.com/tw/card-search/detail/699/",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000699.png",
+    "extraInformation": [
+      "No.78",
+      "",
+      ""
+    ],
+    "typeEnergy": "Psychic",
+    "type": "Pokemon",
+    "cardName": "伽勒尔 烈焰马V",
+    "skillList": [
+      {
+        "name": "天秤角击",
+        "effect": "在对手的1只宝可梦身上放置伤害指示物直到那只宝可梦的剩馀HP变为“100”为止。"
+      },
+      {
+        "name": "精神强念",
+        "effect": "增加对手的战斗宝可梦身上附加的能量的数量×30点伤害。"
+      },
+      {
+        "name": "[V规则]",
+        "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_167-2x.jpg",
+    "ename": "Galarian Rapidash V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_168-2x.jpg"
     ],
     "series": "SS6"
   },
@@ -2053,6 +2105,8 @@
     "ename": "Galarian Zapdos V",
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_TG_19-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_173-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_174-2x.jpg",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_182_R_EN.png"
     ],
     "series": "SS6"
@@ -2266,7 +2320,8 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_89-2x.jpg",
     "ename": "Sandaconda V",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_252-2x.jpg"
+      "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_252-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_175-2x.jpg"
     ],
     "series": "SS6"
   },
@@ -2294,6 +2349,9 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_90-2x.jpg",
     "ename": "Sandaconda VMAX",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_206_R_EN.png"
+    ],
     "series": "SS6"
   },
   {
@@ -2474,6 +2532,8 @@
     "ename": "Galarian Moltres V",
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_TG_20-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_176-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_177-2x.jpg",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_183_R_EN.png"
     ],
     "series": "SS6"
@@ -2532,6 +2592,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_99-2x.jpg",
     "ename": "Galarian Slowking V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_178-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_179-2x.jpg"
+    ],
     "series": "SS6"
   },
   {
@@ -2558,6 +2622,9 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_100-2x.jpg",
     "ename": "Galarian Slowking VMAX",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_207_R_EN.png"
+    ],
     "series": "SS6"
   },
   {
@@ -2658,6 +2725,9 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_104-2x.jpg",
     "ename": "Liepard V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_180-2x.jpg"
+    ],
     "series": "SS6"
   },
   {
@@ -2862,6 +2932,9 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_112-2x.jpg",
     "ename": "Metagross V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_181-2x.jpg"
+    ],
     "series": "SS6"
   },
   {
@@ -2888,6 +2961,9 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_113-2x.jpg",
     "ename": "Metagross VMAX",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_208_R_EN.png"
+    ],
     "series": "SS6"
   },
   {
@@ -3041,7 +3117,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_119-2x.jpg",
     "ename": "Blissey V",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_22-2x.jpg"
+      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_22-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_182-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_183-2x.jpg"
     ],
     "series": "SS6"
   },
@@ -3172,6 +3250,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_124-2x.jpg",
     "ename": "Tornadus V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_184-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_185-2x.jpg"
+    ],
     "series": "SS6"
   },
   {
@@ -3198,6 +3280,9 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_125-2x.jpg",
     "ename": "Tornadus VMAX",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_209_R_EN.png"
+    ],
     "series": "SS6"
   },
   {
@@ -3359,6 +3444,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_129-2x.jpg",
     "ename": "Agatha",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_186-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_210_R_EN.png"
+    ],
     "series": "SS6"
   },
   {
@@ -3379,6 +3468,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_130-2x.jpg",
     "ename": "Avery",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_187-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_211_R_EN.png"
+    ],
     "series": "SS6"
   },
   {
@@ -3399,6 +3492,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_131-2x.jpg",
     "ename": "Brawly",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_188-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_212_R_EN.png"
+    ],
     "series": "SS6"
   },
   {
@@ -3419,6 +3516,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_132-2x.jpg",
     "ename": "Caitlin",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_189-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_213_R_EN.png"
+    ],
     "series": "SS6"
   },
   {
@@ -3439,6 +3540,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_134-2x.jpg",
     "ename": "Doctor",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_190-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_214_R_EN.png"
+    ],
     "series": "SS6"
   },
   {
@@ -3459,6 +3564,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_139-2x.jpg",
     "ename": "Flannery",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_191-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_215_R_EN.png"
+    ],
     "series": "SS6"
   },
   {
@@ -3479,6 +3588,9 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_142-2x.jpg",
     "ename": "Honey",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_192-2x.jpg"
+    ],
     "series": "SS6"
   },
   {
@@ -3499,6 +3611,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_144-2x.jpg",
     "ename": "Karen's Conviction",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_193-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_216_R_EN.png"
+    ],
     "series": "SS6"
   },
   {
@@ -3519,6 +3635,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_145-2x.jpg",
     "ename": "Klara",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_194-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_217_R_EN.png"
+    ],
     "series": "SS6"
   },
   {
@@ -3541,7 +3661,9 @@
     "ename": "Melony",
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_64-2x.jpg",
-      "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_TG_26-2x.jpg"
+      "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_TG_26-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_195-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_218_R_EN.png"
     ],
     "series": "SS6"
   },
@@ -3563,6 +3685,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_149-2x.jpg",
     "ename": "Peonia",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_196-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_219_R_EN.png"
+    ],
     "series": "SS6"
   },
   {
@@ -3583,6 +3709,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_150-2x.jpg",
     "ename": "Peony",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_197-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_220_R_EN.png"
+    ],
     "series": "SS6"
   },
   {
@@ -3603,6 +3733,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_153-2x.jpg",
     "ename": "Siebold",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_198-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_221_R_EN.png"
+    ],
     "series": "SS6"
   },
   {
@@ -3751,6 +3885,9 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_152-2x.jpg",
     "ename": "Rugged Helmet",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_228_R_EN.png"
+    ],
     "series": "SS6"
   },
   {
@@ -3823,6 +3960,9 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_136-2x.jpg",
     "ename": "Echoing Horn",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_225_R_EN.png"
+    ],
     "series": "SS6"
   },
   {
@@ -3863,6 +4003,9 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_140-2x.jpg",
     "ename": "Fog Crystal",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_227_R_EN.png"
+    ],
     "series": "SS6"
   },
   {
@@ -3883,6 +4026,9 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_156-2x.jpg",
     "ename": "Welcoming Lantern",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_230_R_EN.png"
+    ],
     "series": "SS6"
   },
   {

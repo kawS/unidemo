@@ -983,7 +983,7 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_37-2x.jpg",
-    "ename": "EmpoleonH",
+    "ename": "Empoleon",
     "series": "SS9"
   },
   {
@@ -1170,6 +1170,32 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_44-2x.jpg",
     "ename": "Eiscue",
+    "series": "SS9"
+  },
+  {
+    "id": "7164",
+    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7164/",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007164.png",
+    "extraInformation": [
+      "No.25",
+      "",
+      ""
+    ],
+    "typeEnergy": "Lightning",
+    "type": "Pokemon",
+    "cardName": "V",
+    "skillList": [
+      {
+        "name": "雷电炸弹",
+        "effect": "若希望，将这只宝可梦身上附加的【雷】能量全部丢弃。这个情况下，增加120点伤害。"
+      },
+      {
+        "name": "[V规则]",
+        "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_157-2x.jpg",
+    "ename": "Pikachu V",
     "series": "SS9"
   },
   {
@@ -1815,7 +1841,8 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_68-2x.jpg",
     "ename": "Mimikyu V",
     "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_TG16_R_EN.png"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_TG16_R_EN.png",
+      "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_148-2x.jpg"
     ],
     "series": "SS9"
   },

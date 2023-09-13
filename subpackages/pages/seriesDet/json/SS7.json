@@ -204,6 +204,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_8-2x.jpg",
     "ename": "Leafeon VMAX",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_205_R_EN.png",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_204_R_EN.png"
+    ],
     "series": "SS7"
   },
   {
@@ -355,6 +359,9 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_14-2x.jpg",
     "ename": "Trevenant VMAX",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_206_R_EN.png"
+    ],
     "series": "SS7"
   },
   {
@@ -428,6 +435,36 @@
     "series": "SS7"
   },
   {
+    "id": "5680",
+    "url": "https://asia.pokemon-card.com/tw/card-search/detail/5680/",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00005680.png",
+    "extraInformation": [
+      "No.136",
+      "",
+      ""
+    ],
+    "typeEnergy": "Fire",
+    "type": "Pokemon",
+    "cardName": "火伊布V",
+    "skillList": [
+      {
+        "name": "燃烧气息",
+        "effect": "从自己的牌库选择1张【火】能量卡，附于这只宝可梦身上。并且重洗牌库。"
+      },
+      {
+        "name": "灼热之柱",
+        "effect": "将对手的战斗宝可梦【灼伤】。"
+      },
+      {
+        "name": "[V规则]",
+        "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_169-2x.jpg",
+    "ename": "Flareon V",
+    "series": "SS7"
+  },
+  {
     "id": "1700",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/1700/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00001700.png",
@@ -451,9 +488,6 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_18-2x.jpg",
     "ename": "Flareon VMAX",
-    "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_169-2x.jpg"
-    ],
     "series": "SS7"
   },
   {
@@ -479,7 +513,7 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_19-2x.jpg",
-    "ename": "EnteiH",
+    "ename": "Entei",
     "series": "SS7"
   },
   {
@@ -501,7 +535,7 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_20-2x.jpg",
-    "ename": "VictiniH",
+    "ename": "Victini",
     "series": "SS7"
   },
   {
@@ -730,6 +764,39 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_29-2x.jpg",
     "ename": "Gyarados VMAX",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_207_R_EN.png"
+    ],
+    "series": "SS7"
+  },
+  {
+    "id": "5716",
+    "url": "https://asia.pokemon-card.com/tw/card-search/detail/5716/",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00005716.png",
+    "extraInformation": [
+      "No.134",
+      "",
+      ""
+    ],
+    "typeEnergy": "Water",
+    "type": "Pokemon",
+    "cardName": "水伊布V",
+    "skillList": [
+      {
+        "name": "三重抽出",
+        "effect": "从自己的牌库抽出3张卡。"
+      },
+      {
+        "name": "飞溅之跳",
+        "effect": "将这只宝可梦与备战宝可梦互换。"
+      },
+      {
+        "name": "[V规则]",
+        "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_172-2x.jpg",
+    "ename": "Vaporeon V",
     "series": "SS7"
   },
   {
@@ -1058,6 +1125,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_41-2x.jpg",
     "ename": "Glaceon VMAX",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_209_R_EN.png",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_208_R_EN.png"
+    ],
     "series": "SS7"
   },
   {
@@ -1295,6 +1366,36 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_50-2x.jpg",
     "ename": "Raichu",
+    "series": "SS7"
+  },
+  {
+    "id": "5759",
+    "url": "https://asia.pokemon-card.com/tw/card-search/detail/5759/",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00005759.png",
+    "extraInformation": [
+      "No.135",
+      "",
+      ""
+    ],
+    "typeEnergy": "Lightning",
+    "type": "Pokemon",
+    "cardName": "雷伊布V",
+    "skillList": [
+      {
+        "name": " 雷电箭",
+        "effect": "对手的1只宝可梦受到20点伤害。[在备战区不计算弱点・抵抗力。]"
+      },
+      {
+        "name": "导弹针",
+        "effect": "掷4次硬币，造成正面出现的次数×60点伤害。"
+      },
+      {
+        "name": "[V规则]",
+        "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_177-2x.jpg",
+    "ename": "Jolteon V",
     "series": "SS7"
   },
   {
@@ -1539,6 +1640,9 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_59-2x.jpg",
     "ename": "Dracozolt VMAX",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_210_R_EN.png"
+    ],
     "series": "SS7"
   },
   {
@@ -1703,9 +1807,6 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_65-2x.jpg",
     "ename": "Espeon VMAX",
-    "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/FST/FST_270_R_EN.png"
-    ],
     "series": "SS7"
   },
   {
@@ -1980,7 +2081,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_75-2x.jpg",
     "ename": "Sylveon VMAX",
     "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_TG15_R_EN.png"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_TG15_R_EN.png",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_212_R_EN.png",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_211_R_EN.png"
     ],
     "series": "SS7"
   },
@@ -2427,6 +2530,9 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_92-2x.jpg",
     "ename": "Lycanroc VMAX",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_213_R_EN.png"
+    ],
     "series": "SS7"
   },
   {
@@ -2519,7 +2625,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_95-2x.jpg",
     "ename": "Umbreon VMAX",
     "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_TG23_R_EN.png"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_TG23_R_EN.png",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_215_R_EN.png",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_214_R_EN.png"
     ],
     "series": "SS7"
   },
@@ -2680,6 +2788,9 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_101-2x.jpg",
     "ename": "Garbodor VMAX",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_216_R_EN.png"
+    ],
     "series": "SS7"
   },
   {
@@ -2941,6 +3052,8 @@
     "ename": "Rayquaza VMAX",
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_20-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_218_R_EN.png",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_217_R_EN.png",
       "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_29-2x.jpg"
     ],
     "series": "SS7"
@@ -3273,6 +3386,8 @@
     "ename": "Duraludon VMAX",
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_21-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_220_R_EN.png",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_219_R_EN.png",
       "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_30-2x.jpg"
     ],
     "series": "SS7"
@@ -3719,6 +3834,9 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_144-2x.jpg",
     "ename": "Crystal Cave",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_230_R_EN.png"
+    ],
     "series": "SS7"
   },
   {
@@ -3759,6 +3877,9 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_161-2x.jpg",
     "ename": "Stormy Mountains",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_232_R_EN.png"
+    ],
     "series": "SS7"
   },
   {
@@ -3780,7 +3901,8 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_141-2x.jpg",
     "ename": "Aroma Lady",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_199-2x.jpg"
+      "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_199-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_221_R_EN.png"
     ],
     "series": "SS7"
   },
@@ -3803,7 +3925,8 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_143-2x.jpg",
     "ename": "Copycat",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_200-2x.jpg"
+      "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_200-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_222_R_EN.png"
     ],
     "series": "SS7"
   },
@@ -3827,7 +3950,8 @@
     "ename": "Gordie",
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_24-2x.jpg",
-      "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_201-2x.jpg"
+      "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_201-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_223_R_EN.png"
     ],
     "series": "SS7"
   },
@@ -3852,7 +3976,8 @@
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_65-2x.jpg",
       "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_27-2x.jpg",
-      "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_202-2x.jpg"
+      "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_202-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_224_R_EN.png"
     ],
     "series": "SS7"
   },
@@ -3875,7 +4000,8 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_164-2x.jpg",
     "ename": "Zinnia's Resolve",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_203-2x.jpg"
+      "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_203-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_225_R_EN.png"
     ],
     "series": "SS7"
   },
@@ -3949,6 +4075,9 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_148-2x.jpg",
     "ename": "Full Face Guard",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_231_R_EN.png"
+    ],
     "series": "SS7"
   },
   {
@@ -4145,6 +4274,9 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_142-2x.jpg",
     "ename": "Boost Shake",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_229_R_EN.png"
+    ],
     "series": "SS7"
   },
   {
@@ -4245,6 +4377,9 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_163-2x.jpg",
     "ename": "Toy Catcher",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_233_R_EN.png"
+    ],
     "series": "SS7"
   },
   {

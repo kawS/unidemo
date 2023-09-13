@@ -1517,6 +1517,28 @@
     "series": "SS12.5"
   },
   {
+    "id": "7483",
+    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7483/",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007483.png",
+    "extraInformation": [
+      "No.25鼠宝可梦",
+      "身高0.4/体重6",
+      "皮卡丘们把尾巴贴在一起交换电流，其实是在互相打招呼。"
+    ],
+    "typeEnergy": "Lightning",
+    "type": "Pokemon",
+    "cardName": "皮卡丘",
+    "skillList": [
+      {
+        "name": "疯狂伏特",
+        "effect": "这只宝可梦也受到30点伤害。"
+      }
+    ],
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_160_R_EN.png",
+    "ename": "Pikachu",
+    "series": "SS12.5"
+  },
+  {
     "id": "6972",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/6972/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006972.png",
@@ -2712,6 +2734,8 @@
     "ename": "Rayquaza VMAX",
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_20-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_218_R_EN.png",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_217_R_EN.png",
       "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_29-2x.jpg"
     ],
     "series": "SS12.5"
@@ -2746,6 +2770,8 @@
     "ename": "Rayquaza VMAX",
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_20-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_218_R_EN.png",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_217_R_EN.png",
       "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_29-2x.jpg"
     ],
     "series": "SS12.5"
@@ -2815,6 +2841,8 @@
     "ename": "Duraludon VMAX",
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_21-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_220_R_EN.png",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_219_R_EN.png",
       "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_30-2x.jpg"
     ],
     "series": "SS12.5"
@@ -3146,6 +3174,9 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_116-2x.jpg",
     "ename": "Stoutland V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_157-2x.jpg"
+    ],
     "series": "SS12.5"
   },
   {
@@ -3391,7 +3422,8 @@
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_65-2x.jpg",
       "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_27-2x.jpg",
-      "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_202-2x.jpg"
+      "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_202-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_224_R_EN.png"
     ],
     "series": "SS12.5"
   },

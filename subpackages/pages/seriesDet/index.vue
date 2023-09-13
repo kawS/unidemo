@@ -19,6 +19,7 @@
 				<image src="../img/tcg-card-back.jpg" mode="widthFix" class="cback"></image>
 				<image :src="item.imgUrl" lazy-load mode="heightFix" class="img" v-if="showImgType == null"></image>
 				<image :src="item.enImgUrl" lazy-load mode="heightFix" class="img" v-else></image>
+				<div class="series">{{ item.series }}{{ item?.artList?.length > 0 ? `|${item.artList.length}` : '' }}</div>
 			</div>
 			<div>{{ item.cardName }}</div>
 			<div>{{ item.ename }}</div>
@@ -315,6 +316,15 @@
 				position: relative;
 				margin: 0 0 10rpx 0;
 				overflow: hidden;
+				.series{
+					position: absolute;
+					bottom: 0;
+					right: 0;
+					background: #f9f9f9;
+					border-radius: 2px;
+					font-size: 12px;
+					color: #333;
+				}
 				.cback{
 					width: 100%;
 					border-radius: 20rpx;

@@ -154,7 +154,8 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_6-2x.jpg",
     "ename": "Kricketune V",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_12-2x.jpg"
+      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_12-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_142-2x.jpg"
     ],
     "series": "SS5"
   },
@@ -456,6 +457,9 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_18-2x.jpg",
     "ename": "Flapple V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_143-2x.jpg"
+    ],
     "series": "SS5"
   },
   {
@@ -482,6 +486,9 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_19-2x.jpg",
     "ename": "Flapple VMAX",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BST/BST_164_R_EN.png"
+    ],
     "series": "SS5"
   },
   {
@@ -538,6 +545,9 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_21-2x.jpg",
     "ename": "Victini V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_144-2x.jpg"
+    ],
     "series": "SS5"
   },
   {
@@ -568,6 +578,9 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_22-2x.jpg",
     "ename": "Victini VMAX",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BST/BST_165_R_EN.png"
+    ],
     "series": "SS5"
   },
   {
@@ -946,7 +959,8 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_37-2x.jpg",
     "ename": "Octillery",
     "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_TG3_R_EN.png"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_TG3_R_EN.png",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BST/BST_178_R_EN.png"
     ],
     "series": "SS5"
   },
@@ -1026,6 +1040,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_40-2x.jpg",
     "ename": "Empoleon V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_145-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_146-2x.jpg"
+    ],
     "series": "SS5"
   },
   {
@@ -1278,6 +1296,9 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_50-2x.jpg",
     "ename": "Tapu Koko V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_147-2x.jpg"
+    ],
     "series": "SS5"
   },
   {
@@ -1304,6 +1325,9 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_51-2x.jpg",
     "ename": "Tapu Koko VMAX",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BST/BST_166_R_EN.png"
+    ],
     "series": "SS5"
   },
   {
@@ -1583,7 +1607,8 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_62-2x.jpg",
     "ename": "Mimikyu V",
     "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_TG16_R_EN.png"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_TG16_R_EN.png",
+      "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_148-2x.jpg"
     ],
     "series": "SS5"
   },
@@ -1615,6 +1640,9 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_63-2x.jpg",
     "ename": "Necrozma V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_149-2x.jpg"
+    ],
     "series": "SS5"
   },
   {
@@ -2171,7 +2199,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_85-2x.jpg",
     "ename": "Single Strike Urshifu V",
     "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_TG18_R_EN.png"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_TG18_R_EN.png",
+      "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_150-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_151-2x.jpg"
     ],
     "series": "SS5"
   },
@@ -2205,6 +2235,8 @@
     "ename": "Single Strike Urshifu VMAX",
     "artList": [
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_TG19_R_EN.png",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BST/BST_168_R_EN.png",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BST/BST_167_R_EN.png",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_TG29_R_EN.png"
     ],
     "series": "SS5"
@@ -2238,7 +2270,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_87-2x.jpg",
     "ename": "Rapid Strike Urshifu V",
     "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_TG20_R_EN.png"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_TG20_R_EN.png",
+      "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_152-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_153-2x.jpg"
     ],
     "series": "SS5"
   },
@@ -2272,6 +2306,8 @@
     "ename": "Rapid Strike Urshifu VMAX",
     "artList": [
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_TG21_R_EN.png",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BST/BST_170_R_EN.png",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BST/BST_169_R_EN.png",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_TG30_R_EN.png"
     ],
     "series": "SS5"
@@ -2479,7 +2515,8 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_96-2x.jpg",
     "ename": "Houndoom",
     "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_TG10_R_EN.png"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_TG10_R_EN.png",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BST/BST_179_R_EN.png"
     ],
     "series": "SS5"
   },
@@ -2511,6 +2548,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_97-2x.jpg",
     "ename": "Tyranitar V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_154-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_155-2x.jpg"
+    ],
     "series": "SS5"
   },
   {
@@ -2638,7 +2679,8 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_102-2x.jpg",
     "ename": "Bronzong",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_TG_11-2x.jpg"
+      "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_TG_11-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_223_R_EN.png"
     ],
     "series": "SS5"
   },
@@ -2819,7 +2861,8 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_109-2x.jpg",
     "ename": "Corviknight V",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_18-2x.jpg"
+      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_18-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_156-2x.jpg"
     ],
     "series": "SS5"
   },
@@ -2852,7 +2895,8 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_110-2x.jpg",
     "ename": "Corviknight VMAX",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_19-2x.jpg"
+      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_19-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BST/BST_171_R_EN.png"
     ],
     "series": "SS5"
   },
@@ -3032,6 +3076,9 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_117-2x.jpg",
     "ename": "Stoutland V",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_157-2x.jpg"
+    ],
     "series": "SS5"
   },
   {
@@ -3170,6 +3217,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_121-2x.jpg",
     "ename": "Bruno",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_158-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BST/BST_172_R_EN.png"
+    ],
     "series": "SS5"
   },
   {
@@ -3190,6 +3241,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_123-2x.jpg",
     "ename": "Cheryl",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_159-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BST/BST_173_R_EN.png"
+    ],
     "series": "SS5"
   },
   {
@@ -3210,6 +3265,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_128-2x.jpg",
     "ename": "Korrina's Focus",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_160-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BST/BST_174_R_EN.png"
+    ],
     "series": "SS5"
   },
   {
@@ -3230,6 +3289,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_130-2x.jpg",
     "ename": "Phoebe",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_161-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BST/BST_175_R_EN.png"
+    ],
     "series": "SS5"
   },
   {
@@ -3251,7 +3314,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_132-2x.jpg",
     "ename": "Rapid Strike Style Mustard",
     "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_TG27_R_EN.png"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_TG27_R_EN.png",
+      "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_162-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BST/BST_176_R_EN.png"
     ],
     "series": "SS5"
   },
@@ -3274,7 +3339,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_134-2x.jpg",
     "ename": "Single Strike Style Mustard",
     "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_TG28_R_EN.png"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_TG28_R_EN.png",
+      "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_163-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BST/BST_177_R_EN.png"
     ],
     "series": "SS5"
   },
@@ -3300,6 +3367,9 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_126-2x.jpg",
     "ename": "Exp. Share",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BST/BST_180_R_EN.png"
+    ],
     "series": "SS5"
   },
   {
@@ -3460,6 +3530,9 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_127-2x.jpg",
     "ename": "Fan of Waves",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_226_R_EN.png"
+    ],
     "series": "SS5"
   },
   {
@@ -3480,6 +3553,9 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_129-2x.jpg",
     "ename": "Level Ball",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BST/BST_181_R_EN.png"
+    ],
     "series": "SS5"
   },
   {
@@ -3500,6 +3576,9 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_139-2x.jpg",
     "ename": "Urn of Vitality",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_229_R_EN.png"
+    ],
     "series": "SS5"
   },
   {
@@ -3515,7 +3594,10 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_140-2x.jpg",
-    "ename": "Urn of Vitality",
+    "ename": "Rapid Strike Energy",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BST/BST_182_R_EN.png"
+    ],
     "series": "SS5"
   },
   {
@@ -3531,7 +3613,10 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_141-2x.jpg",
-    "ename": "Rapid Strike Energy",
+    "ename": "Single Strike Energy",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BST/BST_183_R_EN.png"
+    ],
     "series": "SS5"
   }
 ]
