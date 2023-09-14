@@ -2373,7 +2373,7 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_91-2x.jpg",
-    "ename": "Flab茅b茅",
+    "ename": "Flabébé",
     "series": "SV1"
   },
   {
@@ -2483,7 +2483,7 @@
     "skillList": [
       {
         "name": "[特性]恶作剧之锁",
-        "effect": "只要这只宝可梦在战斗场上，双方场上的【基础】宝可梦的特性（「●●●」除外）全部消除。"
+        "effect": "只要这只宝可梦在战斗场上，双方场上的【基础】宝可梦的特性（「恶作剧之锁」除外）全部消除。"
       },
       {
         "name": "狙落",
@@ -4603,9 +4603,6 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_174-2x.jpg",
     "ename": "Exp. Share",
-    "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BST/BST_180_R_EN.png"
-    ],
     "series": "SV1"
   },
   {
@@ -4963,7 +4960,11 @@
     "skillList": [
       {
         "name": "",
-        "effect": "这张卡必须将自己的2张手牌丢弃才可使用。从自己的牌库选择1张宝可梦卡，在给对手看过后加入手牌。并且重洗牌库。"
+        "effect": "这张卡必须将自己的2张手牌丢弃才可使用。"
+      },
+      {
+        "name": "",
+        "effect": "从自己的牌库选择1张宝可梦卡，在给对手看过后加入手牌。并且重洗牌库。"
       },
       {
         "name": "[物品规则]",

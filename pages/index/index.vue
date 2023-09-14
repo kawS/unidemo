@@ -5,11 +5,6 @@
       卡组推荐网站 - Limitless
     </div>
   </div>
-  <div class="showCardImgType">
-    <div class="tlt">显示卡图版本</div>
-    <div class="bns" :class="{on: showImgType == 'en'}" @click="setLag('en')">美版</div>
-    <div class="bns" :class="{on: showImgType == null}" @click="setLag('cn')">繁中</div>
-  </div>
   <div class="useNo">标准环境<span class="em">{{ tipNowNo }}</span>标</div>
   <div class="search">
     <input type="text" v-model="searchInp" placeholder="请输入卡名(支持简中、英文)" />
@@ -46,23 +41,12 @@
   import { onLoad } from '@dcloudio/uni-app'
 
   const tipNowNo = ref('E/F/G');
-  let showImgType = ref(null);
   let searchInp = ref('');
 
   onLoad(options => {
-    let t = uni.getStorageSync('imgType');
-		if(t == 'en'){
-			showImgType.value = t
-		}else{
-			showImgType.value = null
-		}
+    
   })
-
-  const setLag = (type) => {
-    uni.setStorageSync('imgType', type)
-    showImgType.value = (type == 'en' ? 'en' : null)
-  }
-  
+    
   const goSeries = (item) => {
     if(item.no == ''){
       uni.showToast({
@@ -121,22 +105,6 @@
       display: block
     }
     text-align: center;
-  }
-  .showCardImgType{
-    padding: 0 30rpx;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    .bns{
-      margin: 0 10rpx;
-      padding: 0 20rpx;
-      background: #eee;
-      border-radius: 5px;
-    }
-    .on{
-      background: #16baaa;
-      color: #fff;
-    }
   }
   .useNo{
     padding: 10rpx 30rpx;

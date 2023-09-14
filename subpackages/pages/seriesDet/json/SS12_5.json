@@ -331,7 +331,7 @@
         "effect": "在下个对手的回合，这只宝可梦受到招式的伤害「-30」点。"
       },
       {
-        "name": "[VSTAR力量][特性] 常春藤星星",
+        "name": "[VSTAR力量][特性]常春藤星星",
         "effect": "在自己的回合时可使用。选择对手的1只备战宝可梦，与战斗宝可梦互换。[对战中，己方只可使用1次【VSTAR】力量。]"
       },
       {
@@ -2110,14 +2110,6 @@
       {
         "name": "放逐爪",
         "effect": "在不看正面的情况下，选择1张对手的手牌，放置于放逐区。"
-      },
-      {
-        "name": "劈开",
-        "effect": ""
-      },
-      {
-        "name": "放逐爪",
-        "effect": "在不看正面的情况下，选择1张对手的手牌，放置于放逐区。"
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_76-2x.jpg",
@@ -3174,9 +3166,6 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_116-2x.jpg",
     "ename": "Stoutland V",
-    "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_157-2x.jpg"
-    ],
     "series": "SS12.5"
   },
   {
@@ -3410,7 +3399,11 @@
     "skillList": [
       {
         "name": "",
-        "effect": "这张卡必须在上个对手的回合自己的宝可梦【气绝】了才可使用。 从自己的弃牌区选择1张基本能量卡，附于自己的宝可梦身上。然后，从自己的牌库任意选择1张卡加入手牌。并且重洗牌库。"
+        "effect": "这张卡必须在上个对手的回合自己的宝可梦【气绝】了才可使用。 "
+      },
+      {
+        "name": "",
+        "effect": "从自己的弃牌区选择1张基本能量卡，附于自己的宝可梦身上。然后，从自己的牌库任意选择1张卡加入手牌。并且重洗牌库。"
       },
       {
         "name": "[支援者规则]",
@@ -3567,7 +3560,11 @@
     "skillList": [
       {
         "name": "",
-        "effect": "这张卡必须将自己的1张手牌放置于放逐区才可使用。从双方的场上宝可梦身上附加的「宝可梦道具」卡与场上的「竞技场」卡中选择1张，放置于放逐区。"
+        "effect": "这张卡必须将自己的1张手牌放置于放逐区才可使用。"
+      },
+      {
+        "name": "",
+        "effect": "从双方的场上宝可梦身上附加的「宝可梦道具」卡与场上的「竞技场」卡中选择1张，放置于放逐区。"
       },
       {
         "name": "[物品规则]",
@@ -3659,6 +3656,9 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_141-2x.jpg",
     "ename": "Rare Candy",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_256_R_EN.png"
+    ],
     "series": "SS12.5"
   },
   {
@@ -3733,7 +3733,11 @@
     "skillList": [
       {
         "name": "",
-        "effect": "这张卡必须将自己的2张手牌丢弃才可使用。 从自己的牌库选择1张宝可梦卡，在给对手看过后加入手牌。并且重洗牌库。"
+        "effect": "这张卡必须将自己的2张手牌丢弃才可使用。"
+      },
+      {
+        "name": "",
+        "effect": "从自己的牌库选择1张宝可梦卡，在给对手看过后加入手牌。并且重洗牌库。"
       },
       {
         "name": "[物品规则]",

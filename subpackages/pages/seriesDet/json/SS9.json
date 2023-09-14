@@ -983,7 +983,7 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_37-2x.jpg",
-    "ename": "Empoleon",
+    "ename": "EmpoleonH",
     "series": "SS9"
   },
   {
@@ -1841,8 +1841,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_68-2x.jpg",
     "ename": "Mimikyu V",
     "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_TG16_R_EN.png",
-      "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_148-2x.jpg"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_TG16_R_EN.png"
     ],
     "series": "SS9"
   },
@@ -3926,7 +3925,11 @@
     "skillList": [
       {
         "name": "",
-        "effect": "这张卡必须将自己的2张手牌丢弃才可使用。 从自己的牌库选择1张宝可梦卡，在给对手看过后加入手牌。并且重洗牌库。"
+        "effect": "这张卡必须将自己的2张手牌丢弃才可使用。"
+      },
+      {
+        "name": "",
+        "effect": "从自己的牌库选择1张宝可梦卡，在给对手看过后加入手牌。并且重洗牌库。"
       },
       {
         "name": "[物品规则]",

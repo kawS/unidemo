@@ -1861,6 +1861,9 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_69-2x.jpg",
     "ename": "Rare Candy",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_256_R_EN.png"
+    ],
     "series": "SS10.5"
   }
 ]

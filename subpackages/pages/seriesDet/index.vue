@@ -17,8 +17,7 @@
 		<div class="item" v-for="item in detList" :key="item.id" @click="showDet(item)">
 			<div class="picwp">
 				<image src="../img/tcg-card-back.jpg" mode="widthFix" class="cback"></image>
-				<image :src="item.imgUrl" lazy-load mode="heightFix" class="img" v-if="showImgType == null"></image>
-				<image :src="item.enImgUrl" lazy-load mode="heightFix" class="img" v-else></image>
+				<image :src="item.imgUrl" lazy-load mode="heightFix" class="img"></image>
 				<div class="series">{{ item.series }}{{ item?.artList?.length > 0 ? `|${item.artList.length}` : '' }}</div>
 			</div>
 			<div>{{ item.cardName }}</div>
@@ -58,11 +57,10 @@
 	<div class="popups" v-if="isShowCard">
 		<div class="p-showcard" :class="{'animate__zoomIn': isShowCard}">
 			<div class="cardShow" :class="{tc: !showCardDet.artList}">
-				<image :src="showCardDet.showImg" mode="widthFix" class="img"></image>
-				<div class="artList" v-if="showCardDet.artList?.length > 0">
-					<image :src="showCardDet.imgUrl" lazy-load mode="widthFix" class="img" @click="changeArt(showCardDet.imgUrl)" v-if="showImgType == null"></image>
-					<image :src="showCardDet.imgUrl" mode="widthFix" class="img" @click="changeArt(showCardDet.imgUrl)" v-else-if="!showCardDet.enImgUrl"></image>
-					<image :src="showCardDet.enImgUrl" lazy-load mode="widthFix" @click="changeArt(showCardDet.enImgUrl)" class="img" v-else></image>
+				<image :src="showCardDet.showImg" mode="scaleToFill" class="img"></image>
+				<div class="artList" v-if="showCardDet.enImgUrl">
+					<image :src="showCardDet.imgUrl" lazy-load mode="widthFix" class="img" @click="changeArt(showCardDet.imgUrl)"></image>
+					<image :src="showCardDet.enImgUrl" lazy-load mode="widthFix" class="img" @click="changeArt(showCardDet.enImgUrl)"></image>
 					<template v-for="(img, index) in showCardDet.artList" :key="index">
 						<image :src="img" mode="widthFix" class="img" @click="changeArt(img)"></image>
 					</template>
@@ -70,6 +68,7 @@
 			</div>
 			<div class="detInfo">
 				<div class="name">{{ showCardDet.cardName }}</div>
+				<div class="name">{{ showCardDet.ename }}</div>
 				<div class="skill" v-if="!/^(基本).*?(能量)$/.test(showCardDet.cardName)">
 					<div class="item" v-for="skill in showCardDet.skillList" :key="skill.name">
 						<div class="sname" :class="{
@@ -106,8 +105,6 @@
 	let filterStr = ref(null);
 	let isShowCard = ref(false);
 	let showCardDet = ref(null);
-	let showImgType = ref(null);
-
 	
 	onLoad(options => {
 		sno = options.no;
@@ -129,12 +126,6 @@
 			case 'SS6': import('./json/SS6.json').then((res) => {getData(res)}); break;
 			case 'SS5': import('./json/SS5.json').then((res) => {getData(res)}); break;
 			default: isLoading.value = false; break
-		}
-		let t = uni.getStorageSync('imgType');
-		if(t == 'en'){
-			showImgType.value = t
-		}else{
-			showImgType.value = null
 		}
 	})
 
@@ -224,7 +215,7 @@
 		filterStr.value = type;
 		detList.value = aList.value.filter(item => {
 			const reg = new RegExp(`[${type}]`, 'g');
-			return item.type == 'Trainers' && (reg.test(item.skillList[1].name) || reg.test(item.skillList[0]?.name))
+			return item.type == 'Trainers' && (reg.test(item.skillList[2]?.name) || reg.test(item.skillList[1]?.name) || reg.test(item.skillList[0]?.name))
 		})
 		classType.value = 'Trainers';
 		isShowFilter.value = false
@@ -240,11 +231,7 @@
 
   const showDet = (item) => {
 		showCardDet.value = item;
-		if(showImgType.value == null){
-			showCardDet.value.showImg = showCardDet.value.imgUrl
-		}else{
-			showCardDet.value.showImg = showCardDet.value.enImgUrl
-		}
+		showCardDet.value.showImg = showCardDet.value.imgUrl;
 		isShowCard.value = true
   }
 
@@ -426,6 +413,7 @@
 			.img{
 				margin: 0;
 				width: 70%;
+				height: 650rpx;
 				border-radius: 25rpx;
 				display: block;
 			}
@@ -437,6 +425,7 @@
 				.img{
 					margin: 0 0 10rpx;
 					width: 100%;
+					height: auto;
 					border-radius: 8rpx;
 					display: block;
 				}

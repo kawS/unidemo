@@ -1962,7 +1962,7 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_71-2x.jpg",
-    "ename": "Flab茅b茅",
+    "ename": "Flabébé",
     "series": "SS7"
   },
   {
@@ -2083,7 +2083,7 @@
     "artList": [
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_TG15_R_EN.png",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_212_R_EN.png",
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_211_R_EN.png"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_211_R_EN_XS.png"
     ],
     "series": "SS7"
   },
@@ -3964,7 +3964,11 @@
     "skillList": [
       {
         "name": "",
-        "effect": "这张卡必须在上个对手的回合自己的宝可梦【气绝】了才可使用。 从自己的弃牌区选择1张基本能量卡，附于自己的宝可梦身上。然后，从自己的牌库任意选择1张卡加入手牌。并且重洗牌库。"
+        "effect": "这张卡必须在上个对手的回合自己的宝可梦【气绝】了才可使用。 "
+      },
+      {
+        "name": "",
+        "effect": "从自己的弃牌区选择1张基本能量卡，附于自己的宝可梦身上。然后，从自己的牌库任意选择1张卡加入手牌。并且重洗牌库。"
       },
       {
         "name": "[支援者规则]",

@@ -3036,7 +3036,7 @@
       },
       {
         "name": "[ex规则]",
-        "effect": ""
+        "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_120-2x.jpg",
@@ -4808,6 +4808,10 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_186-2x.jpg",
     "ename": "Arven",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_235-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_249-2x.jpg"
+    ],
     "series": "SV3"
   },
   {
@@ -4839,7 +4843,11 @@
     "skillList": [
       {
         "name": "",
-        "effect": "在使用了这张卡的回合结束前，自己的所有宝可梦无法使用招式。（包含新上场的宝可梦。）从自己的牌库选择最多2张基本能量卡，附于自己的1只宝可梦身上。并且重洗牌库。"
+        "effect": "在使用了这张卡的回合结束前，自己的所有宝可梦无法使用招式。（包含新上场的宝可梦。）"
+      },
+      {
+        "name": "",
+        "effect": "从自己的牌库选择最多2张基本能量卡，附于自己的1只宝可梦身上。并且重洗牌库。"
       },
       {
         "name": "[支援者规则]",
@@ -4942,6 +4950,9 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_195-2x.jpg",
     "ename": "Team Star Grunt",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_242-2x.jpg"
+    ],
     "series": "SV3"
   },
   {
@@ -4993,7 +5004,11 @@
     "skillList": [
       {
         "name": "",
-        "effect": "这张卡必须在上个对手的回合自己的宝可梦【昏厥】了才可使用。\r\r从自己的牌库选择最多3张基本能量卡，在给对手看过后加入手牌。并且重洗牌库。"
+        "effect": "这张卡必须在上个对手的回合自己的宝可梦【昏厥】了才可使用。"
+      },
+      {
+        "name": "",
+        "effect": "从自己的牌库选择最多3张基本能量卡，在给对手看过后加入手牌。并且重洗牌库。"
       },
       {
         "name": "[物品规则]",

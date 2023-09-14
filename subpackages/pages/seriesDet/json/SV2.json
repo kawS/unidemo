@@ -2800,27 +2800,26 @@
     "extraInformation": [
       "No.959"
     ],
-    "cardName": "巨鍛匠ex",
+    "cardName": "巨锻匠ex",
     "skillList": [
       {
-        "name": "大錘",
-        "effect": "造成自己的手牌的張數×30點傷害。"
+        "name": "大锤",
+        "effect": "造成自己的手牌的张数×30点伤害。"
       },
       {
-        "name": "粉碎壓制",
-        "effect": "這個招式的傷害不計算對手的戰鬥寶可夢身上的附加效果。"
+        "name": "粉碎压制",
+        "effect": "这个招式的伤害不计算对手的战斗宝可梦身上的附加效果。"
       },
       {
-        "name": "[ex規則]",
-        "effect": "寶可夢【ex】【昏厥】時，對手獲得2張獎賞卡。"
+        "name": "[ex规则]",
+        "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
     ],
     "type": "Pokemon",
     "typeEnergy": "Psychic",
-    "enImgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008046.png",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_240-2x.jpg",
     "ename": "Tinkaton ex",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_240-2x.jpg",
       "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_262-2x.jpg"
     ],
     "series": "SV2"
@@ -2875,6 +2874,36 @@
     "typeEnergy": "Fighting",
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_107-2x.jpg",
     "ename": "Primeape",
+    "series": "SV2"
+  },
+  {
+    "id": "7980",
+    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7980/",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007980.png",
+    "cardName": "弃世猴ex",
+    "skillList": [
+      {
+        "name": "愤懑恨怨",
+        "effect": "在这只宝可梦身上放置最多12个伤害指示物，造成放置的数量×20点伤害。"
+      },
+      {
+        "name": "地球上投",
+        "effect": ""
+      },
+      {
+        "name": "[ex规则]",
+        "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "extraInformation": [
+      "No.979",
+      "",
+      ""
+    ],
+    "type": "Pokemon",
+    "typeEnergy": "Fighting",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_242-2x.jpg",
+    "ename": "Annihilape ex",
     "series": "SV2"
   },
   {
@@ -3383,39 +3412,6 @@
       "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_243-2x.jpg",
       "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_263-2x.jpg",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAL/PAL_275_R_EN.png"
-    ],
-    "series": "SV2"
-  },
-  {
-    "id": "7980",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7980/",
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007980.png",
-    "cardName": "弃世猴ex",
-    "skillList": [
-      {
-        "name": "憤懣恨怨",
-        "effect": "在這隻寶可夢身上放置最多12個傷害指示物，造成放置的數量×20點傷害。"
-      },
-      {
-        "name": "地球上投",
-        "effect": ""
-      },
-      {
-        "name": "[ex规则]",
-        "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
-      }
-    ],
-    "extraInformation": [
-      "No.979",
-      "",
-      ""
-    ],
-    "type": "Pokemon",
-    "typeEnergy": "Fighting",
-    "enImgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007980.png",
-    "ename": "Annihilape ex",
-    "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/paldea-evolved/cards/en-us/SV02_EN_242-2x.jpg"
     ],
     "series": "SV2"
   },
@@ -4897,7 +4893,11 @@
     "skillList": [
       {
         "name": "",
-        "effect": "这张卡只有在自己剩余奖赏卡的张数比对手剩余奖赏卡的张数多时才可使用。将自己的1只宝可梦恢复「60」HP。"
+        "effect": "这张卡只有在自己剩余奖赏卡的张数比对手剩余奖赏卡的张数多时才可使用。"
+      },
+      {
+        "name": "",
+        "effect": "将自己的1只宝可梦恢复「60」HP。"
       },
       {
         "name": "[物品规则]",
@@ -4960,7 +4960,11 @@
     "skillList": [
       {
         "name": "",
-        "effect": "这张卡必须将自己的2张手牌丢弃才可使用。从自己的弃牌区选择最多4张基本能量卡，在给对手看过后加入手牌。（不可选择因这张卡的效果而丢弃的能量卡。）"
+        "effect": "这张卡必须将自己的2张手牌丢弃才可使用。"
+      },
+      {
+        "name": "",
+        "effect": "从自己的弃牌区选择最多4张基本能量卡，在给对手看过后加入手牌。（不可选择因这张卡的效果而丢弃的能量卡。）"
       },
       {
         "name": "[物品规则]",
@@ -4983,7 +4987,11 @@
     "skillList": [
       {
         "name": "",
-        "effect": "只要这张卡附于宝可梦身上，视为提供1个【无】能量。从手牌将这张卡附于备战宝可梦身上时，将附有这张卡的宝可梦与战斗宝可梦互换。"
+        "effect": "只要这张卡附于宝可梦身上，视为提供1个【无】能量。"
+      },
+      {
+        "name": "",
+        "effect": "从手牌将这张卡附于备战宝可梦身上时，将附有这张卡的宝可梦与战斗宝可梦互换。"
       }
     ],
     "type": "Energy",
@@ -4999,7 +5007,11 @@
     "skillList": [
       {
         "name": "",
-        "effect": "只要这张卡附于宝可梦身上，视为提供1个所有属性的能量。若附有这张卡的宝可梦身上附有这张卡以外的特殊能量卡，则视为提供1个【无】能量。"
+        "effect": "只要这张卡附于宝可梦身上，视为提供1个所有属性的能量。"
+      },
+      {
+        "name": "",
+        "effect": "若附有这张卡的宝可梦身上附有这张卡以外的特殊能量卡，则视为提供1个【无】能量。"
       }
     ],
     "type": "Energy",
@@ -5015,7 +5027,11 @@
     "skillList": [
       {
         "name": "",
-        "effect": "只要这张卡附于宝可梦身上，视为提供1个【无】能量。 附于进化宝可梦（「拥有规则的宝可梦」除外）身上时，若自己剩余奖赏卡的张数，比对手剩余奖赏卡的张数多，则视为提供3个所有属性的能量。"
+        "effect": "只要这张卡附于宝可梦身上，视为提供1个【无】能量。 "
+      },
+      {
+        "name": "",
+        "effect": "附于进化宝可梦（「拥有规则的宝可梦」除外）身上时，若自己剩余奖赏卡的张数，比对手剩余奖赏卡的张数多，则视为提供3个所有属性的能量。"
       }
     ],
     "type": "Energy",
@@ -5031,7 +5047,11 @@
     "skillList": [
       {
         "name": "",
-        "effect": "只要这张卡附于宝可梦身上，视为提供1个【无】能量。附有这张卡的宝可梦不会【睡眠】・【麻痺】・【混乱】，受到的【睡眠】・【麻痺】・【混乱】全部恢复。"
+        "effect": "只要这张卡附于宝可梦身上，视为提供1个【无】能量。"
+      },
+      {
+        "name": "",
+        "effect": "附有这张卡的宝可梦不会【睡眠】・【麻痺】・【混乱】，受到的【睡眠】・【麻痺】・【混乱】全部恢复。"
       }
     ],
     "type": "Energy",
