@@ -37,7 +37,12 @@
     "typeEnergy": "Grass",
     "type": "Pokemon",
     "cardName": "毽子草",
-    "skillList": [],
+    "skillList": [
+      {
+        "name": "连续旋转",
+        "effect": "掷硬币直到出现反面，造成正面出现的次数×20点伤害。"
+      }
+    ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_2-2x.jpg",
     "ename": "Hoppip",
     "series": "SS7"
@@ -91,7 +96,7 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_4-2x.jpg",
-    "ename": "JumpluffH",
+    "ename": "Jumpluff",
     "series": "SS7"
   },
   {
@@ -320,6 +325,10 @@
     "cardName": "朽木妖V",
     "skillList": [
       {
+        "name": "生命吸取",
+        "effect": "将这只宝可梦恢复「30」HP。"
+      },
+      {
         "name": "暗影爪",
         "effect": "在不看正面的情况下，选择1张对手的手牌，将其丢弃。"
       },
@@ -348,6 +357,10 @@
     "type": "Pokemon",
     "cardName": "朽木妖VMAX",
     "skillList": [
+      {
+        "name": "遗失的森林",
+        "effect": "造成对手的弃牌区的支持者卡的张数×40点伤害。"
+      },
       {
         "name": "极巨树木",
         "effect": ""
@@ -409,7 +422,7 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_16-2x.jpg",
-    "ename": "EldegossH",
+    "ename": "Eldegoss",
     "series": "SS7"
   },
   {
@@ -551,6 +564,10 @@
     "type": "Pokemon",
     "cardName": "火神蛾V",
     "skillList": [
+      {
+        "name": "翻腾火焰",
+        "effect": "在给对手看过自己的弃牌区的所有基本能量卡后，增加其张数×20点伤害。然后，将给对手看过的能量卡放回牌库并重洗。"
+      },
       {
         "name": "大字爆炎",
         "effect": "选择1个这只宝可梦身上附加的能量，将其丢弃。"
@@ -725,6 +742,10 @@
     "cardName": "暴鲤龙V",
     "skillList": [
       {
+        "name": "勃然大怒",
+        "effect": "造成这只宝可梦身上放置的伤害指示物的数量×20点伤害。"
+      },
+      {
         "name": "重磅风暴",
         "effect": ""
       },
@@ -753,6 +774,10 @@
     "type": "Pokemon",
     "cardName": "暴鲤龙VMAX",
     "skillList": [
+      {
+        "name": "破坏光线",
+        "effect": "选择1个对手的战斗宝可梦身上附加的能量，将其丢弃。"
+      },
       {
         "name": "极巨暴君",
         "effect": ""
@@ -1668,7 +1693,7 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_60-2x.jpg",
-    "ename": "RegielekiH",
+    "ename": "Regieleki",
     "series": "SS7"
   },
   {
@@ -2014,7 +2039,7 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_73-2x.jpg",
-    "ename": "FlorgesH",
+    "ename": "Florges",
     "series": "SS7"
   },
   {
@@ -2376,7 +2401,7 @@
     ],
     "typeEnergy": "Fighting",
     "type": "Pokemon",
-    "cardName": "石丸子",
+    "cardName": "地幔岩",
     "skillList": [
       {
         "name": "守住",
@@ -3005,6 +3030,10 @@
     "type": "Pokemon",
     "cardName": "烈空坐V",
     "skillList": [
+      {
+        "name": "龙之波动",
+        "effect": "将自己的牌库上方2张卡丢弃。"
+      },
       {
         "name": "螺旋爆破",
         "effect": "若希望，将这只宝可梦身上附加的【火】或者【雷】任一属性的最多2张基本能量卡丢弃，增加其张数×80点伤害。"
@@ -3994,7 +4023,11 @@
     "skillList": [
       {
         "name": "",
-        "effect": "这张卡必须将自己的2张手牌丢弃才可使用。 从自己的牌库抽出与对手的场上宝可梦相同数量的卡。"
+        "effect": "这张卡必须将自己的2张手牌丢弃才可使用。"
+      },
+      {
+        "name": "",
+        "effect": "从自己的牌库抽出与对手的场上宝可梦相同数量的卡。"
       },
       {
         "name": "[支援者规则]",
@@ -4269,7 +4302,11 @@
     "skillList": [
       {
         "name": "",
-        "effect": "若使用了这张卡，则自己的回合结束。 从自己的牌库选择1张自己的1只场上宝可梦进化而来的卡，放置于那只宝可梦身上完成进化。并且重洗牌库。（对自己的最初回合与刚使出的宝可梦也可使用。）"
+        "effect": "若使用了这张卡，则自己的回合结束。"
+      },
+      {
+        "name": "",
+        "effect": "从自己的牌库选择1张自己的1只场上宝可梦进化而来的卡，放置于那只宝可梦身上完成进化。并且重洗牌库。（对自己的最初回合与刚使出的宝可梦也可使用。）"
       },
       {
         "name": "[物品规则]",
@@ -4292,7 +4329,11 @@
     "skillList": [
       {
         "name": "",
-        "effect": "从自己的反面朝上的奖赏卡中获得这张卡时，这张卡在加入手牌前使用。  从自己的牌库选择1张宝可梦卡，放置于备战区。并且重洗牌库。"
+        "effect": "从自己的反面朝上的奖赏卡中获得这张卡时，这张卡在加入手牌前使用。"
+      },
+      {
+        "name": "",
+        "effect": "从自己的牌库选择1张宝可梦卡，放置于备战区。并且重洗牌库。"
       },
       {
         "name": "[物品规则]",
@@ -4395,7 +4436,11 @@
     "skillList": [
       {
         "name": "",
-        "effect": "只要这张卡附于宝可梦身上，视为提供1个【无】能量。 在自己的回合，从自己的反面朝上的奖赏卡中获得这张卡时，可在加入手牌前，将这张卡附于自己的宝可梦身上。"
+        "effect": "只要这张卡附于宝可梦身上，视为提供1个【无】能量。"
+      },
+      {
+        "name": "",
+        "effect": "在自己的回合，从自己的反面朝上的奖赏卡中获得这张卡时，可在加入手牌前，将这张卡附于自己的宝可梦身上。"
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_165-2x.jpg",

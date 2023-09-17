@@ -161,6 +161,10 @@
     "cardName": "时拉比V",
     "skillList": [
       {
+        "name": "嫩叶之舞",
+        "effect": "从自己的手牌选择任意数量的【草】基本能量卡，以任意方式附于自己的宝可梦身上。"
+      },
+      {
         "name": "斩返",
         "effect": "将这只宝可梦与备战宝可梦互换。"
       },
@@ -190,6 +194,10 @@
     "cardName": "时拉比VMAX",
     "skillList": [
       {
+        "name": "[特性]治愈森林",
+        "effect": "在自己的回合时，可使用1次。将自己的所有【草】宝可梦各恢复「20」HP。"
+      },
+      {
         "name": "极巨植物",
         "effect": "从自己的牌库选择最多2张宝可梦卡，在给对手看过后加入手牌。并且重洗牌库。"
       },
@@ -216,12 +224,8 @@
     "cardName": "雪笠怪",
     "skillList": [
       {
-        "name": "前往拿取",
-        "effect": "从自己的牌库选择1张训练家卡，在给对手看过后加入手牌。并且重洗牌库。"
-      },
-      {
-        "name": "穷追不舍",
-        "effect": "在下个对手的回合，受到这个招式的宝可梦无法撤退。"
+        "name": "击倒",
+        "effect": ""
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_9-2x.jpg",
@@ -271,7 +275,11 @@
     "cardName": "四季鹿",
     "skillList": [
       {
-        "name": "回转攻击",
+        "name": "叫声",
+        "effect": "在下个对手的回合，受到这个招式的宝可梦使用招式的伤害「-20」点。"
+      },
+      {
+        "name": "后踢",
         "effect": ""
       }
     ],
@@ -293,8 +301,12 @@
     "cardName": "萌芽鹿",
     "skillList": [
       {
-        "name": "连击触手",
-        "effect": "从自己的手牌将任意数量的「连击」卡给对手看过后，造成其张数×40点伤害。然后，将给对手看过的「连击」卡放回牌库并重洗。"
+        "name": "撞击",
+        "effect": ""
+      },
+      {
+        "name": "冬之角",
+        "effect": "若场上有自己的竞技场卡，则增加80点伤害。"
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_12-2x.jpg",
@@ -315,7 +327,7 @@
     "cardName": "甜竹竹",
     "skillList": [
       {
-        "name": "羽击",
+        "name": "跃起",
         "effect": ""
       }
     ],
@@ -337,8 +349,12 @@
     "cardName": "甜舞妮",
     "skillList": [
       {
-        "name": "戏法舞步",
-        "effect": "若希望，选择1个对手的战斗宝可梦身上附加的能量，改附于对手的备战宝可梦身上。"
+        "name": "跃起",
+        "effect": ""
+      },
+      {
+        "name": "踩踏",
+        "effect": "掷1次硬币若为正面，则增加30点伤害。"
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_14-2x.jpg",
@@ -359,16 +375,12 @@
     "cardName": "甜冷美后",
     "skillList": [
       {
-        "name": "暗影薄雾",
-        "effect": "在下个对手的回合，对手无法从手牌附上「特殊能量」，也无法使出「竞技场」。"
+        "name": "踩坏",
+        "effect": "增加对手的战斗宝可梦【撤退】所需的能量的数量×50点伤害。"
       },
       {
-        "name": "星碎",
-        "effect": "在对手的2只宝可梦身上各放置5个伤害指示物。"
-      },
-      {
-        "name": "[V规则]",
-        "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
+        "name": "日光束",
+        "effect": ""
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_15-2x.jpg",
@@ -459,16 +471,12 @@
     "cardName": "萨戮德",
     "skillList": [
       {
-        "name": "[特性]冥界之扉",
-        "effect": "在自己的回合时，可使用1次。从自己的手牌选择1张【超】能量卡，附于自己的备战区的【超】宝可梦身上。然后，从自己的牌库抽出2张卡。"
+        "name": "群唤之歌",
+        "effect": "从自己的牌库选择1张【草】宝可梦卡，在给对手看过后加入手牌。并且重洗牌库。若在后攻玩家的最初回合使用，则可加入手牌的【草】宝可梦卡张数改为最多3张。"
       },
       {
-        "name": "极巨之魂",
-        "effect": "增加自己的场上宝可梦身上附加的【超】能量的数量×30点伤害。"
-      },
-      {
-        "name": "[VMAX规则]",
-        "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
+        "name": "反复之鞭",
+        "effect": "增加这只宝可梦身上附加的【草】能量的数量×20点伤害。"
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_19-2x.jpg",
@@ -555,12 +563,12 @@
     "cardName": "飘浮泡泡 太阳的样子",
     "skillList": [
       {
-        "name": "踩",
-        "effect": ""
+        "name": "[特性]看天",
+        "effect": "若自己的弃牌区有8张以上的「竞技场」卡，则这只宝可梦使用招式所需的能量全部消除。"
       },
       {
-        "name": "舌击",
-        "effect": ""
+        "name": "高气压爆破",
+        "effect": "将场上的「竞技场」丢弃。若无法丢弃，则这个招式失败。"
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_22-2x.jpg",
@@ -629,12 +637,16 @@
     "cardName": "波尔凯尼恩V",
     "skillList": [
       {
-        "name": "双重金勾臂",
-        "effect": "掷2次硬币，造成正面出现的次数×90点伤害。"
+        "name": "高温爆破",
+        "effect": ""
       },
       {
-        "name": "蟹钳锤",
-        "effect": ""
+        "name": "炸药冲撞",
+        "effect": "若这只宝可梦身上放置有10个以上的伤害指示物，则增加150点伤害。"
+      },
+      {
+        "name": "[V规则]",
+        "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_25-2x.jpg",
@@ -677,12 +689,8 @@
     "cardName": "腾蹴小将",
     "skillList": [
       {
-        "name": "[特性]绞技达人",
-        "effect": "只要这只宝可梦在战斗场上，对手的战斗宝可梦【撤退】所需的能量增加2个。"
-      },
-      {
-        "name": "同步光炮",
-        "effect": "若自己的手牌的张数与对手的手牌的张数相同，则增加80点伤害。"
+        "name": "截击踢",
+        "effect": "在下个自己的回合，这只宝可梦无法使用招式"
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_27-2x.jpg",
@@ -703,8 +711,12 @@
     "cardName": "闪焰王牌",
     "skillList": [
       {
-        "name": "浊雾",
-        "effect": "将对手的战斗宝可梦【中毒】。"
+        "name": "[特性]火场力量",
+        "effect": "这只宝可梦使用的招式，对对手的战斗宝可梦造成的伤害，依对手已经获得的奖赏卡每1张「+30」点。"
+      },
+      {
+        "name": "火球射击",
+        "effect": "在下个自己的回合，这只宝可梦无法使用招式。"
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_28-2x.jpg",
@@ -725,12 +737,12 @@
     "cardName": "拉普拉斯",
     "skillList": [
       {
-        "name": "混合毒素",
-        "effect": "将对手的战斗宝可梦【混乱】。从自己的弃牌区选择1张【恶】能量卡，附于这只宝可梦身上。"
+        "name": "白色呼唤",
+        "effect": "从自己的牌库选择最多2张卡「美蓉」卡，在给对手看过后加入手牌。并且重新洗牌库。"
       },
       {
-        "name": "烟之暴击",
-        "effect": "增加自己的场上宝可梦身上附加的【恶】能量的数量×20点伤害。"
+        "name": "冰冻之风",
+        "effect": "将对手的战斗宝可梦【睡眠】"
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_29-2x.jpg",
@@ -2068,8 +2080,12 @@
     "cardName": "艾路雷朵",
     "skillList": [
       {
-        "name": "[支援者规则]",
-        "effect": "在自己的回合时，支援者卡只可使用1张。"
+        "name": "佯攻",
+        "effect": "这个招式的伤害不计算抵抗力。"
+      },
+      {
+        "name": "力之利刃",
+        "effect": "造成对手的场上的「宝可梦【V】」的数量×60点伤害。"
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_81-2x.jpg",
@@ -2190,8 +2206,8 @@
     "cardName": "岩狗狗",
     "skillList": [
       {
-        "name": "[竞技场规则]",
-        "effect": "在自己的回合时，只可将1张竞技场卡放置于战斗场旁边。若其他名称的竞技场卡被放置，则将这张卡丢弃。"
+        "name": "咬碎",
+        "effect": "掷1次硬币若为正面，则选择1个对手的战斗宝可梦身上附加的能量，将其丢弃。"
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_86-2x.jpg",
@@ -2213,7 +2229,12 @@
     "typeEnergy": "Fighting",
     "type": "Pokemon",
     "cardName": "鬃岩狼人",
-    "skillList": [],
+    "skillList": [
+      {
+        "name": "恶棍獠牙",
+        "effect": "增加自己的弃牌区的「一击」宝可梦的张数×10点伤害。"
+      }
+    ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_87-2x.jpg",
     "ename": "Lycanroc",
     "series": "SS6"
@@ -2259,7 +2280,16 @@
     "typeEnergy": "Fighting",
     "type": "Pokemon",
     "cardName": "沙螺蟒V",
-    "skillList": [],
+    "skillList": [
+      {
+        "name": "[特性]沙之壁",
+        "effect": "这只宝可梦受到招式的伤害「-30」点。"
+      },
+      {
+        "name": "大地粉碎",
+        "effect": ""
+      }
+    ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_89-2x.jpg",
     "ename": "Sandaconda V",
     "artList": [
@@ -2280,6 +2310,10 @@
     "type": "Pokemon",
     "cardName": "沙螺蟒VMAX",
     "skillList": [
+      {
+        "name": "沙之脉冲",
+        "effect": "对手的所有备战宝可梦也各受到20点伤害。[在备战区不计算弱点・抵抗力。]"
+      },
       {
         "name": "超极巨旋风气旋",
         "effect": "选择自己的场上宝可梦身上附加的任意数量的能量，以任意方式改附于自己的宝可梦身上。"
@@ -2645,6 +2679,10 @@
     "cardName": "酷豹V",
     "skillList": [
       {
+        "name": "[特性]隐藏爪",
+        "effect": "在自己的回合，当从手牌将这张卡放置于备战区时，可使用1次。选择1张双方的场上宝可梦身上附加的「宝可梦道具」卡，将其丢弃。"
+      },
+      {
         "name": "暗影拆裂",
         "effect": "若希望，将这只宝可梦与附加的卡，全部放回手牌。"
       },
@@ -2849,6 +2887,10 @@
     "cardName": "巨金怪V",
     "skillList": [
       {
+        "name": "子弹拳",
+        "effect": "掷2次硬币，增加正面出现的次数×20点伤害。"
+      },
+      {
         "name": "同步之锤",
         "effect": "若这只宝可梦与对手的战斗宝可梦，身上附加的能量数量相同，则增加90点伤害。"
       },
@@ -2874,6 +2916,10 @@
     "type": "Pokemon",
     "cardName": "巨金怪VMAX",
     "skillList": [
+      {
+        "name": "电磁吸附",
+        "effect": "从自己的牌库任意选择最多2张卡加入手牌，并且重新洗牌库。"
+      },
       {
         "name": "极巨冲刺",
         "effect": "在下个自己的回合，这只宝可梦「极巨冲刺」的伤害「+150」点。"
@@ -3159,6 +3205,10 @@
     "cardName": "龙卷云V",
     "skillList": [
       {
+        "name": "穿堂风",
+        "effect": "若场上有竞技场卡，则增加20点伤害。"
+      },
+      {
         "name": "爆破之锤",
         "effect": "选择1个这只宝可梦身上附加的能量，将其丢弃。"
       },
@@ -3184,6 +3234,10 @@
     "type": "Pokemon",
     "cardName": "龙卷云VMAX",
     "skillList": [
+      {
+        "name": "爆破之风",
+        "effect": ""
+      },
       {
         "name": "极巨风尘",
         "effect": "若场上有竞技场卡，则增加120点伤害。然后，将那张竞技场卡丢弃。"
@@ -3891,7 +3945,11 @@
     "skillList": [
       {
         "name": "",
-        "effect": "这张卡只可附于「一击」宝可梦身上，若附于「一击」宝可梦以外的宝可梦身上，则将其丢弃。这张卡只要附于宝可梦身上，视为提供1个所有属性的能量，附有这张卡的宝可梦不会【中毒】，受到的【中毒】会恢复。"
+        "effect": "这张卡只可附于「一击」宝可梦身上，若附于「一击」宝可梦以外的宝可梦身上，则将其丢弃。"
+      },
+      {
+        "name": "",
+        "effect": "这张卡只要附于宝可梦身上，视为提供1个所有属性的能量，附有这张卡的宝可梦不会【中毒】，受到的【中毒】会恢复。"
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_157-2x.jpg",
@@ -3907,7 +3965,11 @@
     "skillList": [
       {
         "name": "",
-        "effect": "只要这张卡附于宝可梦身上，视为提供1个【无】能量。当附有这张卡的宝可梦在战斗场受到对手的宝可梦招式的伤害时，从自己的牌库抽出1张卡。"
+        "effect": "只要这张卡附于宝可梦身上，视为提供1个【无】能量。"
+      },
+      {
+        "name": "",
+        "effect": "当附有这张卡的宝可梦在战斗场受到对手的宝可梦招式的伤害时，从自己的牌库抽出1张卡。"
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_158-2x.jpg",
@@ -3923,7 +3985,11 @@
     "skillList": [
       {
         "name": "",
-        "effect": "这张卡只可附于「连击」宝可梦身上，若附于「连击」宝可梦以外的宝可梦身上，则将其丢弃。这张卡只要附于宝可梦身上，视为提供1个所有属性的能量，附有这张卡的宝可梦不会【麻痺】，受到的【麻痺】会恢复。"
+        "effect": "这张卡只可附于「连击」宝可梦身上，若附于「连击」宝可梦以外的宝可梦身上，则将其丢弃。"
+      },
+      {
+        "name": "",
+        "effect": "这张卡只要附于宝可梦身上，视为提供1个所有属性的能量，附有这张卡的宝可梦不会【麻痺】，受到的【麻痺】会恢复。"
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_159-2x.jpg",

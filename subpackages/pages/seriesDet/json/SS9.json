@@ -113,7 +113,7 @@
     "cardName": "热带龙",
     "skillList": [
       {
-        "name": "[特性] 治愈树荫",
+        "name": "[特性]治愈树荫",
         "effect": "只要这只宝可梦在场上，自己的所有身上附有【草】能量的宝可梦不会【混乱】，受到的【混乱】会全部恢复。"
       },
       {
@@ -168,7 +168,7 @@
     "cardName": "树林龟",
     "skillList": [
       {
-        "name": "[特性] 向阳甲壳",
+        "name": "[特性]向阳甲壳",
         "effect": "在自己的回合时，可使用1次。从自己的牌库选择1张【草】宝可梦卡，在给对手看过后加入手牌。并且重洗牌库。"
       },
       {
@@ -357,7 +357,7 @@
         "effect": "增加对手已经获得的奖赏卡的张数×40点伤害。"
       },
       {
-        "name": "[VSTAR力量][特性] 星星绽放",
+        "name": "[VSTAR力量][特性]星星绽放",
         "effect": "在自己的回合时可使用。将自己的备战区的所有【草】宝可梦各恢复「120」HP。[对战中，己方只可使用1次【VSTAR】力量。]"
       },
       {
@@ -421,7 +421,7 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_16-2x.jpg",
-    "ename": "ZarudeV",
+    "ename": "Zarude V",
     "series": "SS9"
   },
   {
@@ -728,7 +728,7 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_27-2x.jpg",
-    "ename": "SimisearV",
+    "ename": "Simisear V",
     "series": "SS9"
   },
   {
@@ -758,7 +758,7 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_28-2x.jpg",
-    "ename": "KinglerV",
+    "ename": "Kingler V",
     "series": "SS9"
   },
   {
@@ -788,7 +788,7 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_29-2x.jpg",
-    "ename": "KinglerVMAX",
+    "ename": "Kingler VMAX",
     "series": "SS9"
   },
   {
@@ -974,7 +974,7 @@
     "cardName": "帝王拿波",
     "skillList": [
       {
-        "name": "[特性] 紧急浮上",
+        "name": "[特性]紧急浮上",
         "effect": "在自己的回合，若这张卡在弃牌区，自己1张手牌都没有，则可使用1次。将这张卡放置于备战区。然后，从自己的牌库抽出3张卡。"
       },
       {
@@ -983,7 +983,7 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_37-2x.jpg",
-    "ename": "EmpoleonH",
+    "ename": "Empoleon",
     "series": "SS9"
   },
   {
@@ -1048,7 +1048,7 @@
     "cardName": "霓虹鱼V",
     "skillList": [
       {
-        "name": "[特性] 夜光标志",
+        "name": "[特性]夜光标志",
         "effect": "在自己的回合，当从手牌将这张卡放置于备战区时，可使用1次。从自己的牌库选择1张支援者卡，在给对手看过后加入手牌。并且重洗牌库。"
       },
       {
@@ -1083,7 +1083,7 @@
     "cardName": "玛纳霏",
     "skillList": [
       {
-        "name": "[特性] 浪之幕",
+        "name": "[特性]浪之幕",
         "effect": "只要这只宝可梦在场上，自己的所有备战宝可梦不会受到对手的招式的伤害。"
       },
       {
@@ -1183,7 +1183,7 @@
     ],
     "typeEnergy": "Lightning",
     "type": "Pokemon",
-    "cardName": "V",
+    "cardName": "皮卡丘V",
     "skillList": [
       {
         "name": "雷电炸弹",
@@ -1657,7 +1657,7 @@
     "cardName": "黑夜魔灵",
     "skillList": [
       {
-        "name": "[特性] 特殊转移",
+        "name": "[特性]特殊转移",
         "effect": "在自己的回合时，可不限次数使用。选择1个自己的场上宝可梦身上附加的特殊能量，改附于自己的其他宝可梦身上。"
       },
       {
@@ -2116,7 +2116,7 @@
     "cardName": "路卡利欧",
     "skillList": [
       {
-        "name": "[特性] 旺盛斗志",
+        "name": "[特性]旺盛斗志",
         "effect": "在自己的回合时，可使用1次。在这只宝可梦身上放置2个伤害指示物。然后，从自己的牌库选择1张【斗】能量卡，附于这只宝可梦身上。并且重洗牌库。"
       },
       {
@@ -2247,7 +2247,7 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_84-2x.jpg",
-    "ename": "G rimer",
+    "ename": "Grimer",
     "series": "SS9"
   },
   {
@@ -2264,7 +2264,7 @@
     "cardName": "臭臭泥",
     "skillList": [
       {
-        "name": "[特性] 污泥路",
+        "name": "[特性]污泥路",
         "effect": "只要这只宝可梦在场上，对手的【中毒】的宝可梦【撤退】所需的能量增加1个。"
       },
       {
@@ -2342,7 +2342,7 @@
     "cardName": "乌鸦头头V",
     "skillList": [
       {
-        "name": "[特性] 头头的怀抱",
+        "name": "[特性]头头的怀抱",
         "effect": "这只宝可梦身上最多可附有4张「宝可梦道具」卡。（这个特性消除时，自己将「宝可梦道具」卡丢弃直到变为1张为止。）"
       },
       {
@@ -2774,7 +2774,7 @@
     "cardName": "齿轮怪",
     "skillList": [
       {
-        "name": "[特性] 齿轮堡垒",
+        "name": "[特性]齿轮堡垒",
         "effect": "只要这只宝可梦在场上，自己的所有【基础】宝可梦，受到对手的宝可梦招式的伤害「-20」点。"
       },
       {
@@ -2911,7 +2911,7 @@
     "cardName": "烈咬陆鲨",
     "skillList": [
       {
-        "name": "[特性] 音速回避",
+        "name": "[特性]音速回避",
         "effect": "在自己的回合，当从手牌使出这张卡并完成进化时，可使用1次。在下个对手的回合结束前，这只宝可梦不会受到对手的宝可梦招式的伤害与效果的影响。"
       },
       {
@@ -3171,7 +3171,7 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_119-2x.jpg",
-    "ename": "Sta raptor",
+    "ename": "Staraptor",
     "series": "SS9"
   },
   {
@@ -3210,7 +3210,7 @@
     "cardName": "大尾狸",
     "skillList": [
       {
-        "name": "[特性] 勤劳门牙",
+        "name": "[特性]勤劳门牙",
         "effect": "在自己的回合时可使用1次。从牌库抽卡直到自己的手牌满5张为止。"
       },
       {
@@ -3277,7 +3277,7 @@
         "effect": "从自己的牌库选择最多3张基本能量卡，以任意方式附于自己的「宝可梦【V】」身上。并且重洗牌库。"
       },
       {
-        "name": "[VSTAR力量][特性] 星星诞生",
+        "name": "[VSTAR力量][特性]星星诞生",
         "effect": "在自己的回合时可使用。从自己的牌库任意选择最多2张卡加入手牌。并且重洗牌库。[对战中，己方只可使用1次【VSTAR】力量。]"
       },
       {
@@ -3360,7 +3360,7 @@
     "cardName": "龙卷云",
     "skillList": [
       {
-        "name": "[特性] 临场旋风",
+        "name": "[特性]临场旋风",
         "effect": "在自己的回合，当从手牌将这张卡放置于备战区时，可使用1次。将对手的战斗宝可梦与备战宝可梦互换。[由对手选择放置于战斗场的宝可梦。]"
       },
       {
@@ -3425,7 +3425,7 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_128-2x.jpg",
-    "ename": "Dram pa V",
+    "ename": "Drampa V",
     "series": "SS9"
   },
   {
@@ -3437,7 +3437,11 @@
     "skillList": [
       {
         "name": "",
-        "effect": "双方玩家的可放置于备战区的宝可梦数量改为4只。[变更备战宝可梦数量的效果，以变少者为优先。] （将这张卡放置于场上时，备战宝可梦有5只以上的玩家，将其丢弃直到变为4只为止。这张卡的持有人先丢弃。）"
+        "effect": "双方玩家的可放置于备战区的宝可梦数量改为4只。[变更备战宝可梦数量的效果，以变少者为优先。]"
+      },
+      {
+        "name": "",
+        "effect": "（将这张卡放置于场上时，备战宝可梦有5只以上的玩家，将其丢弃直到变为4只为止。这张卡的持有人先丢弃。）"
       },
       {
         "name": "[竞技场规则]",
@@ -3549,7 +3553,11 @@
     "skillList": [
       {
         "name": "",
-        "effect": "若使用了这张卡，则自己的回合结束。选择最多3只自己的备战宝可梦，从牌库附给那些宝可梦各1张各不同属性的基本能量卡。并且重洗牌库。"
+        "effect": "若使用了这张卡，则自己的回合结束。"
+      },
+      {
+        "name": "",
+        "effect": "选择最多3只自己的备战宝可梦，从牌库附给那些宝可梦各1张各不同属性的基本能量卡。并且重洗牌库。"
       },
       {
         "name": "[支援者规则]",
@@ -3557,7 +3565,7 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_133-2x.jpg",
-    "ename": "Cafe Master",
+    "ename": "Café Master",
     "artList": [
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_TG25_R_EN.png"
     ],
@@ -3668,7 +3676,11 @@
     "skillList": [
       {
         "name": "",
-        "effect": "这张卡必须从自己的手牌将1张【火】能量卡丢弃才可使用。 查看自己的牌库上方7张卡，从其中选择最多2张卡加入手牌。将剩余卡放回牌库并重洗。"
+        "effect": "这张卡必须从自己的手牌将1张【火】能量卡丢弃才可使用。"
+      },
+      {
+        "name": "",
+        "effect": "查看自己的牌库上方7张卡，从其中选择最多2张卡加入手牌。将剩余卡放回牌库并重洗。"
       },
       {
         "name": "[支援者规则]",
@@ -3952,7 +3964,11 @@
     "skillList": [
       {
         "name": "",
-        "effect": "只要这张卡附于宝可梦身上，视为提供2个【无】能量。  附有这张卡的宝可梦使用的招式，对对手的宝可梦造成的伤害「-20」点。"
+        "effect": "只要这张卡附于宝可梦身上，视为提供2个【无】能量。"
+      },
+      {
+        "name": "",
+        "effect": "附有这张卡的宝可梦使用的招式，对对手的宝可梦造成的伤害「-20」点。"
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_151-2x.jpg",

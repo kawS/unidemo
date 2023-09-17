@@ -587,7 +587,7 @@
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/2073/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00002073.png",
     "type": "Trainers",
-    "cardName": "博士的研究(大木博士)",
+    "cardName": "博士的研究（大木博士）",
     "skillList": [
       {
         "name": "",
@@ -599,7 +599,7 @@
       }
     ],
     "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_23.png",
-    "ename": "Professor's Research",
+    "ename": "Professor's Research (Professor Oak)",
     "artList": [
       "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_24.png"
     ],
