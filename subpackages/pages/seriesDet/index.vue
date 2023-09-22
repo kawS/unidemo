@@ -249,21 +249,21 @@
   }
 
 	const returnShowFilterDom = (sno) => {
-		return sno == 'SV3' || 
-						// sno == 'SV3.5' || 
-						sno == 'SV2' || 
-						sno == 'SV1' || 
-						sno == 'SS12' || 
-						sno == 'SS12.5' || 
-						sno == 'SS11' || 
-						sno == 'SS10.5' || 
-						sno == 'SS10' || 
-						sno == 'SS9' || 
-						sno == 'SS8' || 
-						sno == 'SS7.5' ||
-						sno == 'SS7' ||
-						sno == 'SS6' ||
-						sno == 'SS5'
+		return sno == 'SV3.5' || 
+			sno == 'SV3' || 
+			sno == 'SV2' || 
+			sno == 'SV1' || 
+			sno == 'SS12' || 
+			sno == 'SS12.5' || 
+			sno == 'SS11' || 
+			sno == 'SS10.5' || 
+			sno == 'SS10' || 
+			sno == 'SS9' || 
+			sno == 'SS8' || 
+			sno == 'SS7.5' ||
+			sno == 'SS7' ||
+			sno == 'SS6' ||
+			sno == 'SS5'
 	}
 
 	const changeArt = (url) => {

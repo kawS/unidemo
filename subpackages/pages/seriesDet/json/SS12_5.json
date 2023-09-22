@@ -3699,6 +3699,9 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_144-2x.jpg",
     "ename": "Switch",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_206_R_EN.png"
+    ],
     "series": "SS12.5"
   },
   {

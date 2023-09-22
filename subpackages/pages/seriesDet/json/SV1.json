@@ -4949,6 +4949,9 @@
     "type": "Trainers",
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_194-2x.jpg",
     "ename": "Switch",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_206_R_EN.png"
+    ],
     "series": "SV1"
   },
   {

@@ -4,6 +4,14 @@ const sdata = [
     sename: 'Scarlet & Violet',
     list: [
       {
+        name: 'Paradox Rift',
+        // no: 'SV4',
+        no: '',
+        logo: 'https://www.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/sv_series/sv04/sv04-slider-logo-en.png',
+        isBack: false,
+        tipNo: 'G'
+      },
+      {
         name: '151',
         no: 'SV3.5',
         logo: 'https://www.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/sv_series/sv035/sv035-slider-logo-en.png',
