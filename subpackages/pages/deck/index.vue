@@ -3,14 +3,15 @@
 	<div class="fctrl">
 		<div class="info">
 			<div>卡组列表</div>
-			<div>共{{ resultList.length }}类</div>
+			<div>共{{ resultList.length }}种卡, 导入失败{{ noCardLength }}张卡</div>
 		</div>
 	</div>
 	<div class="list" v-if="resultList.length > 0">
-		<div class="item" v-for="item in resultList" :key="item.id" @click="showDet(item)">
+		<div class="item" v-for="item in resultList" :key="item.name" @click="showDet(item)">
 			<div class="picwp">
 				<image src="../../../common/img/tcg-card-back.jpg" mode="widthFix" class="cback"></image>
 				<image :src="item.imgUrl" lazy-load mode="heightFix" class="img"></image>
+				<div class="count">{{ item.count }}</div>
 				<div class="series">{{ item.series }}{{ item?.artList?.length > 0 ? `|${item.artList.length}` : '' }}</div>
 			</div>
 			<div>{{ item.cardName }}</div>
@@ -18,6 +19,9 @@
 		</div>
 	</div>
 	<emptyList v-else></emptyList>
+	<div class="deckCode">
+		<div v-for="(item, index) in copyDeck" :key="index">{{ item }}</div>
+	</div>
 	<div class="popups" v-if="isShowCard">
 		<div class="p-showcard" :class="{'animate__zoomIn': isShowCard}">
 			<div class="cardShow" :class="{tc: !showCardDet.artList}">
@@ -70,16 +74,17 @@
 	const baseEList = ['Grass Energy', 'Fire Energy', 'Water Energy', 'Lightning Energy', 'Psychic Energy', 'Fighting Energy', 'Darkness Energy', 'Metal Energy', 'Fairy Energy', 'Dragon Energy', 'Colorless Energy']
 	let resetData = [];
 	let allIndex = 0;
-	let copyDeck = null;
 	let resultList = ref([]);
 	let isShowCard = ref(false);
 	let showCardDet = ref(null);
+	let noCardLength = ref(0);
+	let copyDeck = ref(null);
 	
 	onLoad(options => {
 		const _data = uni.getStorageSync('tempDeck');
 		const list = JSON.parse(_data);
 		setData(list);
-		copyDeck = list.join('\n')
+		copyDeck.value = list
 	})
 
 	const setData = (data) => {
@@ -102,6 +107,9 @@
 			}else if(item == ''){
 				continue
 			}
+			// console.log(item)
+			let rItem = null;
+			let sameLength = 0;
 			let count = null;
 			let ename = null;
 			let series = null;
@@ -109,10 +117,14 @@
 			let cardNo = null;
 			let m = item.match(/(\d{1,2}) (.+) ([A-Z]{3}\-[A-Z]{2}|[A-Z]{3}) (\d{1,3})/);
 			if(m == null){
+				if(!/ Energy/.test(item)){
+					noCardLength.value += 1;
+					continue
+				};
 				m = item.match(/(\d{1,2}) (.+) (\d{1,3})/);
 				count = m[1];
 				ename = m[2];
-				let returnEData = returnEnergyData(ename);
+				let returnEData = returnEnergyData(ename, count);
 				resetData.push(returnEData);
 				allIndex += 1
 			}else{
@@ -131,8 +143,20 @@
 			if(!sortBySeries[sNo]){
 				sortBySeries[sNo] = []
 			}
-			sortBySeries[sNo].push({count, ename, series, sNo, cardNo})
-			list.push({count, ename, series, sNo, cardNo});
+			rItem = {count, ename, series, sNo, cardNo};
+			// for(let d of list){
+			// 	console.log(d)
+			// 	if(d.ename == ename){
+			// 		d.count = parseInt(d.count) + count;
+			// 		if(d.count > 4) d.count = 4;
+			// 		sameLength += 1
+			// 	}
+			// }
+			// if(sameLength > 0){
+			// 	continue
+			// }
+			sortBySeries[sNo].push(rItem)
+			list.push(rItem);
 		}
 		// console.log(list, sortBySeries);
 		returnDet(sortBySeries)
@@ -175,10 +199,12 @@
 			for(let _d of data){
 				if(noList.length > 0){
 					if(noList.includes(_d.cardNo) && _d.ename == ename){
+						o.count = _d.count;
 						result.push(o)
 					}
 				}else{
 					if(_d.cardNo == o.cardNo && _d.ename == ename){
+						o.count = _d.count;
 						result.push(o)
 					}
 				}
@@ -188,21 +214,58 @@
 		resetData = [...resetData, ...result];
 		if(allIndex == resetData.length){
 			// 排序
+			let p = resetData.filter(item => {
+				return item.type == 'Pokemon'
+			});
+			let t = resetData.filter(item => {
+				return item.type == 'Trainers'
+			});
+			let e = resetData.filter(item => {
+				return item.type == 'Energy'
+			});
+			resetData = [...p, ...t, ...e];
 			resultList.value = resetData;
 			uni.hideLoading();
 		}
 	}
 
-	const returnEnergyData = (ename) => {
+	const returnEnergyData = (ename, count) => {
 		let obj = {
 			"Grass Energy": {
 				"name": "草",
-				"img": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAL/PAL_278_R_EN.png"
+				"img": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVO/EVO_091_R_EN.png"
 			},
-			"k": {},
+			"Fire Energy": {
+				"name": "火",
+				"img": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVO/EVO_092_R_EN.png"
+			},
 			"Water Energy": {
 				"name": "水",
-				"img": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAL/PAL_279_R_EN.png"
+				"img": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVO/EVO_093_R_EN.png"
+			},
+			"Lightning Energy": {
+				"name": "雷",
+				"img": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVO/EVO_094_R_EN.png"
+			},
+			"Psychic Energy": {
+				"name": "超",
+				"img": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVO/EVO_095_R_EN.png"
+			},
+			"Fighting Energy": {
+				"name": "斗",
+				"img": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVO/EVO_096_R_EN.png"
+			},
+			"Darkness Energy": {
+				"name": "恶",
+				"img": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVO/EVO_097_R_EN.png"
+			},
+			"Metal Energy": {
+				"name": "钢",
+				"img": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVO/EVO_098_R_EN.png"
+			},
+			"Fairy Energy": {
+				"name": "妖精",
+				"img": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVO/EVO_099_R_EN.png"
 			}
 		}
 		let _data = obj[ename];
@@ -211,7 +274,8 @@
 			"cardName": _data.name + "能量",
 			"type": "Energy",
 			"enImgUrl": _data.img,
-			"ename": ename
+			"ename": ename,
+			"count": count
 		}
 	}
 
@@ -277,11 +341,25 @@
 			width: 24%;
 			min-height: 80rpx;
 			text-align: center;
-			font-size: 30rpx;
+			font-size: 12px;
 			.picwp{
 				position: relative;
 				margin: 0 0 10rpx 0;
 				overflow: hidden;
+				.count{
+					position: absolute;
+					bottom: 0;
+					left: 0;
+					background: #ce2a2c;
+					width: 40rpx;
+					height: 40rpx;
+					border-radius: 50%;
+					font-size: 24rpx;
+					color: #fff;
+					display: flex;
+					align-items: center;
+					justify-content: center;
+				}
 				.series{
 					position: absolute;
 					bottom: 0;
@@ -327,6 +405,12 @@
 			width: 266rpx;
 			display: block;
 		}
+	}
+	.deckCode{
+		margin: 0 auto;
+		padding: 20rpx 0;
+		width: 70%;
+		font-size: 12px;
 	}
 	.p-showcard{
 		position: absolute;

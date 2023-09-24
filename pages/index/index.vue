@@ -111,6 +111,7 @@
   const importDeck = () => {
     uni.setStorageSync('tempDeck', JSON.stringify(deckData.value.split('\n')));
     isShowDeck.value = false;
+    deckData.value = '';
     uni.navigateTo({
 			url: '/subpackages/pages/deck/index',
 			success: res => {},
