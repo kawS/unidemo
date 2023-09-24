@@ -7,7 +7,8 @@
       "root": "subpackages",
       "pages": [
         "pages/seriesDet/index",
-        "pages/search/index"
+        "pages/search/index",
+        "pages/deck/index"
       ]
     }
   ],

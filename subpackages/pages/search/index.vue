@@ -13,7 +13,7 @@
 	<div class="list" v-if="resultList.length > 0">
 		<div class="item" v-for="item in resultList" :key="item.id" @click="showDet(item)">
 			<div class="picwp">
-				<image src="../img/tcg-card-back.jpg" mode="widthFix" class="cback"></image>
+				<image src="../../../common/img/tcg-card-back.jpg" mode="widthFix" class="cback"></image>
 				<image :src="item.imgUrl" lazy-load mode="heightFix" class="img"></image>
 				<div class="series">{{ item.series }}{{ item?.artList?.length > 0 ? `|${item.artList.length}` : '' }}</div>
 			</div>
@@ -21,10 +21,7 @@
 			<div>{{ item.ename }}</div>
 		</div>
 	</div>
-	<div class="empty" v-else>
-		<image src="../img/pikachu.png" mode="widthFix" class="img"></image>
-		暂无数据
-	</div>
+	<emptyList v-else></emptyList>
 	<div class="popups" v-if="isShowCard">
 		<div class="p-showcard" :class="{'animate__zoomIn': isShowCard}">
 			<div class="cardShow" :class="{tc: !showCardDet.artList}">
@@ -67,6 +64,7 @@
 </template>
 
 <script setup>
+	import emptyList from '../../../components/emptyList/index.vue'
 	import { ref } from 'vue'
   import { onLoad } from '@dcloudio/uni-app'
 
@@ -106,8 +104,8 @@
 		let listSS = resSS.default;
 		let result = [];
 		for(let item of listSV){
-			let reg = `${item.name} ${item.ename.toLocaleLowerCase()}`;
-			if(reg.search(cardName.value.toLocaleLowerCase()) != -1){
+			let reg = `${item.name} ${item.ename.toLowerCase()}`;
+			if(reg.search(cardName.value.toLowerCase()) != -1){
 				result.push({
 					name: item.name,
 					series: item.series
@@ -115,8 +113,8 @@
 			}
 		}
 		for(let item of listSS){
-			let reg = `${item.name} ${item.ename.toLocaleLowerCase()}`;
-			if(reg.search(cardName.value.toLocaleLowerCase()) != -1){
+			let reg = `${item.name} ${item.ename.toLowerCase()}`;
+			if(reg.search(cardName.value.toLowerCase()) != -1){
 				result.push({
 					name: item.name,
 					series: item.series
@@ -198,16 +196,6 @@
 		showCardDet.value.showImg = showCardDet.value.imgUrl;
 		isShowCard.value = true
   }
-
-	const _showLoading = (duration = 1000) => {
-		uni.showLoading({
-			title: '加载中',
-			mask: true
-		});
-		setTimeout(function () {
-			uni.hideLoading();
-		}, duration);
-	}
 	
 	const changeArt = (url) => {
 		showCardDet.value.showImg = url
@@ -262,7 +250,7 @@
 			width: 48%;
 			min-height: 80rpx;
 			text-align: center;
-			font-size: 30rpx;
+			font-size: 12px;
 			.picwp{
 				position: relative;
 				margin: 0 0 10rpx 0;
@@ -301,16 +289,6 @@
 				text-align: center;
 				color: #fff;
 			}
-		}
-	}
-	.empty{
-		padding: 150rpx 0 0;
-		text-align: center;
-		color: #ccc;
-		.img{
-			margin: 0 auto 20rpx;
-			width: 266rpx;
-			display: block;
 		}
 	}
 	.p-showcard{

@@ -23,7 +23,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_1-2x.jpg",
     "ename": "Pinsir",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 1
   },
   {
     "id": "878",
@@ -45,7 +46,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_2-2x.jpg",
     "ename": "Hoppip",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 2
   },
   {
     "id": "879",
@@ -71,7 +73,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_3-2x.jpg",
     "ename": "Skiploom",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 3
   },
   {
     "id": "880",
@@ -97,7 +100,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_4-2x.jpg",
     "ename": "Jumpluff",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 4
   },
   {
     "id": "745",
@@ -119,7 +123,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_5-2x.jpg",
     "ename": "Seedot",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 5
   },
   {
     "id": "881",
@@ -145,7 +150,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_6-2x.jpg",
     "ename": "Tropius",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 6
   },
   {
     "id": "603",
@@ -179,7 +185,8 @@
       "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_166-2x.jpg",
       "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_167-2x.jpg"
     ],
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": "7|166|167"
   },
   {
     "id": "604",
@@ -213,7 +220,8 @@
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_205_R_EN.png",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_204_R_EN.png"
     ],
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": "8|205|204"
   },
   {
     "id": "1687",
@@ -235,7 +243,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_9-2x.jpg",
     "ename": "Petilil",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 9
   },
   {
     "id": "1688",
@@ -257,7 +266,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_10-2x.jpg",
     "ename": "Lilligant",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 10
   },
   {
     "id": "1689",
@@ -283,7 +293,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_11-2x.jpg",
     "ename": "Dwebble",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 11
   },
   {
     "id": "1690",
@@ -309,7 +320,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_12-2x.jpg",
     "ename": "Crustle",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 12
   },
   {
     "id": "884",
@@ -342,7 +354,8 @@
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_168-2x.jpg"
     ],
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": "13|168"
   },
   {
     "id": "885",
@@ -375,7 +388,8 @@
     "artList": [
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_206_R_EN.png"
     ],
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": "14|206"
   },
   {
     "id": "610",
@@ -397,7 +411,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_15-2x.jpg",
     "ename": "Gossifleur",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 15
   },
   {
     "id": "611",
@@ -423,7 +438,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_16-2x.jpg",
     "ename": "Eldegoss",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 16
   },
   {
     "id": "886",
@@ -445,7 +461,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_17-2x.jpg",
     "ename": "Applin",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 17
   },
   {
     "id": "5680",
@@ -475,7 +492,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_169-2x.jpg",
     "ename": "Flareon V",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 169
   },
   {
     "id": "1700",
@@ -501,7 +519,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_18-2x.jpg",
     "ename": "Flareon VMAX",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 18
   },
   {
     "id": "615",
@@ -527,7 +546,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_19-2x.jpg",
     "ename": "Entei",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 19
   },
   {
     "id": "889",
@@ -549,7 +569,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_20-2x.jpg",
     "ename": "Victini",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 20
   },
   {
     "id": "892",
@@ -582,7 +603,8 @@
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_170-2x.jpg"
     ],
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": "21|170"
   },
   {
     "id": "1706",
@@ -604,7 +626,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_22-2x.jpg",
     "ename": "Litleo",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 22
   },
   {
     "id": "1707",
@@ -630,7 +653,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_23-2x.jpg",
     "ename": "Pyroar",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 23
   },
   {
     "id": "1712",
@@ -652,7 +676,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_24-2x.jpg",
     "ename": "Psyduck",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 24
   },
   {
     "id": "1713",
@@ -678,7 +703,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_25-2x.jpg",
     "ename": "Golduck",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 25
   },
   {
     "id": "402",
@@ -700,7 +726,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_26-2x.jpg",
     "ename": "Tentacool",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 26
   },
   {
     "id": "403",
@@ -726,7 +753,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_27-2x.jpg",
     "ename": "Tentacruel",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 27
   },
   {
     "id": "897",
@@ -759,7 +787,8 @@
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_171-2x.jpg"
     ],
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": "28|171"
   },
   {
     "id": "898",
@@ -792,7 +821,8 @@
     "artList": [
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_207_R_EN.png"
     ],
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": "29|207"
   },
   {
     "id": "5716",
@@ -822,7 +852,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_172-2x.jpg",
     "ename": "Vaporeon V",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 172
   },
   {
     "id": "1715",
@@ -852,7 +883,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_30-2x.jpg",
     "ename": "Vaporeon VMAX",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 30
   },
   {
     "id": "811",
@@ -886,7 +918,8 @@
       "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_38-2x.jpg",
       "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_173-2x.jpg"
     ],
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": "31|GG 38|173"
   },
   {
     "id": "812",
@@ -912,7 +945,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_32-2x.jpg",
     "ename": "Lotad",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 32
   },
   {
     "id": "813",
@@ -934,7 +968,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_33-2x.jpg",
     "ename": "Lombre",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 33
   },
   {
     "id": "814",
@@ -960,7 +995,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_34-2x.jpg",
     "ename": "Ludicolo",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 34
   },
   {
     "id": "1722",
@@ -986,7 +1022,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_35-2x.jpg",
     "ename": "Carvanha",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 35
   },
   {
     "id": "1723",
@@ -1012,7 +1049,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_36-2x.jpg",
     "ename": "Sharpedo",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 36
   },
   {
     "id": "623",
@@ -1034,7 +1072,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_37-2x.jpg",
     "ename": "Feebas",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 37
   },
   {
     "id": "624",
@@ -1060,7 +1099,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_38-2x.jpg",
     "ename": "Milotic",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 38
   },
   {
     "id": "1728",
@@ -1086,7 +1126,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_39-2x.jpg",
     "ename": "Luvdisc",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 39
   },
   {
     "id": "625",
@@ -1120,7 +1161,8 @@
       "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_174-2x.jpg",
       "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_175-2x.jpg"
     ],
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": "40|174|175"
   },
   {
     "id": "626",
@@ -1154,7 +1196,8 @@
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_209_R_EN.png",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_208_R_EN.png"
     ],
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": "41|209|208"
   },
   {
     "id": "1730",
@@ -1176,7 +1219,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_42-2x.jpg",
     "ename": "Tympole",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 42
   },
   {
     "id": "901",
@@ -1202,7 +1246,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_43-2x.jpg",
     "ename": "Cryogonal",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 43
   },
   {
     "id": "1731",
@@ -1228,7 +1273,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_44-2x.jpg",
     "ename": "Bergmite",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 44
   },
   {
     "id": "1732",
@@ -1254,7 +1300,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_45-2x.jpg",
     "ename": "Avalugg",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 45
   },
   {
     "id": "902",
@@ -1280,7 +1327,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_46-2x.jpg",
     "ename": "Wishiwashi",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 46
   },
   {
     "id": "819",
@@ -1306,7 +1354,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_47-2x.jpg",
     "ename": "Eiscue",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 47
   },
   {
     "id": "757",
@@ -1339,7 +1388,8 @@
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_176-2x.jpg"
     ],
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": "48|176"
   },
   {
     "id": "627",
@@ -1365,7 +1415,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_49-2x.jpg",
     "ename": "Pikachu",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 49
   },
   {
     "id": "628",
@@ -1391,7 +1442,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_50-2x.jpg",
     "ename": "Raichu",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 50
   },
   {
     "id": "5759",
@@ -1421,7 +1473,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_177-2x.jpg",
     "ename": "Jolteon V",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 5177
   },
   {
     "id": "1740",
@@ -1447,7 +1500,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_51-2x.jpg",
     "ename": "Jolteon VMAX",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 51
   },
   {
     "id": "1741",
@@ -1469,7 +1523,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_52-2x.jpg",
     "ename": "Chinchou",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 52
   },
   {
     "id": "1742",
@@ -1495,7 +1550,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_53-2x.jpg",
     "ename": "Lanturn",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 53
   },
   {
     "id": "903",
@@ -1524,7 +1580,8 @@
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_34-2x.jpg"
     ],
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": "54|GG 34"
   },
   {
     "id": "904",
@@ -1554,7 +1611,8 @@
       "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_3-2x.jpg",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/FST/FST_280_R_EN.png"
     ],
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": "55|TG 03|280"
   },
   {
     "id": "905",
@@ -1580,7 +1638,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_56-2x.jpg",
     "ename": "Ampharos",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 56
   },
   {
     "id": "1746",
@@ -1602,7 +1661,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_57-2x.jpg",
     "ename": "Emolga",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 57
   },
   {
     "id": "414",
@@ -1635,7 +1695,8 @@
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_178-2x.jpg"
     ],
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": "58|178"
   },
   {
     "id": "415",
@@ -1668,7 +1729,8 @@
     "artList": [
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_210_R_EN.png"
     ],
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": "59|210"
   },
   {
     "id": "910",
@@ -1694,7 +1756,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_60-2x.jpg",
     "ename": "Regieleki",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 60
   },
   {
     "id": "1748",
@@ -1716,7 +1779,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_61-2x.jpg",
     "ename": "Drowzee",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 61
   },
   {
     "id": "1749",
@@ -1742,7 +1806,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_62-2x.jpg",
     "ename": "Hypno",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 62
   },
   {
     "id": "822",
@@ -1768,7 +1833,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_63-2x.jpg",
     "ename": "Galarian Articuno",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 63
   },
   {
     "id": "1750",
@@ -1802,7 +1868,8 @@
       "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_179-2x.jpg",
       "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_180-2x.jpg"
     ],
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": "64|179|180"
   },
   {
     "id": "1751",
@@ -1832,7 +1899,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_65-2x.jpg",
     "ename": "Espeon VMAX",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 65
   },
   {
     "id": "823",
@@ -1858,7 +1926,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_66-2x.jpg",
     "ename": "Wobbuffet",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 66
   },
   {
     "id": "1755",
@@ -1884,7 +1953,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_67-2x.jpg",
     "ename": "Sableye",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 67
   },
   {
     "id": "417",
@@ -1910,7 +1980,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_68-2x.jpg",
     "ename": "Woobat",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 68
   },
   {
     "id": "418",
@@ -1932,7 +2003,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_69-2x.jpg",
     "ename": "Swoobat",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 69
   },
   {
     "id": "825",
@@ -1966,7 +2038,8 @@
       "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_181-2x.jpg",
       "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_182-2x.jpg"
     ],
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": "70|181|182"
   },
   {
     "id": "638",
@@ -1988,7 +2061,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_71-2x.jpg",
     "ename": "Flabébé",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 71
   },
   {
     "id": "639",
@@ -2014,7 +2088,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_72-2x.jpg",
     "ename": "Floette",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 72
   },
   {
     "id": "640",
@@ -2040,7 +2115,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_73-2x.jpg",
     "ename": "Florges",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 73
   },
   {
     "id": "641",
@@ -2075,7 +2151,8 @@
       "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_183-2x.jpg",
       "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_184-2x.jpg"
     ],
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": "74|TG 14|183|184"
   },
   {
     "id": "642",
@@ -2108,9 +2185,10 @@
     "artList": [
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_TG15_R_EN.png",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_212_R_EN.png",
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_211_R_EN_XS.png"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_211_R_EN.png"
     ],
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": "75|TG 15|212|211"
   },
   {
     "id": "826",
@@ -2136,7 +2214,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_76-2x.jpg",
     "ename": "Pumpkaboo",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 76
   },
   {
     "id": "827",
@@ -2158,7 +2237,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_77-2x.jpg",
     "ename": "Gourgeist",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 77
   },
   {
     "id": "1762",
@@ -2180,7 +2260,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_78-2x.jpg",
     "ename": "Cutiefly",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 78
   },
   {
     "id": "1763",
@@ -2202,7 +2283,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_79-2x.jpg",
     "ename": "Ribombee",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 79
   },
   {
     "id": "645",
@@ -2228,7 +2310,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_80-2x.jpg",
     "ename": "Marshadow",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 80
   },
   {
     "id": "828",
@@ -2254,7 +2337,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_81-2x.jpg",
     "ename": "Hitmonchan",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 81
   },
   {
     "id": "829",
@@ -2280,7 +2364,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_82-2x.jpg",
     "ename": "Galarian Zapdos",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 82
   },
   {
     "id": "913",
@@ -2310,7 +2395,8 @@
       "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_185-2x.jpg",
       "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_186-2x.jpg"
     ],
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": "83|185|186"
   },
   {
     "id": "708",
@@ -2336,7 +2422,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_84-2x.jpg",
     "ename": "Hippopotas",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 84
   },
   {
     "id": "709",
@@ -2362,7 +2449,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_85-2x.jpg",
     "ename": "Hippowdon",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 85
   },
   {
     "id": "429",
@@ -2388,7 +2476,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_86-2x.jpg",
     "ename": "Roggenrola",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 86
   },
   {
     "id": "430",
@@ -2414,7 +2503,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_87-2x.jpg",
     "ename": "Boldore",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 87
   },
   {
     "id": "431",
@@ -2440,7 +2530,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_88-2x.jpg",
     "ename": "Gigalith",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 88
   },
   {
     "id": "1770",
@@ -2466,7 +2557,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_89-2x.jpg",
     "ename": "Palpitoad",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 89
   },
   {
     "id": "1771",
@@ -2492,7 +2584,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_90-2x.jpg",
     "ename": "Seismitoad",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 90
   },
   {
     "id": "834",
@@ -2525,7 +2618,8 @@
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_187-2x.jpg"
     ],
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": "91|187"
   },
   {
     "id": "835",
@@ -2558,7 +2652,8 @@
     "artList": [
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_213_R_EN.png"
     ],
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": "92|213"
   },
   {
     "id": "836",
@@ -2584,7 +2679,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_93-2x.jpg",
     "ename": "Galarian Moltres",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 93
   },
   {
     "id": "648",
@@ -2619,7 +2715,8 @@
       "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_188-2x.jpg",
       "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_189-2x.jpg"
     ],
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": "94|TG 22|188|189"
   },
   {
     "id": "649",
@@ -2654,7 +2751,8 @@
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_215_R_EN.png",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_214_R_EN.png"
     ],
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": "95|TG 23|215|214"
   },
   {
     "id": "787",
@@ -2676,7 +2774,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_96-2x.jpg",
     "ename": "Nuzleaf",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 96
   },
   {
     "id": "788",
@@ -2702,7 +2801,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_97-2x.jpg",
     "ename": "Shiftry",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 97
   },
   {
     "id": "444",
@@ -2724,7 +2824,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_98-2x.jpg",
     "ename": "Scraggy",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 98
   },
   {
     "id": "445",
@@ -2750,7 +2851,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_99-2x.jpg",
     "ename": "Scrafty",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 99
   },
   {
     "id": "840",
@@ -2783,7 +2885,8 @@
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_190-2x.jpg"
     ],
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": "100|190"
   },
   {
     "id": "841",
@@ -2816,7 +2919,8 @@
     "artList": [
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_216_R_EN.png"
     ],
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": "101|216"
   },
   {
     "id": "650",
@@ -2838,7 +2942,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_102-2x.jpg",
     "ename": "Zorua",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 102
   },
   {
     "id": "651",
@@ -2864,7 +2969,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_103-2x.jpg",
     "ename": "Zoroark",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 103
   },
   {
     "id": "842",
@@ -2886,7 +2992,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_104-2x.jpg",
     "ename": "Nickit",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 104
   },
   {
     "id": "843",
@@ -2912,7 +3019,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_105-2x.jpg",
     "ename": "Thievul",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 105
   },
   {
     "id": "850",
@@ -2941,7 +3049,8 @@
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_19-2x.jpg"
     ],
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": "106|GG 19"
   },
   {
     "id": "920",
@@ -2967,7 +3076,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_107-2x.jpg",
     "ename": "Bagon",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 107
   },
   {
     "id": "921",
@@ -2989,7 +3099,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_108-2x.jpg",
     "ename": "Shelgon",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 108
   },
   {
     "id": "922",
@@ -3015,7 +3126,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_109-2x.jpg",
     "ename": "Salamence",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 109
   },
   {
     "id": "923",
@@ -3049,7 +3161,8 @@
       "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_193-2x.jpg",
       "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_194-2x.jpg"
     ],
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": "110|193|194"
   },
   {
     "id": "924",
@@ -3085,7 +3198,8 @@
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_217_R_EN.png",
       "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_29-2x.jpg"
     ],
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": "111|TG 20|218|217|TG 29"
   },
   {
     "id": "851",
@@ -3111,7 +3225,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_112-2x.jpg",
     "ename": "Dialga",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 112
   },
   {
     "id": "852",
@@ -3137,7 +3252,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_113-2x.jpg",
     "ename": "Deino",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 113
   },
   {
     "id": "853",
@@ -3163,7 +3279,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_114-2x.jpg",
     "ename": "Zweilous",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 114
   },
   {
     "id": "854",
@@ -3189,7 +3306,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_115-2x.jpg",
     "ename": "Hydreigon",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 115
   },
   {
     "id": "855",
@@ -3211,7 +3329,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_116-2x.jpg",
     "ename": "Kyurem",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 116
   },
   {
     "id": "856",
@@ -3245,7 +3364,8 @@
       "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_195-2x.jpg",
       "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_196-2x.jpg"
     ],
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": "117|195|196"
   },
   {
     "id": "925",
@@ -3271,7 +3391,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_118-2x.jpg",
     "ename": "Zygarde",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 118
   },
   {
     "id": "857",
@@ -3297,7 +3418,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_119-2x.jpg",
     "ename": "Drampa",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 119
   },
   {
     "id": "927",
@@ -3323,7 +3445,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_120-2x.jpg",
     "ename": "Flapple",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 120
   },
   {
     "id": "928",
@@ -3349,7 +3472,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_121-2x.jpg",
     "ename": "Appletun",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 121
   },
   {
     "id": "858",
@@ -3383,7 +3507,8 @@
       "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_197-2x.jpg",
       "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_198-2x.jpg"
     ],
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": "122|197|198"
   },
   {
     "id": "859",
@@ -3419,7 +3544,8 @@
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_219_R_EN.png",
       "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_30-2x.jpg"
     ],
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": "123|TG 21|220|219|TG 30"
   },
   {
     "id": "929",
@@ -3445,7 +3571,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_124-2x.jpg",
     "ename": "Regidrago",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 124
   },
   {
     "id": "659",
@@ -3474,7 +3601,8 @@
     "artList": [
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_TG11_R_EN.png"
     ],
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": "125|TG 11"
   },
   {
     "id": "1795",
@@ -3496,7 +3624,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_126-2x.jpg",
     "ename": "Teddiursa",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 126
   },
   {
     "id": "1796",
@@ -3522,7 +3651,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_127-2x.jpg",
     "ename": "Ursaring",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 127
   },
   {
     "id": "1797",
@@ -3544,7 +3674,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_128-2x.jpg",
     "ename": "Smeargle",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 128
   },
   {
     "id": "860",
@@ -3566,7 +3697,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_129-2x.jpg",
     "ename": "Slakoth",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 129
   },
   {
     "id": "861",
@@ -3592,7 +3724,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_130-2x.jpg",
     "ename": "Vigoroth",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 130
   },
   {
     "id": "862",
@@ -3618,7 +3751,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_131-2x.jpg",
     "ename": "Slaking",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 131
   },
   {
     "id": "863",
@@ -3643,7 +3777,8 @@
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_27-2x.jpg"
     ],
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": "132|GG 27"
   },
   {
     "id": "449",
@@ -3669,7 +3804,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_133-2x.jpg",
     "ename": "Lillipup",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 133
   },
   {
     "id": "450",
@@ -3695,7 +3831,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_134-2x.jpg",
     "ename": "Herdier",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 134
   },
   {
     "id": "451",
@@ -3721,7 +3858,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_135-2x.jpg",
     "ename": "Stoutland",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 135
   },
   {
     "id": "452",
@@ -3743,7 +3881,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_136-2x.jpg",
     "ename": "Rufflet",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 136
   },
   {
     "id": "453",
@@ -3769,7 +3908,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_137-2x.jpg",
     "ename": "Braviary",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 137
   },
   {
     "id": "795",
@@ -3795,7 +3935,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_138-2x.jpg",
     "ename": "Fletchling",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 138
   },
   {
     "id": "796",
@@ -3817,7 +3958,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_139-2x.jpg",
     "ename": "Fletchinder",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 139
   },
   {
     "id": "797",
@@ -3843,7 +3985,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_140-2x.jpg",
     "ename": "Talonflame",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 140
   },
   {
     "id": "876",
@@ -3866,7 +4009,8 @@
     "artList": [
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_230_R_EN.png"
     ],
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": "144|230"
   },
   {
     "id": "669",
@@ -3886,7 +4030,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_157-2x.jpg",
     "ename": "Shopping Center",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 157
   },
   {
     "id": "943",
@@ -3909,7 +4054,8 @@
     "artList": [
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_232_R_EN.png"
     ],
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": "161|232"
   },
   {
     "id": "667",
@@ -3933,7 +4079,8 @@
       "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_199-2x.jpg",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_221_R_EN.png"
     ],
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": "141|199|221"
   },
   {
     "id": "875",
@@ -3957,7 +4104,8 @@
       "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_200-2x.jpg",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_222_R_EN.png"
     ],
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": "143|200|222"
   },
   {
     "id": "668",
@@ -3982,7 +4130,8 @@
       "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_201-2x.jpg",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_223_R_EN.png"
     ],
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": "149|TG 24|201|223"
   },
   {
     "id": "873",
@@ -4012,7 +4161,8 @@
       "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_202-2x.jpg",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_224_R_EN.png"
     ],
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": "152|GG 65|TG 27|202|224"
   },
   {
     "id": "942",
@@ -4040,7 +4190,8 @@
       "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_203-2x.jpg",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_225_R_EN.png"
     ],
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": "164|203|225"
   },
   {
     "id": "870",
@@ -4064,7 +4215,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_145-2x.jpg",
     "ename": "Digging Gloves",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 145
   },
   {
     "id": "663",
@@ -4088,7 +4240,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_147-2x.jpg",
     "ename": "Elemental Badge",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 147
   },
   {
     "id": "872",
@@ -4115,7 +4268,8 @@
     "artList": [
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_231_R_EN.png"
     ],
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": "148|231"
   },
   {
     "id": "665",
@@ -4139,7 +4293,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_151-2x.jpg",
     "ename": "Moon & Sun Badge",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 151
   },
   {
     "id": "939",
@@ -4167,7 +4322,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_153-2x.jpg",
     "ename": "Rapid Strike Scroll of the Flying Dragon",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 153
   },
   {
     "id": "666",
@@ -4191,7 +4347,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_155-2x.jpg",
     "ename": "Ribbon Badge",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 155
   },
   {
     "id": "937",
@@ -4215,7 +4372,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_156-2x.jpg",
     "ename": "Rubber Gloves",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 156
   },
   {
     "id": "871",
@@ -4243,7 +4401,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_158-2x.jpg",
     "ename": "Single Strike Scroll of the Fanged Dragon",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 158
   },
   {
     "id": "664",
@@ -4267,7 +4426,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_159-2x.jpg",
     "ename": "Snow Leaf Badge",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 159
   },
   {
     "id": "938",
@@ -4291,7 +4451,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_160-2x.jpg",
     "ename": "Spirit Mask",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 160
   },
   {
     "id": "661",
@@ -4318,7 +4479,8 @@
     "artList": [
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_229_R_EN.png"
     ],
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": "142|229"
   },
   {
     "id": "662",
@@ -4342,7 +4504,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_146-2x.jpg",
     "ename": "Dream Ball",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 146
   },
   {
     "id": "933",
@@ -4362,7 +4525,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_150-2x.jpg",
     "ename": "Lucky Ice Pop",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 150
   },
   {
     "id": "869",
@@ -4382,7 +4546,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_154-2x.jpg",
     "ename": "Rescue Carrier",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 154
   },
   {
     "id": "868",
@@ -4402,7 +4567,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_162-2x.jpg",
     "ename": "Switching Cups",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 162
   },
   {
     "id": "935",
@@ -4425,7 +4591,8 @@
     "artList": [
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_233_R_EN.png"
     ],
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": 163
   },
   {
     "id": "670",
@@ -4445,6 +4612,7 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_165-2x.jpg",
     "ename": "Treasure Energy",
-    "series": "SS7"
+    "series": "SS7",
+    "cardNo": "165|233"
   }
 ]

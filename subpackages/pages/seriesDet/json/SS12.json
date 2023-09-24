@@ -19,7 +19,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_1-2x.jpg",
     "ename": "Venonat",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 1
   },
   {
     "id": "6739",
@@ -45,7 +46,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_2-2x.jpg",
     "ename": "Venomoth",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 2
   },
   {
     "id": "7043",
@@ -67,7 +69,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_3-2x.jpg",
     "ename": "Spinarak",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 3
   },
   {
     "id": "7044",
@@ -93,7 +96,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_4-2x.jpg",
     "ename": "Ariados",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 4
   },
   {
     "id": "6740",
@@ -115,7 +119,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_5-2x.jpg",
     "ename": "Sunkern",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 5
   },
   {
     "id": "6741",
@@ -137,7 +142,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_6-2x.jpg",
     "ename": "Sunflora",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 6
   },
   {
     "id": "6945",
@@ -171,7 +177,8 @@
       "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_170-2x.jpg",
       "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_13-2x.jpg"
     ],
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": "7|170|TG 13"
   },
   {
     "id": "6946",
@@ -205,7 +212,8 @@
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_196_R_EN.png",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_210_R_EN.png"
     ],
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": "8|196|210"
   },
   {
     "id": "6947",
@@ -231,7 +239,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_9-2x.jpg",
     "ename": "Petilil",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 9
   },
   {
     "id": "6948",
@@ -257,7 +266,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_10-2x.jpg",
     "ename": "Hisuian Lilligant",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 10
   },
   {
     "id": "6745",
@@ -279,7 +289,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_11-2x.jpg",
     "ename": "Foongus",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 11
   },
   {
     "id": "6746",
@@ -305,7 +316,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_12-2x.jpg",
     "ename": "Amoonguss",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 12
   },
   {
     "id": "6747",
@@ -331,7 +343,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_13-2x.jpg",
     "ename": "Durant",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 13
   },
   {
     "id": "7045",
@@ -357,7 +370,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_14-2x.jpg",
     "ename": "Virizion",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 14
   },
   {
     "id": "7046",
@@ -390,7 +404,8 @@
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_171-2x.jpg"
     ],
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": "15|171"
   },
   {
     "id": "6949",
@@ -420,7 +435,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_16-2x.jpg",
     "ename": "Radiant Tsareena",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 16
   },
   {
     "id": "6750",
@@ -442,7 +458,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_17-2x.jpg",
     "ename": "Vulpix",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 17
   },
   {
     "id": "6751",
@@ -468,7 +485,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_18-2x.jpg",
     "ename": "Ninetales",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 18
   },
   {
     "id": "6952",
@@ -494,7 +512,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_19-2x.jpg",
     "ename": "Growlithe",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 19
   },
   {
     "id": "6953",
@@ -520,7 +539,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_20-2x.jpg",
     "ename": "Arcanine",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 20
   },
   {
     "id": "7047",
@@ -542,7 +562,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_21-2x.jpg",
     "ename": "Ponyta",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 21
   },
   {
     "id": "7048",
@@ -568,7 +589,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_22-2x.jpg",
     "ename": "Rapidash",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 22
   },
   {
     "id": "7049",
@@ -594,7 +616,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_23-2x.jpg",
     "ename": "Victini",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 23
   },
   {
     "id": "6955",
@@ -627,7 +650,8 @@
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_172-2x.jpg"
     ],
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": "24|172"
   },
   {
     "id": "6956",
@@ -653,7 +677,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_25-2x.jpg",
     "ename": "Fennekin",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 25
   },
   {
     "id": "6957",
@@ -682,7 +707,8 @@
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_1-2x.jpg"
     ],
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": "26|TG 01"
   },
   {
     "id": "6958",
@@ -708,7 +734,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_27-2x.jpg",
     "ename": "Delphox",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 27
   },
   {
     "id": "6755",
@@ -730,7 +757,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_28-2x.jpg",
     "ename": "Fletchinder",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 28
   },
   {
     "id": "6756",
@@ -756,7 +784,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_29-2x.jpg",
     "ename": "Talonflame",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 29
   },
   {
     "id": "7052",
@@ -782,7 +811,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_30-2x.jpg",
     "ename": "Litten",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 30
   },
   {
     "id": "7053",
@@ -808,7 +838,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_31-2x.jpg",
     "ename": "Torracat",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 31
   },
   {
     "id": "7054",
@@ -834,7 +865,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_32-2x.jpg",
     "ename": "Incineroar",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 32
   },
   {
     "id": "6962",
@@ -867,7 +899,8 @@
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_173-2x.jpg"
     ],
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": "33|173"
   },
   {
     "id": "6963",
@@ -900,7 +933,8 @@
     "artList": [
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_197_R_EN.png"
     ],
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": "34|197"
   },
   {
     "id": "7055",
@@ -933,7 +967,8 @@
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_174-2x.jpg"
     ],
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": "35|174"
   },
   {
     "id": "6964",
@@ -959,7 +994,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_36-2x.jpg",
     "ename": "Articuno",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 36
   },
   {
     "id": "6762",
@@ -985,7 +1021,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_37-2x.jpg",
     "ename": "Wailmer",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 37
   },
   {
     "id": "6763",
@@ -1011,7 +1048,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_38-2x.jpg",
     "ename": "Wailord",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 38
   },
   {
     "id": "6967",
@@ -1037,7 +1075,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_39-2x.jpg",
     "ename": "Feebas",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 39
   },
   {
     "id": "6968",
@@ -1066,7 +1105,8 @@
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_2-2x.jpg"
     ],
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": "40|TG 02"
   },
   {
     "id": "7056",
@@ -1092,7 +1132,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_41-2x.jpg",
     "ename": "Snorunt",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 41
   },
   {
     "id": "7057",
@@ -1118,7 +1159,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_42-2x.jpg",
     "ename": "Glalie",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 42
   },
   {
     "id": "7058",
@@ -1144,7 +1186,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_43-2x.jpg",
     "ename": "Froslass",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 43
   },
   {
     "id": "7059",
@@ -1170,7 +1213,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_44-2x.jpg",
     "ename": "Relicanth",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 44
   },
   {
     "id": "6377",
@@ -1196,7 +1240,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_45-2x.jpg",
     "ename": "Phione",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 45
   },
   {
     "id": "7060",
@@ -1222,7 +1267,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_46-2x.jpg",
     "ename": "Keldeo",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 46
   },
   {
     "id": "6768",
@@ -1244,7 +1290,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_47-2x.jpg",
     "ename": "Dewpider",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 47
   },
   {
     "id": "6769",
@@ -1270,7 +1317,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_48-2x.jpg",
     "ename": "Araquanid",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 48
   },
   {
     "id": "7061",
@@ -1292,7 +1340,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_49-2x.jpg",
     "ename": "Pikachu",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 49
   },
   {
     "id": "7062",
@@ -1318,7 +1367,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_50-2x.jpg",
     "ename": "Raichu",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 50
   },
   {
     "id": "6772",
@@ -1344,7 +1394,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_51-2x.jpg",
     "ename": "Chinchou",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 51
   },
   {
     "id": "6773",
@@ -1370,7 +1421,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_52-2x.jpg",
     "ename": "Lanturn",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 52
   },
   {
     "id": "7168",
@@ -1396,7 +1448,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_53-2x.jpg",
     "ename": "Rotom",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 53
   },
   {
     "id": "6775",
@@ -1422,7 +1475,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_54-2x.jpg",
     "ename": "Emolga",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 54
   },
   {
     "id": "7066",
@@ -1448,7 +1502,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_55-2x.jpg",
     "ename": "Stunfisk",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 55
   },
   {
     "id": "7069",
@@ -1474,7 +1529,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_56-2x.jpg",
     "ename": "Zeraora",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 56
   },
   {
     "id": "7070",
@@ -1507,7 +1563,8 @@
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_175-2x.jpg"
     ],
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": "57|175"
   },
   {
     "id": "7071",
@@ -1540,7 +1597,8 @@
     "artList": [
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_198_R_EN.png"
     ],
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": "58|198"
   },
   {
     "id": "6971",
@@ -1570,7 +1628,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_59-2x.jpg",
     "ename": "Radiant Alakazam",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 59
   },
   {
     "id": "6779",
@@ -1596,7 +1655,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_60-2x.jpg",
     "ename": "Drowzee",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 60
   },
   {
     "id": "6780",
@@ -1622,7 +1682,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_61-2x.jpg",
     "ename": "Hypno",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 61
   },
   {
     "id": "6974",
@@ -1651,7 +1712,8 @@
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_4-2x.jpg"
     ],
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": "62|TG 04"
   },
   {
     "id": "6391",
@@ -1673,7 +1735,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_63-2x.jpg",
     "ename": "Misdreavus",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 63
   },
   {
     "id": "6392",
@@ -1699,7 +1762,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_64-2x.jpg",
     "ename": "Mismagius",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 64
   },
   {
     "id": "7072",
@@ -1733,7 +1797,8 @@
       "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_176-2x.jpg",
       "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_177-2x.jpg"
     ],
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": "65|176|177"
   },
   {
     "id": "7073",
@@ -1766,7 +1831,8 @@
     "artList": [
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_199_R_EN.png"
     ],
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": "66|199"
   },
   {
     "id": "6976",
@@ -1788,7 +1854,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_67-2x.jpg",
     "ename": "Ralts",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 67
   },
   {
     "id": "6977",
@@ -1814,7 +1881,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_68-2x.jpg",
     "ename": "Kirlia",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 68
   },
   {
     "id": "6978",
@@ -1843,7 +1911,8 @@
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_5-2x.jpg"
     ],
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": "69|TG 05"
   },
   {
     "id": "6979",
@@ -1877,7 +1946,8 @@
       "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_178-2x.jpg",
       "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_17-2x.jpg"
     ],
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": "70|178|TG 17"
   },
   {
     "id": "6980",
@@ -1910,7 +1980,8 @@
     "artList": [
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_200_R_EN.png"
     ],
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": "71|200"
   },
   {
     "id": "7074",
@@ -1936,7 +2007,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_72-2x.jpg",
     "ename": "Meditite",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 72
   },
   {
     "id": "7075",
@@ -1962,7 +2034,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_73-2x.jpg",
     "ename": "Medicham",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 73
   },
   {
     "id": "6394",
@@ -1988,7 +2061,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_74-2x.jpg",
     "ename": "Chimecho",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 74
   },
   {
     "id": "7076",
@@ -2014,7 +2088,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_75-2x.jpg",
     "ename": "Sigilyph",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 75
   },
   {
     "id": "7077",
@@ -2036,7 +2111,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_76-2x.jpg",
     "ename": "Solosis",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 76
   },
   {
     "id": "7078",
@@ -2058,7 +2134,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_77-2x.jpg",
     "ename": "Duosion",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 77
   },
   {
     "id": "7079",
@@ -2084,7 +2161,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_78-2x.jpg",
     "ename": "Reuniclus",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 78
   },
   {
     "id": "7080",
@@ -2106,7 +2184,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_79-2x.jpg",
     "ename": "Elgyem",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 79
   },
   {
     "id": "7081",
@@ -2132,7 +2211,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_80-2x.jpg",
     "ename": "Beheeyem",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 80
   },
   {
     "id": "6981",
@@ -2158,7 +2238,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_81-2x.jpg",
     "ename": "Espurr",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 81
   },
   {
     "id": "6982",
@@ -2184,7 +2265,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_82-2x.jpg",
     "ename": "Meowstic",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 82
   },
   {
     "id": "7193",
@@ -2210,7 +2292,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_83-2x.jpg",
     "ename": "Swirlix",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 83
   },
   {
     "id": "7194",
@@ -2236,7 +2319,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_84-2x.jpg",
     "ename": "Slurpuff",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 84
   },
   {
     "id": "7082",
@@ -2262,7 +2346,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_85-2x.jpg",
     "ename": "Dedenne",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 85
   },
   {
     "id": "6788",
@@ -2288,7 +2373,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_86-2x.jpg",
     "ename": "Indeedee",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 86
   },
   {
     "id": "6789",
@@ -2310,7 +2396,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_87-2x.jpg",
     "ename": "Dreepy",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 87
   },
   {
     "id": "6790",
@@ -2332,7 +2419,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_88-2x.jpg",
     "ename": "Drakloak",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 88
   },
   {
     "id": "6791",
@@ -2358,7 +2446,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_89-2x.jpg",
     "ename": "Dragapult",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 89
   },
   {
     "id": "7083",
@@ -2391,7 +2480,8 @@
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_179-2x.jpg"
     ],
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": "90|179"
   },
   {
     "id": "6795",
@@ -2413,7 +2503,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_91-2x.jpg",
     "ename": "Phanpy",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 91
   },
   {
     "id": "6796",
@@ -2439,7 +2530,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_92-2x.jpg",
     "ename": "Donphan",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 92
   },
   {
     "id": "7084",
@@ -2465,7 +2557,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_93-2x.jpg",
     "ename": "Baltoy",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 93
   },
   {
     "id": "7085",
@@ -2491,7 +2584,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_94-2x.jpg",
     "ename": "Claydol",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 94
   },
   {
     "id": "7086",
@@ -2513,7 +2607,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_95-2x.jpg",
     "ename": "Anorith",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 95
   },
   {
     "id": "7087",
@@ -2539,7 +2634,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_96-2x.jpg",
     "ename": "Armaldo",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 96
   },
   {
     "id": "7088",
@@ -2561,7 +2657,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_97-2x.jpg",
     "ename": "Terrakion",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 97
   },
   {
     "id": "6799",
@@ -2587,7 +2684,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_98-2x.jpg",
     "ename": "Hawlucha",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 98
   },
   {
     "id": "6800",
@@ -2609,7 +2707,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_99-2x.jpg",
     "ename": "Sandygast",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 99
   },
   {
     "id": "6801",
@@ -2635,7 +2734,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_100-2x.jpg",
     "ename": "Palossand",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 100
   },
   {
     "id": "7092",
@@ -2661,7 +2761,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_101-2x.jpg",
     "ename": "Stonjourner",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 101
   },
   {
     "id": "6925",
@@ -2687,7 +2788,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_102-2x.jpg",
     "ename": "Ursaluna V",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 102
   },
   {
     "id": "6407",
@@ -2709,7 +2811,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_103-2x.jpg",
     "ename": "Zubat",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 103
   },
   {
     "id": "6408",
@@ -2731,7 +2834,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_104-2x.jpg",
     "ename": "Golbat",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 104
   },
   {
     "id": "6409",
@@ -2757,7 +2861,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_105-2x.jpg",
     "ename": "Crobat",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 105
   },
   {
     "id": "6410",
@@ -2783,7 +2888,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_106-2x.jpg",
     "ename": "Murkrow",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 106
   },
   {
     "id": "6411",
@@ -2809,7 +2915,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_107-2x.jpg",
     "ename": "Honchkrow",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 107
   },
   {
     "id": "7093",
@@ -2843,7 +2950,8 @@
       "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_180-2x.jpg",
       "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_181-2x.jpg"
     ],
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": "108|180|181"
   },
   {
     "id": "6414",
@@ -2865,7 +2973,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_109-2x.jpg",
     "ename": "Croagunk",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 109
   },
   {
     "id": "6415",
@@ -2891,7 +3000,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_110-2x.jpg",
     "ename": "Toxicroak",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 110
   },
   {
     "id": "6805",
@@ -2913,7 +3023,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_111-2x.jpg",
     "ename": "Sandile",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 111
   },
   {
     "id": "6806",
@@ -2935,7 +3046,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_112-2x.jpg",
     "ename": "Krokorok",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 112
   },
   {
     "id": "6807",
@@ -2961,7 +3073,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_113-2x.jpg",
     "ename": "Krookodile",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 113
   },
   {
     "id": "6808",
@@ -2983,7 +3096,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_114-2x.jpg",
     "ename": "Mareanie",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 114
   },
   {
     "id": "6809",
@@ -3009,7 +3123,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_115-2x.jpg",
     "ename": "Toxapex",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 115
   },
   {
     "id": "7099",
@@ -3031,7 +3146,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_116-2x.jpg",
     "ename": "Morpeko",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 116
   },
   {
     "id": "6810",
@@ -3057,7 +3173,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_117-2x.jpg",
     "ename": "Beldum",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 117
   },
   {
     "id": "6811",
@@ -3079,7 +3196,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_118-2x.jpg",
     "ename": "Metang",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 118
   },
   {
     "id": "6812",
@@ -3105,7 +3223,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_119-2x.jpg",
     "ename": "Metagross",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 119
   },
   {
     "id": "6985",
@@ -3135,7 +3254,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_120-2x.jpg",
     "ename": "Radiant Jirachi",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 120
   },
   {
     "id": "6813",
@@ -3161,7 +3281,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_121-2x.jpg",
     "ename": "Ferroseed",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 121
   },
   {
     "id": "6814",
@@ -3187,7 +3308,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_122-2x.jpg",
     "ename": "Ferrothorn",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 122
   },
   {
     "id": "6986",
@@ -3209,7 +3331,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_123-2x.jpg",
     "ename": "Klink",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 123
   },
   {
     "id": "6987",
@@ -3231,7 +3354,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_124-2x.jpg",
     "ename": "Klang",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 124
   },
   {
     "id": "6988",
@@ -3257,7 +3381,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_125-2x.jpg",
     "ename": "Klinklang",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 125
   },
   {
     "id": "7105",
@@ -3283,7 +3408,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_126-2x.jpg",
     "ename": "Cobalion",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 126
   },
   {
     "id": "7106",
@@ -3305,7 +3431,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_127-2x.jpg",
     "ename": "Togedemaru",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 127
   },
   {
     "id": "6991",
@@ -3338,7 +3465,8 @@
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_182-2x.jpg"
     ],
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": "128|182"
   },
   {
     "id": "7107",
@@ -3360,7 +3488,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_129-2x.jpg",
     "ename": "Dratini",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 129
   },
   {
     "id": "7108",
@@ -3386,7 +3515,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_130-2x.jpg",
     "ename": "Dragonair",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 130
   },
   {
     "id": "7109",
@@ -3412,7 +3542,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_131-2x.jpg",
     "ename": "Dragonite",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 131
   },
   {
     "id": "7110",
@@ -3438,7 +3569,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_132-2x.jpg",
     "ename": "Noibat",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 132
   },
   {
     "id": "7111",
@@ -3464,7 +3596,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_133-2x.jpg",
     "ename": "Noivern",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 133
   },
   {
     "id": "7112",
@@ -3490,7 +3623,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_134-2x.jpg",
     "ename": "Zygarde",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 134
   },
   {
     "id": "7113",
@@ -3524,7 +3658,8 @@
       "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_183-2x.jpg",
       "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_184-2x.jpg"
     ],
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": "135|183|184"
   },
   {
     "id": "7114",
@@ -3557,7 +3692,8 @@
     "artList": [
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_201_R_EN.png"
     ],
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": "136|201"
   },
   {
     "id": "6994",
@@ -3586,7 +3722,8 @@
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_10-2x.jpg"
     ],
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": "137|TG 10"
   },
   {
     "id": "7116",
@@ -3620,7 +3757,8 @@
       "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_185-2x.jpg",
       "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_186-2x.jpg"
     ],
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": "138|185|186"
   },
   {
     "id": "7117",
@@ -3654,7 +3792,8 @@
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_202_R_EN.png",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_211_R_EN.png"
     ],
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": "139|202|211"
   },
   {
     "id": "6995",
@@ -3687,7 +3826,8 @@
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_187-2x.jpg"
     ],
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": "140|187"
   },
   {
     "id": "6823",
@@ -3709,7 +3849,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_141-2x.jpg",
     "ename": "Spinda",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 141
   },
   {
     "id": "6996",
@@ -3731,7 +3872,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_142-2x.jpg",
     "ename": "Swablu",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 142
   },
   {
     "id": "6997",
@@ -3760,7 +3902,8 @@
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_11-2x.jpg"
     ],
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": "143|TG 11"
   },
   {
     "id": "6824",
@@ -3782,7 +3925,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_144-2x.jpg",
     "ename": "Buneary",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 144
   },
   {
     "id": "6825",
@@ -3808,7 +3952,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_145-2x.jpg",
     "ename": "Lopunny",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 145
   },
   {
     "id": "7119",
@@ -3834,7 +3979,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_146-2x.jpg",
     "ename": "Archen",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 146
   },
   {
     "id": "7120",
@@ -3860,7 +4006,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_147-2x.jpg",
     "ename": "Archeops",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 147
   },
   {
     "id": "7121",
@@ -3882,7 +4029,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_148-2x.jpg",
     "ename": "Rufflet",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 148
   },
   {
     "id": "7122",
@@ -3908,7 +4056,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_149-2x.jpg",
     "ename": "Hisuian Braviary",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 149
   },
   {
     "id": "6827",
@@ -3930,7 +4079,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_150-2x.jpg",
     "ename": "Fletchling",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 150
   },
   {
     "id": "7134",
@@ -3950,7 +4100,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_161-2x.jpg",
     "ename": "Primordial Altar",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 161
   },
   {
     "id": "7131",
@@ -3978,7 +4129,8 @@
       "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_188-2x.jpg",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_203_R_EN.png"
     ],
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": "151|188|203"
   },
   {
     "id": "7132",
@@ -4002,7 +4154,8 @@
       "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_189-2x.jpg",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_204_R_EN.png"
     ],
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": "152|189|204"
   },
   {
     "id": "7005",
@@ -4026,7 +4179,8 @@
       "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_190-2x.jpg",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_205_R_EN.png"
     ],
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": "157|190|205"
   },
   {
     "id": "7133",
@@ -4050,7 +4204,8 @@
       "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_192-2x.jpg",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_206_R_EN.png"
     ],
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": "159|192|206"
   },
   {
     "id": "6927",
@@ -4070,7 +4225,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_162-2x.jpg",
     "ename": "Professor Laventon",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 162
   },
   {
     "id": "7004",
@@ -4102,7 +4258,8 @@
       "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_193-2x.jpg",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_207_R_EN.png"
     ],
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": "164|193|207"
   },
   {
     "id": "7006",
@@ -4126,7 +4283,8 @@
       "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_194-2x.jpg",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_208_R_EN.png"
     ],
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": "166|194|208"
   },
   {
     "id": "7130",
@@ -4150,7 +4308,8 @@
       "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_195-2x.jpg",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_209_R_EN.png"
     ],
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": "167|195|209"
   },
   {
     "id": "2070",
@@ -4173,7 +4332,8 @@
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_26-2x.jpg"
     ],
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": "SWSH 167|TG 26"
   },
   {
     "id": "7128",
@@ -4201,7 +4361,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_154-2x.jpg",
     "ename": "Earthen Seal Stone",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 154
   },
   {
     "id": "7129",
@@ -4229,7 +4390,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_156-2x.jpg",
     "ename": "Forest Seal Stone",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 156
   },
   {
     "id": "7002",
@@ -4253,7 +4415,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_155-2x.jpg",
     "ename": "Emergency Jelly",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 155
   },
   {
     "id": "7371",
@@ -4280,7 +4443,8 @@
     "artList": [
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_214_R_EN.png"
     ],
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": "160|214"
   },
   {
     "id": "7000",
@@ -4300,7 +4464,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_153-2x.jpg",
     "ename": "Capturing Aroma",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 153
   },
   {
     "id": "7126",
@@ -4328,7 +4493,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_163-2x.jpg",
     "ename": "Quad Stone",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 163
   },
   {
     "id": "7127",
@@ -4352,7 +4518,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_165-2x.jpg",
     "ename": "Unidentified Fossil",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 165
   },
   {
     "id": "7135",
@@ -4372,7 +4539,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_168-2x.jpg",
     "ename": "Regenerative Energy",
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": 168
   },
   {
     "id": "7008",
@@ -4395,6 +4563,7 @@
     "artList": [
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_215_R_EN.png"
     ],
-    "series": "SS12"
+    "series": "SS12",
+    "cardNo": "169|215"
   }
 ]

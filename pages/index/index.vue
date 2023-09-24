@@ -1,11 +1,14 @@
 <template>
+  <div class="useNo">标准环境<span class="em">{{ tipNowNo }}</span>标</div>
   <div class="hot">
     <div @click="copyTar('https://play.limitlesstcg.com/decks')">
       <image src="https://play.limitlesstcg.com/limitless.png" mode="heightFix" class="img"></image>
       卡组推荐网站 - Limitless
     </div>
   </div>
-  <div class="useNo">标准环境<span class="em">{{ tipNowNo }}</span>标</div>
+  <div class="deck">
+    <div class="bn" @click="isShowDeck = true">可导入Live或Limitless卡组代码</div>
+  </div>
   <div class="search">
     <input type="text" v-model="searchInp" placeholder="请输入卡名(支持简中、英文)" />
     <div class="bn" @click="goSearch">检索</div>
@@ -33,22 +36,32 @@
       </div>
     </div>
   </div>
+  <div class="popups" v-if="isShowDeck">
+    <div class="p-deck">
+      <textarea v-model="deckData" maxlength="-1" placeholder="请粘贴卡组代码"></textarea>
+      <div class="bn" @click="importDeck">确认</div>
+      <div class="bn can" @click="deckData = ''">清除</div>
+      <div class="bn can" @click="isShowDeck = false">关闭</div>
+    </div>
+  </div>
 </template>
 
 <script setup>
-  import seriesList from './series'
+  import seriesList from './json/series'
   import { ref } from 'vue'
   import { onLoad } from '@dcloudio/uni-app'
 
   const tipNowNo = ref('E/F/G');
   let searchInp = ref('');
+  let isShowDeck = ref(false);
+  let deckData = ref('');
 
   onLoad(options => {
     
   })
     
   const goSeries = (item) => {
-    if(item.no == ''){
+    if(item.code == ''){
       uni.showToast({
         title: '暂未发行',
         icon: 'none',
@@ -57,7 +70,7 @@
       return
     }
     uni.navigateTo({
-			url: `/subpackages/pages/seriesDet/index?no=${item.no}&sname=${encodeURIComponent(item.name)}`,
+			url: `/subpackages/pages/seriesDet/index?no=${item.no}&sname=${encodeURIComponent(item.name)}&code=${item.code}`,
 			success: res => {},
 			fail: () => {},
 			complete: () => {}
@@ -94,6 +107,17 @@
 			complete: () => {}
 		})
   }
+
+  const importDeck = () => {
+    uni.setStorageSync('tempDeck', JSON.stringify(deckData.value.split('\n')));
+    isShowDeck.value = false;
+    uni.navigateTo({
+			url: '/subpackages/pages/deck/index',
+			success: res => {},
+			fail: () => {},
+			complete: () => {}
+		})
+  }
 </script>
 
 <style scoped lang="scss">
@@ -107,7 +131,7 @@
     text-align: center;
   }
   .useNo{
-    padding: 10rpx 30rpx;
+    padding: 40rpx 30rpx 10rpx;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -117,6 +141,20 @@
       padding: 0 10rpx;
       background: #ce2a2c;
       color: #fff
+    }
+  }
+  .deck{
+    padding: 10rpx 30rpx;
+    .bn{
+      margin: 0 auto;
+      background: #eee;
+      width: 65%;
+      height: 60rpx;
+      line-height: 60rpx;
+      border: 1px solid #ccc;
+      border-radius: 10rpx;
+      font-size: 16px;
+      text-align: center;
     }
   }
   .search{
@@ -187,6 +225,35 @@
           }
         }
       }
+    }
+  }
+  .p-deck{
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    width: 90%;
+    textarea{
+      padding: 15rpx;
+      background: #fff;
+      width: 100%;
+      height: 900rpx;
+      border-radius: 10rpx;
+      font-size: 12px;
+      box-sizing: border-box;
+    }
+    .bn{
+      margin: 20rpx auto 0;
+      padding: 10rpx 0;
+      background: #4caf50;
+      width: 50%;
+      border-radius: 10rpx;
+      font-size: 28rpx;
+      color: #fff;
+      text-align: center;
+    }
+    .can{
+      background: #fff;
+      color: #000
     }
   }
 </style>

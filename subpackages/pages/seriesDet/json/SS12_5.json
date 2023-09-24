@@ -19,7 +19,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_1-2x.jpg",
     "ename": "Oddish",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 1
   },
   {
     "id": "7039",
@@ -41,7 +42,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_2-2x.jpg",
     "ename": "Gloom",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 2
   },
   {
     "id": "7040",
@@ -63,7 +65,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_3-2x.jpg",
     "ename": "Bellossom",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 3
   },
   {
     "id": "7041",
@@ -89,7 +92,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_4-2x.jpg",
     "ename": "Tangela",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 4
   },
   {
     "id": "7042",
@@ -115,7 +119,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_5-2x.jpg",
     "ename": "Tangrowth",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 5
   },
   {
     "id": "6941",
@@ -137,7 +142,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_6-2x.jpg",
     "ename": "Scyther",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 6
   },
   {
     "id": "6933",
@@ -159,7 +165,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_7-2x.jpg",
     "ename": "Sunkern",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 7
   },
   {
     "id": "6942",
@@ -185,7 +192,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_8-2x.jpg",
     "ename": "Yanma",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 8
   },
   {
     "id": "6943",
@@ -211,7 +219,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_9-2x.jpg",
     "ename": "Yanmega",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 9
   },
   {
     "id": "6921",
@@ -233,7 +242,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_10-2x.jpg",
     "ename": "Kricketot",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 10
   },
   {
     "id": "5545",
@@ -255,7 +265,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_11-2x.jpg",
     "ename": "Cherubi",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 11
   },
   {
     "id": "6944",
@@ -281,7 +292,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_12-2x.jpg",
     "ename": "Carnivine",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 12
   },
   {
     "id": "6229",
@@ -311,7 +323,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_13-2x.jpg",
     "ename": "Leafeon V",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 13
   },
   {
     "id": "7236",
@@ -344,7 +357,8 @@
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_35-2x.jpg"
     ],
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": "14|GG 35"
   },
   {
     "id": "5590",
@@ -370,7 +384,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_15-2x.jpg",
     "ename": "Grubbin",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 15
   },
   {
     "id": "6950",
@@ -396,7 +411,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_16-2x.jpg",
     "ename": "Zarude",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 16
   },
   {
     "id": "6951",
@@ -422,7 +438,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_17-2x.jpg",
     "ename": "Calyrex",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 17
   },
   {
     "id": "7451",
@@ -456,7 +473,8 @@
       "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_153-2x.jpg",
       "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_154-2x.jpg"
     ],
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": "18|153|154"
   },
   {
     "id": "7452",
@@ -489,7 +507,8 @@
     "artList": [
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_174_R_EN.png"
     ],
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": "19|174"
   },
   {
     "id": "7239",
@@ -519,7 +538,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_20-2x.jpg",
     "ename": "Radiant Charizard",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 20
   },
   {
     "id": "6954",
@@ -545,7 +565,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_21-2x.jpg",
     "ename": "Entei",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 21
   },
   {
     "id": "7244",
@@ -575,7 +596,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_22-2x.jpg",
     "ename": "Simisear V",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 22
   },
   {
     "id": "7245",
@@ -608,7 +630,8 @@
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_37-2x.jpg"
     ],
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": "23|GG 37"
   },
   {
     "id": "7050",
@@ -630,7 +653,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_24-2x.jpg",
     "ename": "Larvesta",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 24
   },
   {
     "id": "7051",
@@ -656,7 +680,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_25-2x.jpg",
     "ename": "Volcarona",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 25
   },
   {
     "id": "6959",
@@ -682,7 +707,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_26-2x.jpg",
     "ename": "Volcanion",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 26
   },
   {
     "id": "6960",
@@ -708,7 +734,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_27-2x.jpg",
     "ename": "Salandit",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 27
   },
   {
     "id": "6961",
@@ -734,7 +761,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_28-2x.jpg",
     "ename": "Salazzle",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 28
   },
   {
     "id": "6934",
@@ -760,7 +788,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_29-2x.jpg",
     "ename": "Seel",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 29
   },
   {
     "id": "5547",
@@ -786,7 +815,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_30-2x.jpg",
     "ename": "Galarian Mr. Mime",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 30
   },
   {
     "id": "6965",
@@ -812,7 +842,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_31-2x.jpg",
     "ename": "Wailmer",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 31
   },
   {
     "id": "6966",
@@ -838,7 +869,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_32-2x.jpg",
     "ename": "Wailord",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 32
   },
   {
     "id": "5624",
@@ -864,7 +896,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_33-2x.jpg",
     "ename": "Corphish",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 33
   },
   {
     "id": "5571",
@@ -886,7 +919,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_34-2x.jpg",
     "ename": "Snorunt",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 34
   },
   {
     "id": "6969",
@@ -912,7 +946,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_35-2x.jpg",
     "ename": "Luvdisc",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 35
   },
   {
     "id": "6970",
@@ -938,7 +973,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_36-2x.jpg",
     "ename": "Kyogre",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 36
   },
   {
     "id": "6935",
@@ -968,7 +1004,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_37-2x.jpg",
     "ename": "Kyogre V",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 37
   },
   {
     "id": "6231",
@@ -998,7 +1035,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_38-2x.jpg",
     "ename": "Glaceon V",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 38
   },
   {
     "id": "7537",
@@ -1028,7 +1066,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_40-2x.jpg",
     "ename": "Glaceon VSTAR",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": "GG 40"
   },
   {
     "id": "5769",
@@ -1050,7 +1089,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_39-2x.jpg",
     "ename": "Shinx",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 39
   },
   {
     "id": "7063",
@@ -1072,7 +1112,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_40-2x.jpg",
     "ename": "Shinx",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 40
   },
   {
     "id": "5770",
@@ -1098,7 +1139,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_41-2x.jpg",
     "ename": "Luxio",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 41
   },
   {
     "id": "7064",
@@ -1124,7 +1166,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_42-2x.jpg",
     "ename": "Luxio",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 42
   },
   {
     "id": "5771",
@@ -1150,7 +1193,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_43-2x.jpg",
     "ename": "Luxray",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 43
   },
   {
     "id": "7065",
@@ -1176,7 +1220,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_44-2x.jpg",
     "ename": "Luxray",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 44
   },
   {
     "id": "6774",
@@ -1210,7 +1255,8 @@
       "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_176-2x.jpg",
       "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_177-2x.jpg"
     ],
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": "45|176|177"
   },
   {
     "id": "6900",
@@ -1240,7 +1286,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_46-2x.jpg",
     "ename": "Rotom VSTAR",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 46
   },
   {
     "id": "5774",
@@ -1262,7 +1309,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_47-2x.jpg",
     "ename": "Emolga",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 47
   },
   {
     "id": "6936",
@@ -1288,7 +1336,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_48-2x.jpg",
     "ename": "Eelektrik",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 48
   },
   {
     "id": "7067",
@@ -1314,7 +1363,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_49-2x.jpg",
     "ename": "Helioptile",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 49
   },
   {
     "id": "7068",
@@ -1340,7 +1390,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_50-2x.jpg",
     "ename": "Heliolisk",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 50
   },
   {
     "id": "7263",
@@ -1370,7 +1421,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_51-2x.jpg",
     "ename": "Radiant Charjabug",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 51
   },
   {
     "id": "5781",
@@ -1392,7 +1444,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_52-2x.jpg",
     "ename": "Zeraora",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 52
   },
   {
     "id": "7264",
@@ -1422,7 +1475,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_53-2x.jpg",
     "ename": "Zeraora V",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 53
   },
   {
     "id": "7265",
@@ -1455,7 +1509,8 @@
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_42-2x.jpg"
     ],
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": "54|GG 42"
   },
   {
     "id": "7266",
@@ -1488,7 +1543,8 @@
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_43-2x.jpg"
     ],
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": "55|GG 43"
   },
   {
     "id": "6861",
@@ -1514,7 +1570,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_56-2x.jpg",
     "ename": "Pincurchin",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 56
   },
   {
     "id": "7483",
@@ -1536,7 +1593,8 @@
     ],
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_160_R_EN.png",
     "ename": "Pikachu",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 160
   },
   {
     "id": "6972",
@@ -1558,7 +1616,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_57-2x.jpg",
     "ename": "Exeggcute",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 57
   },
   {
     "id": "6973",
@@ -1584,7 +1643,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_58-2x.jpg",
     "ename": "Exeggutor",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 58
   },
   {
     "id": "6975",
@@ -1610,7 +1670,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_59-2x.jpg",
     "ename": "Mewtwo",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 59
   },
   {
     "id": "7277",
@@ -1645,7 +1706,8 @@
       "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_250-2x.jpg",
       "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_251-2x.jpg"
     ],
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": "60|250|251"
   },
   {
     "id": "7187",
@@ -1671,7 +1733,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_61-2x.jpg",
     "ename": "Girafarig",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 61
   },
   {
     "id": "7280",
@@ -1697,7 +1760,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_62-2x.jpg",
     "ename": "Lunatone",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 62
   },
   {
     "id": "5625",
@@ -1719,7 +1783,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_63-2x.jpg",
     "ename": "Dusclops",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 63
   },
   {
     "id": "6983",
@@ -1745,7 +1810,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_64-2x.jpg",
     "ename": "Tapu Lele",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 64
   },
   {
     "id": "7289",
@@ -1775,7 +1841,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_65-2x.jpg",
     "ename": "Hatterene V",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 65
   },
   {
     "id": "7290",
@@ -1808,7 +1875,8 @@
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_47-2x.jpg"
     ],
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": "66|GG 47"
   },
   {
     "id": "6937",
@@ -1834,7 +1902,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_67-2x.jpg",
     "ename": "Enamorus",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 67
   },
   {
     "id": "7542",
@@ -1864,7 +1933,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_45-2x.jpg",
     "ename": "Deoxys VMAX",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": "GG 45"
   },
   {
     "id": "7543",
@@ -1894,7 +1964,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_46-2x.jpg",
     "ename": "Deoxys VSTAR",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": "GG 46"
   },
   {
     "id": "5594",
@@ -1920,7 +1991,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_68-2x.jpg",
     "ename": "Graveler",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 68
   },
   {
     "id": "7298",
@@ -1949,7 +2021,8 @@
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_15-2x.jpg"
     ],
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": "69|GG 15"
   },
   {
     "id": "5579",
@@ -1971,7 +2044,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_70-2x.jpg",
     "ename": "Baltoy",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 70
   },
   {
     "id": "5626",
@@ -1996,7 +2070,8 @@
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_26-2x.jpg"
     ],
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": "71|GG 26"
   },
   {
     "id": "7089",
@@ -2018,7 +2093,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_72-2x.jpg",
     "ename": "Pancham",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 72
   },
   {
     "id": "7090",
@@ -2044,7 +2120,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_73-2x.jpg",
     "ename": "Rockruff",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 73
   },
   {
     "id": "7091",
@@ -2066,7 +2143,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_74-2x.jpg",
     "ename": "Lycanroc",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 74
   },
   {
     "id": "5574",
@@ -2088,7 +2166,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_75-2x.jpg",
     "ename": "Koffing",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 75
   },
   {
     "id": "7211",
@@ -2114,7 +2193,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_76-2x.jpg",
     "ename": "Absol",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 76
   },
   {
     "id": "7094",
@@ -2136,7 +2216,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_77-2x.jpg",
     "ename": "Purrloin",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 77
   },
   {
     "id": "7095",
@@ -2162,7 +2243,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_78-2x.jpg",
     "ename": "Liepard",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 78
   },
   {
     "id": "7096",
@@ -2188,7 +2270,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_80-2x.jpg",
     "ename": "Pangoro",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 80
   },
   {
     "id": "7097",
@@ -2214,7 +2297,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_81-2x.jpg",
     "ename": "Skrelp",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 81
   },
   {
     "id": "7098",
@@ -2240,7 +2324,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_82-2x.jpg",
     "ename": "Dragalge",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 82
   },
   {
     "id": "7100",
@@ -2262,7 +2347,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_84-2x.jpg",
     "ename": "Galarian Meowth",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 84
   },
   {
     "id": "7101",
@@ -2288,7 +2374,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_85-2x.jpg",
     "ename": "Galarian Perrserker",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 85
   },
   {
     "id": "6984",
@@ -2314,7 +2401,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_86-2x.jpg",
     "ename": "Scizor",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 86
   },
   {
     "id": "7102",
@@ -2340,7 +2428,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_87-2x.jpg",
     "ename": "Aron",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 87
   },
   {
     "id": "7103",
@@ -2366,7 +2455,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_88-2x.jpg",
     "ename": "Lairon",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 88
   },
   {
     "id": "7104",
@@ -2392,7 +2482,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_89-2x.jpg",
     "ename": "Aggron",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 89
   },
   {
     "id": "6938",
@@ -2414,7 +2505,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_90-2x.jpg",
     "ename": "Metang",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 90
   },
   {
     "id": "6926",
@@ -2436,7 +2528,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_91-2x.jpg",
     "ename": "Pawniard",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 91
   },
   {
     "id": "6989",
@@ -2458,7 +2551,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_92-2x.jpg",
     "ename": "Pawniard",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 92
   },
   {
     "id": "6990",
@@ -2484,7 +2578,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_93-2x.jpg",
     "ename": "Bisharp",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 93
   },
   {
     "id": "6992",
@@ -2510,7 +2605,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_94-2x.jpg",
     "ename": "Zacian",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 94
   },
   {
     "id": "6901",
@@ -2540,7 +2636,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_95-2x.jpg",
     "ename": "Zacian V",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 95
   },
   {
     "id": "6902",
@@ -2570,7 +2667,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_96-2x.jpg",
     "ename": "Zacian VSTAR",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 96
   },
   {
     "id": "6993",
@@ -2596,7 +2694,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_97-2x.jpg",
     "ename": "Zamazenta",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 97
   },
   {
     "id": "6902",
@@ -2630,7 +2729,8 @@
       "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_54-2x.jpg",
       "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_163-2x.jpg"
     ],
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": "98|GG 54|163"
   },
   {
     "id": "6904",
@@ -2660,7 +2760,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_99-2x.jpg",
     "ename": "Zamazenta VSTAR",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 99
   },
   {
     "id": "5942",
@@ -2694,7 +2795,8 @@
       "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_193-2x.jpg",
       "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_194-2x.jpg"
     ],
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": "100|193|194"
   },
   {
     "id": "5308",
@@ -2730,7 +2832,8 @@
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_217_R_EN.png",
       "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_29-2x.jpg"
     ],
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": "101|TG 20|218|217|TG 29"
   },
   {
     "id": "7466",
@@ -2766,7 +2869,8 @@
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_217_R_EN.png",
       "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_29-2x.jpg"
     ],
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": "102|TG 20|218|217|TG 29"
   },
   {
     "id": "5952",
@@ -2801,7 +2905,8 @@
       "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_197-2x.jpg",
       "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_198-2x.jpg"
     ],
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": "103|197|198"
   },
   {
     "id": "5311",
@@ -2837,7 +2942,8 @@
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_219_R_EN.png",
       "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_30-2x.jpg"
     ],
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": "104|TG 21|220|219|TG 30"
   },
   {
     "id": "7339",
@@ -2867,7 +2973,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_105-2x.jpg",
     "ename": "Radiant Eternatus",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 105
   },
   {
     "id": "7115",
@@ -2893,7 +3000,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_106-2x.jpg",
     "ename": "Tauros",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 106
   },
   {
     "id": "7341",
@@ -2918,7 +3026,8 @@
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_22-2x.jpg"
     ],
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": "107|GG 22"
   },
   {
     "id": "7015",
@@ -2948,7 +3057,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_108-2x.jpg",
     "ename": "Eevee V",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 108
   },
   {
     "id": "5969",
@@ -2970,7 +3080,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_109-2x.jpg",
     "ename": "Snorlax",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 109
   },
   {
     "id": "5628",
@@ -2992,7 +3103,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_110-2x.jpg",
     "ename": "Starly",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 110
   },
   {
     "id": "7345",
@@ -3021,7 +3133,8 @@
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_29-2x.jpg"
     ],
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": "111|GG 29"
   },
   {
     "id": "6998",
@@ -3047,7 +3160,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_112-2x.jpg",
     "ename": "Chatot",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 112
   },
   {
     "id": "7348",
@@ -3077,7 +3191,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_113-2x.jpg",
     "ename": "Regigigas V",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 113
   },
   {
     "id": "7349",
@@ -3110,7 +3225,8 @@
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_55-2x.jpg"
     ],
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": "114|GG 55"
   },
   {
     "id": "7118",
@@ -3136,7 +3252,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_115-2x.jpg",
     "ename": "Shaymin",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 115
   },
   {
     "id": "5977",
@@ -3166,7 +3283,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_116-2x.jpg",
     "ename": "Stoutland V",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 116
   },
   {
     "id": "7123",
@@ -3188,7 +3306,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_117-2x.jpg",
     "ename": "Yungoos",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 117
   },
   {
     "id": "7124",
@@ -3214,7 +3333,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_118-2x.jpg",
     "ename": "Gumshoos",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 118
   },
   {
     "id": "7125",
@@ -3240,7 +3360,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_119-2x.jpg",
     "ename": "Oranguru",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 119
   },
   {
     "id": "5987",
@@ -3274,7 +3395,8 @@
       "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_256-2x.jpg",
       "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_257-2x.jpg"
     ],
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": "120|256|257"
   },
   {
     "id": "7019",
@@ -3296,7 +3418,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_121-2x.jpg",
     "ename": "Wooloo",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 121
   },
   {
     "id": "7020",
@@ -3322,7 +3445,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_122-2x.jpg",
     "ename": "Dubwool",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 122
   },
   {
     "id": "6939",
@@ -3342,7 +3466,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_126-2x.jpg",
     "ename": "Digging Duo",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 126
   },
   {
     "id": "7384",
@@ -3365,7 +3490,8 @@
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_148-2x.jpg"
     ],
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": "130|148"
   },
   {
     "id": "7378",
@@ -3388,7 +3514,8 @@
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_149-2x.jpg"
     ],
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": "131|149"
   },
   {
     "id": "7136",
@@ -3418,7 +3545,8 @@
       "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_202-2x.jpg",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_224_R_EN.png"
     ],
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": "140|GG 65|TG 27|202|224"
   },
   {
     "id": "7370",
@@ -3446,7 +3574,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_143-2x.jpg",
     "ename": "Sky Seal Stone",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 143
   },
   {
     "id": "7154",
@@ -3466,7 +3595,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_125-2x.jpg",
     "ename": "Crushing Hammer",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 125
   },
   {
     "id": "7176",
@@ -3486,7 +3616,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_127-2x.jpg",
     "ename": "Energy Retrieval",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 127
   },
   {
     "id": "7021",
@@ -3506,7 +3637,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_128-2x.jpg",
     "ename": "Energy Search",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 128
   },
   {
     "id": "7153",
@@ -3529,7 +3661,8 @@
     "artList": [
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_212_R_EN.png"
     ],
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": "129|212"
   },
   {
     "id": "7177",
@@ -3549,7 +3682,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_132-2x.jpg",
     "ename": "Great Ball",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 132
   },
   {
     "id": "7368",
@@ -3576,7 +3710,8 @@
     "artList": [
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_217_R_EN.png"
     ],
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": "135|217"
   },
   {
     "id": "7027",
@@ -3596,7 +3731,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_137-2x.jpg",
     "ename": "Poké Ball",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 137
   },
   {
     "id": "7026",
@@ -3616,7 +3752,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_138-2x.jpg",
     "ename": "Pokémon Catcher",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 138
   },
   {
     "id": "7022",
@@ -3636,7 +3773,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_139-2x.jpg",
     "ename": "Potion",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 139
   },
   {
     "id": "6002",
@@ -3659,7 +3797,8 @@
     "artList": [
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_256_R_EN.png"
     ],
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": "141|256"
   },
   {
     "id": "7366",
@@ -3679,7 +3818,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_142-2x.jpg",
     "ename": "Rescue Carrier",
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": 142
   },
   {
     "id": "7025",
@@ -3702,7 +3842,8 @@
     "artList": [
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_206_R_EN.png"
     ],
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": "144|206"
   },
   {
     "id": "7361",
@@ -3725,7 +3866,8 @@
     "artList": [
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_215_R_EN.png"
     ],
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": "145|215"
   },
   {
     "id": "7362",
@@ -3752,6 +3894,7 @@
     "artList": [
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_186_R_EN.png"
     ],
-    "series": "SS12.5"
+    "series": "SS12.5",
+    "cardNo": "146|186"
   }
 ]

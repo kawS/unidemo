@@ -19,7 +19,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_1-2x.jpg",
     "ename": "Pineco",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 1
   },
   {
     "id": "7650",
@@ -45,7 +46,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_2-2x.jpg",
     "ename": "Heracross",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 2
   },
   {
     "id": "7750",
@@ -67,7 +69,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_3-2x.jpg",
     "ename": "Shroomish",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 3
   },
   {
     "id": "7751",
@@ -89,7 +92,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_4-2x.jpg",
     "ename": "Breloom",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 4
   },
   {
     "id": "7571",
@@ -115,7 +119,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_5-2x.jpg",
     "ename": "Cacnea",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 5
   },
   {
     "id": "7572",
@@ -141,7 +146,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_6-2x.jpg",
     "ename": "Cacturne",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 6
   },
   {
     "id": "7752",
@@ -167,7 +173,8 @@
     "typeEnergy": "Grass",
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_7-2x.jpg",
     "ename": "Tropius",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 7
   },
   {
     "id": "7651",
@@ -193,7 +200,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_8-2x.jpg",
     "ename": "Scatterbug",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 8
   },
   {
     "id": "7652",
@@ -219,7 +227,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_9-2x.jpg",
     "ename": "Spewpa",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 9
   },
   {
     "id": "7653",
@@ -245,7 +254,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_10-2x.jpg",
     "ename": "Vivillon",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 10
   },
   {
     "id": "7573",
@@ -271,7 +281,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_11-2x.jpg",
     "ename": "Skiddo",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 11
   },
   {
     "id": "7574",
@@ -297,7 +308,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_12-2x.jpg",
     "ename": "Gogoat",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 12
   },
   {
     "id": "7753",
@@ -323,7 +335,8 @@
     "typeEnergy": "Grass",
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_13-2x.jpg",
     "ename": "Sprigatito",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 13
   },
   {
     "id": "7754",
@@ -349,7 +362,8 @@
     "typeEnergy": "Grass",
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_14-2x.jpg",
     "ename": "Floragato",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 14
   },
   {
     "id": "7755",
@@ -375,7 +389,8 @@
     "typeEnergy": "Grass",
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_15-2x.jpg",
     "ename": "Meowscarada",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 15
   },
   {
     "id": "7756",
@@ -401,7 +416,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_16-2x.jpg",
     "ename": "Tarountula",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 16
   },
   {
     "id": "7654",
@@ -426,7 +442,8 @@
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_199-2x.jpg"
     ],
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": "17|199"
   },
   {
     "id": "7655",
@@ -448,7 +465,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_18-2x.jpg",
     "ename": "Tarountula",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 18
   },
   {
     "id": "7656",
@@ -482,7 +500,8 @@
       "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_223-2x.jpg",
       "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_243-2x.jpg"
     ],
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": "19|223|243"
   },
   {
     "id": "7575",
@@ -504,7 +523,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_20-2x.jpg",
     "ename": "Smoliv",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 20
   },
   {
     "id": "7576",
@@ -530,7 +550,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_21-2x.jpg",
     "ename": "Smoliv",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 21
   },
   {
     "id": "7577",
@@ -559,7 +580,8 @@
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_200-2x.jpg"
     ],
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": "22|200"
   },
   {
     "id": "7578",
@@ -585,7 +607,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_23-2x.jpg",
     "ename": "Arboliva",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 23
   },
   {
     "id": "7657",
@@ -610,7 +633,8 @@
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_201-2x.jpg"
     ],
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": "24|201"
   },
   {
     "id": "7658",
@@ -636,7 +660,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_25-2x.jpg",
     "ename": "Toedscool",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 25
   },
   {
     "id": "7659",
@@ -662,7 +687,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_26-2x.jpg",
     "ename": "Toedscruel",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 26
   },
   {
     "id": "7660",
@@ -684,7 +710,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_27-2x.jpg",
     "ename": "Capsakid",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 27
   },
   {
     "id": "7661",
@@ -710,7 +737,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_28-2x.jpg",
     "ename": "Capsakid",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 28
   },
   {
     "id": "7662",
@@ -739,7 +767,8 @@
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_202-2x.jpg"
     ],
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": "29|202"
   },
   {
     "id": "7727",
@@ -761,7 +790,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_30-2x.jpg",
     "ename": "Growlithe",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 30
   },
   {
     "id": "7663",
@@ -787,7 +817,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_31-2x.jpg",
     "ename": "Growlithe",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 31
   },
   {
     "id": "7664",
@@ -824,7 +855,8 @@
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_224-2x.jpg"
     ],
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": "32|224"
   },
   {
     "id": "7665",
@@ -850,7 +882,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_33-2x.jpg",
     "ename": "Houndour",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 33
   },
   {
     "id": "7666",
@@ -876,7 +909,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_34-2x.jpg",
     "ename": "Houndoom",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 34
   },
   {
     "id": "7579",
@@ -902,7 +936,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_35-2x.jpg",
     "ename": "Torkoal",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 35
   },
   {
     "id": "7728",
@@ -928,7 +963,8 @@
     "typeEnergy": "Fire",
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_36-2x.jpg",
     "ename": "Fuecoco",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 36
   },
   {
     "id": "7729",
@@ -954,7 +990,8 @@
     "typeEnergy": "Fire",
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_37-2x.jpg",
     "ename": "Crocalor",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 37
   },
   {
     "id": "7730",
@@ -980,7 +1017,8 @@
     "typeEnergy": "Fire",
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_38-2x.jpg",
     "ename": "Skeledirge",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 38
   },
   {
     "id": "7580",
@@ -1002,7 +1040,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_39-2x.jpg",
     "ename": "Charcadet",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 39
   },
   {
     "id": "7581",
@@ -1024,7 +1063,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_40-2x.jpg",
     "ename": "Charcadet",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 40
   },
   {
     "id": "7582",
@@ -1053,7 +1093,8 @@
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_203-2x.jpg"
     ],
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": "41|203"
   },
   {
     "id": "7667",
@@ -1082,7 +1123,8 @@
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_204-2x.jpg"
     ],
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": "42|204"
   },
   {
     "id": "7668",
@@ -1108,7 +1150,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_43-2x.jpg",
     "ename": "Slowbro",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 43
   },
   {
     "id": "7583",
@@ -1130,7 +1173,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_44-2x.jpg",
     "ename": "Magikarp",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 44
   },
   {
     "id": "7584",
@@ -1167,7 +1211,8 @@
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_225-2x.jpg"
     ],
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": "45|225"
   },
   {
     "id": "7585",
@@ -1193,7 +1238,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_46-2x.jpg",
     "ename": "Buizel",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 46
   },
   {
     "id": "7586",
@@ -1215,7 +1261,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_47-2x.jpg",
     "ename": "Floatzel",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 47
   },
   {
     "id": "7775",
@@ -1241,7 +1288,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_48-2x.jpg",
     "ename": "Alomomola",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 48
   },
   {
     "id": "7669",
@@ -1266,7 +1314,8 @@
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_205-2x.jpg"
     ],
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": "49|205"
   },
   {
     "id": "7670",
@@ -1292,7 +1341,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_50-2x.jpg",
     "ename": "Clawitzer",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 50
   },
   {
     "id": "7587",
@@ -1318,7 +1368,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_51-2x.jpg",
     "ename": "Bruxish",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 51
   },
   {
     "id": "7776",
@@ -1344,7 +1395,8 @@
     "typeEnergy": "Water",
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_52-2x.jpg",
     "ename": "Quaxly",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 52
   },
   {
     "id": "7777",
@@ -1370,7 +1422,8 @@
     "typeEnergy": "Water",
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_53-2x.jpg",
     "ename": "Quaxwell",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 53
   },
   {
     "id": "7778",
@@ -1396,7 +1449,8 @@
     "typeEnergy": "Water",
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_54-2x.jpg",
     "ename": "Quaquaval",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 54
   },
   {
     "id": "7588",
@@ -1421,7 +1475,8 @@
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_206-2x.jpg"
     ],
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": "55|206"
   },
   {
     "id": "7589",
@@ -1447,7 +1502,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_56-2x.jpg",
     "ename": "Wiglett",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 56
   },
   {
     "id": "7590",
@@ -1473,7 +1529,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_57-2x.jpg",
     "ename": "Wugtrio",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 57
   },
   {
     "id": "7671",
@@ -1495,7 +1552,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_58-2x.jpg",
     "ename": "Cetoddle",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 58
   },
   {
     "id": "7672",
@@ -1521,7 +1579,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_59-2x.jpg",
     "ename": "Cetoddle",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 59
   },
   {
     "id": "7673",
@@ -1547,7 +1606,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_60-2x.jpg",
     "ename": "Cetitan",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 60
   },
   {
     "id": "7591",
@@ -1576,7 +1636,8 @@
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_207-2x.jpg"
     ],
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": "61|207"
   },
   {
     "id": "7592",
@@ -1602,7 +1663,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_62-2x.jpg",
     "ename": "Tatsugiri",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 62
   },
   {
     "id": "7674",
@@ -1628,7 +1690,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_63-2x.jpg",
     "ename": "Magnemite",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 63
   },
   {
     "id": "7675",
@@ -1654,7 +1717,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_64-2x.jpg",
     "ename": "Magneton",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 64
   },
   {
     "id": "7676",
@@ -1687,7 +1751,8 @@
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_226-2x.jpg"
     ],
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": "65|226"
   },
   {
     "id": "7731",
@@ -1713,7 +1778,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_66-2x.jpg",
     "ename": "Mareep",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 66
   },
   {
     "id": "7732",
@@ -1739,7 +1805,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_67-2x.jpg",
     "ename": "Flaaffy",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 67
   },
   {
     "id": "7677",
@@ -1768,7 +1835,8 @@
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_208-2x.jpg"
     ],
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": "68|208"
   },
   {
     "id": "7734",
@@ -1790,7 +1858,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_69-2x.jpg",
     "ename": "Rotom",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 69
   },
   {
     "id": "7824",
@@ -1816,7 +1885,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_70-2x.jpg",
     "ename": "Rotom",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 70
   },
   {
     "id": "7679",
@@ -1838,7 +1908,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_71-2x.jpg",
     "ename": "Toxel",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 71
   },
   {
     "id": "7680",
@@ -1864,7 +1935,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_72-2x.jpg",
     "ename": "Toxtricity",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 72
   },
   {
     "id": "7681",
@@ -1886,7 +1958,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_73-2x.jpg",
     "ename": "Pawmi",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 73
   },
   {
     "id": "7682",
@@ -1912,7 +1985,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_74-2x.jpg",
     "ename": "Pawmi",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 74
   },
   {
     "id": "7683",
@@ -1938,7 +2012,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_75-2x.jpg",
     "ename": "Pawmo",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 75
   },
   {
     "id": "7684",
@@ -1967,7 +2042,8 @@
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_209-2x.jpg"
     ],
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": "76|209"
   },
   {
     "id": "7593",
@@ -1993,7 +2069,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_77-2x.jpg",
     "ename": "Wattrel",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 77
   },
   {
     "id": "7594",
@@ -2015,7 +2092,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_78-2x.jpg",
     "ename": "Wattrel",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 78
   },
   {
     "id": "7595",
@@ -2041,7 +2119,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_79-2x.jpg",
     "ename": "Kilowattrel",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 79
   },
   {
     "id": "7807",
@@ -2067,7 +2146,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_80-2x.jpg",
     "ename": "Miraidon",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 80
   },
   {
     "id": "7685",
@@ -2102,7 +2182,8 @@
       "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_244-2x.jpg",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_253_R_EN.png"
     ],
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": "81|227|244|253"
   },
   {
     "id": "7686",
@@ -2131,7 +2212,8 @@
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_210-2x.jpg"
     ],
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": "82|210"
   },
   {
     "id": "7687",
@@ -2157,7 +2239,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_83-2x.jpg",
     "ename": "Hypno",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 83
   },
   {
     "id": "7596",
@@ -2182,7 +2265,8 @@
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_211-2x.jpg"
     ],
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": "84|211"
   },
   {
     "id": "7597",
@@ -2211,7 +2295,8 @@
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_212-2x.jpg"
     ],
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": "85|212"
   },
   {
     "id": "7598",
@@ -2245,7 +2330,8 @@
       "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_228-2x.jpg",
       "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_245-2x.jpg"
     ],
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": "86|228|245"
   },
   {
     "id": "7688",
@@ -2267,7 +2353,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_87-2x.jpg",
     "ename": "Shuppet",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 87
   },
   {
     "id": "7689",
@@ -2300,7 +2387,8 @@
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_229-2x.jpg"
     ],
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": "88|229"
   },
   {
     "id": "7599",
@@ -2326,7 +2414,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_89-2x.jpg",
     "ename": "Drifloon",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 89
   },
   {
     "id": "7600",
@@ -2352,7 +2441,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_90-2x.jpg",
     "ename": "Drifblim",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 90
   },
   {
     "id": "7690",
@@ -2374,7 +2464,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_91-2x.jpg",
     "ename": "Flabébé",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 91
   },
   {
     "id": "7691",
@@ -2396,7 +2487,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_92-2x.jpg",
     "ename": "Floette",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 92
   },
   {
     "id": "7692",
@@ -2422,7 +2514,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_93-2x.jpg",
     "ename": "Florges",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 93
   },
   {
     "id": "7601",
@@ -2444,7 +2537,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_94-2x.jpg",
     "ename": "Dedenne",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 94
   },
   {
     "id": "7779",
@@ -2466,7 +2560,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_95-2x.jpg",
     "ename": "Dedenne",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 95
   },
   {
     "id": "7693",
@@ -2492,7 +2587,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_96-2x.jpg",
     "ename": "Klefki",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 96
   },
   {
     "id": "7602",
@@ -2514,7 +2610,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_97-2x.jpg",
     "ename": "Fidough",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 97
   },
   {
     "id": "7603",
@@ -2543,7 +2640,8 @@
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_213-2x.jpg"
     ],
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": "98|213"
   },
   {
     "id": "7604",
@@ -2569,7 +2667,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_99-2x.jpg",
     "ename": "Dachsbun",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 99
   },
   {
     "id": "7781",
@@ -2591,7 +2690,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_100-2x.jpg",
     "ename": "Flittle",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 100
   },
   {
     "id": "7605",
@@ -2613,7 +2713,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_101-2x.jpg",
     "ename": "Flittle",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 101
   },
   {
     "id": "7606",
@@ -2635,7 +2736,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_102-2x.jpg",
     "ename": "Flittle",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 102
   },
   {
     "id": "7607",
@@ -2661,7 +2763,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_103-2x.jpg",
     "ename": "Espathra",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 103
   },
   {
     "id": "7694",
@@ -2686,7 +2789,8 @@
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_214-2x.jpg"
     ],
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": "104|214"
   },
   {
     "id": "7695",
@@ -2712,7 +2816,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_105-2x.jpg",
     "ename": "Greavard",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 105
   },
   {
     "id": "7696",
@@ -2734,7 +2839,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_106-2x.jpg",
     "ename": "Houndstone",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 106
   },
   {
     "id": "7697",
@@ -2756,7 +2862,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_107-2x.jpg",
     "ename": "Mankey",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 107
   },
   {
     "id": "7698",
@@ -2778,7 +2885,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_108-2x.jpg",
     "ename": "Primeape",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 108
   },
   {
     "id": "7699",
@@ -2804,7 +2912,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_109-2x.jpg",
     "ename": "Annihilape",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 109
   },
   {
     "id": "7608",
@@ -2826,7 +2935,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_110-2x.jpg",
     "ename": "Meditite",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 110
   },
   {
     "id": "7609",
@@ -2852,7 +2962,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_111-2x.jpg",
     "ename": "Medicham",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 111
   },
   {
     "id": "7757",
@@ -2878,7 +2989,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_112-2x.jpg",
     "ename": "Riolu",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 112
   },
   {
     "id": "7610",
@@ -2907,7 +3019,8 @@
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_215-2x.jpg"
     ],
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": "113|215"
   },
   {
     "id": "7611",
@@ -2933,7 +3046,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_114-2x.jpg",
     "ename": "Lucario",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 114
   },
   {
     "id": "7612",
@@ -2962,7 +3076,8 @@
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_216-2x.jpg"
     ],
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": "115|216"
   },
   {
     "id": "7613",
@@ -2988,7 +3103,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_116-2x.jpg",
     "ename": "Krokorok",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 116
   },
   {
     "id": "7614",
@@ -3014,7 +3130,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_117-2x.jpg",
     "ename": "Krookodile",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 117
   },
   {
     "id": "7615",
@@ -3040,7 +3157,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_118-2x.jpg",
     "ename": "Hawlucha",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 118
   },
   {
     "id": "7616",
@@ -3062,7 +3180,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_119-2x.jpg",
     "ename": "Silicobra",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 119
   },
   {
     "id": "7617",
@@ -3088,7 +3207,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_120-2x.jpg",
     "ename": "Sandaconda",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 120
   },
   {
     "id": "7759",
@@ -3114,7 +3234,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_121-2x.jpg",
     "ename": "Stonjourner",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 121
   },
   {
     "id": "7618",
@@ -3143,7 +3264,8 @@
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_217-2x.jpg"
     ],
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": "122|217"
   },
   {
     "id": "7619",
@@ -3177,7 +3299,8 @@
       "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_230-2x.jpg",
       "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_246-2x.jpg"
     ],
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": "123|230|246"
   },
   {
     "id": "7809",
@@ -3203,7 +3326,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_124-2x.jpg",
     "ename": "Koraidon",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 124
   },
   {
     "id": "7620",
@@ -3238,7 +3362,8 @@
       "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_247-2x.jpg",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_254_R_EN.png"
     ],
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": "125|231|247|254"
   },
   {
     "id": "7621",
@@ -3260,7 +3385,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_126-2x.jpg",
     "ename": "Grimer",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 126
   },
   {
     "id": "7622",
@@ -3286,7 +3412,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_127-2x.jpg",
     "ename": "Muk",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 127
   },
   {
     "id": "7623",
@@ -3312,7 +3439,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_128-2x.jpg",
     "ename": "Seviper",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 128
   },
   {
     "id": "7700",
@@ -3338,7 +3466,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_129-2x.jpg",
     "ename": "Spiritomb",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 129
   },
   {
     "id": "7624",
@@ -3364,7 +3493,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_130-2x.jpg",
     "ename": "Croagunk",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 130
   },
   {
     "id": "7625",
@@ -3397,7 +3527,8 @@
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_232-2x.jpg"
     ],
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": "131|232"
   },
   {
     "id": "7626",
@@ -3423,7 +3554,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_132-2x.jpg",
     "ename": "Pawniard",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 132
   },
   {
     "id": "7627",
@@ -3449,7 +3581,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_133-2x.jpg",
     "ename": "Bisharp",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 133
   },
   {
     "id": "7628",
@@ -3478,7 +3611,8 @@
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_220-2x.jpg"
     ],
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": "134|220"
   },
   {
     "id": "7701",
@@ -3504,7 +3638,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_135-2x.jpg",
     "ename": "Maschiff",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 135
   },
   {
     "id": "7702",
@@ -3526,7 +3661,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_136-2x.jpg",
     "ename": "Maschiff",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 136
   },
   {
     "id": "7703",
@@ -3555,7 +3691,8 @@
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_218-2x.jpg"
     ],
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": "137|218"
   },
   {
     "id": "7704",
@@ -3584,7 +3721,8 @@
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_219-2x.jpg"
     ],
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": "138|219"
   },
   {
     "id": "7705",
@@ -3610,7 +3748,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_139-2x.jpg",
     "ename": "Forretress",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 139
   },
   {
     "id": "7629",
@@ -3632,7 +3771,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_140-2x.jpg",
     "ename": "Varoom",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 140
   },
   {
     "id": "7630",
@@ -3654,7 +3794,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_141-2x.jpg",
     "ename": "Varoom",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 141
   },
   {
     "id": "7631",
@@ -3680,7 +3821,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_142-2x.jpg",
     "ename": "Revavroom",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 142
   },
   {
     "id": "7706",
@@ -3714,7 +3856,8 @@
       "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_233-2x.jpg",
       "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_248-2x.jpg"
     ],
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": "143|233|248"
   },
   {
     "id": "7707",
@@ -3740,7 +3883,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_144-2x.jpg",
     "ename": "Chansey",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 144
   },
   {
     "id": "7708",
@@ -3766,7 +3910,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_145-2x.jpg",
     "ename": "Blissey",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 145
   },
   {
     "id": "8426",
@@ -3788,7 +3933,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_146-2x.jpg",
     "ename": "Zangoose",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 146
   },
   {
     "id": "7632",
@@ -3814,7 +3960,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_147-2x.jpg",
     "ename": "Zangoose",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 147
   },
   {
     "id": "7633",
@@ -3839,7 +3986,8 @@
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_221-2x.jpg"
     ],
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": "148|221"
   },
   {
     "id": "7634",
@@ -3865,7 +4013,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_149-2x.jpg",
     "ename": "Staravia",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 149
   },
   {
     "id": "7635",
@@ -3891,7 +4040,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_150-2x.jpg",
     "ename": "Staraptor",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 150
   },
   {
     "id": "7709",
@@ -3920,7 +4070,8 @@
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_222-2x.jpg"
     ],
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": "151|222"
   },
   {
     "id": "7710",
@@ -3946,7 +4097,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_152-2x.jpg",
     "ename": "Greedent",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 152
   },
   {
     "id": "7711",
@@ -3972,7 +4124,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_153-2x.jpg",
     "ename": "Indeedee",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 153
   },
   {
     "id": "7636",
@@ -3998,7 +4151,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_154-2x.jpg",
     "ename": "Lechonk",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 154
   },
   {
     "id": "8099",
@@ -4024,7 +4178,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_155-2x.jpg",
     "ename": "Lechonk",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 155
   },
   {
     "id": "7637",
@@ -4046,7 +4201,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_156-2x.jpg",
     "ename": "Lechonk",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 156
   },
   {
     "id": "7810",
@@ -4072,7 +4228,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_157-2x.jpg",
     "ename": "Oinkologne",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 157
   },
   {
     "id": "7638",
@@ -4105,7 +4262,8 @@
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_234-2x.jpg"
     ],
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": "158|234"
   },
   {
     "id": "7712",
@@ -4127,7 +4285,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_159-2x.jpg",
     "ename": "Tandemaus",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 159
   },
   {
     "id": "7713",
@@ -4149,7 +4308,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_160-2x.jpg",
     "ename": "Tandemaus",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 160
   },
   {
     "id": "7714",
@@ -4175,7 +4335,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_161-2x.jpg",
     "ename": "Maushold",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 161
   },
   {
     "id": "7715",
@@ -4201,7 +4362,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_162-2x.jpg",
     "ename": "Squawkabilly",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 162
   },
   {
     "id": "8441",
@@ -4223,7 +4385,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_163-2x.jpg",
     "ename": "Cyclizar",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 163
   },
   {
     "id": "7716",
@@ -4249,7 +4412,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_164-2x.jpg",
     "ename": "Cyclizar",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 164
   },
   {
     "id": "8442",
@@ -4275,7 +4439,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_165-2x.jpg",
     "ename": "Flamigo",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 165
   },
   {
     "id": "7648",
@@ -4295,7 +4460,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_167-2x.jpg",
     "ename": "Beach Court",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 167
   },
   {
     "id": "7726",
@@ -4315,7 +4481,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_178-2x.jpg",
     "ename": "Mesagoza",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 178
   },
   {
     "id": "7724",
@@ -4339,7 +4506,8 @@
       "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_235-2x.jpg",
       "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_249-2x.jpg"
     ],
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": "166|235|249"
   },
   {
     "id": "7644",
@@ -4363,7 +4531,8 @@
       "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_236-2x.jpg",
       "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_250-2x.jpg"
     ],
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": "175|236|250"
   },
   {
     "id": "8107",
@@ -4383,7 +4552,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_176-2x.jpg",
     "ename": "Judge",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 176
   },
   {
     "id": "7722",
@@ -4406,7 +4576,8 @@
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_237-2x.jpg"
     ],
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": "177|237"
   },
   {
     "id": "7725",
@@ -4430,7 +4601,8 @@
       "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_238-2x.jpg",
       "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_251-2x.jpg"
     ],
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": "179|238|251"
   },
   {
     "id": "8466",
@@ -4450,7 +4622,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_180-2x.jpg",
     "ename": "Nemona",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 180
   },
   {
     "id": "7647",
@@ -4474,7 +4647,8 @@
       "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_239-2x.jpg",
       "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_252-2x.jpg"
     ],
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": "183|239|252"
   },
   {
     "id": "7646",
@@ -4497,7 +4671,8 @@
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_240-2x.jpg"
     ],
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": "189|240"
   },
   {
     "id": "8110",
@@ -4520,7 +4695,8 @@
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_241-2x.jpg"
     ],
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": "190|241"
   },
   {
     "id": "7645",
@@ -4543,7 +4719,8 @@
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_242-2x.jpg"
     ],
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": "195|242"
   },
   {
     "id": "8108",
@@ -4563,7 +4740,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_198-2x.jpg",
     "ename": "Youngster",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 198
   },
   {
     "id": "7643",
@@ -4583,7 +4761,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_169-2x.jpg",
     "ename": "Defiance Band",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 169
   },
   {
     "id": "7642",
@@ -4603,7 +4782,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_174-2x.jpg",
     "ename": "Exp. Share",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 174
   },
   {
     "id": "7641",
@@ -4623,7 +4803,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_192-2x.jpg",
     "ename": "Rock Chestplate",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 192
   },
   {
     "id": "7721",
@@ -4643,7 +4824,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_193-2x.jpg",
     "ename": "Rocky Helmet",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 193
   },
   {
     "id": "8458",
@@ -4663,7 +4845,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_197-2x.jpg",
     "ename": "Vitality Band",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 197
   },
   {
     "id": "8449",
@@ -4683,7 +4866,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_168-2x.jpg",
     "ename": "Crushing Hammer",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 168
   },
   {
     "id": "7717",
@@ -4703,7 +4887,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_170-2x.jpg",
     "ename": "Electric Generator",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 170
   },
   {
     "id": "8443",
@@ -4723,7 +4908,8 @@
     "type": "Trainers",
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_171-2x.jpg",
     "ename": "Energy Retrieval",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 171
   },
   {
     "id": "7737",
@@ -4743,7 +4929,8 @@
     "type": "Trainers",
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_172-2x.jpg",
     "ename": "Energy Search",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 172
   },
   {
     "id": "8100",
@@ -4763,7 +4950,8 @@
     "type": "Trainers",
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_173-2x.jpg",
     "ename": "Energy Switch",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 173
   },
   {
     "id": "7640",
@@ -4786,7 +4974,8 @@
     "artList": [
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_255_R_EN.png"
     ],
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": "181|255"
   },
   {
     "id": "7639",
@@ -4806,7 +4995,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_182-2x.jpg",
     "ename": "Pal Pad",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 182
   },
   {
     "id": "7719",
@@ -4826,7 +5016,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_184-2x.jpg",
     "ename": "Picnic Basket",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 184
   },
   {
     "id": "7812",
@@ -4846,7 +5037,8 @@
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_185-2x.jpg",
     "ename": "Poké Ball",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 185
   },
   {
     "id": "8104",
@@ -4866,7 +5058,8 @@
     "type": "Trainers",
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_186-2x.jpg",
     "ename": "Pokégear 3.0",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 186
   },
   {
     "id": "8106",
@@ -4886,7 +5079,8 @@
     "type": "Trainers",
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_187-2x.jpg",
     "ename": "Pokémon Catcher",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 187
   },
   {
     "id": "7763",
@@ -4906,7 +5100,8 @@
     "type": "Trainers",
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_188-2x.jpg",
     "ename": "Potion",
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": 188
   },
   {
     "id": "7720",
@@ -4929,7 +5124,8 @@
     "artList": [
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_256_R_EN.png"
     ],
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": "191|256"
   },
   {
     "id": "8105",
@@ -4952,7 +5148,8 @@
     "artList": [
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_206_R_EN.png"
     ],
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": "194|206"
   },
   {
     "id": "7718",
@@ -4979,6 +5176,7 @@
     "artList": [
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_186_R_EN.png"
     ],
-    "series": "SV1"
+    "series": "SV1",
+    "cardNo": "196|186"
   }
 ]

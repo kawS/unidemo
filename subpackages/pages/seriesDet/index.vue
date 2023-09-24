@@ -2,7 +2,7 @@
 	<page-meta :page-style="`overflow: ${isShowCard == true ? 'hidden' : '' }`" />
 	<div class="fctrl">
 		<div class="info">
-			<div>{{ serName }} - {{ sno }}</div>
+			<div>{{ serName }} - {{ sno }} - {{ scode }}</div>
 			<div>共{{ detList.length }}张</div>
 		</div>
 		<div class="tabs" v-if="returnShowFilterDom(sno)">
@@ -16,19 +16,17 @@
 	<div class="list">
 		<div class="item" v-for="item in detList" :key="item.id" @click="showDet(item)">
 			<div class="picwp">
-				<image src="../img/tcg-card-back.jpg" mode="widthFix" class="cback"></image>
-				<image :src="item.imgUrl" lazy-load mode="heightFix" class="img"></image>
+				<image src="../../../common/img/tcg-card-back.jpg" mode="widthFix" class="cback"></image>
+				<!-- <image :src="item.imgUrl" lazy-load mode="heightFix" class="img"></image> -->
+				<image :src="item.enImgUrl" lazy-load mode="heightFix" class="img"></image>
 				<div class="series">{{ item.series }}{{ item?.artList?.length > 0 ? `|${item.artList.length}` : '' }}</div>
 			</div>
-			<div>{{ item.cardName }}</div>
+			<div>{{ item.cardName }} - {{ item.cardNo }}</div>
 			<div>{{ item.ename }}</div>
 			<!-- {{ item.id }} -->
 		</div>
 	</div>
-	<div class="empty" v-if="!isLoading && detList.length == 0">
-		<image src="../img/pikachu.png" mode="widthFix" class="img"></image>
-		暂无数据
-	</div>
+	<emptyList v-if="!isLoading && detList.length == 0"></emptyList>
 	<div class="popups" v-show="isShowFilter">
 		<div class="p-filter">
 			<div class="tclass" v-show="classType == 'All' || classType == 'Pokemon'">
@@ -96,6 +94,7 @@
 </template>
 
 <script setup>
+	import emptyList from '../../../components/emptyList/index.vue'
 	import { ref } from 'vue'
   import { onLoad } from '@dcloudio/uni-app'
 	import { returnPMType } from './js/returnCHN'
@@ -105,6 +104,7 @@
 	let isLoading = ref(true);
 	let sno = ref(null);
 	let serName = ref(null);
+	let scode = ref(null);
 	let detList = ref([]);
 	let aList = ref([]);
 	let pList = ref([]);
@@ -117,9 +117,10 @@
 	let showCardDet = ref(null);
 	
 	onLoad(options => {
-		sno = options.no;
+		sno.value = options.no;
 		serName.value = decodeURIComponent(options.sname);
-		switch(sno) {
+		scode.value = options.code;
+		switch(sno.value) {
 			case 'SV3.5': import('./json/SV3_5.json').then((res) => {getData(res)}); break;
 			case 'SV3': import('./json/SV3.json').then((res) => {getData(res)}); break;
 			case 'SV2': import('./json/SV2.json').then((res) => {getData(res)}); break;
@@ -393,6 +394,7 @@
 				.img{
 					margin: 10rpx auto;
 					width: 35rpx;
+					height: 35rpx;
 					display: block;
 				}
 			}

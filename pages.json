@@ -13,6 +13,9 @@
 				},
 				{
 					"path": "pages/search/index"
+				},
+				{
+					"path": "pages/deck/index"
 				}
 			]
 		}

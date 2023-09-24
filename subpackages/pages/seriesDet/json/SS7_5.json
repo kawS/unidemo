@@ -23,7 +23,8 @@
     ],
     "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_1.png",
     "ename": "Ho-Oh",
-    "series": "SS7.5"
+    "series": "SS7.5",
+    "cardNo": 1
   },
   {
     "id": "2080",
@@ -49,7 +50,8 @@
     ],
     "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_2.png",
     "ename": "Reshiram",
-    "series": "SS7.5"
+    "series": "SS7.5",
+    "cardNo": 2
   },
   {
     "id": "2077",
@@ -75,7 +77,8 @@
     ],
     "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_3.png",
     "ename": "Kyogre",
-    "series": "SS7.5"
+    "series": "SS7.5",
+    "cardNo": 3
   },
   {
     "id": "2079",
@@ -101,7 +104,8 @@
     ],
     "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_4.png",
     "ename": "Palkia",
-    "series": "SS7.5"
+    "series": "SS7.5",
+    "cardNo": 4
   },
   {
     "id": "2071",
@@ -127,7 +131,8 @@
     ],
     "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_5.png",
     "ename": "Pikachu",
-    "series": "SS7.5"
+    "series": "SS7.5",
+    "cardNo": 5
   },
   {
     "id": "2093",
@@ -157,7 +162,8 @@
     ],
     "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_6.png",
     "ename": "Flying Pikachu V",
-    "series": "SS7.5"
+    "series": "SS7.5",
+    "cardNo": 6
   },
   {
     "id": "2094",
@@ -183,7 +189,8 @@
     ],
     "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_7.png",
     "ename": "Flying Pikachu VMAX",
-    "series": "SS7.5"
+    "series": "SS7.5",
+    "cardNo": 7
   },
   {
     "id": "2091",
@@ -209,7 +216,8 @@
     ],
     "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_8.png",
     "ename": "Surfing Pikachu V",
-    "series": "SS7.5"
+    "series": "SS7.5",
+    "cardNo": 8
   },
   {
     "id": "2092",
@@ -235,7 +243,8 @@
     ],
     "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_9.png",
     "ename": "Surfing Pikachu VMAX",
-    "series": "SS7.5"
+    "series": "SS7.5",
+    "cardNo": 9
   },
   {
     "id": "2081",
@@ -261,7 +270,8 @@
     ],
     "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_10.png",
     "ename": "Zekrom",
-    "series": "SS7.5"
+    "series": "SS7.5",
+    "cardNo": 10
   },
   {
     "id": "2072",
@@ -291,7 +301,8 @@
       "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_10-2x.jpg",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CEL/CEL_025_R_EN.png"
     ],
-    "series": "SS7.5"
+    "series": "SS7.5",
+    "cardNo": "11|GG 10|25"
   },
   {
     "id": "2082",
@@ -317,7 +328,8 @@
     ],
     "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_12.png",
     "ename": "Xerneas",
-    "series": "SS7.5"
+    "series": "SS7.5",
+    "cardNo": 12
   },
   {
     "id": "2084",
@@ -339,7 +351,8 @@
     ],
     "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_13.png",
     "ename": "Cosmog",
-    "series": "SS7.5"
+    "series": "SS7.5",
+    "cardNo": 13
   },
   {
     "id": "2085",
@@ -361,7 +374,8 @@
     ],
     "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_14.png",
     "ename": "Cosmoem",
-    "series": "SS7.5"
+    "series": "SS7.5",
+    "cardNo": 14
   },
   {
     "id": "2087",
@@ -387,7 +401,8 @@
     ],
     "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_15.png",
     "ename": "Lunala",
-    "series": "SS7.5"
+    "series": "SS7.5",
+    "cardNo": 15
   },
   {
     "id": "2088",
@@ -420,7 +435,8 @@
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_48-2x.jpg"
     ],
-    "series": "SS7.5"
+    "series": "SS7.5",
+    "cardNo": "16|GG 48"
   },
   {
     "id": "2076",
@@ -446,7 +462,8 @@
     ],
     "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_17.png",
     "ename": "Groudon",
-    "series": "SS7.5"
+    "series": "SS7.5",
+    "cardNo": 17
   },
   {
     "id": "2089",
@@ -476,7 +493,8 @@
     ],
     "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_18.png",
     "ename": "Zamazenta V",
-    "series": "SS7.5"
+    "series": "SS7.5",
+    "cardNo": 18
   },
   {
     "id": "2083",
@@ -502,7 +520,8 @@
     ],
     "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_19.png",
     "ename": "Yveltal",
-    "series": "SS7.5"
+    "series": "SS7.5",
+    "cardNo": 19
   },
   {
     "id": "2078",
@@ -528,7 +547,8 @@
     ],
     "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_20.png",
     "ename": "Dialga",
-    "series": "SS7.5"
+    "series": "SS7.5",
+    "cardNo": 20
   },
   {
     "id": "2086",
@@ -554,7 +574,8 @@
     ],
     "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_21.png",
     "ename": "Solgaleo",
-    "series": "SS7.5"
+    "series": "SS7.5",
+    "cardNo": 21
   },
   {
     "id": "2075",
@@ -580,7 +601,8 @@
     ],
     "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_22.png",
     "ename": "Lugia",
-    "series": "SS7.5"
+    "series": "SS7.5",
+    "cardNo": 22
   },
   {
     "id": "2073",
@@ -603,6 +625,7 @@
     "artList": [
       "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_24.png"
     ],
-    "series": "SS7.5"
+    "series": "SS7.5",
+    "cardNo": "23|24"
   }
 ]
