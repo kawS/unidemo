@@ -10,7 +10,8 @@
 		<div class="item" v-for="item in resultList" :key="item.name" @click="showDet(item)">
 			<div class="picwp">
 				<image src="../../../common/img/tcg-card-back.jpg" mode="widthFix" class="cback"></image>
-				<image :src="item.imgUrl" lazy-load mode="heightFix" class="img"></image>
+				<image :src="item.enImgUrl" lazy-load mode="heightFix" class="img" v-if="item.artIndex == -1"></image>
+				<image :src="item?.artList[item.artIndex]" lazy-load mode="heightFix" class="img" v-else></image>
 				<div class="count">{{ item.count }}</div>
 				<div class="series">{{ item.series }}{{ item?.artList?.length > 0 ? `|${item.artList.length}` : '' }}</div>
 			</div>
@@ -109,7 +110,6 @@
 			}
 			// console.log(item)
 			let rItem = null;
-			let sameLength = 0;
 			let count = null;
 			let ename = null;
 			let series = null;
@@ -144,17 +144,6 @@
 				sortBySeries[sNo] = []
 			}
 			rItem = {count, ename, series, sNo, cardNo};
-			// for(let d of list){
-			// 	console.log(d)
-			// 	if(d.ename == ename){
-			// 		d.count = parseInt(d.count) + count;
-			// 		if(d.count > 4) d.count = 4;
-			// 		sameLength += 1
-			// 	}
-			// }
-			// if(sameLength > 0){
-			// 	continue
-			// }
 			sortBySeries[sNo].push(rItem)
 			list.push(rItem);
 		}
@@ -199,13 +188,20 @@
 			for(let _d of data){
 				if(noList.length > 0){
 					if(noList.includes(_d.cardNo) && _d.ename == ename){
-						o.count = _d.count;
-						result.push(o)
+						let index = noList.findIndex(x => {
+							return x == _d.cardNo
+						})
+						let od = JSON.parse(JSON.stringify(o));
+						od.count = _d.count;
+						od.artIndex = index == 0 ? -1 : index - 1;
+						result.push(od)
 					}
 				}else{
 					if(_d.cardNo == o.cardNo && _d.ename == ename){
-						o.count = _d.count;
-						result.push(o)
+						let od = JSON.parse(JSON.stringify(o));
+						od.count = _d.count;
+						od.artIndex = -1;
+						result.push(od)
 					}
 				}
 			}
@@ -213,6 +209,7 @@
 		allIndex += result.length;
 		resetData = [...resetData, ...result];
 		if(allIndex == resetData.length){
+			// console.log(resetData)
 			// 排序
 			let p = resetData.filter(item => {
 				return item.type == 'Pokemon'
@@ -334,7 +331,7 @@
 		margin: 10rpx 30rpx 0;
 		display: flex;
 		flex-wrap: wrap;
-		justify-content: space-between;
+		// justify-content: space-between;
 		.item{
 			position: relative;
 			margin: 0 0 20rpx 0;
@@ -342,6 +339,9 @@
 			min-height: 80rpx;
 			text-align: center;
 			font-size: 12px;
+			&:not(:nth-of-type(4n)){
+				margin-right: calc(4% / 3);
+			}
 			.picwp{
 				position: relative;
 				margin: 0 0 10rpx 0;
