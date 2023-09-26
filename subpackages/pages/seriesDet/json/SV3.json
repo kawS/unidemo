@@ -24,7 +24,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_1-2x.jpg",
     "ename": "Oddish",
     "series": "SV3",
-    "cardNo": 1
+    "cardNo": "1"
   },
   {
     "id": "8485",
@@ -54,7 +54,7 @@
       "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_198-2x.jpg"
     ],
     "series": "SV3",
-    "cardNo": "2|198"
+    "cardNo": "2"
   },
   {
     "id": "8486",
@@ -81,7 +81,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_3-2x.jpg",
     "ename": "Bellossom",
     "series": "SV3",
-    "cardNo": 3
+    "cardNo": "3"
   },
   {
     "id": "8487",
@@ -108,7 +108,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_4-2x.jpg",
     "ename": "Scyther",
     "series": "SV3",
-    "cardNo": 4
+    "cardNo": "4"
   },
   {
     "id": "8488",
@@ -135,7 +135,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_5-2x.jpg",
     "ename": "Shuckle",
     "series": "SV3",
-    "cardNo": 5
+    "cardNo": "5"
   },
   {
     "id": "7941",
@@ -158,7 +158,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_6-2x.jpg",
     "ename": "Surskit",
     "series": "SV3",
-    "cardNo": 6
+    "cardNo": "6"
   },
   {
     "id": "7942",
@@ -185,7 +185,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_7-2x.jpg",
     "ename": "Masquerain",
     "series": "SV3",
-    "cardNo": 7
+    "cardNo": "7"
   },
   {
     "id": "8489",
@@ -212,7 +212,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_8-2x.jpg",
     "ename": "Combee",
     "series": "SV3",
-    "cardNo": 8
+    "cardNo": "8"
   },
   {
     "id": "8337",
@@ -239,7 +239,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_9-2x.jpg",
     "ename": "Foongus",
     "series": "SV3",
-    "cardNo": 9
+    "cardNo": "9"
   },
   {
     "id": "8338",
@@ -262,7 +262,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_10-2x.jpg",
     "ename": "Amoonguss",
     "series": "SV3",
-    "cardNo": 10
+    "cardNo": "10"
   },
   {
     "id": "8490",
@@ -285,7 +285,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_11-2x.jpg",
     "ename": "Phantump",
     "series": "SV3",
-    "cardNo": 11
+    "cardNo": "11"
   },
   {
     "id": "8491",
@@ -312,7 +312,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_12-2x.jpg",
     "ename": "Trevenant",
     "series": "SV3",
-    "cardNo": 12
+    "cardNo": "12"
   },
   {
     "id": "8339",
@@ -335,7 +335,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_13-2x.jpg",
     "ename": "Rowlet",
     "series": "SV3",
-    "cardNo": 13
+    "cardNo": "13"
   },
   {
     "id": "8340",
@@ -358,7 +358,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_14-2x.jpg",
     "ename": "Dartrix",
     "series": "SV3",
-    "cardNo": 14
+    "cardNo": "14"
   },
   {
     "id": "8341",
@@ -389,7 +389,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_15-2x.jpg",
     "ename": "Decidueye ex",
     "series": "SV3",
-    "cardNo": 15
+    "cardNo": "15"
   },
   {
     "id": "7947",
@@ -416,7 +416,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_16-2x.jpg",
     "ename": "Bounsweet",
     "series": "SV3",
-    "cardNo": 16
+    "cardNo": "16"
   },
   {
     "id": "7948",
@@ -443,7 +443,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_17-2x.jpg",
     "ename": "Steenee",
     "series": "SV3",
-    "cardNo": 17
+    "cardNo": "17"
   },
   {
     "id": "7949",
@@ -470,7 +470,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_18-2x.jpg",
     "ename": "Tsareena",
     "series": "SV3",
-    "cardNo": 18
+    "cardNo": "18"
   },
   {
     "id": "8342",
@@ -493,7 +493,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_19-2x.jpg",
     "ename": "Smoliv",
     "series": "SV3",
-    "cardNo": 19
+    "cardNo": "19"
   },
   {
     "id": "8343",
@@ -516,7 +516,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_20-2x.jpg",
     "ename": "Dolliv",
     "series": "SV3",
-    "cardNo": 20
+    "cardNo": "20"
   },
   {
     "id": "8344",
@@ -543,7 +543,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_21-2x.jpg",
     "ename": "Arboliva",
     "series": "SV3",
-    "cardNo": 21
+    "cardNo": "21"
   },
   {
     "id": "8114",
@@ -574,7 +574,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_22-2x.jpg",
     "ename": "Toedscruel ex",
     "series": "SV3",
-    "cardNo": 22
+    "cardNo": "22"
   },
   {
     "id": "8492",
@@ -597,7 +597,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_23-2x.jpg",
     "ename": "Capsakid",
     "series": "SV3",
-    "cardNo": 23
+    "cardNo": "23"
   },
   {
     "id": "8493",
@@ -620,7 +620,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_24-2x.jpg",
     "ename": "Capsakid",
     "series": "SV3",
-    "cardNo": 24
+    "cardNo": "24"
   },
   {
     "id": "8494",
@@ -647,7 +647,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_25-2x.jpg",
     "ename": "Scovillain",
     "series": "SV3",
-    "cardNo": 25
+    "cardNo": "25"
   },
   {
     "id": "8495",
@@ -670,7 +670,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_26-2x.jpg",
     "ename": "Charmander",
     "series": "SV3",
-    "cardNo": 26
+    "cardNo": "26"
   },
   {
     "id": "8496",
@@ -693,7 +693,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_27-2x.jpg",
     "ename": "Charmeleon",
     "series": "SV3",
-    "cardNo": 27
+    "cardNo": "27"
   },
   {
     "id": "8497",
@@ -720,7 +720,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_28-2x.jpg",
     "ename": "Vulpix",
     "series": "SV3",
-    "cardNo": 28
+    "cardNo": "28"
   },
   {
     "id": "8498",
@@ -750,7 +750,7 @@
       "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_199-2x.jpg"
     ],
     "series": "SV3",
-    "cardNo": "29|199"
+    "cardNo": "29"
   },
   {
     "id": "8499",
@@ -777,7 +777,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_30-2x.jpg",
     "ename": "Entei",
     "series": "SV3",
-    "cardNo": 30
+    "cardNo": "30"
   },
   {
     "id": "8021",
@@ -800,7 +800,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_31-2x.jpg",
     "ename": "Numel",
     "series": "SV3",
-    "cardNo": 31
+    "cardNo": "31"
   },
   {
     "id": "8022",
@@ -827,7 +827,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_32-2x.jpg",
     "ename": "Camerupt",
     "series": "SV3",
-    "cardNo": 32
+    "cardNo": "32"
   },
   {
     "id": "8347",
@@ -858,7 +858,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_33-2x.jpg",
     "ename": "Victini ex",
     "series": "SV3",
-    "cardNo": 33
+    "cardNo": "33"
   },
   {
     "id": "8500",
@@ -885,7 +885,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_34-2x.jpg",
     "ename": "Darumaka",
     "series": "SV3",
-    "cardNo": 34
+    "cardNo": "34"
   },
   {
     "id": "8501",
@@ -912,7 +912,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_35-2x.jpg",
     "ename": "Darmanitan",
     "series": "SV3",
-    "cardNo": 35
+    "cardNo": "35"
   },
   {
     "id": "8348",
@@ -935,7 +935,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_36-2x.jpg",
     "ename": "Litwick",
     "series": "SV3",
-    "cardNo": 36
+    "cardNo": "36"
   },
   {
     "id": "8349",
@@ -962,7 +962,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_37-2x.jpg",
     "ename": "Lampent",
     "series": "SV3",
-    "cardNo": 37
+    "cardNo": "37"
   },
   {
     "id": "8350",
@@ -989,7 +989,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_38-2x.jpg",
     "ename": "Chandelure",
     "series": "SV3",
-    "cardNo": 38
+    "cardNo": "38"
   },
   {
     "id": "8502",
@@ -1012,7 +1012,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_39-2x.jpg",
     "ename": "Heatmor",
     "series": "SV3",
-    "cardNo": 39
+    "cardNo": "39"
   },
   {
     "id": "8351",
@@ -1039,7 +1039,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_40-2x.jpg",
     "ename": "Larvesta",
     "series": "SV3",
-    "cardNo": 40
+    "cardNo": "40"
   },
   {
     "id": "8352",
@@ -1066,7 +1066,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_41-2x.jpg",
     "ename": "Volcarona",
     "series": "SV3",
-    "cardNo": 41
+    "cardNo": "41"
   },
   {
     "id": "8503",
@@ -1101,7 +1101,7 @@
       "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_222-2x.jpg"
     ],
     "series": "SV3",
-    "cardNo": "42|210|222"
+    "cardNo": "42"
   },
   {
     "id": "8353",
@@ -1128,7 +1128,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_43-2x.jpg",
     "ename": "Charcadet",
     "series": "SV3",
-    "cardNo": 43
+    "cardNo": "43"
   },
   {
     "id": "8354",
@@ -1155,7 +1155,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_44-2x.jpg",
     "ename": "Armarouge",
     "series": "SV3",
-    "cardNo": 44
+    "cardNo": "44"
   },
   {
     "id": "8355",
@@ -1182,7 +1182,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_45-2x.jpg",
     "ename": "Lapras",
     "series": "SV3",
-    "cardNo": 45
+    "cardNo": "45"
   },
   {
     "id": "8504",
@@ -1205,7 +1205,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_46-2x.jpg",
     "ename": "Carvanha",
     "series": "SV3",
-    "cardNo": 46
+    "cardNo": "46"
   },
   {
     "id": "8505",
@@ -1232,7 +1232,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_47-2x.jpg",
     "ename": "Sharpedo",
     "series": "SV3",
-    "cardNo": 47
+    "cardNo": "47"
   },
   {
     "id": "8357",
@@ -1255,7 +1255,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_48-2x.jpg",
     "ename": "Buizel",
     "series": "SV3",
-    "cardNo": 48
+    "cardNo": "48"
   },
   {
     "id": "8358",
@@ -1282,7 +1282,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_49-2x.jpg",
     "ename": "Floatzel",
     "series": "SV3",
-    "cardNo": 49
+    "cardNo": "49"
   },
   {
     "id": "8506",
@@ -1305,7 +1305,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_50-2x.jpg",
     "ename": "Tympole",
     "series": "SV3",
-    "cardNo": 50
+    "cardNo": "50"
   },
   {
     "id": "8507",
@@ -1328,7 +1328,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_51-2x.jpg",
     "ename": "Palpitoad",
     "series": "SV3",
-    "cardNo": 51
+    "cardNo": "51"
   },
   {
     "id": "8508",
@@ -1355,7 +1355,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_52-2x.jpg",
     "ename": "Seismitoad",
     "series": "SV3",
-    "cardNo": 52
+    "cardNo": "52"
   },
   {
     "id": "8509",
@@ -1382,7 +1382,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_53-2x.jpg",
     "ename": "Cubchoo",
     "series": "SV3",
-    "cardNo": 53
+    "cardNo": "53"
   },
   {
     "id": "8510",
@@ -1409,7 +1409,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_54-2x.jpg",
     "ename": "Beartic",
     "series": "SV3",
-    "cardNo": 54
+    "cardNo": "54"
   },
   {
     "id": "8511",
@@ -1432,7 +1432,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_55-2x.jpg",
     "ename": "Cryogonal",
     "series": "SV3",
-    "cardNo": 55
+    "cardNo": "55"
   },
   {
     "id": "8360",
@@ -1455,7 +1455,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_56-2x.jpg",
     "ename": "Froakie",
     "series": "SV3",
-    "cardNo": 56
+    "cardNo": "56"
   },
   {
     "id": "8361",
@@ -1478,7 +1478,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_57-2x.jpg",
     "ename": "Frogadier",
     "series": "SV3",
-    "cardNo": 57
+    "cardNo": "57"
   },
   {
     "id": "8363",
@@ -1501,7 +1501,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_58-2x.jpg",
     "ename": "Wiglett",
     "series": "SV3",
-    "cardNo": 58
+    "cardNo": "58"
   },
   {
     "id": "8364",
@@ -1524,7 +1524,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_59-2x.jpg",
     "ename": "Wugtrio",
     "series": "SV3",
-    "cardNo": 59
+    "cardNo": "59"
   },
   {
     "id": "8512",
@@ -1551,7 +1551,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_60-2x.jpg",
     "ename": "Finizen",
     "series": "SV3",
-    "cardNo": 60
+    "cardNo": "60"
   },
   {
     "id": "8513",
@@ -1574,7 +1574,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_61-2x.jpg",
     "ename": "Finizen",
     "series": "SV3",
-    "cardNo": 61
+    "cardNo": "61"
   },
   {
     "id": "8514",
@@ -1604,7 +1604,7 @@
       "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_200-2x.jpg"
     ],
     "series": "SV3",
-    "cardNo": "62|200"
+    "cardNo": "62"
   },
   {
     "id": "8369",
@@ -1631,7 +1631,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_63-2x.jpg",
     "ename": "Magnemite",
     "series": "SV3",
-    "cardNo": 63
+    "cardNo": "63"
   },
   {
     "id": "8370",
@@ -1658,7 +1658,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_64-2x.jpg",
     "ename": "Magneton",
     "series": "SV3",
-    "cardNo": 64
+    "cardNo": "64"
   },
   {
     "id": "8371",
@@ -1685,7 +1685,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_65-2x.jpg",
     "ename": "Magnezone",
     "series": "SV3",
-    "cardNo": 65
+    "cardNo": "65"
   },
   {
     "id": "8515",
@@ -1723,7 +1723,7 @@
       "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_211-2x.jpg"
     ],
     "series": "SV3",
-    "cardNo": "66|211"
+    "cardNo": "66"
   },
   {
     "id": "8516",
@@ -1750,7 +1750,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_67-2x.jpg",
     "ename": "Tynamo",
     "series": "SV3",
-    "cardNo": 67
+    "cardNo": "67"
   },
   {
     "id": "8517",
@@ -1777,7 +1777,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_68-2x.jpg",
     "ename": "Eelektrik",
     "series": "SV3",
-    "cardNo": 68
+    "cardNo": "68"
   },
   {
     "id": "8518",
@@ -1804,7 +1804,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_69-2x.jpg",
     "ename": "Eelektross",
     "series": "SV3",
-    "cardNo": 69
+    "cardNo": "69"
   },
   {
     "id": "8519",
@@ -1831,7 +1831,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_70-2x.jpg",
     "ename": "Thundurus",
     "series": "SV3",
-    "cardNo": 70
+    "cardNo": "70"
   },
   {
     "id": "8520",
@@ -1854,7 +1854,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_71-2x.jpg",
     "ename": "Toxel",
     "series": "SV3",
-    "cardNo": 71
+    "cardNo": "71"
   },
   {
     "id": "8521",
@@ -1881,7 +1881,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_72-2x.jpg",
     "ename": "Toxtricity",
     "series": "SV3",
-    "cardNo": 72
+    "cardNo": "72"
   },
   {
     "id": "8117",
@@ -1912,7 +1912,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_73-2x.jpg",
     "ename": "Pawmot ex",
     "series": "SV3",
-    "cardNo": 73
+    "cardNo": "73"
   },
   {
     "id": "8522",
@@ -1939,7 +1939,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_74-2x.jpg",
     "ename": "Tadbulb",
     "series": "SV3",
-    "cardNo": 74
+    "cardNo": "74"
   },
   {
     "id": "8374",
@@ -1962,7 +1962,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_75-2x.jpg",
     "ename": "Tadbulb",
     "series": "SV3",
-    "cardNo": 75
+    "cardNo": "75"
   },
   {
     "id": "8523",
@@ -1985,7 +1985,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_76-2x.jpg",
     "ename": "Tadbulb",
     "series": "SV3",
-    "cardNo": 76
+    "cardNo": "76"
   },
   {
     "id": "8375",
@@ -2008,7 +2008,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_77-2x.jpg",
     "ename": "Bellibolt",
     "series": "SV3",
-    "cardNo": 77
+    "cardNo": "77"
   },
   {
     "id": "8524",
@@ -2038,7 +2038,7 @@
       "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_201-2x.jpg"
     ],
     "series": "SV3",
-    "cardNo": "78|201"
+    "cardNo": "78"
   },
   {
     "id": "8379",
@@ -2069,7 +2069,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_79-2x.jpg",
     "ename": "Miraidon ex",
     "series": "SV3",
-    "cardNo": 79
+    "cardNo": "79"
   },
   {
     "id": "8525",
@@ -2095,7 +2095,7 @@
       "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_202-2x.jpg"
     ],
     "series": "SV3",
-    "cardNo": "80|202"
+    "cardNo": "80"
   },
   {
     "id": "8380",
@@ -2118,7 +2118,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_81-2x.jpg",
     "ename": "Clefairy",
     "series": "SV3",
-    "cardNo": 81
+    "cardNo": "81"
   },
   {
     "id": "8381",
@@ -2149,7 +2149,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_82-2x.jpg",
     "ename": "Clefable ex",
     "series": "SV3",
-    "cardNo": 82
+    "cardNo": "82"
   },
   {
     "id": "8526",
@@ -2176,7 +2176,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_83-2x.jpg",
     "ename": "Togepi",
     "series": "SV3",
-    "cardNo": 83
+    "cardNo": "83"
   },
   {
     "id": "8527",
@@ -2203,7 +2203,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_84-2x.jpg",
     "ename": "Togetic",
     "series": "SV3",
-    "cardNo": 84
+    "cardNo": "84"
   },
   {
     "id": "8528",
@@ -2230,7 +2230,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_85-2x.jpg",
     "ename": "Togekiss",
     "series": "SV3",
-    "cardNo": 85
+    "cardNo": "85"
   },
   {
     "id": "8529",
@@ -2257,7 +2257,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_86-2x.jpg",
     "ename": "Espeon",
     "series": "SV3",
-    "cardNo": 86
+    "cardNo": "86"
   },
   {
     "id": "8382",
@@ -2284,7 +2284,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_87-2x.jpg",
     "ename": "Snubbull",
     "series": "SV3",
-    "cardNo": 87
+    "cardNo": "87"
   },
   {
     "id": "8383",
@@ -2311,7 +2311,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_88-2x.jpg",
     "ename": "Granbull",
     "series": "SV3",
-    "cardNo": 88
+    "cardNo": "88"
   },
   {
     "id": "8384",
@@ -2334,7 +2334,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_89-2x.jpg",
     "ename": "Mawile",
     "series": "SV3",
-    "cardNo": 89
+    "cardNo": "89"
   },
   {
     "id": "7903",
@@ -2361,7 +2361,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_90-2x.jpg",
     "ename": "Spoink",
     "series": "SV3",
-    "cardNo": 90
+    "cardNo": "90"
   },
   {
     "id": "7904",
@@ -2388,7 +2388,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_91-2x.jpg",
     "ename": "Grumpig",
     "series": "SV3",
-    "cardNo": 91
+    "cardNo": "91"
   },
   {
     "id": "8530",
@@ -2415,7 +2415,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_92-2x.jpg",
     "ename": "Lunatone",
     "series": "SV3",
-    "cardNo": 92
+    "cardNo": "92"
   },
   {
     "id": "8531",
@@ -2442,7 +2442,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_93-2x.jpg",
     "ename": "Solrock",
     "series": "SV3",
-    "cardNo": 93
+    "cardNo": "93"
   },
   {
     "id": "8532",
@@ -2465,7 +2465,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_94-2x.jpg",
     "ename": "Baltoy",
     "series": "SV3",
-    "cardNo": 94
+    "cardNo": "94"
   },
   {
     "id": "8533",
@@ -2492,7 +2492,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_95-2x.jpg",
     "ename": "Claydol",
     "series": "SV3",
-    "cardNo": 95
+    "cardNo": "95"
   },
   {
     "id": "8534",
@@ -2530,7 +2530,7 @@
       "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_212-2x.jpg"
     ],
     "series": "SV3",
-    "cardNo": "96|212"
+    "cardNo": "96"
   },
   {
     "id": "7975",
@@ -2553,7 +2553,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_97-2x.jpg",
     "ename": "Sinistea",
     "series": "SV3",
-    "cardNo": 97
+    "cardNo": "97"
   },
   {
     "id": "7976",
@@ -2580,7 +2580,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_98-2x.jpg",
     "ename": "Polteageist",
     "series": "SV3",
-    "cardNo": 98
+    "cardNo": "98"
   },
   {
     "id": "8535",
@@ -2607,7 +2607,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_99-2x.jpg",
     "ename": "Greavard",
     "series": "SV3",
-    "cardNo": 99
+    "cardNo": "99"
   },
   {
     "id": "8536",
@@ -2630,7 +2630,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_100-2x.jpg",
     "ename": "Greavard",
     "series": "SV3",
-    "cardNo": 100
+    "cardNo": "100"
   },
   {
     "id": "8537",
@@ -2657,7 +2657,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_101-2x.jpg",
     "ename": "Houndstone",
     "series": "SV3",
-    "cardNo": 101
+    "cardNo": "101"
   },
   {
     "id": "8119",
@@ -2688,7 +2688,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_102-2x.jpg",
     "ename": "Houndstone ex",
     "series": "SV3",
-    "cardNo": 102
+    "cardNo": "102"
   },
   {
     "id": "7911",
@@ -2711,7 +2711,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_103-2x.jpg",
     "ename": "Diglett",
     "series": "SV3",
-    "cardNo": 103
+    "cardNo": "103"
   },
   {
     "id": "7912",
@@ -2734,7 +2734,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_104-2x.jpg",
     "ename": "Dugtrio",
     "series": "SV3",
-    "cardNo": 104
+    "cardNo": "104"
   },
   {
     "id": "8538",
@@ -2764,7 +2764,7 @@
       "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_203-2x.jpg"
     ],
     "series": "SV3",
-    "cardNo": "105|203"
+    "cardNo": "105"
   },
   {
     "id": "8539",
@@ -2791,7 +2791,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_106-2x.jpg",
     "ename": "Pupitar",
     "series": "SV3",
-    "cardNo": 106
+    "cardNo": "106"
   },
   {
     "id": "8540",
@@ -2818,7 +2818,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_107-2x.jpg",
     "ename": "Nosepass",
     "series": "SV3",
-    "cardNo": 107
+    "cardNo": "107"
   },
   {
     "id": "8049",
@@ -2845,7 +2845,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_108-2x.jpg",
     "ename": "Barboach",
     "series": "SV3",
-    "cardNo": 108
+    "cardNo": "108"
   },
   {
     "id": "8050",
@@ -2872,7 +2872,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_109-2x.jpg",
     "ename": "Whiscash",
     "series": "SV3",
-    "cardNo": 109
+    "cardNo": "109"
   },
   {
     "id": "8541",
@@ -2895,7 +2895,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_110-2x.jpg",
     "ename": "Bonsly",
     "series": "SV3",
-    "cardNo": 110
+    "cardNo": "110"
   },
   {
     "id": "8394",
@@ -2918,7 +2918,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_111-2x.jpg",
     "ename": "Drilbur",
     "series": "SV3",
-    "cardNo": 111
+    "cardNo": "111"
   },
   {
     "id": "8542",
@@ -2945,7 +2945,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_112-2x.jpg",
     "ename": "Stunfisk",
     "series": "SV3",
-    "cardNo": 112
+    "cardNo": "112"
   },
   {
     "id": "8543",
@@ -2972,7 +2972,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_113-2x.jpg",
     "ename": "Diggersby",
     "series": "SV3",
-    "cardNo": 113
+    "cardNo": "113"
   },
   {
     "id": "8053",
@@ -2999,7 +2999,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_114-2x.jpg",
     "ename": "Crabrawler",
     "series": "SV3",
-    "cardNo": 114
+    "cardNo": "114"
   },
   {
     "id": "8054",
@@ -3026,7 +3026,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_115-2x.jpg",
     "ename": "Crabominable",
     "series": "SV3",
-    "cardNo": 115
+    "cardNo": "115"
   },
   {
     "id": "8544",
@@ -3049,7 +3049,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_116-2x.jpg",
     "ename": "Rockruff",
     "series": "SV3",
-    "cardNo": 116
+    "cardNo": "116"
   },
   {
     "id": "8545",
@@ -3076,7 +3076,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_117-2x.jpg",
     "ename": "Lycanroc",
     "series": "SV3",
-    "cardNo": 117
+    "cardNo": "117"
   },
   {
     "id": "8398",
@@ -3103,7 +3103,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_118-2x.jpg",
     "ename": "Toedscool",
     "series": "SV3",
-    "cardNo": 118
+    "cardNo": "118"
   },
   {
     "id": "8399",
@@ -3130,7 +3130,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_119-2x.jpg",
     "ename": "Toedscruel",
     "series": "SV3",
-    "cardNo": 119
+    "cardNo": "119"
   },
   {
     "id": "7829",
@@ -3161,7 +3161,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_120-2x.jpg",
     "ename": "Klawf ex",
     "series": "SV3",
-    "cardNo": 120
+    "cardNo": "120"
   },
   {
     "id": "8546",
@@ -3188,7 +3188,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_121-2x.jpg",
     "ename": "Glimmet",
     "series": "SV3",
-    "cardNo": 121
+    "cardNo": "121"
   },
   {
     "id": "8547",
@@ -3211,7 +3211,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_122-2x.jpg",
     "ename": "Glimmet",
     "series": "SV3",
-    "cardNo": 122
+    "cardNo": "122"
   },
   {
     "id": "8548",
@@ -3245,7 +3245,7 @@
       "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_213-2x.jpg"
     ],
     "series": "SV3",
-    "cardNo": "123|213"
+    "cardNo": "123"
   },
   {
     "id": "8401",
@@ -3276,7 +3276,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_124-2x.jpg",
     "ename": "Koraidon ex",
     "series": "SV3",
-    "cardNo": 124
+    "cardNo": "124"
   },
   {
     "id": "8549",
@@ -3316,7 +3316,7 @@
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/OBF/OBF_228_R_EN.png"
     ],
     "series": "SV3",
-    "cardNo": "125|215|223|228"
+    "cardNo": "125"
   },
   {
     "id": "8402",
@@ -3339,7 +3339,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_126-2x.jpg",
     "ename": "Paldean Wooper",
     "series": "SV3",
-    "cardNo": 126
+    "cardNo": "126"
   },
   {
     "id": "8551",
@@ -3362,7 +3362,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_127-2x.jpg",
     "ename": "Paldean Wooper",
     "series": "SV3",
-    "cardNo": 127
+    "cardNo": "127"
   },
   {
     "id": "8403",
@@ -3389,7 +3389,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_128-2x.jpg",
     "ename": "Paldean Clodsire",
     "series": "SV3",
-    "cardNo": 128
+    "cardNo": "128"
   },
   {
     "id": "8552",
@@ -3416,7 +3416,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_129-2x.jpg",
     "ename": "Paldean Clodsire",
     "series": "SV3",
-    "cardNo": 129
+    "cardNo": "129"
   },
   {
     "id": "8553",
@@ -3443,7 +3443,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_130-2x.jpg",
     "ename": "Umbreon",
     "series": "SV3",
-    "cardNo": 130
+    "cardNo": "130"
   },
   {
     "id": "8554",
@@ -3473,7 +3473,7 @@
       "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_204-2x.jpg"
     ],
     "series": "SV3",
-    "cardNo": "131|204"
+    "cardNo": "131"
   },
   {
     "id": "8404",
@@ -3500,7 +3500,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_132-2x.jpg",
     "ename": "Houndour",
     "series": "SV3",
-    "cardNo": 132
+    "cardNo": "132"
   },
   {
     "id": "8555",
@@ -3527,7 +3527,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_133-2x.jpg",
     "ename": "Houndoom",
     "series": "SV3",
-    "cardNo": 133
+    "cardNo": "133"
   },
   {
     "id": "8405",
@@ -3558,7 +3558,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_134-2x.jpg",
     "ename": "Houndoom ex",
     "series": "SV3",
-    "cardNo": 134
+    "cardNo": "134"
   },
   {
     "id": "8556",
@@ -3592,7 +3592,7 @@
       "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_214-2x.jpg"
     ],
     "series": "SV3",
-    "cardNo": "135|214"
+    "cardNo": "135"
   },
   {
     "id": "8557",
@@ -3619,7 +3619,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_136-2x.jpg",
     "ename": "Darkrai",
     "series": "SV3",
-    "cardNo": 136
+    "cardNo": "136"
   },
   {
     "id": "8558",
@@ -3642,7 +3642,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_137-2x.jpg",
     "ename": "Inkay",
     "series": "SV3",
-    "cardNo": 137
+    "cardNo": "137"
   },
   {
     "id": "8559",
@@ -3669,7 +3669,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_138-2x.jpg",
     "ename": "Malamar",
     "series": "SV3",
-    "cardNo": 138
+    "cardNo": "138"
   },
   {
     "id": "7927",
@@ -3696,7 +3696,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_139-2x.jpg",
     "ename": "Salandit",
     "series": "SV3",
-    "cardNo": 139
+    "cardNo": "139"
   },
   {
     "id": "7928",
@@ -3723,7 +3723,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_140-2x.jpg",
     "ename": "Salazzle",
     "series": "SV3",
-    "cardNo": 140
+    "cardNo": "140"
   },
   {
     "id": "8560",
@@ -3753,7 +3753,7 @@
       "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_205-2x.jpg"
     ],
     "series": "SV3",
-    "cardNo": "141|205"
+    "cardNo": "141"
   },
   {
     "id": "8414",
@@ -3780,7 +3780,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_142-2x.jpg",
     "ename": "Skarmory",
     "series": "SV3",
-    "cardNo": 142
+    "cardNo": "142"
   },
   {
     "id": "8561",
@@ -3807,7 +3807,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_143-2x.jpg",
     "ename": "Mawile",
     "series": "SV3",
-    "cardNo": 143
+    "cardNo": "143"
   },
   {
     "id": "7990",
@@ -3834,7 +3834,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_144-2x.jpg",
     "ename": "Bronzor",
     "series": "SV3",
-    "cardNo": 144
+    "cardNo": "144"
   },
   {
     "id": "7991",
@@ -3861,7 +3861,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_145-2x.jpg",
     "ename": "Bronzong",
     "series": "SV3",
-    "cardNo": 145
+    "cardNo": "145"
   },
   {
     "id": "8562",
@@ -3888,7 +3888,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_146-2x.jpg",
     "ename": "Probopass",
     "series": "SV3",
-    "cardNo": 146
+    "cardNo": "146"
   },
   {
     "id": "8415",
@@ -3911,7 +3911,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_147-2x.jpg",
     "ename": "Excadrill",
     "series": "SV3",
-    "cardNo": 147
+    "cardNo": "147"
   },
   {
     "id": "8563",
@@ -3934,7 +3934,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_148-2x.jpg",
     "ename": "Pawniard",
     "series": "SV3",
-    "cardNo": 148
+    "cardNo": "148"
   },
   {
     "id": "8564",
@@ -3961,7 +3961,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_149-2x.jpg",
     "ename": "Bisharp",
     "series": "SV3",
-    "cardNo": 149
+    "cardNo": "149"
   },
   {
     "id": "8565",
@@ -3988,7 +3988,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_150-2x.jpg",
     "ename": "Kingambit",
     "series": "SV3",
-    "cardNo": 150
+    "cardNo": "150"
   },
   {
     "id": "8416",
@@ -4015,7 +4015,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_151-2x.jpg",
     "ename": "Togedemaru",
     "series": "SV3",
-    "cardNo": 151
+    "cardNo": "151"
   },
   {
     "id": "8417",
@@ -4038,7 +4038,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_152-2x.jpg",
     "ename": "Meltan",
     "series": "SV3",
-    "cardNo": 152
+    "cardNo": "152"
   },
   {
     "id": "8418",
@@ -4069,7 +4069,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_153-2x.jpg",
     "ename": "Melmetal ex",
     "series": "SV3",
-    "cardNo": 153
+    "cardNo": "153"
   },
   {
     "id": "8566",
@@ -4095,7 +4095,7 @@
       "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_206-2x.jpg"
     ],
     "series": "SV3",
-    "cardNo": "154|206"
+    "cardNo": "154"
   },
   {
     "id": "8567",
@@ -4118,7 +4118,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_155-2x.jpg",
     "ename": "Varoom",
     "series": "SV3",
-    "cardNo": 155
+    "cardNo": "155"
   },
   {
     "id": "8568",
@@ -4153,7 +4153,7 @@
       "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_224-2x.jpg"
     ],
     "series": "SV3",
-    "cardNo": "156|216|224"
+    "cardNo": "156"
   },
   {
     "id": "8421",
@@ -4176,7 +4176,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_157-2x.jpg",
     "ename": "Dratini",
     "series": "SV3",
-    "cardNo": 157
+    "cardNo": "157"
   },
   {
     "id": "8422",
@@ -4203,7 +4203,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_158-2x.jpg",
     "ename": "Dragonair",
     "series": "SV3",
-    "cardNo": 158
+    "cardNo": "158"
   },
   {
     "id": "8423",
@@ -4238,7 +4238,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_159-2x.jpg",
     "ename": "Dragonite ex",
     "series": "SV3",
-    "cardNo": 159
+    "cardNo": "159"
   },
   {
     "id": "8569",
@@ -4265,7 +4265,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_160-2x.jpg",
     "ename": "Altaria",
     "series": "SV3",
-    "cardNo": 160
+    "cardNo": "160"
   },
   {
     "id": "8424",
@@ -4288,7 +4288,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_161-2x.jpg",
     "ename": "Drampa",
     "series": "SV3",
-    "cardNo": 161
+    "cardNo": "161"
   },
   {
     "id": "8570",
@@ -4314,7 +4314,7 @@
       "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_207-2x.jpg"
     ],
     "series": "SV3",
-    "cardNo": "162|207"
+    "cardNo": "162"
   },
   {
     "id": "8571",
@@ -4340,7 +4340,7 @@
       "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_208-2x.jpg"
     ],
     "series": "SV3",
-    "cardNo": "163|208"
+    "cardNo": "163"
   },
   {
     "id": "8572",
@@ -4375,7 +4375,7 @@
       "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_225-2x.jpg"
     ],
     "series": "SV3",
-    "cardNo": "164|217|225"
+    "cardNo": "164"
   },
   {
     "id": "8573",
@@ -4402,7 +4402,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_165-2x.jpg",
     "ename": "Kangaskhan",
     "series": "SV3",
-    "cardNo": 165
+    "cardNo": "165"
   },
   {
     "id": "8574",
@@ -4429,7 +4429,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_166-2x.jpg",
     "ename": "Eevee",
     "series": "SV3",
-    "cardNo": 166
+    "cardNo": "166"
   },
   {
     "id": "8575",
@@ -4456,7 +4456,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_167-2x.jpg",
     "ename": "Zigzagoon",
     "series": "SV3",
-    "cardNo": 167
+    "cardNo": "167"
   },
   {
     "id": "8576",
@@ -4483,7 +4483,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_168-2x.jpg",
     "ename": "Linoone",
     "series": "SV3",
-    "cardNo": 168
+    "cardNo": "168"
   },
   {
     "id": "8577",
@@ -4510,7 +4510,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_169-2x.jpg",
     "ename": "Swablu",
     "series": "SV3",
-    "cardNo": 169
+    "cardNo": "169"
   },
   {
     "id": "8427",
@@ -4533,7 +4533,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_170-2x.jpg",
     "ename": "Lillipup",
     "series": "SV3",
-    "cardNo": 170
+    "cardNo": "170"
   },
   {
     "id": "8428",
@@ -4560,7 +4560,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_171-2x.jpg",
     "ename": "Herdier",
     "series": "SV3",
-    "cardNo": 171
+    "cardNo": "171"
   },
   {
     "id": "8429",
@@ -4587,7 +4587,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_172-2x.jpg",
     "ename": "Stoutland",
     "series": "SV3",
-    "cardNo": 172
+    "cardNo": "172"
   },
   {
     "id": "8430",
@@ -4614,7 +4614,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_173-2x.jpg",
     "ename": "Audino",
     "series": "SV3",
-    "cardNo": 173
+    "cardNo": "173"
   },
   {
     "id": "8431",
@@ -4641,7 +4641,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_174-2x.jpg",
     "ename": "Bouffalant",
     "series": "SV3",
-    "cardNo": 174
+    "cardNo": "174"
   },
   {
     "id": "8578",
@@ -4664,7 +4664,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_175-2x.jpg",
     "ename": "Bunnelby",
     "series": "SV3",
-    "cardNo": 175
+    "cardNo": "175"
   },
   {
     "id": "7929",
@@ -4687,7 +4687,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_176-2x.jpg",
     "ename": "Yungoos",
     "series": "SV3",
-    "cardNo": 176
+    "cardNo": "176"
   },
   {
     "id": "7930",
@@ -4714,7 +4714,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_177-2x.jpg",
     "ename": "Gumshoos",
     "series": "SV3",
-    "cardNo": 177
+    "cardNo": "177"
   },
   {
     "id": "8432",
@@ -4741,7 +4741,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_178-2x.jpg",
     "ename": "Skwovet",
     "series": "SV3",
-    "cardNo": 178
+    "cardNo": "178"
   },
   {
     "id": "8433",
@@ -4776,7 +4776,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_179-2x.jpg",
     "ename": "Greedent ex",
     "series": "SV3",
-    "cardNo": 179
+    "cardNo": "179"
   },
   {
     "id": "8579",
@@ -4802,7 +4802,7 @@
       "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_209-2x.jpg"
     ],
     "series": "SV3",
-    "cardNo": "180|209"
+    "cardNo": "180"
   },
   {
     "id": "8580",
@@ -4825,7 +4825,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_181-2x.jpg",
     "ename": "Lechonk",
     "series": "SV3",
-    "cardNo": 181
+    "cardNo": "181"
   },
   {
     "id": "8435",
@@ -4852,7 +4852,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_182-2x.jpg",
     "ename": "Lechonk",
     "series": "SV3",
-    "cardNo": 182
+    "cardNo": "182"
   },
   {
     "id": "8436",
@@ -4879,7 +4879,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_183-2x.jpg",
     "ename": "Oinkologne",
     "series": "SV3",
-    "cardNo": 183
+    "cardNo": "183"
   },
   {
     "id": "8581",
@@ -4906,7 +4906,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_184-2x.jpg",
     "ename": "Oinkologne",
     "series": "SV3",
-    "cardNo": 184
+    "cardNo": "184"
   },
   {
     "id": "8582",
@@ -4933,7 +4933,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_185-2x.jpg",
     "ename": "Flamigo",
     "series": "SV3",
-    "cardNo": 185
+    "cardNo": "185"
   },
   {
     "id": "8591",
@@ -4954,7 +4954,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_192-2x.jpg",
     "ename": "Pokémon League Headquarters",
     "series": "SV3",
-    "cardNo": 192
+    "cardNo": "192"
   },
   {
     "id": "8590",
@@ -4975,7 +4975,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_196-2x.jpg",
     "ename": "Town Store",
     "series": "SV3",
-    "cardNo": 196
+    "cardNo": "196"
   },
   {
     "id": "7724",
@@ -5000,7 +5000,7 @@
       "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_249-2x.jpg"
     ],
     "series": "SV3",
-    "cardNo": "186|235|249"
+    "cardNo": "186"
   },
   {
     "id": "7831",
@@ -5021,7 +5021,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_187-2x.jpg",
     "ename": "Brassius",
     "series": "SV3",
-    "cardNo": 187
+    "cardNo": "187"
   },
   {
     "id": "8586",
@@ -5050,7 +5050,7 @@
       "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_226-2x.jpg"
     ],
     "series": "SV3",
-    "cardNo": "188|218|226"
+    "cardNo": "188"
   },
   {
     "id": "8587",
@@ -5074,7 +5074,7 @@
       "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_219-2x.jpg"
     ],
     "series": "SV3",
-    "cardNo": "190|219"
+    "cardNo": "190"
   },
   {
     "id": "8588",
@@ -5099,7 +5099,7 @@
       "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_227-2x.jpg"
     ],
     "series": "SV3",
-    "cardNo": "193|220|227"
+    "cardNo": "193"
   },
   {
     "id": "8589",
@@ -5123,7 +5123,7 @@
       "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_221-2x.jpg"
     ],
     "series": "SV3",
-    "cardNo": "194|221"
+    "cardNo": "194"
   },
   {
     "id": "7645",
@@ -5147,7 +5147,7 @@
       "https://tcg.pokemon.com/assets/img/sv-expansions/scarlet-violet/cards/en-us/SV01_EN_242-2x.jpg"
     ],
     "series": "SV3",
-    "cardNo": "195|242"
+    "cardNo": "195"
   },
   {
     "id": "8584",
@@ -5168,7 +5168,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_191-2x.jpg",
     "ename": "Patrol Cap",
     "series": "SV3",
-    "cardNo": 191
+    "cardNo": "191"
   },
   {
     "id": "8585",
@@ -5189,7 +5189,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_197-2x.jpg",
     "ename": "Vengeful Punch",
     "series": "SV3",
-    "cardNo": 197
+    "cardNo": "197"
   },
   {
     "id": "8583",
@@ -5214,6 +5214,731 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_189-2x.jpg",
     "ename": "Letter of Encouragement",
     "series": "SV3",
-    "cardNo": 189
+    "cardNo": "189"
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_198-2x.jpg",
+    "typeEnergy": "Grass",
+    "type": "Pokemon",
+    "cardName": "臭臭花",
+    "skillList": [
+      {
+        "name": "诱导香气",
+        "effect": "选择1只对手的备战宝可梦，与战斗宝可梦互换。"
+      },
+      {
+        "name": "绿叶舞步",
+        "effect": ""
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_198-2x.jpg",
+    "ename": "Gloom",
+    "series": "SV3",
+    "cardNo": "198",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_199-2x.jpg",
+    "typeEnergy": "Fire",
+    "type": "Pokemon",
+    "cardName": "九尾",
+    "skillList": [
+      {
+        "name": "鬼火",
+        "effect": ""
+      },
+      {
+        "name": "九尾狐之舞",
+        "effect": "在对手的1只宝可梦身上放置9个伤害指示物。在下个自己的回合，这只宝可梦无法使用招式。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_199-2x.jpg",
+    "ename": "Ninetales",
+    "series": "SV3",
+    "cardNo": "199",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_200-2x.jpg",
+    "typeEnergy": "Water",
+    "type": "Pokemon",
+    "cardName": "海豚侠",
+    "skillList": [
+      {
+        "name": "喷射拳",
+        "effect": "对手的1只备战宝可梦也受到30点伤害。[在备战区不计算弱点・抵抗力。]"
+      },
+      {
+        "name": "正义踢",
+        "effect": "在这个回合，若没有从备战区将这只宝可梦放置于战斗场，则这个招式失败。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_200-2x.jpg",
+    "ename": "Palafin",
+    "series": "SV3",
+    "cardNo": "200",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_201-2x.jpg",
+    "typeEnergy": "Lightning",
+    "type": "Pokemon",
+    "cardName": "电肚蛙",
+    "skillList": [
+      {
+        "name": "[特性]绝缘体",
+        "effect": "这只宝可梦不会受到对手的【雷】宝可梦招式的伤害。"
+      },
+      {
+        "name": "雷电刀锋",
+        "effect": "这个招式的伤害不计算对手的战斗宝可梦身上的附加效果。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_201-2x.jpg",
+    "ename": "Bellibolt",
+    "series": "SV3",
+    "cardNo": "201",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_202-2x.jpg",
+    "typeEnergy": "Psychic",
+    "type": "Pokemon",
+    "cardName": "皮宝宝",
+    "skillList": [
+      {
+        "name": "握握抽出",
+        "effect": "从牌库抽卡直到自己的手牌满7张为止。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_202-2x.jpg",
+    "ename": "Cleffa",
+    "series": "SV3",
+    "cardNo": "202",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_203-2x.jpg",
+    "typeEnergy": "Fighting",
+    "type": "Pokemon",
+    "cardName": "幼基拉斯",
+    "skillList": [
+      {
+        "name": "推击",
+        "effect": ""
+      },
+      {
+        "name": "正面对决",
+        "effect": ""
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_203-2x.jpg",
+    "ename": "Larvitar",
+    "series": "SV3",
+    "cardNo": "203",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_204-2x.jpg",
+    "typeEnergy": "Darkness",
+    "type": "Pokemon",
+    "cardName": "戴鲁比",
+    "skillList": [
+      {
+        "name": "群聚联合",
+        "effect": "从牌库附给自己的备战区所有「戴鲁比」各1张「基本【恶】能量」卡。并且重洗牌库。"
+      },
+      {
+        "name": "真气之牙",
+        "effect": "掷1次硬币若为反面，则这个招式失败。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_204-2x.jpg",
+    "ename": "Houndour",
+    "series": "SV3",
+    "cardNo": "204",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_205-2x.jpg",
+    "typeEnergy": "Metal",
+    "type": "Pokemon",
+    "cardName": "巨钳螳螂",
+    "skillList": [
+      {
+        "name": "惩罚之剪",
+        "effect": "增加对手的场上拥有特性的宝可梦的数量×50点伤害。"
+      },
+      {
+        "name": "居合斩",
+        "effect": ""
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_205-2x.jpg",
+    "ename": "Scizor",
+    "series": "SV3",
+    "cardNo": "205",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_206-2x.jpg",
+    "typeEnergy": "Metal",
+    "type": "Pokemon",
+    "cardName": "噗隆隆[进化前分岐α]",
+    "skillList": [
+      {
+        "name": "回转抽出",
+        "effect": "从自己的牌库抽出1张卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_206-2x.jpg",
+    "ename": "Varoom",
+    "series": "SV3",
+    "cardNo": "206",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_207-2x.jpg",
+    "typeEnergy": "Colorless",
+    "type": "Pokemon",
+    "cardName": "波波",
+    "skillList": [
+      {
+        "name": "起风",
+        "effect": ""
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_207-2x.jpg",
+    "ename": "Pidgey",
+    "series": "SV3",
+    "cardNo": "207",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_208-2x.jpg",
+    "typeEnergy": "Colorless",
+    "type": "Pokemon",
+    "cardName": "比比鸟",
+    "skillList": [
+      {
+        "name": "翅膀攻击",
+        "effect": ""
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_208-2x.jpg",
+    "ename": "Pidgeotto",
+    "series": "SV3",
+    "cardNo": "208",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_209-2x.jpg",
+    "typeEnergy": "Colorless",
+    "type": "Pokemon",
+    "cardName": "爱吃豚[进化前分岐α]",
+    "skillList": [
+      {
+        "name": "撞击",
+        "effect": ""
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_209-2x.jpg",
+    "ename": "Lechonk",
+    "series": "SV3",
+    "cardNo": "209",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_210-2x.jpg",
+    "typeEnergy": "Fire",
+    "type": "Pokemon",
+    "cardName": "冰砌鹅ex",
+    "skillList": [
+      {
+        "name": "[太晶]",
+        "effect": "只要这只宝可梦在备战区，不会受到招式的伤害。"
+      },
+      {
+        "name": "热热冰块",
+        "effect": "选择1个这只宝可梦身上附加的能量，将其丢弃。在下个对手的回合，受到这个招式的宝可梦无法使用招式。"
+      },
+      {
+        "name": "[ex规则]",
+        "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_210-2x.jpg",
+    "ename": "Eiscue ex",
+    "series": "SV3",
+    "cardNo": "210",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_211-2x.jpg",
+    "typeEnergy": "Lightning",
+    "type": "Pokemon",
+    "cardName": "班基拉斯ex",
+    "skillList": [
+      {
+        "name": "[太晶]",
+        "effect": "只要这只宝可梦在备战区，不会受到招式的伤害。"
+      },
+      {
+        "name": "飞山",
+        "effect": "将自己的牌库上方2张卡丢弃。"
+      },
+      {
+        "name": "索尔乱暴",
+        "effect": "若自己的备战宝可梦身上放置有伤害指示物，则增加100点伤害。"
+      },
+      {
+        "name": "[ex规则]",
+        "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_211-2x.jpg",
+    "ename": "Tyranitar ex",
+    "series": "SV3",
+    "cardNo": "211",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_212-2x.jpg",
+    "typeEnergy": "Psychic",
+    "type": "Pokemon",
+    "cardName": "蜂女王ex",
+    "skillList": [
+      {
+        "name": "[太晶]",
+        "effect": "只要这只宝可梦在备战区，不会受到招式的伤害。"
+      },
+      {
+        "name": "回复费洛蒙",
+        "effect": "将自己的1只宝可梦恢复「60」HP。"
+      },
+      {
+        "name": "幻影皇后",
+        "effect": "在对手的身上放置有伤害指示物的所有备战宝可梦身上，各放置3个伤害指示物。"
+      },
+      {
+        "name": "[ex规则]",
+        "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_212-2x.jpg",
+    "ename": "Vespiquen ex",
+    "series": "SV3",
+    "cardNo": "212",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_213-2x.jpg",
+    "typeEnergy": "Fighting",
+    "type": "Pokemon",
+    "cardName": "晶光花ex",
+    "skillList": [
+      {
+        "name": "[特性]星尘场地",
+        "effect": "只要这只宝可梦在战斗场上，对手的可放置于备战区的宝可梦数量改为3只。若对手的备战区有4只以上，则对手将宝可梦丢弃直到备战宝可梦变为3只为止。[变更备战宝可梦数量的效果，以变少者为优先。]"
+      },
+      {
+        "name": "猛毒宝石",
+        "effect": "将对手的战斗宝可梦【中毒】。"
+      },
+      {
+        "name": "[ex规则]",
+        "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_213-2x.jpg",
+    "ename": "Glimmora ex",
+    "series": "SV3",
+    "cardNo": "213",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_214-2x.jpg",
+    "typeEnergy": "Darkness",
+    "type": "Pokemon",
+    "cardName": "阿勃梭鲁ex",
+    "skillList": [
+      {
+        "name": "预知未来",
+        "effect": "查看自己或者对手的牌库上方3张卡，以任意顺序排列，放回牌库上方。"
+      },
+      {
+        "name": "咒诅猛击",
+        "effect": "若对手的手牌为3张以下，则增加120点伤害。"
+      },
+      {
+        "name": "[ex规则]",
+        "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_214-2x.jpg",
+    "ename": "Absol ex",
+    "series": "SV3",
+    "cardNo": "214",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_215-2x.jpg",
+    "typeEnergy": "Darkness",
+    "type": "Pokemon",
+    "cardName": "喷火龙ex",
+    "skillList": [
+      {
+        "name": "[太晶]",
+        "effect": "只要这只宝可梦在备战区，不会受到招式的伤害。"
+      },
+      {
+        "name": "[特性]炼狱支配",
+        "effect": "在自己的回合，从手牌使出这张卡并完成进化时，可使用1次。从自己的牌库选择最多3张「基本【火】能量」卡，以任意方式附于自己的宝可梦身上。并且重洗牌库。"
+      },
+      {
+        "name": "燃烧黑暗",
+        "effect": "增加对手已经获得的奖赏卡的张数×30点伤害。"
+      },
+      {
+        "name": "[ex规则]",
+        "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_215-2x.jpg",
+    "ename": "Charizard ex",
+    "series": "SV3",
+    "cardNo": "215",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_216-2x.jpg",
+    "typeEnergy": "Metal",
+    "type": "Pokemon",
+    "cardName": "普隆隆姆ex",
+    "skillList": [
+      {
+        "name": "[特性]调节",
+        "effect": "这只宝可梦身上最多可附有4张「宝可梦道具」卡。（这个特性消除时，自己将「宝可梦道具」卡丢弃直到变为1张为止。）"
+      },
+      {
+        "name": "疯狂甩尾",
+        "effect": "在下个对手的回合，这只宝可梦受到招式的伤害「-30」点。"
+      },
+      {
+        "name": "[ex规则]",
+        "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_216-2x.jpg",
+    "ename": "Revavroom ex",
+    "series": "SV3",
+    "cardNo": "216",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_217-2x.jpg",
+    "typeEnergy": "Colorless",
+    "type": "Pokemon",
+    "cardName": "大比鸟ex",
+    "skillList": [
+      {
+        "name": "[特性]音速搜索",
+        "effect": "在自己的回合时可使用1次。从自己的牌库任意选择1张卡加入手牌。并且重洗牌库。在这个回合，若已经使出了其他的「音速搜索」，则这个特性无法使用。"
+      },
+      {
+        "name": "狂风呼啸",
+        "effect": "若希望，将场上的竞技场卡丢弃。"
+      },
+      {
+        "name": "[ex规则]",
+        "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_217-2x.jpg",
+    "ename": "Pidgeot ex",
+    "series": "SV3",
+    "cardNo": "217",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_218-2x.jpg",
+    "type": "Trainers",
+    "cardName": "也慈",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "在使用了这张卡的回合结束前，自己的所有宝可梦无法使用招式。（包含新上场的宝可梦。）"
+      },
+      {
+        "name": "",
+        "effect": "从自己的牌库选择最多2张基本能量卡，附于自己的1只宝可梦身上。并且重洗牌库。"
+      },
+      {
+        "name": "[支援者规则]",
+        "effect": "在自己的回合时，支援者卡只可使用1张。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_218-2x.jpg",
+    "ename": "Geeta",
+    "series": "SV3",
+    "cardNo": "218",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_219-2x.jpg",
+    "type": "Trainers",
+    "cardName": "奥尔迪加",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "查看对手的手牌，从其中任意选择1张卡，放回对手的牌库下方。然后，对手若希望，从牌库抽出1张卡。"
+      },
+      {
+        "name": "[支援者规则]",
+        "effect": "在自己的回合时，支援者卡只可使用1张。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_219-2x.jpg",
+    "ename": "Ortega",
+    "series": "SV3",
+    "cardNo": "219",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_220-2x.jpg",
+    "type": "Trainers",
+    "cardName": "波琵",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "选择最多2个自己的场上的1只宝可梦身上附加的能量，改附于自己的另1只宝可梦身上。"
+      },
+      {
+        "name": "[支援者规则]",
+        "effect": "在自己的回合时，支援者卡只可使用1张。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_220-2x.jpg",
+    "ename": "Poppy",
+    "series": "SV3",
+    "cardNo": "220",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_221-2x.jpg",
+    "type": "Trainers",
+    "cardName": "莱姆",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "从自己的牌库抽出3张卡。将对手的战斗宝可梦与备战宝可梦互换。[由对手选择放置于战斗场的宝可梦。]"
+      },
+      {
+        "name": "[支援者规则]",
+        "effect": "在自己的回合时，支援者卡只可使用1张。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_221-2x.jpg",
+    "ename": "Ryme",
+    "series": "SV3",
+    "cardNo": "221",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_222-2x.jpg",
+    "typeEnergy": "Fire",
+    "type": "Pokemon",
+    "cardName": "冰砌鹅ex",
+    "skillList": [
+      {
+        "name": "[太晶]",
+        "effect": "只要这只宝可梦在备战区，不会受到招式的伤害。"
+      },
+      {
+        "name": "热热冰块",
+        "effect": "选择1个这只宝可梦身上附加的能量，将其丢弃。在下个对手的回合，受到这个招式的宝可梦无法使用招式。"
+      },
+      {
+        "name": "[ex规则]",
+        "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_222-2x.jpg",
+    "ename": "Eiscue ex",
+    "series": "SV3",
+    "cardNo": "222",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_223-2x.jpg",
+    "typeEnergy": "Darkness",
+    "type": "Pokemon",
+    "cardName": "喷火龙ex",
+    "skillList": [
+      {
+        "name": "[太晶]",
+        "effect": "只要这只宝可梦在备战区，不会受到招式的伤害。"
+      },
+      {
+        "name": "[特性]炼狱支配",
+        "effect": "在自己的回合，从手牌使出这张卡并完成进化时，可使用1次。从自己的牌库选择最多3张「基本【火】能量」卡，以任意方式附于自己的宝可梦身上。并且重洗牌库。"
+      },
+      {
+        "name": "燃烧黑暗",
+        "effect": "增加对手已经获得的奖赏卡的张数×30点伤害。"
+      },
+      {
+        "name": "[ex规则]",
+        "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_223-2x.jpg",
+    "ename": "Charizard ex",
+    "series": "SV3",
+    "cardNo": "223",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_224-2x.jpg",
+    "typeEnergy": "Metal",
+    "type": "Pokemon",
+    "cardName": "普隆隆姆ex",
+    "skillList": [
+      {
+        "name": "[特性]调节",
+        "effect": "这只宝可梦身上最多可附有4张「宝可梦道具」卡。（这个特性消除时，自己将「宝可梦道具」卡丢弃直到变为1张为止。）"
+      },
+      {
+        "name": "疯狂甩尾",
+        "effect": "在下个对手的回合，这只宝可梦受到招式的伤害「-30」点。"
+      },
+      {
+        "name": "[ex规则]",
+        "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_224-2x.jpg",
+    "ename": "Revavroom ex",
+    "series": "SV3",
+    "cardNo": "224",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_215-2x.jpg",
+    "typeEnergy": "Colorless",
+    "type": "Pokemon",
+    "cardName": "大比鸟ex",
+    "skillList": [
+      {
+        "name": "[特性]音速搜索",
+        "effect": "在自己的回合时可使用1次。从自己的牌库任意选择1张卡加入手牌。并且重洗牌库。在这个回合，若已经使出了其他的「音速搜索」，则这个特性无法使用。"
+      },
+      {
+        "name": "狂风呼啸",
+        "effect": "若希望，将场上的竞技场卡丢弃。"
+      },
+      {
+        "name": "[ex规则]",
+        "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_225-2x.jpg",
+    "ename": "Pidgeot ex",
+    "series": "SV3",
+    "cardNo": "225",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_226-2x.jpg",
+    "type": "Trainers",
+    "cardName": "也慈",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "在使用了这张卡的回合结束前，自己的所有宝可梦无法使用招式。（包含新上场的宝可梦。）"
+      },
+      {
+        "name": "",
+        "effect": "从自己的牌库选择最多2张基本能量卡，附于自己的1只宝可梦身上。并且重洗牌库。"
+      },
+      {
+        "name": "[支援者规则]",
+        "effect": "在自己的回合时，支援者卡只可使用1张。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_226-2x.jpg",
+    "ename": "Geeta",
+    "series": "SV3",
+    "cardNo": "226",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_227-2x.jpg",
+    "type": "Trainers",
+    "cardName": "波琵",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "选择最多2个自己的场上的1只宝可梦身上附加的能量，改附于自己的另1只宝可梦身上。"
+      },
+      {
+        "name": "[支援者规则]",
+        "effect": "在自己的回合时，支援者卡只可使用1张。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_227-2x.jpg",
+    "ename": "Poppy",
+    "series": "SV3",
+    "cardNo": "227",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_228-2x.jpg",
+    "typeEnergy": "Darkness",
+    "type": "Pokemon",
+    "cardName": "喷火龙ex",
+    "skillList": [
+      {
+        "name": "[太晶]",
+        "effect": "只要这只宝可梦在备战区，不会受到招式的伤害。"
+      },
+      {
+        "name": "[特性]炼狱支配",
+        "effect": "在自己的回合，从手牌使出这张卡并完成进化时，可使用1次。从自己的牌库选择最多3张「基本【火】能量」卡，以任意方式附于自己的宝可梦身上。并且重洗牌库。"
+      },
+      {
+        "name": "燃烧黑暗",
+        "effect": "增加对手已经获得的奖赏卡的张数×30点伤害。"
+      },
+      {
+        "name": "[ex规则]",
+        "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_228-2x.jpg",
+    "ename": "Charizard ex",
+    "series": "SV3",
+    "cardNo": "228",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_229-2x.jpg",
+    "cardName": "深钵镇",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "双方玩家在每个自己的回合时，可使用1次，可从自己的牌库选择1张【基础】宝可梦卡（「拥有规则的宝可梦」除外），放置于备战区。并且重洗牌库。"
+      },
+      {
+        "name": "[竞技场规则]",
+        "effect": "在自己的回合时，可将1张竞技场卡放置于战斗场旁边。若其他竞技场卡被放置，则将这张卡丢弃。名称相同的竞技场卡无法放置于场上。"
+      }
+    ],
+    "type": "Trainers",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/obsidian-flames/cards/en-us/SV03_EN_229-2x.jpg",
+    "ename": "Artazon",
+    "series": "SV3",
+    "cardNo": "229",
+    "isHide": true
   }
 ]

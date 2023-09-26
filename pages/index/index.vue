@@ -7,7 +7,7 @@
     </div>
   </div>
   <div class="deck">
-    <div class="bn" @click="isShowDeck = true">可导入Live或Limitless卡组代码</div>
+    <div class="bn" @click="isShowDeck = true">可导入Limitless卡组代码预览</div>
   </div>
   <div class="search">
     <input type="text" v-model="searchInp" placeholder="请输入卡名(支持简中、英文)" />
@@ -23,14 +23,14 @@
               <image :src="sitem.logo" mode="heightFix" class="img"></image>
             </div>
             {{ sitem.name }}
-            <div class="ps">{{ sitem.no }}({{ sitem.tipNo }})</div>
+            <div class="ps">{{ sitem.no }}({{ sitem.tipNo }}){{ sitem.code == '' ? '' : ` - ${sitem.code}` }}</div>
           </div>
           <div class="item dis" v-else>
             <div class="imgwp">
               <image :src="sitem.logo" mode="heightFix" class="img"></image>
             </div>
             {{ sitem.name }}
-            <div class="ps">{{ sitem.no }} - 退环境({{ sitem.tipNo }})</div>
+            <div class="ps">{{ sitem.no }} - 退环境({{ sitem.tipNo }}){{ sitem.code == '' ? '' : ` - ${sitem.code}` }}</div>
           </div>
         </template>
       </div>
@@ -47,7 +47,7 @@
 </template>
 
 <script setup>
-  import seriesList from './json/series'
+  import seriesList from './js/series'
   import { ref } from 'vue'
   import { onLoad } from '@dcloudio/uni-app'
 

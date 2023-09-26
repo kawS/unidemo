@@ -14,17 +14,20 @@
 		</div>
 	</div>
 	<div class="list">
-		<div class="item" v-for="item in detList" :key="item.id" @click="showDet(item)">
-			<div class="picwp">
-				<image src="../../../common/img/tcg-card-back.jpg" mode="widthFix" class="cback"></image>
-				<!-- <image :src="item.imgUrl" lazy-load mode="heightFix" class="img"></image> -->
-				<image :src="item.enImgUrl" lazy-load mode="heightFix" class="img"></image>
-				<div class="series">{{ item.series }}{{ item?.artList?.length > 0 ? `|${item.artList.length}` : '' }}</div>
+		<template v-for="item in detList" :key="item.id">
+			<div class="item" v-if="item.isHide != true" @click="showDet(item)">
+				<div class="picwp">
+					<image src="../../../common/img/tcg-card-back.jpg" mode="widthFix" class="cback"></image>
+					<image :src="item.imgUrl" lazy-load mode="heightFix" class="img"></image>
+					<!-- <image :src="item.enImgUrl" lazy-load mode="heightFix" class="img"></image> -->
+					<div class="series">{{ item.series }}{{ item?.artList?.length > 0 ? `|${item.artList.length}` : '' }}</div>
+				</div>
+				<!-- <div>{{ item.cardName }} - {{ item.cardNo }}</div> -->
+				<div>{{ item.cardName }}</div>
+				<div>{{ item.ename }}</div>
+				<!-- {{ item.id }} -->
 			</div>
-			<div>{{ item.cardName }} - {{ item.cardNo }}</div>
-			<div>{{ item.ename }}</div>
-			<!-- {{ item.id }} -->
-		</div>
+		</template>
 	</div>
 	<emptyList v-if="!isLoading && detList.length == 0"></emptyList>
 	<div class="popups" v-show="isShowFilter">
@@ -312,7 +315,7 @@
 			width: 48%;
 			min-height: 80rpx;
 			text-align: center;
-			font-size: 30rpx;
+			font-size: 12px;
 			.picwp{
 				position: relative;
 				margin: 0 0 10rpx 0;

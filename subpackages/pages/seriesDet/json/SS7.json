@@ -4614,5 +4614,55 @@
     "ename": "Treasure Energy",
     "series": "SS7",
     "cardNo": "165|233"
+  },
+  {
+    "isHide": true,
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_191-2x.jpg",
+    "typeEnergy": "Dragon",
+    "type": "Pokemon",
+    "cardName": "快龙V",
+    "skillList": [
+      {
+        "name": "撕裂",
+        "effect": "这个招式的伤害不计算对手的战斗宝可梦身上的附加效果。"
+      },
+      {
+        "name": "龙之强风",
+        "effect": "自己的所有备战宝可梦也各受到20点伤害。[在备战区不计算弱点・抵抗力。]"
+      },
+      {
+        "name": "[V规则]",
+        "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_191-2x.jpg",
+    "ename": "Dragonite V",
+    "series": "SS7",
+    "cardNo": 191
+  },
+  {
+    "isHide": true,
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_192-2x.jpg",
+    "typeEnergy": "Dragon",
+    "type": "Pokemon",
+    "cardName": "快龙V",
+    "skillList": [
+      {
+        "name": "撕裂",
+        "effect": "这个招式的伤害不计算对手的战斗宝可梦身上的附加效果。"
+      },
+      {
+        "name": "龙之强风",
+        "effect": "自己的所有备战宝可梦也各受到20点伤害。[在备战区不计算弱点・抵抗力。]"
+      },
+      {
+        "name": "[V规则]",
+        "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_192-2x.jpg",
+    "ename": "Dragonite V",
+    "series": "SS7",
+    "cardNo": 192
   }
 ]

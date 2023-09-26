@@ -11,15 +11,17 @@
 		</div>
 	</div>
 	<div class="list" v-if="resultList.length > 0">
-		<div class="item" v-for="item in resultList" :key="item.id" @click="showDet(item)">
-			<div class="picwp">
-				<image src="../../../common/img/tcg-card-back.jpg" mode="widthFix" class="cback"></image>
-				<image :src="item.imgUrl" lazy-load mode="heightFix" class="img"></image>
-				<div class="series">{{ item.series }}{{ item?.artList?.length > 0 ? `|${item.artList.length}` : '' }}</div>
+		<template v-for="item in resultList" :key="item.id">
+			<div class="item" v-if="item.isHide != true" @click="showDet(item)">
+				<div class="picwp">
+					<image src="../../../common/img/tcg-card-back.jpg" mode="widthFix" class="cback"></image>
+					<image :src="item.imgUrl" lazy-load mode="heightFix" class="img"></image>
+					<div class="series">{{ item.series }}{{ item?.artList?.length > 0 ? `|${item.artList.length}` : '' }}</div>
+				</div>
+				<div>{{ item.cardName }}</div>
+				<div>{{ item.ename }}</div>
 			</div>
-			<div>{{ item.cardName }}</div>
-			<div>{{ item.ename }}</div>
-		</div>
+		</template>
 	</div>
 	<emptyList v-else></emptyList>
 	<div class="popups" v-if="isShowCard">

@@ -3,25 +3,31 @@
 	<div class="fctrl">
 		<div class="info">
 			<div>卡组列表</div>
-			<div>共{{ resultList.length }}种卡, 导入失败{{ noCardLength }}张卡</div>
+			<div>共{{ resultList.length }}类</div>
 		</div>
+		<div class="tips">导入退环境卡或卡组编号查不到会缺失</div>
+		<div v-if="noCardList != ''">未导入: {{ noCardList }}</div>
 	</div>
 	<div class="list" v-if="resultList.length > 0">
 		<div class="item" v-for="item in resultList" :key="item.name" @click="showDet(item)">
 			<div class="picwp">
 				<image src="../../../common/img/tcg-card-back.jpg" mode="widthFix" class="cback"></image>
-				<image :src="item.enImgUrl" lazy-load mode="heightFix" class="img" v-if="item.artIndex == -1"></image>
+				<image :src="item.enImgUrl" lazy-load mode="heightFix" class="img" v-if="item.artIndex == -1 || !item.artList"></image>
 				<image :src="item?.artList[item.artIndex]" lazy-load mode="heightFix" class="img" v-else></image>
-				<div class="count">{{ item.count }}</div>
-				<div class="series">{{ item.series }}{{ item?.artList?.length > 0 ? `|${item.artList.length}` : '' }}</div>
+				<div class="count"><div class="num">{{ item.count }}</div></div>
+				<div class="series">{{ item.series }}</div>
 			</div>
-			<div>{{ item.cardName }}</div>
-			<div>{{ item.ename }}</div>
+			<!-- <div>{{ item.cardName }}</div> -->
+			<!-- <div>{{ item.ename }}</div> -->
 		</div>
 	</div>
 	<emptyList v-else></emptyList>
 	<div class="deckCode">
-		<div v-for="(item, index) in copyDeck" :key="index">{{ item }}</div>
+		<div class="len">{{ copyDeckLength }}</div>
+		<div class="txt">
+			<div v-for="(item, index) in copyDeck" :key="index" class="line">{{ item }}</div>
+		</div>
+		<div class="bn" @click="copy">复制代码</div>
 	</div>
 	<div class="popups" v-if="isShowCard">
 		<div class="p-showcard" :class="{'animate__zoomIn': isShowCard}">
@@ -66,37 +72,31 @@
 
 <script setup>
 	import emptyList from '../../../components/emptyList/index.vue'
+	import fixData from './js/fixData'
 	import { ref } from 'vue'
   import { onLoad } from '@dcloudio/uni-app'
+	import _ from 'lodash'
 
 	// const seriesCodeList = [{code: 'MEW', name: 'SV3_5'}, {code: 'OBF', name: 'SV3'}, {code: 'PAL', name: 'SV2'}, {code: 'SVI', name: 'SV1'}, {code: 'CRZ', name: 'SS12_5'}, {code: 'SIT', name: 'SS12'}, {code: 'LOR', name: 'SS11'}, {code: 'PGO', name: 'SS10_5'}, {code: 'ASR', name: 'SS10'}, {code: 'BRS', name: 'SS9'}, {code: 'FST', name: 'SS8'}, {code: 'CEL', name: 'SS7_5'}, {code: 'EVS', name: 'SS7'}, {code: 'CRE', name: 'SS6'}, {code: 'BST', name: 'SS5'}];
 	const seriesCodeList = {'MEW': 'SV3_5', 'OBF': 'SV3', 'PAL': 'SV2', 'SVI': 'SV1', 'CRZ': 'SS12_5', 'SIT': 'SS12', 'LOR': 'SS11', 'PGO': 'SS10_5', 'ASR': 'SS10', 'BRS': 'SS9', 'FST': 'SS8', 'CEL': 'SS7_5', 'EVS': 'SS7', 'CRE': 'SS6', 'BST': 'SS5'};
 	const seriesList = ['SV3_5', 'SV3', 'SV2', 'SV1', 'SS12_5', 'SS12', 'SS11', 'SS10_5', 'SS10', 'SS9', 'SS8', 'SS7_5', 'SS7', 'SS6', 'SS5'];
-	const baseEList = ['Grass Energy', 'Fire Energy', 'Water Energy', 'Lightning Energy', 'Psychic Energy', 'Fighting Energy', 'Darkness Energy', 'Metal Energy', 'Fairy Energy', 'Dragon Energy', 'Colorless Energy']
+	const baseEList = ['Grass Energy', 'Fire Energy', 'Water Energy', 'Lightning Energy', 'Psychic Energy', 'Fighting Energy', 'Darkness Energy', 'Metal Energy']
 	let resetData = [];
-	let allIndex = 0;
+	// let cardLength = 0;
+	let forLength = 0;
+	let baseCardData = [];
 	let resultList = ref([]);
 	let isShowCard = ref(false);
 	let showCardDet = ref(null);
-	let noCardLength = ref(0);
+	let noCardList = ref(null);
 	let copyDeck = ref(null);
+	let copyDeckLength = ref(null)
 	
 	onLoad(options => {
 		const _data = uni.getStorageSync('tempDeck');
-		const list = JSON.parse(_data);
-		setData(list);
-		copyDeck.value = list
-	})
-
-	const setData = (data) => {
-		uni.showLoading({
-			title: '加载中',
-			mask: true
-		});
-		let list = [];
-		let sortBySeries = {}
-		// console.log(data);
-		for(let item of data){
+		let list = JSON.parse(_data);
+		let newList = [];
+		for(let item of list){
 			if(/^Pokémon/.test(item)){
 				continue
 			}else if(/^Trainer/.test(item)){
@@ -108,6 +108,54 @@
 			}else if(item == ''){
 				continue
 			}
+			if(/\{G\}/.test(item)){
+				item = item.substring(0, item.indexOf(' ') + 1) + baseEList[0] + ' 1'
+			}
+			if(/\{R\}/.test(item)){
+				item = item.substring(0, item.indexOf(' ') + 1) + baseEList[1] + ' 2'
+			}
+			if(/\{W\}/.test(item)){
+				item = item.substring(0, item.indexOf(' ') + 1) + baseEList[2] + ' 3'
+			}
+			if(/\{L\}/.test(item)){
+				item = item.substring(0, item.indexOf(' ') + 1) + baseEList[3] + ' 4'
+			}
+			if(/\{P\}/.test(item)){
+				item = item.substring(0, item.indexOf(' ') + 1) + baseEList[4] + ' 5'
+			}
+			if(/\{F\}/.test(item)){
+				item = item.substring(0, item.indexOf(' ') + 1) + baseEList[5] + ' 6'
+			}
+			if(/\{D\}/.test(item)){
+				item = item.substring(0, item.indexOf(' ') + 1) + baseEList[6] + ' 7'
+			}
+			if(/\{M\}/.test(item)){
+				item = item.substring(0, item.indexOf(' ') + 1) + baseEList[7] + ' 8'
+			}
+			newList.push(item)
+		}
+		console.log(newList)
+		setData(newList);
+		copyDeck.value = newList;
+		copyDeckLength.value = newList.length
+	})
+
+	const setData = (data) => {
+		uni.showLoading({
+			title: '加载中',
+			mask: true
+		});
+		let list = [];
+		let sortBySeries = {}
+		// console.log(data);
+		for(let item of data){
+			let n = item.replace(' PH', '').replace(/(^\d{1,2} )|( \d{1,3}$)/g, '');
+			if(!baseEList.includes(n)){
+				let indexof = n.lastIndexOf(' ');
+				baseCardData.push(n.substring(0, indexof).replace('’', '\''));
+			}
+			// console.log(baseCardData)
+			// cardLength += 1;
 			// console.log(item)
 			let rItem = null;
 			let count = null;
@@ -115,10 +163,12 @@
 			let series = null;
 			let sNo = null;
 			let cardNo = null;
-			let m = item.match(/(\d{1,2}) (.+) ([A-Z]{3}\-[A-Z]{2}|[A-Z]{3}) (\d{1,3})/);
+			let m = item.replace(' PH', '').match(/(\d{1,2}) (.+) ([A-Z]{3}\-[A-Z]{2}|[A-Z]{3}|[A-Z]{2}\-[A-Z]{2}) (\d{1,3})/);
+			if(item == "1 Boss's Orders SWSHALT 102"){
+				console.log(m)
+			}
 			if(m == null){
 				if(!/ Energy/.test(item)){
-					noCardLength.value += 1;
 					continue
 				};
 				m = item.match(/(\d{1,2}) (.+) (\d{1,3})/);
@@ -126,13 +176,20 @@
 				ename = m[2];
 				let returnEData = returnEnergyData(ename, count);
 				resetData.push(returnEData);
-				allIndex += 1
+				continue
 			}else{
 				count = m[1];
 				ename = m[2];
-				series = m[3];
+				// 主流卡编号修复
+				if(fixData[ename]){
+					series = fixData[ename].series;
+					cardNo = fixData[ename].cardNo;
+				}else{
+					series = m[3];
+					cardNo = m[4];
+				}
 				sNo = null;
-				cardNo = m[4];
+				// console.log(series, sNo)
 			}
 			if(/-/.test(series)){
 				let _d = series.split('-');
@@ -140,15 +197,25 @@
 				series = _d[0]
 			}
 			sNo = seriesCodeList[series];
-			if(!sortBySeries[sNo]){
-				sortBySeries[sNo] = []
+			if(sNo){
+				if(!sortBySeries[sNo]){
+					sortBySeries[sNo] = [];
+					forLength += 1
+				}
+				rItem = {count, ename, series, sNo, cardNo};
+				sortBySeries[sNo].push(rItem)
+				list.push(rItem);
 			}
-			rItem = {count, ename, series, sNo, cardNo};
-			sortBySeries[sNo].push(rItem)
-			list.push(rItem);
 		}
-		// console.log(list, sortBySeries);
-		returnDet(sortBySeries)
+		console.log(_.isEmpty(sortBySeries), sortBySeries)
+		if(_.isEmpty(sortBySeries)){
+			loadData([], [], '')
+		}else{
+			returnDet(sortBySeries);
+		}
+		setTimeout(() => {
+			uni.hideLoading();
+		}, 1500)
 	}
 	
 	const returnDet = (data) => {
@@ -157,27 +224,27 @@
 			if(obj[serItem]?.length > 0){
 				// console.log(obj[serItem])
 				switch(serItem) {
-					case 'SV3_5': import('../seriesDet/json/SV3_5.json').then((res) => {loadData(res.default, obj[serItem])}); break;
-					case 'SV3': import('../seriesDet/json/SV3.json').then((res) => {loadData(res.default, obj[serItem])}); break;
-					case 'SV2': import('../seriesDet/json/SV2.json').then((res) => {loadData(res.default, obj[serItem])}); break;
-					case 'SV1': import('../seriesDet/json/SV1.json').then((res) => {loadData(res.default, obj[serItem])}); break;
-					case 'SS12_5': import('../seriesDet/json/SS12_5.json').then((res) => {loadData(res.default, obj[serItem])}); break;
-					case 'SS12': import('../seriesDet/json/SS12.json').then((res) => {loadData(res.default, obj[serItem])}); break;
-					case 'SS11': import('../seriesDet/json/SS11.json').then((res) => {loadData(res.default, obj[serItem])}); break;
-					case 'SS10_5': import('../seriesDet/json/SS10_5.json').then((res) => {loadData(res.default, obj[serItem])}); break;
-					case 'SS10': import('../seriesDet/json/SS10.json').then((res) => {loadData(res.default, obj[serItem])}); break;
-					case 'SS9': import('../seriesDet/json/SS9.json').then((res) => {loadData(res.default, obj[serItem])}); break;
-					case 'SS8': import('../seriesDet/json/SS8.json').then((res) => {loadData(res.default, obj[serItem])}); break;
-					case 'SS7_5': import('../seriesDet/json/SS7_5.json').then((res) => {loadData(res.default, obj[serItem])}); break;
-					case 'SS7': import('../seriesDet/json/SS7.json').then((res) => {loadData(res.default, obj[serItem])}); break;
-					case 'SS6': import('../seriesDet/json/SS6.json').then((res) => {loadData(res.default, obj[serItem])}); break;
-					case 'SS5': import('../seriesDet/json/SS5.json').then((res) => {loadData(res.default, obj[serItem])}); break;
+					case 'SV3_5': import('../seriesDet/json/SV3_5.json').then((res) => {loadData(res.default, obj[serItem], serItem)}); break;
+					case 'SV3': import('../seriesDet/json/SV3.json').then((res) => {loadData(res.default, obj[serItem], serItem)}); break;
+					case 'SV2': import('../seriesDet/json/SV2.json').then((res) => {loadData(res.default, obj[serItem], serItem)}); break;
+					case 'SV1': import('../seriesDet/json/SV1.json').then((res) => {loadData(res.default, obj[serItem], serItem)}); break;
+					case 'SS12_5': import('../seriesDet/json/SS12_5.json').then((res) => {loadData(res.default, obj[serItem], serItem)}); break;
+					case 'SS12': import('../seriesDet/json/SS12.json').then((res) => {loadData(res.default, obj[serItem], serItem)}); break;
+					case 'SS11': import('../seriesDet/json/SS11.json').then((res) => {loadData(res.default, obj[serItem], serItem)}); break;
+					case 'SS10_5': import('../seriesDet/json/SS10_5.json').then((res) => {loadData(res.default, obj[serItem], serItem)}); break;
+					case 'SS10': import('../seriesDet/json/SS10.json').then((res) => {loadData(res.default, obj[serItem], serItem)}); break;
+					case 'SS9': import('../seriesDet/json/SS9.json').then((res) => {loadData(res.default, obj[serItem], serItem)}); break;
+					case 'SS8': import('../seriesDet/json/SS8.json').then((res) => {loadData(res.default, obj[serItem], serItem)}); break;
+					case 'SS7_5': import('../seriesDet/json/SS7_5.json').then((res) => {loadData(res.default, obj[serItem], serItem)}); break;
+					case 'SS7': import('../seriesDet/json/SS7.json').then((res) => {loadData(res.default, obj[serItem], serItem)}); break;
+					case 'SS6': import('../seriesDet/json/SS6.json').then((res) => {loadData(res.default, obj[serItem], serItem)}); break;
+					case 'SS5': import('../seriesDet/json/SS5.json').then((res) => {loadData(res.default, obj[serItem], serItem)}); break;
 				}
 			}
 		}
 	}
 
-	const loadData = (oData, data) => {
+	const loadData = (oData, data, sname) => {
 		let result = [];
 		for(let o of oData){
 			let noList = [];
@@ -187,7 +254,7 @@
 			}
 			for(let _d of data){
 				if(noList.length > 0){
-					if(noList.includes(_d.cardNo) && _d.ename == ename){
+					if(noList.includes(_d.cardNo) && _d.ename.replace('’', '\'') == ename){
 						let index = noList.findIndex(x => {
 							return x == _d.cardNo
 						})
@@ -197,7 +264,7 @@
 						result.push(od)
 					}
 				}else{
-					if(_d.cardNo == o.cardNo && _d.ename == ename){
+					if(_d.cardNo == o.cardNo && _d.ename.replace('’', '\'') == ename){
 						let od = JSON.parse(JSON.stringify(o));
 						od.count = _d.count;
 						od.artIndex = -1;
@@ -206,23 +273,45 @@
 				}
 			}
 		}
-		allIndex += result.length;
+		// console.log(forLength, result, sname, resetData)
 		resetData = [...resetData, ...result];
-		if(allIndex == resetData.length){
+		forLength -= 1;
+		if(forLength <= 0){
 			// console.log(resetData)
+			let nowData = resetData.map(item => {
+				return item.ename.replace(/ \(.+\)/, '');
+			})
+			let diff = _.difference(baseCardData, nowData);
+			// console.log(baseCardData, nowData, diff);
+			noCardList.value = diff.length > 0 ? diff.join(', ') : '';
 			// 排序
-			let p = resetData.filter(item => {
-				return item.type == 'Pokemon'
-			});
-			let t = resetData.filter(item => {
-				return item.type == 'Trainers'
-			});
-			let e = resetData.filter(item => {
-				return item.type == 'Energy'
-			});
-			resetData = [...p, ...t, ...e];
+			let arr = {p: [], t: [], e: []};
+			for(let item of resetData){
+				if(item.type == 'Pokemon'){
+					arr.p.push(item)
+				}
+				if(item.type == 'Trainers'){
+					arr.t.push(item)
+				}
+				if(item.type == 'Energy'){
+					arr.e.push(item)
+				}
+			}
+			arr.p = _.sortBy(arr.p, item => {
+				return item.typeEnergy
+			})
+			arr.t = _.sortBy(arr.t, item => {
+				return item.skillList[item.skillList.length - 1].name
+			})
+			resetData = [...arr.p, ...arr.t, ...arr.e];
 			resultList.value = resetData;
-			uni.hideLoading();
+		}else{
+			let nowData = resetData.map(item => {
+				return item.ename.replace(/ \(.+\)/, '');
+			})
+			let diff = _.difference(baseCardData, nowData);
+			// console.log(baseCardData, nowData, diff);
+			noCardList.value = diff.length > 0 ? diff.join(', ') : '';
 		}
 	}
 
@@ -259,10 +348,6 @@
 			"Metal Energy": {
 				"name": "钢",
 				"img": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVO/EVO_098_R_EN.png"
-			},
-			"Fairy Energy": {
-				"name": "妖精",
-				"img": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVO/EVO_099_R_EN.png"
 			}
 		}
 		let _data = obj[ename];
@@ -288,16 +373,21 @@
 	const changeArt = (url) => {
 		showCardDet.value.showImg = url
 	}
+
+	const copy = () => {
+		uni.setClipboardData({
+			data: copyDeck.value.join('\r'),
+			success: function () {
+				console.log('success');
+			}
+		});
+	}
 </script>
 
 <style scoped lang="scss">
 	.fctrl{
-		position: sticky;
-		top: 0;
 		padding: 20rpx 30rpx 10rpx;
 		background: #f3f3f3;
-		box-shadow: 0 -1px #f3f3f3;
-		z-index: 5;
 		.info{
 			margin: 0 0 10rpx 0;
 			display: flex;
@@ -326,15 +416,23 @@
 				text-align: center;
 			}
 		}
+		.tips{
+			padding: 5rpx 0;
+			background: #de9b25;
+			border-radius: 5rpx;
+			font-size: 12px;
+			color: #fff;
+			text-align: center;
+		}
 	}
 	.list{
-		margin: 10rpx 30rpx 0;
+		margin: 10rpx 30rpx 20rpx;
 		display: flex;
 		flex-wrap: wrap;
 		// justify-content: space-between;
 		.item{
 			position: relative;
-			margin: 0 0 20rpx 0;
+			margin: 0 0 5rpx 0;
 			width: 24%;
 			min-height: 80rpx;
 			text-align: center;
@@ -344,21 +442,38 @@
 			}
 			.picwp{
 				position: relative;
-				margin: 0 0 10rpx 0;
+				// margin: 0 0 10rpx 0;
 				overflow: hidden;
 				.count{
 					position: absolute;
 					bottom: 0;
 					left: 0;
-					background: #ce2a2c;
-					width: 40rpx;
-					height: 40rpx;
-					border-radius: 50%;
-					font-size: 24rpx;
 					color: #fff;
 					display: flex;
-					align-items: center;
-					justify-content: center;
+					flex-direction: column;
+					.num{
+						background: #ce2a2c;
+						width: 40rpx;
+						height: 20rpx;
+						line-height: 20rpx;
+						font-size: 20rpx;
+					}
+					&::before{
+						content: '';
+						width: 0;
+						height: 0;
+						border-bottom: 12rpx solid #ce2a2c;
+						border-left: 20rpx solid transparent;
+						border-right: 20rpx solid transparent;
+					}
+					&::after{
+						content: '';
+						width: 0;
+						height: 0;
+						border-top: 12rpx solid #ce2a2c;
+						border-left: 20rpx solid transparent;
+						border-right: 20rpx solid transparent;
+					}
 				}
 				.series{
 					position: absolute;
@@ -407,10 +522,37 @@
 		}
 	}
 	.deckCode{
+		position: relative;
 		margin: 0 auto;
-		padding: 20rpx 0;
+		padding: 0 0 20rpx;
 		width: 70%;
 		font-size: 12px;
+		.len{
+			position: absolute;
+			top: 0;
+			right: 0;
+			background: #fff;
+		}
+		.txt{
+			padding: 15rpx 0 15rpx 10%;
+			background: #333;
+			border-radius: 5rpx;
+		}
+		.line{
+			padding: 5rpx 0;
+			color: #fff;
+		}
+		.bn{
+			margin: 20rpx auto 0;
+      background: #eee;
+      width: 65%;
+      height: 60rpx;
+      line-height: 60rpx;
+      border: 1px solid #ccc;
+      border-radius: 10rpx;
+      font-size: 16px;
+      text-align: center;
+		}
 	}
 	.p-showcard{
 		position: absolute;

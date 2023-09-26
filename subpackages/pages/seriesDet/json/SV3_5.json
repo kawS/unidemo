@@ -23,7 +23,7 @@
       "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-166-2x.jpg"
     ],
     "series": "SV3.5",
-    "cardNo": "1|166"
+    "cardNo": "1"
   },
   {
     "id": "8125",
@@ -53,7 +53,7 @@
       "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-167-2x.jpg"
     ],
     "series": "SV3.5",
-    "cardNo": "2|167"
+    "cardNo": "2"
   },
   {
     "id": "8126",
@@ -88,7 +88,7 @@
       "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-198-2x.jpg"
     ],
     "series": "SV3.5",
-    "cardNo": "3|182|198"
+    "cardNo": "3"
   },
   {
     "id": "8127",
@@ -118,7 +118,7 @@
       "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-168-2x.jpg"
     ],
     "series": "SV3.5",
-    "cardNo": "4|168"
+    "cardNo": "4"
   },
   {
     "id": "8128",
@@ -148,7 +148,7 @@
       "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-169-2x.jpg"
     ],
     "series": "SV3.5",
-    "cardNo": "5|169"
+    "cardNo": "5"
   },
   {
     "id": "8129",
@@ -183,7 +183,7 @@
       "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-199-2x.jpg"
     ],
     "series": "SV3.5",
-    "cardNo": "6|183|199"
+    "cardNo": "6"
   },
   {
     "id": "8130",
@@ -213,7 +213,7 @@
       "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-170-2x.jpg"
     ],
     "series": "SV3.5",
-    "cardNo": "7|170"
+    "cardNo": "7"
   },
   {
     "id": "8131",
@@ -243,7 +243,7 @@
       "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-171-2x.jpg"
     ],
     "series": "SV3.5",
-    "cardNo": "8|171"
+    "cardNo": "8"
   },
   {
     "id": "8132",
@@ -278,7 +278,7 @@
       "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-200-2x.jpg"
     ],
     "series": "SV3.5",
-    "cardNo": "9|184|200"
+    "cardNo": "9"
   },
   {
     "id": "8133",
@@ -304,7 +304,7 @@
       "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-172-2x.jpg"
     ],
     "series": "SV3.5",
-    "cardNo": "10|172"
+    "cardNo": "10"
   },
   {
     "id": "8134",
@@ -331,7 +331,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-11-2x.jpg",
     "ename": "Metapod",
     "series": "SV3.5",
-    "cardNo": 11
+    "cardNo": "11"
   },
   {
     "id": "8135",
@@ -358,7 +358,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-12-2x.jpg",
     "ename": "Butterfree",
     "series": "SV3.5",
-    "cardNo": 12
+    "cardNo": "12"
   },
   {
     "id": "8136",
@@ -385,7 +385,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-13-2x.jpg",
     "ename": "Weedle",
     "series": "SV3.5",
-    "cardNo": 13
+    "cardNo": "13"
   },
   {
     "id": "8137",
@@ -412,7 +412,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-14-2x.jpg",
     "ename": "Kakuna",
     "series": "SV3.5",
-    "cardNo": 14
+    "cardNo": "14"
   },
   {
     "id": "8138",
@@ -439,7 +439,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-15-2x.jpg",
     "ename": "Beedrill",
     "series": "SV3.5",
-    "cardNo": 15
+    "cardNo": "15"
   },
   {
     "id": "8139",
@@ -466,7 +466,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-16-2x.jpg",
     "ename": "Pidgey",
     "series": "SV3.5",
-    "cardNo": 16
+    "cardNo": "16"
   },
   {
     "id": "8140",
@@ -489,7 +489,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-17-2x.jpg",
     "ename": "Pidgeotto",
     "series": "SV3.5",
-    "cardNo": 17
+    "cardNo": "17"
   },
   {
     "id": "8141",
@@ -516,7 +516,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-18-2x.jpg",
     "ename": "Pidgeot",
     "series": "SV3.5",
-    "cardNo": 18
+    "cardNo": "18"
   },
   {
     "id": "8142",
@@ -539,7 +539,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-19-2x.jpg",
     "ename": "Rattata",
     "series": "SV3.5",
-    "cardNo": 19
+    "cardNo": "19"
   },
   {
     "id": "8143",
@@ -562,7 +562,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-20-2x.jpg",
     "ename": "Raticate",
     "series": "SV3.5",
-    "cardNo": 20
+    "cardNo": "20"
   },
   {
     "id": "8144",
@@ -589,7 +589,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-21-2x.jpg",
     "ename": "Spearow",
     "series": "SV3.5",
-    "cardNo": 21
+    "cardNo": "21"
   },
   {
     "id": "8145",
@@ -616,7 +616,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-22-2x.jpg",
     "ename": "Fearow",
     "series": "SV3.5",
-    "cardNo": 22
+    "cardNo": "22"
   },
   {
     "id": "8146",
@@ -639,7 +639,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-23-2x.jpg",
     "ename": "Ekans",
     "series": "SV3.5",
-    "cardNo": 23
+    "cardNo": "23"
   },
   {
     "id": "8147",
@@ -673,7 +673,7 @@
       "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-185-2x.jpg"
     ],
     "series": "SV3.5",
-    "cardNo": "24|185"
+    "cardNo": "24"
   },
   {
     "id": "8148",
@@ -703,7 +703,7 @@
       "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-173-2x.jpg"
     ],
     "series": "SV3.5",
-    "cardNo": "25|173"
+    "cardNo": "25"
   },
   {
     "id": "8149",
@@ -730,7 +730,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-26-2x.jpg",
     "ename": "Raichu",
     "series": "SV3.5",
-    "cardNo": 26
+    "cardNo": "26"
   },
   {
     "id": "8150",
@@ -757,7 +757,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-27-2x.jpg",
     "ename": "Sandshrew",
     "series": "SV3.5",
-    "cardNo": 27
+    "cardNo": "27"
   },
   {
     "id": "8151",
@@ -784,7 +784,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-28-2x.jpg",
     "ename": "Sandslash",
     "series": "SV3.5",
-    "cardNo": 28
+    "cardNo": "28"
   },
   {
     "id": "8152",
@@ -807,7 +807,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-29-2x.jpg",
     "ename": "Nidoran♀",
     "series": "SV3.5",
-    "cardNo": 29
+    "cardNo": "29"
   },
   {
     "id": "8153",
@@ -834,7 +834,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-30-2x.jpg",
     "ename": "Nidorina",
     "series": "SV3.5",
-    "cardNo": 30
+    "cardNo": "30"
   },
   {
     "id": "8154",
@@ -861,7 +861,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-31-2x.jpg",
     "ename": "Nidoqueen",
     "series": "SV3.5",
-    "cardNo": 31
+    "cardNo": "31"
   },
   {
     "id": "8155",
@@ -884,7 +884,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-32-2x.jpg",
     "ename": "Nidoran♂",
     "series": "SV3.5",
-    "cardNo": 32
+    "cardNo": "32"
   },
   {
     "id": "8156",
@@ -911,7 +911,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-33-2x.jpg",
     "ename": "Nidorino",
     "series": "SV3.5",
-    "cardNo": 33
+    "cardNo": "33"
   },
   {
     "id": "8157",
@@ -941,7 +941,7 @@
       "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-174-2x.jpg"
     ],
     "series": "SV3.5",
-    "cardNo": "34|174"
+    "cardNo": "34"
   },
   {
     "id": "8158",
@@ -968,7 +968,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-35-2x.jpg",
     "ename": "Clefairy",
     "series": "SV3.5",
-    "cardNo": 35
+    "cardNo": "35"
   },
   {
     "id": "8159",
@@ -995,7 +995,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-36-2x.jpg",
     "ename": "Clefable",
     "series": "SV3.5",
-    "cardNo": 36
+    "cardNo": "36"
   },
   {
     "id": "8160",
@@ -1018,7 +1018,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-37-2x.jpg",
     "ename": "Vulpix",
     "series": "SV3.5",
-    "cardNo": 37
+    "cardNo": "37"
   },
   {
     "id": "8161",
@@ -1052,7 +1052,7 @@
       "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-186-2x.jpg"
     ],
     "series": "SV3.5",
-    "cardNo": "38|186"
+    "cardNo": "38"
   },
   {
     "id": "8162",
@@ -1079,7 +1079,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-39-2x.jpg",
     "ename": "Jigglypuff",
     "series": "SV3.5",
-    "cardNo": 39
+    "cardNo": "39"
   },
   {
     "id": "8163",
@@ -1113,7 +1113,7 @@
       "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-187-2x.jpg"
     ],
     "series": "SV3.5",
-    "cardNo": "40|187"
+    "cardNo": "40"
   },
   {
     "id": "8164",
@@ -1140,7 +1140,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-41-2x.jpg",
     "ename": "Zubat",
     "series": "SV3.5",
-    "cardNo": 41
+    "cardNo": "41"
   },
   {
     "id": "8165",
@@ -1163,7 +1163,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-42-2x.jpg",
     "ename": "Golbat",
     "series": "SV3.5",
-    "cardNo": 42
+    "cardNo": "42"
   },
   {
     "id": "8166",
@@ -1186,7 +1186,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-43-2x.jpg",
     "ename": "Oddish",
     "series": "SV3.5",
-    "cardNo": 43
+    "cardNo": "43"
   },
   {
     "id": "8167",
@@ -1213,7 +1213,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-44-2x.jpg",
     "ename": "Gloom",
     "series": "SV3.5",
-    "cardNo": 44
+    "cardNo": "44"
   },
   {
     "id": "8168",
@@ -1240,7 +1240,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-45-2x.jpg",
     "ename": "Vileplume",
     "series": "SV3.5",
-    "cardNo": 45
+    "cardNo": "45"
   },
   {
     "id": "8169",
@@ -1267,7 +1267,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-46-2x.jpg",
     "ename": "Paras",
     "series": "SV3.5",
-    "cardNo": 46
+    "cardNo": "46"
   },
   {
     "id": "8170",
@@ -1294,7 +1294,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-47-2x.jpg",
     "ename": "Parasect",
     "series": "SV3.5",
-    "cardNo": 47
+    "cardNo": "47"
   },
   {
     "id": "8171",
@@ -1321,7 +1321,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-48-2x.jpg",
     "ename": "Venonat",
     "series": "SV3.5",
-    "cardNo": 48
+    "cardNo": "48"
   },
   {
     "id": "8172",
@@ -1348,7 +1348,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-49-2x.jpg",
     "ename": "Venomoth",
     "series": "SV3.5",
-    "cardNo": 49
+    "cardNo": "49"
   },
   {
     "id": "8173",
@@ -1375,7 +1375,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-50-2x.jpg",
     "ename": "Diglett",
     "series": "SV3.5",
-    "cardNo": 50
+    "cardNo": "50"
   },
   {
     "id": "8174",
@@ -1402,7 +1402,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-51-2x.jpg",
     "ename": "Dugtrio",
     "series": "SV3.5",
-    "cardNo": 51
+    "cardNo": "51"
   },
   {
     "id": "8175",
@@ -1429,7 +1429,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-52-2x.jpg",
     "ename": "Meowth",
     "series": "SV3.5",
-    "cardNo": 52
+    "cardNo": "52"
   },
   {
     "id": "8176",
@@ -1456,7 +1456,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-53-2x.jpg",
     "ename": "Persian",
     "series": "SV3.5",
-    "cardNo": 53
+    "cardNo": "53"
   },
   {
     "id": "8177",
@@ -1486,7 +1486,7 @@
       "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-175-2x.jpg"
     ],
     "series": "SV3.5",
-    "cardNo": "54|175"
+    "cardNo": "54"
   },
   {
     "id": "8178",
@@ -1513,7 +1513,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-55-2x.jpg",
     "ename": "Golduck",
     "series": "SV3.5",
-    "cardNo": 55
+    "cardNo": "55"
   },
   {
     "id": "8179",
@@ -1536,7 +1536,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-56-2x.jpg",
     "ename": "Mankey",
     "series": "SV3.5",
-    "cardNo": 56
+    "cardNo": "56"
   },
   {
     "id": "8180",
@@ -1563,7 +1563,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-57-2x.jpg",
     "ename": "Primeape",
     "series": "SV3.5",
-    "cardNo": 57
+    "cardNo": "57"
   },
   {
     "id": "8181",
@@ -1586,7 +1586,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-58-2x.jpg",
     "ename": "Growlithe",
     "series": "SV3.5",
-    "cardNo": 58
+    "cardNo": "58"
   },
   {
     "id": "8182",
@@ -1613,7 +1613,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-59-2x.jpg",
     "ename": "Arcanine",
     "series": "SV3.5",
-    "cardNo": 59
+    "cardNo": "59"
   },
   {
     "id": "8183",
@@ -1636,7 +1636,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-60-2x.jpg",
     "ename": "Poliwag",
     "series": "SV3.5",
-    "cardNo": 60
+    "cardNo": "60"
   },
   {
     "id": "8184",
@@ -1666,7 +1666,7 @@
       "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-176-2x.jpg"
     ],
     "series": "SV3.5",
-    "cardNo": "61|176"
+    "cardNo": "61"
   },
   {
     "id": "8185",
@@ -1693,7 +1693,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-62-2x.jpg",
     "ename": "Poliwrath",
     "series": "SV3.5",
-    "cardNo": 62
+    "cardNo": "62"
   },
   {
     "id": "8186",
@@ -1716,7 +1716,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-63-2x.jpg",
     "ename": "Abra",
     "series": "SV3.5",
-    "cardNo": 63
+    "cardNo": "63"
   },
   {
     "id": "8187",
@@ -1739,7 +1739,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-64-2x.jpg",
     "ename": "Kadabra",
     "series": "SV3.5",
-    "cardNo": 64
+    "cardNo": "64"
   },
   {
     "id": "8188",
@@ -1774,7 +1774,7 @@
       "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-201-2x.jpg"
     ],
     "series": "SV3.5",
-    "cardNo": "65|188|201"
+    "cardNo": "65"
   },
   {
     "id": "8189",
@@ -1801,7 +1801,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-66-2x.jpg",
     "ename": "Machop",
     "series": "SV3.5",
-    "cardNo": 66
+    "cardNo": "66"
   },
   {
     "id": "8190",
@@ -1827,7 +1827,7 @@
       "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-177-2x.jpg"
     ],
     "series": "SV3.5",
-    "cardNo": "67|177"
+    "cardNo": "67"
   },
   {
     "id": "8191",
@@ -1854,7 +1854,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-68-2x.jpg",
     "ename": "Machamp",
     "series": "SV3.5",
-    "cardNo": 68
+    "cardNo": "68"
   },
   {
     "id": "8192",
@@ -1881,7 +1881,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-69-2x.jpg",
     "ename": "Bellsprout",
     "series": "SV3.5",
-    "cardNo": 69
+    "cardNo": "69"
   },
   {
     "id": "8193",
@@ -1908,7 +1908,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-70-2x.jpg",
     "ename": "Weepinbell",
     "series": "SV3.5",
-    "cardNo": 70
+    "cardNo": "70"
   },
   {
     "id": "8194",
@@ -1935,7 +1935,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-71-2x.jpg",
     "ename": "Victreebel",
     "series": "SV3.5",
-    "cardNo": 71
+    "cardNo": "71"
   },
   {
     "id": "8195",
@@ -1962,7 +1962,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-72-2x.jpg",
     "ename": "Tentacool",
     "series": "SV3.5",
-    "cardNo": 72
+    "cardNo": "72"
   },
   {
     "id": "8196",
@@ -1989,7 +1989,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-73-2x.jpg",
     "ename": "Tentacruel",
     "series": "SV3.5",
-    "cardNo": 73
+    "cardNo": "73"
   },
   {
     "id": "8197",
@@ -2016,7 +2016,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-74-2x.jpg",
     "ename": "Geodude",
     "series": "SV3.5",
-    "cardNo": 74
+    "cardNo": "74"
   },
   {
     "id": "8198",
@@ -2043,7 +2043,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-75-2x.jpg",
     "ename": "Graveler",
     "series": "SV3.5",
-    "cardNo": 75
+    "cardNo": "75"
   },
   {
     "id": "8199",
@@ -2077,7 +2077,7 @@
       "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-189-2x.jpg"
     ],
     "series": "SV3.5",
-    "cardNo": "76|189"
+    "cardNo": "76"
   },
   {
     "id": "8200",
@@ -2104,7 +2104,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-77-2x.jpg",
     "ename": "Ponyta",
     "series": "SV3.5",
-    "cardNo": 77
+    "cardNo": "77"
   },
   {
     "id": "8201",
@@ -2131,7 +2131,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-78-2x.jpg",
     "ename": "Rapidash",
     "series": "SV3.5",
-    "cardNo": 78
+    "cardNo": "78"
   },
   {
     "id": "8202",
@@ -2158,7 +2158,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-79-2x.jpg",
     "ename": "Slowpoke",
     "series": "SV3.5",
-    "cardNo": 79
+    "cardNo": "79"
   },
   {
     "id": "8203",
@@ -2185,7 +2185,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-80-2x.jpg",
     "ename": "Slowbro",
     "series": "SV3.5",
-    "cardNo": 80
+    "cardNo": "80"
   },
   {
     "id": "8204",
@@ -2212,7 +2212,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-81-2x.jpg",
     "ename": "Magnemite",
     "series": "SV3.5",
-    "cardNo": 81
+    "cardNo": "81"
   },
   {
     "id": "8205",
@@ -2239,7 +2239,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-82-2x.jpg",
     "ename": "Magneton",
     "series": "SV3.5",
-    "cardNo": 82
+    "cardNo": "82"
   },
   {
     "id": "8206",
@@ -2264,9 +2264,9 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-83-2x.jpg",
-    "ename": "Farfetch’d",
+    "ename": "Farfetch'd",
     "series": "SV3.5",
-    "cardNo": 83
+    "cardNo": "83"
   },
   {
     "id": "8207",
@@ -2289,7 +2289,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-84-2x.jpg",
     "ename": "Doduo",
     "series": "SV3.5",
-    "cardNo": 84
+    "cardNo": "84"
   },
   {
     "id": "8208",
@@ -2316,7 +2316,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-85-2x.jpg",
     "ename": "Dodrio",
     "series": "SV3.5",
-    "cardNo": 85
+    "cardNo": "85"
   },
   {
     "id": "8209",
@@ -2339,7 +2339,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-86-2x.jpg",
     "ename": "Seel",
     "series": "SV3.5",
-    "cardNo": 86
+    "cardNo": "86"
   },
   {
     "id": "8210",
@@ -2366,7 +2366,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-87-2x.jpg",
     "ename": "Dewgong",
     "series": "SV3.5",
-    "cardNo": 87
+    "cardNo": "87"
   },
   {
     "id": "8211",
@@ -2389,7 +2389,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-88-2x.jpg",
     "ename": "Grimer",
     "series": "SV3.5",
-    "cardNo": 88
+    "cardNo": "88"
   },
   {
     "id": "8212",
@@ -2416,7 +2416,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-89-2x.jpg",
     "ename": "Muk",
     "series": "SV3.5",
-    "cardNo": 89
+    "cardNo": "89"
   },
   {
     "id": "8213",
@@ -2439,7 +2439,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-90-2x.jpg",
     "ename": "Shellder",
     "series": "SV3.5",
-    "cardNo": 90
+    "cardNo": "90"
   },
   {
     "id": "8214",
@@ -2462,7 +2462,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-91-2x.jpg",
     "ename": "Cloyster",
     "series": "SV3.5",
-    "cardNo": 91
+    "cardNo": "91"
   },
   {
     "id": "8215",
@@ -2485,7 +2485,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-92-2x.jpg",
     "ename": "Gastly",
     "series": "SV3.5",
-    "cardNo": 92
+    "cardNo": "92"
   },
   {
     "id": "8216",
@@ -2512,7 +2512,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-93-2x.jpg",
     "ename": "Haunter",
     "series": "SV3.5",
-    "cardNo": 93
+    "cardNo": "93"
   },
   {
     "id": "8217",
@@ -2539,7 +2539,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-94-2x.jpg",
     "ename": "Gengar",
     "series": "SV3.5",
-    "cardNo": 94
+    "cardNo": "94"
   },
   {
     "id": "8218",
@@ -2566,7 +2566,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-95-2x.jpg",
     "ename": "Onix",
     "series": "SV3.5",
-    "cardNo": 95
+    "cardNo": "95"
   },
   {
     "id": "8219",
@@ -2589,7 +2589,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-96-2x.jpg",
     "ename": "Drowzee",
     "series": "SV3.5",
-    "cardNo": 96
+    "cardNo": "96"
   },
   {
     "id": "8220",
@@ -2616,7 +2616,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-97-2x.jpg",
     "ename": "Hypno",
     "series": "SV3.5",
-    "cardNo": 97
+    "cardNo": "97"
   },
   {
     "id": "8221",
@@ -2643,7 +2643,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-98-2x.jpg",
     "ename": "Krabby",
     "series": "SV3.5",
-    "cardNo": 98
+    "cardNo": "98"
   },
   {
     "id": "8222",
@@ -2670,7 +2670,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-99-2x.jpg",
     "ename": "Kingler",
     "series": "SV3.5",
-    "cardNo": 99
+    "cardNo": "99"
   },
   {
     "id": "8223",
@@ -2693,7 +2693,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-100-2x.jpg",
     "ename": "Voltorb",
     "series": "SV3.5",
-    "cardNo": 100
+    "cardNo": "100"
   },
   {
     "id": "8224",
@@ -2720,7 +2720,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-101-2x.jpg",
     "ename": "Electrode",
     "series": "SV3.5",
-    "cardNo": 101
+    "cardNo": "101"
   },
   {
     "id": "8225",
@@ -2743,7 +2743,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-102-2x.jpg",
     "ename": "Exeggcute",
     "series": "SV3.5",
-    "cardNo": 102
+    "cardNo": "102"
   },
   {
     "id": "8226",
@@ -2770,7 +2770,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-103-2x.jpg",
     "ename": "Exeggutor",
     "series": "SV3.5",
-    "cardNo": 103
+    "cardNo": "103"
   },
   {
     "id": "8227",
@@ -2797,7 +2797,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-104-2x.jpg",
     "ename": "Cubone",
     "series": "SV3.5",
-    "cardNo": 104
+    "cardNo": "104"
   },
   {
     "id": "8228",
@@ -2824,7 +2824,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-105-2x.jpg",
     "ename": "Marowak",
     "series": "SV3.5",
-    "cardNo": 105
+    "cardNo": "105"
   },
   {
     "id": "8229",
@@ -2851,7 +2851,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-106-2x.jpg",
     "ename": "Hitmonlee",
     "series": "SV3.5",
-    "cardNo": 106
+    "cardNo": "106"
   },
   {
     "id": "8230",
@@ -2878,7 +2878,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-107-2x.jpg",
     "ename": "Hitmonchan",
     "series": "SV3.5",
-    "cardNo": 107
+    "cardNo": "107"
   },
   {
     "id": "8231",
@@ -2901,7 +2901,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-108-2x.jpg",
     "ename": "Lickitung",
     "series": "SV3.5",
-    "cardNo": 108
+    "cardNo": "108"
   },
   {
     "id": "8232",
@@ -2924,7 +2924,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-109-2x.jpg",
     "ename": "Koffing",
     "series": "SV3.5",
-    "cardNo": 109
+    "cardNo": "109"
   },
   {
     "id": "8233",
@@ -2951,7 +2951,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-110-2x.jpg",
     "ename": "Weezing",
     "series": "SV3.5",
-    "cardNo": 110
+    "cardNo": "110"
   },
   {
     "id": "8234",
@@ -2978,7 +2978,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-111-2x.jpg",
     "ename": "Rhyhorn",
     "series": "SV3.5",
-    "cardNo": 111
+    "cardNo": "111"
   },
   {
     "id": "8235",
@@ -3005,7 +3005,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-112-2x.jpg",
     "ename": "Rhydon",
     "series": "SV3.5",
-    "cardNo": 112
+    "cardNo": "112"
   },
   {
     "id": "8236",
@@ -3032,7 +3032,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-113-2x.jpg",
     "ename": "Chansey",
     "series": "SV3.5",
-    "cardNo": 113
+    "cardNo": "113"
   },
   {
     "id": "8237",
@@ -3058,7 +3058,7 @@
       "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-178-2x.jpg"
     ],
     "series": "SV3.5",
-    "cardNo": "114|178"
+    "cardNo": "114"
   },
   {
     "id": "8238",
@@ -3092,7 +3092,7 @@
       "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-190-2x.jpg"
     ],
     "series": "SV3.5",
-    "cardNo": "115|190"
+    "cardNo": "115"
   },
   {
     "id": "8239",
@@ -3119,7 +3119,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-116-2x.jpg",
     "ename": "Horsea",
     "series": "SV3.5",
-    "cardNo": 116
+    "cardNo": "116"
   },
   {
     "id": "8240",
@@ -3142,7 +3142,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-117-2x.jpg",
     "ename": "Seadra",
     "series": "SV3.5",
-    "cardNo": 117
+    "cardNo": "117"
   },
   {
     "id": "8241",
@@ -3169,7 +3169,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-118-2x.jpg",
     "ename": "Goldeen",
     "series": "SV3.5",
-    "cardNo": 118
+    "cardNo": "118"
   },
   {
     "id": "8242",
@@ -3196,7 +3196,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-119-2x.jpg",
     "ename": "Seaking",
     "series": "SV3.5",
-    "cardNo": 119
+    "cardNo": "119"
   },
   {
     "id": "8243",
@@ -3219,7 +3219,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-120-2x.jpg",
     "ename": "Staryu",
     "series": "SV3.5",
-    "cardNo": 120
+    "cardNo": "120"
   },
   {
     "id": "8244",
@@ -3246,7 +3246,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-121-2x.jpg",
     "ename": "Starmie",
     "series": "SV3.5",
-    "cardNo": 121
+    "cardNo": "121"
   },
   {
     "id": "8245",
@@ -3276,7 +3276,7 @@
       "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-179-2x.jpg"
     ],
     "series": "SV3.5",
-    "cardNo": "122|179"
+    "cardNo": "122"
   },
   {
     "id": "8246",
@@ -3303,7 +3303,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-123-2x.jpg",
     "ename": "Scyther",
     "series": "SV3.5",
-    "cardNo": 123
+    "cardNo": "123"
   },
   {
     "id": "8247",
@@ -3337,7 +3337,7 @@
       "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-191-2x.jpg"
     ],
     "series": "SV3.5",
-    "cardNo": "124|191"
+    "cardNo": "124"
   },
   {
     "id": "8248",
@@ -3364,7 +3364,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-125-2x.jpg",
     "ename": "Electabuzz",
     "series": "SV3.5",
-    "cardNo": 125
+    "cardNo": "125"
   },
   {
     "id": "8249",
@@ -3391,7 +3391,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-126-2x.jpg",
     "ename": "Magmar",
     "series": "SV3.5",
-    "cardNo": 126
+    "cardNo": "126"
   },
   {
     "id": "8250",
@@ -3418,7 +3418,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-127-2x.jpg",
     "ename": "Pinsir",
     "series": "SV3.5",
-    "cardNo": 127
+    "cardNo": "127"
   },
   {
     "id": "8251",
@@ -3445,7 +3445,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-128-2x.jpg",
     "ename": "Tauros",
     "series": "SV3.5",
-    "cardNo": 128
+    "cardNo": "128"
   },
   {
     "id": "8252",
@@ -3468,7 +3468,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-129-2x.jpg",
     "ename": "Magikarp",
     "series": "SV3.5",
-    "cardNo": 129
+    "cardNo": "129"
   },
   {
     "id": "8253",
@@ -3495,7 +3495,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-130-2x.jpg",
     "ename": "Gyarados",
     "series": "SV3.5",
-    "cardNo": 130
+    "cardNo": "130"
   },
   {
     "id": "8254",
@@ -3522,7 +3522,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-131-2x.jpg",
     "ename": "Lapras",
     "series": "SV3.5",
-    "cardNo": 131
+    "cardNo": "131"
   },
   {
     "id": "8255",
@@ -3549,7 +3549,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-132-2x.jpg",
     "ename": "Ditto",
     "series": "SV3.5",
-    "cardNo": 132
+    "cardNo": "132"
   },
   {
     "id": "8256",
@@ -3576,7 +3576,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-133-2x.jpg",
     "ename": "Eevee",
     "series": "SV3.5",
-    "cardNo": 133
+    "cardNo": "133"
   },
   {
     "id": "8257",
@@ -3603,7 +3603,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-134-2x.jpg",
     "ename": "Vaporeon",
     "series": "SV3.5",
-    "cardNo": 134
+    "cardNo": "134"
   },
   {
     "id": "8258",
@@ -3630,7 +3630,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-135-2x.jpg",
     "ename": "Jolteon",
     "series": "SV3.5",
-    "cardNo": 135
+    "cardNo": "135"
   },
   {
     "id": "8259",
@@ -3657,7 +3657,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-136-2x.jpg",
     "ename": "Flareon",
     "series": "SV3.5",
-    "cardNo": 136
+    "cardNo": "136"
   },
   {
     "id": "8260",
@@ -3680,7 +3680,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-137-2x.jpg",
     "ename": "Porygon",
     "series": "SV3.5",
-    "cardNo": 137
+    "cardNo": "137"
   },
   {
     "id": "8261",
@@ -3706,7 +3706,7 @@
       "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-180-2x.jpg"
     ],
     "series": "SV3.5",
-    "cardNo": "138|180"
+    "cardNo": "138"
   },
   {
     "id": "8262",
@@ -3733,7 +3733,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-139-2x.jpg",
     "ename": "Omastar",
     "series": "SV3.5",
-    "cardNo": 139
+    "cardNo": "139"
   },
   {
     "id": "8263",
@@ -3756,7 +3756,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-140-2x.jpg",
     "ename": "Kabuto",
     "series": "SV3.5",
-    "cardNo": 140
+    "cardNo": "140"
   },
   {
     "id": "8264",
@@ -3783,7 +3783,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-141-2x.jpg",
     "ename": "Kabutops",
     "series": "SV3.5",
-    "cardNo": 141
+    "cardNo": "141"
   },
   {
     "id": "8265",
@@ -3810,7 +3810,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-142-2x.jpg",
     "ename": "Aerodactyl",
     "series": "SV3.5",
-    "cardNo": 142
+    "cardNo": "142"
   },
   {
     "id": "8266",
@@ -3837,7 +3837,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-143-2x.jpg",
     "ename": "Snorlax",
     "series": "SV3.5",
-    "cardNo": 143
+    "cardNo": "143"
   },
   {
     "id": "8267",
@@ -3864,7 +3864,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-144-2x.jpg",
     "ename": "Articuno",
     "series": "SV3.5",
-    "cardNo": 144
+    "cardNo": "144"
   },
   {
     "id": "8268",
@@ -3899,7 +3899,7 @@
       "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-202-2x.jpg"
     ],
     "series": "SV3.5",
-    "cardNo": "145|192|202"
+    "cardNo": "145"
   },
   {
     "id": "8269",
@@ -3926,7 +3926,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-146-2x.jpg",
     "ename": "Moltres",
     "series": "SV3.5",
-    "cardNo": 146
+    "cardNo": "146"
   },
   {
     "id": "8270",
@@ -3953,7 +3953,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-147-2x.jpg",
     "ename": "Dratini",
     "series": "SV3.5",
-    "cardNo": 147
+    "cardNo": "147"
   },
   {
     "id": "8271",
@@ -3983,7 +3983,7 @@
       "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-181-2x.jpg"
     ],
     "series": "SV3.5",
-    "cardNo": "148|181"
+    "cardNo": "148"
   },
   {
     "id": "8272",
@@ -4010,7 +4010,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-149-2x.jpg",
     "ename": "Dragonite",
     "series": "SV3.5",
-    "cardNo": 149
+    "cardNo": "149"
   },
   {
     "id": "8273",
@@ -4037,7 +4037,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-150-2x.jpg",
     "ename": "Mewtwo",
     "series": "SV3.5",
-    "cardNo": 150
+    "cardNo": "150"
   },
   {
     "id": "8274",
@@ -4072,7 +4072,7 @@
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_205_R_EN.png"
     ],
     "series": "SV3.5",
-    "cardNo": "151|193|205"
+    "cardNo": "151"
   },
   {
     "id": "8288",
@@ -4093,7 +4093,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-157-2x.jpg",
     "ename": "Cycling Road",
     "series": "SV3.5",
-    "cardNo": 157
+    "cardNo": "157"
   },
   {
     "id": "8287",
@@ -4112,12 +4112,12 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-156-2x.jpg",
-    "ename": "Bill’s Transfer",
+    "ename": "Bill's Transfer",
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-194-2x.jpg"
     ],
     "series": "SV3.5",
-    "cardNo": "156|194"
+    "cardNo": "156"
   },
   {
     "id": "8286",
@@ -4136,12 +4136,12 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-158-2x.jpg",
-    "ename": "Daisy’s Help",
+    "ename": "Daisy's Help",
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-195-2x.jpg"
     ],
     "series": "SV3.5",
-    "cardNo": "158|195"
+    "cardNo": "158"
   },
   {
     "id": "8284",
@@ -4160,13 +4160,13 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-160-2x.jpg",
-    "ename": "Erika’s Invitation",
+    "ename": "Erika's Invitation",
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-196-2x.jpg",
       "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-203-2x.jpg"
     ],
     "series": "SV3.5",
-    "cardNo": "160|196|203"
+    "cardNo": "160"
   },
   {
     "id": "8285",
@@ -4185,13 +4185,13 @@
       }
     ],
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-161-2x.jpg",
-    "ename": "Giovanni’s Charisma",
+    "ename": "Giovanni's Charisma",
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-197-2x.jpg",
       "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-204-2x.jpg"
     ],
     "series": "SV3.5",
-    "cardNo": "161|197|204"
+    "cardNo": "161"
   },
   {
     "id": "8281",
@@ -4212,7 +4212,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-155-2x.jpg",
     "ename": "Big Air Balloon",
     "series": "SV3.5",
-    "cardNo": 155
+    "cardNo": "155"
   },
   {
     "id": "8283",
@@ -4233,7 +4233,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-163-2x.jpg",
     "ename": "Leftovers",
     "series": "SV3.5",
-    "cardNo": 163
+    "cardNo": "163"
   },
   {
     "id": "8280",
@@ -4254,7 +4254,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-164-2x.jpg",
     "ename": "Protective Goggles",
     "series": "SV3.5",
-    "cardNo": 164
+    "cardNo": "164"
   },
   {
     "id": "8282",
@@ -4275,7 +4275,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-165-2x.jpg",
     "ename": "Rigid Band",
     "series": "SV3.5",
-    "cardNo": 165
+    "cardNo": "165"
   },
   {
     "id": "8278",
@@ -4304,7 +4304,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-152-2x.jpg",
     "ename": "Antique Dome Fossil",
     "series": "SV3.5",
-    "cardNo": 152
+    "cardNo": "152"
   },
   {
     "id": "8277",
@@ -4333,7 +4333,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-153-2x.jpg",
     "ename": "Antique Helix Fossil",
     "series": "SV3.5",
-    "cardNo": 153
+    "cardNo": "153"
   },
   {
     "id": "8279",
@@ -4362,7 +4362,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-154-2x.jpg",
     "ename": "Antique Old Amber",
     "series": "SV3.5",
-    "cardNo": 154
+    "cardNo": "154"
   },
   {
     "id": "8275",
@@ -4383,7 +4383,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-159-2x.jpg",
     "ename": "Energy Sticker",
     "series": "SV3.5",
-    "cardNo": 159
+    "cardNo": "159"
   },
   {
     "id": "8276",
@@ -4404,6 +4404,912 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-162-2x.jpg",
     "ename": "Grabber",
     "series": "SV3.5",
-    "cardNo": 162
+    "cardNo": "162"
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-166-2x.jpg",
+    "typeEnergy": "Grass",
+    "type": "Pokemon",
+    "cardName": "妙蛙种子",
+    "skillList": [
+      {
+        "name": "寄生种子",
+        "effect": "将这只宝可梦恢复「20」HP。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-166-2x.jpg",
+    "ename": "Bulbasaur",
+    "series": "SV3.5",
+    "cardNo": "166",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-167-2x.jpg",
+    "typeEnergy": "Grass",
+    "type": "Pokemon",
+    "cardName": "妙蛙草",
+    "skillList": [
+      {
+        "name": "寄生种子",
+        "effect": "将这只宝可梦恢复「20」HP。"
+      },
+      {
+        "name": "藤鞭",
+        "effect": ""
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-167-2x.jpg",
+    "ename": "Ivysaur",
+    "series": "SV3.5",
+    "cardNo": "167",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-168-2x.jpg",
+    "typeEnergy": "Fire",
+    "type": "Pokemon",
+    "cardName": "小火龙",
+    "skillList": [
+      {
+        "name": "全部烧光",
+        "effect": "将场上的竞技场卡丢弃。"
+      },
+      {
+        "name": "吐火",
+        "effect": ""
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-168-2x.jpg",
+    "ename": "Charmander",
+    "series": "SV3.5",
+    "cardNo": "168",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-169-2x.jpg",
+    "typeEnergy": "Fire",
+    "type": "Pokemon",
+    "cardName": "火恐龙",
+    "skillList": [
+      {
+        "name": "烈焰",
+        "effect": ""
+      },
+      {
+        "name": "大字爆炎",
+        "effect": "选择1个这只宝可梦身上附加的能量，将其丢弃。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-169-2x.jpg",
+    "ename": "Charmeleon",
+    "series": "SV3.5",
+    "cardNo": "169",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-170-2x.jpg",
+    "typeEnergy": "Water",
+    "type": "Pokemon",
+    "cardName": "杰尼龟",
+    "skillList": [
+      {
+        "name": "缩入壳中",
+        "effect": "掷1次硬币若为正面，则在下个对手的回合，这只宝可梦不会受到招式的伤害。"
+      },
+      {
+        "name": "火箭头锤",
+        "effect": ""
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-170-2x.jpg",
+    "ename": "Squirtle",
+    "series": "SV3.5",
+    "cardNo": "170",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-171-2x.jpg",
+    "typeEnergy": "Water",
+    "type": "Pokemon",
+    "cardName": "卡咪龟",
+    "skillList": [
+      {
+        "name": "自由潜水",
+        "effect": "从自己的弃牌区选择最多3张「基本【水】能量」卡，在给对手看过后加入手牌。"
+      },
+      {
+        "name": "回转攻击",
+        "effect": ""
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-171-2x.jpg",
+    "ename": "Wartortle",
+    "series": "SV3.5",
+    "cardNo": "171",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-172-2x.jpg",
+    "typeEnergy": "Grass",
+    "type": "Pokemon",
+    "cardName": "绿毛虫",
+    "skillList": [
+      {
+        "name": "吃叶子",
+        "effect": "若对手的战斗宝可梦为【草】宝可梦，则增加30点伤害。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-172-2x.jpg",
+    "ename": "Caterpie",
+    "series": "SV3.5",
+    "cardNo": "172",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-173-2x.jpg",
+    "typeEnergy": "Lightning",
+    "type": "Pokemon",
+    "cardName": "皮卡丘",
+    "skillList": [
+      {
+        "name": "充电",
+        "effect": "从自己的牌库选择1张「基本【雷】能量」卡，附于这只宝可梦身上。并且重洗牌库。"
+      },
+      {
+        "name": "皮卡拳",
+        "effect": ""
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-173-2x.jpg",
+    "ename": "Pikachu",
+    "series": "SV3.5",
+    "cardNo": "173",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-174-2x.jpg",
+    "typeEnergy": "Darkness",
+    "type": "Pokemon",
+    "cardName": "尼多王",
+    "skillList": [
+      {
+        "name": "[特性]活力王者",
+        "effect": "若自己的场上有「尼多后」，则这只宝可梦使用招式所需的能量全部消除。"
+      },
+      {
+        "name": "毒液冲撞",
+        "effect": "将对手的战斗宝可梦【中毒】。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-174-2x.jpg",
+    "ename": "Nidoking",
+    "series": "SV3.5",
+    "cardNo": "174",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-175-2x.jpg",
+    "typeEnergy": "Water",
+    "type": "Pokemon",
+    "cardName": "可达鸭",
+    "skillList": [
+      {
+        "name": "过虑",
+        "effect": "在下个对手的回合，对手掷的硬币全部视为反面。"
+      },
+      {
+        "name": "水枪",
+        "effect": ""
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-175-2x.jpg",
+    "ename": "Psyduck",
+    "series": "SV3.5",
+    "cardNo": "175",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-176-2x.jpg",
+    "typeEnergy": "Water",
+    "type": "Pokemon",
+    "cardName": "蚊香君",
+    "skillList": [
+      {
+        "name": "飞溅",
+        "effect": ""
+      },
+      {
+        "name": "蛙跳",
+        "effect": "掷1次硬币若为正面，则增加60点伤害。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-176-2x.jpg",
+    "ename": "Poliwhirl",
+    "series": "SV3.5",
+    "cardNo": "176",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-177-2x.jpg",
+    "typeEnergy": "Fighting",
+    "type": "Pokemon",
+    "cardName": "豪力",
+    "skillList": [
+      {
+        "name": "推山",
+        "effect": "将对手的牌库上方1张卡丢弃。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-177-2x.jpg",
+    "ename": "Machoke",
+    "series": "SV3.5",
+    "cardNo": "177",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-178-2x.jpg",
+    "typeEnergy": "Grass",
+    "type": "Pokemon",
+    "cardName": "蔓藤怪",
+    "skillList": [
+      {
+        "name": "紧束作法",
+        "effect": "在这个回合，若从手牌使出了「莉佳的招待」，则增加60点伤害。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-178-2x.jpg",
+    "ename": "Tangela",
+    "series": "SV3.5",
+    "cardNo": "178",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-179-2x.jpg",
+    "typeEnergy": "Psychic",
+    "type": "Pokemon",
+    "cardName": "魔墙人偶",
+    "skillList": [
+      {
+        "name": "[特性]模仿屏障",
+        "effect": "若这只宝可梦与对手的战斗宝可梦身上附加的能量数量相同，则这只宝可梦不会受到对手的宝可梦招式的伤害。"
+      },
+      {
+        "name": "精神力量",
+        "effect": "将3个伤害指示物以任意方式放置于对手的宝可梦身上。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-179-2x.jpg",
+    "ename": "Mr. Mime",
+    "series": "SV3.5",
+    "cardNo": "179",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-180-2x.jpg",
+    "typeEnergy": "Water",
+    "type": "Pokemon",
+    "cardName": "菊石兽",
+    "skillList": [
+      {
+        "name": "触手复元",
+        "effect": "选择1个对手的战斗宝可梦身上附加的能量，放回对手的手牌。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-180-2x.jpg",
+    "ename": "Omanyte",
+    "series": "SV3.5",
+    "cardNo": "180",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-181-2x.jpg",
+    "typeEnergy": "Dragon",
+    "type": "Pokemon",
+    "cardName": "哈克龙",
+    "skillList": [
+      {
+        "name": "敲击",
+        "effect": ""
+      },
+      {
+        "name": "水流斩",
+        "effect": "在下个自己的回合，这只宝可梦无法使用招式。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-181-2x.jpg",
+    "ename": "Dragonair",
+    "series": "SV3.5",
+    "cardNo": "181",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-182-2x.jpg",
+    "typeEnergy": "Grass",
+    "type": "Pokemon",
+    "cardName": "妙蛙花ex",
+    "skillList": [
+      {
+        "name": "[特性]平和之花",
+        "effect": "若这只宝可梦在战斗场上，则在自己的回合时可使用1次。将自己的1只宝可梦恢复「60」HP。"
+      },
+      {
+        "name": "剧毒鞭打",
+        "effect": "将对手的战斗宝可梦【中毒】与【混乱】。"
+      },
+      {
+        "name": "[ex规则]",
+        "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-182-2x.jpg",
+    "ename": "Venusaur ex",
+    "series": "SV3.5",
+    "cardNo": "182",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-183-2x.jpg",
+    "typeEnergy": "Fire",
+    "type": "Pokemon",
+    "cardName": "喷火龙ex",
+    "skillList": [
+      {
+        "name": "无畏之翼",
+        "effect": "若这只宝可梦身上放置有伤害指示物，则增加100点伤害。"
+      },
+      {
+        "name": "爆焰旋涡",
+        "effect": "选择3个这只宝可梦身上附加的能量，将其丢弃。"
+      },
+      {
+        "name": "[ex规则]",
+        "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-183-2x.jpg",
+    "ename": "Charizard ex",
+    "series": "SV3.5",
+    "cardNo": "183",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-184-2x.jpg",
+    "typeEnergy": "Water",
+    "type": "Pokemon",
+    "cardName": "水箭龟ex",
+    "skillList": [
+      {
+        "name": "[特性]坚硬甲壳",
+        "effect": "这只宝可梦受到招式的伤害「-30」点。"
+      },
+      {
+        "name": "双加农炮",
+        "effect": "从自己的手牌将最多2张「基本【水】能量」卡丢弃，造成其张数×140点伤害。"
+      },
+      {
+        "name": "[ex规则]",
+        "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-184-2x.jpg",
+    "ename": "Blastoise ex",
+    "series": "SV3.5",
+    "cardNo": "184",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-185-2x.jpg",
+    "typeEnergy": "Darkness",
+    "type": "Pokemon",
+    "cardName": "阿柏怪ex",
+    "skillList": [
+      {
+        "name": "束缚",
+        "effect": "在下个对手的回合，受到这个招式的宝可梦无法撤退。"
+      },
+      {
+        "name": "胁迫獠牙",
+        "effect": "对手选择对手自己的2张手牌，将其丢弃。"
+      },
+      {
+        "name": "[ex规则]",
+        "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-185-2x.jpg",
+    "ename": "Arbok ex",
+    "series": "SV3.5",
+    "cardNo": "185",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-186-2x.jpg",
+    "typeEnergy": "Fire",
+    "type": "Pokemon",
+    "cardName": "九尾ex",
+    "skillList": [
+      {
+        "name": "热风",
+        "effect": "将对手的战斗宝可梦【灼伤】。"
+      },
+      {
+        "name": "现形炽火",
+        "effect": "若自己的手牌与对手的手牌张数相同，则增加140点伤害。"
+      },
+      {
+        "name": "[ex规则]",
+        "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-186-2x.jpg",
+    "ename": "Ninetales ex",
+    "series": "SV3.5",
+    "cardNo": "186",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-187-2x.jpg",
+    "typeEnergy": "Colorless",
+    "type": "Pokemon",
+    "cardName": "胖可丁ex",
+    "skillList": [
+      {
+        "name": "[特性]膨胀之躯",
+        "effect": "若这只宝可梦身上附有特殊能量卡，则这只宝可梦的最大HP「+100」。"
+      },
+      {
+        "name": "朋友冲撞",
+        "effect": "在这个回合，若从手牌使出了支援者卡，则增加90点伤害。"
+      },
+      {
+        "name": "[ex规则]",
+        "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-187-2x.jpg",
+    "ename": "Wigglytuff ex",
+    "series": "SV3.5",
+    "cardNo": "187",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-188-2x.jpg",
+    "typeEnergy": "Psychic",
+    "type": "Pokemon",
+    "cardName": "胡地ex",
+    "skillList": [
+      {
+        "name": "意志劫持",
+        "effect": "增加对手的备战宝可梦的数量×30点伤害。"
+      },
+      {
+        "name": "维度之手",
+        "effect": "就算这只宝可梦在备战区，这个招式也可使用。"
+      },
+      {
+        "name": "[ex规则]",
+        "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-188-2x.jpg",
+    "ename": "Alakazam ex",
+    "series": "SV3.5",
+    "cardNo": "188",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-189-2x.jpg",
+    "typeEnergy": "Fighting",
+    "type": "Pokemon",
+    "cardName": "隆隆岩ex",
+    "skillList": [
+      {
+        "name": "极限转动",
+        "effect": "在下个自己的回合，这只宝可梦使用的招式，对对手的战斗宝可梦造成的伤害「+120」点。"
+      },
+      {
+        "name": "岩石冲撞",
+        "effect": "这个招式的伤害不计算抵抗力。"
+      },
+      {
+        "name": "[ex规则]",
+        "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-189-2x.jpg",
+    "ename": "Golem ex",
+    "series": "SV3.5",
+    "cardNo": "189",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-190-2x.jpg",
+    "typeEnergy": "Colorless",
+    "type": "Pokemon",
+    "cardName": "袋兽ex",
+    "skillList": [
+      {
+        "name": "三重抽出",
+        "effect": "从自己的牌库抽出3张卡。"
+      },
+      {
+        "name": "机关枪拳",
+        "effect": "掷4次硬币，造成正面出现的次数×100点伤害。"
+      },
+      {
+        "name": "[ex规则]",
+        "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-190-2x.jpg",
+    "ename": "Kangaskhan ex",
+    "series": "SV3.5",
+    "cardNo": "190",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-191-2x.jpg",
+    "typeEnergy": "Water",
+    "type": "Pokemon",
+    "cardName": "迷唇姐ex",
+    "skillList": [
+      {
+        "name": "动心之吻",
+        "effect": "若对手的战斗宝可梦【睡眠】，则将那只宝可梦【昏厥】。"
+      },
+      {
+        "name": "冰冻之风",
+        "effect": "将对手的战斗宝可梦【睡眠】。"
+      },
+      {
+        "name": "[ex规则]",
+        "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-191-2x.jpg",
+    "ename": "Jynx ex",
+    "series": "SV3.5",
+    "cardNo": "191",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-192-2x.jpg",
+    "typeEnergy": "Lightning",
+    "type": "Pokemon",
+    "cardName": "闪电鸟ex",
+    "skillList": [
+      {
+        "name": "[特性]伏特浮游",
+        "effect": "若这只宝可梦身上附有【雷】能量卡，则这只宝可梦【撤退】所需的能量全部消除。"
+      },
+      {
+        "name": "闪电连弹",
+        "effect": "对手的身上放置有伤害指示物的1只备战宝可梦也受到90点伤害。[在备战区不计算弱点・抵抗力。]"
+      },
+      {
+        "name": "[ex规则]",
+        "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-192-2x.jpg",
+    "ename": "Zapdos ex",
+    "series": "SV3.5",
+    "cardNo": "192",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-193-2x.jpg",
+    "typeEnergy": "Psychic",
+    "type": "Pokemon",
+    "cardName": "梦幻ex",
+    "skillList": [
+      {
+        "name": "[特性]重启",
+        "effect": "在自己的回合时可使用1次。从牌库抽卡直到自己的手牌满3张为止。"
+      },
+      {
+        "name": "基因骇入",
+        "effect": "选择1个对手的战斗宝可梦持有的招式，作为这个招式使用。"
+      },
+      {
+        "name": "[ex规则]",
+        "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-193-2x.jpg",
+    "ename": "Mew ex",
+    "series": "SV3.5",
+    "cardNo": "193",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-194-2x.jpg",
+    "type": "Trainers",
+    "cardName": "正辉的输送",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "查看自己的牌库上方8张卡，从其中选择任意数量的宝可梦卡，在给对手看过后加入手牌。将剩余卡放回牌库并重洗。"
+      },
+      {
+        "name": "[宝可梦道具的规则]",
+        "effect": "在自己的回合时，支援者卡只可使用1张。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-194-2x.jpg",
+    "ename": "Bill's Transfer",
+    "series": "SV3.5",
+    "cardNo": "194",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-195-2x.jpg",
+    "type": "Trainers",
+    "cardName": "奈奈美的帮助",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "从自己的牌库抽出2张卡。在看过所有反面朝上的自己的奖赏卡的正面后，回复原样。"
+      },
+      {
+        "name": "[宝可梦道具的规则]",
+        "effect": "在自己的回合时，支援者卡只可使用1张。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-195-2x.jpg",
+    "ename": "Daisy's Help",
+    "series": "SV3.5",
+    "cardNo": "195",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-196-2x.jpg",
+    "type": "Trainers",
+    "cardName": "莉佳的招待",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "查看对手的手牌，从其中选择1张【基础】宝可梦卡，放置于对手的备战区。然后，将那只宝可梦与战斗宝可梦互换。"
+      },
+      {
+        "name": "[宝可梦道具的规则]",
+        "effect": "在自己的回合时，支援者卡只可使用1张。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-196-2x.jpg",
+    "ename": "Erika's Invitation",
+    "series": "SV3.5",
+    "cardNo": "196",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-197-2x.jpg",
+    "type": "Trainers",
+    "cardName": "坂木的领导力",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "选择1个对手的战斗宝可梦身上附加的能量，放回对手的手牌。然后，从自己的手牌选择1张能量卡，附于战斗宝可梦身上。"
+      },
+      {
+        "name": "[宝可梦道具的规则]",
+        "effect": "在自己的回合时，支援者卡只可使用1张。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-197-2x.jpg",
+    "ename": "Giovanni's Charisma",
+    "series": "SV3.5",
+    "cardNo": "197",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-198-2x.jpg",
+    "typeEnergy": "Grass",
+    "type": "Pokemon",
+    "cardName": "妙蛙花ex",
+    "skillList": [
+      {
+        "name": "[特性]平和之花",
+        "effect": "若这只宝可梦在战斗场上，则在自己的回合时可使用1次。将自己的1只宝可梦恢复「60」HP。"
+      },
+      {
+        "name": "剧毒鞭打",
+        "effect": "将对手的战斗宝可梦【中毒】与【混乱】。"
+      },
+      {
+        "name": "[ex规则]",
+        "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-198-2x.jpg",
+    "ename": "Venusaur ex",
+    "series": "SV3.5",
+    "cardNo": "198",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-199-2x.jpg",
+    "typeEnergy": "Fire",
+    "type": "Pokemon",
+    "cardName": "喷火龙ex",
+    "skillList": [
+      {
+        "name": "无畏之翼",
+        "effect": "若这只宝可梦身上放置有伤害指示物，则增加100点伤害。"
+      },
+      {
+        "name": "爆焰旋涡",
+        "effect": "选择3个这只宝可梦身上附加的能量，将其丢弃。"
+      },
+      {
+        "name": "[ex规则]",
+        "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-199-2x.jpg",
+    "ename": "Charizard ex",
+    "series": "SV3.5",
+    "cardNo": "199",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-200-2x.jpg",
+    "typeEnergy": "Water",
+    "type": "Pokemon",
+    "cardName": "水箭龟ex",
+    "skillList": [
+      {
+        "name": "[特性]坚硬甲壳",
+        "effect": "这只宝可梦受到招式的伤害「-30」点。"
+      },
+      {
+        "name": "双加农炮",
+        "effect": "从自己的手牌将最多2张「基本【水】能量」卡丢弃，造成其张数×140点伤害。"
+      },
+      {
+        "name": "[ex规则]",
+        "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-200-2x.jpg",
+    "ename": "Blastoise ex",
+    "series": "SV3.5",
+    "cardNo": "200",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-201-2x.jpg",
+    "typeEnergy": "Psychic",
+    "type": "Pokemon",
+    "cardName": "胡地ex",
+    "skillList": [
+      {
+        "name": "意志劫持",
+        "effect": "增加对手的备战宝可梦的数量×30点伤害。"
+      },
+      {
+        "name": "维度之手",
+        "effect": "就算这只宝可梦在备战区，这个招式也可使用。"
+      },
+      {
+        "name": "[ex规则]",
+        "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-201-2x.jpg",
+    "ename": "Alakazam ex",
+    "series": "SV3.5",
+    "cardNo": "201",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-202-2x.jpg",
+    "typeEnergy": "Lightning",
+    "type": "Pokemon",
+    "cardName": "闪电鸟ex",
+    "skillList": [
+      {
+        "name": "[特性]伏特浮游",
+        "effect": "若这只宝可梦身上附有【雷】能量卡，则这只宝可梦【撤退】所需的能量全部消除。"
+      },
+      {
+        "name": "闪电连弹",
+        "effect": "对手的身上放置有伤害指示物的1只备战宝可梦也受到90点伤害。[在备战区不计算弱点・抵抗力。]"
+      },
+      {
+        "name": "[ex规则]",
+        "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-202-2x.jpg",
+    "ename": "Zapdos ex",
+    "series": "SV3.5",
+    "cardNo": "202",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-203-2x.jpg",
+    "type": "Trainers",
+    "cardName": "莉佳的招待",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "查看对手的手牌，从其中选择1张【基础】宝可梦卡，放置于对手的备战区。然后，将那只宝可梦与战斗宝可梦互换。"
+      },
+      {
+        "name": "[宝可梦道具的规则]",
+        "effect": "在自己的回合时，支援者卡只可使用1张。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-203-2x.jpg",
+    "ename": "Erika's Invitation",
+    "series": "SV3.5",
+    "cardNo": "203",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-204-2x.jpg",
+    "type": "Trainers",
+    "cardName": "坂木的领导力",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "选择1个对手的战斗宝可梦身上附加的能量，放回对手的手牌。然后，从自己的手牌选择1张能量卡，附于战斗宝可梦身上。"
+      },
+      {
+        "name": "[宝可梦道具的规则]",
+        "effect": "在自己的回合时，支援者卡只可使用1张。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-204-2x.jpg",
+    "ename": "Giovanni's Charisma",
+    "series": "SV3.5",
+    "cardNo": "204",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-205-2x.jpg",
+    "typeEnergy": "Psychic",
+    "type": "Pokemon",
+    "cardName": "梦幻ex",
+    "skillList": [
+      {
+        "name": "[特性]重启",
+        "effect": "在自己的回合时可使用1次。从牌库抽卡直到自己的手牌满3张为止。"
+      },
+      {
+        "name": "基因骇入",
+        "effect": "选择1个对手的战斗宝可梦持有的招式，作为这个招式使用。"
+      },
+      {
+        "name": "[ex规则]",
+        "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-205-2x.jpg",
+    "ename": "Mew ex",
+    "series": "SV3.5",
+    "cardNo": "205",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-206-2x.jpg",
+    "cardName": "宝可梦交替",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "将自己的战斗宝可梦与备战宝可梦互换。"
+      },
+      {
+        "name": "[物品规则]",
+        "effect": "在自己的回合时，物品卡可不限张数使用。"
+      }
+    ],
+    "type": "Trainers",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-206-2x.jpg",
+    "ename": "Switch",
+    "series": "SV3.5",
+    "cardNo": "206",
+    "isHide": true
   }
 ]
