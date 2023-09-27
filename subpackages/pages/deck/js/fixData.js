@@ -30,6 +30,15 @@ const fixData = {
   'Nest Ball': {
     series: 'SVI',
     cardNo: '181',
+  },
+  'Pal Pad': {
+    series: 'SVI',
+    cardNo: '182',
+  },
+  'Escape Rope': {
+    series: 'BST',
+    cardNo: '125',
   }
+  
 }
 export default fixData
