@@ -6,7 +6,7 @@ const sdata = [
       {
         name: 'Paradox Rift',
         no: 'SV4',
-        code: '',
+        code: '暂未发行',
         logo: 'https://www.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/sv_series/sv04/sv04-slider-logo-en.png',
         isBack: false,
         tipNo: 'G'

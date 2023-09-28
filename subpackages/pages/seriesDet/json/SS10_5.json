@@ -24,7 +24,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_1-2x.jpg",
     "ename": "Bulbasaur",
     "series": "SS10.5",
-    "cardNo": 1
+    "cardNo": "1"
   },
   {
     "id": "6535",
@@ -51,7 +51,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_2-2x.jpg",
     "ename": "Ivysaur",
     "series": "SS10.5",
-    "cardNo": 2
+    "cardNo": "2"
   },
   {
     "id": "6536",
@@ -78,7 +78,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_3-2x.jpg",
     "ename": "Venusaur",
     "series": "SS10.5",
-    "cardNo": 3
+    "cardNo": "3"
   },
   {
     "id": "6537",
@@ -109,7 +109,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_4-2x.jpg",
     "ename": "Radiant Venusaur",
     "series": "SS10.5",
-    "cardNo": 4
+    "cardNo": "4"
   },
   {
     "id": "6538",
@@ -143,7 +143,7 @@
       "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_71-2x.jpg"
     ],
     "series": "SS10.5",
-    "cardNo": "5|71"
+    "cardNo": "71"
   },
   {
     "id": "6539",
@@ -166,7 +166,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_6-2x.jpg",
     "ename": "Spinarak",
     "series": "SS10.5",
-    "cardNo": 6
+    "cardNo": "6"
   },
   {
     "id": "6540",
@@ -193,7 +193,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_7-2x.jpg",
     "ename": "Ariados",
     "series": "SS10.5",
-    "cardNo": 7
+    "cardNo": "7"
   },
   {
     "id": "6541",
@@ -216,7 +216,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_8-2x.jpg",
     "ename": "Charmander",
     "series": "SS10.5",
-    "cardNo": 8
+    "cardNo": "8"
   },
   {
     "id": "6542",
@@ -243,7 +243,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_9-2x.jpg",
     "ename": "Charmeleon",
     "series": "SS10.5",
-    "cardNo": 9
+    "cardNo": "9"
   },
   {
     "id": "6543",
@@ -270,7 +270,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_10-2x.jpg",
     "ename": "Charizard",
     "series": "SS10.5",
-    "cardNo": 10
+    "cardNo": "10"
   },
   {
     "id": "6544",
@@ -301,7 +301,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_11-2x.jpg",
     "ename": "Radiant Charizard",
     "series": "SS10.5",
-    "cardNo": 11
+    "cardNo": "11"
   },
   {
     "id": "6545",
@@ -328,7 +328,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_12-2x.jpg",
     "ename": "Moltres",
     "series": "SS10.5",
-    "cardNo": 12
+    "cardNo": "12"
   },
   {
     "id": "6546",
@@ -355,7 +355,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_13-2x.jpg",
     "ename": "Numel",
     "series": "SS10.5",
-    "cardNo": 13
+    "cardNo": "13"
   },
   {
     "id": "6547",
@@ -382,7 +382,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_14-2x.jpg",
     "ename": "Camerupt",
     "series": "SS10.5",
-    "cardNo": 14
+    "cardNo": "14"
   },
   {
     "id": "6548",
@@ -405,7 +405,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_15-2x.jpg",
     "ename": "Squirtle",
     "series": "SS10.5",
-    "cardNo": 15
+    "cardNo": "15"
   },
   {
     "id": "6549",
@@ -432,7 +432,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_16-2x.jpg",
     "ename": "Wartortle",
     "series": "SS10.5",
-    "cardNo": 16
+    "cardNo": "16"
   },
   {
     "id": "6550",
@@ -459,7 +459,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_17-2x.jpg",
     "ename": "Blastoise",
     "series": "SS10.5",
-    "cardNo": 17
+    "cardNo": "17"
   },
   {
     "id": "6551",
@@ -490,7 +490,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_18-2x.jpg",
     "ename": "Radiant Blastoise",
     "series": "SS10.5",
-    "cardNo": 18
+    "cardNo": "18"
   },
   {
     "id": "6552",
@@ -517,7 +517,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_19-2x.jpg",
     "ename": "Slowpoke",
     "series": "SS10.5",
-    "cardNo": 19
+    "cardNo": "19"
   },
   {
     "id": "6553",
@@ -544,7 +544,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_20-2x.jpg",
     "ename": "Slowbro",
     "series": "SS10.5",
-    "cardNo": 20
+    "cardNo": "20"
   },
   {
     "id": "6554",
@@ -571,7 +571,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_21-2x.jpg",
     "ename": "Magikarp",
     "series": "SS10.5",
-    "cardNo": 21
+    "cardNo": "21"
   },
   {
     "id": "6555",
@@ -598,7 +598,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_22-2x.jpg",
     "ename": "Gyarados",
     "series": "SS10.5",
-    "cardNo": 22
+    "cardNo": "22"
   },
   {
     "id": "6556",
@@ -625,7 +625,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_23-2x.jpg",
     "ename": "Lapras",
     "series": "SS10.5",
-    "cardNo": 23
+    "cardNo": "23"
   },
   {
     "id": "6557",
@@ -652,7 +652,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_24-2x.jpg",
     "ename": "Articuno",
     "series": "SS10.5",
-    "cardNo": 24
+    "cardNo": "24"
   },
   {
     "id": "6558",
@@ -679,7 +679,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_25-2x.jpg",
     "ename": "Wimpod",
     "series": "SS10.5",
-    "cardNo": 25
+    "cardNo": "25"
   },
   {
     "id": "6559",
@@ -706,7 +706,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_26-2x.jpg",
     "ename": "Golisopod",
     "series": "SS10.5",
-    "cardNo": 26
+    "cardNo": "26"
   },
   {
     "id": "6560",
@@ -729,7 +729,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_27-2x.jpg",
     "ename": "Pikachu",
     "series": "SS10.5",
-    "cardNo": 27
+    "cardNo": "27"
   },
   {
     "id": "6561",
@@ -755,7 +755,7 @@
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_160_R_EN.png"
     ],
     "series": "SS10.5",
-    "cardNo": "28|160"
+    "cardNo": "28"
   },
   {
     "id": "6562",
@@ -782,7 +782,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_29-2x.jpg",
     "ename": "Zapdos",
     "series": "SS10.5",
-    "cardNo": 29
+    "cardNo": "29"
   },
   {
     "id": "6563",
@@ -816,7 +816,7 @@
       "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_72-2x.jpg"
     ],
     "series": "SS10.5",
-    "cardNo": "30|72"
+    "cardNo": "30"
   },
   {
     "id": "6564",
@@ -852,7 +852,7 @@
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PGO/PGO_086_R_EN.png"
     ],
     "series": "SS10.5",
-    "cardNo": "31|GG 44|79|86"
+    "cardNo": "31"
   },
   {
     "id": "6565",
@@ -879,7 +879,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_32-2x.jpg",
     "ename": "Natu",
     "series": "SS10.5",
-    "cardNo": 32
+    "cardNo": "32"
   },
   {
     "id": "6566",
@@ -906,7 +906,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_33-2x.jpg",
     "ename": "Xatu",
     "series": "SS10.5",
-    "cardNo": 33
+    "cardNo": "33"
   },
   {
     "id": "6567",
@@ -936,7 +936,7 @@
       "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_11-2x.jpg"
     ],
     "series": "SS10.5",
-    "cardNo": "34|GG 11"
+    "cardNo": "34"
   },
   {
     "id": "6568",
@@ -963,7 +963,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_35-2x.jpg",
     "ename": "Sylveon",
     "series": "SS10.5",
-    "cardNo": 35
+    "cardNo": "35"
   },
   {
     "id": "6569",
@@ -990,7 +990,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_36-2x.jpg",
     "ename": "Onix",
     "series": "SS10.5",
-    "cardNo": 36
+    "cardNo": "36"
   },
   {
     "id": "6570",
@@ -1013,7 +1013,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_37-2x.jpg",
     "ename": "Larvitar",
     "series": "SS10.5",
-    "cardNo": 37
+    "cardNo": "37"
   },
   {
     "id": "6571",
@@ -1040,7 +1040,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_38-2x.jpg",
     "ename": "Pupitar",
     "series": "SS10.5",
-    "cardNo": 38
+    "cardNo": "38"
   },
   {
     "id": "6572",
@@ -1070,7 +1070,7 @@
       "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_15-2x.jpg"
     ],
     "series": "SS10.5",
-    "cardNo": "39|GG 15"
+    "cardNo": "39"
   },
   {
     "id": "6573",
@@ -1105,7 +1105,7 @@
       "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_74-2x.jpg"
     ],
     "series": "SS10.5",
-    "cardNo": "40|73|74"
+    "cardNo": "40"
   },
   {
     "id": "6574",
@@ -1128,7 +1128,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_41-2x.jpg",
     "ename": "Alolan Rattata",
     "series": "SS10.5",
-    "cardNo": 41
+    "cardNo": "41"
   },
   {
     "id": "6575",
@@ -1155,7 +1155,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_42-2x.jpg",
     "ename": "Alolan Raticate",
     "series": "SS10.5",
-    "cardNo": 42
+    "cardNo": "42"
   },
   {
     "id": "6576",
@@ -1182,7 +1182,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_43-2x.jpg",
     "ename": "Tyranitar",
     "series": "SS10.5",
-    "cardNo": 43
+    "cardNo": "43"
   },
   {
     "id": "6577",
@@ -1209,7 +1209,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_44-2x.jpg",
     "ename": "Steelix",
     "series": "SS10.5",
-    "cardNo": 44
+    "cardNo": "44"
   },
   {
     "id": "6578",
@@ -1232,7 +1232,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_45-2x.jpg",
     "ename": "Meltan",
     "series": "SS10.5",
-    "cardNo": 45
+    "cardNo": "45"
   },
   {
     "id": "6579",
@@ -1259,7 +1259,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_46-2x.jpg",
     "ename": "Melmetal",
     "series": "SS10.5",
-    "cardNo": 46
+    "cardNo": "46"
   },
   {
     "id": "6580",
@@ -1293,7 +1293,7 @@
       "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_75-2x.jpg"
     ],
     "series": "SS10.5",
-    "cardNo": "47|75"
+    "cardNo": "47"
   },
   {
     "id": "6581",
@@ -1323,7 +1323,7 @@
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PGO/PGO_080_R_EN.png"
     ],
     "series": "SS10.5",
-    "cardNo": "48|80"
+    "cardNo": "48"
   },
   {
     "id": "6582",
@@ -1354,12 +1354,10 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_49-2x.jpg",
     "ename": "Dragonite V",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_76-2x.jpg",
-      "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_191-2x.jpg",
-      "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_192-2x.jpg"
+      "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_76-2x.jpg"
     ],
     "series": "SS10.5",
-    "cardNo": 49
+    "cardNo": "49"
   },
   {
     "id": "6583",
@@ -1393,7 +1391,7 @@
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PGO/PGO_081_R_EN.png"
     ],
     "series": "SS10.5",
-    "cardNo": "50|81"
+    "cardNo": "50"
   },
   {
     "id": "6584",
@@ -1420,7 +1418,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_51-2x.jpg",
     "ename": "Chansey",
     "series": "SS10.5",
-    "cardNo": 51
+    "cardNo": "51"
   },
   {
     "id": "6585",
@@ -1447,7 +1445,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_52-2x.jpg",
     "ename": "Blissey",
     "series": "SS10.5",
-    "cardNo": 52
+    "cardNo": "52"
   },
   {
     "id": "6586",
@@ -1473,7 +1471,7 @@
       "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_22-2x.jpg"
     ],
     "series": "SS10.5",
-    "cardNo": "53|GG 22"
+    "cardNo": "53"
   },
   {
     "id": "6587",
@@ -1500,7 +1498,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_54-2x.jpg",
     "ename": "Eevee",
     "series": "SS10.5",
-    "cardNo": 54
+    "cardNo": "54"
   },
   {
     "id": "6589",
@@ -1527,7 +1525,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_55-2x.jpg",
     "ename": "Snorlax",
     "series": "SS10.5",
-    "cardNo": 55
+    "cardNo": "55"
   },
   {
     "id": "6590",
@@ -1554,7 +1552,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_56-2x.jpg",
     "ename": "Aipom",
     "series": "SS10.5",
-    "cardNo": 56
+    "cardNo": "56"
   },
   {
     "id": "6591",
@@ -1581,7 +1579,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_57-2x.jpg",
     "ename": "Ambipom",
     "series": "SS10.5",
-    "cardNo": 57
+    "cardNo": "57"
   },
   {
     "id": "6592",
@@ -1615,7 +1613,7 @@
       "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_77-2x.jpg"
     ],
     "series": "SS10.5",
-    "cardNo": "58|77"
+    "cardNo": "58"
   },
   {
     "id": "6593",
@@ -1638,7 +1636,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_59-2x.jpg",
     "ename": "Bidoof",
     "series": "SS10.5",
-    "cardNo": 59
+    "cardNo": "59"
   },
   {
     "id": "6594",
@@ -1665,7 +1663,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_60-2x.jpg",
     "ename": "Bibarel",
     "series": "SS10.5",
-    "cardNo": 60
+    "cardNo": "60"
   },
   {
     "id": "6595",
@@ -1692,7 +1690,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_61-2x.jpg",
     "ename": "Pidove",
     "series": "SS10.5",
-    "cardNo": 61
+    "cardNo": "61"
   },
   {
     "id": "6596",
@@ -1719,7 +1717,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_62-2x.jpg",
     "ename": "Tranquill",
     "series": "SS10.5",
-    "cardNo": 62
+    "cardNo": "62"
   },
   {
     "id": "6597",
@@ -1746,7 +1744,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_63-2x.jpg",
     "ename": "Unfezant",
     "series": "SS10.5",
-    "cardNo": 63
+    "cardNo": "63"
   },
   {
     "id": "6604",
@@ -1767,7 +1765,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_68-2x.jpg",
     "ename": "PokéStop",
     "series": "SS10.5",
-    "cardNo": 68
+    "cardNo": "68"
   },
   {
     "id": "6603",
@@ -1791,7 +1789,7 @@
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PGO/PGO_082_R_EN.png"
     ],
     "series": "SS10.5",
-    "cardNo": "64|82"
+    "cardNo": "64"
   },
   {
     "id": "6601",
@@ -1815,7 +1813,7 @@
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PGO/PGO_083_R_EN.png"
     ],
     "series": "SS10.5",
-    "cardNo": "65|83"
+    "cardNo": "65"
   },
   {
     "id": "6602",
@@ -1839,31 +1837,7 @@
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PGO/PGO_085_R_EN.png"
     ],
     "series": "SS10.5",
-    "cardNo": "70|85"
-  },
-  {
-    "id": "",
-    "url": "",
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SSP/SSP_178_R_EN.png",
-    "type": "Trainers",
-    "cardName": "博士的研究（维罗博士）",
-    "skillList": [
-      {
-        "name": "",
-        "effect": "将自己的手牌全部丢弃，从牌库抽出7张卡。"
-      },
-      {
-        "name": "[支援者规则]",
-        "effect": "在自己的回合时，支援者卡只可使用1张。"
-      }
-    ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_78-2x.jpg",
-    "ename": "Professor's Research (Professor Willow)",
-    "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PGO/PGO_084_R_EN.png"
-    ],
-    "series": "SS9",
-    "cardNo": "78|SWSH 178|84"
+    "cardNo": "70"
   },
   {
     "id": "6598",
@@ -1887,7 +1861,7 @@
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PGO/PGO_087_R_EN.png"
     ],
     "series": "SS10.5",
-    "cardNo": "66|87"
+    "cardNo": "66"
   },
   {
     "id": "6600",
@@ -1911,7 +1885,7 @@
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PGO/PGO_088_R_EN.png"
     ],
     "series": "SS10.5",
-    "cardNo": "67|88"
+    "cardNo": "67"
   },
   {
     "id": "6599",
@@ -1935,6 +1909,416 @@
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_256_R_EN.png"
     ],
     "series": "SS10.5",
-    "cardNo": "69|256"
+    "cardNo": "69"
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_71-2x.jpg",
+    "typeEnergy": "Grass",
+    "type": "Pokemon",
+    "cardName": "阿罗拉 椰蛋树V",
+    "skillList": [
+      {
+        "name": "悠悠成长",
+        "effect": "掷1次硬币若为正面，则从自己的牌库选择最多5张【草】能量卡，以任意方式附于自己的宝可梦身上。并且重洗牌库。"
+      },
+      {
+        "name": "嗡嗡头击",
+        "effect": "对手的1只宝可梦，受到这只宝可梦身上附加的【草】能量的数量×30点伤害。[在备战区不计算弱点・抵抗力。]"
+      },
+      {
+        "name": "[V规则]",
+        "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_71-2x.jpg",
+    "ename": "Alolan Exeggutor V",
+    "series": "SS10.5",
+    "cardNo": "71",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_72-2x.jpg",
+    "typeEnergy": "Psychic",
+    "type": "Pokemon",
+    "cardName": "超梦V",
+    "skillList": [
+      {
+        "name": "超念力",
+        "effect": ""
+      },
+      {
+        "name": "转移破坏",
+        "effect": "选择1个这只宝可梦身上附加的能量，改附于备战宝可梦身上。"
+      },
+      {
+        "name": "[V规则]",
+        "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_72-2x.jpg",
+    "ename": "Mewtwo V",
+    "series": "SS10.5",
+    "cardNo": "72",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_73-2x.jpg",
+    "typeEnergy": "Fighting",
+    "type": "Pokemon",
+    "cardName": "修建老匠V",
+    "skillList": [
+      {
+        "name": "双倍奉还",
+        "effect": "增加与在上个对手的回合这只宝可梦受到的招式的伤害点相同数量的伤害。"
+      },
+      {
+        "name": "爆裂拳",
+        "effect": "掷1次硬币若为正面，则增加90点伤害，并将对手的战斗宝可梦【混乱】。"
+      },
+      {
+        "name": "[V规则]",
+        "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_73-2x.jpg",
+    "ename": "Conkeldurr V",
+    "series": "SS10.5",
+    "cardNo": "73",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_74-2x.jpg",
+    "typeEnergy": "Fighting",
+    "type": "Pokemon",
+    "cardName": "修建老匠V",
+    "skillList": [
+      {
+        "name": "双倍奉还",
+        "effect": "增加与在上个对手的回合这只宝可梦受到的招式的伤害点相同数量的伤害。"
+      },
+      {
+        "name": "爆裂拳",
+        "effect": "掷1次硬币若为正面，则增加90点伤害，并将对手的战斗宝可梦【混乱】。"
+      },
+      {
+        "name": "[V规则]",
+        "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_74-2x.jpg",
+    "ename": "Conkeldurr V",
+    "series": "SS10.5",
+    "cardNo": "74",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_75-2x.jpg",
+    "typeEnergy": "Metal",
+    "type": "Pokemon",
+    "cardName": "美录梅塔V",
+    "skillList": [
+      {
+        "name": "臂充能",
+        "effect": "若希望，从自己的手牌选择1张【钢】能量卡，附于这只宝可梦身上。"
+      },
+      {
+        "name": "百万吨重拳",
+        "effect": ""
+      },
+      {
+        "name": "[V规则]",
+        "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_75-2x.jpg",
+    "ename": "Melmetal V",
+    "series": "SS10.5",
+    "cardNo": "75",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_76-2x.jpg",
+    "typeEnergy": "Dragon",
+    "type": "Pokemon",
+    "cardName": "快龙V",
+    "skillList": [
+      {
+        "name": "破坏光线",
+        "effect": "选择1个对手的战斗宝可梦身上附加的能量，将其丢弃。"
+      },
+      {
+        "name": "光炮尾",
+        "effect": ""
+      },
+      {
+        "name": "[V规则]",
+        "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_76-2x.jpg",
+    "ename": "Dragonite V",
+    "series": "SS10.5",
+    "cardNo": "76",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_77-2x.jpg",
+    "typeEnergy": "Colorless",
+    "type": "Pokemon",
+    "cardName": "请假王V",
+    "skillList": [
+      {
+        "name": "[特性]习懒成癖",
+        "effect": "若自己剩余奖赏卡的张数为6张・4张・2张，则这只宝可梦无法使用招式。"
+      },
+      {
+        "name": "重磅冲击",
+        "effect": ""
+      },
+      {
+        "name": "[V规则]",
+        "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_77-2x.jpg",
+    "ename": "Slaking V",
+    "series": "SS10.5",
+    "cardNo": "77",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_78-2x.jpg",
+    "type": "Trainers",
+    "cardName": "博士的研究（维罗博士）",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "将自己的手牌全部丢弃，从牌库抽出7张卡。"
+      },
+      {
+        "name": "[支援者规则]",
+        "effect": "在自己的回合时，支援者卡只可使用1张。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_78-2x.jpg",
+    "ename": "Professor's Research (Professor Willow)",
+    "series": "SS9",
+    "cardNo": "78",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PGO/PGO_079_R_EN.png",
+    "typeEnergy": "Psychic",
+    "type": "Pokemon",
+    "cardName": "超梦VSTAR",
+    "skillList": [
+      {
+        "name": "精神光芒",
+        "effect": "将自己的场上宝可梦身上附加的最多3张【超】能量卡丢弃，造成其张数×90点伤害。"
+      },
+      {
+        "name": "[VSTAR力量]星星袭击",
+        "effect": "对手的所有「宝可梦【V】」各受到120点伤害。这个招式的伤害不计算弱点・抵抗力。[对战中，己方只可使用1次【VSTAR】力量。]"
+      },
+      {
+        "name": "[VSTAR规则]",
+        "effect": "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PGO/PGO_079_R_EN.png",
+    "ename": "Mewtwo VSTAR",
+    "series": "SS10.5",
+    "cardNo": "79",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PGO/PGO_080_R_EN.png",
+    "typeEnergy": "Metal",
+    "type": "Pokemon",
+    "cardName": "美录梅塔VMAX",
+    "skillList": [
+      {
+        "name": "超极巨钢甲重拳",
+        "effect": "与使用这个招式所需的能量相比，增加身上多附的【钢】能量的数量×60点伤害。可增加的伤害数值为最多2个【钢】能量。"
+      },
+      {
+        "name": "[VMAX规则]",
+        "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PGO/PGO_080_R_EN.png",
+    "ename": "Melmetal VMAX",
+    "series": "SS10.5",
+    "cardNo": "80",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PGO/PGO_081_R_EN.png",
+    "typeEnergy": "Dragon",
+    "type": "Pokemon",
+    "cardName": "快龙VSTAR",
+    "skillList": [
+      {
+        "name": "终极冲击",
+        "effect": "在下个自己的回合，这只宝可梦无法使用招式。"
+      },
+      {
+        "name": "[VSTAR力量]龙之星星",
+        "effect": "查看自己的牌库上方12张卡，从其中选择任意数量的【水】或者【雷】能量卡，以任意方式附于自己的宝可梦身上。将剩余卡放回牌库并重洗。[对战中，己方只可使用1次【VSTAR】力量。]"
+      },
+      {
+        "name": "[VSTAR规则]",
+        "effect": "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PGO/PGO_081_R_EN.png",
+    "ename": "Dragonite VSTAR",
+    "series": "SS10.5",
+    "cardNo": "81",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PGO/PGO_082_R_EN.png",
+    "type": "Trainers",
+    "cardName": "布兰雪",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "从自己的牌库抽出2张卡。然后，掷1次硬币若为正面，则从自己的弃牌区选择1张【水】能量卡，附于备战宝可梦身上。"
+      },
+      {
+        "name": "[支援者规则]",
+        "effect": "在自己的回合时，支援者卡只可使用1张。"
+      }
+    ],
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PGO/PGO_082_R_EN.png",
+    "ename": "Blanche",
+    "series": "SS10.5",
+    "cardNo": "82",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PGO/PGO_083_R_EN.png",
+    "type": "Trainers",
+    "cardName": "坎迪拉",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "从自己的牌库抽出2张卡。然后，掷1次硬币若为正面，则从自己的弃牌区选择1张【火】能量卡，附于备战宝可梦身上。"
+      },
+      {
+        "name": "[支援者规则]",
+        "effect": "在自己的回合时，支援者卡只可使用1张。"
+      }
+    ],
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PGO/PGO_083_R_EN.png",
+    "ename": "Candela",
+    "series": "SS10.5",
+    "cardNo": "83",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PGO/PGO_084_R_EN.png",
+    "type": "Trainers",
+    "cardName": "博士的研究（维罗博士）",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "将自己的手牌全部丢弃，从牌库抽出7张卡。"
+      },
+      {
+        "name": "[支援者规则]",
+        "effect": "在自己的回合时，支援者卡只可使用1张。"
+      }
+    ],
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PGO/PGO_084_R_EN.png",
+    "ename": "Professor's Research (Professor Willow)",
+    "series": "SS10.5",
+    "cardNo": "84",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PGO/PGO_085_R_EN.png",
+    "type": "Trainers",
+    "cardName": "史帕克",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "从自己的牌库抽出2张卡。然后，掷1次硬币若为正面，则从自己的弃牌区选择1张【雷】能量卡，附于备战宝可梦身上。"
+      },
+      {
+        "name": "[支援者规则]",
+        "effect": "在自己的回合时，支援者卡只可使用1张。"
+      }
+    ],
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PGO/PGO_085_R_EN.png",
+    "ename": "Spark",
+    "series": "SS10.5",
+    "cardNo": "85",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PGO/PGO_086_R_EN.png",
+    "typeEnergy": "Psychic",
+    "type": "Pokemon",
+    "cardName": "超梦VSTAR",
+    "skillList": [
+      {
+        "name": "精神光芒",
+        "effect": "将自己的场上宝可梦身上附加的最多3张【超】能量卡丢弃，造成其张数×90点伤害。"
+      },
+      {
+        "name": "[VSTAR力量]星星袭击",
+        "effect": "对手的所有「宝可梦【V】」各受到120点伤害。这个招式的伤害不计算弱点・抵抗力。[对战中，己方只可使用1次【VSTAR】力量。]"
+      },
+      {
+        "name": "[VSTAR规则]",
+        "effect": "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PGO/PGO_086_R_EN.png",
+    "ename": "Mewtwo VSTAR",
+    "series": "SS10.5",
+    "cardNo": "86"
+  },
+  {
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PGO/PGO_087_R_EN.png",
+    "type": "Trainers",
+    "cardName": "孵化器",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "掷1次硬币若为正面，则从自己的牌库选择1张【基础】宝可梦卡，放置于备战区。并且重洗牌库。若为反面，则不丢弃这个「孵化器」，而是放回牌库下方。"
+      },
+      {
+        "name": "[物品规则]",
+        "effect": "在自己的回合时，物品卡可不限张数使用。"
+      }
+    ],
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PGO/PGO_087_R_EN.png",
+    "ename": "Egg Incubator",
+    "series": "SS10.5",
+    "cardNo": "87",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PGO/PGO_088_R_EN.png",
+    "type": "Trainers",
+    "cardName": "诱饵模组",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "双方玩家各将自己的牌库上方3张卡翻到正面，在给对手看过其中的所有宝可梦卡后，加入手牌。将剩余卡放回牌库并重洗。"
+      },
+      {
+        "name": "[物品规则]",
+        "effect": "在自己的回合时，物品卡可不限张数使用。"
+      }
+    ],
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PGO/PGO_088_R_EN.png",
+    "ename": "Lure Module",
+    "series": "SS10.5",
+    "cardNo": "88",
+    "isHide": true
   }
 ]

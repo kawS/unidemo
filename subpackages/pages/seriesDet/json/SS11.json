@@ -20,7 +20,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_1-2x.jpg",
     "ename": "Oddish",
     "series": "SS11",
-    "cardNo": 1
+    "cardNo": "1"
   },
   {
     "id": "6053",
@@ -43,7 +43,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_2-2x.jpg",
     "ename": "Gloom",
     "series": "SS11",
-    "cardNo": 2
+    "cardNo": "2"
   },
   {
     "id": "6054",
@@ -70,7 +70,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_3-2x.jpg",
     "ename": "Vileplume",
     "series": "SS11",
-    "cardNo": 3
+    "cardNo": "3"
   },
   {
     "id": "6367",
@@ -96,7 +96,7 @@
       "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_32-2x.jpg"
     ],
     "series": "SS11",
-    "cardNo": "4|GG 32"
+    "cardNo": "4"
   },
   {
     "id": "6368",
@@ -126,7 +126,7 @@
       "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_TG_1-2x.jpg"
     ],
     "series": "SS11",
-    "cardNo": "5|TG 01"
+    "cardNo": "5"
   },
   {
     "id": "6370",
@@ -153,7 +153,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_6-2x.jpg",
     "ename": "Wurmple",
     "series": "SS11",
-    "cardNo": 6
+    "cardNo": "6"
   },
   {
     "id": "6371",
@@ -180,7 +180,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_7-2x.jpg",
     "ename": "Silcoon",
     "series": "SS11",
-    "cardNo": 7
+    "cardNo": "7"
   },
   {
     "id": "6372",
@@ -207,7 +207,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_8-2x.jpg",
     "ename": "Beautifly",
     "series": "SS11",
-    "cardNo": 8
+    "cardNo": "8"
   },
   {
     "id": "6373",
@@ -234,7 +234,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_9-2x.jpg",
     "ename": "Cascoon",
     "series": "SS11",
-    "cardNo": 9
+    "cardNo": "9"
   },
   {
     "id": "6374",
@@ -261,7 +261,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_10-2x.jpg",
     "ename": "Dustox",
     "series": "SS11",
-    "cardNo": 10
+    "cardNo": "10"
   },
   {
     "id": "6742",
@@ -284,7 +284,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_11-2x.jpg",
     "ename": "Seedot",
     "series": "SS11",
-    "cardNo": 11
+    "cardNo": "11"
   },
   {
     "id": "6743",
@@ -307,7 +307,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_12-2x.jpg",
     "ename": "Nuzleaf",
     "series": "SS11",
-    "cardNo": 12
+    "cardNo": "12"
   },
   {
     "id": "6744",
@@ -334,7 +334,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_13-2x.jpg",
     "ename": "Shiftry",
     "series": "SS11",
-    "cardNo": 13
+    "cardNo": "13"
   },
   {
     "id": "6057",
@@ -357,7 +357,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_14-2x.jpg",
     "ename": "Roselia",
     "series": "SS11",
-    "cardNo": 14
+    "cardNo": "14"
   },
   {
     "id": "6058",
@@ -387,7 +387,7 @@
       "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_TG_2-2x.jpg"
     ],
     "series": "SS11",
-    "cardNo": "15|TG 02"
+    "cardNo": "15"
   },
   {
     "id": "6748",
@@ -410,7 +410,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_16-2x.jpg",
     "ename": "Phantump",
     "series": "SS11",
-    "cardNo": 16
+    "cardNo": "16"
   },
   {
     "id": "6749",
@@ -437,7 +437,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_17-2x.jpg",
     "ename": "Trevenant",
     "series": "SS11",
-    "cardNo": 17
+    "cardNo": "17"
   },
   {
     "id": "6307",
@@ -460,7 +460,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_18-2x.jpg",
     "ename": "Blipbug",
     "series": "SS11",
-    "cardNo": 18
+    "cardNo": "18"
   },
   {
     "id": "6308",
@@ -483,7 +483,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_19-2x.jpg",
     "ename": "Dottler",
     "series": "SS11",
-    "cardNo": 19
+    "cardNo": "19"
   },
   {
     "id": "6309",
@@ -510,7 +510,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_20-2x.jpg",
     "ename": "Orbeetle",
     "series": "SS11",
-    "cardNo": 20
+    "cardNo": "20"
   },
   {
     "id": "6369",
@@ -541,7 +541,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_172-2x.jpg",
     "ename": "Hisuian Electrode V",
     "series": "SS11",
-    "cardNo": 172
+    "cardNo": "172"
   },
   {
     "id": "6752",
@@ -568,7 +568,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_21-2x.jpg",
     "ename": "Slugma",
     "series": "SS11",
-    "cardNo": 21
+    "cardNo": "21"
   },
   {
     "id": "6753",
@@ -595,7 +595,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_22-2x.jpg",
     "ename": "Magcargo",
     "series": "SS11",
-    "cardNo": 22
+    "cardNo": "22"
   },
   {
     "id": "6312",
@@ -622,7 +622,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_23-2x.jpg",
     "ename": "Torkoal",
     "series": "SS11",
-    "cardNo": 23
+    "cardNo": "23"
   },
   {
     "id": "6062",
@@ -645,7 +645,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_24-2x.jpg",
     "ename": "Litwick",
     "series": "SS11",
-    "cardNo": 24
+    "cardNo": "24"
   },
   {
     "id": "6063",
@@ -668,7 +668,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_25-2x.jpg",
     "ename": "Lampent",
     "series": "SS11",
-    "cardNo": 25
+    "cardNo": "25"
   },
   {
     "id": "6064",
@@ -698,7 +698,7 @@
       "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_TG_4-2x.jpg"
     ],
     "series": "SS11",
-    "cardNo": "26|TG 04"
+    "cardNo": "26"
   },
   {
     "id": "6754",
@@ -732,7 +732,7 @@
       "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_173-2x.jpg"
     ],
     "series": "SS11",
-    "cardNo": "27|173"
+    "cardNo": "27"
   },
   {
     "id": "6065",
@@ -755,7 +755,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_28-2x.jpg",
     "ename": "Litleo",
     "series": "SS11",
-    "cardNo": 28
+    "cardNo": "28"
   },
   {
     "id": "6066",
@@ -782,7 +782,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_29-2x.jpg",
     "ename": "Pyroar",
     "series": "SS11",
-    "cardNo": 29
+    "cardNo": "29"
   },
   {
     "id": "6243",
@@ -805,7 +805,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_30-2x.jpg",
     "ename": "Poliwag",
     "series": "SS11",
-    "cardNo": 30
+    "cardNo": "30"
   },
   {
     "id": "6244",
@@ -832,7 +832,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_31-2x.jpg",
     "ename": "Poliwhirl",
     "series": "SS11",
-    "cardNo": 31
+    "cardNo": "31"
   },
   {
     "id": "6245",
@@ -859,7 +859,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_32-2x.jpg",
     "ename": "Politoed",
     "series": "SS11",
-    "cardNo": 32
+    "cardNo": "32"
   },
   {
     "id": "6757",
@@ -886,7 +886,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_33-2x.jpg",
     "ename": "Seel",
     "series": "SS11",
-    "cardNo": 33
+    "cardNo": "33"
   },
   {
     "id": "6758",
@@ -913,7 +913,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_34-2x.jpg",
     "ename": "Dewgong",
     "series": "SS11",
-    "cardNo": 34
+    "cardNo": "34"
   },
   {
     "id": "6759",
@@ -936,7 +936,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_35-2x.jpg",
     "ename": "Horsea",
     "series": "SS11",
-    "cardNo": 35
+    "cardNo": "35"
   },
   {
     "id": "6760",
@@ -963,7 +963,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_36-2x.jpg",
     "ename": "Seadra",
     "series": "SS11",
-    "cardNo": 36
+    "cardNo": "36"
   },
   {
     "id": "6761",
@@ -990,7 +990,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_37-2x.jpg",
     "ename": "Kingdra",
     "series": "SS11",
-    "cardNo": 37
+    "cardNo": "37"
   },
   {
     "id": "6317",
@@ -1017,7 +1017,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_38-2x.jpg",
     "ename": "Luvdisc",
     "series": "SS11",
-    "cardNo": 38
+    "cardNo": "38"
   },
   {
     "id": "6319",
@@ -1044,7 +1044,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_39-2x.jpg",
     "ename": "Shellos",
     "series": "SS11",
-    "cardNo": 39
+    "cardNo": "39"
   },
   {
     "id": "6764",
@@ -1071,7 +1071,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_40-2x.jpg",
     "ename": "Finneon",
     "series": "SS11",
-    "cardNo": 40
+    "cardNo": "40"
   },
   {
     "id": "6765",
@@ -1098,7 +1098,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_41-2x.jpg",
     "ename": "Lumineon",
     "series": "SS11",
-    "cardNo": 41
+    "cardNo": "41"
   },
   {
     "id": "6375",
@@ -1125,7 +1125,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_42-2x.jpg",
     "ename": "Snover",
     "series": "SS11",
-    "cardNo": 42
+    "cardNo": "42"
   },
   {
     "id": "6376",
@@ -1152,7 +1152,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_43-2x.jpg",
     "ename": "Abomasnow",
     "series": "SS11",
-    "cardNo": 43
+    "cardNo": "43"
   },
   {
     "id": "6378",
@@ -1175,7 +1175,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_44-2x.jpg",
     "ename": "Hisuian Basculin",
     "series": "SS11",
-    "cardNo": 44
+    "cardNo": "44"
   },
   {
     "id": "6379",
@@ -1202,7 +1202,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_45-2x.jpg",
     "ename": "Hisuian Basculegion",
     "series": "SS11",
-    "cardNo": 45
+    "cardNo": "45"
   },
   {
     "id": "6249",
@@ -1225,7 +1225,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_46-2x.jpg",
     "ename": "Ducklett",
     "series": "SS11",
-    "cardNo": 46
+    "cardNo": "46"
   },
   {
     "id": "6250",
@@ -1252,7 +1252,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_47-2x.jpg",
     "ename": "Swanna",
     "series": "SS11",
-    "cardNo": 47
+    "cardNo": "47"
   },
   {
     "id": "6766",
@@ -1286,7 +1286,7 @@
       "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_174-2x.jpg"
     ],
     "series": "SS11",
-    "cardNo": "48|174"
+    "cardNo": "48"
   },
   {
     "id": "6767",
@@ -1320,7 +1320,7 @@
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_197_R_EN.png"
     ],
     "series": "SS11",
-    "cardNo": "49|197"
+    "cardNo": "49"
   },
   {
     "id": "6770",
@@ -1347,7 +1347,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_50-2x.jpg",
     "ename": "Cramorant",
     "series": "SS11",
-    "cardNo": 50
+    "cardNo": "50"
   },
   {
     "id": "6771",
@@ -1374,7 +1374,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_51-2x.jpg",
     "ename": "Glastrier",
     "series": "SS11",
-    "cardNo": 51
+    "cardNo": "51"
   },
   {
     "id": "6380",
@@ -1405,7 +1405,7 @@
       "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_TG_5-2x.jpg"
     ],
     "series": "SS11",
-    "cardNo": "52|GG 30|TG 05"
+    "cardNo": "52"
   },
   {
     "id": "6381",
@@ -1432,7 +1432,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_53-2x.jpg",
     "ename": "Raichu",
     "series": "SS11",
-    "cardNo": 53
+    "cardNo": "53"
   },
   {
     "id": "6251",
@@ -1459,7 +1459,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_54-2x.jpg",
     "ename": "Electrike",
     "series": "SS11",
-    "cardNo": 54
+    "cardNo": "54"
   },
   {
     "id": "6252",
@@ -1486,7 +1486,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_55-2x.jpg",
     "ename": "Manectric",
     "series": "SS11",
-    "cardNo": 55
+    "cardNo": "55"
   },
   {
     "id": "6382",
@@ -1520,7 +1520,7 @@
       "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_175-2x.jpg"
     ],
     "series": "SS11",
-    "cardNo": "56|175"
+    "cardNo": "56"
   },
   {
     "id": "6383",
@@ -1554,7 +1554,7 @@
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_198_R_EN.png"
     ],
     "series": "SS11",
-    "cardNo": "57|198"
+    "cardNo": "57"
   },
   {
     "id": "6774",
@@ -1589,7 +1589,7 @@
       "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_177-2x.jpg"
     ],
     "series": "SS11",
-    "cardNo": "58|176|177"
+    "cardNo": "58"
   },
   {
     "id": "6776",
@@ -1616,7 +1616,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_59-2x.jpg",
     "ename": "Tynamo",
     "series": "SS11",
-    "cardNo": 59
+    "cardNo": "59"
   },
   {
     "id": "6777",
@@ -1643,7 +1643,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_60-2x.jpg",
     "ename": "Eelektrik",
     "series": "SS11",
-    "cardNo": 60
+    "cardNo": "60"
   },
   {
     "id": "6778",
@@ -1670,7 +1670,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_61-2x.jpg",
     "ename": "Eelektross",
     "series": "SS11",
-    "cardNo": 61
+    "cardNo": "61"
   },
   {
     "id": "6385",
@@ -1697,7 +1697,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_62-2x.jpg",
     "ename": "Clefairy",
     "series": "SS11",
-    "cardNo": 62
+    "cardNo": "62"
   },
   {
     "id": "6386",
@@ -1724,7 +1724,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_63-2x.jpg",
     "ename": "Clefable",
     "series": "SS11",
-    "cardNo": 63
+    "cardNo": "63"
   },
   {
     "id": "6387",
@@ -1747,7 +1747,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_64-2x.jpg",
     "ename": "Gastly",
     "series": "SS11",
-    "cardNo": 64
+    "cardNo": "64"
   },
   {
     "id": "6388",
@@ -1770,7 +1770,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_65-2x.jpg",
     "ename": "Haunter",
     "series": "SS11",
-    "cardNo": 65
+    "cardNo": "65"
   },
   {
     "id": "6389",
@@ -1800,7 +1800,7 @@
       "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_TG_6-2x.jpg"
     ],
     "series": "SS11",
-    "cardNo": "66|TG 06"
+    "cardNo": "66"
   },
   {
     "id": "6390",
@@ -1827,7 +1827,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_67-2x.jpg",
     "ename": "Mr. Mime",
     "series": "SS11",
-    "cardNo": 67
+    "cardNo": "67"
   },
   {
     "id": "6076",
@@ -1854,7 +1854,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_68-2x.jpg",
     "ename": "Jynx",
     "series": "SS11",
-    "cardNo": 68
+    "cardNo": "68"
   },
   {
     "id": "6393",
@@ -1885,7 +1885,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_69-2x.jpg",
     "ename": "Radiant Gardevoir",
     "series": "SS11",
-    "cardNo": 69
+    "cardNo": "69"
   },
   {
     "id": "6781",
@@ -1912,7 +1912,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_70-2x.jpg",
     "ename": "Sableye",
     "series": "SS11",
-    "cardNo": 70
+    "cardNo": "70"
   },
   {
     "id": "6256",
@@ -1939,7 +1939,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_71-2x.jpg",
     "ename": "Mawile",
     "series": "SS11",
-    "cardNo": 71
+    "cardNo": "71"
   },
   {
     "id": "6782",
@@ -1962,7 +1962,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_72-2x.jpg",
     "ename": "Shuppet",
     "series": "SS11",
-    "cardNo": 72
+    "cardNo": "72"
   },
   {
     "id": "6783",
@@ -1989,7 +1989,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_73-2x.jpg",
     "ename": "Banette",
     "series": "SS11",
-    "cardNo": 73
+    "cardNo": "73"
   },
   {
     "id": "6260",
@@ -2016,7 +2016,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_74-2x.jpg",
     "ename": "Cresselia",
     "series": "SS11",
-    "cardNo": 74
+    "cardNo": "74"
   },
   {
     "id": "6395",
@@ -2043,7 +2043,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_75-2x.jpg",
     "ename": "Hisuian Zorua",
     "series": "SS11",
-    "cardNo": 75
+    "cardNo": "75"
   },
   {
     "id": "6396",
@@ -2070,7 +2070,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_76-2x.jpg",
     "ename": "Hisuian Zoroark",
     "series": "SS11",
-    "cardNo": 76
+    "cardNo": "76"
   },
   {
     "id": "6331",
@@ -2093,7 +2093,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_77-2x.jpg",
     "ename": "Inkay",
     "series": "SS11",
-    "cardNo": 77
+    "cardNo": "77"
   },
   {
     "id": "6332",
@@ -2120,7 +2120,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_78-2x.jpg",
     "ename": "Malamar",
     "series": "SS11",
-    "cardNo": 78
+    "cardNo": "78"
   },
   {
     "id": "6786",
@@ -2150,7 +2150,7 @@
       "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_14-2x.jpg"
     ],
     "series": "SS11",
-    "cardNo": "79|GG 14"
+    "cardNo": "79"
   },
   {
     "id": "6787",
@@ -2177,7 +2177,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_80-2x.jpg",
     "ename": "Mimikyu",
     "series": "SS11",
-    "cardNo": 80
+    "cardNo": "80"
   },
   {
     "id": "6792",
@@ -2204,7 +2204,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_81-2x.jpg",
     "ename": "Spectrier",
     "series": "SS11",
-    "cardNo": 81
+    "cardNo": "81"
   },
   {
     "id": "6397",
@@ -2239,7 +2239,7 @@
       "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_TG_18-2x.jpg"
     ],
     "series": "SS11",
-    "cardNo": "82|178|TG 18"
+    "cardNo": "82"
   },
   {
     "id": "6398",
@@ -2262,7 +2262,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_83-2x.jpg",
     "ename": "Hisuian Growlithe",
     "series": "SS11",
-    "cardNo": 83
+    "cardNo": "83"
   },
   {
     "id": "6399",
@@ -2292,7 +2292,7 @@
       "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_TG_8-2x.jpg"
     ],
     "series": "SS11",
-    "cardNo": "84|TG 08"
+    "cardNo": "84"
   },
   {
     "id": "6263",
@@ -2319,7 +2319,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_85-2x.jpg",
     "ename": "Poliwrath",
     "series": "SS11",
-    "cardNo": 85
+    "cardNo": "85"
   },
   {
     "id": "6400",
@@ -2342,7 +2342,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_86-2x.jpg",
     "ename": "Machop",
     "series": "SS11",
-    "cardNo": 86
+    "cardNo": "86"
   },
   {
     "id": "6401",
@@ -2369,7 +2369,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_87-2x.jpg",
     "ename": "Machoke",
     "series": "SS11",
-    "cardNo": 87
+    "cardNo": "87"
   },
   {
     "id": "6402",
@@ -2396,7 +2396,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_88-2x.jpg",
     "ename": "Machamp",
     "series": "SS11",
-    "cardNo": 88
+    "cardNo": "88"
   },
   {
     "id": "6086",
@@ -2419,7 +2419,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_89-2x.jpg",
     "ename": "Rhyhorn",
     "series": "SS11",
-    "cardNo": 89
+    "cardNo": "89"
   },
   {
     "id": "6087",
@@ -2446,7 +2446,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_90-2x.jpg",
     "ename": "Rhydon",
     "series": "SS11",
-    "cardNo": 90
+    "cardNo": "90"
   },
   {
     "id": "6088",
@@ -2473,7 +2473,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_91-2x.jpg",
     "ename": "Rhyperior",
     "series": "SS11",
-    "cardNo": 91
+    "cardNo": "91"
   },
   {
     "id": "6793",
@@ -2508,7 +2508,7 @@
       "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_180-2x.jpg"
     ],
     "series": "SS11",
-    "cardNo": "92|179|180"
+    "cardNo": "92"
   },
   {
     "id": "6794",
@@ -2542,7 +2542,7 @@
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_199_R_EN.png"
     ],
     "series": "SS11",
-    "cardNo": "93|199"
+    "cardNo": "93"
   },
   {
     "id": "6403",
@@ -2569,7 +2569,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_94-2x.jpg",
     "ename": "Sudowoodo",
     "series": "SS11",
-    "cardNo": 94
+    "cardNo": "94"
   },
   {
     "id": "6404",
@@ -2592,7 +2592,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_95-2x.jpg",
     "ename": "Gligar",
     "series": "SS11",
-    "cardNo": 95
+    "cardNo": "95"
   },
   {
     "id": "6405",
@@ -2615,7 +2615,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_96-2x.jpg",
     "ename": "Gliscor",
     "series": "SS11",
-    "cardNo": 96
+    "cardNo": "96"
   },
   {
     "id": "6333",
@@ -2638,7 +2638,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_97-2x.jpg",
     "ename": "Makuhita",
     "series": "SS11",
-    "cardNo": 97
+    "cardNo": "97"
   },
   {
     "id": "6334",
@@ -2665,7 +2665,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_98-2x.jpg",
     "ename": "Hariyama",
     "series": "SS11",
-    "cardNo": 98
+    "cardNo": "98"
   },
   {
     "id": "6187",
@@ -2688,7 +2688,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_99-2x.jpg",
     "ename": "Meditite",
     "series": "SS11",
-    "cardNo": 99
+    "cardNo": "99"
   },
   {
     "id": "6188",
@@ -2711,7 +2711,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_100-2x.jpg",
     "ename": "Medicham",
     "series": "SS11",
-    "cardNo": 100
+    "cardNo": "100"
   },
   {
     "id": "6089",
@@ -2738,7 +2738,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_101-2x.jpg",
     "ename": "Relicanth",
     "series": "SS11",
-    "cardNo": 101
+    "cardNo": "101"
   },
   {
     "id": "6336",
@@ -2765,7 +2765,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_102-2x.jpg",
     "ename": "Gastrodon",
     "series": "SS11",
-    "cardNo": 102
+    "cardNo": "102"
   },
   {
     "id": "6269",
@@ -2792,7 +2792,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_103-2x.jpg",
     "ename": "Mienfoo",
     "series": "SS11",
-    "cardNo": 103
+    "cardNo": "103"
   },
   {
     "id": "6270",
@@ -2819,7 +2819,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_104-2x.jpg",
     "ename": "Mienshao",
     "series": "SS11",
-    "cardNo": 104
+    "cardNo": "104"
   },
   {
     "id": "6191",
@@ -2846,7 +2846,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_105-2x.jpg",
     "ename": "Landorus",
     "series": "SS11",
-    "cardNo": 105
+    "cardNo": "105"
   },
   {
     "id": "6797",
@@ -2873,7 +2873,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_106-2x.jpg",
     "ename": "Binacle",
     "series": "SS11",
-    "cardNo": 106
+    "cardNo": "106"
   },
   {
     "id": "6798",
@@ -2900,7 +2900,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_107-2x.jpg",
     "ename": "Barbaracle",
     "series": "SS11",
-    "cardNo": 107
+    "cardNo": "107"
   },
   {
     "id": "6337",
@@ -2927,7 +2927,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_108-2x.jpg",
     "ename": "Carbink",
     "series": "SS11",
-    "cardNo": 108
+    "cardNo": "108"
   },
   {
     "id": "6192",
@@ -2954,7 +2954,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_109-2x.jpg",
     "ename": "Rockruff",
     "series": "SS11",
-    "cardNo": 109
+    "cardNo": "109"
   },
   {
     "id": "6193",
@@ -2981,7 +2981,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_110-2x.jpg",
     "ename": "Falinks",
     "series": "SS11",
-    "cardNo": 110
+    "cardNo": "110"
   },
   {
     "id": "6802",
@@ -3008,7 +3008,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_111-2x.jpg",
     "ename": "Stonjourner",
     "series": "SS11",
-    "cardNo": 111
+    "cardNo": "111"
   },
   {
     "id": "6406",
@@ -3042,7 +3042,7 @@
       "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_TG_19-2x.jpg"
     ],
     "series": "SS11",
-    "cardNo": "181|TG 19"
+    "cardNo": "181"
   },
   {
     "id": "6271",
@@ -3065,7 +3065,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_112-2x.jpg",
     "ename": "Spinarak",
     "series": "SS11",
-    "cardNo": 112
+    "cardNo": "112"
   },
   {
     "id": "6272",
@@ -3092,7 +3092,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_113-2x.jpg",
     "ename": "Ariados",
     "series": "SS11",
-    "cardNo": 113
+    "cardNo": "113"
   },
   {
     "id": "6209",
@@ -3119,7 +3119,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_114-2x.jpg",
     "ename": "Murkrow",
     "series": "SS11",
-    "cardNo": 114
+    "cardNo": "114"
   },
   {
     "id": "6210",
@@ -3146,7 +3146,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_115-2x.jpg",
     "ename": "Honchkrow",
     "series": "SS11",
-    "cardNo": 115
+    "cardNo": "115"
   },
   {
     "id": "6213",
@@ -3169,7 +3169,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_116-2x.jpg",
     "ename": "Seviper",
     "series": "SS11",
-    "cardNo": 116
+    "cardNo": "116"
   },
   {
     "id": "6413",
@@ -3199,7 +3199,7 @@
       "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_TG_9-2x.jpg"
     ],
     "series": "SS11",
-    "cardNo": "117|TG 09"
+    "cardNo": "117"
   },
   {
     "id": "6803",
@@ -3234,7 +3234,7 @@
       "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_182-2x.jpg"
     ],
     "series": "SS11",
-    "cardNo": "118|GG 49|182"
+    "cardNo": "118"
   },
   {
     "id": "6804",
@@ -3268,7 +3268,7 @@
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_200_R_EN.png"
     ],
     "series": "SS11",
-    "cardNo": "119|200"
+    "cardNo": "119"
   },
   {
     "id": "6344",
@@ -3295,7 +3295,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_120-2x.jpg",
     "ename": "Darkrai",
     "series": "SS11",
-    "cardNo": 120
+    "cardNo": "120"
   },
   {
     "id": "6216",
@@ -3322,7 +3322,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_121-2x.jpg",
     "ename": "Inkay",
     "series": "SS11",
-    "cardNo": 121
+    "cardNo": "121"
   },
   {
     "id": "6217",
@@ -3349,7 +3349,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_122-2x.jpg",
     "ename": "Hoopa",
     "series": "SS11",
-    "cardNo": 122
+    "cardNo": "122"
   },
   {
     "id": "6412",
@@ -3380,7 +3380,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_123-2x.jpg",
     "ename": "Radiant Hisuian Sneasler",
     "series": "SS11",
-    "cardNo": 123
+    "cardNo": "123"
   },
   {
     "id": "6416",
@@ -3411,7 +3411,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_124-2x.jpg",
     "ename": "Radiant Steelix",
     "series": "SS11",
-    "cardNo": 124
+    "cardNo": "124"
   },
   {
     "id": "6417",
@@ -3434,7 +3434,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_125-2x.jpg",
     "ename": "Bronzor",
     "series": "SS11",
-    "cardNo": 125
+    "cardNo": "125"
   },
   {
     "id": "6418",
@@ -3461,7 +3461,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_126-2x.jpg",
     "ename": "Bronzong",
     "series": "SS11",
-    "cardNo": 126
+    "cardNo": "126"
   },
   {
     "id": "6815",
@@ -3488,7 +3488,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_127-2x.jpg",
     "ename": "Galarian Stunfisk",
     "series": "SS11",
-    "cardNo": 127
+    "cardNo": "127"
   },
   {
     "id": "6349",
@@ -3515,7 +3515,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_128-2x.jpg",
     "ename": "Magearna",
     "series": "SS11",
-    "cardNo": 128
+    "cardNo": "128"
   },
   {
     "id": "6816",
@@ -3550,7 +3550,7 @@
       "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_184-2x.jpg"
     ],
     "series": "SS11",
-    "cardNo": "129|183|184"
+    "cardNo": "129"
   },
   {
     "id": "6817",
@@ -3585,7 +3585,7 @@
       "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_186-2x.jpg"
     ],
     "series": "SS11",
-    "cardNo": "130|185|186"
+    "cardNo": "130"
   },
   {
     "id": "6818",
@@ -3621,7 +3621,7 @@
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_212_R_EN.png"
     ],
     "series": "SS11",
-    "cardNo": "131|GG 69|201|212"
+    "cardNo": "131"
   },
   {
     "id": "6419",
@@ -3648,7 +3648,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_132-2x.jpg",
     "ename": "Goomy",
     "series": "SS11",
-    "cardNo": 132
+    "cardNo": "132"
   },
   {
     "id": "6420",
@@ -3675,7 +3675,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_133-2x.jpg",
     "ename": "Hisuian Sliggoo",
     "series": "SS11",
-    "cardNo": 133
+    "cardNo": "133"
   },
   {
     "id": "6421",
@@ -3705,7 +3705,7 @@
       "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_21-2x.jpg"
     ],
     "series": "SS11",
-    "cardNo": "134|GG 21"
+    "cardNo": "134"
   },
   {
     "id": "6422",
@@ -3739,7 +3739,7 @@
       "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_187-2x.jpg"
     ],
     "series": "SS11",
-    "cardNo": "135|187"
+    "cardNo": "135"
   },
   {
     "id": "6423",
@@ -3773,7 +3773,7 @@
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_202_R_EN.png"
     ],
     "series": "SS11",
-    "cardNo": "136|202"
+    "cardNo": "136"
   },
   {
     "id": "6819",
@@ -3807,7 +3807,7 @@
       "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_188-2x.jpg"
     ],
     "series": "SS11",
-    "cardNo": "137|188"
+    "cardNo": "137"
   },
   {
     "id": "6351",
@@ -3830,7 +3830,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_138-2x.jpg",
     "ename": "Lickitung",
     "series": "SS11",
-    "cardNo": 138
+    "cardNo": "138"
   },
   {
     "id": "6352",
@@ -3857,7 +3857,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_139-2x.jpg",
     "ename": "Lickilicky",
     "series": "SS11",
-    "cardNo": 139
+    "cardNo": "139"
   },
   {
     "id": "6820",
@@ -3884,7 +3884,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_140-2x.jpg",
     "ename": "Porygon",
     "series": "SS11",
-    "cardNo": 140
+    "cardNo": "140"
   },
   {
     "id": "6821",
@@ -3907,7 +3907,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_141-2x.jpg",
     "ename": "Porygon2",
     "series": "SS11",
-    "cardNo": 141
+    "cardNo": "141"
   },
   {
     "id": "6822",
@@ -3934,7 +3934,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_142-2x.jpg",
     "ename": "Porygon-Z",
     "series": "SS11",
-    "cardNo": 142
+    "cardNo": "142"
   },
   {
     "id": "6424",
@@ -3964,7 +3964,7 @@
       "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_TG_10-2x.jpg"
     ],
     "series": "SS11",
-    "cardNo": "143|TG 10"
+    "cardNo": "143"
   },
   {
     "id": "6425",
@@ -3991,7 +3991,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_144-2x.jpg",
     "ename": "Aipom",
     "series": "SS11",
-    "cardNo": 144
+    "cardNo": "144"
   },
   {
     "id": "6426",
@@ -4018,7 +4018,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_145-2x.jpg",
     "ename": "Ambipom",
     "series": "SS11",
-    "cardNo": 145
+    "cardNo": "145"
   },
   {
     "id": "6427",
@@ -4049,7 +4049,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_146-2x.jpg",
     "ename": "Hisuian Zoroark V",
     "series": "SS11",
-    "cardNo": 146
+    "cardNo": "146"
   },
   {
     "id": "6428",
@@ -4085,7 +4085,7 @@
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_213_R_EN.png"
     ],
     "series": "SS11",
-    "cardNo": "147|GG 56|203|213"
+    "cardNo": "147"
   },
   {
     "id": "6826",
@@ -4112,7 +4112,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_148-2x.jpg",
     "ename": "Bouffalant",
     "series": "SS11",
-    "cardNo": 148
+    "cardNo": "148"
   },
   {
     "id": "6358",
@@ -4139,7 +4139,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_149-2x.jpg",
     "ename": "Komala",
     "series": "SS11",
-    "cardNo": 149
+    "cardNo": "149"
   },
   {
     "id": "6289",
@@ -4162,7 +4162,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_150-2x.jpg",
     "ename": "Skwovet",
     "series": "SS11",
-    "cardNo": 150
+    "cardNo": "150"
   },
   {
     "id": "6290",
@@ -4189,7 +4189,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_151-2x.jpg",
     "ename": "Greedent",
     "series": "SS11",
-    "cardNo": 151
+    "cardNo": "151"
   },
   {
     "id": "6437",
@@ -4210,7 +4210,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_160-2x.jpg",
     "ename": "Lake Acuity",
     "series": "SS11",
-    "cardNo": 160
+    "cardNo": "160"
   },
   {
     "id": "6836",
@@ -4231,7 +4231,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_161-2x.jpg",
     "ename": "Lost City",
     "series": "SS11",
-    "cardNo": 161
+    "cardNo": "161"
   },
   {
     "id": "6435",
@@ -4256,7 +4256,7 @@
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_204_R_EN.png"
     ],
     "series": "SS11",
-    "cardNo": "153|189|204"
+    "cardNo": "153"
   },
   {
     "id": "6832",
@@ -4282,7 +4282,7 @@
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_205_R_EN.png"
     ],
     "series": "SS11",
-    "cardNo": "155|GG 59|190|205"
+    "cardNo": "155"
   },
   {
     "id": "6835",
@@ -4311,7 +4311,7 @@
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_206_R_EN.png"
     ],
     "series": "SS11",
-    "cardNo": "157|191|206"
+    "cardNo": "157"
   },
   {
     "id": "6434",
@@ -4336,7 +4336,7 @@
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_207_R_EN.png"
     ],
     "series": "SS11",
-    "cardNo": "158|192|207"
+    "cardNo": "158"
   },
   {
     "id": "6833",
@@ -4361,7 +4361,7 @@
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_208_R_EN.png"
     ],
     "series": "SS11",
-    "cardNo": "159|193|208"
+    "cardNo": "159"
   },
   {
     "id": "6436",
@@ -4386,7 +4386,7 @@
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_209_R_EN.png"
     ],
     "series": "SS11",
-    "cardNo": "164|194|209"
+    "cardNo": "164"
   },
   {
     "id": "5629",
@@ -4407,7 +4407,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_166-2x.jpg",
     "ename": "Riley",
     "series": "SS11",
-    "cardNo": 166
+    "cardNo": "166"
   },
   {
     "id": "6834",
@@ -4432,7 +4432,7 @@
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_210_R_EN.png"
     ],
     "series": "SS11",
-    "cardNo": "167|195|210"
+    "cardNo": "167"
   },
   {
     "id": "6433",
@@ -4458,7 +4458,7 @@
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_211_R_EN.png"
     ],
     "series": "SS11",
-    "cardNo": "169|151|196|211"
+    "cardNo": "169"
   },
   {
     "id": "6432",
@@ -4486,7 +4486,7 @@
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_214_R_EN.png"
     ],
     "series": "SS11",
-    "cardNo": "154|214"
+    "cardNo": "154"
   },
   {
     "id": "6831",
@@ -4511,7 +4511,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_165-2x.jpg",
     "ename": "Panic Mask",
     "series": "SS11",
-    "cardNo": 165
+    "cardNo": "165"
   },
   {
     "id": "6431",
@@ -4536,7 +4536,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_170-2x.jpg",
     "ename": "Windup Arm",
     "series": "SS11",
-    "cardNo": 170
+    "cardNo": "170"
   },
   {
     "id": "6429",
@@ -4557,7 +4557,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_152-2x.jpg",
     "ename": "Arc Phone",
     "series": "SS11",
-    "cardNo": 152
+    "cardNo": "152"
   },
   {
     "id": "6430",
@@ -4578,7 +4578,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_156-2x.jpg",
     "ename": "Damage Pump",
     "series": "SS11",
-    "cardNo": 156
+    "cardNo": "156"
   },
   {
     "id": "6830",
@@ -4606,7 +4606,7 @@
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_217_R_EN.png"
     ],
     "series": "SS11",
-    "cardNo": "162|217"
+    "cardNo": "162"
   },
   {
     "id": "6829",
@@ -4631,7 +4631,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_163-2x.jpg",
     "ename": "Mirage Gate",
     "series": "SS11",
-    "cardNo": 163
+    "cardNo": "163"
   },
   {
     "id": "6828",
@@ -4652,7 +4652,7 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_168-2x.jpg",
     "ename": "Tool Box",
     "series": "SS11",
-    "cardNo": 168
+    "cardNo": "168"
   },
   {
     "id": "6837",
@@ -4673,6 +4673,1347 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_171-2x.jpg",
     "ename": "Gift Energy",
     "series": "SS11",
-    "cardNo": 171
+    "cardNo": "171"
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_173-2x.jpg",
+    "typeEnergy": "Fire",
+    "type": "Pokemon",
+    "cardName": "妖火红狐V",
+    "skillList": [
+      {
+        "name": "奇异灯火",
+        "effect": "将对手的战斗宝可梦【灼伤】与【混乱】。"
+      },
+      {
+        "name": "魔法之火",
+        "effect": "将这只宝可梦身上附加的2个能量放置于放逐区，对手的1只备战宝可梦也受到120点伤害。[在备战区不计算弱点・抵抗力。]"
+      },
+      {
+        "name": "[V规则]",
+        "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_173-2x.jpg",
+    "ename": "Delphox V",
+    "series": "SS11",
+    "cardNo": "173",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_174-2x.jpg",
+    "typeEnergy": "Water",
+    "type": "Pokemon",
+    "cardName": "酋雷姆V",
+    "skillList": [
+      {
+        "name": "急遽冰冻",
+        "effect": "从自己的手牌选择任意数量的【水】能量卡，以任意方式附于自己的宝可梦身上。"
+      },
+      {
+        "name": "冰霜粉碎",
+        "effect": ""
+      },
+      {
+        "name": "[V规则]",
+        "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_174-2x.jpg",
+    "ename": "Kyurem V",
+    "series": "SS11",
+    "cardNo": "174",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_175-2x.jpg",
+    "typeEnergy": "Lightning",
+    "type": "Pokemon",
+    "cardName": "自爆磁怪V",
+    "skillList": [
+      {
+        "name": "拉锯磁力",
+        "effect": "选择对手的1只备战宝可梦，与战斗宝可梦互换。然后，新上场的宝可梦受到40点伤害。"
+      },
+      {
+        "name": "分岔光束",
+        "effect": "对手的2只备战宝可梦也各受到30点伤害。[在备战区不计算弱点・抵抗力。]"
+      },
+      {
+        "name": "[V规则]",
+        "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_175-2x.jpg",
+    "ename": "Magnezone V",
+    "series": "SS11",
+    "cardNo": "175",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_176-2x.jpg",
+    "typeEnergy": "Lightning",
+    "type": "Pokemon",
+    "cardName": "洛托姆V",
+    "skillList": [
+      {
+        "name": "[特性]即刻充电",
+        "effect": "在自己的回合时可使用1次，若使用，则自己的回合结束。从自己的牌库抽出3张卡。"
+      },
+      {
+        "name": "废铁短路",
+        "effect": "将自己的弃牌区的任意数量的「宝可梦道具」放置于放逐区，增加其张数×40点伤害。"
+      },
+      {
+        "name": "[V规则]",
+        "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_176-2x.jpg",
+    "ename": "Rotom V",
+    "series": "SS11",
+    "cardNo": "176",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_177-2x.jpg",
+    "typeEnergy": "Lightning",
+    "type": "Pokemon",
+    "cardName": "洛托姆V",
+    "skillList": [
+      {
+        "name": "[特性]即刻充电",
+        "effect": "在自己的回合时可使用1次，若使用，则自己的回合结束。从自己的牌库抽出3张卡。"
+      },
+      {
+        "name": "废铁短路",
+        "effect": "将自己的弃牌区的任意数量的「宝可梦道具」放置于放逐区，增加其张数×40点伤害。"
+      },
+      {
+        "name": "[V规则]",
+        "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_177-2x.jpg",
+    "ename": "Rotom V",
+    "series": "SS11",
+    "cardNo": "177",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_178-2x.jpg",
+    "typeEnergy": "Psychic",
+    "type": "Pokemon",
+    "cardName": "眷恋云V",
+    "skillList": [
+      {
+        "name": "[特性]爱之守护神",
+        "effect": "只要这只宝可梦在场上，自己的所有身上附有【超】能量的宝可梦（「眷恋云V」 除外），不会受到对手的宝可梦的特性效果影响。"
+      },
+      {
+        "name": "花开之尾",
+        "effect": "从自己的弃牌区选择最多2张基本能量卡，以任意方式附于备战宝可梦身上。"
+      },
+      {
+        "name": "[V规则]",
+        "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_178-2x.jpg",
+    "ename": "Enamorus V",
+    "series": "SS11",
+    "cardNo": "178",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_179-2x.jpg",
+    "typeEnergy": "Fighting",
+    "type": "Pokemon",
+    "cardName": "化石翼龙V",
+    "skillList": [
+      {
+        "name": "咬住",
+        "effect": ""
+      },
+      {
+        "name": "岩石细碎",
+        "effect": "选择1个对手的战斗宝可梦身上附加的能量，将其丢弃。"
+      },
+      {
+        "name": "[V规则]",
+        "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_179-2x.jpg",
+    "ename": "Aerodactyl V",
+    "series": "SS11",
+    "cardNo": "179",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_180-2x.jpg",
+    "typeEnergy": "Fighting",
+    "type": "Pokemon",
+    "cardName": "化石翼龙V",
+    "skillList": [
+      {
+        "name": "咬住",
+        "effect": ""
+      },
+      {
+        "name": "岩石细碎",
+        "effect": "选择1个对手的战斗宝可梦身上附加的能量，将其丢弃。"
+      },
+      {
+        "name": "[V规则]",
+        "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_180-2x.jpg",
+    "ename": "Aerodactyl V",
+    "series": "SS11",
+    "cardNo": "180",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_182-2x.jpg",
+    "typeEnergy": "Darkness",
+    "type": "Pokemon",
+    "cardName": "龙王蝎V",
+    "skillList": [
+      {
+        "name": "[特性]狂野风格",
+        "effect": "这只宝可梦使用招式所需的【无】能量，减少对手的场上「一击」「连击」「汇流」宝可梦的数量。"
+      },
+      {
+        "name": "极限之尾",
+        "effect": "自己的1只宝可梦也受到60点伤害。[在备战区不计算弱点・抵抗力。]"
+      },
+      {
+        "name": "[V规则]",
+        "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_182-2x.jpg",
+    "ename": "Drapion V",
+    "series": "SS11",
+    "cardNo": "182",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_183-2x.jpg",
+    "typeEnergy": "Metal",
+    "type": "Pokemon",
+    "cardName": "伽勒尔 喵头目V",
+    "skillList": [
+      {
+        "name": "好心情",
+        "effect": "从自己的牌库抽出3张卡。"
+      },
+      {
+        "name": "宝物猛攻",
+        "effect": "造成自己的手牌的张数×20点伤害。"
+      },
+      {
+        "name": "[V规则]",
+        "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_183-2x.jpg",
+    "ename": "Galarian Perrserker V",
+    "series": "SS11",
+    "cardNo": "183",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_184-2x.jpg",
+    "typeEnergy": "Metal",
+    "type": "Pokemon",
+    "cardName": "伽勒尔 喵头目V",
+    "skillList": [
+      {
+        "name": "好心情",
+        "effect": "从自己的牌库抽出3张卡。"
+      },
+      {
+        "name": "宝物猛攻",
+        "effect": "造成自己的手牌的张数×20点伤害。"
+      },
+      {
+        "name": "[V规则]",
+        "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_184-2x.jpg",
+    "ename": "Galarian Perrserker V",
+    "series": "SS11",
+    "cardNo": "184",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_185-2x.jpg",
+    "typeEnergy": "Dragon",
+    "type": "Pokemon",
+    "cardName": "骑拉帝纳V",
+    "skillList": [
+      {
+        "name": "深渊探求",
+        "effect": "查看自己的牌库上方4张卡，从其中选择2张卡加入手牌。将剩余卡放置于放逐区。"
+      },
+      {
+        "name": "撕裂",
+        "effect": "这个招式的伤害不计算对手的战斗宝可梦身上的附加效果。"
+      },
+      {
+        "name": "[V规则]",
+        "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_185-2x.jpg",
+    "ename": "Giratina V",
+    "series": "SS11",
+    "cardNo": "185",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_186-2x.jpg",
+    "typeEnergy": "Dragon",
+    "type": "Pokemon",
+    "cardName": "骑拉帝纳V",
+    "skillList": [
+      {
+        "name": "深渊探求",
+        "effect": "查看自己的牌库上方4张卡，从其中选择2张卡加入手牌。将剩余卡放置于放逐区。"
+      },
+      {
+        "name": "撕裂",
+        "effect": "这个招式的伤害不计算对手的战斗宝可梦身上的附加效果。"
+      },
+      {
+        "name": "[V规则]",
+        "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_186-2x.jpg",
+    "ename": "Giratina V",
+    "series": "SS11",
+    "cardNo": "186",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_187-2x.jpg",
+    "typeEnergy": "Dragon",
+    "type": "Pokemon",
+    "cardName": "洗翠 黏美龙V",
+    "skillList": [
+      {
+        "name": "滑溜打滚",
+        "effect": "将对手的战斗宝可梦与备战宝可梦互换。[由对手选择放置于战斗场的宝可梦。]"
+      },
+      {
+        "name": "硬壳回转",
+        "effect": "在下个对手的回合，这只宝可梦受到招式的伤害「-30」点。"
+      },
+      {
+        "name": "[V规则]",
+        "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_187-2x.jpg",
+    "ename": "Hisuian Goodra V",
+    "series": "SS11",
+    "cardNo": "187",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_188-2x.jpg",
+    "typeEnergy": "Colorless",
+    "type": "Pokemon",
+    "cardName": "大比鸟V",
+    "skillList": [
+      {
+        "name": "[特性]消逝之翼",
+        "effect": "若这只宝可梦在备战区，则在自己的回合时可使用1次。将这只宝可梦与附加的卡，全部放回自己的牌库并重洗。"
+      },
+      {
+        "name": "飞行冲浪",
+        "effect": "若场上有自己的竞技场卡，则增加80点伤害。"
+      },
+      {
+        "name": "[V规则]",
+        "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_188-2x.jpg",
+    "ename": "Pidgeot V",
+    "series": "SS11",
+    "cardNo": "188",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_189-2x.jpg",
+    "type": "Trainers",
+    "cardName": "火夏",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "从自己的牌库选择最多3张进化宝可梦卡（「拥有规则的宝可梦」除外），在给对手看过后加入手牌。并且重洗牌库。"
+      },
+      {
+        "name": "[支援者规则]",
+        "effect": "在自己的回合时，支援者卡只可使用1张。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_189-2x.jpg",
+    "ename": "Arezu",
+    "series": "SS11",
+    "cardNo": "189",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_190-2x.jpg",
+    "type": "Trainers",
+    "cardName": "阿克罗玛的实验",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "查看自己的牌库上方5张卡，选择其中3张卡加入手牌。将剩余卡放置于放逐区。"
+      },
+      {
+        "name": "[支援者规则]",
+        "effect": "在自己的回合时，支援者卡只可使用1张。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_190-2x.jpg",
+    "ename": "Colress's Experiment",
+    "series": "SS11",
+    "cardNo": "190",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_191-2x.jpg",
+    "type": "Trainers",
+    "cardName": "梅丽莎",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "这张卡只有在自己的放逐区有10张以上的卡时才可使用。"
+      },
+      {
+        "name": "",
+        "effect": "在下个对手的回合，自己的所有宝可梦受到对手的「宝可梦【V】」招式的伤害「-120」点。（包含新上场的宝可梦。）"
+      },
+      {
+        "name": "[支援者规则]",
+        "effect": "在自己的回合时，支援者卡只可使用1张。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_191-2x.jpg",
+    "ename": "Fantina",
+    "series": "SS11",
+    "cardNo": "191",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_192-2x.jpg",
+    "type": "Trainers",
+    "cardName": "阿芒",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "从自己的牌库抽出2张卡。若自己的战斗宝可梦为名称中有「洗翠」的宝可梦，则再抽出2张卡。"
+      },
+      {
+        "name": "[支援者规则]",
+        "effect": "在自己的回合时，支援者卡只可使用1张。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_192-2x.jpg",
+    "ename": "Iscan",
+    "series": "SS11",
+    "cardNo": "192",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_193-2x.jpg",
+    "type": "Trainers",
+    "cardName": "千金小姐",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "从自己的牌库选择最多4张基本能量卡，在给对手看过后加入手牌。并且重洗牌库。"
+      },
+      {
+        "name": "[支援者规则]",
+        "effect": "在自己的回合时，支援者卡只可使用1张。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_193-2x.jpg",
+    "ename": "Lady",
+    "series": "SS11",
+    "cardNo": "193",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_194-2x.jpg",
+    "type": "Trainers",
+    "cardName": "野贼三姐妹",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "查看对手的牌库上方5张卡，从其中选择任意数量的物品卡，将其丢弃。将剩余卡放回牌库并重洗。"
+      },
+      {
+        "name": "[支援者规则]",
+        "effect": "在自己的回合时，支援者卡只可使用1张。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_194-2x.jpg",
+    "ename": "Miss Fortune Sisters",
+    "series": "SS11",
+    "cardNo": "194",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_195-2x.jpg",
+    "type": "Trainers",
+    "cardName": "捩木",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "从自己的弃牌区选择1张【基础】宝可梦卡，与自己的场上的1只【基础】宝可梦互换（所附加的卡・伤害指示物・特殊状态・效果等全部保留）。将换下的宝可梦丢弃。"
+      },
+      {
+        "name": "[支援者规则]",
+        "effect": "在自己的回合时，支援者卡只可使用1张。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_195-2x.jpg",
+    "ename": "Thorton",
+    "series": "SS11",
+    "cardNo": "195",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_196-2x.jpg",
+    "type": "Trainers",
+    "cardName": "望罗",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "选择1只自己的备战区的「宝可梦【V】」，将那只宝可梦与附加的卡全部丢弃。"
+      },
+      {
+        "name": "[支援者规则]",
+        "effect": "在自己的回合时，支援者卡只可使用1张。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_196-2x.jpg",
+    "ename": "Volo",
+    "series": "SS11",
+    "cardNo": "196",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_197-2x.jpg",
+    "typeEnergy": "Water",
+    "type": "Pokemon",
+    "cardName": "酋雷姆VMAX",
+    "skillList": [
+      {
+        "name": "[特性]白银世界",
+        "effect": "在自己的回合时，可使用1次。将自己的牌库上方1张卡丢弃，若那张卡为【水】能量卡，则附于自己的宝可梦身上。"
+      },
+      {
+        "name": "极巨冰霜",
+        "effect": "将这只宝可梦身上附加的任意数量的【水】能量卡丢弃，增加其张数×50点伤害。"
+      },
+      {
+        "name": "[VMAX规则]",
+        "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_197-2x.jpg",
+    "ename": "Kyurem VMAX",
+    "series": "SS11",
+    "cardNo": "197",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_198-2x.jpg",
+    "typeEnergy": "Lightning",
+    "type": "Pokemon",
+    "cardName": "自爆磁怪VSTAR",
+    "skillList": [
+      {
+        "name": "磁力紧握",
+        "effect": "从自己的牌库选择最多2张物品卡，在给对手看过后加入手牌。并且重洗牌库。"
+      },
+      {
+        "name": "[VSTAR力量]电子星星",
+        "effect": "对手的2只备战宝可梦各受到90点伤害。[在备战区不计算弱点・抵抗力。][对战中，己方只可使用1次【VSTAR】力量。]"
+      },
+      {
+        "name": "[VSTAR规则]",
+        "effect": "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_198-2x.jpg",
+    "ename": "Magnezone VSTAR",
+    "series": "SS11",
+    "cardNo": "198",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_199-2x.jpg",
+    "typeEnergy": "Fighting",
+    "type": "Pokemon",
+    "cardName": "化石翼龙VSTAR",
+    "skillList": [
+      {
+        "name": "放逐奇袭",
+        "effect": "将自己的牌库上方3张卡放置于放逐区。"
+      },
+      {
+        "name": "[VSTAR力量]古时星星",
+        "effect": "这只宝可梦离场前，拥有「对手的场上的『宝可梦【V】』（『化石翼龙【VSTAR】』 除外）的特性全部消除。」效果的特性。[对战中，己方只可使用1次【VSTAR】力量。]"
+      },
+      {
+        "name": "[VSTAR规则]",
+        "effect": "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_199-2x.jpg",
+    "ename": "Aerodactyl VSTAR",
+    "series": "SS11",
+    "cardNo": "199",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_200-2x.jpg",
+    "typeEnergy": "Darkness",
+    "type": "Pokemon",
+    "cardName": "龙王蝎VSTAR",
+    "skillList": [
+      {
+        "name": "大爆炸之臂",
+        "effect": "减少这只宝可梦身上放置的伤害指示物的数量×10点伤害。"
+      },
+      {
+        "name": "[VSTAR力量][特性]危害星星",
+        "effect": "在自己的回合时可使用。将对手的战斗宝可梦【中毒】与【麻痺】。因这个【中毒】而放置的伤害指示物的数量改为3个。[对战中，己方只可使用1次【VSTAR】力量。]"
+      },
+      {
+        "name": "[VSTAR规则]",
+        "effect": "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_200-2x.jpg",
+    "ename": "Drapion VSTAR",
+    "series": "SS11",
+    "cardNo": "200",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_201-2x.jpg",
+    "typeEnergy": "Dragon",
+    "type": "Pokemon",
+    "cardName": "骑拉帝纳VSTAR",
+    "skillList": [
+      {
+        "name": "放逐冲击",
+        "effect": "选择2个自己的场上宝可梦身上附加的能量，放置于放逐区。"
+      },
+      {
+        "name": "[VSTAR力量]星星安魂曲",
+        "effect": "这个招式只有在自己的放逐区有10张以上的卡时才可使用。将对手的战斗宝可梦【气绝】。[对战中，己方只可使用1次【VSTAR】力量。]"
+      },
+      {
+        "name": "[VSTAR规则]",
+        "effect": "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_201-2x.jpg",
+    "ename": "Giratina VSTAR",
+    "series": "SS11",
+    "cardNo": "201",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_202-2x.jpg",
+    "typeEnergy": "Dragon",
+    "type": "Pokemon",
+    "cardName": "洗翠 黏美龙VSTAR",
+    "skillList": [
+      {
+        "name": "铁之回转",
+        "effect": "在下个对手的回合，这只宝可梦受到招式的伤害「-80」点。"
+      },
+      {
+        "name": "[VSTAR力量][特性]润湿星星",
+        "effect": "在自己的回合时可使用。将这只宝可梦的HP全部恢复。[对战中，己方只可使用1次【VSTAR】力量。]"
+      },
+      {
+        "name": "[VSTAR规则]",
+        "effect": "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_202-2x.jpg",
+    "ename": "Hisuian Goodra VSTAR",
+    "series": "SS11",
+    "cardNo": "202",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_203-2x.jpg",
+    "typeEnergy": "Colorless",
+    "type": "Pokemon",
+    "cardName": " 洗翠 索罗亚克VSTAR",
+    "skillList": [
+      {
+        "name": "牢记诅咒",
+        "effect": "造成自己的场上身上放置有伤害指示物的宝可梦的数量×50点伤害。"
+      },
+      {
+        "name": "[VSTAR力量][特性]幻影星星",
+        "effect": "在自己的回合时可使用。将自己的手牌全部丢弃，从牌库抽出7张卡。[对战中，己方只可使用1次【VSTAR】力量。]"
+      },
+      {
+        "name": "[VSTAR规则]",
+        "effect": "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_203-2x.jpg",
+    "ename": "Hisuian Zoroark VSTAR",
+    "series": "SS11",
+    "cardNo": "203",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_204-2x.jpg",
+    "type": "Trainers",
+    "cardName": "火夏",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "从自己的牌库选择最多3张进化宝可梦卡（「拥有规则的宝可梦」除外），在给对手看过后加入手牌。并且重洗牌库。"
+      },
+      {
+        "name": "[支援者规则]",
+        "effect": "在自己的回合时，支援者卡只可使用1张。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_204-2x.jpg",
+    "ename": "Arezu",
+    "series": "SS11",
+    "cardNo": "204",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_205-2x.jpg",
+    "type": "Trainers",
+    "cardName": "阿克罗玛的实验",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "查看自己的牌库上方5张卡，选择其中3张卡加入手牌。将剩余卡放置于放逐区。"
+      },
+      {
+        "name": "[支援者规则]",
+        "effect": "在自己的回合时，支援者卡只可使用1张。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_205-2x.jpg",
+    "ename": "Colress's Experiment",
+    "series": "SS11",
+    "cardNo": "205",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_206-2x.jpg",
+    "type": "Trainers",
+    "cardName": "梅丽莎",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "这张卡只有在自己的放逐区有10张以上的卡时才可使用。"
+      },
+      {
+        "name": "",
+        "effect": "在下个对手的回合，自己的所有宝可梦受到对手的「宝可梦【V】」招式的伤害「-120」点。（包含新上场的宝可梦。）"
+      },
+      {
+        "name": "[支援者规则]",
+        "effect": "在自己的回合时，支援者卡只可使用1张。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_206-2x.jpg",
+    "ename": "Fantina",
+    "series": "SS11",
+    "cardNo": "206",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_207-2x.jpg",
+    "type": "Trainers",
+    "cardName": "阿芒",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "从自己的牌库抽出2张卡。若自己的战斗宝可梦为名称中有「洗翠」的宝可梦，则再抽出2张卡。"
+      },
+      {
+        "name": "[支援者规则]",
+        "effect": "在自己的回合时，支援者卡只可使用1张。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_207-2x.jpg",
+    "ename": "Iscan",
+    "series": "SS11",
+    "cardNo": "207",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_208-2x.jpg",
+    "type": "Trainers",
+    "cardName": "千金小姐",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "从自己的牌库选择最多4张基本能量卡，在给对手看过后加入手牌。并且重洗牌库。"
+      },
+      {
+        "name": "[支援者规则]",
+        "effect": "在自己的回合时，支援者卡只可使用1张。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_208-2x.jpg",
+    "ename": "Lady",
+    "series": "SS11",
+    "cardNo": "208",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_209-2x.jpg",
+    "type": "Trainers",
+    "cardName": "野贼三姐妹",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "查看对手的牌库上方5张卡，从其中选择任意数量的物品卡，将其丢弃。将剩余卡放回牌库并重洗。"
+      },
+      {
+        "name": "[支援者规则]",
+        "effect": "在自己的回合时，支援者卡只可使用1张。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_209-2x.jpg",
+    "ename": "Miss Fortune Sisters",
+    "series": "SS11",
+    "cardNo": "209",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_210-2x.jpg",
+    "type": "Trainers",
+    "cardName": "捩木",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "从自己的弃牌区选择1张【基础】宝可梦卡，与自己的场上的1只【基础】宝可梦互换（所附加的卡・伤害指示物・特殊状态・效果等全部保留）。将换下的宝可梦丢弃。"
+      },
+      {
+        "name": "[支援者规则]",
+        "effect": "在自己的回合时，支援者卡只可使用1张。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_210-2x.jpg",
+    "ename": "Thorton",
+    "series": "SS11",
+    "cardNo": "210",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_211-2x.jpg",
+    "type": "Trainers",
+    "cardName": "望罗",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "选择1只自己的备战区的「宝可梦【V】」，将那只宝可梦与附加的卡全部丢弃。"
+      },
+      {
+        "name": "[支援者规则]",
+        "effect": "在自己的回合时，支援者卡只可使用1张。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_211-2x.jpg",
+    "ename": "Volo",
+    "series": "SS11",
+    "cardNo": "211",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_212-2x.jpg",
+    "typeEnergy": "Dragon",
+    "type": "Pokemon",
+    "cardName": "骑拉帝纳VSTAR",
+    "skillList": [
+      {
+        "name": "放逐冲击",
+        "effect": "选择2个自己的场上宝可梦身上附加的能量，放置于放逐区。"
+      },
+      {
+        "name": "[VSTAR力量]星星安魂曲",
+        "effect": "这个招式只有在自己的放逐区有10张以上的卡时才可使用。将对手的战斗宝可梦【气绝】。[对战中，己方只可使用1次【VSTAR】力量。]"
+      },
+      {
+        "name": "[VSTAR规则]",
+        "effect": "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_212-2x.jpg",
+    "ename": "Giratina VSTAR",
+    "series": "SS11",
+    "cardNo": "212",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_213-2x.jpg",
+    "typeEnergy": "Colorless",
+    "type": "Pokemon",
+    "cardName": " 洗翠 索罗亚克VSTAR",
+    "skillList": [
+      {
+        "name": "牢记诅咒",
+        "effect": "造成自己的场上身上放置有伤害指示物的宝可梦的数量×50点伤害。"
+      },
+      {
+        "name": "[VSTAR力量][特性]幻影星星",
+        "effect": "在自己的回合时可使用。将自己的手牌全部丢弃，从牌库抽出7张卡。[对战中，己方只可使用1次【VSTAR】力量。]"
+      },
+      {
+        "name": "[VSTAR规则]",
+        "effect": "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_213-2x.jpg",
+    "ename": "Hisuian Zoroark VSTAR",
+    "series": "SS11",
+    "cardNo": "213",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_214-2x.jpg",
+    "type": "Trainers",
+    "cardName": "灾祸箱",
+    "skillList": [
+      {
+        "name": "[宝可梦道具规则]",
+        "effect": "宝可梦道具卡，附于自己的宝可梦使用。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
+      },
+      {
+        "name": "",
+        "effect": "附有这张卡的「宝可梦【V】」的HP是全满的状态下，受到对手的宝可梦招式的伤害而【气绝】时，在使用招式的宝可梦身上放置8个伤害指示物。"
+      },
+      {
+        "name": "[物品规则]",
+        "effect": "在自己的回合时，物品卡可不限张数使用。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_214-2x.jpg",
+    "ename": "Box of Disaster",
+    "series": "SS11",
+    "cardNo": "214",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_215-2x.jpg",
+    "type": "Trainers",
+    "cardName": "崩塌的竞技场",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "双方玩家的可放置于备战区的宝可梦数量改为4只。[变更备战宝可梦数量的效果，以变少者为优先。]"
+      },
+      {
+        "name": "",
+        "effect": "（将这张卡放置于场上时，备战宝可梦有5只以上的玩家，将其丢弃直到变为4只为止。这张卡的持有人先丢弃。）"
+      },
+      {
+        "name": "[竞技场规则]",
+        "effect": "在自己的回合时，只可将1张竞技场卡放置于战斗场旁边。若其他名称的竞技场卡被放置，则将这张卡丢弃。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_215-2x.jpg",
+    "ename": "Collapsed Stadium",
+    "series": "SS11",
+    "cardNo": "215"
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_216-2x.jpg",
+    "type": "Trainers",
+    "cardName": "暗黑修正档",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "从自己的弃牌区选择1张「基本【恶】能量」卡，附于备战区的【恶】宝可梦身上。"
+      },
+      {
+        "name": "[物品规则]",
+        "effect": "在自己的回合时，物品卡可不限张数使用。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_216-2x.jpg",
+    "ename": "Dark Patch",
+    "series": "SS11",
+    "cardNo": "216"
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_217-2x.jpg",
+    "type": "Trainers",
+    "cardName": "放逐吸尘器",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "这张卡必须将自己的1张手牌放置于放逐区才可使用。"
+      },
+      {
+        "name": "",
+        "effect": "从双方的场上宝可梦身上附加的「宝可梦道具」卡与场上的「竞技场」卡中选择1张，放置于放逐区。"
+      },
+      {
+        "name": "[物品规则]",
+        "effect": "在自己的回合时，物品卡可不限张数使用。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_217-2x.jpg",
+    "ename": "Lost Vacuum",
+    "series": "SS11",
+    "cardNo": "217",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_TG_1-2x.jpg",
+    "typeEnergy": "Grass",
+    "type": "Pokemon",
+    "cardName": "派拉斯特",
+    "skillList": [
+      {
+        "name": "[特性]力竭孢子",
+        "effect": "在自己的回合，当从手牌使出这张卡并完成进化时，可使用1次。将双方的战斗宝可梦【中毒】与【睡眠】。"
+      },
+      {
+        "name": "十字剪",
+        "effect": "掷1次硬币若为正面，则增加50点伤害。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_TG_1-2x.jpg",
+    "ename": "Parasect",
+    "series": "SS11",
+    "cardNo": "TG 1",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_TG_2-2x.jpg",
+    "typeEnergy": "Grass",
+    "type": "Pokemon",
+    "cardName": "罗丝雷朵",
+    "skillList": [
+      {
+        "name": "毒之鞭",
+        "effect": "将对手的战斗宝可梦【中毒】。"
+      },
+      {
+        "name": "刺杀蔷薇",
+        "effect": "若对手的战斗宝可梦处于特殊状态，则对手的1只备战宝可梦也受到60点伤害。[在备战区不计算弱点・抵抗力。]"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_TG_2-2x.jpg",
+    "ename": "Roserade",
+    "series": "SS11",
+    "cardNo": "TG 2",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_TG_4-2x.jpg",
+    "typeEnergy": "Fire",
+    "type": "Pokemon",
+    "cardName": "水晶灯火灵",
+    "skillList": [
+      {
+        "name": "[特性]炙山",
+        "effect": "在自己的回合，当从手牌使出这张卡并完成进化时，可使用1次。将对手的牌库上方3张卡丢弃。"
+      },
+      {
+        "name": "高温爆破",
+        "effect": ""
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_TG_4-2x.jpg",
+    "ename": "Chandelure",
+    "series": "SS11",
+    "cardNo": "TG 4",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_TG_5-2x.jpg",
+    "typeEnergy": "Lightning",
+    "type": "Pokemon",
+    "cardName": "皮卡丘",
+    "skillList": [
+      {
+        "name": "[特性]皮卡冲刺",
+        "effect": "若这只宝可梦身上附有能量，则这只宝可梦【撤退】所需的能量全部消除。"
+      },
+      {
+        "name": "胡思乱撞",
+        "effect": "掷1次硬币若为反面，则这个招式失败。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_TG_5-2x.jpg",
+    "ename": "Pikachu",
+    "series": "SS11",
+    "cardNo": "TG 5",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_TG_6-2x.jpg",
+    "typeEnergy": "Psychic",
+    "type": "Pokemon",
+    "cardName": "耿鬼",
+    "skillList": [
+      {
+        "name": "[特性]奈落后门",
+        "effect": "若这张卡在弃牌区，则在自己的回合时可使用1次。将这张卡放置于备战区。然后，在这只宝可梦身上放置3个伤害指示物。"
+      },
+      {
+        "name": "尖啸阵",
+        "effect": "将与对手的备战宝可梦的数量×2个的相同数量的伤害指示物，放置于对手的战斗宝可梦身上。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_TG_6-2x.jpg",
+    "ename": "Gengar",
+    "series": "SS11",
+    "cardNo": "TG 6",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_TG_7-2x.jpg",
+    "typeEnergy": "Psychic",
+    "type": "Pokemon",
+    "cardName": "诅咒娃娃",
+    "skillList": [
+      {
+        "name": "觉悟怨恨",
+        "effect": "在这只宝可梦身上放置最多7个伤害指示物，造成放置的数量×20点伤害。"
+      },
+      {
+        "name": "不祥之光",
+        "effect": "将对手的战斗宝可梦【混乱】。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_TG_7-2x.jpg",
+    "ename": "Banette",
+    "series": "SS11",
+    "cardNo": "TG 7",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_TG_8-2x.jpg",
+    "typeEnergy": "Fighting",
+    "type": "Pokemon",
+    "cardName": "洗翠 风速狗",
+    "skillList": [
+      {
+        "name": "城破突围",
+        "effect": "若自己1张手牌都没有，则增加150点伤害。"
+      },
+      {
+        "name": "锐利之牙",
+        "effect": ""
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_TG_8-2x.jpg",
+    "ename": "Hisuian Arcanine",
+    "series": "SS11",
+    "cardNo": "TG 8",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_TG_9-2x.jpg",
+    "typeEnergy": "Darkness",
+    "type": "Pokemon",
+    "cardName": "花岩怪",
+    "skillList": [
+      {
+        "name": "[特性]诅咒遗言",
+        "effect": "当这只宝可梦受到对手的宝可梦招式的伤害而【气绝】时，从自己的牌库任意选择1张卡加入手牌。并且重洗牌库。"
+      },
+      {
+        "name": "孤魂连锁",
+        "effect": "增加自己的弃牌区的「花岩怪」的张数×60点伤害。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_TG_9-2x.jpg",
+    "ename": "Spiritomb",
+    "series": "SS11",
+    "cardNo": "TG 9",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_TG_10-2x.jpg",
+    "typeEnergy": "Colorless",
+    "type": "Pokemon",
+    "cardName": "卡比兽",
+    "skillList": [
+      {
+        "name": "[特性]无畏脂肪",
+        "effect": "这只宝可梦不会受到对手的宝可梦使用招式的效果的影响。"
+      },
+      {
+        "name": "轰隆打呼",
+        "effect": "将这只宝可梦【睡眠】。因这个【睡眠】的掷硬币次数改为2次，若没有全部为正面则无法恢复。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_TG_10-2x.jpg",
+    "ename": "Snorlax",
+    "series": "SS11",
+    "cardNo": "TG 10",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_TG_11-2x.jpg",
+    "typeEnergy": "Colorless",
+    "type": "Pokemon",
+    "cardName": "飘浮泡泡",
+    "skillList": [
+      {
+        "name": "[特性]看天",
+        "effect": "若自己的弃牌区有8张以上的「竞技场」卡，则这只宝可梦使用招式所需的能量全部消除。"
+      },
+      {
+        "name": "气象之力",
+        "effect": "从牌库抽卡直到自己的手牌满6张为止。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_TG_11-2x.jpg",
+    "ename": "Castform",
+    "series": "SS11",
+    "cardNo": "TG 11",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_TG_18-2x.jpg",
+    "typeEnergy": "Psychic",
+    "type": "Pokemon",
+    "cardName": "眷恋云V",
+    "skillList": [
+      {
+        "name": "[特性]爱之守护神",
+        "effect": "只要这只宝可梦在场上，自己的所有身上附有【超】能量的宝可梦（「眷恋云V」 除外），不会受到对手的宝可梦的特性效果影响。"
+      },
+      {
+        "name": "花开之尾",
+        "effect": "从自己的弃牌区选择最多2张基本能量卡，以任意方式附于备战宝可梦身上。"
+      },
+      {
+        "name": "[V规则]",
+        "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_TG_18-2x.jpg",
+    "ename": "Enamorus V",
+    "series": "SS11",
+    "cardNo": "TG 18",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_TG_19-2x.jpg",
+    "typeEnergy": "Fighting",
+    "type": "Pokemon",
+    "cardName": "艾路雷朵V",
+    "skillList": [
+      {
+        "name": "璀璨之剑",
+        "effect": "增加自己已经获得的奖赏卡的张数×50点伤害。"
+      },
+      {
+        "name": "粗暴横扫",
+        "effect": "这个招式的伤害不计算抵抗力。"
+      },
+      {
+        "name": "[V规则]",
+        "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_TG_19-2x.jpg",
+    "ename": "Gallade V",
+    "series": "SS11",
+    "cardNo": "TG 19",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_TG_23-2x.jpg",
+    "type": "Trainers",
+    "cardName": "冒险家的发现",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "从自己的牌库选择最多3张「宝可梦【V】」卡，在给对手看过后加入手牌。并且重洗牌库。"
+      },
+      {
+        "name": "[支援者规则]",
+        "effect": "在自己的回合时，支援者卡只可使用1张。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_TG_23-2x.jpg",
+    "ename": "Adventurer's Discovery",
+    "series": "SS11",
+    "cardNo": "TG 23",
+    "isHide": true
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_TG_25-2x.jpg",
+    "type": "Trainers",
+    "cardName": "西餐厨师",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "将自己的战斗宝可梦恢复「70」HP。"
+      },
+      {
+        "name": "[支援者规则]",
+        "effect": "在自己的回合时，支援者卡只可使用1张。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_TG_25-2x.jpg",
+    "ename": "Cook",
+    "series": "SS11",
+    "cardNo": "TG 25"
+  },
+  {
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_TG_30-2x.jpg",
+    "typeEnergy": "Psychic",
+    "type": "Pokemon",
+    "cardName": "梦幻VMAX",
+    "skillList": [
+      {
+        "name": "交错汇流",
+        "effect": "选择自己的备战区的「汇流」宝可梦持有的1个招式，作为这个招式使用。"
+      },
+      {
+        "name": "极巨奇迹",
+        "effect": "这个招式的伤害不计算对手的战斗宝可梦身上的附加效果。"
+      },
+      {
+        "name": "[VMAX规则]",
+        "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_TG_30-2x.jpg",
+    "ename": "Mew VMAX",
+    "series": "SS11",
+    "cardNo": "TG 30"
   }
 ]

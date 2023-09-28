@@ -474,7 +474,7 @@
       "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_154-2x.jpg"
     ],
     "series": "SS12.5",
-    "cardNo": "18|153|154"
+    "cardNo": "18"
   },
   {
     "id": "7452",
@@ -508,7 +508,7 @@
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_174_R_EN.png"
     ],
     "series": "SS12.5",
-    "cardNo": "19|174"
+    "cardNo": "19"
   },
   {
     "id": "7239",
@@ -1256,7 +1256,7 @@
       "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_177-2x.jpg"
     ],
     "series": "SS12.5",
-    "cardNo": "45|176|177"
+    "cardNo": "45"
   },
   {
     "id": "6900",
@@ -1684,7 +1684,7 @@
       "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_251-2x.jpg"
     ],
     "series": "SS12.5",
-    "cardNo": "60|250|251"
+    "cardNo": "60"
   },
   {
     "id": "7187",
@@ -2707,7 +2707,7 @@
       "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_163-2x.jpg"
     ],
     "series": "SS12.5",
-    "cardNo": "98|163"
+    "cardNo": "98"
   },
   {
     "id": "6904",
@@ -2773,7 +2773,7 @@
       "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_194-2x.jpg"
     ],
     "series": "SS12.5",
-    "cardNo": "100|193|194"
+    "cardNo": "100"
   },
   {
     "id": "5308",
@@ -2810,7 +2810,7 @@
       "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_29-2x.jpg"
     ],
     "series": "SS12.5",
-    "cardNo": "101|TG 20|218|217|TG 29"
+    "cardNo": "101"
   },
   {
     "id": "7466",
@@ -2847,7 +2847,7 @@
       "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_29-2x.jpg"
     ],
     "series": "SS12.5",
-    "cardNo": "102|TG 20|218|217|TG 29"
+    "cardNo": "102"
   },
   {
     "id": "5952",
@@ -2883,7 +2883,7 @@
       "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_198-2x.jpg"
     ],
     "series": "SS12.5",
-    "cardNo": "103|197|198"
+    "cardNo": "103"
   },
   {
     "id": "5311",
@@ -2920,7 +2920,7 @@
       "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_30-2x.jpg"
     ],
     "series": "SS12.5",
-    "cardNo": "104|TG 21|220|219|TG 30"
+    "cardNo": "104"
   },
   {
     "id": "7339",
@@ -3373,7 +3373,7 @@
       "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_257-2x.jpg"
     ],
     "series": "SS12.5",
-    "cardNo": "120|256|257"
+    "cardNo": "120"
   },
   {
     "id": "7019",
@@ -3468,7 +3468,7 @@
       "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_148-2x.jpg"
     ],
     "series": "SS12.5",
-    "cardNo": "130|148"
+    "cardNo": "130"
   },
   {
     "id": "7378",
@@ -3492,7 +3492,7 @@
       "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_149-2x.jpg"
     ],
     "series": "SS12.5",
-    "cardNo": "131|149"
+    "cardNo": "131"
   },
   {
     "id": "7136",
@@ -3523,7 +3523,7 @@
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_224_R_EN.png"
     ],
     "series": "SS12.5",
-    "cardNo": "140|TG 27|202|224"
+    "cardNo": "140"
   },
   {
     "id": "7370",
@@ -3639,7 +3639,7 @@
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_212_R_EN.png"
     ],
     "series": "SS12.5",
-    "cardNo": "129|212"
+    "cardNo": "129"
   },
   {
     "id": "7177",
@@ -3688,7 +3688,7 @@
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_217_R_EN.png"
     ],
     "series": "SS12.5",
-    "cardNo": "135|217"
+    "cardNo": "135"
   },
   {
     "id": "7027",
@@ -3775,7 +3775,7 @@
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_256_R_EN.png"
     ],
     "series": "SS12.5",
-    "cardNo": "141|256"
+    "cardNo": "141"
   },
   {
     "id": "7366",
@@ -3820,7 +3820,7 @@
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_206_R_EN.png"
     ],
     "series": "SS12.5",
-    "cardNo": "144|206"
+    "cardNo": "144"
   },
   {
     "id": "7361",
@@ -3844,7 +3844,7 @@
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_215_R_EN.png"
     ],
     "series": "SS12.5",
-    "cardNo": "145|215"
+    "cardNo": "145"
   },
   {
     "id": "7362",
@@ -3872,7 +3872,7 @@
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_186_R_EN.png"
     ],
     "series": "SS12.5",
-    "cardNo": "146|186"
+    "cardNo": "146"
   },
   {
     "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_147-2x.jpg",
@@ -4556,7 +4556,7 @@
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG 29-2x.jpg",
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_29-2x.jpg",
     "typeEnergy": "Colorless",
     "type": "Pokemon",
     "cardName": "大牙狸",
@@ -4570,7 +4570,7 @@
         "effect": "掷1次硬币若为反面，则这个招式失败。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG 29-2x.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_9-2x.jpg",
     "ename": "Bidoof",
     "series": "SS12.5",
     "cardNo": "GG 29",
@@ -4678,7 +4678,7 @@
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG 35-2x.jpg",
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_35-2x.jpg",
     "typeEnergy": "Grass",
     "type": "Pokemon",
     "cardName": "叶伊布VSTAR",
@@ -4696,7 +4696,7 @@
         "effect": "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG 35-2x.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_35-2x.jpg",
     "ename": "Leafeon VSTAR",
     "series": "SS12.5",
     "cardNo": "GG 35",
@@ -4728,7 +4728,7 @@
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG 37-2x.jpg",
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_37-2x.jpg",
     "typeEnergy": "Fire",
     "type": "Pokemon",
     "cardName": "爆香猿VSTAR",
@@ -4746,7 +4746,7 @@
         "effect": "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG 37-2x.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_37-2x.jpg",
     "ename": "Simisear VSTAR",
     "series": "SS12.5",
     "cardNo": "GG 37",
@@ -4828,7 +4828,7 @@
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG 42-2x.jpg",
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_42-2x.jpg",
     "typeEnergy": "Lightning",
     "type": "Pokemon",
     "cardName": "捷拉奥拉VMAX",
@@ -4846,14 +4846,14 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG 42-2x.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_42-2x.jpg",
     "ename": "Zeraora VMAX",
     "series": "SS12.5",
     "cardNo": "GG 42",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG 43-2x.jpg",
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_43-2x.jpg",
     "typeEnergy": "Lightning",
     "type": "Pokemon",
     "cardName": "捷拉奥拉VSTAR",
@@ -4871,7 +4871,7 @@
         "effect": "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG 43-2x.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_43-2x.jpg",
     "ename": "Zeraora VSTAR",
     "series": "SS12.5",
     "cardNo": "GG 43",
@@ -4903,7 +4903,7 @@
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG 47-2x.jpg",
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_47-2x.jpg",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
     "cardName": "布莉姆温VMAX",
@@ -4921,7 +4921,7 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG 47-2x.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_47-2x.jpg",
     "ename": "Hatterene VMAX",
     "series": "SS12.5",
     "cardNo": "GG 47",
@@ -5078,7 +5078,7 @@
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG 54|163-2x.jpg",
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_54-2x.jpg",
     "typeEnergy": "Metal",
     "type": "Pokemon",
     "cardName": "藏玛然特V",
@@ -5096,14 +5096,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG 54|163-2x.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_54-2x.jpg",
     "ename": "Zamazenta V",
     "series": "SS12.5",
     "cardNo": "GG 54",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG 55-2x.jpg",
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_55-2x.jpg",
     "typeEnergy": "Colorless",
     "type": "Pokemon",
     "cardName": "雷吉奇卡斯VSTAR",
@@ -5121,7 +5121,7 @@
         "effect": "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG 55-2x.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_55-2x.jpg",
     "ename": "Regigigas VSTAR",
     "series": "SS12.5",
     "cardNo": "GG 55",
@@ -5321,7 +5321,7 @@
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG 65-2x.jpg",
+    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_65-2x.jpg",
     "type": "Trainers",
     "cardName": "奇巴纳",
     "skillList": [
@@ -5338,7 +5338,7 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG 65-2x.jpg",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_65-2x.jpg",
     "ename": "Raihan",
     "series": "SS12.5",
     "cardNo": "GG 65",

@@ -85,6 +85,7 @@
 	// let cardLength = 0;
 	let forLength = 0;
 	let baseCardData = [];
+	let fullCardData = [];
 	let resultList = ref([]);
 	let isShowCard = ref(false);
 	let showCardDet = ref(null);
@@ -108,6 +109,12 @@
 			}else if(item == ''){
 				continue
 			}
+			if(/ Basic \{/.test(item)){
+
+			}else{
+				fullCardData.push(item);
+			}
+			item = item.replace(' PH', '');
 			if(/\{G\}/.test(item)){
 				item = item.substring(0, item.indexOf(' ') + 1) + baseEList[0] + ' 1'
 			}
@@ -134,7 +141,7 @@
 			}
 			newList.push(item)
 		}
-		console.log(newList)
+		// console.log(newList)
 		setData(newList);
 		copyDeck.value = newList;
 		copyDeckLength.value = newList.length
@@ -149,7 +156,7 @@
 		let sortBySeries = {}
 		// console.log(data);
 		for(let item of data){
-			let n = item.replace(' PH', '').replace(/(^\d{1,2} )|( \d{1,3}$)/g, '');
+			let n = item.replace(/(^\d{1,2} )|( \d{1,3}$)/g, '');
 			if(!baseEList.includes(n)){
 				let indexof = n.lastIndexOf(' ');
 				baseCardData.push(n.substring(0, indexof).replace('’', '\''));
@@ -181,13 +188,13 @@
 				count = m[1];
 				ename = m[2];
 				// 主流卡编号修复
-				if(fixData[ename]){
-					series = fixData[ename].series;
-					cardNo = fixData[ename].cardNo;
-				}else{
+				// if(fixData[ename]){
+				// 	series = fixData[ename].series;
+				// 	cardNo = fixData[ename].cardNo;
+				// }else{
 					series = m[3];
 					cardNo = m[4];
-				}
+				// }
 				sNo = null;
 				// console.log(series, sNo)
 			}
@@ -207,7 +214,7 @@
 				list.push(rItem);
 			}
 		}
-		console.log(_.isEmpty(sortBySeries), sortBySeries)
+		// console.log(_.isEmpty(sortBySeries), sortBySeries)
 		if(_.isEmpty(sortBySeries)){
 			loadData([], [], '')
 		}else{
@@ -282,7 +289,7 @@
 				return item.ename.replace(/ \(.+\)/, '');
 			})
 			let diff = _.difference(baseCardData, nowData);
-			// console.log(baseCardData, nowData, diff);
+			// console.log(fullCardData, baseCardData, nowData, diff);
 			noCardList.value = diff.length > 0 ? diff.join(', ') : '';
 			// 排序
 			let arr = {p: [], t: [], e: []};

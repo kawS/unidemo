@@ -61,7 +61,7 @@
   })
     
   const goSeries = (item) => {
-    if(item.code == ''){
+    if(item.code == '暂未发行'){
       uni.showToast({
         title: '暂未发行',
         icon: 'none',
