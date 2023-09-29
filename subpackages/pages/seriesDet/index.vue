@@ -15,8 +15,8 @@
 	</div>
 	<div class="list">
 		<template v-for="item in detList" :key="item.id">
-			<div class="item" @click="showDet(item)" v-if="item.isHide != true">
-			<!-- <div class="item" @click="showDet(item)"> -->
+			<!-- <div class="item" @click="showDet(item)" v-if="item.isHide != true"> -->
+			<div class="item" @click="showDet(item)">
 				<div class="picwp">
 					<image src="../../../common/img/tcg-card-back.jpg" mode="widthFix" class="cback"></image>
 					<image :src="item.imgUrl" lazy-load mode="heightFix" class="img"></image>
@@ -60,10 +60,10 @@
 		<div class="p-showcard" :class="{'animate__zoomIn': isShowCard}">
 			<div class="cardShow" :class="{tc: !showCardDet.artList}">
 				<image :src="showCardDet.showImg" mode="scaleToFill" class="img"></image>
-				<div class="artList" v-if="showCardDet.enImgUrl">
+				<div class="artList" v-if="showCardDet.enImgUrl && !showCardDet.isHide">
 					<image :src="showCardDet.imgUrl" lazy-load mode="widthFix" class="img" @click="changeArt(showCardDet.imgUrl)"></image>
 					<image :src="showCardDet.enImgUrl" lazy-load mode="widthFix" class="img" @click="changeArt(showCardDet.enImgUrl)" v-if="showCardDet.isHide != true"></image>
-					<template v-for="(img, index) in showCardDet.artList" :key="index">
+					<template v-for="(img, index) in showCardDet.artList">
 						<image :src="img" mode="widthFix" class="img" @click="changeArt(img)"></image>
 					</template>
 				</div>

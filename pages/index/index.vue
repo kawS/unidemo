@@ -18,7 +18,7 @@
       <div class="tlt">{{ item.sname }} {{ item.sename }}</div>
       <div class="slist">
         <template v-for="sitem in item.list" :key="sitem.no">
-          <div class="item" v-if="!sitem.isBack" @click="goSeries(sitem)">
+          <div class="item" :class="{cs: sitem.code == '暂未发行'}" v-if="!sitem.isBack" @click="goSeries(sitem)">
             <div class="imgwp">
               <image :src="sitem.logo" mode="heightFix" class="img"></image>
             </div>
@@ -109,7 +109,23 @@
   }
 
   const importDeck = () => {
-    uni.setStorageSync('tempDeck', JSON.stringify(deckData.value.split('\n')));
+    const olist = deckData.value.split('\n');
+    let decklist = [];
+    for(let item of olist){
+      if(/^Pokémon/.test(item)){
+				continue
+			}else if(/^Trainer/.test(item)){
+				continue
+			}else if(/^Energy/.test(item)){
+				continue
+			}else if(/^Total Cards/.test(item)){
+				continue
+			}else if(item == ''){
+				continue
+			}
+      decklist.push(item.replace(' PH', '').replace(/ \(.+\)/, ''))
+    }
+    uni.setStorageSync('tempDeck', JSON.stringify(decklist));
     isShowDeck.value = false;
     deckData.value = '';
     uni.navigateTo({
@@ -222,6 +238,9 @@
           &.dis{
             background: #ce2a2c;
             color: #fff;
+            opacity: .5;
+          }
+          &.cs{
             opacity: .5;
           }
         }

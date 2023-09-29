@@ -1,1 +1,1 @@
-"use strict";
+"use strict";const s={"Professor Burnet":{series:"SIT",cardNo:"TG 26"},Bibarel:{series:"BRS",cardNo:"121"},"Boss's Orders":{series:"PAL",cardNo:"172"},"Nest Ball":{series:"SVI",cardNo:"181"},"Pal Pad":{series:"SVI",cardNo:"182"},"Escape Rope":{series:"BST",cardNo:"125"},"Ultra Ball":{series:"SVI",cardNo:"196"}};exports.fixData=s;

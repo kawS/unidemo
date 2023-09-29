@@ -3,22 +3,22 @@ const fixData = {
     series: 'SIT',
     cardNo: 'TG 26',
   },
-  'Drapion V': {
-    series: 'LOR',
-    cardNo: '118',
-  },
-  'Lumineon V': {
-    series: 'BRS',
-    cardNo: '40',
-  },
-  'Dragonite V': {
-    series: 'EVS',
-    cardNo: '192',
-  },
-  'Tyranitar V': {
-    series: 'BST',
-    cardNo: '97',
-  },
+  // 'Drapion V': {
+  //   series: 'LOR',
+  //   cardNo: '118',
+  // },
+  // 'Lumineon V': {
+  //   series: 'BRS',
+  //   cardNo: '40',
+  // },
+  // 'Dragonite V': {
+  //   series: 'EVS',
+  //   cardNo: '192',
+  // },
+  // 'Tyranitar V': {
+  //   series: 'BST',
+  //   cardNo: '97',
+  // },
   'Bibarel': {
     series: 'BRS',
     cardNo: '121',
@@ -38,6 +38,10 @@ const fixData = {
   'Escape Rope': {
     series: 'BST',
     cardNo: '125',
+  },
+  'Ultra Ball': {
+    series: "SVI",
+    cardNo: "196"
   }
   
 }

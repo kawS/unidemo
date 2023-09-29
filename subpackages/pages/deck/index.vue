@@ -5,8 +5,13 @@
 			<div>卡组列表</div>
 			<div>共{{ resultList.length }}类</div>
 		</div>
-		<div class="tips">导入退环境卡或卡组编号查不到会缺失</div>
-		<div v-if="noCardList != ''">未导入: {{ noCardList }}</div>
+		<div class="tips">导入退环境卡或卡组编号查不到会导致缺失(点击可搜索)</div>
+		<div class="undeck" v-if="noCardList != ''">
+			<div>未导入:</div>	
+			<div>
+				<div class="lk" v-for="item in noCardList" @click="goSearch(item)">{{ item }}</div>
+			</div>	
+		</div>
 	</div>
 	<div class="list" v-if="resultList.length > 0">
 		<div class="item" v-for="item in resultList" :key="item.name" @click="showDet(item)">
@@ -35,7 +40,7 @@
 				<image :src="showCardDet.showImg" mode="scaleToFill" class="img"></image>
 				<div class="artList" v-if="showCardDet.enImgUrl">
 					<image :src="showCardDet.imgUrl" lazy-load mode="widthFix" class="img" @click="changeArt(showCardDet.imgUrl)"></image>
-					<image :src="showCardDet.enImgUrl" lazy-load mode="widthFix" class="img" @click="changeArt(showCardDet.enImgUrl)"></image>
+					<image :src="showCardDet.enImgUrl" lazy-load mode="widthFix" class="img" @click="changeArt(showCardDet.enImgUrl)" v-if="showCardDet.isHide != true"></image>
 					<template v-for="(img, index) in showCardDet.artList" :key="index">
 						<image :src="img" mode="widthFix" class="img" @click="changeArt(img)"></image>
 					</template>
@@ -82,7 +87,6 @@
 	const seriesList = ['SV3_5', 'SV3', 'SV2', 'SV1', 'SS12_5', 'SS12', 'SS11', 'SS10_5', 'SS10', 'SS9', 'SS8', 'SS7_5', 'SS7', 'SS6', 'SS5'];
 	const baseEList = ['Grass Energy', 'Fire Energy', 'Water Energy', 'Lightning Energy', 'Psychic Energy', 'Fighting Energy', 'Darkness Energy', 'Metal Energy']
 	let resetData = [];
-	// let cardLength = 0;
 	let forLength = 0;
 	let baseCardData = [];
 	let fullCardData = [];
@@ -97,54 +101,43 @@
 		const _data = uni.getStorageSync('tempDeck');
 		let list = JSON.parse(_data);
 		let newList = [];
+		copyDeck.value = list;
 		for(let item of list){
-			if(/^Pokémon/.test(item)){
-				continue
-			}else if(/^Trainer/.test(item)){
-				continue
-			}else if(/^Energy/.test(item)){
-				continue
-			}else if(/^Total Cards/.test(item)){
-				continue
-			}else if(item == ''){
-				continue
-			}
 			if(/ Basic \{/.test(item)){
 
 			}else{
 				fullCardData.push(item);
 			}
-			item = item.replace(' PH', '');
+			let num = item.substring(0, item.indexOf(' ') + 1);
 			if(/\{G\}/.test(item)){
-				item = item.substring(0, item.indexOf(' ') + 1) + baseEList[0] + ' 1'
+				item = num + baseEList[0] + ' 1'
 			}
 			if(/\{R\}/.test(item)){
-				item = item.substring(0, item.indexOf(' ') + 1) + baseEList[1] + ' 2'
+				item = num + baseEList[1] + ' 2'
 			}
 			if(/\{W\}/.test(item)){
-				item = item.substring(0, item.indexOf(' ') + 1) + baseEList[2] + ' 3'
+				item = num + baseEList[2] + ' 3'
 			}
 			if(/\{L\}/.test(item)){
-				item = item.substring(0, item.indexOf(' ') + 1) + baseEList[3] + ' 4'
+				item = num + baseEList[3] + ' 4'
 			}
 			if(/\{P\}/.test(item)){
-				item = item.substring(0, item.indexOf(' ') + 1) + baseEList[4] + ' 5'
+				item = num + baseEList[4] + ' 5'
 			}
 			if(/\{F\}/.test(item)){
-				item = item.substring(0, item.indexOf(' ') + 1) + baseEList[5] + ' 6'
+				item = num + baseEList[5] + ' 6'
 			}
 			if(/\{D\}/.test(item)){
-				item = item.substring(0, item.indexOf(' ') + 1) + baseEList[6] + ' 7'
+				item = num + baseEList[6] + ' 7'
 			}
 			if(/\{M\}/.test(item)){
-				item = item.substring(0, item.indexOf(' ') + 1) + baseEList[7] + ' 8'
+				item = num + baseEList[7] + ' 8'
 			}
 			newList.push(item)
 		}
 		// console.log(newList)
-		setData(newList);
-		copyDeck.value = newList;
 		copyDeckLength.value = newList.length
+		setData(newList);
 	})
 
 	const setData = (data) => {
@@ -153,16 +146,16 @@
 			mask: true
 		});
 		let list = [];
-		let sortBySeries = {}
+		let sortBySeries = {};
+		let missList = [];
 		// console.log(data);
 		for(let item of data){
 			let n = item.replace(/(^\d{1,2} )|( \d{1,3}$)/g, '');
 			if(!baseEList.includes(n)){
 				let indexof = n.lastIndexOf(' ');
-				baseCardData.push(n.substring(0, indexof).replace('’', '\''));
+				baseCardData.push(n.substring(0, indexof));
 			}
 			// console.log(baseCardData)
-			// cardLength += 1;
 			// console.log(item)
 			let rItem = null;
 			let count = null;
@@ -170,10 +163,7 @@
 			let series = null;
 			let sNo = null;
 			let cardNo = null;
-			let m = item.replace(' PH', '').match(/(\d{1,2}) (.+) ([A-Z]{3}\-[A-Z]{2}|[A-Z]{3}|[A-Z]{2}\-[A-Z]{2}) (\d{1,3})/);
-			if(item == "1 Boss's Orders SWSHALT 102"){
-				console.log(m)
-			}
+			let m = item.match(/(\d{1,2}) (.+) ([A-Z]{2}\-[A-Z]{2}|[A-Z]{3}\-[A-Z]{2}|[A-Z]{3}) (\d{1,3})/);
 			if(m == null){
 				if(!/ Energy/.test(item)){
 					continue
@@ -188,15 +178,21 @@
 				count = m[1];
 				ename = m[2];
 				// 主流卡编号修复
-				// if(fixData[ename]){
-				// 	series = fixData[ename].series;
-				// 	cardNo = fixData[ename].cardNo;
-				// }else{
+				// if(m[3] == 'PR-SW'){
+				if(!seriesCodeList[m[3]]){
+					// console.log(m[3])
+					if(fixData[ename]){
+						series = fixData[ename].series;
+						cardNo = fixData[ename].cardNo;
+					}else{
+						series = m[3];
+						cardNo = m[4];
+					}
+				}else{
 					series = m[3];
 					cardNo = m[4];
-				// }
+				}
 				sNo = null;
-				// console.log(series, sNo)
 			}
 			if(/-/.test(series)){
 				let _d = series.split('-');
@@ -207,14 +203,18 @@
 			if(sNo){
 				if(!sortBySeries[sNo]){
 					sortBySeries[sNo] = [];
-					forLength += 1
+					// forLength += 1
 				}
 				rItem = {count, ename, series, sNo, cardNo};
 				sortBySeries[sNo].push(rItem)
 				list.push(rItem);
+			}else{
+				// console.log(series)
+				// missList.push({count, ename, series, sNo, cardNo})
 			}
 		}
-		// console.log(_.isEmpty(sortBySeries), sortBySeries)
+		// console.log(_.isEmpty(sortBySeries), sortBySeries, Object.keys(sortBySeries))
+		forLength = Object.keys(sortBySeries).length;
 		if(_.isEmpty(sortBySeries)){
 			loadData([], [], '')
 		}else{
@@ -255,7 +255,9 @@
 		let result = [];
 		for(let o of oData){
 			let noList = [];
-			let ename = o.ename.replace(/ \(.+\)/,'');
+			let ename = null;
+			o.ename = o.ename.replace(/ \(.+\)/, '');
+			ename = o.ename;
 			if(`${o.cardNo}`.indexOf('|') > 0){
 				noList = o.cardNo.split('|')
 			}
@@ -284,13 +286,12 @@
 		resetData = [...resetData, ...result];
 		forLength -= 1;
 		if(forLength <= 0){
-			// console.log(resetData)
 			let nowData = resetData.map(item => {
-				return item.ename.replace(/ \(.+\)/, '');
+				return item.ename
 			})
 			let diff = _.difference(baseCardData, nowData);
 			// console.log(fullCardData, baseCardData, nowData, diff);
-			noCardList.value = diff.length > 0 ? diff.join(', ') : '';
+			noCardList.value = diff.length > 0 ? diff : '';
 			// 排序
 			let arr = {p: [], t: [], e: []};
 			for(let item of resetData){
@@ -314,7 +315,7 @@
 			resultList.value = resetData;
 		}else{
 			let nowData = resetData.map(item => {
-				return item.ename.replace(/ \(.+\)/, '');
+				return item.ename
 			})
 			let diff = _.difference(baseCardData, nowData);
 			// console.log(baseCardData, nowData, diff);
@@ -389,6 +390,17 @@
 			}
 		});
 	}
+
+	const goSearch = (txt) => {
+		uni.navigateTo({
+			url: `/subpackages/pages/search/index?searchinp=${encodeURIComponent(txt)}`,
+			success: res => {
+				
+      },
+			fail: () => {},
+			complete: () => {}
+		})
+	}
 </script>
 
 <style scoped lang="scss">
@@ -430,6 +442,14 @@
 			font-size: 12px;
 			color: #fff;
 			text-align: center;
+		}
+		.undeck{
+			display: flex;
+			.lk{
+				margin: 0 0 0 10rpx;
+				text-decoration: underline;
+				display: inline-flex;
+			}
 		}
 	}
 	.list{

@@ -3,11 +3,6 @@
     "id": "2074",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/2074/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00002074.png",
-    "extraInformation": [
-      "No.250虹色宝可梦",
-      "身高3.8/体重199",
-      "据说会闪耀著七彩翅膀，出现在正直的训练家面前。"
-    ],
     "typeEnergy": "Fire",
     "type": "Pokemon",
     "cardName": "凤王",
@@ -21,7 +16,7 @@
         "effect": "选择1个这只宝可梦身上附加的能量，将其丢弃。"
       }
     ],
-    "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_1.png",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CEL/CEL_001_R_EN.png",
     "ename": "Ho-Oh",
     "series": "SS7.5",
     "cardNo": "1"
@@ -30,11 +25,6 @@
     "id": "2080",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/2080/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00002080.png",
-    "extraInformation": [
-      "No.643白阳宝可梦",
-      "身高3.2/体重330",
-      "一旦莱希拉姆的尾部燃烧，产生的热能将会影响大气，使世界的天气发生变化。"
-    ],
     "typeEnergy": "Fire",
     "type": "Pokemon",
     "cardName": "莱希拉姆",
@@ -48,7 +38,7 @@
         "effect": "若自己的备战区有「捷克罗姆」，则增加80点伤害。"
       }
     ],
-    "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_2.png",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CEL/CEL_002_R_EN.png",
     "ename": "Reshiram",
     "series": "SS7.5",
     "cardNo": "2"
@@ -57,11 +47,6 @@
     "id": "2077",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/2077/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00002077.png",
-    "extraInformation": [
-      "No.382海底宝可梦",
-      "身高4.5/体重352",
-      "据说会用降下大雨的能力扩张海洋。一直沉睡在海沟的底部。"
-    ],
     "typeEnergy": "Water",
     "type": "Pokemon",
     "cardName": "盖欧卡",
@@ -75,7 +60,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_3.png",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CEL/CEL_003_R_EN.png",
     "ename": "Kyogre",
     "series": "SS7.5",
     "cardNo": "3"
@@ -84,11 +69,6 @@
     "id": "2079",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/2079/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00002079.png",
-    "extraInformation": [
-      "No.484空间宝可梦",
-      "身高4.2/体重336",
-      "拥有扭曲空间的能力。在神奥地区的神话里被描述为神。"
-    ],
     "typeEnergy": "Water",
     "type": "Pokemon",
     "cardName": "帕路奇亚",
@@ -102,7 +82,7 @@
         "effect": "在下个自己的回合，这只宝可梦「超频击碎」的伤害「+80」点。"
       }
     ],
-    "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_4.png",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CEL/CEL_004_R_EN.png",
     "ename": "Palkia",
     "series": "SS7.5",
     "cardNo": "4"
@@ -111,11 +91,6 @@
     "id": "2071",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/2071/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00002071.png",
-    "extraInformation": [
-      "No.25鼠宝可梦",
-      "身高0.4/体重6",
-      "脸颊两侧有著小小的电力袋。遇到危险时就会放电。"
-    ],
     "typeEnergy": "Lightning",
     "type": "Pokemon",
     "cardName": "皮卡丘",
@@ -129,7 +104,7 @@
         "effect": "掷1次硬币若为反面，则这只宝可梦也受到10点伤害。"
       }
     ],
-    "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_5.png",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CEL/CEL_005_R_EN.png",
     "ename": "Pikachu",
     "series": "SS7.5",
     "cardNo": "5"
@@ -138,11 +113,6 @@
     "id": "2093",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/2093/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00002093.png",
-    "extraInformation": [
-      "No.25",
-      "",
-      ""
-    ],
     "typeEnergy": "Lightning",
     "type": "Pokemon",
     "cardName": "飞翔皮卡丘V",
@@ -160,7 +130,7 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_6.png",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CEL/CEL_006_R_EN.png",
     "ename": "Flying Pikachu V",
     "series": "SS7.5",
     "cardNo": "6"
@@ -169,11 +139,6 @@
     "id": "2094",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/2094/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00002094.png",
-    "extraInformation": [
-      "No.25",
-      "",
-      ""
-    ],
     "typeEnergy": "Lightning",
     "type": "Pokemon",
     "cardName": "飞翔皮卡丘VMAX",
@@ -187,7 +152,7 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_7.png",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CEL/CEL_007_R_EN.png",
     "ename": "Flying Pikachu VMAX",
     "series": "SS7.5",
     "cardNo": "7"
@@ -196,11 +161,6 @@
     "id": "2091",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/2091/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00002091.png",
-    "extraInformation": [
-      "No.25",
-      "",
-      ""
-    ],
     "typeEnergy": "Lightning",
     "type": "Pokemon",
     "cardName": "冲浪皮卡丘V",
@@ -214,7 +174,7 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_8.png",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CEL/CEL_008_R_EN.png",
     "ename": "Surfing Pikachu V",
     "series": "SS7.5",
     "cardNo": "8"
@@ -223,11 +183,6 @@
     "id": "2092",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/2092/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00002092.png",
-    "extraInformation": [
-      "No.25",
-      "",
-      ""
-    ],
     "typeEnergy": "Lightning",
     "type": "Pokemon",
     "cardName": "冲浪皮卡丘VMAX",
@@ -241,7 +196,7 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_9.png",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CEL/CEL_009_R_EN.png",
     "ename": "Surfing Pikachu VMAX",
     "series": "SS7.5",
     "cardNo": "9"
@@ -250,11 +205,6 @@
     "id": "2081",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/2081/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00002081.png",
-    "extraInformation": [
-      "No.644黑阴宝可梦",
-      "身高2.9/体重345",
-      "用尾巴制造电能。将全身藏在雷云里，在合众地区的上空飞行。"
-    ],
     "typeEnergy": "Lightning",
     "type": "Pokemon",
     "cardName": "捷克罗姆",
@@ -268,7 +218,7 @@
         "effect": "若自己的备战区有「莱希拉姆」，则增加80点伤害。"
       }
     ],
-    "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_10.png",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CEL/CEL_010_R_EN.png",
     "ename": "Zekrom",
     "series": "SS7.5",
     "cardNo": "10"
@@ -277,11 +227,6 @@
     "id": "2072",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/2072/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00002072.png",
-    "extraInformation": [
-      "No.151新种宝可梦",
-      "身高0.4/体重4",
-      "基因中含有所有宝可梦的资讯，因此据说牠能使用所有的招式。"
-    ],
     "typeEnergy": "Psychic",
     "type": "Pokemon",
     "cardName": "梦幻",
@@ -295,24 +240,19 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_11.png",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CEL/CEL_011_R_EN.png",
     "ename": "Mew",
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_10-2x.jpg",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CEL/CEL_025_R_EN.png"
     ],
     "series": "SS7.5",
-    "cardNo": "11|GG 10|25"
+    "cardNo": "11"
   },
   {
     "id": "2082",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/2082/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00002082.png",
-    "extraInformation": [
-      "No.716生命宝可梦",
-      "身高3/体重215",
-      "据说当头上的角闪耀七色光芒时，就会分享永恒的生命。"
-    ],
     "typeEnergy": "Psychic",
     "type": "Pokemon",
     "cardName": "哲尔尼亚斯",
@@ -326,7 +266,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_12.png",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CEL/CEL_012_R_EN.png",
     "ename": "Xerneas",
     "series": "SS7.5",
     "cardNo": "12"
@@ -335,11 +275,6 @@
     "id": "2084",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/2084/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00002084.png",
-    "extraInformation": [
-      "No.789星云宝可梦",
-      "身高0.2/体重0.1",
-      "是否是这个世界的宝可梦还是个谜。在遇到危险的时候会使用空间跳跃，躲到安全的地方去。"
-    ],
     "typeEnergy": "Psychic",
     "type": "Pokemon",
     "cardName": "科斯莫古",
@@ -349,7 +284,7 @@
         "effect": "掷1次硬币若为正面，则在下个对手的回合，这只宝可梦不会受到招式的伤害。"
       }
     ],
-    "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_13.png",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CEL/CEL_013_R_EN.png",
     "ename": "Cosmog",
     "series": "SS7.5",
     "cardNo": "13"
@@ -358,11 +293,6 @@
     "id": "2085",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/2085/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00002085.png",
-    "extraInformation": [
-      "No.790原始星宝可梦",
-      "身高0.1/体重999.9",
-      "一边吸收光一边不断成长。金色的外壳坚硬到令人惊异的程度。"
-    ],
     "typeEnergy": "Psychic",
     "type": "Pokemon",
     "cardName": "科斯莫姆",
@@ -372,7 +302,7 @@
         "effect": "掷1次硬币若为正面，则在下个对手的回合，这只宝可梦不会受到招式的伤害。"
       }
     ],
-    "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_14.png",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CEL/CEL_014_R_EN.png",
     "ename": "Cosmoem",
     "series": "SS7.5",
     "cardNo": "14"
@@ -381,11 +311,6 @@
     "id": "2087",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/2087/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00002087.png",
-    "extraInformation": [
-      "No.792月轮宝可梦",
-      "身高4/体重120",
-      "有时会从通往异世界的洞穴里把未知的力量和生命召唤到这个世界来。"
-    ],
     "typeEnergy": "Psychic",
     "type": "Pokemon",
     "cardName": "露奈雅拉",
@@ -399,7 +324,7 @@
         "effect": "对手的1只备战宝可梦也受到30点伤害。[在备战区不计算弱点・抵抗力。]"
       }
     ],
-    "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_15.png",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CEL/CEL_015_R_EN.png",
     "ename": "Lunala",
     "series": "SS7.5",
     "cardNo": "15"
@@ -408,11 +333,6 @@
     "id": "2088",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/2088/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00002088.png",
-    "extraInformation": [
-      "No.888",
-      "",
-      ""
-    ],
     "typeEnergy": "Psychic",
     "type": "Pokemon",
     "cardName": "苍响V",
@@ -430,23 +350,18 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_16.png",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CEL/CEL_016_R_EN.png",
     "ename": "Zacian V",
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_48-2x.jpg"
     ],
     "series": "SS7.5",
-    "cardNo": "16|GG 48"
+    "cardNo": "16"
   },
   {
     "id": "2076",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/2076/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00002076.png",
-    "extraInformation": [
-      "No.383大陆宝可梦",
-      "身高3.5/体重950",
-      "与盖欧卡殊死战斗后，便一直沉睡著。被称为大地化身的传说的宝可梦。"
-    ],
     "typeEnergy": "Fighting",
     "type": "Pokemon",
     "cardName": "固拉多",
@@ -460,7 +375,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_17.png",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CEL/CEL_017_R_EN.png",
     "ename": "Groudon",
     "series": "SS7.5",
     "cardNo": "17"
@@ -469,11 +384,6 @@
     "id": "2089",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/2089/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00002089.png",
-    "extraInformation": [
-      "No.889",
-      "",
-      ""
-    ],
     "typeEnergy": "Fighting",
     "type": "Pokemon",
     "cardName": "藏玛然特V",
@@ -491,7 +401,7 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_18.png",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CEL/CEL_018_R_EN.png",
     "ename": "Zamazenta V",
     "series": "SS7.5",
     "cardNo": "18"
@@ -500,11 +410,6 @@
     "id": "2083",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/2083/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00002083.png",
-    "extraInformation": [
-      "No.717破坏宝可梦",
-      "身高5.8/体重203",
-      "据说当生命走到尽头时，会吸光所有生物的生命，回到茧的状态。"
-    ],
     "typeEnergy": "Darkness",
     "type": "Pokemon",
     "cardName": "伊裴尔塔尔",
@@ -518,7 +423,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_19.png",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CEL/CEL_019_R_EN.png",
     "ename": "Yveltal",
     "series": "SS7.5",
     "cardNo": "19"
@@ -527,11 +432,6 @@
     "id": "2078",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/2078/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00002078.png",
-    "extraInformation": [
-      "No.483时间宝可梦",
-      "身高5.4/体重683",
-      "拥有操纵时间的力量。在神奥地区被称为神，并在神话中登场。"
-    ],
     "typeEnergy": "Metal",
     "type": "Pokemon",
     "cardName": "帝牙卢卡",
@@ -545,7 +445,7 @@
         "effect": "增加这只宝可梦身上附加的【钢】能量的数量×20点伤害。"
       }
     ],
-    "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_20.png",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CEL/CEL_020_R_EN.png",
     "ename": "Dialga",
     "series": "SS7.5",
     "cardNo": "20"
@@ -554,11 +454,6 @@
     "id": "2086",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/2086/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00002086.png",
-    "extraInformation": [
-      "No.791日轮宝可梦",
-      "身高3.4/体重230",
-      "在遥远过去的文献中，留有牠是吞食太阳之兽的相关纪录。"
-    ],
     "typeEnergy": "Metal",
     "type": "Pokemon",
     "cardName": "索尔迦雷欧",
@@ -572,7 +467,7 @@
         "effect": "从自己的弃牌区选择最多2张基本能量卡，附于1只备战宝可梦身上。"
       }
     ],
-    "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_21.png",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CEL/CEL_021_R_EN.png",
     "ename": "Solgaleo",
     "series": "SS7.5",
     "cardNo": "21"
@@ -581,11 +476,6 @@
     "id": "2075",
     "url": "https://asia.pokemon-card.com/tw/card-search/detail/2075/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00002075.png",
-    "extraInformation": [
-      "No.249潜水宝可梦",
-      "身高5.2/体重216",
-      "传说中被当成海神的宝可梦。有著在暴风雨之夜被人看见其身影的传说。"
-    ],
     "typeEnergy": "Colorless",
     "type": "Pokemon",
     "cardName": "洛奇亚",
@@ -599,33 +489,30 @@
         "effect": "在下个自己的回合，这只宝可梦无法使用招式。"
       }
     ],
-    "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_22.png",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CEL/CEL_022_R_EN.png",
     "ename": "Lugia",
     "series": "SS7.5",
     "cardNo": "22"
   },
   {
-    "id": "2073",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/2073/",
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00002073.png",
-    "type": "Trainers",
-    "cardName": "博士的研究（大木博士）",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CEL/CEL_025_R_EN.png",
+    "typeEnergy": "Psychic",
+    "type": "Pokemon",
+    "cardName": "梦幻",
     "skillList": [
       {
-        "name": "",
-        "effect": "将自己的手牌全部丢弃，从牌库抽出7张卡。"
+        "name": "[特性]神秘尾巴",
+        "effect": "若这只宝可梦在战斗场上，则在自己的回合时可使用1次。查看自己的牌库上方6张卡。选择其中1张物品卡，在给对手看过后加入手牌。将剩余卡放回牌库并重洗。"
       },
       {
-        "name": "[支援者规则]",
-        "effect": "在自己的回合时，支援者卡只可使用1张。"
+        "name": "精神射击",
+        "effect": ""
       }
     ],
-    "enImgUrl": "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_23.png",
-    "ename": "Professor's Research (Professor Oak)",
-    "artList": [
-      "https://assets.pokemon.com/assets/cms2/img/cards/web/CEL/CEL_EN_24.png"
-    ],
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CEL/CEL_025_R_EN.png",
+    "ename": "Mew",
     "series": "SS7.5",
-    "cardNo": "23|24"
+    "cardNo": "25",
+    "isHide": true
   }
 ]
