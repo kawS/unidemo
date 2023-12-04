@@ -1,7 +1,5 @@
 [
   {
-    "id": "8124",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8124/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008124.png",
     "typeEnergy": "Grass",
     "type": "Pokemon",
@@ -12,7 +10,7 @@
         "effect": "将这只宝可梦恢复「20」HP。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-1-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_001_R_EN.png",
     "ename": "Bulbasaur",
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-166-2x.jpg"
@@ -21,8 +19,6 @@
     "cardNo": "1"
   },
   {
-    "id": "8125",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8125/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008125.png",
     "typeEnergy": "Grass",
     "type": "Pokemon",
@@ -37,7 +33,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-2-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_002_R_EN.png",
     "ename": "Ivysaur",
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-167-2x.jpg"
@@ -46,8 +42,6 @@
     "cardNo": "2"
   },
   {
-    "id": "8126",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8126/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008126.png",
     "typeEnergy": "Grass",
     "type": "Pokemon",
@@ -66,7 +60,7 @@
         "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-3-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_003_R_EN.png",
     "ename": "Venusaur ex",
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-182-2x.jpg",
@@ -76,8 +70,6 @@
     "cardNo": "3"
   },
   {
-    "id": "8127",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8127/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008127.png",
     "typeEnergy": "Fire",
     "type": "Pokemon",
@@ -92,7 +84,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-4-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_004_R_EN.png",
     "ename": "Charmander",
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-168-2x.jpg"
@@ -101,8 +93,6 @@
     "cardNo": "4"
   },
   {
-    "id": "8128",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8128/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008128.png",
     "typeEnergy": "Fire",
     "type": "Pokemon",
@@ -117,7 +107,7 @@
         "effect": "选择1个这只宝可梦身上附加的能量，将其丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-5-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_005_R_EN.png",
     "ename": "Charmeleon",
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-169-2x.jpg"
@@ -126,8 +116,6 @@
     "cardNo": "5"
   },
   {
-    "id": "8129",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8129/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008129.png",
     "typeEnergy": "Fire",
     "type": "Pokemon",
@@ -146,7 +134,7 @@
         "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-6-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_006_R_EN.png",
     "ename": "Charizard ex",
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-183-2x.jpg",
@@ -156,8 +144,6 @@
     "cardNo": "6"
   },
   {
-    "id": "8130",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8130/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008130.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
@@ -172,7 +158,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-7-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_007_R_EN.png",
     "ename": "Squirtle",
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-170-2x.jpg"
@@ -181,8 +167,6 @@
     "cardNo": "7"
   },
   {
-    "id": "8131",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8131/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008131.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
@@ -197,7 +181,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-8-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_008_R_EN.png",
     "ename": "Wartortle",
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-171-2x.jpg"
@@ -206,8 +190,6 @@
     "cardNo": "8"
   },
   {
-    "id": "8132",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8132/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008132.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
@@ -226,7 +208,7 @@
         "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-9-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_009_R_EN.png",
     "ename": "Blastoise ex",
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-184-2x.jpg",
@@ -236,8 +218,6 @@
     "cardNo": "9"
   },
   {
-    "id": "8133",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8133/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008133.png",
     "typeEnergy": "Grass",
     "type": "Pokemon",
@@ -248,7 +228,7 @@
         "effect": "若对手的战斗宝可梦为【草】宝可梦，则增加30点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-10-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_010_R_EN.png",
     "ename": "Caterpie",
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-172-2x.jpg"
@@ -257,8 +237,6 @@
     "cardNo": "10"
   },
   {
-    "id": "8134",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8134/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008134.png",
     "typeEnergy": "Grass",
     "type": "Pokemon",
@@ -273,14 +251,12 @@
         "effect": "掷1次硬币若为正面，则在下个对手的回合，这只宝可梦不会受到招式的伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-11-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_011_R_EN.png",
     "ename": "Metapod",
     "series": "SV3.5",
     "cardNo": "11"
   },
   {
-    "id": "8135",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8135/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008135.png",
     "typeEnergy": "Grass",
     "type": "Pokemon",
@@ -295,14 +271,12 @@
         "effect": "选择1只对手的备战宝可梦，将这只宝可梦与所选的宝可梦，与各自身上附加的卡，全部放回牌库并重洗。若对手没有备战宝可梦，则这个招式失败。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-12-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_012_R_EN.png",
     "ename": "Butterfree",
     "series": "SV3.5",
     "cardNo": "12"
   },
   {
-    "id": "8136",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8136/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008136.png",
     "typeEnergy": "Grass",
     "type": "Pokemon",
@@ -317,14 +291,12 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-13-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_013_R_EN.png",
     "ename": "Weedle",
     "series": "SV3.5",
     "cardNo": "13"
   },
   {
-    "id": "8137",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8137/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008137.png",
     "typeEnergy": "Grass",
     "type": "Pokemon",
@@ -339,14 +311,12 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-14-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_014_R_EN.png",
     "ename": "Kakuna",
     "series": "SV3.5",
     "cardNo": "14"
   },
   {
-    "id": "8138",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8138/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008138.png",
     "typeEnergy": "Grass",
     "type": "Pokemon",
@@ -361,14 +331,12 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-15-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_015_R_EN.png",
     "ename": "Beedrill",
     "series": "SV3.5",
     "cardNo": "15"
   },
   {
-    "id": "8139",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8139/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008139.png",
     "typeEnergy": "Colorless",
     "type": "Pokemon",
@@ -383,14 +351,12 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-16-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_016_R_EN.png",
     "ename": "Pidgey",
     "series": "SV3.5",
     "cardNo": "16"
   },
   {
-    "id": "8140",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8140/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008140.png",
     "typeEnergy": "Colorless",
     "type": "Pokemon",
@@ -401,14 +367,12 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-17-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_017_R_EN.png",
     "ename": "Pidgeotto",
     "series": "SV3.5",
     "cardNo": "17"
   },
   {
-    "id": "8141",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8141/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008141.png",
     "typeEnergy": "Colorless",
     "type": "Pokemon",
@@ -423,14 +387,12 @@
         "effect": "掷1次硬币若为反面，则这个招式失败。若为正面，则在下个对手的回合，这只宝可梦不会受到招式的伤害与效果的影响。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-18-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_018_R_EN.png",
     "ename": "Pidgeot",
     "series": "SV3.5",
     "cardNo": "18"
   },
   {
-    "id": "8142",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8142/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008142.png",
     "typeEnergy": "Colorless",
     "type": "Pokemon",
@@ -441,14 +403,12 @@
         "effect": "增加对手的战斗宝可梦身上放置的伤害指示物的数量×10点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-19-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_019_R_EN.png",
     "ename": "Rattata",
     "series": "SV3.5",
     "cardNo": "19"
   },
   {
-    "id": "8143",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8143/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008143.png",
     "typeEnergy": "Colorless",
     "type": "Pokemon",
@@ -459,14 +419,12 @@
         "effect": "增加对手的战斗宝可梦身上放置的伤害指示物的数量×30点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-20-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_020_R_EN.png",
     "ename": "Raticate",
     "series": "SV3.5",
     "cardNo": "20"
   },
   {
-    "id": "8144",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8144/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008144.png",
     "typeEnergy": "Colorless",
     "type": "Pokemon",
@@ -481,14 +439,12 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-21-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_021_R_EN.png",
     "ename": "Spearow",
     "series": "SV3.5",
     "cardNo": "21"
   },
   {
-    "id": "8145",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8145/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008145.png",
     "typeEnergy": "Colorless",
     "type": "Pokemon",
@@ -503,14 +459,12 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-22-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_022_R_EN.png",
     "ename": "Fearow",
     "series": "SV3.5",
     "cardNo": "22"
   },
   {
-    "id": "8146",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8146/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008146.png",
     "typeEnergy": "Darkness",
     "type": "Pokemon",
@@ -521,14 +475,12 @@
         "effect": "掷1次硬币若为正面，则选择1个对手的战斗宝可梦身上附加的能量，将其丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-23-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_023_R_EN.png",
     "ename": "Ekans",
     "series": "SV3.5",
     "cardNo": "23"
   },
   {
-    "id": "8147",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8147/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008147.png",
     "typeEnergy": "Darkness",
     "type": "Pokemon",
@@ -547,7 +499,7 @@
         "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-24-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_024_R_EN.png",
     "ename": "Arbok ex",
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-185-2x.jpg"
@@ -556,8 +508,6 @@
     "cardNo": "24"
   },
   {
-    "id": "8148",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8148/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008148.png",
     "typeEnergy": "Lightning",
     "type": "Pokemon",
@@ -572,7 +522,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-25-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_025_R_EN.png",
     "ename": "Pikachu",
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-173-2x.jpg"
@@ -581,8 +531,6 @@
     "cardNo": "25"
   },
   {
-    "id": "8149",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8149/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008149.png",
     "typeEnergy": "Lightning",
     "type": "Pokemon",
@@ -597,14 +545,12 @@
         "effect": "这只宝可梦也受到50点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-26-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_026_R_EN.png",
     "ename": "Raichu",
     "series": "SV3.5",
     "cardNo": "26"
   },
   {
-    "id": "8150",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8150/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008150.png",
     "typeEnergy": "Fighting",
     "type": "Pokemon",
@@ -619,14 +565,12 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-27-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_027_R_EN.png",
     "ename": "Sandshrew",
     "series": "SV3.5",
     "cardNo": "27"
   },
   {
-    "id": "8151",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8151/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008151.png",
     "typeEnergy": "Fighting",
     "type": "Pokemon",
@@ -641,14 +585,12 @@
         "effect": "若对手的战斗宝可梦身上放置有伤害指示物，则增加100点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-28-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_028_R_EN.png",
     "ename": "Sandslash",
     "series": "SV3.5",
     "cardNo": "28"
   },
   {
-    "id": "8152",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8152/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008152.png",
     "typeEnergy": "Darkness",
     "type": "Pokemon",
@@ -659,14 +601,12 @@
         "effect": "将对手的战斗宝可梦【中毒】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-29-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_029_R_EN.png",
     "ename": "Nidoran♀",
     "series": "SV3.5",
     "cardNo": "29"
   },
   {
-    "id": "8153",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8153/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008153.png",
     "typeEnergy": "Darkness",
     "type": "Pokemon",
@@ -681,14 +621,12 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-30-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_030_R_EN.png",
     "ename": "Nidorina",
     "series": "SV3.5",
     "cardNo": "30"
   },
   {
-    "id": "8154",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8154/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008154.png",
     "typeEnergy": "Darkness",
     "type": "Pokemon",
@@ -703,14 +641,12 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-31-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_031_R_EN.png",
     "ename": "Nidoqueen",
     "series": "SV3.5",
     "cardNo": "31"
   },
   {
-    "id": "8155",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8155/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008155.png",
     "typeEnergy": "Darkness",
     "type": "Pokemon",
@@ -721,14 +657,12 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-32-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_032_R_EN.png",
     "ename": "Nidoran♂",
     "series": "SV3.5",
     "cardNo": "32"
   },
   {
-    "id": "8156",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8156/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008156.png",
     "typeEnergy": "Darkness",
     "type": "Pokemon",
@@ -743,14 +677,12 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-33-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_033_R_EN.png",
     "ename": "Nidorino",
     "series": "SV3.5",
     "cardNo": "33"
   },
   {
-    "id": "8157",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8157/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008157.png",
     "typeEnergy": "Darkness",
     "type": "Pokemon",
@@ -765,7 +697,7 @@
         "effect": "将对手的战斗宝可梦【中毒】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-34-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_034_R_EN.png",
     "ename": "Nidoking",
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-174-2x.jpg"
@@ -774,8 +706,6 @@
     "cardNo": "34"
   },
   {
-    "id": "8158",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8158/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008158.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
@@ -790,14 +720,12 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-35-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_035_R_EN.png",
     "ename": "Clefairy",
     "series": "SV3.5",
     "cardNo": "35"
   },
   {
-    "id": "8159",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8159/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008159.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
@@ -812,14 +740,12 @@
         "effect": "若对手的宝可梦因这个招式的伤害而【昏厥】了，则多获得1张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-36-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_036_R_EN.png",
     "ename": "Clefable",
     "series": "SV3.5",
     "cardNo": "36"
   },
   {
-    "id": "8160",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8160/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008160.png",
     "typeEnergy": "Fire",
     "type": "Pokemon",
@@ -830,14 +756,12 @@
         "effect": "掷1次硬币若为正面，则将对手的战斗宝可梦【灼伤】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-37-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_037_R_EN.png",
     "ename": "Vulpix",
     "series": "SV3.5",
     "cardNo": "37"
   },
   {
-    "id": "8161",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8161/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008161.png",
     "typeEnergy": "Fire",
     "type": "Pokemon",
@@ -856,7 +780,7 @@
         "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-38-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_038_R_EN.png",
     "ename": "Ninetales ex",
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-186-2x.jpg"
@@ -865,8 +789,6 @@
     "cardNo": "38"
   },
   {
-    "id": "8162",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8162/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008162.png",
     "typeEnergy": "Colorless",
     "type": "Pokemon",
@@ -881,14 +803,12 @@
         "effect": "掷2次硬币，造成正面出现的次数×20点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-39-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_039_R_EN.png",
     "ename": "Jigglypuff",
     "series": "SV3.5",
     "cardNo": "39"
   },
   {
-    "id": "8163",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8163/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008163.png",
     "typeEnergy": "Colorless",
     "type": "Pokemon",
@@ -907,7 +827,7 @@
         "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-40-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_040_R_EN.png",
     "ename": "Wigglytuff ex",
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-187-2x.jpg"
@@ -916,8 +836,6 @@
     "cardNo": "40"
   },
   {
-    "id": "8164",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8164/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008164.png",
     "typeEnergy": "Darkness",
     "type": "Pokemon",
@@ -932,14 +850,12 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-41-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_041_R_EN.png",
     "ename": "Zubat",
     "series": "SV3.5",
     "cardNo": "41"
   },
   {
-    "id": "8165",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8165/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008165.png",
     "typeEnergy": "Darkness",
     "type": "Pokemon",
@@ -950,14 +866,12 @@
         "effect": "对手的1只宝可梦受到40点伤害。[在备战区不计算弱点・抵抗力。]"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-42-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_042_R_EN.png",
     "ename": "Golbat",
     "series": "SV3.5",
     "cardNo": "42"
   },
   {
-    "id": "8166",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8166/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008166.png",
     "typeEnergy": "Grass",
     "type": "Pokemon",
@@ -968,14 +882,12 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-43-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_043_R_EN.png",
     "ename": "Oddish",
     "series": "SV3.5",
     "cardNo": "43"
   },
   {
-    "id": "8167",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8167/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008167.png",
     "typeEnergy": "Grass",
     "type": "Pokemon",
@@ -990,14 +902,12 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-44-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_044_R_EN.png",
     "ename": "Gloom",
     "series": "SV3.5",
     "cardNo": "44"
   },
   {
-    "id": "8168",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8168/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008168.png",
     "typeEnergy": "Grass",
     "type": "Pokemon",
@@ -1012,14 +922,12 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-45-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_045_R_EN.png",
     "ename": "Vileplume",
     "series": "SV3.5",
     "cardNo": "45"
   },
   {
-    "id": "8169",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8169/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008169.png",
     "typeEnergy": "Grass",
     "type": "Pokemon",
@@ -1034,14 +942,12 @@
         "effect": "将对手的战斗宝可梦【睡眠】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-46-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_046_R_EN.png",
     "ename": "Paras",
     "series": "SV3.5",
     "cardNo": "46"
   },
   {
-    "id": "8170",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8170/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008170.png",
     "typeEnergy": "Grass",
     "type": "Pokemon",
@@ -1056,14 +962,12 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-47-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_047_R_EN.png",
     "ename": "Parasect",
     "series": "SV3.5",
     "cardNo": "47"
   },
   {
-    "id": "8171",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8171/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008171.png",
     "typeEnergy": "Grass",
     "type": "Pokemon",
@@ -1078,14 +982,12 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-48-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_048_R_EN.png",
     "ename": "Venonat",
     "series": "SV3.5",
     "cardNo": "48"
   },
   {
-    "id": "8172",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8172/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008172.png",
     "typeEnergy": "Grass",
     "type": "Pokemon",
@@ -1100,14 +1002,12 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-49-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_049_R_EN.png",
     "ename": "Venomoth",
     "series": "SV3.5",
     "cardNo": "49"
   },
   {
-    "id": "8173",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8173/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008173.png",
     "typeEnergy": "Fighting",
     "type": "Pokemon",
@@ -1122,14 +1022,12 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-50-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_050_R_EN.png",
     "ename": "Diglett",
     "series": "SV3.5",
     "cardNo": "50"
   },
   {
-    "id": "8174",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8174/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008174.png",
     "typeEnergy": "Fighting",
     "type": "Pokemon",
@@ -1144,14 +1042,12 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-51-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_051_R_EN.png",
     "ename": "Dugtrio",
     "series": "SV3.5",
     "cardNo": "51"
   },
   {
-    "id": "8175",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8175/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008175.png",
     "typeEnergy": "Colorless",
     "type": "Pokemon",
@@ -1166,14 +1062,12 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-52-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_052_R_EN.png",
     "ename": "Meowth",
     "series": "SV3.5",
     "cardNo": "52"
   },
   {
-    "id": "8176",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8176/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008176.png",
     "typeEnergy": "Colorless",
     "type": "Pokemon",
@@ -1188,14 +1082,12 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-53-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_053_R_EN.png",
     "ename": "Persian",
     "series": "SV3.5",
     "cardNo": "53"
   },
   {
-    "id": "8177",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8177/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008177.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
@@ -1210,7 +1102,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-54-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_054_R_EN.png",
     "ename": "Psyduck",
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-175-2x.jpg"
@@ -1219,8 +1111,6 @@
     "cardNo": "54"
   },
   {
-    "id": "8178",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8178/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008178.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
@@ -1235,14 +1125,12 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-55-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_055_R_EN.png",
     "ename": "Golduck",
     "series": "SV3.5",
     "cardNo": "55"
   },
   {
-    "id": "8179",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8179/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008179.png",
     "typeEnergy": "Fighting",
     "type": "Pokemon",
@@ -1253,14 +1141,12 @@
         "effect": "掷1次硬币若为正面，则增加20点伤害。若为反面，则这只宝可梦也受到20点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-56-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_056_R_EN.png",
     "ename": "Mankey",
     "series": "SV3.5",
     "cardNo": "56"
   },
   {
-    "id": "8180",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8180/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008180.png",
     "typeEnergy": "Fighting",
     "type": "Pokemon",
@@ -1275,14 +1161,12 @@
         "effect": "若这只宝可梦没有【混乱】，则这个招式失败。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-57-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_057_R_EN.png",
     "ename": "Primeape",
     "series": "SV3.5",
     "cardNo": "57"
   },
   {
-    "id": "8181",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8181/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008181.png",
     "typeEnergy": "Fire",
     "type": "Pokemon",
@@ -1293,14 +1177,12 @@
         "effect": "选择1个对手的战斗宝可梦身上附加的【水】能量，将其丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-58-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_058_R_EN.png",
     "ename": "Growlithe",
     "series": "SV3.5",
     "cardNo": "58"
   },
   {
-    "id": "8182",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8182/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008182.png",
     "typeEnergy": "Fire",
     "type": "Pokemon",
@@ -1315,14 +1197,12 @@
         "effect": "选择2个这只宝可梦身上附加的【火】能量，将其丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-59-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_059_R_EN.png",
     "ename": "Arcanine",
     "series": "SV3.5",
     "cardNo": "59"
   },
   {
-    "id": "8183",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8183/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008183.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
@@ -1333,14 +1213,12 @@
         "effect": "掷1次硬币若为正面，则将对手的战斗宝可梦【麻痺】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-60-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_060_R_EN.png",
     "ename": "Poliwag",
     "series": "SV3.5",
     "cardNo": "60"
   },
   {
-    "id": "8184",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8184/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008184.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
@@ -1355,7 +1233,7 @@
         "effect": "掷1次硬币若为正面，则增加60点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-61-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_061_R_EN.png",
     "ename": "Poliwhirl",
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-176-2x.jpg"
@@ -1364,8 +1242,6 @@
     "cardNo": "61"
   },
   {
-    "id": "8185",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8185/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008185.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
@@ -1380,14 +1256,12 @@
         "effect": "掷1次硬币若为正面，则增加150点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-62-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_062_R_EN.png",
     "ename": "Poliwrath",
     "series": "SV3.5",
     "cardNo": "62"
   },
   {
-    "id": "8186",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8186/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008186.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
@@ -1398,14 +1272,12 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-63-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_063_R_EN.png",
     "ename": "Abra",
     "series": "SV3.5",
     "cardNo": "63"
   },
   {
-    "id": "8187",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8187/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008187.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
@@ -1416,14 +1288,12 @@
         "effect": "将这只宝可梦与备战宝可梦互换。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-64-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_064_R_EN.png",
     "ename": "Kadabra",
     "series": "SV3.5",
     "cardNo": "64"
   },
   {
-    "id": "8188",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8188/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008188.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
@@ -1442,7 +1312,7 @@
         "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-65-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_065_R_EN.png",
     "ename": "Alakazam ex",
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-188-2x.jpg",
@@ -1452,8 +1322,6 @@
     "cardNo": "65"
   },
   {
-    "id": "8189",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8189/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008189.png",
     "typeEnergy": "Fighting",
     "type": "Pokemon",
@@ -1468,14 +1336,12 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-66-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_066_R_EN.png",
     "ename": "Machop",
     "series": "SV3.5",
     "cardNo": "66"
   },
   {
-    "id": "8190",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8190/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008190.png",
     "typeEnergy": "Fighting",
     "type": "Pokemon",
@@ -1486,7 +1352,7 @@
         "effect": "将对手的牌库上方1张卡丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-67-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_067_R_EN.png",
     "ename": "Machoke",
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-177-2x.jpg"
@@ -1495,8 +1361,6 @@
     "cardNo": "67"
   },
   {
-    "id": "8191",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8191/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008191.png",
     "typeEnergy": "Fighting",
     "type": "Pokemon",
@@ -1511,14 +1375,12 @@
         "effect": "将对手的牌库上方2张卡丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-68-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_068_R_EN.png",
     "ename": "Machamp",
     "series": "SV3.5",
     "cardNo": "68"
   },
   {
-    "id": "8192",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8192/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008192.png",
     "typeEnergy": "Grass",
     "type": "Pokemon",
@@ -1533,14 +1395,12 @@
         "effect": "在下个对手的回合，受到这个招式的宝可梦无法撤退。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-69-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_069_R_EN.png",
     "ename": "Bellsprout",
     "series": "SV3.5",
     "cardNo": "69"
   },
   {
-    "id": "8193",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8193/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008193.png",
     "typeEnergy": "Grass",
     "type": "Pokemon",
@@ -1555,14 +1415,12 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-70-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_070_R_EN.png",
     "ename": "Weepinbell",
     "series": "SV3.5",
     "cardNo": "70"
   },
   {
-    "id": "8194",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8194/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008194.png",
     "typeEnergy": "Grass",
     "type": "Pokemon",
@@ -1577,14 +1435,12 @@
         "effect": "在下个对手的回合结束时，在受到这个招式的宝可梦身上放置12个伤害指示物。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-71-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_071_R_EN.png",
     "ename": "Victreebel",
     "series": "SV3.5",
     "cardNo": "71"
   },
   {
-    "id": "8195",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8195/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008195.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
@@ -1599,14 +1455,12 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-72-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_072_R_EN.png",
     "ename": "Tentacool",
     "series": "SV3.5",
     "cardNo": "72"
   },
   {
-    "id": "8196",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8196/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008196.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
@@ -1621,14 +1475,12 @@
         "effect": "掷硬币直到出现反面，造成正面出现的次数×90点伤害。若最初的硬币为反面，则将对手的战斗宝可梦【混乱】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-73-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_073_R_EN.png",
     "ename": "Tentacruel",
     "series": "SV3.5",
     "cardNo": "73"
   },
   {
-    "id": "8197",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8197/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008197.png",
     "typeEnergy": "Fighting",
     "type": "Pokemon",
@@ -1643,14 +1495,12 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-74-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_074_R_EN.png",
     "ename": "Geodude",
     "series": "SV3.5",
     "cardNo": "74"
   },
   {
-    "id": "8198",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8198/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008198.png",
     "typeEnergy": "Fighting",
     "type": "Pokemon",
@@ -1665,14 +1515,12 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-75-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_075_R_EN.png",
     "ename": "Graveler",
     "series": "SV3.5",
     "cardNo": "75"
   },
   {
-    "id": "8199",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8199/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008199.png",
     "typeEnergy": "Fighting",
     "type": "Pokemon",
@@ -1691,7 +1539,7 @@
         "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-76-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_076_R_EN.png",
     "ename": "Golem ex",
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-189-2x.jpg"
@@ -1700,8 +1548,6 @@
     "cardNo": "76"
   },
   {
-    "id": "8200",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8200/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008200.png",
     "typeEnergy": "Fire",
     "type": "Pokemon",
@@ -1716,14 +1562,12 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-77-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_077_R_EN.png",
     "ename": "Ponyta",
     "series": "SV3.5",
     "cardNo": "77"
   },
   {
-    "id": "8201",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8201/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008201.png",
     "typeEnergy": "Fire",
     "type": "Pokemon",
@@ -1738,14 +1582,12 @@
         "effect": "将这只宝可梦与备战宝可梦互换。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-78-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_078_R_EN.png",
     "ename": "Rapidash",
     "series": "SV3.5",
     "cardNo": "78"
   },
   {
-    "id": "8202",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8202/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008202.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
@@ -1760,14 +1602,12 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-79-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_079_R_EN.png",
     "ename": "Slowpoke",
     "series": "SV3.5",
     "cardNo": "79"
   },
   {
-    "id": "8203",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8203/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008203.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
@@ -1782,14 +1622,12 @@
         "effect": "在这个回合，若进化成这只宝可梦，则这个招式失败。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-80-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_080_R_EN.png",
     "ename": "Slowbro",
     "series": "SV3.5",
     "cardNo": "80"
   },
   {
-    "id": "8204",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8204/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008204.png",
     "typeEnergy": "Lightning",
     "type": "Pokemon",
@@ -1804,14 +1642,12 @@
         "effect": "这只宝可梦也受到60点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-81-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_081_R_EN.png",
     "ename": "Magnemite",
     "series": "SV3.5",
     "cardNo": "81"
   },
   {
-    "id": "8205",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8205/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008205.png",
     "typeEnergy": "Lightning",
     "type": "Pokemon",
@@ -1826,14 +1662,12 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-82-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_082_R_EN.png",
     "ename": "Magneton",
     "series": "SV3.5",
     "cardNo": "82"
   },
   {
-    "id": "8206",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8206/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008206.png",
     "typeEnergy": "Colorless",
     "type": "Pokemon",
@@ -1848,14 +1682,12 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-83-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_083_R_EN.png",
     "ename": "Farfetch'd",
     "series": "SV3.5",
     "cardNo": "83"
   },
   {
-    "id": "8207",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8207/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008207.png",
     "typeEnergy": "Colorless",
     "type": "Pokemon",
@@ -1866,14 +1698,12 @@
         "effect": "这只宝可梦也受到10点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-84-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_084_R_EN.png",
     "ename": "Doduo",
     "series": "SV3.5",
     "cardNo": "84"
   },
   {
-    "id": "8208",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8208/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008208.png",
     "typeEnergy": "Colorless",
     "type": "Pokemon",
@@ -1888,14 +1718,12 @@
         "effect": "增加这只宝可梦身上放置的伤害指示物的数量×30点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-85-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_085_R_EN.png",
     "ename": "Dodrio",
     "series": "SV3.5",
     "cardNo": "85"
   },
   {
-    "id": "8209",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8209/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008209.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
@@ -1906,14 +1734,12 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-86-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_086_R_EN.png",
     "ename": "Seel",
     "series": "SV3.5",
     "cardNo": "86"
   },
   {
-    "id": "8210",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8210/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008210.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
@@ -1928,14 +1754,12 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-87-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_087_R_EN.png",
     "ename": "Dewgong",
     "series": "SV3.5",
     "cardNo": "87"
   },
   {
-    "id": "8211",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8211/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008211.png",
     "typeEnergy": "Darkness",
     "type": "Pokemon",
@@ -1946,14 +1770,12 @@
         "effect": "在下个对手的回合，受到这个招式的宝可梦【撤退】所需的能量增加1个。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-88-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_088_R_EN.png",
     "ename": "Grimer",
     "series": "SV3.5",
     "cardNo": "88"
   },
   {
-    "id": "8212",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8212/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008212.png",
     "typeEnergy": "Darkness",
     "type": "Pokemon",
@@ -1968,14 +1790,12 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-89-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_089_R_EN.png",
     "ename": "Muk",
     "series": "SV3.5",
     "cardNo": "89"
   },
   {
-    "id": "8213",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8213/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008213.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
@@ -1986,14 +1806,12 @@
         "effect": "在下个对手的回合，这只宝可梦受到招式的伤害「-30」点。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-90-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_090_R_EN.png",
     "ename": "Shellder",
     "series": "SV3.5",
     "cardNo": "90"
   },
   {
-    "id": "8214",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8214/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008214.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
@@ -2004,14 +1822,12 @@
         "effect": "在下个对手的回合，这只宝可梦受到招式的伤害「-80」点。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-91-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_091_R_EN.png",
     "ename": "Cloyster",
     "series": "SV3.5",
     "cardNo": "91"
   },
   {
-    "id": "8215",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8215/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008215.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
@@ -2022,14 +1838,12 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-92-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_092_R_EN.png",
     "ename": "Gastly",
     "series": "SV3.5",
     "cardNo": "92"
   },
   {
-    "id": "8216",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8216/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008216.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
@@ -2044,14 +1858,12 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-93-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_093_R_EN.png",
     "ename": "Haunter",
     "series": "SV3.5",
     "cardNo": "93"
   },
   {
-    "id": "8217",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8217/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008217.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
@@ -2066,14 +1878,12 @@
         "effect": "将3个伤害指示物以任意方式放置于对手的备战宝可梦身上。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-94-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_094_R_EN.png",
     "ename": "Gengar",
     "series": "SV3.5",
     "cardNo": "94"
   },
   {
-    "id": "8218",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8218/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008218.png",
     "typeEnergy": "Fighting",
     "type": "Pokemon",
@@ -2088,14 +1898,12 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-95-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_095_R_EN.png",
     "ename": "Onix",
     "series": "SV3.5",
     "cardNo": "95"
   },
   {
-    "id": "8219",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8219/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008219.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
@@ -2106,14 +1914,12 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-96-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_096_R_EN.png",
     "ename": "Drowzee",
     "series": "SV3.5",
     "cardNo": "96"
   },
   {
-    "id": "8220",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8220/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008220.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
@@ -2128,14 +1934,12 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-97-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_097_R_EN.png",
     "ename": "Hypno",
     "series": "SV3.5",
     "cardNo": "97"
   },
   {
-    "id": "8221",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8221/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008221.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
@@ -2150,14 +1954,12 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-98-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_098_R_EN.png",
     "ename": "Krabby",
     "series": "SV3.5",
     "cardNo": "98"
   },
   {
-    "id": "8222",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8222/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008222.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
@@ -2172,14 +1974,12 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-99-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_099_R_EN.png",
     "ename": "Kingler",
     "series": "SV3.5",
     "cardNo": "99"
   },
   {
-    "id": "8223",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8223/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008223.png",
     "typeEnergy": "Lightning",
     "type": "Pokemon",
@@ -2190,14 +1990,12 @@
         "effect": "掷1次硬币若为正面，则增加20点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-100-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_100_R_EN.png",
     "ename": "Voltorb",
     "series": "SV3.5",
     "cardNo": "100"
   },
   {
-    "id": "8224",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8224/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008224.png",
     "typeEnergy": "Lightning",
     "type": "Pokemon",
@@ -2212,14 +2010,12 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-101-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_101_R_EN.png",
     "ename": "Electrode",
     "series": "SV3.5",
     "cardNo": "101"
   },
   {
-    "id": "8225",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8225/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008225.png",
     "typeEnergy": "Grass",
     "type": "Pokemon",
@@ -2230,14 +2026,12 @@
         "effect": "掷硬币直到出现反面，造成正面出现的次数×30点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-102-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_102_R_EN.png",
     "ename": "Exeggcute",
     "series": "SV3.5",
     "cardNo": "102"
   },
   {
-    "id": "8226",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8226/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008226.png",
     "typeEnergy": "Grass",
     "type": "Pokemon",
@@ -2252,14 +2046,12 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-103-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_103_R_EN.png",
     "ename": "Exeggutor",
     "series": "SV3.5",
     "cardNo": "103"
   },
   {
-    "id": "8227",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8227/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008227.png",
     "typeEnergy": "Fighting",
     "type": "Pokemon",
@@ -2274,14 +2066,12 @@
         "effect": "掷2次硬币，造成正面出现的次数×10点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-104-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_104_R_EN.png",
     "ename": "Cubone",
     "series": "SV3.5",
     "cardNo": "104"
   },
   {
-    "id": "8228",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8228/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008228.png",
     "typeEnergy": "Fighting",
     "type": "Pokemon",
@@ -2296,14 +2086,12 @@
         "effect": "在下个自己的回合，这只宝可梦无法使用招式。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-105-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_105_R_EN.png",
     "ename": "Marowak",
     "series": "SV3.5",
     "cardNo": "105"
   },
   {
-    "id": "8229",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8229/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008229.png",
     "typeEnergy": "Fighting",
     "type": "Pokemon",
@@ -2318,14 +2106,12 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-106-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_106_R_EN.png",
     "ename": "Hitmonlee",
     "series": "SV3.5",
     "cardNo": "106"
   },
   {
-    "id": "8230",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8230/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008230.png",
     "typeEnergy": "Fighting",
     "type": "Pokemon",
@@ -2340,14 +2126,12 @@
         "effect": "在下个自己的回合，这只宝可梦「激动拳」的伤害「+60」点。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-107-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_107_R_EN.png",
     "ename": "Hitmonchan",
     "series": "SV3.5",
     "cardNo": "107"
   },
   {
-    "id": "8231",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8231/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008231.png",
     "typeEnergy": "Colorless",
     "type": "Pokemon",
@@ -2358,14 +2142,12 @@
         "effect": "在下个对手的回合，受到这个招式的宝可梦无法使用招式。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-108-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_108_R_EN.png",
     "ename": "Lickitung",
     "series": "SV3.5",
     "cardNo": "108"
   },
   {
-    "id": "8232",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8232/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008232.png",
     "typeEnergy": "Darkness",
     "type": "Pokemon",
@@ -2376,14 +2158,12 @@
         "effect": "将对手的战斗宝可梦【混乱】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-109-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_109_R_EN.png",
     "ename": "Koffing",
     "series": "SV3.5",
     "cardNo": "109"
   },
   {
-    "id": "8233",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8233/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008233.png",
     "typeEnergy": "Darkness",
     "type": "Pokemon",
@@ -2398,14 +2178,12 @@
         "effect": "对手的所有备战宝可梦也各受到10点伤害。[在备战区不计算弱点・抵抗力。]"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-110-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_110_R_EN.png",
     "ename": "Weezing",
     "series": "SV3.5",
     "cardNo": "110"
   },
   {
-    "id": "8234",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8234/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008234.png",
     "typeEnergy": "Fighting",
     "type": "Pokemon",
@@ -2420,14 +2198,12 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-111-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_111_R_EN.png",
     "ename": "Rhyhorn",
     "series": "SV3.5",
     "cardNo": "111"
   },
   {
-    "id": "8235",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8235/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008235.png",
     "typeEnergy": "Fighting",
     "type": "Pokemon",
@@ -2442,14 +2218,12 @@
         "effect": "在这个回合，若从手牌使出了「坂木的领导力」，则增加140点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-112-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_112_R_EN.png",
     "ename": "Rhydon",
     "series": "SV3.5",
     "cardNo": "112"
   },
   {
-    "id": "8236",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8236/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008236.png",
     "typeEnergy": "Colorless",
     "type": "Pokemon",
@@ -2464,14 +2238,12 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-113-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_113_R_EN.png",
     "ename": "Chansey",
     "series": "SV3.5",
     "cardNo": "113"
   },
   {
-    "id": "8237",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8237/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008237.png",
     "typeEnergy": "Grass",
     "type": "Pokemon",
@@ -2482,7 +2254,7 @@
         "effect": "在这个回合，若从手牌使出了「莉佳的招待」，则增加60点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-114-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_114_R_EN.png",
     "ename": "Tangela",
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-178-2x.jpg"
@@ -2491,8 +2263,6 @@
     "cardNo": "114"
   },
   {
-    "id": "8238",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8238/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008238.png",
     "typeEnergy": "Colorless",
     "type": "Pokemon",
@@ -2511,7 +2281,7 @@
         "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-115-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_115_R_EN.png",
     "ename": "Kangaskhan ex",
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-190-2x.jpg"
@@ -2520,8 +2290,6 @@
     "cardNo": "115"
   },
   {
-    "id": "8239",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8239/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008239.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
@@ -2536,14 +2304,12 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-116-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_116_R_EN.png",
     "ename": "Horsea",
     "series": "SV3.5",
     "cardNo": "116"
   },
   {
-    "id": "8240",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8240/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008240.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
@@ -2554,14 +2320,12 @@
         "effect": "在下个对手的回合，受到这个招式的宝可梦使用招式时，对手掷2次硬币。只要出现1次反面，则那个招式失败。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-117-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_117_R_EN.png",
     "ename": "Seadra",
     "series": "SV3.5",
     "cardNo": "117"
   },
   {
-    "id": "8241",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8241/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008241.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
@@ -2576,14 +2340,12 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-118-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_118_R_EN.png",
     "ename": "Goldeen",
     "series": "SV3.5",
     "cardNo": "118"
   },
   {
-    "id": "8242",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8242/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008242.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
@@ -2598,14 +2360,12 @@
         "effect": "增加这只宝可梦身上附加的【水】能量的数量×30点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-119-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_119_R_EN.png",
     "ename": "Seaking",
     "series": "SV3.5",
     "cardNo": "119"
   },
   {
-    "id": "8243",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8243/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008243.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
@@ -2616,14 +2376,12 @@
         "effect": "这个招式的伤害不计算弱点・抵抗力与对手的战斗宝可梦身上的附加效果。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-120-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_120_R_EN.png",
     "ename": "Staryu",
     "series": "SV3.5",
     "cardNo": "120"
   },
   {
-    "id": "8244",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8244/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008244.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
@@ -2638,14 +2396,12 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-121-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_121_R_EN.png",
     "ename": "Starmie",
     "series": "SV3.5",
     "cardNo": "121"
   },
   {
-    "id": "8245",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8245/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008245.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
@@ -2660,7 +2416,7 @@
         "effect": "将3个伤害指示物以任意方式放置于对手的宝可梦身上。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-122-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_122_R_EN.png",
     "ename": "Mr. Mime",
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-179-2x.jpg"
@@ -2669,8 +2425,6 @@
     "cardNo": "122"
   },
   {
-    "id": "8246",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8246/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008246.png",
     "typeEnergy": "Grass",
     "type": "Pokemon",
@@ -2685,14 +2439,12 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-123-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_123_R_EN.png",
     "ename": "Scyther",
     "series": "SV3.5",
     "cardNo": "123"
   },
   {
-    "id": "8247",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8247/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008247.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
@@ -2711,7 +2463,7 @@
         "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-124-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_124_R_EN.png",
     "ename": "Jynx ex",
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-191-2x.jpg"
@@ -2720,8 +2472,6 @@
     "cardNo": "124"
   },
   {
-    "id": "8248",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8248/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008248.png",
     "typeEnergy": "Lightning",
     "type": "Pokemon",
@@ -2736,14 +2486,12 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-125-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_125_R_EN.png",
     "ename": "Electabuzz",
     "series": "SV3.5",
     "cardNo": "125"
   },
   {
-    "id": "8249",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8249/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008249.png",
     "typeEnergy": "Fire",
     "type": "Pokemon",
@@ -2758,14 +2506,12 @@
         "effect": "若自己的备战区有「电击兽」，则增加80点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-126-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_126_R_EN.png",
     "ename": "Magmar",
     "series": "SV3.5",
     "cardNo": "126"
   },
   {
-    "id": "8250",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8250/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008250.png",
     "typeEnergy": "Grass",
     "type": "Pokemon",
@@ -2780,14 +2526,12 @@
         "effect": "若自己剩余奖赏卡的张数，比对手剩余奖赏卡的张数多，则增加90点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-127-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_127_R_EN.png",
     "ename": "Pinsir",
     "series": "SV3.5",
     "cardNo": "127"
   },
   {
-    "id": "8251",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8251/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008251.png",
     "typeEnergy": "Colorless",
     "type": "Pokemon",
@@ -2802,14 +2546,12 @@
         "effect": "增加这只宝可梦身上放置的伤害指示物的数量×10点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-128-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_128_R_EN.png",
     "ename": "Tauros",
     "series": "SV3.5",
     "cardNo": "128"
   },
   {
-    "id": "8252",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8252/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008252.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
@@ -2820,14 +2562,12 @@
         "effect": "掷硬币直到出现反面，从自己的牌库抽出与正面出现的次数相同数量的卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-129-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_129_R_EN.png",
     "ename": "Magikarp",
     "series": "SV3.5",
     "cardNo": "129"
   },
   {
-    "id": "8253",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8253/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008253.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
@@ -2842,14 +2582,12 @@
         "effect": "选择1个对手的战斗宝可梦身上附加的能量，将其丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-130-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_130_R_EN.png",
     "ename": "Gyarados",
     "series": "SV3.5",
     "cardNo": "130"
   },
   {
-    "id": "8254",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8254/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008254.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
@@ -2864,14 +2602,12 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-131-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_131_R_EN.png",
     "ename": "Lapras",
     "series": "SV3.5",
     "cardNo": "131"
   },
   {
-    "id": "8255",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8255/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008255.png",
     "typeEnergy": "Colorless",
     "type": "Pokemon",
@@ -2886,14 +2622,12 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-132-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_132_R_EN.png",
     "ename": "Ditto",
     "series": "SV3.5",
     "cardNo": "132"
   },
   {
-    "id": "8256",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8256/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008256.png",
     "typeEnergy": "Colorless",
     "type": "Pokemon",
@@ -2908,14 +2642,12 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-133-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_133_R_EN.png",
     "ename": "Eevee",
     "series": "SV3.5",
     "cardNo": "133"
   },
   {
-    "id": "8257",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8257/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008257.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
@@ -2930,14 +2662,12 @@
         "effect": "若对手的战斗宝可梦为「宝可梦【ex】・【V】」，则增加90点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-134-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_134_R_EN.png",
     "ename": "Vaporeon",
     "series": "SV3.5",
     "cardNo": "134"
   },
   {
-    "id": "8258",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8258/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008258.png",
     "typeEnergy": "Lightning",
     "type": "Pokemon",
@@ -2952,14 +2682,12 @@
         "effect": "若对手的战斗宝可梦为「宝可梦【ex】・【V】」，则增加90点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-135-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_135_R_EN.png",
     "ename": "Jolteon",
     "series": "SV3.5",
     "cardNo": "135"
   },
   {
-    "id": "8259",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8259/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008259.png",
     "typeEnergy": "Fire",
     "type": "Pokemon",
@@ -2974,14 +2702,12 @@
         "effect": "若对手的战斗宝可梦为「宝可梦【ex】・【V】」，则增加90点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-136-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_136_R_EN.png",
     "ename": "Flareon",
     "series": "SV3.5",
     "cardNo": "136"
   },
   {
-    "id": "8260",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8260/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008260.png",
     "typeEnergy": "Colorless",
     "type": "Pokemon",
@@ -2992,14 +2718,12 @@
         "effect": "从【草】【火】【水】【雷】【超】【斗】【恶】【钢】【龙】中选择1个属性。受到这个招式的宝可梦弱点改为所选的属性。这个效果在受到这个招式的宝可梦离开战斗场前一直持续。［弱点以「×2」计算伤害。］"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-137-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_137_R_EN.png",
     "ename": "Porygon",
     "series": "SV3.5",
     "cardNo": "137"
   },
   {
-    "id": "8261",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8261/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008261.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
@@ -3010,7 +2734,7 @@
         "effect": "选择1个对手的战斗宝可梦身上附加的能量，放回对手的手牌。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-138-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_138_R_EN.png",
     "ename": "Omanyte",
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-180-2x.jpg"
@@ -3019,8 +2743,6 @@
     "cardNo": "138"
   },
   {
-    "id": "8262",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8262/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008262.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
@@ -3035,14 +2757,12 @@
         "effect": "对手的2只备战宝可梦也各受到30点伤害。[在备战区不计算弱点・抵抗力。]"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-139-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_139_R_EN.png",
     "ename": "Omastar",
     "series": "SV3.5",
     "cardNo": "139"
   },
   {
-    "id": "8263",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8263/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008263.png",
     "typeEnergy": "Fighting",
     "type": "Pokemon",
@@ -3053,14 +2773,12 @@
         "effect": "掷2次硬币，造成正面出现的次数×70点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-140-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_140_R_EN.png",
     "ename": "Kabuto",
     "series": "SV3.5",
     "cardNo": "140"
   },
   {
-    "id": "8264",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8264/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008264.png",
     "typeEnergy": "Fighting",
     "type": "Pokemon",
@@ -3075,14 +2793,12 @@
         "effect": "将这只宝可梦恢复「30」HP。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-141-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_141_R_EN.png",
     "ename": "Kabutops",
     "series": "SV3.5",
     "cardNo": "141"
   },
   {
-    "id": "8265",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8265/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008265.png",
     "typeEnergy": "Colorless",
     "type": "Pokemon",
@@ -3097,14 +2813,12 @@
         "effect": "从对手的进化的战斗宝可梦身上，移除1张「进化卡」使其退化。将移除的卡放回对手的手牌。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-142-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_142_R_EN.png",
     "ename": "Aerodactyl",
     "series": "SV3.5",
     "cardNo": "142"
   },
   {
-    "id": "8266",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8266/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008266.png",
     "typeEnergy": "Colorless",
     "type": "Pokemon",
@@ -3119,14 +2833,12 @@
         "effect": "这只宝可梦也受到30点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-143-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_143_R_EN.png",
     "ename": "Snorlax",
     "series": "SV3.5",
     "cardNo": "143"
   },
   {
-    "id": "8267",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8267/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008267.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
@@ -3141,14 +2853,12 @@
         "effect": "对手的所有备战宝可梦也各受到10点伤害。[在备战区不计算弱点・抵抗力。]"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-144-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_144_R_EN.png",
     "ename": "Articuno",
     "series": "SV3.5",
     "cardNo": "144"
   },
   {
-    "id": "8268",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8268/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008268.png",
     "typeEnergy": "Lightning",
     "type": "Pokemon",
@@ -3167,7 +2877,7 @@
         "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-145-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_145_R_EN.png",
     "ename": "Zapdos ex",
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-192-2x.jpg",
@@ -3177,8 +2887,6 @@
     "cardNo": "145"
   },
   {
-    "id": "8269",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8269/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008269.png",
     "typeEnergy": "Fire",
     "type": "Pokemon",
@@ -3193,14 +2901,12 @@
         "effect": "将2个这只宝可梦身上附加的【火】能量丢弃，对手的1只备战宝可梦受到120点伤害。[在备战区不计算弱点・抵抗力。]"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-146-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_146_R_EN.png",
     "ename": "Moltres",
     "series": "SV3.5",
     "cardNo": "146"
   },
   {
-    "id": "8270",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8270/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008270.png",
     "typeEnergy": "Dragon",
     "type": "Pokemon",
@@ -3215,14 +2921,12 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-147-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_147_R_EN.png",
     "ename": "Dratini",
     "series": "SV3.5",
     "cardNo": "147"
   },
   {
-    "id": "8271",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8271/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008271.png",
     "typeEnergy": "Dragon",
     "type": "Pokemon",
@@ -3237,7 +2941,7 @@
         "effect": "在下个自己的回合，这只宝可梦无法使用招式。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-148-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_148_R_EN.png",
     "ename": "Dragonair",
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-181-2x.jpg"
@@ -3246,8 +2950,6 @@
     "cardNo": "148"
   },
   {
-    "id": "8272",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8272/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008272.png",
     "typeEnergy": "Dragon",
     "type": "Pokemon",
@@ -3262,14 +2964,12 @@
         "effect": "将自己的牌库上方2张卡丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-149-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_149_R_EN.png",
     "ename": "Dragonite",
     "series": "SV3.5",
     "cardNo": "149"
   },
   {
-    "id": "8273",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8273/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008273.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
@@ -3284,14 +2984,12 @@
         "effect": "选择2个这只宝可梦身上附加的能量，将其丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-150-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_150_R_EN.png",
     "ename": "Mewtwo",
     "series": "SV3.5",
     "cardNo": "150"
   },
   {
-    "id": "8274",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8274/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008274.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
@@ -3310,7 +3008,7 @@
         "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-151-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_151_R_EN.png",
     "ename": "Mew ex",
     "artList": [
       "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-193-2x.jpg",
@@ -3320,211 +3018,6 @@
     "cardNo": "151"
   },
   {
-    "id": "8288",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8288/",
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008288.png",
-    "type": "Trainers",
-    "cardName": "自行车道",
-    "skillList": [
-      {
-        "name": "",
-        "effect": "双方玩家在每个自己的回合时，可使用1次，若从自己的手牌将1张基本能量卡丢弃，则可从自己的牌库抽出1张卡。"
-      },
-      {
-        "name": "[宝可梦道具的规则]",
-        "effect": "在自己的回合时，可将1张竞技场卡放置于战斗场旁边。若其他竞技场卡被放置，则将这张卡丢弃。名称相同的竞技场卡无法放置于场上。"
-      }
-    ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-157-2x.jpg",
-    "ename": "Cycling Road",
-    "series": "SV3.5",
-    "cardNo": "157"
-  },
-  {
-    "id": "8287",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8287/",
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008287.png",
-    "type": "Trainers",
-    "cardName": "正辉的输送",
-    "skillList": [
-      {
-        "name": "",
-        "effect": "查看自己的牌库上方8张卡，从其中选择任意数量的宝可梦卡，在给对手看过后加入手牌。将剩余卡放回牌库并重洗。"
-      },
-      {
-        "name": "[宝可梦道具的规则]",
-        "effect": "在自己的回合时，支援者卡只可使用1张。"
-      }
-    ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-156-2x.jpg",
-    "ename": "Bill's Transfer",
-    "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-194-2x.jpg"
-    ],
-    "series": "SV3.5",
-    "cardNo": "156"
-  },
-  {
-    "id": "8286",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8286/",
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008286.png",
-    "type": "Trainers",
-    "cardName": "奈奈美的帮助",
-    "skillList": [
-      {
-        "name": "",
-        "effect": "从自己的牌库抽出2张卡。在看过所有反面朝上的自己的奖赏卡的正面后，回复原样。"
-      },
-      {
-        "name": "[宝可梦道具的规则]",
-        "effect": "在自己的回合时，支援者卡只可使用1张。"
-      }
-    ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-158-2x.jpg",
-    "ename": "Daisy's Help",
-    "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-195-2x.jpg"
-    ],
-    "series": "SV3.5",
-    "cardNo": "158"
-  },
-  {
-    "id": "8284",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8284/",
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008284.png",
-    "type": "Trainers",
-    "cardName": "莉佳的招待",
-    "skillList": [
-      {
-        "name": "",
-        "effect": "查看对手的手牌，从其中选择1张【基础】宝可梦卡，放置于对手的备战区。然后，将那只宝可梦与战斗宝可梦互换。"
-      },
-      {
-        "name": "[宝可梦道具的规则]",
-        "effect": "在自己的回合时，支援者卡只可使用1张。"
-      }
-    ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-160-2x.jpg",
-    "ename": "Erika's Invitation",
-    "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-196-2x.jpg",
-      "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-203-2x.jpg"
-    ],
-    "series": "SV3.5",
-    "cardNo": "160"
-  },
-  {
-    "id": "8285",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8285/",
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008285.png",
-    "type": "Trainers",
-    "cardName": "坂木的领导力",
-    "skillList": [
-      {
-        "name": "",
-        "effect": "选择1个对手的战斗宝可梦身上附加的能量，放回对手的手牌。然后，从自己的手牌选择1张能量卡，附于战斗宝可梦身上。"
-      },
-      {
-        "name": "[宝可梦道具的规则]",
-        "effect": "在自己的回合时，支援者卡只可使用1张。"
-      }
-    ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-161-2x.jpg",
-    "ename": "Giovanni's Charisma",
-    "artList": [
-      "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-197-2x.jpg",
-      "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-204-2x.jpg"
-    ],
-    "series": "SV3.5",
-    "cardNo": "161"
-  },
-  {
-    "id": "8281",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8281/",
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008281.png",
-    "type": "Trainers",
-    "cardName": "大气球",
-    "skillList": [
-      {
-        "name": "",
-        "effect": "附有这张卡的【2阶进化】宝可梦【撤退】所需的能量全部消除。"
-      },
-      {
-        "name": "[宝可梦道具的规则]",
-        "effect": "在自己的回合时，可将不限张数的宝可梦道具卡附于自己的宝可梦身上。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
-      }
-    ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-155-2x.jpg",
-    "ename": "Big Air Balloon",
-    "series": "SV3.5",
-    "cardNo": "155"
-  },
-  {
-    "id": "8283",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8283/",
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008283.png",
-    "type": "Trainers",
-    "cardName": "吃剩的东西",
-    "skillList": [
-      {
-        "name": "",
-        "effect": "在自己的回合结束时，将附有这张卡的战斗宝可梦恢复「20」HP。"
-      },
-      {
-        "name": "[宝可梦道具的规则]",
-        "effect": "在自己的回合时，可将不限张数的宝可梦道具卡附于自己的宝可梦身上。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
-      }
-    ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-163-2x.jpg",
-    "ename": "Leftovers",
-    "series": "SV3.5",
-    "cardNo": "163"
-  },
-  {
-    "id": "8280",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8280/",
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008280.png",
-    "type": "Trainers",
-    "cardName": "安全护目镜",
-    "skillList": [
-      {
-        "name": "",
-        "effect": "附有这张卡的【基础】宝可梦的弱点全部消除。"
-      },
-      {
-        "name": "[宝可梦道具的规则]",
-        "effect": "在自己的回合时，可将不限张数的宝可梦道具卡附于自己的宝可梦身上。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
-      }
-    ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-164-2x.jpg",
-    "ename": "Protective Goggles",
-    "series": "SV3.5",
-    "cardNo": "164"
-  },
-  {
-    "id": "8282",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8282/",
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008282.png",
-    "type": "Trainers",
-    "cardName": "硬硬束带",
-    "skillList": [
-      {
-        "name": "",
-        "effect": "附有这张卡的【1阶进化】宝可梦，受到对手的宝可梦招式的伤害「-30」点。"
-      },
-      {
-        "name": "[宝可梦道具的规则]",
-        "effect": "在自己的回合时，可将不限张数的宝可梦道具卡附于自己的宝可梦身上。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
-      }
-    ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-165-2x.jpg",
-    "ename": "Rigid Band",
-    "series": "SV3.5",
-    "cardNo": "165"
-  },
-  {
-    "id": "8278",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8278/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008278.png",
     "type": "Trainers",
     "cardName": "陈旧的甲壳化石",
@@ -3546,14 +3039,12 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-152-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_152_R_EN.png",
     "ename": "Antique Dome Fossil",
     "series": "SV3.5",
     "cardNo": "152"
   },
   {
-    "id": "8277",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8277/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008277.png",
     "type": "Trainers",
     "cardName": "陈旧的贝壳化石",
@@ -3575,14 +3066,12 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-153-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_153_R_EN.png",
     "ename": "Antique Helix Fossil",
     "series": "SV3.5",
     "cardNo": "153"
   },
   {
-    "id": "8279",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8279/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008279.png",
     "type": "Trainers",
     "cardName": "陈旧的秘密琥珀",
@@ -3604,14 +3093,94 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-154-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_154_R_EN.png",
     "ename": "Antique Old Amber",
     "series": "SV3.5",
     "cardNo": "154"
   },
   {
-    "id": "8275",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8275/",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008281.png",
+    "type": "Trainers",
+    "cardName": "大气球",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "附有这张卡的【2阶进化】宝可梦【撤退】所需的能量全部消除。"
+      },
+      {
+        "name": "[宝可梦道具的规则]",
+        "effect": "在自己的回合时，可将不限张数的宝可梦道具卡附于自己的宝可梦身上。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
+      }
+    ],
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_155_R_EN.png",
+    "ename": "Big Air Balloon",
+    "series": "SV3.5",
+    "cardNo": "155"
+  },
+  {
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008287.png",
+    "type": "Trainers",
+    "cardName": "正辉的输送",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "查看自己的牌库上方8张卡，从其中选择任意数量的宝可梦卡，在给对手看过后加入手牌。将剩余卡放回牌库并重洗。"
+      },
+      {
+        "name": "[宝可梦道具的规则]",
+        "effect": "在自己的回合时，支援者卡只可使用1张。"
+      }
+    ],
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_156_R_EN.png",
+    "ename": "Bill's Transfer",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-194-2x.jpg"
+    ],
+    "series": "SV3.5",
+    "cardNo": "156"
+  },
+  {
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008288.png",
+    "type": "Trainers",
+    "cardName": "自行车道",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "双方玩家在每个自己的回合时，可使用1次，若从自己的手牌将1张基本能量卡丢弃，则可从自己的牌库抽出1张卡。"
+      },
+      {
+        "name": "[宝可梦道具的规则]",
+        "effect": "在自己的回合时，可将1张竞技场卡放置于战斗场旁边。若其他竞技场卡被放置，则将这张卡丢弃。名称相同的竞技场卡无法放置于场上。"
+      }
+    ],
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_157_R_EN.png",
+    "ename": "Cycling Road",
+    "series": "SV3.5",
+    "cardNo": "157"
+  },
+  {
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008286.png",
+    "type": "Trainers",
+    "cardName": "奈奈美的帮助",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "从自己的牌库抽出2张卡。在看过所有反面朝上的自己的奖赏卡的正面后，回复原样。"
+      },
+      {
+        "name": "[宝可梦道具的规则]",
+        "effect": "在自己的回合时，支援者卡只可使用1张。"
+      }
+    ],
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_158_R_EN.png",
+    "ename": "Daisy's Help",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-195-2x.jpg"
+    ],
+    "series": "SV3.5",
+    "cardNo": "158"
+  },
+  {
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008275.png",
     "type": "Trainers",
     "cardName": "能量贴纸",
@@ -3625,14 +3194,58 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-159-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_159_R_EN.png",
     "ename": "Energy Sticker",
     "series": "SV3.5",
     "cardNo": "159"
   },
   {
-    "id": "8276",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/8276/",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008284.png",
+    "type": "Trainers",
+    "cardName": "莉佳的招待",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "查看对手的手牌，从其中选择1张【基础】宝可梦卡，放置于对手的备战区。然后，将那只宝可梦与战斗宝可梦互换。"
+      },
+      {
+        "name": "[宝可梦道具的规则]",
+        "effect": "在自己的回合时，支援者卡只可使用1张。"
+      }
+    ],
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_160_R_EN.png",
+    "ename": "Erika's Invitation",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-196-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-203-2x.jpg"
+    ],
+    "series": "SV3.5",
+    "cardNo": "160"
+  },
+  {
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008285.png",
+    "type": "Trainers",
+    "cardName": "坂木的领导力",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "选择1个对手的战斗宝可梦身上附加的能量，放回对手的手牌。然后，从自己的手牌选择1张能量卡，附于战斗宝可梦身上。"
+      },
+      {
+        "name": "[宝可梦道具的规则]",
+        "effect": "在自己的回合时，支援者卡只可使用1张。"
+      }
+    ],
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_161_R_EN.png",
+    "ename": "Giovanni's Charisma",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-197-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-204-2x.jpg"
+    ],
+    "series": "SV3.5",
+    "cardNo": "161"
+  },
+  {
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008276.png",
     "type": "Trainers",
     "cardName": "抓换臂",
@@ -3646,10 +3259,67 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-162-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_162_R_EN.png",
     "ename": "Grabber",
     "series": "SV3.5",
     "cardNo": "162"
+  },
+  {
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008283.png",
+    "type": "Trainers",
+    "cardName": "吃剩的东西",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "在自己的回合结束时，将附有这张卡的战斗宝可梦恢复「20」HP。"
+      },
+      {
+        "name": "[宝可梦道具的规则]",
+        "effect": "在自己的回合时，可将不限张数的宝可梦道具卡附于自己的宝可梦身上。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
+      }
+    ],
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_163_R_EN.png",
+    "ename": "Leftovers",
+    "series": "SV3.5",
+    "cardNo": "163"
+  },
+  {
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008280.png",
+    "type": "Trainers",
+    "cardName": "安全护目镜",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "附有这张卡的【基础】宝可梦的弱点全部消除。"
+      },
+      {
+        "name": "[宝可梦道具的规则]",
+        "effect": "在自己的回合时，可将不限张数的宝可梦道具卡附于自己的宝可梦身上。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
+      }
+    ],
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_164_R_EN.png",
+    "ename": "Protective Goggles",
+    "series": "SV3.5",
+    "cardNo": "164"
+  },
+  {
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008282.png",
+    "type": "Trainers",
+    "cardName": "硬硬束带",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "附有这张卡的【1阶进化】宝可梦，受到对手的宝可梦招式的伤害「-30」点。"
+      },
+      {
+        "name": "[宝可梦道具的规则]",
+        "effect": "在自己的回合时，可将不限张数的宝可梦道具卡附于自己的宝可梦身上。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
+      }
+    ],
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_165_R_EN.png",
+    "ename": "Rigid Band",
+    "series": "SV3.5",
+    "cardNo": "165"
   },
   {
     "imgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-166-2x.jpg",
@@ -3662,7 +3332,7 @@
         "effect": "将这只宝可梦恢复「20」HP。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-166-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_166_R_EN.png",
     "ename": "Bulbasaur",
     "series": "SV3.5",
     "cardNo": "166",
@@ -3683,7 +3353,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-167-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_167_R_EN.png",
     "ename": "Ivysaur",
     "series": "SV3.5",
     "cardNo": "167",
@@ -3704,7 +3374,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-168-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_168_R_EN.png",
     "ename": "Charmander",
     "series": "SV3.5",
     "cardNo": "168",
@@ -3725,7 +3395,7 @@
         "effect": "选择1个这只宝可梦身上附加的能量，将其丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-169-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_169_R_EN.png",
     "ename": "Charmeleon",
     "series": "SV3.5",
     "cardNo": "169",
@@ -3746,7 +3416,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-170-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_170_R_EN.png",
     "ename": "Squirtle",
     "series": "SV3.5",
     "cardNo": "170",
@@ -3767,7 +3437,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-171-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_171_R_EN.png",
     "ename": "Wartortle",
     "series": "SV3.5",
     "cardNo": "171",
@@ -3784,7 +3454,7 @@
         "effect": "若对手的战斗宝可梦为【草】宝可梦，则增加30点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-172-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_172_R_EN.png",
     "ename": "Caterpie",
     "series": "SV3.5",
     "cardNo": "172",
@@ -3805,7 +3475,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-173-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_173_R_EN.png",
     "ename": "Pikachu",
     "series": "SV3.5",
     "cardNo": "173",
@@ -3826,7 +3496,7 @@
         "effect": "将对手的战斗宝可梦【中毒】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-174-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_174_R_EN.png",
     "ename": "Nidoking",
     "series": "SV3.5",
     "cardNo": "174",
@@ -3847,7 +3517,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-175-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_175_R_EN.png",
     "ename": "Psyduck",
     "series": "SV3.5",
     "cardNo": "175",
@@ -3868,7 +3538,7 @@
         "effect": "掷1次硬币若为正面，则增加60点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-176-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_176_R_EN.png",
     "ename": "Poliwhirl",
     "series": "SV3.5",
     "cardNo": "176",
@@ -3885,7 +3555,7 @@
         "effect": "将对手的牌库上方1张卡丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-177-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_177_R_EN.png",
     "ename": "Machoke",
     "series": "SV3.5",
     "cardNo": "177",
@@ -3902,7 +3572,7 @@
         "effect": "在这个回合，若从手牌使出了「莉佳的招待」，则增加60点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-178-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_178_R_EN.png",
     "ename": "Tangela",
     "series": "SV3.5",
     "cardNo": "178",
@@ -3923,7 +3593,7 @@
         "effect": "将3个伤害指示物以任意方式放置于对手的宝可梦身上。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-179-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_179_R_EN.png",
     "ename": "Mr. Mime",
     "series": "SV3.5",
     "cardNo": "179",
@@ -3940,7 +3610,7 @@
         "effect": "选择1个对手的战斗宝可梦身上附加的能量，放回对手的手牌。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-180-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_180_R_EN.png",
     "ename": "Omanyte",
     "series": "SV3.5",
     "cardNo": "180",
@@ -3961,7 +3631,7 @@
         "effect": "在下个自己的回合，这只宝可梦无法使用招式。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-181-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_181_R_EN.png",
     "ename": "Dragonair",
     "series": "SV3.5",
     "cardNo": "181",
@@ -3986,7 +3656,7 @@
         "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-182-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_182_R_EN.png",
     "ename": "Venusaur ex",
     "series": "SV3.5",
     "cardNo": "182",
@@ -4011,7 +3681,7 @@
         "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-183-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_183_R_EN.png",
     "ename": "Charizard ex",
     "series": "SV3.5",
     "cardNo": "183",
@@ -4036,7 +3706,7 @@
         "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-184-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_184_R_EN.png",
     "ename": "Blastoise ex",
     "series": "SV3.5",
     "cardNo": "184",
@@ -4061,7 +3731,7 @@
         "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-185-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_185_R_EN.png",
     "ename": "Arbok ex",
     "series": "SV3.5",
     "cardNo": "185",
@@ -4086,7 +3756,7 @@
         "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-186-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_186_R_EN.png",
     "ename": "Ninetales ex",
     "series": "SV3.5",
     "cardNo": "186",
@@ -4111,7 +3781,7 @@
         "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-187-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_187_R_EN.png",
     "ename": "Wigglytuff ex",
     "series": "SV3.5",
     "cardNo": "187",
@@ -4136,7 +3806,7 @@
         "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-188-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_188_R_EN.png",
     "ename": "Alakazam ex",
     "series": "SV3.5",
     "cardNo": "188",
@@ -4161,7 +3831,7 @@
         "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-189-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_189_R_EN.png",
     "ename": "Golem ex",
     "series": "SV3.5",
     "cardNo": "189",
@@ -4186,7 +3856,7 @@
         "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-190-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_190_R_EN.png",
     "ename": "Kangaskhan ex",
     "series": "SV3.5",
     "cardNo": "190",
@@ -4211,7 +3881,7 @@
         "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-191-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_191_R_EN.png",
     "ename": "Jynx ex",
     "series": "SV3.5",
     "cardNo": "191",
@@ -4236,7 +3906,7 @@
         "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-192-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_192_R_EN.png",
     "ename": "Zapdos ex",
     "series": "SV3.5",
     "cardNo": "192",
@@ -4261,7 +3931,7 @@
         "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-193-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_193_R_EN.png",
     "ename": "Mew ex",
     "series": "SV3.5",
     "cardNo": "193",
@@ -4281,7 +3951,7 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-194-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_194_R_EN.png",
     "ename": "Bill's Transfer",
     "series": "SV3.5",
     "cardNo": "194",
@@ -4301,7 +3971,7 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-195-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_195_R_EN.png",
     "ename": "Daisy's Help",
     "series": "SV3.5",
     "cardNo": "195",
@@ -4321,7 +3991,7 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-196-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_196_R_EN.png",
     "ename": "Erika's Invitation",
     "series": "SV3.5",
     "cardNo": "196",
@@ -4341,7 +4011,7 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-197-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_197_R_EN.png",
     "ename": "Giovanni's Charisma",
     "series": "SV3.5",
     "cardNo": "197",
@@ -4366,7 +4036,7 @@
         "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-198-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_198_R_EN.png",
     "ename": "Venusaur ex",
     "series": "SV3.5",
     "cardNo": "198",
@@ -4391,7 +4061,7 @@
         "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-199-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_199_R_EN.png",
     "ename": "Charizard ex",
     "series": "SV3.5",
     "cardNo": "199",
@@ -4416,7 +4086,7 @@
         "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-200-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_200_R_EN.png",
     "ename": "Blastoise ex",
     "series": "SV3.5",
     "cardNo": "200",
@@ -4441,7 +4111,7 @@
         "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-201-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_201_R_EN.png",
     "ename": "Alakazam ex",
     "series": "SV3.5",
     "cardNo": "201",
@@ -4466,7 +4136,7 @@
         "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-202-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_202_R_EN.png",
     "ename": "Zapdos ex",
     "series": "SV3.5",
     "cardNo": "202",
@@ -4486,7 +4156,7 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-203-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_203_R_EN.png",
     "ename": "Erika's Invitation",
     "series": "SV3.5",
     "cardNo": "203",
@@ -4506,7 +4176,7 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-204-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_204_R_EN.png",
     "ename": "Giovanni's Charisma",
     "series": "SV3.5",
     "cardNo": "204",
@@ -4531,7 +4201,7 @@
         "effect": "宝可梦【ex】【昏厥】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-205-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_205_R_EN.png",
     "ename": "Mew ex",
     "series": "SV3.5",
     "cardNo": "205",
@@ -4551,7 +4221,7 @@
       }
     ],
     "type": "Trainers",
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/sv-expansions/151/cards/en-us/sv03pt5-en-206-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_206_R_EN.png",
     "ename": "Switch",
     "series": "SV3.5",
     "cardNo": "206",

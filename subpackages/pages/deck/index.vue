@@ -7,9 +7,15 @@
 		</div>
 		<div class="tips">导入退环境卡或卡组编号查不到会导致缺失(点击可搜索)</div>
 		<div class="undeck" v-if="noCardList != ''">
-			<div>未导入:</div>	
+			<div>未导入: </div>	
 			<div>
-				<div class="lk" v-for="item in noCardList" @click="goSearch(item)">{{ item }}</div>
+				<div class="lk" v-for="(item, index) in noCardList" :key="index" @click="goSearch(item)">{{ item }}</div>
+			</div>	
+		</div>
+		<div class="undeck" v-if="missCardList != null && missCardList.length > 0">
+			<div>未收录: </div>	
+			<div>
+				<div class="nk" v-for="(item, index) in missCardList" :key="index">{{ item.ename }}({{ item.series }})</div>
 			</div>	
 		</div>
 	</div>
@@ -34,11 +40,12 @@
 		</div>
 		<div class="bn" @click="copy">复制代码</div>
 	</div>
+	<copyRight></copyRight>
 	<div class="popups" v-if="isShowCard">
 		<div class="p-showcard" :class="{'animate__zoomIn': isShowCard}">
 			<div class="cardShow" :class="{tc: !showCardDet.artList}">
 				<image :src="showCardDet.showImg" mode="scaleToFill" class="img"></image>
-				<div class="artList" v-if="showCardDet.enImgUrl">
+				<div class="artList" v-if="showCardDet.enImgUrl && !showCardDet.isHide">
 					<image :src="showCardDet.imgUrl" lazy-load mode="widthFix" class="img" @click="changeArt(showCardDet.imgUrl)"></image>
 					<image :src="showCardDet.enImgUrl" lazy-load mode="widthFix" class="img" @click="changeArt(showCardDet.enImgUrl)" v-if="showCardDet.isHide != true"></image>
 					<template v-for="(img, index) in showCardDet.artList" :key="index">
@@ -76,16 +83,16 @@
 </template>
 
 <script setup>
+	import seriesList from '../../../pages/index/js/seriesList.js'
+	import { baseEList, returnEnergyData } from '../../../pages/index/js/baseEList.js'
 	import emptyList from '../../../components/emptyList/index.vue'
-	import fixData from './js/fixData'
+	import copyRight from '../../../components/copyright/index.vue'
+	import { fixCard, typeIndex } from './js/fixData'
 	import { ref } from 'vue'
   import { onLoad } from '@dcloudio/uni-app'
 	import _ from 'lodash'
 
-	// const seriesCodeList = [{code: 'MEW', name: 'SV3_5'}, {code: 'OBF', name: 'SV3'}, {code: 'PAL', name: 'SV2'}, {code: 'SVI', name: 'SV1'}, {code: 'CRZ', name: 'SS12_5'}, {code: 'SIT', name: 'SS12'}, {code: 'LOR', name: 'SS11'}, {code: 'PGO', name: 'SS10_5'}, {code: 'ASR', name: 'SS10'}, {code: 'BRS', name: 'SS9'}, {code: 'FST', name: 'SS8'}, {code: 'CEL', name: 'SS7_5'}, {code: 'EVS', name: 'SS7'}, {code: 'CRE', name: 'SS6'}, {code: 'BST', name: 'SS5'}];
-	const seriesCodeList = {'MEW': 'SV3_5', 'OBF': 'SV3', 'PAL': 'SV2', 'SVI': 'SV1', 'CRZ': 'SS12_5', 'SIT': 'SS12', 'LOR': 'SS11', 'PGO': 'SS10_5', 'ASR': 'SS10', 'BRS': 'SS9', 'FST': 'SS8', 'CEL': 'SS7_5', 'EVS': 'SS7', 'CRE': 'SS6', 'BST': 'SS5'};
-	const seriesList = ['SV3_5', 'SV3', 'SV2', 'SV1', 'SS12_5', 'SS12', 'SS11', 'SS10_5', 'SS10', 'SS9', 'SS8', 'SS7_5', 'SS7', 'SS6', 'SS5'];
-	const baseEList = ['Grass Energy', 'Fire Energy', 'Water Energy', 'Lightning Energy', 'Psychic Energy', 'Fighting Energy', 'Darkness Energy', 'Metal Energy']
+	const seriesCodeList = {'PAR': 'SV4', 'MEW': 'SV3_5', 'OBF': 'SV3', 'PAL': 'SV2', 'SVI': 'SV1', 'CRZ': 'SS12_5', 'SIT': 'SS12', 'LOR': 'SS11', 'PGO': 'SS10_5', 'ASR': 'SS10', 'BRS': 'SS9', 'FST': 'SS8', 'CEL': 'SS7_5', 'EVS': 'SS7', 'CRE': 'SS6', 'BST': 'SS5'};
 	let resetData = [];
 	let forLength = 0;
 	let baseCardData = [];
@@ -94,6 +101,7 @@
 	let isShowCard = ref(false);
 	let showCardDet = ref(null);
 	let noCardList = ref(null);
+	let missCardList = ref(null);
 	let copyDeck = ref(null);
 	let copyDeckLength = ref(null)
 	
@@ -147,16 +155,14 @@
 		});
 		let list = [];
 		let sortBySeries = {};
-		let missList = [];
-		// console.log(data);
+		missCardList.value = [];
+		// console.log(1, data, missCardList.value);
 		for(let item of data){
 			let n = item.replace(/(^\d{1,2} )|( \d{1,3}$)/g, '');
 			if(!baseEList.includes(n)){
 				let indexof = n.lastIndexOf(' ');
-				baseCardData.push(n.substring(0, indexof));
 			}
-			// console.log(baseCardData)
-			// console.log(item)
+			// console.log(item, baseCardData)
 			let rItem = null;
 			let count = null;
 			let ename = null;
@@ -180,10 +186,9 @@
 				// 主流卡编号修复
 				// if(m[3] == 'PR-SW'){
 				if(!seriesCodeList[m[3]]){
-					// console.log(m[3])
-					if(fixData[ename]){
-						series = fixData[ename].series;
-						cardNo = fixData[ename].cardNo;
+					if(fixCard[ename]){
+						series = fixCard[ename].series;
+						cardNo = fixCard[ename].cardNo;
 					}else{
 						series = m[3];
 						cardNo = m[4];
@@ -196,8 +201,13 @@
 			}
 			if(/-/.test(series)){
 				let _d = series.split('-');
-				cardNo = `${_d[1]} ${cardNo}`;
-				series = _d[0]
+				if(_d[0] != 'PR'){
+					cardNo = `${_d[1]} ${cardNo}`;
+					series = _d[0]
+				}else{
+					cardNo = `${cardNo}`;
+					series = series
+				}
 			}
 			sNo = seriesCodeList[series];
 			if(sNo){
@@ -206,11 +216,12 @@
 					// forLength += 1
 				}
 				rItem = {count, ename, series, sNo, cardNo};
+				// console.log(rItem)
 				sortBySeries[sNo].push(rItem)
 				list.push(rItem);
 			}else{
 				// console.log(series)
-				// missList.push({count, ename, series, sNo, cardNo})
+				missCardList.value.push({count, ename, series, sNo, cardNo})
 			}
 		}
 		// console.log(_.isEmpty(sortBySeries), sortBySeries, Object.keys(sortBySeries))
@@ -228,9 +239,11 @@
 	const returnDet = (data) => {
 		let obj = data;
 		for(let serItem of seriesList){
+			// console.log(serItem)
 			if(obj[serItem]?.length > 0){
 				// console.log(obj[serItem])
 				switch(serItem) {
+					case 'SV4': import('../seriesDet/json/SV4.json').then((res) => {loadData(res.default, obj[serItem], serItem)}); break;
 					case 'SV3_5': import('../seriesDet/json/SV3_5.json').then((res) => {loadData(res.default, obj[serItem], serItem)}); break;
 					case 'SV3': import('../seriesDet/json/SV3.json').then((res) => {loadData(res.default, obj[serItem], serItem)}); break;
 					case 'SV2': import('../seriesDet/json/SV2.json').then((res) => {loadData(res.default, obj[serItem], serItem)}); break;
@@ -258,27 +271,12 @@
 			let ename = null;
 			o.ename = o.ename.replace(/ \(.+\)/, '');
 			ename = o.ename;
-			if(`${o.cardNo}`.indexOf('|') > 0){
-				noList = o.cardNo.split('|')
-			}
 			for(let _d of data){
-				if(noList.length > 0){
-					if(noList.includes(_d.cardNo) && _d.ename.replace('’', '\'') == ename){
-						let index = noList.findIndex(x => {
-							return x == _d.cardNo
-						})
-						let od = JSON.parse(JSON.stringify(o));
-						od.count = _d.count;
-						od.artIndex = index == 0 ? -1 : index - 1;
-						result.push(od)
-					}
-				}else{
-					if(_d.cardNo == o.cardNo && _d.ename.replace('’', '\'') == ename){
-						let od = JSON.parse(JSON.stringify(o));
-						od.count = _d.count;
-						od.artIndex = -1;
-						result.push(od)
-					}
+				if(_d.cardNo == o.cardNo && _d.ename.replace('’', '\'').toLowerCase() == ename.toLowerCase()){
+					let od = JSON.parse(JSON.stringify(o));
+					od.count = _d.count;
+					od.artIndex = -1;
+					result.push(od)
 				}
 			}
 		}
@@ -287,16 +285,19 @@
 		forLength -= 1;
 		if(forLength <= 0){
 			let nowData = resetData.map(item => {
-				return item.ename
+				return item.ename.toLowerCase()
 			})
 			let diff = _.difference(baseCardData, nowData);
 			// console.log(fullCardData, baseCardData, nowData, diff);
+			// console.log(baseCardData, nowData, diff);
 			noCardList.value = diff.length > 0 ? diff : '';
 			// 排序
 			let arr = {p: [], t: [], e: []};
+			var pmList = [[], [], [], [], [], [], [], [], [], [], []];
 			for(let item of resetData){
 				if(item.type == 'Pokemon'){
-					arr.p.push(item)
+					let _index = typeIndex[`${item.typeEnergy}`].index;
+					pmList[_index].push(item)
 				}
 				if(item.type == 'Trainers'){
 					arr.t.push(item)
@@ -305,9 +306,7 @@
 					arr.e.push(item)
 				}
 			}
-			arr.p = _.sortBy(arr.p, item => {
-				return item.typeEnergy
-			})
+			arr.p = pmList.flat();
 			arr.t = _.sortBy(arr.t, item => {
 				return item.skillList[item.skillList.length - 1].name
 			})
@@ -315,7 +314,7 @@
 			resultList.value = resetData;
 		}else{
 			let nowData = resetData.map(item => {
-				return item.ename
+				return item.ename.toLowerCase()
 			})
 			let diff = _.difference(baseCardData, nowData);
 			// console.log(baseCardData, nowData, diff);
@@ -323,53 +322,8 @@
 		}
 	}
 
-	const returnEnergyData = (ename, count) => {
-		let obj = {
-			"Grass Energy": {
-				"name": "草",
-				"img": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVO/EVO_091_R_EN.png"
-			},
-			"Fire Energy": {
-				"name": "火",
-				"img": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVO/EVO_092_R_EN.png"
-			},
-			"Water Energy": {
-				"name": "水",
-				"img": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVO/EVO_093_R_EN.png"
-			},
-			"Lightning Energy": {
-				"name": "雷",
-				"img": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVO/EVO_094_R_EN.png"
-			},
-			"Psychic Energy": {
-				"name": "超",
-				"img": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVO/EVO_095_R_EN.png"
-			},
-			"Fighting Energy": {
-				"name": "斗",
-				"img": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVO/EVO_096_R_EN.png"
-			},
-			"Darkness Energy": {
-				"name": "恶",
-				"img": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVO/EVO_097_R_EN.png"
-			},
-			"Metal Energy": {
-				"name": "钢",
-				"img": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVO/EVO_098_R_EN.png"
-			}
-		}
-		let _data = obj[ename];
-		return {
-			"imgUrl": _data.img,
-			"cardName": _data.name + "能量",
-			"type": "Energy",
-			"enImgUrl": _data.img,
-			"ename": ename,
-			"count": count
-		}
-	}
-
 	const showDet = (item) => {
+		if(item.type == 'Energy' && !item.skillList) return;
 		item.skillRule = item.skillList.filter(v => {
 			return /太晶/g.test(v.name) || /规则/g.test(v.name)
 		})
@@ -448,6 +402,10 @@
 			.lk{
 				margin: 0 0 0 10rpx;
 				text-decoration: underline;
+				display: inline-flex;
+			}
+			.nk{
+				margin: 0 0 0 10rpx;
 				display: inline-flex;
 			}
 		}
@@ -585,7 +543,7 @@
 		position: absolute;
 		top: 0;
 		left: 0;
-		padding: 5% 5% 20rpx;
+		padding: 5%;
 		width: 100%;
 		height: 100%;
 		animation-duration: .4s;

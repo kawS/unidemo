@@ -5,7 +5,7 @@
 			<div>{{ serName }} - {{ sno }} - {{ scode }}</div>
 			<div>共{{ detList.length }}张</div>
 		</div>
-		<div class="tabs" v-if="returnShowFilterDom(sno)">
+		<div class="tabs">
 			<div class="tn xs" @click="showFilter">过滤</div>
 			<div class="tn" :class="{on: classType == 'All'}" @click="changeTabs('All')">全部</div>
 			<div class="tn" :class="{on: classType == 'Pokemon'}" @click="changeTabs('Pokemon')">宝可梦卡</div>
@@ -23,7 +23,7 @@
 					<!-- <image :src="item.enImgUrl" lazy-load mode="heightFix" class="img"></image> -->
 					<div class="series">{{ item.series }}{{ item?.artList?.length > 0 ? `|${item.artList.length}` : '' }}</div>
 				</div>
-				<!-- <div>{{ item.cardName }} - {{ item.cardNo }}</div> -->
+				<!-- <div>No.{{ item.cardNo }}</div> -->
 				<div>{{ item.cardName }}</div>
 				<div>{{ item.ename }}</div>
 				<!-- {{ item.id }} -->
@@ -31,6 +31,7 @@
 		</template>
 	</div>
 	<emptyList v-if="!isLoading && detList.length == 0"></emptyList>
+	<copyRight></copyRight>
 	<div class="popups" v-show="isShowFilter">
 		<div class="p-filter">
 			<div class="tclass" v-show="classType == 'All' || classType == 'Pokemon'">
@@ -63,7 +64,7 @@
 				<div class="artList" v-if="showCardDet.enImgUrl && !showCardDet.isHide">
 					<image :src="showCardDet.imgUrl" lazy-load mode="widthFix" class="img" @click="changeArt(showCardDet.imgUrl)"></image>
 					<image :src="showCardDet.enImgUrl" lazy-load mode="widthFix" class="img" @click="changeArt(showCardDet.enImgUrl)" v-if="showCardDet.isHide != true"></image>
-					<template v-for="(img, index) in showCardDet.artList">
+					<template v-for="(img, index) in showCardDet.artList" :key="index">
 						<image :src="img" mode="widthFix" class="img" @click="changeArt(img)"></image>
 					</template>
 				</div>
@@ -99,6 +100,7 @@
 
 <script setup>
 	import emptyList from '../../../components/emptyList/index.vue'
+	import copyRight from '../../../components/copyright/index.vue'
 	import { ref } from 'vue'
   import { onLoad } from '@dcloudio/uni-app'
 	import { returnPMType } from './js/returnCHN'
@@ -125,6 +127,7 @@
 		serName.value = decodeURIComponent(options.sname);
 		scode.value = options.code;
 		switch(sno.value) {
+			case 'SV4': import('./json/SV4.json').then((res) => {getData(res)}); break;
 			case 'SV3.5': import('./json/SV3_5.json').then((res) => {getData(res)}); break;
 			case 'SV3': import('./json/SV3.json').then((res) => {getData(res)}); break;
 			case 'SV2': import('./json/SV2.json').then((res) => {getData(res)}); break;
@@ -252,24 +255,6 @@
 		showCardDet.value.showImg = showCardDet.value.imgUrl;
 		isShowCard.value = true
   }
-
-	const returnShowFilterDom = (sno) => {
-		return sno == 'SV3.5' || 
-			sno == 'SV3' || 
-			sno == 'SV2' || 
-			sno == 'SV1' || 
-			sno == 'SS12' || 
-			sno == 'SS12.5' || 
-			sno == 'SS11' || 
-			sno == 'SS10.5' || 
-			sno == 'SS10' || 
-			sno == 'SS9' || 
-			sno == 'SS8' || 
-			sno == 'SS7.5' ||
-			sno == 'SS7' ||
-			sno == 'SS6' ||
-			sno == 'SS5'
-	}
 
 	const changeArt = (url) => {
 		showCardDet.value.showImg = url
@@ -416,7 +401,7 @@
 		position: absolute;
 		top: 0;
 		left: 0;
-		padding: 5% 5% 20rpx;
+		padding: 5%;
 		width: 100%;
 		height: 100%;
 		animation-duration: .4s;

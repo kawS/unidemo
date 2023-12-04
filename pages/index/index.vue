@@ -7,14 +7,15 @@
     </div>
   </div>
   <div class="deck">
-    <div class="bn" @click="isShowDeck = true">可导入Limitless卡组代码预览</div>
+    <div class="bn" @click="isShowDeck = true">可导入live或Limitless卡组代码预览</div>
   </div>
   <div class="search">
     <input type="text" v-model="searchInp" placeholder="请输入卡名(支持简中、英文)" />
     <div class="bn" @click="goSearch">检索</div>
   </div>
+  <div class="ps">只展示标准环境数据，数据及图片来自官网</div>
   <div class="list">
-    <div class="sbox" v-for="item in seriesList" :key="item.sname">
+    <div class="sbox" v-for="item in series" :key="item.sname">
       <div class="tlt">{{ item.sname }} {{ item.sename }}</div>
       <div class="slist">
         <template v-for="sitem in item.list" :key="sitem.no">
@@ -36,6 +37,7 @@
       </div>
     </div>
   </div>
+  <copyRight></copyRight>
   <div class="popups" v-if="isShowDeck">
     <div class="p-deck">
       <textarea v-model="deckData" maxlength="-1" placeholder="请粘贴卡组代码"></textarea>
@@ -47,7 +49,8 @@
 </template>
 
 <script setup>
-  import seriesList from './js/series'
+  import series from './js/series'
+  import copyRight from '../../components/copyright/index.vue'
   import { ref } from 'vue'
   import { onLoad } from '@dcloudio/uni-app'
 
@@ -165,7 +168,7 @@
     .bn{
       margin: 0 auto;
       background: #eee;
-      width: 65%;
+      width: 75%;
       height: 60rpx;
       line-height: 60rpx;
       border: 1px solid #ccc;
@@ -196,6 +199,11 @@
       text-align: center;
     }
   }
+  .ps{
+    margin: 0 30rpx;
+    font-size: 12px;
+    text-align: center
+  }
   .list{
     padding: 30rpx 0;
     .sbox{
@@ -211,10 +219,10 @@
         flex-wrap: wrap;
         justify-content: space-between;
         .item{
-          margin: 0 0 20rpx 0;
+          margin: 0 0 15rpx 0;
           padding: 30rpx 0 20rpx;
           background: rgba(0,0,0,.1);
-          width: 48%;
+          width: 49%;
           border-radius: 10rpx;
           text-align: center;
           display: flex;

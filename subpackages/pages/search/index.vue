@@ -12,7 +12,8 @@
 	</div>
 	<div class="list" v-if="resultList.length > 0">
 		<template v-for="item in resultList" :key="item.id">
-			<div class="item" v-if="item.isHide != true" @click="showDet(item)">
+			<!-- <div class="item" @click="showDet(item)" v-if="item.isHide != true"> -->
+			<div class="item" @click="showDet(item)">
 				<div class="picwp">
 					<image src="../../../common/img/tcg-card-back.jpg" mode="widthFix" class="cback"></image>
 					<image :src="item.imgUrl" lazy-load mode="heightFix" class="img"></image>
@@ -24,11 +25,12 @@
 		</template>
 	</div>
 	<emptyList v-else></emptyList>
+	<copyRight></copyRight>
 	<div class="popups" v-if="isShowCard">
 		<div class="p-showcard" :class="{'animate__zoomIn': isShowCard}">
 			<div class="cardShow" :class="{tc: !showCardDet.artList}">
 				<image :src="showCardDet.showImg" mode="scaleToFill" class="img"></image>
-				<div class="artList" v-if="showCardDet.enImgUrl || !showCardDet.isHide">
+				<div class="artList" v-if="showCardDet.enImgUrl && !showCardDet.isHide">
 					<image :src="showCardDet.imgUrl" lazy-load mode="widthFix" class="img" @click="changeArt(showCardDet.imgUrl)"></image>
 					<image :src="showCardDet.enImgUrl" lazy-load mode="widthFix" class="img" @click="changeArt(showCardDet.enImgUrl)" v-if="showCardDet.isHide != true"></image>
 					<template v-for="(img, index) in showCardDet.artList" :key="index">
@@ -66,11 +68,12 @@
 </template>
 
 <script setup>
+	import seriesList from '../../../pages/index/js/seriesList.js'
 	import emptyList from '../../../components/emptyList/index.vue'
+	import copyRight from '../../../components/copyright/index.vue'
 	import { ref } from 'vue'
   import { onLoad } from '@dcloudio/uni-app'
 
-	const seriesList = ['SV3_5', 'SV3', 'SV2', 'SV1', 'SS12_5', 'SS12', 'SS11', 'SS10_5', 'SS10', 'SS9', 'SS8', 'SS7_5', 'SS7', 'SS6', 'SS5'];
 	let resetData = [];
 	let allIndex = 0;
 	let cardName = ref(null);
@@ -126,6 +129,7 @@
 		if(result.length == 0){
 			resultList.value = []
 		}else{
+			// console.log(result)
 			returnDet(result)
 		}
 	}
@@ -141,6 +145,7 @@
 		for(let serItem of seriesList){
 			if(obj[serItem]?.length > 0){
 				switch(serItem) {
+					case 'SV4': import('../seriesDet/json/SV4.json').then((res) => {loadData(res.default, obj[serItem], serItem)}); break;
 					case 'SV3_5': import('../seriesDet/json/SV3_5.json').then((res) => {loadData(res.default, obj[serItem], serItem)}); break;
 					case 'SV3': import('../seriesDet/json/SV3.json').then((res) => {loadData(res.default, obj[serItem], serItem)}); break;
 					case 'SV2': import('../seriesDet/json/SV2.json').then((res) => {loadData(res.default, obj[serItem], serItem)}); break;
@@ -160,6 +165,7 @@
 			}
 		}
 	}
+	
 	const loadData = (oData, data, series) => {
 		let result = oData.filter(ser => {
 			return data.includes(ser.cardName);
@@ -297,7 +303,7 @@
 		position: absolute;
 		top: 0;
 		left: 0;
-		padding: 5% 5% 20rpx;
+		padding: 5%;
 		width: 100%;
 		height: 100%;
 		animation-duration: .4s;

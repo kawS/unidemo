@@ -1,7 +1,5 @@
 [
   {
-    "id": "6738",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6738/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006738.png",
     "typeEnergy": "Grass",
     "type": "Pokemon",
@@ -15,11 +13,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_1-2x.jpg",
     "ename": "Venonat",
     "series": "SS12",
-    "cardNo": 1
+    "cardNo": "1"
   },
   {
-    "id": "6739",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6739/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006739.png",
     "typeEnergy": "Grass",
     "type": "Pokemon",
@@ -37,11 +33,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_2-2x.jpg",
     "ename": "Venomoth",
     "series": "SS12",
-    "cardNo": 2
+    "cardNo": "2"
   },
   {
-    "id": "7043",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7043/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007043.png",
     "typeEnergy": "Grass",
     "type": "Pokemon",
@@ -55,11 +49,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_3-2x.jpg",
     "ename": "Spinarak",
     "series": "SS12",
-    "cardNo": 3
+    "cardNo": "3"
   },
   {
-    "id": "7044",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7044/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007044.png",
     "typeEnergy": "Grass",
     "type": "Pokemon",
@@ -77,11 +69,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_4-2x.jpg",
     "ename": "Ariados",
     "series": "SS12",
-    "cardNo": 4
+    "cardNo": "4"
   },
   {
-    "id": "6740",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6740/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006740.png",
     "typeEnergy": "Grass",
     "type": "Pokemon",
@@ -95,11 +85,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_5-2x.jpg",
     "ename": "Sunkern",
     "series": "SS12",
-    "cardNo": 5
+    "cardNo": "5"
   },
   {
-    "id": "6741",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6741/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006741.png",
     "typeEnergy": "Grass",
     "type": "Pokemon",
@@ -113,11 +101,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_6-2x.jpg",
     "ename": "Sunflora",
     "series": "SS12",
-    "cardNo": 6
+    "cardNo": "6"
   },
   {
-    "id": "6945",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6945/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006945.png",
     "typeEnergy": "Grass",
     "type": "Pokemon",
@@ -146,8 +132,6 @@
     "cardNo": "7"
   },
   {
-    "id": "6946",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6946/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006946.png",
     "typeEnergy": "Grass",
     "type": "Pokemon",
@@ -176,8 +160,6 @@
     "cardNo": "8"
   },
   {
-    "id": "6947",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6947/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006947.png",
     "typeEnergy": "Grass",
     "type": "Pokemon",
@@ -195,11 +177,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_9-2x.jpg",
     "ename": "Petilil",
     "series": "SS12",
-    "cardNo": 9
+    "cardNo": "9"
   },
   {
-    "id": "6948",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6948/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006948.png",
     "typeEnergy": "Grass",
     "type": "Pokemon",
@@ -217,11 +197,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_10-2x.jpg",
     "ename": "Hisuian Lilligant",
     "series": "SS12",
-    "cardNo": 10
+    "cardNo": "10"
   },
   {
-    "id": "6745",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6745/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006745.png",
     "typeEnergy": "Grass",
     "type": "Pokemon",
@@ -235,11 +213,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_11-2x.jpg",
     "ename": "Foongus",
     "series": "SS12",
-    "cardNo": 11
+    "cardNo": "11"
   },
   {
-    "id": "6746",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6746/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006746.png",
     "typeEnergy": "Grass",
     "type": "Pokemon",
@@ -257,11 +233,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_12-2x.jpg",
     "ename": "Amoonguss",
     "series": "SS12",
-    "cardNo": 12
+    "cardNo": "12"
   },
   {
-    "id": "6747",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6747/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006747.png",
     "typeEnergy": "Grass",
     "type": "Pokemon",
@@ -279,11 +253,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_13-2x.jpg",
     "ename": "Durant",
     "series": "SS12",
-    "cardNo": 13
+    "cardNo": "13"
   },
   {
-    "id": "7045",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7045/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007045.png",
     "typeEnergy": "Grass",
     "type": "Pokemon",
@@ -301,11 +273,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_14-2x.jpg",
     "ename": "Virizion",
     "series": "SS12",
-    "cardNo": 14
+    "cardNo": "14"
   },
   {
-    "id": "7046",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7046/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007046.png",
     "typeEnergy": "Grass",
     "type": "Pokemon",
@@ -333,8 +303,6 @@
     "cardNo": "15"
   },
   {
-    "id": "6949",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6949/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006949.png",
     "typeEnergy": "Grass",
     "type": "Pokemon",
@@ -356,11 +324,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_16-2x.jpg",
     "ename": "Radiant Tsareena",
     "series": "SS12",
-    "cardNo": 16
+    "cardNo": "16"
   },
   {
-    "id": "6750",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6750/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006750.png",
     "typeEnergy": "Fire",
     "type": "Pokemon",
@@ -374,11 +340,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_17-2x.jpg",
     "ename": "Vulpix",
     "series": "SS12",
-    "cardNo": 17
+    "cardNo": "17"
   },
   {
-    "id": "6751",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6751/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006751.png",
     "typeEnergy": "Fire",
     "type": "Pokemon",
@@ -396,11 +360,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_18-2x.jpg",
     "ename": "Ninetales",
     "series": "SS12",
-    "cardNo": 18
+    "cardNo": "18"
   },
   {
-    "id": "6952",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6952/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006952.png",
     "typeEnergy": "Fire",
     "type": "Pokemon",
@@ -418,11 +380,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_19-2x.jpg",
     "ename": "Growlithe",
     "series": "SS12",
-    "cardNo": 19
+    "cardNo": "19"
   },
   {
-    "id": "6953",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6953/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006953.png",
     "typeEnergy": "Fire",
     "type": "Pokemon",
@@ -440,11 +400,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_20-2x.jpg",
     "ename": "Arcanine",
     "series": "SS12",
-    "cardNo": 20
+    "cardNo": "20"
   },
   {
-    "id": "7047",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7047/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007047.png",
     "typeEnergy": "Fire",
     "type": "Pokemon",
@@ -458,11 +416,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_21-2x.jpg",
     "ename": "Ponyta",
     "series": "SS12",
-    "cardNo": 21
+    "cardNo": "21"
   },
   {
-    "id": "7048",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7048/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007048.png",
     "typeEnergy": "Fire",
     "type": "Pokemon",
@@ -480,11 +436,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_22-2x.jpg",
     "ename": "Rapidash",
     "series": "SS12",
-    "cardNo": 22
+    "cardNo": "22"
   },
   {
-    "id": "7049",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7049/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007049.png",
     "typeEnergy": "Fire",
     "type": "Pokemon",
@@ -502,11 +456,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_23-2x.jpg",
     "ename": "Victini",
     "series": "SS12",
-    "cardNo": 23
+    "cardNo": "23"
   },
   {
-    "id": "6955",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6955/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006955.png",
     "typeEnergy": "Fire",
     "type": "Pokemon",
@@ -534,8 +486,6 @@
     "cardNo": "24"
   },
   {
-    "id": "6956",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6956/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006956.png",
     "typeEnergy": "Fire",
     "type": "Pokemon",
@@ -553,11 +503,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_25-2x.jpg",
     "ename": "Fennekin",
     "series": "SS12",
-    "cardNo": 25
+    "cardNo": "25"
   },
   {
-    "id": "6957",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6957/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006957.png",
     "typeEnergy": "Fire",
     "type": "Pokemon",
@@ -581,8 +529,6 @@
     "cardNo": "26"
   },
   {
-    "id": "6958",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6958/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006958.png",
     "typeEnergy": "Fire",
     "type": "Pokemon",
@@ -600,11 +546,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_27-2x.jpg",
     "ename": "Delphox",
     "series": "SS12",
-    "cardNo": 27
+    "cardNo": "27"
   },
   {
-    "id": "6755",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6755/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006755.png",
     "typeEnergy": "Fire",
     "type": "Pokemon",
@@ -618,11 +562,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_28-2x.jpg",
     "ename": "Fletchinder",
     "series": "SS12",
-    "cardNo": 28
+    "cardNo": "28"
   },
   {
-    "id": "6756",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6756/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006756.png",
     "typeEnergy": "Fire",
     "type": "Pokemon",
@@ -640,11 +582,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_29-2x.jpg",
     "ename": "Talonflame",
     "series": "SS12",
-    "cardNo": 29
+    "cardNo": "29"
   },
   {
-    "id": "7052",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7052/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007052.png",
     "typeEnergy": "Fire",
     "type": "Pokemon",
@@ -662,11 +602,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_30-2x.jpg",
     "ename": "Litten",
     "series": "SS12",
-    "cardNo": 30
+    "cardNo": "30"
   },
   {
-    "id": "7053",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7053/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007053.png",
     "typeEnergy": "Fire",
     "type": "Pokemon",
@@ -684,11 +622,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_31-2x.jpg",
     "ename": "Torracat",
     "series": "SS12",
-    "cardNo": 31
+    "cardNo": "31"
   },
   {
-    "id": "7054",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7054/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007054.png",
     "typeEnergy": "Fire",
     "type": "Pokemon",
@@ -706,11 +642,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_32-2x.jpg",
     "ename": "Incineroar",
     "series": "SS12",
-    "cardNo": 32
+    "cardNo": "32"
   },
   {
-    "id": "6962",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6962/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006962.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
@@ -738,8 +672,6 @@
     "cardNo": "33"
   },
   {
-    "id": "6963",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6963/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006963.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
@@ -767,8 +699,6 @@
     "cardNo": "34"
   },
   {
-    "id": "7055",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7055/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007055.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
@@ -796,8 +726,6 @@
     "cardNo": "35"
   },
   {
-    "id": "6964",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6964/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006964.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
@@ -815,11 +743,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_36-2x.jpg",
     "ename": "Articuno",
     "series": "SS12",
-    "cardNo": 36
+    "cardNo": "36"
   },
   {
-    "id": "6762",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6762/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006762.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
@@ -837,11 +763,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_37-2x.jpg",
     "ename": "Wailmer",
     "series": "SS12",
-    "cardNo": 37
+    "cardNo": "37"
   },
   {
-    "id": "6763",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6763/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006763.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
@@ -859,11 +783,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_38-2x.jpg",
     "ename": "Wailord",
     "series": "SS12",
-    "cardNo": 38
+    "cardNo": "38"
   },
   {
-    "id": "6967",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6967/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006967.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
@@ -881,11 +803,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_39-2x.jpg",
     "ename": "Feebas",
     "series": "SS12",
-    "cardNo": 39
+    "cardNo": "39"
   },
   {
-    "id": "6968",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6968/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006968.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
@@ -909,8 +829,6 @@
     "cardNo": "40"
   },
   {
-    "id": "7056",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7056/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007056.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
@@ -928,11 +846,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_41-2x.jpg",
     "ename": "Snorunt",
     "series": "SS12",
-    "cardNo": 41
+    "cardNo": "41"
   },
   {
-    "id": "7057",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7057/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007057.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
@@ -950,11 +866,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_42-2x.jpg",
     "ename": "Glalie",
     "series": "SS12",
-    "cardNo": 42
+    "cardNo": "42"
   },
   {
-    "id": "7058",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7058/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007058.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
@@ -972,11 +886,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_43-2x.jpg",
     "ename": "Froslass",
     "series": "SS12",
-    "cardNo": 43
+    "cardNo": "43"
   },
   {
-    "id": "7059",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7059/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007059.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
@@ -994,11 +906,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_44-2x.jpg",
     "ename": "Relicanth",
     "series": "SS12",
-    "cardNo": 44
+    "cardNo": "44"
   },
   {
-    "id": "6377",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6377/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006377.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
@@ -1016,11 +926,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_45-2x.jpg",
     "ename": "Phione",
     "series": "SS12",
-    "cardNo": 45
+    "cardNo": "45"
   },
   {
-    "id": "7060",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7060/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007060.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
@@ -1038,11 +946,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_46-2x.jpg",
     "ename": "Keldeo",
     "series": "SS12",
-    "cardNo": 46
+    "cardNo": "46"
   },
   {
-    "id": "6768",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6768/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006768.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
@@ -1056,11 +962,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_47-2x.jpg",
     "ename": "Dewpider",
     "series": "SS12",
-    "cardNo": 47
+    "cardNo": "47"
   },
   {
-    "id": "6769",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6769/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006769.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
@@ -1078,11 +982,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_48-2x.jpg",
     "ename": "Araquanid",
     "series": "SS12",
-    "cardNo": 48
+    "cardNo": "48"
   },
   {
-    "id": "7061",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7061/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007061.png",
     "typeEnergy": "Lightning",
     "type": "Pokemon",
@@ -1096,11 +998,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_49-2x.jpg",
     "ename": "Pikachu",
     "series": "SS12",
-    "cardNo": 49
+    "cardNo": "49"
   },
   {
-    "id": "7062",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7062/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007062.png",
     "typeEnergy": "Lightning",
     "type": "Pokemon",
@@ -1118,11 +1018,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_50-2x.jpg",
     "ename": "Raichu",
     "series": "SS12",
-    "cardNo": 50
+    "cardNo": "50"
   },
   {
-    "id": "6772",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6772/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006772.png",
     "typeEnergy": "Lightning",
     "type": "Pokemon",
@@ -1140,11 +1038,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_51-2x.jpg",
     "ename": "Chinchou",
     "series": "SS12",
-    "cardNo": 51
+    "cardNo": "51"
   },
   {
-    "id": "6773",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6773/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006773.png",
     "typeEnergy": "Lightning",
     "type": "Pokemon",
@@ -1162,11 +1058,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_52-2x.jpg",
     "ename": "Lanturn",
     "series": "SS12",
-    "cardNo": 52
+    "cardNo": "52"
   },
   {
-    "id": "7168",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7168/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007168.png",
     "typeEnergy": "Lightning",
     "type": "Pokemon",
@@ -1184,11 +1078,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_53-2x.jpg",
     "ename": "Rotom",
     "series": "SS12",
-    "cardNo": 53
+    "cardNo": "53"
   },
   {
-    "id": "6775",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6775/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006775.png",
     "typeEnergy": "Lightning",
     "type": "Pokemon",
@@ -1206,11 +1098,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_54-2x.jpg",
     "ename": "Emolga",
     "series": "SS12",
-    "cardNo": 54
+    "cardNo": "54"
   },
   {
-    "id": "7066",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7066/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007066.png",
     "typeEnergy": "Lightning",
     "type": "Pokemon",
@@ -1228,11 +1118,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_55-2x.jpg",
     "ename": "Stunfisk",
     "series": "SS12",
-    "cardNo": 55
+    "cardNo": "55"
   },
   {
-    "id": "7069",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7069/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007069.png",
     "typeEnergy": "Lightning",
     "type": "Pokemon",
@@ -1250,11 +1138,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_56-2x.jpg",
     "ename": "Zeraora",
     "series": "SS12",
-    "cardNo": 56
+    "cardNo": "56"
   },
   {
-    "id": "7070",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7070/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007070.png",
     "typeEnergy": "Lightning",
     "type": "Pokemon",
@@ -1282,8 +1168,6 @@
     "cardNo": "57"
   },
   {
-    "id": "7071",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7071/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007071.png",
     "typeEnergy": "Lightning",
     "type": "Pokemon",
@@ -1311,8 +1195,6 @@
     "cardNo": "58"
   },
   {
-    "id": "6971",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6971/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006971.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
@@ -1334,11 +1216,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_59-2x.jpg",
     "ename": "Radiant Alakazam",
     "series": "SS12",
-    "cardNo": 59
+    "cardNo": "59"
   },
   {
-    "id": "6779",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6779/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006779.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
@@ -1356,11 +1236,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_60-2x.jpg",
     "ename": "Drowzee",
     "series": "SS12",
-    "cardNo": 60
+    "cardNo": "60"
   },
   {
-    "id": "6780",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6780/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006780.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
@@ -1378,11 +1256,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_61-2x.jpg",
     "ename": "Hypno",
     "series": "SS12",
-    "cardNo": 61
+    "cardNo": "61"
   },
   {
-    "id": "6974",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6974/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006974.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
@@ -1406,8 +1282,6 @@
     "cardNo": "62"
   },
   {
-    "id": "6391",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6391/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006391.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
@@ -1421,11 +1295,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_63-2x.jpg",
     "ename": "Misdreavus",
     "series": "SS12",
-    "cardNo": 63
+    "cardNo": "63"
   },
   {
-    "id": "6392",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6392/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006392.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
@@ -1443,11 +1315,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_64-2x.jpg",
     "ename": "Mismagius",
     "series": "SS12",
-    "cardNo": 64
+    "cardNo": "64"
   },
   {
-    "id": "7072",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7072/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007072.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
@@ -1476,8 +1346,6 @@
     "cardNo": "65"
   },
   {
-    "id": "7073",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7073/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007073.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
@@ -1505,8 +1373,6 @@
     "cardNo": "66"
   },
   {
-    "id": "6976",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6976/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006976.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
@@ -1520,11 +1386,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_67-2x.jpg",
     "ename": "Ralts",
     "series": "SS12",
-    "cardNo": 67
+    "cardNo": "67"
   },
   {
-    "id": "6977",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6977/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006977.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
@@ -1542,11 +1406,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_68-2x.jpg",
     "ename": "Kirlia",
     "series": "SS12",
-    "cardNo": 68
+    "cardNo": "68"
   },
   {
-    "id": "6978",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6978/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006978.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
@@ -1570,8 +1432,6 @@
     "cardNo": "69"
   },
   {
-    "id": "6979",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6979/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006979.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
@@ -1600,8 +1460,6 @@
     "cardNo": "70"
   },
   {
-    "id": "6980",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6980/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006980.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
@@ -1629,8 +1487,6 @@
     "cardNo": "71"
   },
   {
-    "id": "7074",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7074/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007074.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
@@ -1648,11 +1504,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_72-2x.jpg",
     "ename": "Meditite",
     "series": "SS12",
-    "cardNo": 72
+    "cardNo": "72"
   },
   {
-    "id": "7075",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7075/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007075.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
@@ -1670,11 +1524,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_73-2x.jpg",
     "ename": "Medicham",
     "series": "SS12",
-    "cardNo": 73
+    "cardNo": "73"
   },
   {
-    "id": "6394",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6394/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006394.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
@@ -1692,11 +1544,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_74-2x.jpg",
     "ename": "Chimecho",
     "series": "SS12",
-    "cardNo": 74
+    "cardNo": "74"
   },
   {
-    "id": "7076",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7076/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007076.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
@@ -1714,11 +1564,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_75-2x.jpg",
     "ename": "Sigilyph",
     "series": "SS12",
-    "cardNo": 75
+    "cardNo": "75"
   },
   {
-    "id": "7077",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7077/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007077.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
@@ -1732,11 +1580,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_76-2x.jpg",
     "ename": "Solosis",
     "series": "SS12",
-    "cardNo": 76
+    "cardNo": "76"
   },
   {
-    "id": "7078",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7078/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007078.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
@@ -1750,11 +1596,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_77-2x.jpg",
     "ename": "Duosion",
     "series": "SS12",
-    "cardNo": 77
+    "cardNo": "77"
   },
   {
-    "id": "7079",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7079/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007079.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
@@ -1772,11 +1616,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_78-2x.jpg",
     "ename": "Reuniclus",
     "series": "SS12",
-    "cardNo": 78
+    "cardNo": "78"
   },
   {
-    "id": "7080",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7080/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007080.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
@@ -1790,11 +1632,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_79-2x.jpg",
     "ename": "Elgyem",
     "series": "SS12",
-    "cardNo": 79
+    "cardNo": "79"
   },
   {
-    "id": "7081",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7081/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007081.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
@@ -1812,11 +1652,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_80-2x.jpg",
     "ename": "Beheeyem",
     "series": "SS12",
-    "cardNo": 80
+    "cardNo": "80"
   },
   {
-    "id": "6981",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6981/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006981.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
@@ -1834,11 +1672,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_81-2x.jpg",
     "ename": "Espurr",
     "series": "SS12",
-    "cardNo": 81
+    "cardNo": "81"
   },
   {
-    "id": "6982",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6982/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006982.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
@@ -1856,11 +1692,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_82-2x.jpg",
     "ename": "Meowstic",
     "series": "SS12",
-    "cardNo": 82
+    "cardNo": "82"
   },
   {
-    "id": "7193",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7193/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007193.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
@@ -1878,11 +1712,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_83-2x.jpg",
     "ename": "Swirlix",
     "series": "SS12",
-    "cardNo": 83
+    "cardNo": "83"
   },
   {
-    "id": "7194",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7194/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007194.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
@@ -1900,11 +1732,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_84-2x.jpg",
     "ename": "Slurpuff",
     "series": "SS12",
-    "cardNo": 84
+    "cardNo": "84"
   },
   {
-    "id": "7082",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7082/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007082.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
@@ -1922,11 +1752,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_85-2x.jpg",
     "ename": "Dedenne",
     "series": "SS12",
-    "cardNo": 85
+    "cardNo": "85"
   },
   {
-    "id": "6788",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6788/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006788.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
@@ -1944,11 +1772,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_86-2x.jpg",
     "ename": "Indeedee",
     "series": "SS12",
-    "cardNo": 86
+    "cardNo": "86"
   },
   {
-    "id": "6789",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6789/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006789.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
@@ -1962,11 +1788,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_87-2x.jpg",
     "ename": "Dreepy",
     "series": "SS12",
-    "cardNo": 87
+    "cardNo": "87"
   },
   {
-    "id": "6790",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6790/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006790.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
@@ -1980,11 +1804,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_88-2x.jpg",
     "ename": "Drakloak",
     "series": "SS12",
-    "cardNo": 88
+    "cardNo": "88"
   },
   {
-    "id": "6791",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6791/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006791.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
@@ -2002,11 +1824,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_89-2x.jpg",
     "ename": "Dragapult",
     "series": "SS12",
-    "cardNo": 89
+    "cardNo": "89"
   },
   {
-    "id": "7083",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7083/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007083.png",
     "typeEnergy": "Fighting",
     "type": "Pokemon",
@@ -2034,8 +1854,6 @@
     "cardNo": "90"
   },
   {
-    "id": "6795",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6795/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006795.png",
     "typeEnergy": "Fighting",
     "type": "Pokemon",
@@ -2049,11 +1867,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_91-2x.jpg",
     "ename": "Phanpy",
     "series": "SS12",
-    "cardNo": 91
+    "cardNo": "91"
   },
   {
-    "id": "6796",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6796/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006796.png",
     "typeEnergy": "Fighting",
     "type": "Pokemon",
@@ -2071,11 +1887,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_92-2x.jpg",
     "ename": "Donphan",
     "series": "SS12",
-    "cardNo": 92
+    "cardNo": "92"
   },
   {
-    "id": "7084",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7084/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007084.png",
     "typeEnergy": "Fighting",
     "type": "Pokemon",
@@ -2093,11 +1907,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_93-2x.jpg",
     "ename": "Baltoy",
     "series": "SS12",
-    "cardNo": 93
+    "cardNo": "93"
   },
   {
-    "id": "7085",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7085/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007085.png",
     "typeEnergy": "Fighting",
     "type": "Pokemon",
@@ -2115,11 +1927,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_94-2x.jpg",
     "ename": "Claydol",
     "series": "SS12",
-    "cardNo": 94
+    "cardNo": "94"
   },
   {
-    "id": "7086",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7086/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007086.png",
     "typeEnergy": "Fighting",
     "type": "Pokemon",
@@ -2133,11 +1943,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_95-2x.jpg",
     "ename": "Anorith",
     "series": "SS12",
-    "cardNo": 95
+    "cardNo": "95"
   },
   {
-    "id": "7087",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7087/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007087.png",
     "typeEnergy": "Fighting",
     "type": "Pokemon",
@@ -2155,11 +1963,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_96-2x.jpg",
     "ename": "Armaldo",
     "series": "SS12",
-    "cardNo": 96
+    "cardNo": "96"
   },
   {
-    "id": "7088",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7088/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007088.png",
     "typeEnergy": "Fighting",
     "type": "Pokemon",
@@ -2173,11 +1979,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_97-2x.jpg",
     "ename": "Terrakion",
     "series": "SS12",
-    "cardNo": 97
+    "cardNo": "97"
   },
   {
-    "id": "6799",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6799/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006799.png",
     "typeEnergy": "Fighting",
     "type": "Pokemon",
@@ -2195,11 +1999,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_98-2x.jpg",
     "ename": "Hawlucha",
     "series": "SS12",
-    "cardNo": 98
+    "cardNo": "98"
   },
   {
-    "id": "6800",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6800/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006800.png",
     "typeEnergy": "Fighting",
     "type": "Pokemon",
@@ -2213,11 +2015,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_99-2x.jpg",
     "ename": "Sandygast",
     "series": "SS12",
-    "cardNo": 99
+    "cardNo": "99"
   },
   {
-    "id": "6801",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6801/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006801.png",
     "typeEnergy": "Fighting",
     "type": "Pokemon",
@@ -2235,11 +2035,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_100-2x.jpg",
     "ename": "Palossand",
     "series": "SS12",
-    "cardNo": 100
+    "cardNo": "100"
   },
   {
-    "id": "7092",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7092/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007092.png",
     "typeEnergy": "Fighting",
     "type": "Pokemon",
@@ -2257,11 +2055,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_101-2x.jpg",
     "ename": "Stonjourner",
     "series": "SS12",
-    "cardNo": 101
+    "cardNo": "101"
   },
   {
-    "id": "6925",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6925/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006925.png",
     "typeEnergy": "Fighting",
     "type": "Pokemon",
@@ -2279,11 +2075,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_102-2x.jpg",
     "ename": "Ursaluna V",
     "series": "SS12",
-    "cardNo": 102
+    "cardNo": "102"
   },
   {
-    "id": "6407",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6407/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006407.png",
     "typeEnergy": "Darkness",
     "type": "Pokemon",
@@ -2297,11 +2091,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_103-2x.jpg",
     "ename": "Zubat",
     "series": "SS12",
-    "cardNo": 103
+    "cardNo": "103"
   },
   {
-    "id": "6408",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6408/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006408.png",
     "typeEnergy": "Darkness",
     "type": "Pokemon",
@@ -2315,11 +2107,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_104-2x.jpg",
     "ename": "Golbat",
     "series": "SS12",
-    "cardNo": 104
+    "cardNo": "104"
   },
   {
-    "id": "6409",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6409/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006409.png",
     "typeEnergy": "Darkness",
     "type": "Pokemon",
@@ -2337,11 +2127,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_105-2x.jpg",
     "ename": "Crobat",
     "series": "SS12",
-    "cardNo": 105
+    "cardNo": "105"
   },
   {
-    "id": "6410",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6410/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006410.png",
     "typeEnergy": "Darkness",
     "type": "Pokemon",
@@ -2359,11 +2147,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_106-2x.jpg",
     "ename": "Murkrow",
     "series": "SS12",
-    "cardNo": 106
+    "cardNo": "106"
   },
   {
-    "id": "6411",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6411/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006411.png",
     "typeEnergy": "Darkness",
     "type": "Pokemon",
@@ -2381,11 +2167,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_107-2x.jpg",
     "ename": "Honchkrow",
     "series": "SS12",
-    "cardNo": 107
+    "cardNo": "107"
   },
   {
-    "id": "7093",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7093/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007093.png",
     "typeEnergy": "Darkness",
     "type": "Pokemon",
@@ -2414,8 +2198,6 @@
     "cardNo": "108"
   },
   {
-    "id": "6414",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6414/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006414.png",
     "typeEnergy": "Darkness",
     "type": "Pokemon",
@@ -2429,11 +2211,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_109-2x.jpg",
     "ename": "Croagunk",
     "series": "SS12",
-    "cardNo": 109
+    "cardNo": "109"
   },
   {
-    "id": "6415",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6415/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006415.png",
     "typeEnergy": "Darkness",
     "type": "Pokemon",
@@ -2451,11 +2231,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_110-2x.jpg",
     "ename": "Toxicroak",
     "series": "SS12",
-    "cardNo": 110
+    "cardNo": "110"
   },
   {
-    "id": "6805",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6805/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006805.png",
     "typeEnergy": "Darkness",
     "type": "Pokemon",
@@ -2469,11 +2247,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_111-2x.jpg",
     "ename": "Sandile",
     "series": "SS12",
-    "cardNo": 111
+    "cardNo": "111"
   },
   {
-    "id": "6806",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6806/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006806.png",
     "typeEnergy": "Darkness",
     "type": "Pokemon",
@@ -2487,11 +2263,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_112-2x.jpg",
     "ename": "Krokorok",
     "series": "SS12",
-    "cardNo": 112
+    "cardNo": "112"
   },
   {
-    "id": "6807",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6807/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006807.png",
     "typeEnergy": "Darkness",
     "type": "Pokemon",
@@ -2509,11 +2283,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_113-2x.jpg",
     "ename": "Krookodile",
     "series": "SS12",
-    "cardNo": 113
+    "cardNo": "113"
   },
   {
-    "id": "6808",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6808/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006808.png",
     "typeEnergy": "Darkness",
     "type": "Pokemon",
@@ -2527,11 +2299,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_114-2x.jpg",
     "ename": "Mareanie",
     "series": "SS12",
-    "cardNo": 114
+    "cardNo": "114"
   },
   {
-    "id": "6809",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6809/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006809.png",
     "typeEnergy": "Darkness",
     "type": "Pokemon",
@@ -2549,11 +2319,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_115-2x.jpg",
     "ename": "Toxapex",
     "series": "SS12",
-    "cardNo": 115
+    "cardNo": "115"
   },
   {
-    "id": "7099",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7099/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007099.png",
     "typeEnergy": "Darkness",
     "type": "Pokemon",
@@ -2567,11 +2335,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_116-2x.jpg",
     "ename": "Morpeko",
     "series": "SS12",
-    "cardNo": 116
+    "cardNo": "116"
   },
   {
-    "id": "6810",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6810/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006810.png",
     "typeEnergy": "Metal",
     "type": "Pokemon",
@@ -2589,11 +2355,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_117-2x.jpg",
     "ename": "Beldum",
     "series": "SS12",
-    "cardNo": 117
+    "cardNo": "117"
   },
   {
-    "id": "6811",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6811/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006811.png",
     "typeEnergy": "Metal",
     "type": "Pokemon",
@@ -2607,11 +2371,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_118-2x.jpg",
     "ename": "Metang",
     "series": "SS12",
-    "cardNo": 118
+    "cardNo": "118"
   },
   {
-    "id": "6812",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6812/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006812.png",
     "typeEnergy": "Metal",
     "type": "Pokemon",
@@ -2629,11 +2391,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_119-2x.jpg",
     "ename": "Metagross",
     "series": "SS12",
-    "cardNo": 119
+    "cardNo": "119"
   },
   {
-    "id": "6985",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6985/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006985.png",
     "typeEnergy": "Metal",
     "type": "Pokemon",
@@ -2655,11 +2415,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_120-2x.jpg",
     "ename": "Radiant Jirachi",
     "series": "SS12",
-    "cardNo": 120
+    "cardNo": "120"
   },
   {
-    "id": "6813",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6813/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006813.png",
     "typeEnergy": "Metal",
     "type": "Pokemon",
@@ -2677,11 +2435,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_121-2x.jpg",
     "ename": "Ferroseed",
     "series": "SS12",
-    "cardNo": 121
+    "cardNo": "121"
   },
   {
-    "id": "6814",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6814/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006814.png",
     "typeEnergy": "Metal",
     "type": "Pokemon",
@@ -2699,11 +2455,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_122-2x.jpg",
     "ename": "Ferrothorn",
     "series": "SS12",
-    "cardNo": 122
+    "cardNo": "122"
   },
   {
-    "id": "6986",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6986/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006986.png",
     "typeEnergy": "Metal",
     "type": "Pokemon",
@@ -2717,11 +2471,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_123-2x.jpg",
     "ename": "Klink",
     "series": "SS12",
-    "cardNo": 123
+    "cardNo": "123"
   },
   {
-    "id": "6987",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6987/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006987.png",
     "typeEnergy": "Metal",
     "type": "Pokemon",
@@ -2735,11 +2487,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_124-2x.jpg",
     "ename": "Klang",
     "series": "SS12",
-    "cardNo": 124
+    "cardNo": "124"
   },
   {
-    "id": "6988",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6988/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006988.png",
     "typeEnergy": "Metal",
     "type": "Pokemon",
@@ -2757,11 +2507,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_125-2x.jpg",
     "ename": "Klinklang",
     "series": "SS12",
-    "cardNo": 125
+    "cardNo": "125"
   },
   {
-    "id": "7105",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7105/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007105.png",
     "typeEnergy": "Metal",
     "type": "Pokemon",
@@ -2779,11 +2527,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_126-2x.jpg",
     "ename": "Cobalion",
     "series": "SS12",
-    "cardNo": 126
+    "cardNo": "126"
   },
   {
-    "id": "7106",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7106/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007106.png",
     "typeEnergy": "Metal",
     "type": "Pokemon",
@@ -2797,11 +2543,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_127-2x.jpg",
     "ename": "Togedemaru",
     "series": "SS12",
-    "cardNo": 127
+    "cardNo": "127"
   },
   {
-    "id": "6991",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6991/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006991.png",
     "typeEnergy": "Metal",
     "type": "Pokemon",
@@ -2829,8 +2573,6 @@
     "cardNo": "128"
   },
   {
-    "id": "7107",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7107/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007107.png",
     "typeEnergy": "Dragon",
     "type": "Pokemon",
@@ -2844,11 +2586,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_129-2x.jpg",
     "ename": "Dratini",
     "series": "SS12",
-    "cardNo": 129
+    "cardNo": "129"
   },
   {
-    "id": "7108",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7108/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007108.png",
     "typeEnergy": "Dragon",
     "type": "Pokemon",
@@ -2866,11 +2606,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_130-2x.jpg",
     "ename": "Dragonair",
     "series": "SS12",
-    "cardNo": 130
+    "cardNo": "130"
   },
   {
-    "id": "7109",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7109/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007109.png",
     "typeEnergy": "Dragon",
     "type": "Pokemon",
@@ -2888,11 +2626,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_131-2x.jpg",
     "ename": "Dragonite",
     "series": "SS12",
-    "cardNo": 131
+    "cardNo": "131"
   },
   {
-    "id": "7110",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7110/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007110.png",
     "typeEnergy": "Dragon",
     "type": "Pokemon",
@@ -2910,11 +2646,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_132-2x.jpg",
     "ename": "Noibat",
     "series": "SS12",
-    "cardNo": 132
+    "cardNo": "132"
   },
   {
-    "id": "7111",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7111/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007111.png",
     "typeEnergy": "Dragon",
     "type": "Pokemon",
@@ -2932,11 +2666,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_133-2x.jpg",
     "ename": "Noivern",
     "series": "SS12",
-    "cardNo": 133
+    "cardNo": "133"
   },
   {
-    "id": "7112",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7112/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007112.png",
     "typeEnergy": "Dragon",
     "type": "Pokemon",
@@ -2954,11 +2686,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_134-2x.jpg",
     "ename": "Zygarde",
     "series": "SS12",
-    "cardNo": 134
+    "cardNo": "134"
   },
   {
-    "id": "7113",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7113/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007113.png",
     "typeEnergy": "Dragon",
     "type": "Pokemon",
@@ -2987,8 +2717,6 @@
     "cardNo": "135"
   },
   {
-    "id": "7114",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7114/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007114.png",
     "typeEnergy": "Dragon",
     "type": "Pokemon",
@@ -3016,8 +2744,6 @@
     "cardNo": "136"
   },
   {
-    "id": "6994",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6994/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006994.png",
     "typeEnergy": "Colorless",
     "type": "Pokemon",
@@ -3041,8 +2767,6 @@
     "cardNo": "137"
   },
   {
-    "id": "7116",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7116/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007116.png",
     "typeEnergy": "Colorless",
     "type": "Pokemon",
@@ -3071,8 +2795,6 @@
     "cardNo": "138"
   },
   {
-    "id": "7117",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7117/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007117.png",
     "typeEnergy": "Colorless",
     "type": "Pokemon",
@@ -3101,8 +2823,6 @@
     "cardNo": "139"
   },
   {
-    "id": "6995",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6995/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006995.png",
     "typeEnergy": "Colorless",
     "type": "Pokemon",
@@ -3130,8 +2850,6 @@
     "cardNo": "140"
   },
   {
-    "id": "6823",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6823/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006823.png",
     "typeEnergy": "Colorless",
     "type": "Pokemon",
@@ -3145,11 +2863,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_141-2x.jpg",
     "ename": "Spinda",
     "series": "SS12",
-    "cardNo": 141
+    "cardNo": "141"
   },
   {
-    "id": "6996",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6996/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006996.png",
     "typeEnergy": "Colorless",
     "type": "Pokemon",
@@ -3163,11 +2879,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_142-2x.jpg",
     "ename": "Swablu",
     "series": "SS12",
-    "cardNo": 142
+    "cardNo": "142"
   },
   {
-    "id": "6997",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6997/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006997.png",
     "typeEnergy": "Colorless",
     "type": "Pokemon",
@@ -3191,8 +2905,6 @@
     "cardNo": "143"
   },
   {
-    "id": "6824",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6824/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006824.png",
     "typeEnergy": "Colorless",
     "type": "Pokemon",
@@ -3206,11 +2918,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_144-2x.jpg",
     "ename": "Buneary",
     "series": "SS12",
-    "cardNo": 144
+    "cardNo": "144"
   },
   {
-    "id": "6825",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6825/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006825.png",
     "typeEnergy": "Colorless",
     "type": "Pokemon",
@@ -3228,11 +2938,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_145-2x.jpg",
     "ename": "Lopunny",
     "series": "SS12",
-    "cardNo": 145
+    "cardNo": "145"
   },
   {
-    "id": "7119",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7119/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007119.png",
     "typeEnergy": "Colorless",
     "type": "Pokemon",
@@ -3250,11 +2958,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_146-2x.jpg",
     "ename": "Archen",
     "series": "SS12",
-    "cardNo": 146
+    "cardNo": "146"
   },
   {
-    "id": "7120",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7120/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007120.png",
     "typeEnergy": "Colorless",
     "type": "Pokemon",
@@ -3272,11 +2978,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_147-2x.jpg",
     "ename": "Archeops",
     "series": "SS12",
-    "cardNo": 147
+    "cardNo": "147"
   },
   {
-    "id": "7121",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7121/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007121.png",
     "typeEnergy": "Colorless",
     "type": "Pokemon",
@@ -3290,11 +2994,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_148-2x.jpg",
     "ename": "Rufflet",
     "series": "SS12",
-    "cardNo": 148
+    "cardNo": "148"
   },
   {
-    "id": "7122",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7122/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007122.png",
     "typeEnergy": "Colorless",
     "type": "Pokemon",
@@ -3312,11 +3014,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_149-2x.jpg",
     "ename": "Hisuian Braviary",
     "series": "SS12",
-    "cardNo": 149
+    "cardNo": "149"
   },
   {
-    "id": "6827",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6827/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006827.png",
     "typeEnergy": "Colorless",
     "type": "Pokemon",
@@ -3330,11 +3030,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_150-2x.jpg",
     "ename": "Fletchling",
     "series": "SS12",
-    "cardNo": 150
+    "cardNo": "150"
   },
   {
-    "id": "7134",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7134/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007134.png",
     "type": "Trainers",
     "cardName": "原始祭坛",
@@ -3351,11 +3049,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_161-2x.jpg",
     "ename": "Primordial Altar",
     "series": "SS12",
-    "cardNo": 161
+    "cardNo": "161"
   },
   {
-    "id": "7131",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7131/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007131.png",
     "type": "Trainers",
     "cardName": "神代",
@@ -3383,8 +3079,6 @@
     "cardNo": "151"
   },
   {
-    "id": "7132",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7132/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007132.png",
     "type": "Trainers",
     "cardName": "小菘",
@@ -3408,8 +3102,6 @@
     "cardNo": "152"
   },
   {
-    "id": "7005",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7005/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007005.png",
     "type": "Trainers",
     "cardName": "长袖和服少女",
@@ -3433,8 +3125,6 @@
     "cardNo": "157"
   },
   {
-    "id": "7133",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7133/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007133.png",
     "type": "Trainers",
     "cardName": "阿渡",
@@ -3458,8 +3148,6 @@
     "cardNo": "159"
   },
   {
-    "id": "6927",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/6927/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006927.png",
     "type": "Trainers",
     "cardName": "拉苯博士",
@@ -3476,11 +3164,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_162-2x.jpg",
     "ename": "Professor Laventon",
     "series": "SS12",
-    "cardNo": 162
+    "cardNo": "162"
   },
   {
-    "id": "7004",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7004/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007004.png",
     "type": "Trainers",
     "cardName": "莎莉娜",
@@ -3512,8 +3198,6 @@
     "cardNo": "164"
   },
   {
-    "id": "7006",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7006/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007006.png",
     "type": "Trainers",
     "cardName": "米可利",
@@ -3537,8 +3221,6 @@
     "cardNo": "166"
   },
   {
-    "id": "7130",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7130/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007130.png",
     "type": "Trainers",
     "cardName": "工人",
@@ -3562,8 +3244,6 @@
     "cardNo": "167"
   },
   {
-    "id": "7128",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7128/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007128.png",
     "type": "Trainers",
     "cardName": "大地封印石",
@@ -3588,11 +3268,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_154-2x.jpg",
     "ename": "Earthen Seal Stone",
     "series": "SS12",
-    "cardNo": 154
+    "cardNo": "154"
   },
   {
-    "id": "7129",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7129/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007129.png",
     "type": "Trainers",
     "cardName": "森林封印石",
@@ -3617,11 +3295,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_156-2x.jpg",
     "ename": "Forest Seal Stone",
     "series": "SS12",
-    "cardNo": 156
+    "cardNo": "156"
   },
   {
-    "id": "7002",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7002/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007002.png",
     "type": "Trainers",
     "cardName": "紧急果冻",
@@ -3642,11 +3318,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_155-2x.jpg",
     "ename": "Emergency Jelly",
     "series": "SS12",
-    "cardNo": 155
+    "cardNo": "155"
   },
   {
-    "id": "7371",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7371/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007371.png",
     "type": "Trainers",
     "cardName": "叶隐披风",
@@ -3673,8 +3347,6 @@
     "cardNo": "160"
   },
   {
-    "id": "7000",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7000/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007000.png",
     "type": "Trainers",
     "cardName": "捕获香氛",
@@ -3691,11 +3363,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_153-2x.jpg",
     "ename": "Capturing Aroma",
     "series": "SS12",
-    "cardNo": 153
+    "cardNo": "153"
   },
   {
-    "id": "7126",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7126/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007126.png",
     "type": "Trainers",
     "cardName": "四尖石",
@@ -3720,11 +3390,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_163-2x.jpg",
     "ename": "Quad Stone",
     "series": "SS12",
-    "cardNo": 163
+    "cardNo": "163"
   },
   {
-    "id": "7127",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7127/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007127.png",
     "type": "Trainers",
     "cardName": "谜之化石",
@@ -3745,11 +3413,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_165-2x.jpg",
     "ename": "Unidentified Fossil",
     "series": "SS12",
-    "cardNo": 165
+    "cardNo": "165"
   },
   {
-    "id": "7135",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7135/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007135.png",
     "type": "Energy",
     "cardName": "回血能量",
@@ -3766,11 +3432,9 @@
     "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_168-2x.jpg",
     "ename": "Regenerative Energy",
     "series": "SS12",
-    "cardNo": 168
+    "cardNo": "168"
   },
   {
-    "id": "7008",
-    "url": "https://asia.pokemon-card.com/tw/card-search/detail/7008/",
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007008.png",
     "type": "Energy",
     "cardName": "V防守能量",

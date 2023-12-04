@@ -1,5 +1,6 @@
 {
   "usingComponents": {
-    "empty-list": "../../../components/emptyList/index"
+    "empty-list": "../../../components/emptyList/index",
+    "copy-right": "../../../components/copyright/index"
   }
 }

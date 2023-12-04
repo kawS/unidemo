@@ -4,9 +4,17 @@ const sdata = [
     sename: 'Scarlet & Violet',
     list: [
       {
+        name: 'Paldean Fates',
+        no: 'SV4.5',
+        code: '暂未发行',
+        logo: 'https://www.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/sv_series/sv045/sv045-slider-logo-en.png',
+        isBack: false,
+        tipNo: 'G'
+      },
+      {
         name: 'Paradox Rift',
         no: 'SV4',
-        code: '暂未发行',
+        code: 'PAR',
         logo: 'https://www.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/sv_series/sv04/sv04-slider-logo-en.png',
         isBack: false,
         tipNo: 'G'
