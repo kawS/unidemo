@@ -373,30 +373,6 @@
     "cardNo": "20"
   },
   {
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006369.png",
-    "typeEnergy": "Grass",
-    "type": "Pokemon",
-    "cardName": "洗翠 顽皮雷弹V",
-    "skillList": [
-      {
-        "name": "烦躁炸弹",
-        "effect": "造成这只宝可梦处于特殊状态的数量×100点伤害。"
-      },
-      {
-        "name": "日光射击",
-        "effect": "将这只宝可梦身上附加的能量全部丢弃。"
-      },
-      {
-        "name": "[V规则]",
-        "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
-      }
-    ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_172-2x.jpg",
-    "ename": "Hisuian Electrode V",
-    "series": "SS11",
-    "cardNo": "172"
-  },
-  {
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006752.png",
     "typeEnergy": "Fire",
     "type": "Pokemon",
@@ -987,7 +963,7 @@
         "effect": "这个招式的伤害不计算弱点。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_50-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_050_R_EN.png",
     "ename": "Cramorant",
     "series": "SS11",
     "cardNo": "50"
@@ -1412,7 +1388,7 @@
         "effect": "这个招式只有在自己的放逐区有10张以上的卡时才可使用。将12个伤害指示物以任意方式放置于对手的宝可梦身上。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_70-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_070_R_EN.png",
     "ename": "Sableye",
     "series": "SS11",
     "cardNo": "70"
@@ -1584,7 +1560,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_79-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_079_R_EN.png",
     "ename": "Comfey",
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_14-2x.jpg"
@@ -2387,11 +2363,11 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_118-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_118_R_EN.png",
     "ename": "Drapion V",
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_49-2x.jpg",
-      "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_182-2x.jpg"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_182_R_EN.png"
     ],
     "series": "SS11",
     "cardNo": "118"
@@ -2654,11 +2630,11 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_130-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_130_R_EN.png",
     "ename": "Giratina V",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_185-2x.jpg",
-      "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_186-2x.jpg"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_185_R_EN.png",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_186_R_EN.png"
     ],
     "series": "SS11",
     "cardNo": "130"
@@ -2682,7 +2658,7 @@
         "effect": "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_131-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_131_R_EN.png",
     "ename": "Giratina VSTAR",
     "artList": [
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_GG69_R_EN.png",
@@ -2828,7 +2804,7 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_137-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_137_R_EN.png",
     "ename": "Pidgeot V",
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_188-2x.jpg"
@@ -3121,42 +3097,23 @@
     "cardNo": "151"
   },
   {
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006437.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006429.png",
     "type": "Trainers",
-    "cardName": "睿智湖",
+    "cardName": "阿尔宙斯手机",
     "skillList": [
       {
         "name": "",
-        "effect": "双方的身上附有【水】或者【斗】能量的宝可梦，受到对手的宝可梦招式的伤害「-20」点。"
+        "effect": "查看自己的牌库上方1张卡，回复原样。若希望，选择1张自己的反面朝上的奖赏卡，与自己的牌库上方的卡维持反面朝上互换。"
       },
       {
-        "name": "[竞技场规则]",
-        "effect": "在自己的回合时，只可将1张竞技场卡放置于战斗场旁边。若其他名称的竞技场卡被放置，则将这张卡丢弃。"
+        "name": "[物品规则]",
+        "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_160-2x.jpg",
-    "ename": "Lake Acuity",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_152-2x.jpg",
+    "ename": "Arc Phone",
     "series": "SS11",
-    "cardNo": "160"
-  },
-  {
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006836.png",
-    "type": "Trainers",
-    "cardName": "放逐市",
-    "skillList": [
-      {
-        "name": "",
-        "effect": "每次当双方的宝可梦【气绝】时，不丢弃那只宝可梦，而是放置于放逐区。（宝可梦以外的卡全部丢弃。）"
-      },
-      {
-        "name": "[竞技场规则]",
-        "effect": "在自己的回合时，只可将1张竞技场卡放置于战斗场旁边。若其他名称的竞技场卡被放置，则将这张卡丢弃。"
-      }
-    ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_161-2x.jpg",
-    "ename": "Lost City",
-    "series": "SS11",
-    "cardNo": "161"
+    "cardNo": "152"
   },
   {
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006435.png",
@@ -3182,6 +3139,32 @@
     "cardNo": "153"
   },
   {
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006432.png",
+    "type": "Trainers",
+    "cardName": "灾祸箱",
+    "skillList": [
+      {
+        "name": "[宝可梦道具规则]",
+        "effect": "宝可梦道具卡，附于自己的宝可梦使用。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
+      },
+      {
+        "name": "",
+        "effect": "附有这张卡的「宝可梦【V】」的HP是全满的状态下，受到对手的宝可梦招式的伤害而【气绝】时，在使用招式的宝可梦身上放置8个伤害指示物。"
+      },
+      {
+        "name": "[物品规则]",
+        "effect": "在自己的回合时，物品卡可不限张数使用。"
+      }
+    ],
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_154_R_EN.png",
+    "ename": "Box of Disaster",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_214_R_EN.png"
+    ],
+    "series": "SS11",
+    "cardNo": "154"
+  },
+  {
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006832.png",
     "type": "Trainers",
     "cardName": "阿克罗玛的实验",
@@ -3195,15 +3178,34 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_155-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_155_R_EN.png",
     "ename": "Colress's Experiment",
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_59-2x.jpg",
-      "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_190-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_190_R_EN.png",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_205_R_EN.png"
     ],
     "series": "SS11",
     "cardNo": "155"
+  },
+  {
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006430.png",
+    "type": "Trainers",
+    "cardName": "伤害水泵",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "选择最多2个自己的1只场上宝可梦身上放置的伤害指示物，以任意方式改放于自己的其他宝可梦身上。"
+      },
+      {
+        "name": "[物品规则]",
+        "effect": "在自己的回合时，物品卡可不限张数使用。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_156-2x.jpg",
+    "ename": "Damage Pump",
+    "series": "SS11",
+    "cardNo": "156"
   },
   {
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006835.png",
@@ -3279,6 +3281,93 @@
     "cardNo": "159"
   },
   {
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006437.png",
+    "type": "Trainers",
+    "cardName": "睿智湖",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "双方的身上附有【水】或者【斗】能量的宝可梦，受到对手的宝可梦招式的伤害「-20」点。"
+      },
+      {
+        "name": "[竞技场规则]",
+        "effect": "在自己的回合时，只可将1张竞技场卡放置于战斗场旁边。若其他名称的竞技场卡被放置，则将这张卡丢弃。"
+      }
+    ],
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_160_R_EN.png",
+    "ename": "Lake Acuity",
+    "series": "SS11",
+    "cardNo": "160"
+  },
+  {
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006836.png",
+    "type": "Trainers",
+    "cardName": "放逐市",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "每次当双方的宝可梦【气绝】时，不丢弃那只宝可梦，而是放置于放逐区。（宝可梦以外的卡全部丢弃。）"
+      },
+      {
+        "name": "[竞技场规则]",
+        "effect": "在自己的回合时，只可将1张竞技场卡放置于战斗场旁边。若其他名称的竞技场卡被放置，则将这张卡丢弃。"
+      }
+    ],
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_161_R_EN.png",
+    "ename": "Lost City",
+    "series": "SS11",
+    "cardNo": "161"
+  },
+  {
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006830.png",
+    "type": "Trainers",
+    "cardName": "放逐吸尘器",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "这张卡必须将自己的1张手牌放置于放逐区才可使用。"
+      },
+      {
+        "name": "",
+        "effect": "从双方的场上宝可梦身上附加的「宝可梦道具」卡与场上的「竞技场」卡中选择1张，放置于放逐区。"
+      },
+      {
+        "name": "[物品规则]",
+        "effect": "在自己的回合时，物品卡可不限张数使用。"
+      }
+    ],
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_162_R_EN.png",
+    "ename": "Lost Vacuum",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_217_R_EN.png"
+    ],
+    "series": "SS11",
+    "cardNo": "162"
+  },
+  {
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006829.png",
+    "type": "Trainers",
+    "cardName": "幻想门",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "这张卡只有在自己的放逐区有7张以上的卡时才可使用。"
+      },
+      {
+        "name": "",
+        "effect": "从自己的牌库选择最多2张各不同属性的基本能量卡，以任意方式附于自己的宝可梦身上。并且重洗牌库。"
+      },
+      {
+        "name": "[物品规则]",
+        "effect": "在自己的回合时，物品卡可不限张数使用。"
+      }
+    ],
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_163_R_EN.png",
+    "ename": "Mirage Gate",
+    "series": "SS11",
+    "cardNo": "163"
+  },
+  {
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006436.png",
     "type": "Trainers",
     "cardName": "野贼三姐妹",
@@ -3300,6 +3389,29 @@
     ],
     "series": "SS11",
     "cardNo": "164"
+  },
+  {
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006831.png",
+    "type": "Trainers",
+    "cardName": "恐慌面具",
+    "skillList": [
+      {
+        "name": "[宝可梦道具规则]",
+        "effect": "宝可梦道具卡，附于自己的宝可梦使用。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
+      },
+      {
+        "name": "",
+        "effect": "附有这张卡的宝可梦不会受到对手的剩余HP为「40」以下的宝可梦招式的伤害。"
+      },
+      {
+        "name": "[物品规则]",
+        "effect": "在自己的回合时，物品卡可不限张数使用。"
+      }
+    ],
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_165_R_EN.png",
+    "ename": "Panic Mask",
+    "series": "SS11",
+    "cardNo": "165"
   },
   {
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00005629.png",
@@ -3344,6 +3456,25 @@
     "cardNo": "167"
   },
   {
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006828.png",
+    "type": "Trainers",
+    "cardName": "道具箱",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "查看自己的牌库上方7张卡，从其中选择任意数量的「宝可梦道具」，在给对手看过后加入手牌。将剩余卡放回牌库并重洗。"
+      },
+      {
+        "name": "[物品规则]",
+        "effect": "在自己的回合时，物品卡可不限张数使用。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_168-2x.jpg",
+    "ename": "Tool Box",
+    "series": "SS11",
+    "cardNo": "168"
+  },
+  {
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006433.png",
     "type": "Trainers",
     "cardName": "望罗",
@@ -3366,55 +3497,6 @@
     ],
     "series": "SS11",
     "cardNo": "169"
-  },
-  {
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006432.png",
-    "type": "Trainers",
-    "cardName": "灾祸箱",
-    "skillList": [
-      {
-        "name": "[宝可梦道具规则]",
-        "effect": "宝可梦道具卡，附于自己的宝可梦使用。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
-      },
-      {
-        "name": "",
-        "effect": "附有这张卡的「宝可梦【V】」的HP是全满的状态下，受到对手的宝可梦招式的伤害而【气绝】时，在使用招式的宝可梦身上放置8个伤害指示物。"
-      },
-      {
-        "name": "[物品规则]",
-        "effect": "在自己的回合时，物品卡可不限张数使用。"
-      }
-    ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_154-2x.jpg",
-    "ename": "Box of Disaster",
-    "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_214_R_EN.png"
-    ],
-    "series": "SS11",
-    "cardNo": "154"
-  },
-  {
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006831.png",
-    "type": "Trainers",
-    "cardName": "恐慌面具",
-    "skillList": [
-      {
-        "name": "[宝可梦道具规则]",
-        "effect": "宝可梦道具卡，附于自己的宝可梦使用。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
-      },
-      {
-        "name": "",
-        "effect": "附有这张卡的宝可梦不会受到对手的剩余HP为「40」以下的宝可梦招式的伤害。"
-      },
-      {
-        "name": "[物品规则]",
-        "effect": "在自己的回合时，物品卡可不限张数使用。"
-      }
-    ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_165-2x.jpg",
-    "ename": "Panic Mask",
-    "series": "SS11",
-    "cardNo": "165"
   },
   {
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006431.png",
@@ -3440,112 +3522,6 @@
     "cardNo": "170"
   },
   {
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006429.png",
-    "type": "Trainers",
-    "cardName": "阿尔宙斯手机",
-    "skillList": [
-      {
-        "name": "",
-        "effect": "查看自己的牌库上方1张卡，回复原样。若希望，选择1张自己的反面朝上的奖赏卡，与自己的牌库上方的卡维持反面朝上互换。"
-      },
-      {
-        "name": "[物品规则]",
-        "effect": "在自己的回合时，物品卡可不限张数使用。"
-      }
-    ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_152-2x.jpg",
-    "ename": "Arc Phone",
-    "series": "SS11",
-    "cardNo": "152"
-  },
-  {
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006430.png",
-    "type": "Trainers",
-    "cardName": "伤害水泵",
-    "skillList": [
-      {
-        "name": "",
-        "effect": "选择最多2个自己的1只场上宝可梦身上放置的伤害指示物，以任意方式改放于自己的其他宝可梦身上。"
-      },
-      {
-        "name": "[物品规则]",
-        "effect": "在自己的回合时，物品卡可不限张数使用。"
-      }
-    ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_156-2x.jpg",
-    "ename": "Damage Pump",
-    "series": "SS11",
-    "cardNo": "156"
-  },
-  {
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006830.png",
-    "type": "Trainers",
-    "cardName": "放逐吸尘器",
-    "skillList": [
-      {
-        "name": "",
-        "effect": "这张卡必须将自己的1张手牌放置于放逐区才可使用。"
-      },
-      {
-        "name": "",
-        "effect": "从双方的场上宝可梦身上附加的「宝可梦道具」卡与场上的「竞技场」卡中选择1张，放置于放逐区。"
-      },
-      {
-        "name": "[物品规则]",
-        "effect": "在自己的回合时，物品卡可不限张数使用。"
-      }
-    ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_162-2x.jpg",
-    "ename": "Lost Vacuum",
-    "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_217_R_EN.png"
-    ],
-    "series": "SS11",
-    "cardNo": "162"
-  },
-  {
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006829.png",
-    "type": "Trainers",
-    "cardName": "幻想门",
-    "skillList": [
-      {
-        "name": "",
-        "effect": "这张卡只有在自己的放逐区有7张以上的卡时才可使用。"
-      },
-      {
-        "name": "",
-        "effect": "从自己的牌库选择最多2张各不同属性的基本能量卡，以任意方式附于自己的宝可梦身上。并且重洗牌库。"
-      },
-      {
-        "name": "[物品规则]",
-        "effect": "在自己的回合时，物品卡可不限张数使用。"
-      }
-    ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_163-2x.jpg",
-    "ename": "Mirage Gate",
-    "series": "SS11",
-    "cardNo": "163"
-  },
-  {
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006828.png",
-    "type": "Trainers",
-    "cardName": "道具箱",
-    "skillList": [
-      {
-        "name": "",
-        "effect": "查看自己的牌库上方7张卡，从其中选择任意数量的「宝可梦道具」，在给对手看过后加入手牌。将剩余卡放回牌库并重洗。"
-      },
-      {
-        "name": "[物品规则]",
-        "effect": "在自己的回合时，物品卡可不限张数使用。"
-      }
-    ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_168-2x.jpg",
-    "ename": "Tool Box",
-    "series": "SS11",
-    "cardNo": "168"
-  },
-  {
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006837.png",
     "type": "Energy",
     "cardName": "礼品能量",
@@ -3563,6 +3539,31 @@
     "ename": "Gift Energy",
     "series": "SS11",
     "cardNo": "171"
+  },
+  {
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006369.png",
+    "typeEnergy": "Grass",
+    "type": "Pokemon",
+    "cardName": "洗翠 顽皮雷弹V",
+    "skillList": [
+      {
+        "name": "烦躁炸弹",
+        "effect": "造成这只宝可梦处于特殊状态的数量×100点伤害。"
+      },
+      {
+        "name": "日光射击",
+        "effect": "将这只宝可梦身上附加的能量全部丢弃。"
+      },
+      {
+        "name": "[V规则]",
+        "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_172-2x.jpg",
+    "ename": "Hisuian Electrode V",
+    "series": "SS11",
+    "cardNo": "172",
+    "isHide": true
   },
   {
     "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_173-2x.jpg",
@@ -3960,7 +3961,7 @@
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_190-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_190_R_EN.png",
     "type": "Trainers",
     "cardName": "阿克罗玛的实验",
     "skillList": [
@@ -3973,7 +3974,7 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_190-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_190_R_EN.png",
     "ename": "Colress's Experiment",
     "series": "SS11",
     "cardNo": "190",
@@ -4299,7 +4300,7 @@
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_205-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_205_R_EN.png",
     "type": "Trainers",
     "cardName": "阿克罗玛的实验",
     "skillList": [
@@ -4312,7 +4313,7 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_205-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_205_R_EN.png",
     "ename": "Colress's Experiment",
     "series": "SS11",
     "cardNo": "205",
@@ -4493,7 +4494,7 @@
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_214-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_214_R_EN.png",
     "type": "Trainers",
     "cardName": "灾祸箱",
     "skillList": [
@@ -4510,14 +4511,14 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_214-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_214_R_EN.png",
     "ename": "Box of Disaster",
     "series": "SS11",
     "cardNo": "214",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_215-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_215_R_EN.png",
     "type": "Trainers",
     "cardName": "崩塌的竞技场",
     "skillList": [
@@ -4534,13 +4535,13 @@
         "effect": "在自己的回合时，只可将1张竞技场卡放置于战斗场旁边。若其他名称的竞技场卡被放置，则将这张卡丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_215-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_215_R_EN.png",
     "ename": "Collapsed Stadium",
     "series": "SS11",
     "cardNo": "215"
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_216-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_216_R_EN.png",
     "type": "Trainers",
     "cardName": "暗黑修正档",
     "skillList": [
@@ -4553,13 +4554,14 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_216-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_216_R_EN.png",
     "ename": "Dark Patch",
     "series": "SS11",
-    "cardNo": "216"
+    "cardNo": "216",
+    "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_217-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_217_R_EN.png",
     "type": "Trainers",
     "cardName": "放逐吸尘器",
     "skillList": [
@@ -4576,7 +4578,7 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_217-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_217_R_EN.png",
     "ename": "Lost Vacuum",
     "series": "SS11",
     "cardNo": "217",

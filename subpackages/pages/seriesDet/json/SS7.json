@@ -1719,11 +1719,11 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_83-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_083_R_EN.png",
     "ename": "Medicham V",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_185-2x.jpg",
-      "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_186-2x.jpg"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_185_R_EN.png",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_186_R_EN.png"
     ],
     "series": "SS7",
     "cardNo": "83"
@@ -1937,7 +1937,7 @@
         "effect": "增加对手已经获得的奖赏卡的张数×50点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_93-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_093_R_EN.png",
     "ename": "Galarian Moltres",
     "series": "SS7",
     "cardNo": "93"

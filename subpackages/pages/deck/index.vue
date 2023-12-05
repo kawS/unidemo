@@ -23,8 +23,9 @@
 		<div class="item" v-for="item in resultList" :key="item.name" @click="showDet(item)">
 			<div class="picwp">
 				<image src="../../../common/img/tcg-card-back.jpg" mode="widthFix" class="cback"></image>
-				<image :src="item.enImgUrl" lazy-load mode="heightFix" class="img" v-if="item.artIndex == -1 || !item.artList"></image>
-				<image :src="item?.artList[item.artIndex]" lazy-load mode="heightFix" class="img" v-else></image>
+				<image :src="item.imgUrl" lazy-load mode="heightFix" class="img"></image>
+				<!-- <image :src="item.enImgUrl" lazy-load mode="heightFix" class="img" v-if="item.artIndex == -1 || !item.artList"></image> -->
+				<!-- <image :src="item?.artList[item.artIndex]" lazy-load mode="heightFix" class="img" v-else></image> -->
 				<div class="count"><div class="num">{{ item.count }}</div></div>
 				<div class="series">{{ item.series }}</div>
 			</div>

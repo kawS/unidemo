@@ -396,7 +396,7 @@
         "effect": "在下个自己的回合，这只宝可梦无法使用「烈焰爆」。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_20-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_020_R_EN.png",
     "ename": "Radiant Charizard",
     "series": "SS12.5",
     "cardNo": "20"
@@ -927,7 +927,7 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_45-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_045_R_EN.png",
     "ename": "Rotom V",
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_176-2x.jpg",
@@ -2321,7 +2321,7 @@
         "effect": "掷1次硬币若为反面，则这个招式失败。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_111-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_111_R_EN.png",
     "ename": "Bidoof",
     "artList": [
       "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_29-2x.jpg"
@@ -2565,125 +2565,6 @@
     "cardNo": "122"
   },
   {
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006939.png",
-    "type": "Trainers",
-    "cardName": "挖洞兄弟",
-    "skillList": [
-      {
-        "name": "",
-        "effect": "掷1次硬币。若为正面，则查看自己的牌库下方8张卡，若为反面，则查看自己的牌库下方3张卡，选择其中1张卡加入手牌。将剩余卡放回牌库并重洗。"
-      },
-      {
-        "name": "[支援者规则]",
-        "effect": "在自己的回合时，支援者卡只可使用1张。"
-      }
-    ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_126-2x.jpg",
-    "ename": "Digging Duo",
-    "series": "SS12.5",
-    "cardNo": "126"
-  },
-  {
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007384.png",
-    "type": "Trainers",
-    "cardName": "洗翠的伙伴",
-    "skillList": [
-      {
-        "name": "",
-        "effect": "从自己的牌库抽出3张卡。"
-      },
-      {
-        "name": "[支援者规则]",
-        "effect": "在自己的回合时，支援者卡只可使用1张。"
-      }
-    ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_130-2x.jpg",
-    "ename": "Friends in Hisui",
-    "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_148-2x.jpg"
-    ],
-    "series": "SS12.5",
-    "cardNo": "130"
-  },
-  {
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007378.png",
-    "type": "Trainers",
-    "cardName": "神奥的伙伴",
-    "skillList": [
-      {
-        "name": "",
-        "effect": "从自己的牌库抽出3张卡。"
-      },
-      {
-        "name": "[支援者规则]",
-        "effect": "在自己的回合时，支援者卡只可使用1张。"
-      }
-    ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_131-2x.jpg",
-    "ename": "Friends in Sinnoh",
-    "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_149-2x.jpg"
-    ],
-    "series": "SS12.5",
-    "cardNo": "131"
-  },
-  {
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007136.png",
-    "type": "Trainers",
-    "cardName": "奇巴纳",
-    "skillList": [
-      {
-        "name": "",
-        "effect": "这张卡必须在上个对手的回合自己的宝可梦【气绝】了才可使用。 "
-      },
-      {
-        "name": "",
-        "effect": "从自己的弃牌区选择1张基本能量卡，附于自己的宝可梦身上。然后，从自己的牌库任意选择1张卡加入手牌。并且重洗牌库。"
-      },
-      {
-        "name": "[支援者规则]",
-        "effect": "在自己的回合时，支援者卡只可使用1张。"
-      }
-    ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_140-2x.jpg",
-    "ename": "Raihan",
-    "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_65-2x.jpg",
-      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_27-2x.jpg",
-      "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_202-2x.jpg",
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_224_R_EN.png"
-    ],
-    "series": "SS12.5",
-    "cardNo": "140"
-  },
-  {
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007370.png",
-    "type": "Trainers",
-    "cardName": "天空封印石",
-    "skillList": [
-      {
-        "name": "[宝可梦道具规则]",
-        "effect": "宝可梦道具卡，附于自己的宝可梦使用。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
-      },
-      {
-        "name": "",
-        "effect": "附有这张卡的「宝可梦【V】」可使用这个【VSTAR】力量。"
-      },
-      {
-        "name": "[特性]星星命令",
-        "effect": "在自己的回合时可使用。在这个回合，若对手的战斗场的「宝可梦【VSTAR】・【VMAX】」，因自己的【基础】宝可梦的「宝可梦【V】」使用的招式的伤害而【气绝】了，则多获得1张奖赏卡。[对战中，己方只可使用1次【VSTAR】力量。]"
-      },
-      {
-        "name": "[物品规则]",
-        "effect": "在自己的回合时，物品卡可不限张数使用。"
-      }
-    ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_143-2x.jpg",
-    "ename": "Sky Seal Stone",
-    "series": "SS12.5",
-    "cardNo": "143"
-  },
-  {
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007154.png",
     "type": "Trainers",
     "cardName": "粉碎之锤",
@@ -2701,6 +2582,25 @@
     "ename": "Crushing Hammer",
     "series": "SS12.5",
     "cardNo": "125"
+  },
+  {
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006939.png",
+    "type": "Trainers",
+    "cardName": "挖洞兄弟",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "掷1次硬币。若为正面，则查看自己的牌库下方8张卡，若为反面，则查看自己的牌库下方3张卡，选择其中1张卡加入手牌。将剩余卡放回牌库并重洗。"
+      },
+      {
+        "name": "[支援者规则]",
+        "effect": "在自己的回合时，支援者卡只可使用1张。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_126-2x.jpg",
+    "ename": "Digging Duo",
+    "series": "SS12.5",
+    "cardNo": "126"
   },
   {
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007176.png",
@@ -2763,6 +2663,50 @@
     "cardNo": "129"
   },
   {
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007384.png",
+    "type": "Trainers",
+    "cardName": "洗翠的伙伴",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "从自己的牌库抽出3张卡。"
+      },
+      {
+        "name": "[支援者规则]",
+        "effect": "在自己的回合时，支援者卡只可使用1张。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_130-2x.jpg",
+    "ename": "Friends in Hisui",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_148-2x.jpg"
+    ],
+    "series": "SS12.5",
+    "cardNo": "130"
+  },
+  {
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007378.png",
+    "type": "Trainers",
+    "cardName": "神奥的伙伴",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "从自己的牌库抽出3张卡。"
+      },
+      {
+        "name": "[支援者规则]",
+        "effect": "在自己的回合时，支援者卡只可使用1张。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_131-2x.jpg",
+    "ename": "Friends in Sinnoh",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_149-2x.jpg"
+    ],
+    "series": "SS12.5",
+    "cardNo": "131"
+  },
+  {
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007177.png",
     "type": "Trainers",
     "cardName": "超级球",
@@ -2799,7 +2743,7 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_135-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_135_R_EN.png",
     "ename": "Lost Vacuum",
     "artList": [
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_217_R_EN.png"
@@ -2865,6 +2809,35 @@
     "cardNo": "139"
   },
   {
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007136.png",
+    "type": "Trainers",
+    "cardName": "奇巴纳",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "这张卡必须在上个对手的回合自己的宝可梦【气绝】了才可使用。 "
+      },
+      {
+        "name": "",
+        "effect": "从自己的弃牌区选择1张基本能量卡，附于自己的宝可梦身上。然后，从自己的牌库任意选择1张卡加入手牌。并且重洗牌库。"
+      },
+      {
+        "name": "[支援者规则]",
+        "effect": "在自己的回合时，支援者卡只可使用1张。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_140-2x.jpg",
+    "ename": "Raihan",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_65-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_27-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_202-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_224_R_EN.png"
+    ],
+    "series": "SS12.5",
+    "cardNo": "140"
+  },
+  {
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006002.png",
     "type": "Trainers",
     "cardName": "神奇糖果",
@@ -2906,6 +2879,33 @@
     "cardNo": "142"
   },
   {
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007370.png",
+    "type": "Trainers",
+    "cardName": "天空封印石",
+    "skillList": [
+      {
+        "name": "[宝可梦道具规则]",
+        "effect": "宝可梦道具卡，附于自己的宝可梦使用。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
+      },
+      {
+        "name": "",
+        "effect": "附有这张卡的「宝可梦【V】」可使用这个【VSTAR】力量。"
+      },
+      {
+        "name": "[特性]星星命令",
+        "effect": "在自己的回合时可使用。在这个回合，若对手的战斗场的「宝可梦【VSTAR】・【VMAX】」，因自己的【基础】宝可梦的「宝可梦【V】」使用的招式的伤害而【气绝】了，则多获得1张奖赏卡。[对战中，己方只可使用1次【VSTAR】力量。]"
+      },
+      {
+        "name": "[物品规则]",
+        "effect": "在自己的回合时，物品卡可不限张数使用。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_143-2x.jpg",
+    "ename": "Sky Seal Stone",
+    "series": "SS12.5",
+    "cardNo": "143"
+  },
+  {
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00007025.png",
     "type": "Trainers",
     "cardName": "宝可梦交替",
@@ -2941,7 +2941,7 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_145-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_145_R_EN.png",
     "ename": "Trekking Shoes",
     "artList": [
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_215_R_EN.png"
