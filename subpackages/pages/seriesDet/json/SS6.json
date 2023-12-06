@@ -2562,66 +2562,6 @@
     "cardNo": "128"
   },
   {
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000461.png",
-    "type": "Trainers",
-    "cardName": "巨树丘陵",
-    "skillList": [
-      {
-        "name": "",
-        "effect": "双方的所有宝可梦的HP无法恢复。"
-      },
-      {
-        "name": "[竞技场规则]",
-        "effect": "在自己的回合时，只可将1张竞技场卡放置于战斗场旁边。若其他名称的竞技场卡被放置，则将这张卡丢弃。"
-      }
-    ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_135-2x.jpg",
-    "ename": "Dyna Tree Hill",
-    "series": "SS6",
-    "cardNo": "135"
-  },
-  {
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000808.png",
-    "type": "Trainers",
-    "cardName": "远古墓地",
-    "skillList": [
-      {
-        "name": "",
-        "effect": "双方玩家每次从自己的手牌将能量附于宝可梦（【超】宝可梦除外）身上时，在那只宝可梦身上放置2个伤害指示物。"
-      },
-      {
-        "name": "[竞技场规则]",
-        "effect": "在自己的回合时，只可将1张竞技场卡放置于战斗场旁边。若其他名称的竞技场卡被放置，则将这张卡丢弃。"
-      }
-    ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_147-2x.jpg",
-    "ename": "Old Cemetery",
-    "series": "SS6",
-    "cardNo": "147"
-  },
-  {
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000739.png",
-    "type": "Trainers",
-    "cardName": "通顶雪道",
-    "skillList": [
-      {
-        "name": "",
-        "effect": "双方场上的「拥有规则的宝可梦」的特性全部消除。"
-      },
-      {
-        "name": "[竞技场规则]",
-        "effect": "在自己的回合时，只可将1张竞技场卡放置于战斗场旁边。若其他名称的竞技场卡被放置，则将这张卡丢弃。"
-      }
-    ],
-    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_148_R_EN.png",
-    "ename": "Path to the Peak",
-    "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_213_R_EN.png"
-    ],
-    "series": "SS6",
-    "cardNo": "148"
-  },
-  {
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000805.png",
     "type": "Trainers",
     "cardName": "菊子",
@@ -2698,6 +2638,29 @@
     "cardNo": "132"
   },
   {
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000734.png",
+    "type": "Trainers",
+    "cardName": "破坏手套",
+    "skillList": [
+      {
+        "name": "[宝可梦道具规则]",
+        "effect": "宝可梦道具卡，附于自己的宝可梦使用。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
+      },
+      {
+        "name": "",
+        "effect": "附有这张卡的宝可梦使用的招式，对对手的战斗场的【钢】宝可梦造成的伤害「+30」点。"
+      },
+      {
+        "name": "[物品规则]",
+        "effect": "在自己的回合时，物品卡可不限张数使用。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_133-2x.jpg",
+    "ename": "Crushing Gloves",
+    "series": "SS6",
+    "cardNo": "133"
+  },
+  {
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000736.png",
     "type": "Trainers",
     "cardName": "医生",
@@ -2715,6 +2678,86 @@
     "ename": "Doctor",
     "series": "SS6",
     "cardNo": "134"
+  },
+  {
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000461.png",
+    "type": "Trainers",
+    "cardName": "巨树丘陵",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "双方的所有宝可梦的HP无法恢复。"
+      },
+      {
+        "name": "[竞技场规则]",
+        "effect": "在自己的回合时，只可将1张竞技场卡放置于战斗场旁边。若其他名称的竞技场卡被放置，则将这张卡丢弃。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_135-2x.jpg",
+    "ename": "Dyna Tree Hill",
+    "series": "SS6",
+    "cardNo": "135"
+  },
+  {
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000455.png",
+    "type": "Trainers",
+    "cardName": "山谷回音喇叭",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "从对手的弃牌区选择1张【基础】宝可梦卡，放置于对手的备战区。"
+      },
+      {
+        "name": "[物品规则]",
+        "effect": "在自己的回合时，物品卡可不限张数使用。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_136-2x.jpg",
+    "ename": "Echoing Horn",
+    "series": "SS6",
+    "cardNo": "136"
+  },
+  {
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000730.png",
+    "type": "Trainers",
+    "cardName": "生存组合",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "查看自己的牌库下方3张卡，以任意顺序排列，放回牌库上方。"
+      },
+      {
+        "name": "[物品规则]",
+        "effect": "在自己的回合时，物品卡可不限张数使用。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_137-2x.jpg",
+    "ename": "Expedition Uniform",
+    "series": "SS6",
+    "cardNo": "137"
+  },
+  {
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000733.png",
+    "type": "Trainers",
+    "cardName": "防火手套",
+    "skillList": [
+      {
+        "name": "[宝可梦道具规则]",
+        "effect": "宝可梦道具卡，附于自己的宝可梦使用。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
+      },
+      {
+        "name": "",
+        "effect": "附有这张卡的宝可梦使用的招式，对对手的战斗场的【火】宝可梦造成的伤害「+30」点。"
+      },
+      {
+        "name": "[物品规则]",
+        "effect": "在自己的回合时，物品卡可不限张数使用。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_138-2x.jpg",
+    "ename": "Fire-Resistant Gloves",
+    "series": "SS6",
+    "cardNo": "138"
   },
   {
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000735.png",
@@ -2736,6 +2779,48 @@
     "cardNo": "139"
   },
   {
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000800.png",
+    "type": "Trainers",
+    "cardName": "雾之水晶",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "从自己的牌库选择1张【超】属性的【基础】宝可梦卡或者【超】能量卡，在给对手看过后加入手牌。并且重洗牌库。"
+      },
+      {
+        "name": "[物品规则]",
+        "effect": "在自己的回合时，物品卡可不限张数使用。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_140-2x.jpg",
+    "ename": "Fog Crystal",
+    "series": "SS6",
+    "cardNo": "140"
+  },
+  {
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000456.png",
+    "type": "Trainers",
+    "cardName": "伽勒尔的胸甲",
+    "skillList": [
+      {
+        "name": "[宝可梦道具规则]",
+        "effect": "宝可梦道具卡，附于自己的宝可梦使用。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
+      },
+      {
+        "name": "",
+        "effect": "附有这张卡的名称中有「伽勒尔」的宝可梦，受到对手的宝可梦招式的伤害「-30」点。"
+      },
+      {
+        "name": "[物品规则]",
+        "effect": "在自己的回合时，物品卡可不限张数使用。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_141-2x.jpg",
+    "ename": "Galarian Chestplate",
+    "series": "SS6",
+    "cardNo": "141"
+  },
+  {
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00005551.png",
     "type": "Trainers",
     "cardName": "蜜叶",
@@ -2753,6 +2838,29 @@
     "ename": "Honey",
     "series": "SS6",
     "cardNo": "142"
+  },
+  {
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000802.png",
+    "type": "Trainers",
+    "cardName": "正义手套",
+    "skillList": [
+      {
+        "name": "[宝可梦道具规则]",
+        "effect": "宝可梦道具卡，附于自己的宝可梦使用。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
+      },
+      {
+        "name": "",
+        "effect": "附有这张卡的宝可梦使用的招式，对对手的战斗场的【恶】宝可梦造成的伤害「+30」点。"
+      },
+      {
+        "name": "[物品规则]",
+        "effect": "在自己的回合时，物品卡可不限张数使用。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_143-2x.jpg",
+    "ename": "Justified Gloves",
+    "series": "SS6",
+    "cardNo": "143"
   },
   {
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000457.png",
@@ -2816,6 +2924,47 @@
     "cardNo": "146"
   },
   {
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000808.png",
+    "type": "Trainers",
+    "cardName": "远古墓地",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "双方玩家每次从自己的手牌将能量附于宝可梦（【超】宝可梦除外）身上时，在那只宝可梦身上放置2个伤害指示物。"
+      },
+      {
+        "name": "[竞技场规则]",
+        "effect": "在自己的回合时，只可将1张竞技场卡放置于战斗场旁边。若其他名称的竞技场卡被放置，则将这张卡丢弃。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_147-2x.jpg",
+    "ename": "Old Cemetery",
+    "series": "SS6",
+    "cardNo": "147"
+  },
+  {
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000739.png",
+    "type": "Trainers",
+    "cardName": "通顶雪道",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "双方场上的「拥有规则的宝可梦」的特性全部消除。"
+      },
+      {
+        "name": "[竞技场规则]",
+        "effect": "在自己的回合时，只可将1张竞技场卡放置于战斗场旁边。若其他名称的竞技场卡被放置，则将这张卡丢弃。"
+      }
+    ],
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_148_R_EN.png",
+    "ename": "Path to the Peak",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_213_R_EN.png"
+    ],
+    "series": "SS6",
+    "cardNo": "148"
+  },
+  {
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000806.png",
     "type": "Trainers",
     "cardName": "夏科娅",
@@ -2852,117 +3001,6 @@
     "ename": "Peony",
     "series": "SS6",
     "cardNo": "150"
-  },
-  {
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000807.png",
-    "type": "Trainers",
-    "cardName": "志米",
-    "skillList": [
-      {
-        "name": "",
-        "effect": "选择最多2只自己的「连击」宝可梦，各恢复「60」HP。"
-      },
-      {
-        "name": "[支援者规则]",
-        "effect": "在自己的回合时，支援者卡只可使用1张。"
-      }
-    ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_153-2x.jpg",
-    "ename": "Siebold",
-    "series": "SS6",
-    "cardNo": "153"
-  },
-  {
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000734.png",
-    "type": "Trainers",
-    "cardName": "破坏手套",
-    "skillList": [
-      {
-        "name": "[宝可梦道具规则]",
-        "effect": "宝可梦道具卡，附于自己的宝可梦使用。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
-      },
-      {
-        "name": "",
-        "effect": "附有这张卡的宝可梦使用的招式，对对手的战斗场的【钢】宝可梦造成的伤害「+30」点。"
-      },
-      {
-        "name": "[物品规则]",
-        "effect": "在自己的回合时，物品卡可不限张数使用。"
-      }
-    ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_133-2x.jpg",
-    "ename": "Crushing Gloves",
-    "series": "SS6",
-    "cardNo": "133"
-  },
-  {
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000733.png",
-    "type": "Trainers",
-    "cardName": "防火手套",
-    "skillList": [
-      {
-        "name": "[宝可梦道具规则]",
-        "effect": "宝可梦道具卡，附于自己的宝可梦使用。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
-      },
-      {
-        "name": "",
-        "effect": "附有这张卡的宝可梦使用的招式，对对手的战斗场的【火】宝可梦造成的伤害「+30」点。"
-      },
-      {
-        "name": "[物品规则]",
-        "effect": "在自己的回合时，物品卡可不限张数使用。"
-      }
-    ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_138-2x.jpg",
-    "ename": "Fire-Resistant Gloves",
-    "series": "SS6",
-    "cardNo": "138"
-  },
-  {
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000456.png",
-    "type": "Trainers",
-    "cardName": "伽勒尔的胸甲",
-    "skillList": [
-      {
-        "name": "[宝可梦道具规则]",
-        "effect": "宝可梦道具卡，附于自己的宝可梦使用。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
-      },
-      {
-        "name": "",
-        "effect": "附有这张卡的名称中有「伽勒尔」的宝可梦，受到对手的宝可梦招式的伤害「-30」点。"
-      },
-      {
-        "name": "[物品规则]",
-        "effect": "在自己的回合时，物品卡可不限张数使用。"
-      }
-    ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_141-2x.jpg",
-    "ename": "Galarian Chestplate",
-    "series": "SS6",
-    "cardNo": "141"
-  },
-  {
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000802.png",
-    "type": "Trainers",
-    "cardName": "正义手套",
-    "skillList": [
-      {
-        "name": "[宝可梦道具规则]",
-        "effect": "宝可梦道具卡，附于自己的宝可梦使用。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
-      },
-      {
-        "name": "",
-        "effect": "附有这张卡的宝可梦使用的招式，对对手的战斗场的【恶】宝可梦造成的伤害「+30」点。"
-      },
-      {
-        "name": "[物品规则]",
-        "effect": "在自己的回合时，物品卡可不限张数使用。"
-      }
-    ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_143-2x.jpg",
-    "ename": "Justified Gloves",
-    "series": "SS6",
-    "cardNo": "143"
   },
   {
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000803.png",
@@ -3015,6 +3053,25 @@
     "cardNo": "152"
   },
   {
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000807.png",
+    "type": "Trainers",
+    "cardName": "志米",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "选择最多2只自己的「连击」宝可梦，各恢复「60」HP。"
+      },
+      {
+        "name": "[支援者规则]",
+        "effect": "在自己的回合时，支援者卡只可使用1张。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_153-2x.jpg",
+    "ename": "Siebold",
+    "series": "SS6",
+    "cardNo": "153"
+  },
+  {
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000732.png",
     "type": "Trainers",
     "cardName": "一击的卷轴贯通之卷",
@@ -3063,63 +3120,6 @@
     "ename": "Weeding Gloves",
     "series": "SS6",
     "cardNo": "155"
-  },
-  {
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000455.png",
-    "type": "Trainers",
-    "cardName": "山谷回音喇叭",
-    "skillList": [
-      {
-        "name": "",
-        "effect": "从对手的弃牌区选择1张【基础】宝可梦卡，放置于对手的备战区。"
-      },
-      {
-        "name": "[物品规则]",
-        "effect": "在自己的回合时，物品卡可不限张数使用。"
-      }
-    ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_136-2x.jpg",
-    "ename": "Echoing Horn",
-    "series": "SS6",
-    "cardNo": "136"
-  },
-  {
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000730.png",
-    "type": "Trainers",
-    "cardName": "生存组合",
-    "skillList": [
-      {
-        "name": "",
-        "effect": "查看自己的牌库下方3张卡，以任意顺序排列，放回牌库上方。"
-      },
-      {
-        "name": "[物品规则]",
-        "effect": "在自己的回合时，物品卡可不限张数使用。"
-      }
-    ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_137-2x.jpg",
-    "ename": "Expedition Uniform",
-    "series": "SS6",
-    "cardNo": "137"
-  },
-  {
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000800.png",
-    "type": "Trainers",
-    "cardName": "雾之水晶",
-    "skillList": [
-      {
-        "name": "",
-        "effect": "从自己的牌库选择1张【超】属性的【基础】宝可梦卡或者【超】能量卡，在给对手看过后加入手牌。并且重洗牌库。"
-      },
-      {
-        "name": "[物品规则]",
-        "effect": "在自己的回合时，物品卡可不限张数使用。"
-      }
-    ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_140-2x.jpg",
-    "ename": "Fog Crystal",
-    "series": "SS6",
-    "cardNo": "140"
   },
   {
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000454.png",

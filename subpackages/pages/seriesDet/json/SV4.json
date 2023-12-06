@@ -752,7 +752,8 @@
     "ename": "Garchomp ex",
     "artList": [
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_219_R_EN.png",
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_245_R_EN.png"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_245_R_EN.png",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_260_R_EN.png"
     ]
   },
   {
@@ -981,11 +982,7 @@
     "series": "SV4",
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_049_R_EN.png",
     "cardNo": "49",
-    "ename": "Golisopod",
-    "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_221_R_EN.png",
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_246_R_EN.png"
-    ]
+    "ename": "Golisopod"
   },
   {
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008906.png",
@@ -1009,7 +1006,11 @@
     "series": "SV4",
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_050_R_EN.png",
     "cardNo": "50",
-    "ename": "Golisopod ex"
+    "ename": "Golisopod ex",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_221_R_EN.png",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_246_R_EN.png"
+    ]
   },
   {
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008907.png",
@@ -1792,7 +1793,8 @@
     "ename": "Iron Valiant ex",
     "artList": [
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_225_R_EN.png",
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_249_R_EN.png"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_249_R_EN.png",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_261_R_EN.png"
     ]
   },
   {
@@ -2529,7 +2531,8 @@
     "ename": "Roaring Moon ex",
     "artList": [
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_229_R_EN.png",
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_251_R_EN.png"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_251_R_EN.png",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_262_R_EN.png"
     ]
   },
   {
@@ -3288,7 +3291,10 @@
     "series": "SV4",
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_160_R_EN.png",
     "cardNo": "160",
-    "ename": "Counter Catcher"
+    "ename": "Counter Catcher",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_264_R_EN.png"
+    ]
   },
   {
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00009011.png",
@@ -3409,7 +3415,10 @@
     "series": "SV4",
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_166_R_EN.png",
     "cardNo": "166",
-    "ename": "Luxurious Cape"
+    "ename": "Luxurious Cape",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_265_R_EN.png"
+    ]
   },
   {
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008950.png",

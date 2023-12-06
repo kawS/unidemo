@@ -2393,44 +2393,6 @@
     "cardNo": "120"
   },
   {
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000530.jpg",
-    "type": "Trainers",
-    "cardName": "恶之塔",
-    "skillList": [
-      {
-        "name": "",
-        "effect": "双方玩家在每个自己的回合时，可使用1次，若从自己的手牌将1张「一击」卡丢弃，则可从自己的牌库抽出2张卡。"
-      },
-      {
-        "name": "[竞技场规则]",
-        "effect": "在自己的回合时，只可将1张竞技场卡放置于战斗场旁边。若其他名称的竞技场卡被放置，则将这张卡丢弃。"
-      }
-    ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_137-2x.jpg",
-    "ename": "Tower of Darkness",
-    "series": "SS5",
-    "cardNo": "137"
-  },
-  {
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000600.jpg",
-    "type": "Trainers",
-    "cardName": "水之塔",
-    "skillList": [
-      {
-        "name": "",
-        "effect": "双方的所有「连击」宝可梦【撤退】所需的能量各减少2个。"
-      },
-      {
-        "name": "[竞技场规则]",
-        "effect": "在自己的回合时，只可将1张竞技场卡放置于战斗场旁边。若其他名称的竞技场卡被放置，则将这张卡丢弃。"
-      }
-    ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_138-2x.jpg",
-    "ename": "Tower of Waters",
-    "series": "SS5",
-    "cardNo": "138"
-  },
-  {
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000527.jpg",
     "type": "Trainers",
     "cardName": "希巴",
@@ -2448,215 +2410,6 @@
     "ename": "Bruno",
     "series": "SS5",
     "cardNo": "121"
-  },
-  {
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000599.jpg",
-    "type": "Trainers",
-    "cardName": "芽米",
-    "skillList": [
-      {
-        "name": "",
-        "effect": "将自己的所有进化宝可梦的HP全部恢复。然后，将恢复的宝可梦身上附加的能量全部丢弃。"
-      },
-      {
-        "name": "[支援者规则]",
-        "effect": "在自己的回合时，支援者卡只可使用1张。"
-      }
-    ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_123-2x.jpg",
-    "ename": "Cheryl",
-    "series": "SS5",
-    "cardNo": "123"
-  },
-  {
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000597.jpg",
-    "type": "Trainers",
-    "cardName": "可尔妮的气势",
-    "skillList": [
-      {
-        "name": "",
-        "effect": "从牌库抽卡直到自己的手牌满6张为止。"
-      },
-      {
-        "name": "[支援者规则]",
-        "effect": "在自己的回合时，支援者卡只可使用1张。"
-      }
-    ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_128-2x.jpg",
-    "ename": "Korrina's Focus",
-    "series": "SS5",
-    "cardNo": "128"
-  },
-  {
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000528.jpg",
-    "type": "Trainers",
-    "cardName": "芙蓉",
-    "skillList": [
-      {
-        "name": "",
-        "effect": "在这个回合，自己的「宝可梦【VMAX】」使用招式的伤害，不计算对手的战斗宝可梦身上的附加效果。"
-      },
-      {
-        "name": "[支援者规则]",
-        "effect": "在自己的回合时，支援者卡只可使用1张。"
-      }
-    ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_130-2x.jpg",
-    "ename": "Phoebe",
-    "series": "SS5",
-    "cardNo": "130"
-  },
-  {
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000598.jpg",
-    "type": "Trainers",
-    "cardName": "马士德连击流",
-    "skillList": [
-      {
-        "name": "",
-        "effect": "这张卡只有在自己的手牌只有这1张时才可使用。"
-      },
-      {
-        "name": "",
-        "effect": "从自己的弃牌区选择1张「连击」宝可梦卡，放置于备战区。然后，从自己的牌库抽出5张卡。"
-      },
-      {
-        "name": "[支援者规则]",
-        "effect": "这张卡只有在自己的手牌只有这1张时才可使用。 从自己的弃牌区选择1张「连击」宝可梦卡，放置于备战区。然后，从自己的牌库抽出5张卡。"
-      }
-    ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_132-2x.jpg",
-    "ename": "Rapid Strike Style Mustard",
-    "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_TG27_R_EN.jpg"
-    ],
-    "series": "SS5",
-    "cardNo": "132"
-  },
-  {
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000529.jpg",
-    "type": "Trainers",
-    "cardName": "马士德一击流",
-    "skillList": [
-      {
-        "name": "",
-        "effect": "这张卡只有在自己的手牌只有这1张时才可使用。"
-      },
-      {
-        "name": "",
-        "effect": "从自己的牌库选择1张「一击」宝可梦卡，放置于备战区。并且重洗牌库。然后，从自己的牌库抽出5张卡。"
-      },
-      {
-        "name": "[支援者规则]",
-        "effect": "在自己的回合时，支援者卡只可使用1张。"
-      }
-    ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_134-2x.jpg",
-    "ename": "Single Strike Style Mustard",
-    "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_TG28_R_EN.jpg"
-    ],
-    "series": "SS5",
-    "cardNo": "134"
-  },
-  {
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000526.jpg",
-    "type": "Trainers",
-    "cardName": "学习装置",
-    "skillList": [
-      {
-        "name": "[宝可梦道具规则]",
-        "effect": "宝可梦道具卡，附于自己的宝可梦使用。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
-      },
-      {
-        "name": "",
-        "effect": "每次当自己的战斗宝可梦受到对手的宝可梦招式的伤害而【气绝】时，可选择1张那只宝可梦身上附加的基本能量卡，改附于附有这张卡的宝可梦身上。"
-      },
-      {
-        "name": "[物品规则]",
-        "effect": "在自己的回合时，物品卡可不限张数使用。"
-      }
-    ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_126-2x.jpg",
-    "ename": "Exp. Share",
-    "series": "SS5",
-    "cardNo": "126"
-  },
-  {
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000596.jpg",
-    "type": "Trainers",
-    "cardName": "连击的卷轴旋涡之卷",
-    "skillList": [
-      {
-        "name": "[宝可梦道具规则]",
-        "effect": "宝可梦道具卡，附于自己的宝可梦使用。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
-      },
-      {
-        "name": "",
-        "effect": "附有这张卡的「连击」宝可梦，可使用这张卡上写的招式。[需要有足够使用招式的能量。]"
-      },
-      {
-        "name": "旋涡无双",
-        "effect": "对手的所有宝可梦各受到30点伤害。[在备战区不计算弱点・抵抗力。]"
-      },
-      {
-        "name": "[物品规则]",
-        "effect": "在自己的回合时，物品卡可不限张数使用。"
-      }
-    ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_131-2x.jpg",
-    "ename": "Rapid Strike Scroll of Swirls",
-    "series": "SS5",
-    "cardNo": "131"
-  },
-  {
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000525.jpg",
-    "type": "Trainers",
-    "cardName": "一击的卷轴愤怒之卷",
-    "skillList": [
-      {
-        "name": "[宝可梦道具规则]",
-        "effect": "宝可梦道具卡，附于自己的宝可梦使用。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
-      },
-      {
-        "name": "",
-        "effect": "附有这张卡的「一击」宝可梦，可使用这张卡上写的招式。[需要有足够使用招式的能量。]"
-      },
-      {
-        "name": "怒发冲冠",
-        "effect": "增加这只宝可梦身上放置的伤害指示物的数量×10点伤害。"
-      },
-      {
-        "name": "[物品规则]",
-        "effect": "在自己的回合时，物品卡可不限张数使用。"
-      }
-    ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_133-2x.jpg",
-    "ename": "Single Strike Scroll of Scorn",
-    "series": "SS5",
-    "cardNo": "133"
-  },
-  {
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000595.jpg",
-    "type": "Trainers",
-    "cardName": "道具妨碍器",
-    "skillList": [
-      {
-        "name": "[宝可梦道具规则]",
-        "effect": "宝可梦道具卡，附于自己的宝可梦使用。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
-      },
-      {
-        "name": "",
-        "effect": "只要附有这张卡的宝可梦在战斗场上，对手的战斗宝可梦身上附加的「宝可梦道具」（「道具妨碍器」除外）的效果全部消除。"
-      },
-      {
-        "name": "[物品规则]",
-        "effect": "在自己的回合时，物品卡可不限张数使用。"
-      }
-    ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_136-2x.jpg",
-    "ename": "Tool Jammer",
-    "series": "SS5",
-    "cardNo": "136"
   },
   {
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000524.jpg",
@@ -2680,6 +2433,25 @@
     "ename": "Camping Gear",
     "series": "SS5",
     "cardNo": "122"
+  },
+  {
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000599.jpg",
+    "type": "Trainers",
+    "cardName": "芽米",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "将自己的所有进化宝可梦的HP全部恢复。然后，将恢复的宝可梦身上附加的能量全部丢弃。"
+      },
+      {
+        "name": "[支援者规则]",
+        "effect": "在自己的回合时，支援者卡只可使用1张。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_123-2x.jpg",
+    "ename": "Cheryl",
+    "series": "SS5",
+    "cardNo": "123"
   },
   {
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000593.jpg",
@@ -2720,6 +2492,29 @@
     "cardNo": "125"
   },
   {
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000526.jpg",
+    "type": "Trainers",
+    "cardName": "学习装置",
+    "skillList": [
+      {
+        "name": "[宝可梦道具规则]",
+        "effect": "宝可梦道具卡，附于自己的宝可梦使用。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
+      },
+      {
+        "name": "",
+        "effect": "每次当自己的战斗宝可梦受到对手的宝可梦招式的伤害而【气绝】时，可选择1张那只宝可梦身上附加的基本能量卡，改附于附有这张卡的宝可梦身上。"
+      },
+      {
+        "name": "[物品规则]",
+        "effect": "在自己的回合时，物品卡可不限张数使用。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_126-2x.jpg",
+    "ename": "Exp. Share",
+    "series": "SS5",
+    "cardNo": "126"
+  },
+  {
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000592.jpg",
     "type": "Trainers",
     "cardName": "潮漩之扇",
@@ -2739,6 +2534,25 @@
     "cardNo": "127"
   },
   {
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000597.jpg",
+    "type": "Trainers",
+    "cardName": "可尔妮的气势",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "从牌库抽卡直到自己的手牌满6张为止。"
+      },
+      {
+        "name": "[支援者规则]",
+        "effect": "在自己的回合时，支援者卡只可使用1张。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_128-2x.jpg",
+    "ename": "Korrina's Focus",
+    "series": "SS5",
+    "cardNo": "128"
+  },
+  {
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000594.jpg",
     "type": "Trainers",
     "cardName": "等级球",
@@ -2756,6 +2570,192 @@
     "ename": "Level Ball",
     "series": "SS5",
     "cardNo": "129"
+  },
+  {
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000528.jpg",
+    "type": "Trainers",
+    "cardName": "芙蓉",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "在这个回合，自己的「宝可梦【VMAX】」使用招式的伤害，不计算对手的战斗宝可梦身上的附加效果。"
+      },
+      {
+        "name": "[支援者规则]",
+        "effect": "在自己的回合时，支援者卡只可使用1张。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_130-2x.jpg",
+    "ename": "Phoebe",
+    "series": "SS5",
+    "cardNo": "130"
+  },
+  {
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000596.jpg",
+    "type": "Trainers",
+    "cardName": "连击的卷轴旋涡之卷",
+    "skillList": [
+      {
+        "name": "[宝可梦道具规则]",
+        "effect": "宝可梦道具卡，附于自己的宝可梦使用。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
+      },
+      {
+        "name": "",
+        "effect": "附有这张卡的「连击」宝可梦，可使用这张卡上写的招式。[需要有足够使用招式的能量。]"
+      },
+      {
+        "name": "旋涡无双",
+        "effect": "对手的所有宝可梦各受到30点伤害。[在备战区不计算弱点・抵抗力。]"
+      },
+      {
+        "name": "[物品规则]",
+        "effect": "在自己的回合时，物品卡可不限张数使用。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_131-2x.jpg",
+    "ename": "Rapid Strike Scroll of Swirls",
+    "series": "SS5",
+    "cardNo": "131"
+  },
+  {
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000598.jpg",
+    "type": "Trainers",
+    "cardName": "马士德连击流",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "这张卡只有在自己的手牌只有这1张时才可使用。"
+      },
+      {
+        "name": "",
+        "effect": "从自己的弃牌区选择1张「连击」宝可梦卡，放置于备战区。然后，从自己的牌库抽出5张卡。"
+      },
+      {
+        "name": "[支援者规则]",
+        "effect": "这张卡只有在自己的手牌只有这1张时才可使用。 从自己的弃牌区选择1张「连击」宝可梦卡，放置于备战区。然后，从自己的牌库抽出5张卡。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_132-2x.jpg",
+    "ename": "Rapid Strike Style Mustard",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_TG27_R_EN.jpg"
+    ],
+    "series": "SS5",
+    "cardNo": "132"
+  },
+  {
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000525.jpg",
+    "type": "Trainers",
+    "cardName": "一击的卷轴愤怒之卷",
+    "skillList": [
+      {
+        "name": "[宝可梦道具规则]",
+        "effect": "宝可梦道具卡，附于自己的宝可梦使用。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
+      },
+      {
+        "name": "",
+        "effect": "附有这张卡的「一击」宝可梦，可使用这张卡上写的招式。[需要有足够使用招式的能量。]"
+      },
+      {
+        "name": "怒发冲冠",
+        "effect": "增加这只宝可梦身上放置的伤害指示物的数量×10点伤害。"
+      },
+      {
+        "name": "[物品规则]",
+        "effect": "在自己的回合时，物品卡可不限张数使用。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_133-2x.jpg",
+    "ename": "Single Strike Scroll of Scorn",
+    "series": "SS5",
+    "cardNo": "133"
+  },
+  {
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000529.jpg",
+    "type": "Trainers",
+    "cardName": "马士德一击流",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "这张卡只有在自己的手牌只有这1张时才可使用。"
+      },
+      {
+        "name": "",
+        "effect": "从自己的牌库选择1张「一击」宝可梦卡，放置于备战区。并且重洗牌库。然后，从自己的牌库抽出5张卡。"
+      },
+      {
+        "name": "[支援者规则]",
+        "effect": "在自己的回合时，支援者卡只可使用1张。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_134-2x.jpg",
+    "ename": "Single Strike Style Mustard",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_TG28_R_EN.jpg"
+    ],
+    "series": "SS5",
+    "cardNo": "134"
+  },
+  {
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000595.jpg",
+    "type": "Trainers",
+    "cardName": "道具妨碍器",
+    "skillList": [
+      {
+        "name": "[宝可梦道具规则]",
+        "effect": "宝可梦道具卡，附于自己的宝可梦使用。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
+      },
+      {
+        "name": "",
+        "effect": "只要附有这张卡的宝可梦在战斗场上，对手的战斗宝可梦身上附加的「宝可梦道具」（「道具妨碍器」除外）的效果全部消除。"
+      },
+      {
+        "name": "[物品规则]",
+        "effect": "在自己的回合时，物品卡可不限张数使用。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_136-2x.jpg",
+    "ename": "Tool Jammer",
+    "series": "SS5",
+    "cardNo": "136"
+  },
+  {
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000530.jpg",
+    "type": "Trainers",
+    "cardName": "恶之塔",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "双方玩家在每个自己的回合时，可使用1次，若从自己的手牌将1张「一击」卡丢弃，则可从自己的牌库抽出2张卡。"
+      },
+      {
+        "name": "[竞技场规则]",
+        "effect": "在自己的回合时，只可将1张竞技场卡放置于战斗场旁边。若其他名称的竞技场卡被放置，则将这张卡丢弃。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_137-2x.jpg",
+    "ename": "Tower of Darkness",
+    "series": "SS5",
+    "cardNo": "137"
+  },
+  {
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000600.jpg",
+    "type": "Trainers",
+    "cardName": "水之塔",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "双方的所有「连击」宝可梦【撤退】所需的能量各减少2个。"
+      },
+      {
+        "name": "[竞技场规则]",
+        "effect": "在自己的回合时，只可将1张竞技场卡放置于战斗场旁边。若其他名称的竞技场卡被放置，则将这张卡丢弃。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/battle-styles/cards/en-us/SWSH05_EN_138-2x.jpg",
+    "ename": "Tower of Waters",
+    "series": "SS5",
+    "cardNo": "138"
   },
   {
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000523.jpg",

@@ -10,7 +10,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_1-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_001_R_EN.png",
     "ename": "Venonat",
     "series": "SS12",
     "cardNo": "1"
@@ -30,7 +30,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_2-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_002_R_EN.png",
     "ename": "Venomoth",
     "series": "SS12",
     "cardNo": "2"
@@ -46,7 +46,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_3-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_003_R_EN.png",
     "ename": "Spinarak",
     "series": "SS12",
     "cardNo": "3"
@@ -66,7 +66,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_4-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_004_R_EN.png",
     "ename": "Ariados",
     "series": "SS12",
     "cardNo": "4"
@@ -82,7 +82,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_5-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_005_R_EN.png",
     "ename": "Sunkern",
     "series": "SS12",
     "cardNo": "5"
@@ -98,7 +98,7 @@
         "effect": "若希望，从自己的手牌将最多3张能量卡丢弃，增加其张数×70点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_6-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_006_R_EN.png",
     "ename": "Sunflora",
     "series": "SS12",
     "cardNo": "6"
@@ -122,11 +122,11 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_7-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_007_R_EN.png",
     "ename": "Serperior V",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_170-2x.jpg",
-      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_13-2x.jpg"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_170_R_EN.png",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG13_R_EN.png"
     ],
     "series": "SS12",
     "cardNo": "7"
@@ -150,7 +150,7 @@
         "effect": "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_8-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_008_R_EN.png",
     "ename": "Serperior VSTAR",
     "artList": [
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_196_R_EN.png",
@@ -174,7 +174,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_9-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_009_R_EN.png",
     "ename": "Petilil",
     "series": "SS12",
     "cardNo": "9"
@@ -194,7 +194,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_10-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_010_R_EN.png",
     "ename": "Hisuian Lilligant",
     "series": "SS12",
     "cardNo": "10"
@@ -210,7 +210,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_11-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_011_R_EN.png",
     "ename": "Foongus",
     "series": "SS12",
     "cardNo": "11"
@@ -230,7 +230,7 @@
         "effect": "将对手的战斗宝可梦【睡眠】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_12-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_012_R_EN.png",
     "ename": "Amoonguss",
     "series": "SS12",
     "cardNo": "12"
@@ -250,7 +250,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_13-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_013_R_EN.png",
     "ename": "Durant",
     "series": "SS12",
     "cardNo": "13"
@@ -270,7 +270,7 @@
         "effect": "将这只宝可梦恢复「20」HP。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_14-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_014_R_EN.png",
     "ename": "Virizion",
     "series": "SS12",
     "cardNo": "14"
@@ -294,10 +294,10 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_15-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_015_R_EN.png",
     "ename": "Chesnaught V",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_171-2x.jpg"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_171_R_EN.png"
     ],
     "series": "SS12",
     "cardNo": "15"
@@ -337,7 +337,7 @@
         "effect": "掷1次硬币若为正面，则增加20点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_17-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_017_R_EN.png",
     "ename": "Vulpix",
     "series": "SS12",
     "cardNo": "17"
@@ -357,7 +357,7 @@
         "effect": "在下个自己的回合，这只宝可梦无法使用招式。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_18-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_018_R_EN.png",
     "ename": "Ninetales",
     "series": "SS12",
     "cardNo": "18"
@@ -377,7 +377,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_19-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_019_R_EN.png",
     "ename": "Growlithe",
     "series": "SS12",
     "cardNo": "19"
@@ -397,7 +397,7 @@
         "effect": "若对手的战斗宝可梦为「宝可梦【V】」，则增加100点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_20-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_020_R_EN.png",
     "ename": "Arcanine",
     "series": "SS12",
     "cardNo": "20"
@@ -413,7 +413,7 @@
         "effect": "这只宝可梦也受到10点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_21-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_021_R_EN.png",
     "ename": "Ponyta",
     "series": "SS12",
     "cardNo": "21"
@@ -433,7 +433,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_22-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_022_R_EN.png",
     "ename": "Rapidash",
     "series": "SS12",
     "cardNo": "22"
@@ -453,7 +453,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_23-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_023_R_EN.png",
     "ename": "Victini",
     "series": "SS12",
     "cardNo": "23"
@@ -477,10 +477,10 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_24-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_024_R_EN.png",
     "ename": "Reshiram V",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_172-2x.jpg"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_172_R_EN.png"
     ],
     "series": "SS12",
     "cardNo": "24"
@@ -500,7 +500,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_25-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_025_R_EN.png",
     "ename": "Fennekin",
     "series": "SS12",
     "cardNo": "25"
@@ -520,10 +520,10 @@
         "effect": "造成自己的弃牌区的「莎莉娜」的张数×60点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_26-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_026_R_EN.png",
     "ename": "Braixen",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_1-2x.jpg"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG1_R_EN.png"
     ],
     "series": "SS12",
     "cardNo": "26"
@@ -543,7 +543,7 @@
         "effect": "造成对手的场上宝可梦身上附加的能量的数量×50点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_27-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_027_R_EN.png",
     "ename": "Delphox",
     "series": "SS12",
     "cardNo": "27"
@@ -559,7 +559,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_28-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_028_R_EN.png",
     "ename": "Fletchinder",
     "series": "SS12",
     "cardNo": "28"
@@ -579,7 +579,7 @@
         "effect": "若对手的战斗宝可梦身上放置有伤害指示物，则增加80点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_29-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_029_R_EN.png",
     "ename": "Talonflame",
     "series": "SS12",
     "cardNo": "29"
@@ -599,7 +599,7 @@
         "effect": "造成这只宝可梦身上放置的伤害指示物的数量×20点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_30-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_030_R_EN.png",
     "ename": "Litten",
     "series": "SS12",
     "cardNo": "30"
@@ -619,7 +619,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_31-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_031_R_EN.png",
     "ename": "Torracat",
     "series": "SS12",
     "cardNo": "31"
@@ -639,7 +639,7 @@
         "effect": "将这只宝可梦身上附加的能量全部丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_32-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_032_R_EN.png",
     "ename": "Incineroar",
     "series": "SS12",
     "cardNo": "32"
@@ -663,10 +663,10 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_33-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_033_R_EN.png",
     "ename": "Alolan Vulpix V",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_173-2x.jpg"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_173_R_EN.png"
     ],
     "series": "SS12",
     "cardNo": "33"
@@ -690,7 +690,7 @@
         "effect": "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_34-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_034_R_EN.png",
     "ename": "Alolan Vulpix VSTAR",
     "artList": [
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_197_R_EN.png"
@@ -717,10 +717,10 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_35-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_035_R_EN.png",
     "ename": "Omastar V",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_174-2x.jpg"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_174_R_EN.png"
     ],
     "series": "SS12",
     "cardNo": "35"
@@ -740,7 +740,7 @@
         "effect": "这只宝可梦也受到50点伤害。将对手的战斗宝可梦【麻痺】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_36-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_036_R_EN.png",
     "ename": "Articuno",
     "series": "SS12",
     "cardNo": "36"
@@ -760,7 +760,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_37-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_037_R_EN.png",
     "ename": "Wailmer",
     "series": "SS12",
     "cardNo": "37"
@@ -780,7 +780,7 @@
         "effect": "若这只宝可梦身上附有特殊能量，则增加120点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_38-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_038_R_EN.png",
     "ename": "Wailord",
     "series": "SS12",
     "cardNo": "38"
@@ -800,7 +800,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_39-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_039_R_EN.png",
     "ename": "Feebas",
     "series": "SS12",
     "cardNo": "39"
@@ -820,10 +820,10 @@
         "effect": "将对手的战斗宝可梦【睡眠】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_40-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_040_R_EN.png",
     "ename": "Milotic",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_2-2x.jpg"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG2_R_EN.png"
     ],
     "series": "SS12",
     "cardNo": "40"
@@ -843,7 +843,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_41-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_041_R_EN.png",
     "ename": "Snorunt",
     "series": "SS12",
     "cardNo": "41"
@@ -863,7 +863,7 @@
         "effect": "在这个回合，若从手牌使出了「小菘」，则增加130点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_42-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_042_R_EN.png",
     "ename": "Glalie",
     "series": "SS12",
     "cardNo": "42"
@@ -883,7 +883,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_43-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_043_R_EN.png",
     "ename": "Froslass",
     "series": "SS12",
     "cardNo": "43"
@@ -903,7 +903,7 @@
         "effect": "将对手的战斗宝可梦【睡眠】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_44-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_044_R_EN.png",
     "ename": "Relicanth",
     "series": "SS12",
     "cardNo": "44"
@@ -923,7 +923,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_45-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_045_R_EN.png",
     "ename": "Phione",
     "series": "SS12",
     "cardNo": "45"
@@ -943,7 +943,7 @@
         "effect": "若自己的备战区有「勾帕路翁」「代拉基翁」「毕力吉翁」，则增加170点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_46-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_046_R_EN.png",
     "ename": "Keldeo",
     "series": "SS12",
     "cardNo": "46"
@@ -959,7 +959,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_47-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_047_R_EN.png",
     "ename": "Dewpider",
     "series": "SS12",
     "cardNo": "47"
@@ -979,7 +979,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_48-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_048_R_EN.png",
     "ename": "Araquanid",
     "series": "SS12",
     "cardNo": "48"
@@ -995,7 +995,7 @@
         "effect": "在上个自己的回合，若自己的「咚咚鼠」使出了「咚咚短路」，则增加180点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_49-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_049_R_EN.png",
     "ename": "Pikachu",
     "series": "SS12",
     "cardNo": "49"
@@ -1015,7 +1015,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_50-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_050_R_EN.png",
     "ename": "Raichu",
     "series": "SS12",
     "cardNo": "50"
@@ -1035,7 +1035,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_51-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_051_R_EN.png",
     "ename": "Chinchou",
     "series": "SS12",
     "cardNo": "51"
@@ -1055,7 +1055,7 @@
         "effect": "选择2个这只宝可梦身上附加的能量，将其丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_52-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_052_R_EN.png",
     "ename": "Lanturn",
     "series": "SS12",
     "cardNo": "52"
@@ -1075,7 +1075,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_53-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_053_R_EN.png",
     "ename": "Rotom",
     "series": "SS12",
     "cardNo": "53"
@@ -1095,7 +1095,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_54-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_054_R_EN.png",
     "ename": "Emolga",
     "series": "SS12",
     "cardNo": "54"
@@ -1115,7 +1115,7 @@
         "effect": "这个招式只有在自己的弃牌区1张支援者卡都没有时才可使用。对手的1只宝可梦受到100点伤害。[在备战区不计算弱点・抵抗力。]"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_55-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_055_R_EN.png",
     "ename": "Stunfisk",
     "series": "SS12",
     "cardNo": "55"
@@ -1135,7 +1135,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_56-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_056_R_EN.png",
     "ename": "Zeraora",
     "series": "SS12",
     "cardNo": "56"
@@ -1159,10 +1159,10 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_57-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_057_R_EN.png",
     "ename": "Regieleki V",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_175-2x.jpg"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_175_R_EN.png"
     ],
     "series": "SS12",
     "cardNo": "57"
@@ -1186,7 +1186,7 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_58-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_058_R_EN.png",
     "ename": "Regieleki VMAX",
     "artList": [
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_198_R_EN.png"
@@ -1213,7 +1213,7 @@
         "effect": "造成对手的手牌的张数×20点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_59-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_059_R_EN.png",
     "ename": "Radiant Alakazam",
     "series": "SS12",
     "cardNo": "59"
@@ -1233,7 +1233,7 @@
         "effect": "将对手的战斗宝可梦【睡眠】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_60-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_060_R_EN.png",
     "ename": "Drowzee",
     "series": "SS12",
     "cardNo": "60"
@@ -1253,7 +1253,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_61-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_061_R_EN.png",
     "ename": "Hypno",
     "series": "SS12",
     "cardNo": "61"
@@ -1273,10 +1273,10 @@
         "effect": "增加对手的战斗宝可梦身上放置的伤害指示物的数量×10点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_62-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_062_R_EN.png",
     "ename": "Jynx",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_4-2x.jpg"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG4_R_EN.png"
     ],
     "series": "SS12",
     "cardNo": "62"
@@ -1292,7 +1292,7 @@
         "effect": "掷1次硬币若为正面，则将对手的战斗宝可梦【混乱】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_63-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_063_R_EN.png",
     "ename": "Misdreavus",
     "series": "SS12",
     "cardNo": "63"
@@ -1312,7 +1312,7 @@
         "effect": "在对手的所有宝可梦身上各放置2个伤害指示物。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_64-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_064_R_EN.png",
     "ename": "Mismagius",
     "series": "SS12",
     "cardNo": "64"
@@ -1336,11 +1336,11 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_65-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_065_R_EN.png",
     "ename": "Unown V",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_176-2x.jpg",
-      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_177-2x.jpg"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_176_R_EN.png",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_177_R_EN.png"
     ],
     "series": "SS12",
     "cardNo": "65"
@@ -1364,7 +1364,7 @@
         "effect": "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_66-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_066_R_EN.png",
     "ename": "Unown VSTAR",
     "artList": [
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_199_R_EN.png"
@@ -1383,7 +1383,7 @@
         "effect": "选择对手的战斗宝可梦持有的1个招式。在下个对手的回合，受到这个招式的宝可梦无法使用被选择的招式。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_67-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_067_R_EN.png",
     "ename": "Ralts",
     "series": "SS12",
     "cardNo": "67"
@@ -1403,7 +1403,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_68-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_068_R_EN.png",
     "ename": "Kirlia",
     "series": "SS12",
     "cardNo": "68"
@@ -1423,10 +1423,10 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_69-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_069_R_EN.png",
     "ename": "Gardevoir",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_5-2x.jpg"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG5_R_EN.png"
     ],
     "series": "SS12",
     "cardNo": "69"
@@ -1450,11 +1450,11 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_70-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_070_R_EN.png",
     "ename": "Mawile V",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_178-2x.jpg",
-      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_17-2x.jpg"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_178_R_EN.png",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG17_R_EN.png"
     ],
     "series": "SS12",
     "cardNo": "70"
@@ -1478,7 +1478,7 @@
         "effect": "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_71-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_071_R_EN.png",
     "ename": "Mawile VSTAR",
     "artList": [
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_200_R_EN.png"
@@ -1501,7 +1501,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_72-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_072_R_EN.png",
     "ename": "Meditite",
     "series": "SS12",
     "cardNo": "72"
@@ -1521,7 +1521,7 @@
         "effect": "若对手的场上有「宝可梦【VMAX】」，则增加90点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_73-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_073_R_EN.png",
     "ename": "Medicham",
     "series": "SS12",
     "cardNo": "73"
@@ -1541,7 +1541,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_74-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_074_R_EN.png",
     "ename": "Chimecho",
     "series": "SS12",
     "cardNo": "74"
@@ -1561,7 +1561,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_75-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_075_R_EN.png",
     "ename": "Sigilyph",
     "series": "SS12",
     "cardNo": "75"
@@ -1577,7 +1577,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_76-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_076_R_EN.png",
     "ename": "Solosis",
     "series": "SS12",
     "cardNo": "76"
@@ -1593,7 +1593,7 @@
         "effect": "在对手的1只备战宝可梦身上放置2个伤害指示物。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_77-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_077_R_EN.png",
     "ename": "Duosion",
     "series": "SS12",
     "cardNo": "77"
@@ -1613,7 +1613,7 @@
         "effect": "在对手的2只备战宝可梦身上，各放置3个伤害指示物。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_78-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_078_R_EN.png",
     "ename": "Reuniclus",
     "series": "SS12",
     "cardNo": "78"
@@ -1629,7 +1629,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_79-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_079_R_EN.png",
     "ename": "Elgyem",
     "series": "SS12",
     "cardNo": "79"
@@ -1649,7 +1649,7 @@
         "effect": "对手的1只宝可梦受到60点伤害。这个招式的伤害，就算在备战区也计算弱点・抵抗力。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_80-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_080_R_EN.png",
     "ename": "Beheeyem",
     "series": "SS12",
     "cardNo": "80"
@@ -1669,7 +1669,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_81-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_081_R_EN.png",
     "ename": "Espurr",
     "series": "SS12",
     "cardNo": "81"
@@ -1689,7 +1689,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_82-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_082_R_EN.png",
     "ename": "Meowstic",
     "series": "SS12",
     "cardNo": "82"
@@ -1709,7 +1709,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_83-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_083_R_EN.png",
     "ename": "Swirlix",
     "series": "SS12",
     "cardNo": "83"
@@ -1729,7 +1729,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_84-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_084_R_EN.png",
     "ename": "Slurpuff",
     "series": "SS12",
     "cardNo": "84"
@@ -1749,7 +1749,7 @@
         "effect": "这个招式必须在上个自己的回合「托戈德玛尔」使用了「托戈冲刺」才可使用。将对手的战斗宝可梦【麻痺】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_85-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_085_R_EN.png",
     "ename": "Dedenne",
     "series": "SS12",
     "cardNo": "85"
@@ -1769,7 +1769,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_86-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_086_R_EN.png",
     "ename": "Indeedee",
     "series": "SS12",
     "cardNo": "86"
@@ -1785,7 +1785,7 @@
         "effect": "这只宝可梦也受到10点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_87-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_087_R_EN.png",
     "ename": "Dreepy",
     "series": "SS12",
     "cardNo": "87"
@@ -1801,7 +1801,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_88-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_088_R_EN.png",
     "ename": "Drakloak",
     "series": "SS12",
     "cardNo": "88"
@@ -1821,7 +1821,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_89-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_089_R_EN.png",
     "ename": "Dragapult",
     "series": "SS12",
     "cardNo": "89"
@@ -1845,10 +1845,10 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_90-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_090_R_EN.png",
     "ename": "Hisuian Arcanine V",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_179-2x.jpg"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_179_R_EN.png"
     ],
     "series": "SS12",
     "cardNo": "90"
@@ -1864,7 +1864,7 @@
         "effect": "掷1次硬币若为正面，则增加20点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_91-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_091_R_EN.png",
     "ename": "Phanpy",
     "series": "SS12",
     "cardNo": "91"
@@ -1884,7 +1884,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_92-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_092_R_EN.png",
     "ename": "Donphan",
     "series": "SS12",
     "cardNo": "92"
@@ -1904,7 +1904,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_93-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_093_R_EN.png",
     "ename": "Baltoy",
     "series": "SS12",
     "cardNo": "93"
@@ -1924,7 +1924,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_94-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_094_R_EN.png",
     "ename": "Claydol",
     "series": "SS12",
     "cardNo": "94"
@@ -1940,7 +1940,7 @@
         "effect": "若希望，从自己的手牌选择1张「谜之化石」卡，将其丢弃。这个情况下，增加120点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_95-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_095_R_EN.png",
     "ename": "Anorith",
     "series": "SS12",
     "cardNo": "95"
@@ -1960,7 +1960,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_96-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_096_R_EN.png",
     "ename": "Armaldo",
     "series": "SS12",
     "cardNo": "96"
@@ -1976,7 +1976,7 @@
         "effect": "在下个对手的回合，这只宝可梦不会受到招式的伤害。在上个自己的回合，若自己的宝可梦使用了「岩窟冲撞」，则无法使用这个招式。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_97-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_097_R_EN.png",
     "ename": "Terrakion",
     "series": "SS12",
     "cardNo": "97"
@@ -1996,7 +1996,7 @@
         "effect": "掷2次硬币，增加正面出现的次数×20点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_98-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_098_R_EN.png",
     "ename": "Hawlucha",
     "series": "SS12",
     "cardNo": "98"
@@ -2012,7 +2012,7 @@
         "effect": "在下个对手的回合，受到这个招式的宝可梦无法撤退。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_99-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_099_R_EN.png",
     "ename": "Sandygast",
     "series": "SS12",
     "cardNo": "99"
@@ -2032,7 +2032,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_100-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_100_R_EN.png",
     "ename": "Palossand",
     "series": "SS12",
     "cardNo": "100"
@@ -2052,7 +2052,7 @@
         "effect": "若自己的弃牌区1张支援者卡都没有，则增加130点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_101-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_101_R_EN.png",
     "ename": "Stonjourner",
     "series": "SS12",
     "cardNo": "101"
@@ -2072,7 +2072,7 @@
         "effect": "减少这只宝可梦身上放置的伤害指示物的数量×10点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_102-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_102_R_EN.png",
     "ename": "Ursaluna V",
     "series": "SS12",
     "cardNo": "102"
@@ -2088,7 +2088,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_103-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_103_R_EN.png",
     "ename": "Zubat",
     "series": "SS12",
     "cardNo": "103"
@@ -2104,7 +2104,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_104-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_104_R_EN.png",
     "ename": "Golbat",
     "series": "SS12",
     "cardNo": "104"
@@ -2124,7 +2124,7 @@
         "effect": "对手的1只宝可梦受到30点伤害。若对手的宝可梦因这个招式的伤害而【气绝】，则多获得2张奖赏卡。[在备战区不计算弱点・抵抗力。]"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_105-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_105_R_EN.png",
     "ename": "Crobat",
     "series": "SS12",
     "cardNo": "105"
@@ -2144,7 +2144,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_106-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_106_R_EN.png",
     "ename": "Murkrow",
     "series": "SS12",
     "cardNo": "106"
@@ -2164,7 +2164,7 @@
         "effect": "若希望，将这只宝可梦与备战区的「黑暗鸦」互换。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_107-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_107_R_EN.png",
     "ename": "Honchkrow",
     "series": "SS12",
     "cardNo": "107"
@@ -2188,11 +2188,11 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_108-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_108_R_EN.png",
     "ename": "Skuntank V",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_180-2x.jpg",
-      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_181-2x.jpg"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_180_R_EN.png",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_181_R_EN.png"
     ],
     "series": "SS12",
     "cardNo": "108"
@@ -2208,7 +2208,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_109-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_109_R_EN.png",
     "ename": "Croagunk",
     "series": "SS12",
     "cardNo": "109"
@@ -2228,7 +2228,7 @@
         "effect": "在下个对手的回合，这只宝可梦受到招式的伤害「+50」点。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_110-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_110_R_EN.png",
     "ename": "Toxicroak",
     "series": "SS12",
     "cardNo": "110"
@@ -2244,7 +2244,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_111-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_111_R_EN.png",
     "ename": "Sandile",
     "series": "SS12",
     "cardNo": "111"
@@ -2260,7 +2260,7 @@
         "effect": "掷1次硬币若为正面，则选择1个对手的战斗宝可梦身上附加的能量，将其丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_112-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_112_R_EN.png",
     "ename": "Krokorok",
     "series": "SS12",
     "cardNo": "112"
@@ -2280,7 +2280,7 @@
         "effect": "这只宝可梦也受到30点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_113-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_113_R_EN.png",
     "ename": "Krookodile",
     "series": "SS12",
     "cardNo": "113"
@@ -2296,7 +2296,7 @@
         "effect": "将对手的战斗宝可梦【中毒】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_114-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_114_R_EN.png",
     "ename": "Mareanie",
     "series": "SS12",
     "cardNo": "114"
@@ -2316,7 +2316,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_115-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_115_R_EN.png",
     "ename": "Toxapex",
     "series": "SS12",
     "cardNo": "115"
@@ -2332,7 +2332,7 @@
         "effect": "这个招式必须在上个自己的回合「咚咚鼠」使用了「咚咚短路」才可使用。对手的所有宝可梦各受到60点伤害。[在备战区不计算弱点・抵抗力。]"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_116-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_116_R_EN.png",
     "ename": "Morpeko",
     "series": "SS12",
     "cardNo": "116"
@@ -2352,7 +2352,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_117-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_117_R_EN.png",
     "ename": "Beldum",
     "series": "SS12",
     "cardNo": "117"
@@ -2368,7 +2368,7 @@
         "effect": "掷2次硬币，增加正面出现的次数×30点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_118-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_118_R_EN.png",
     "ename": "Metang",
     "series": "SS12",
     "cardNo": "118"
@@ -2388,7 +2388,7 @@
         "effect": "在下个自己的回合，这只宝可梦「彗星拳」的伤害「+100」点。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_119-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_119_R_EN.png",
     "ename": "Metagross",
     "series": "SS12",
     "cardNo": "119"
@@ -2412,7 +2412,7 @@
         "effect": "掷2次硬币，若全部为正面，则将对手的战斗宝可梦【气绝】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_120-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_120_R_EN.png",
     "ename": "Radiant Jirachi",
     "series": "SS12",
     "cardNo": "120"
@@ -2432,7 +2432,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_121-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_121_R_EN.png",
     "ename": "Ferroseed",
     "series": "SS12",
     "cardNo": "121"
@@ -2452,7 +2452,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_122-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_122_R_EN.png",
     "ename": "Ferrothorn",
     "series": "SS12",
     "cardNo": "122"
@@ -2468,7 +2468,7 @@
         "effect": "从自己的牌库选择1张宝可梦卡，在给对手看过后加入手牌。并且重洗牌库。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_123-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_123_R_EN.png",
     "ename": "Klink",
     "series": "SS12",
     "cardNo": "123"
@@ -2484,7 +2484,7 @@
         "effect": "掷2次硬币，造成正面出现的次数×80点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_124-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_124_R_EN.png",
     "ename": "Klang",
     "series": "SS12",
     "cardNo": "124"
@@ -2504,7 +2504,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_125-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_125_R_EN.png",
     "ename": "Klinklang",
     "series": "SS12",
     "cardNo": "125"
@@ -2524,7 +2524,7 @@
         "effect": "选择最多2只自己的备战宝可梦，从牌库附给那些宝可梦各1张基本能量卡。并且重洗牌库。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_126-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_126_R_EN.png",
     "ename": "Cobalion",
     "series": "SS12",
     "cardNo": "126"
@@ -2540,7 +2540,7 @@
         "effect": "掷1次硬币若为正面，则在下个对手的回合，就算这只宝可梦【气绝】，对手也无法获得奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_127-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_127_R_EN.png",
     "ename": "Togedemaru",
     "series": "SS12",
     "cardNo": "127"
@@ -2564,10 +2564,10 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_128-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_128_R_EN.png",
     "ename": "Magearna V",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_182-2x.jpg"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_182_R_EN.png"
     ],
     "series": "SS12",
     "cardNo": "128"
@@ -2583,7 +2583,7 @@
         "effect": "掷2次硬币，造成正面出现的次数×30点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_129-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_129_R_EN.png",
     "ename": "Dratini",
     "series": "SS12",
     "cardNo": "129"
@@ -2603,7 +2603,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_130-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_130_R_EN.png",
     "ename": "Dragonair",
     "series": "SS12",
     "cardNo": "130"
@@ -2623,7 +2623,7 @@
         "effect": "从自己的牌库选择最多3张基本能量卡，以任意方式附于自己的宝可梦身上。并且重洗牌库。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_131-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_131_R_EN.png",
     "ename": "Dragonite",
     "series": "SS12",
     "cardNo": "131"
@@ -2643,7 +2643,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_132-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_132_R_EN.png",
     "ename": "Noibat",
     "series": "SS12",
     "cardNo": "132"
@@ -2663,7 +2663,7 @@
         "effect": "从牌库抽卡直到自己的手牌满7张为止。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_133-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_133_R_EN.png",
     "ename": "Noivern",
     "series": "SS12",
     "cardNo": "133"
@@ -2683,7 +2683,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_134-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_134_R_EN.png",
     "ename": "Zygarde",
     "series": "SS12",
     "cardNo": "134"
@@ -2707,11 +2707,11 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_135-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_135_R_EN.png",
     "ename": "Regidrago V",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_183-2x.jpg",
-      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_184-2x.jpg"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_183_R_EN.png",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_184_R_EN.png"
     ],
     "series": "SS12",
     "cardNo": "135"
@@ -2735,7 +2735,7 @@
         "effect": "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_136-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_136_R_EN.png",
     "ename": "Regidrago VSTAR",
     "artList": [
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_201_R_EN.png"
@@ -2758,10 +2758,10 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_137-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_137_R_EN.png",
     "ename": "Smeargle",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_10-2x.jpg"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG10_R_EN.png"
     ],
     "series": "SS12",
     "cardNo": "137"
@@ -2785,11 +2785,11 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_138-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_138_R_EN.png",
     "ename": "Lugia V",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_185-2x.jpg",
-      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_186-2x.jpg"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_185_R_EN.png",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_186_R_EN.png"
     ],
     "series": "SS12",
     "cardNo": "138"
@@ -2813,7 +2813,7 @@
         "effect": "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_139-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_139_R_EN.png",
     "ename": "Lugia VSTAR",
     "artList": [
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_202_R_EN.png",
@@ -2841,10 +2841,10 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_140-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_140_R_EN.png",
     "ename": "Ho-Oh V",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_187-2x.jpg"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_187_R_EN.png"
     ],
     "series": "SS12",
     "cardNo": "140"
@@ -2860,7 +2860,7 @@
         "effect": "对手的所有宝可梦各受到10点伤害。将对手的战斗宝可梦【混乱】。[在备战区不计算弱点・抵抗力。]"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_141-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_141_R_EN.png",
     "ename": "Spinda",
     "series": "SS12",
     "cardNo": "141"
@@ -2876,7 +2876,7 @@
         "effect": "掷硬币直到出现反面，造成正面出现的次数×20点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_142-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_142_R_EN.png",
     "ename": "Swablu",
     "series": "SS12",
     "cardNo": "142"
@@ -2896,10 +2896,10 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_143-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_143_R_EN.png",
     "ename": "Altaria",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_11-2x.jpg"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG11_R_EN.png"
     ],
     "series": "SS12",
     "cardNo": "143"
@@ -2915,7 +2915,7 @@
         "effect": "掷1次硬币若为反面，则这个招式失败。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_144-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_144_R_EN.png",
     "ename": "Buneary",
     "series": "SS12",
     "cardNo": "144"
@@ -2935,7 +2935,7 @@
         "effect": "掷2次硬币，造成正面出现的次数×100点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_145-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_145_R_EN.png",
     "ename": "Lopunny",
     "series": "SS12",
     "cardNo": "145"
@@ -2955,7 +2955,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_146-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_146_R_EN.png",
     "ename": "Archen",
     "series": "SS12",
     "cardNo": "146"
@@ -2975,7 +2975,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_147-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_147_R_EN.png",
     "ename": "Archeops",
     "series": "SS12",
     "cardNo": "147"
@@ -2991,7 +2991,7 @@
         "effect": "掷1次硬币若为正面，则增加30点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_148-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_148_R_EN.png",
     "ename": "Rufflet",
     "series": "SS12",
     "cardNo": "148"
@@ -3011,7 +3011,7 @@
         "effect": "将对手的战斗宝可梦【混乱】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_149-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_149_R_EN.png",
     "ename": "Hisuian Braviary",
     "series": "SS12",
     "cardNo": "149"
@@ -3027,7 +3027,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_150-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_150_R_EN.png",
     "ename": "Fletchling",
     "series": "SS12",
     "cardNo": "150"
@@ -3050,10 +3050,10 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_151-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_151_R_EN.png",
     "ename": "Brandon",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_188-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_188_R_EN.png",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_203_R_EN.png"
     ],
     "series": "SS12",
@@ -3073,10 +3073,10 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_152-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_152_R_EN.png",
     "ename": "Candice",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_189-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_189_R_EN.png",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_204_R_EN.png"
     ],
     "series": "SS12",
@@ -3096,7 +3096,7 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_153-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_153_R_EN.png",
     "ename": "Capturing Aroma",
     "series": "SS12",
     "cardNo": "153"
@@ -3123,7 +3123,7 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_154-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_154_R_EN.png",
     "ename": "Earthen Seal Stone",
     "series": "SS12",
     "cardNo": "154"
@@ -3146,7 +3146,7 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_155-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_155_R_EN.png",
     "ename": "Emergency Jelly",
     "series": "SS12",
     "cardNo": "155"
@@ -3192,10 +3192,10 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_157-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_157_R_EN.png",
     "ename": "Furisode Girl",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_190-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_190_R_EN.png",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_205_R_EN.png"
     ],
     "series": "SS12",
@@ -3215,10 +3215,10 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_159-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_159_R_EN.png",
     "ename": "Lance",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_192-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_192_R_EN.png",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_206_R_EN.png"
     ],
     "series": "SS12",
@@ -3264,7 +3264,7 @@
         "effect": "在自己的回合时，只可将1张竞技场卡放置于战斗场旁边。若其他名称的竞技场卡被放置，则将这张卡丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_161-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_161_R_EN.png",
     "ename": "Primordial Altar",
     "series": "SS12",
     "cardNo": "161"
@@ -3283,7 +3283,7 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_162-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_162_R_EN.png",
     "ename": "Professor Laventon",
     "series": "SS12",
     "cardNo": "162"
@@ -3310,7 +3310,7 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_163-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_163_R_EN.png",
     "ename": "Quad Stone",
     "series": "SS12",
     "cardNo": "163"
@@ -3337,10 +3337,10 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_164-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_164_R_EN.png",
     "ename": "Serena",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_193-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_193_R_EN.png",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_207_R_EN.png"
     ],
     "series": "SS12",
@@ -3364,7 +3364,7 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_165-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_165_R_EN.png",
     "ename": "Unidentified Fossil",
     "series": "SS12",
     "cardNo": "165"
@@ -3383,10 +3383,10 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_166-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_166_R_EN.png",
     "ename": "Wallace",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_194-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_194_R_EN.png",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_208_R_EN.png"
     ],
     "series": "SS12",
@@ -3457,7 +3457,7 @@
     "cardNo": "169"
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_170-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_170_R_EN.png",
     "typeEnergy": "Grass",
     "type": "Pokemon",
     "cardName": "君主蛇V",
@@ -3475,14 +3475,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_170-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_170_R_EN.png",
     "ename": "Serperior V",
     "series": "SS12",
     "cardNo": "170",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_171-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_171_R_EN.png",
     "typeEnergy": "Grass",
     "type": "Pokemon",
     "cardName": "布里卡隆V",
@@ -3500,14 +3500,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_171-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_171_R_EN.png",
     "ename": "Chesnaught V",
     "series": "SS12",
     "cardNo": "171",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_172-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_172_R_EN.png",
     "typeEnergy": "Fire",
     "type": "Pokemon",
     "cardName": "莱希拉姆V",
@@ -3525,14 +3525,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_172-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_172_R_EN.png",
     "ename": "Reshiram V",
     "series": "SS12",
     "cardNo": "172",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_173-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_173_R_EN.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
     "cardName": "阿罗拉 六尾V",
@@ -3550,14 +3550,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_173-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_173_R_EN.png",
     "ename": "Alolan Vulpix V",
     "series": "SS12",
     "cardNo": "173",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_174-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_174_R_EN.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
     "cardName": "多刺菊石兽V",
@@ -3575,14 +3575,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_174-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_174_R_EN.png",
     "ename": "Omastar V",
     "series": "SS12",
     "cardNo": "174",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_175-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_175_R_EN.png",
     "typeEnergy": "Lightning",
     "type": "Pokemon",
     "cardName": "雷吉艾勒奇V",
@@ -3600,14 +3600,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_175-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_175_R_EN.png",
     "ename": "Regieleki V",
     "series": "SS12",
     "cardNo": "175",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_176-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_176_R_EN.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
     "cardName": "未知图腾V",
@@ -3625,14 +3625,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_176-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_176_R_EN.png",
     "ename": "Unown V",
     "series": "SS12",
     "cardNo": "176",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_177-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_177_R_EN.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
     "cardName": "未知图腾V",
@@ -3650,14 +3650,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_177-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_177_R_EN.png",
     "ename": "Unown V",
     "series": "SS12",
     "cardNo": "177",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_178-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_178_R_EN.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
     "cardName": "大嘴娃V",
@@ -3675,14 +3675,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_178-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_178_R_EN.png",
     "ename": "Mawile V",
     "series": "SS12",
     "cardNo": "178",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_179-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_179_R_EN.png",
     "typeEnergy": "Fighting",
     "type": "Pokemon",
     "cardName": "洗翠 风速狗V",
@@ -3700,14 +3700,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_179-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_179_R_EN.png",
     "ename": "Hisuian Arcanine V",
     "series": "SS12",
     "cardNo": "179",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_180-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_180_R_EN.png",
     "typeEnergy": "Darkness",
     "type": "Pokemon",
     "cardName": "坦克臭鼬V",
@@ -3725,14 +3725,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_180-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_180_R_EN.png",
     "ename": "Skuntank V",
     "series": "SS12",
     "cardNo": "180",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_181-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_181_R_EN.png",
     "typeEnergy": "Darkness",
     "type": "Pokemon",
     "cardName": "坦克臭鼬V",
@@ -3750,14 +3750,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_181-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_181_R_EN.png",
     "ename": "Skuntank V",
     "series": "SS12",
     "cardNo": "181",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_182-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_182_R_EN.png",
     "typeEnergy": "Metal",
     "type": "Pokemon",
     "cardName": "玛机雅娜V",
@@ -3775,14 +3775,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_182-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_182_R_EN.png",
     "ename": "Magearna V",
     "series": "SS12",
     "cardNo": "182",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_183-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_183_R_EN.png",
     "typeEnergy": "Dragon",
     "type": "Pokemon",
     "cardName": "雷吉铎拉戈V",
@@ -3800,14 +3800,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_183-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_183_R_EN.png",
     "ename": "Regidrago V",
     "series": "SS12",
     "cardNo": "183",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_184-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_184_R_EN.png",
     "typeEnergy": "Dragon",
     "type": "Pokemon",
     "cardName": "雷吉铎拉戈V",
@@ -3825,14 +3825,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_184-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_184_R_EN.png",
     "ename": "Regidrago V",
     "series": "SS12",
     "cardNo": "184",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_185-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_185_R_EN.png",
     "typeEnergy": "Colorless",
     "type": "Pokemon",
     "cardName": "洛奇亚V",
@@ -3850,14 +3850,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_185-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_185_R_EN.png",
     "ename": "Lugia V",
     "series": "SS12",
     "cardNo": "185",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_186-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_186_R_EN.png",
     "typeEnergy": "Colorless",
     "type": "Pokemon",
     "cardName": "洛奇亚V",
@@ -3875,14 +3875,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_186-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_186_R_EN.png",
     "ename": "Lugia V",
     "series": "SS12",
     "cardNo": "186",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_187-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_187_R_EN.png",
     "typeEnergy": "Colorless",
     "type": "Pokemon",
     "cardName": "凤王V",
@@ -3900,14 +3900,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_187-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_187_R_EN.png",
     "ename": "Ho-Oh V",
     "series": "SS12",
     "cardNo": "187",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_188-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_188_R_EN.png",
     "type": "Trainers",
     "cardName": "神代",
     "skillList": [
@@ -3924,14 +3924,14 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_188-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_188_R_EN.png",
     "ename": "Brandon",
     "series": "SS12",
     "cardNo": "188",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_189-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_189_R_EN.png",
     "type": "Trainers",
     "cardName": "小菘",
     "skillList": [
@@ -3944,14 +3944,14 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_189-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_189_R_EN.png",
     "ename": "Candice",
     "series": "SS12",
     "cardNo": "189",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_190-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_190_R_EN.png",
     "type": "Trainers",
     "cardName": "长袖和服少女",
     "skillList": [
@@ -3964,14 +3964,14 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_190-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_190_R_EN.png",
     "ename": "Furisode Girl",
     "series": "SS12",
     "cardNo": "190",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_192-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_192_R_EN.png",
     "type": "Trainers",
     "cardName": "阿渡",
     "skillList": [
@@ -3984,14 +3984,14 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_192-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_192_R_EN.png",
     "ename": "Lance",
     "series": "SS12",
     "cardNo": "192",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_193-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_193_R_EN.png",
     "type": "Trainers",
     "cardName": "莎莉娜",
     "skillList": [
@@ -4012,14 +4012,14 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_193-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_193_R_EN.png",
     "ename": "Serena",
     "series": "SS12",
     "cardNo": "193",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_194-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_194_R_EN.png",
     "type": "Trainers",
     "cardName": "米可利",
     "skillList": [
@@ -4032,14 +4032,14 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_194-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_194_R_EN.png",
     "ename": "Wallace",
     "series": "SS12",
     "cardNo": "194",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_195-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_195_R_EN.png",
     "type": "Trainers",
     "cardName": "工人",
     "skillList": [
@@ -4052,14 +4052,14 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_195-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_195_R_EN.png",
     "ename": "Worker",
     "series": "SS12",
     "cardNo": "195",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_196-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_196_R_EN.png",
     "typeEnergy": "Grass",
     "type": "Pokemon",
     "cardName": "君主蛇VSTAR",
@@ -4077,14 +4077,14 @@
         "effect": "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_196-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_196_R_EN.png",
     "ename": "Serperior VSTAR",
     "series": "SS12",
     "cardNo": "196",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_197-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_197_R_EN.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
     "cardName": "阿罗拉 六尾VSTAR",
@@ -4102,14 +4102,14 @@
         "effect": "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_197-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_197_R_EN.png",
     "ename": "Alolan Vulpix VSTAR",
     "series": "SS12",
     "cardNo": "197",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_198-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_198_R_EN.png",
     "typeEnergy": "Lightning",
     "type": "Pokemon",
     "cardName": "雷吉艾勒奇VMAX",
@@ -4127,14 +4127,14 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_198-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_198_R_EN.png",
     "ename": "Regieleki VMAX",
     "series": "SS12",
     "cardNo": "198",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_199-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_199_R_EN.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
     "cardName": "未知图腾VSTAR",
@@ -4152,14 +4152,14 @@
         "effect": "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_199-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_199_R_EN.png",
     "ename": "Unown VSTAR",
     "series": "SS12",
     "cardNo": "199",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_200-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_200_R_EN.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
     "cardName": "大嘴娃VSTAR",
@@ -4177,14 +4177,14 @@
         "effect": "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_200-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_200_R_EN.png",
     "ename": "Mawile VSTAR",
     "series": "SS12",
     "cardNo": "200",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_201-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_201_R_EN.png",
     "typeEnergy": "Dragon",
     "type": "Pokemon",
     "cardName": "雷吉铎拉戈VSTAR",
@@ -4202,14 +4202,14 @@
         "effect": "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_201-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_201_R_EN.png",
     "ename": "Regidrago VSTAR",
     "series": "SS12",
     "cardNo": "201",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_202-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_202_R_EN.png",
     "typeEnergy": "Colorless",
     "type": "Pokemon",
     "cardName": "洛奇亚VSTAR",
@@ -4227,14 +4227,14 @@
         "effect": "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_202-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_202_R_EN.png",
     "ename": "Lugia VSTAR",
     "series": "SS12",
     "cardNo": "202",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_203-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_203_R_EN.png",
     "type": "Trainers",
     "cardName": "神代",
     "skillList": [
@@ -4251,14 +4251,14 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_203-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_203_R_EN.png",
     "ename": "Brandon",
     "series": "SS12",
     "cardNo": "203",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_204-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_204_R_EN.png",
     "type": "Trainers",
     "cardName": "小菘",
     "skillList": [
@@ -4271,14 +4271,14 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_204-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_204_R_EN.png",
     "ename": "Candice",
     "series": "SS12",
     "cardNo": "204",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_205-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_205_R_EN.png",
     "type": "Trainers",
     "cardName": "长袖和服少女",
     "skillList": [
@@ -4291,14 +4291,14 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_205-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_205_R_EN.png",
     "ename": "Furisode Girl",
     "series": "SS12",
     "cardNo": "205",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_206-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_206_R_EN.png",
     "type": "Trainers",
     "cardName": "阿渡",
     "skillList": [
@@ -4311,14 +4311,14 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_206-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_206_R_EN.png",
     "ename": "Lance",
     "series": "SS12",
     "cardNo": "206",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_207-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_207_R_EN.png",
     "type": "Trainers",
     "cardName": "莎莉娜",
     "skillList": [
@@ -4339,14 +4339,14 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_207-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_207_R_EN.png",
     "ename": "Serena",
     "series": "SS12",
     "cardNo": "207",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_208-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_208_R_EN.png",
     "type": "Trainers",
     "cardName": "米可利",
     "skillList": [
@@ -4359,14 +4359,14 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_1208-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_208_R_EN.png",
     "ename": "Wallace",
     "series": "SS12",
     "cardNo": "208",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_209-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_209_R_EN.png",
     "type": "Trainers",
     "cardName": "工人",
     "skillList": [
@@ -4379,14 +4379,14 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_209-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_209_R_EN.png",
     "ename": "Worker",
     "series": "SS12",
     "cardNo": "209",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_210-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_210_R_EN.png",
     "typeEnergy": "Grass",
     "type": "Pokemon",
     "cardName": "君主蛇VSTAR",
@@ -4404,14 +4404,14 @@
         "effect": "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_210-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_210_R_EN.png",
     "ename": "Serperior VSTAR",
     "series": "SS12",
     "cardNo": "210",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_211-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_211_R_EN.png",
     "typeEnergy": "Colorless",
     "type": "Pokemon",
     "cardName": "洛奇亚VSTAR",
@@ -4429,7 +4429,7 @@
         "effect": "宝可梦【VSTAR】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_211-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_211_R_EN.png",
     "ename": "Lugia VSTAR",
     "series": "SS12",
     "cardNo": "211",
@@ -4476,7 +4476,7 @@
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_214-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_214_R_EN.png",
     "type": "Trainers",
     "cardName": "叶隐披风",
     "skillList": [
@@ -4493,14 +4493,14 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_214-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_214_R_EN.png",
     "ename": "Leafy Camo Poncho",
     "series": "SS12",
     "cardNo": "214",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_215-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_215_R_EN.png",
     "type": "Energy",
     "cardName": "V防守能量",
     "skillList": [
@@ -4513,14 +4513,14 @@
         "effect": "附有这张卡的宝可梦受到对手的「宝可梦【V】」招式的伤害「-30」点。无论附有多少张「V防守能量」卡，这个效果也不会重复。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_215-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_215_R_EN.png",
     "ename": "V Guard Energy",
     "series": "SS12",
     "cardNo": "215",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_1-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG1_R_EN.png",
     "typeEnergy": "Fire",
     "type": "Pokemon",
     "cardName": "长尾火狐",
@@ -4534,14 +4534,14 @@
         "effect": "造成自己的弃牌区的「莎莉娜」的张数×60点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_1-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG1_R_EN.png",
     "ename": "Braixen",
     "series": "SS12",
     "cardNo": "TG 1",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_2-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG2_R_EN.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
     "cardName": "美纳斯",
@@ -4555,14 +4555,14 @@
         "effect": "将对手的战斗宝可梦【睡眠】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_2-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG2_R_EN.png",
     "ename": "Milotic",
     "series": "SS12",
     "cardNo": "TG 2",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_3-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG3_R_EN.png",
     "typeEnergy": "Lightning",
     "type": "Pokemon",
     "cardName": "茸茸羊",
@@ -4576,14 +4576,14 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_3-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG3_R_EN.png",
     "ename": "Flaaffy",
     "series": "SS12",
     "cardNo": "TG 3",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_4-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG4_R_EN.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
     "cardName": "迷唇姐",
@@ -4597,14 +4597,14 @@
         "effect": "增加对手的战斗宝可梦身上放置的伤害指示物的数量×10点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_4-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG4_R_EN.png",
     "ename": "Jynx",
     "series": "SS12",
     "cardNo": "TG 4",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_5-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG5_R_EN.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
     "cardName": "沙奈朵",
@@ -4618,14 +4618,14 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_5-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG5_R_EN.png",
     "ename": "Gardevoir",
     "series": "SS12",
     "cardNo": "TG 5",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_6-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG6_R_EN.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
     "cardName": "乌贼王",
@@ -4635,14 +4635,14 @@
         "effect": "从自己的手牌将任意数量的「连击」卡给对手看过后，造成其张数×40点伤害。然后，将给对手看过的「连击」卡放回牌库并重洗。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_6-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG6_R_EN.png",
     "ename": "Malamar",
     "series": "SS12",
     "cardNo": "TG 6",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_7-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG7_R_EN.png",
     "typeEnergy": "Fighting",
     "type": "Pokemon",
     "cardName": "岩狗狗",
@@ -4652,14 +4652,14 @@
         "effect": "掷1次硬币若为正面，则选择1个对手的战斗宝可梦身上附加的能量，将其丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_7-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG7_R_EN.png",
     "ename": "Rockruff",
     "series": "SS12",
     "cardNo": "TG 7",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_8-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG8_R_EN.png",
     "typeEnergy": "Fighting",
     "type": "Pokemon",
     "cardName": "投掷猴",
@@ -4673,14 +4673,14 @@
         "effect": "对手的1只宝可梦受到20点伤害。[在备战区不计算弱点・抵抗力。]"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_8-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG8_R_EN.png",
     "ename": "Passimian",
     "series": "SS12",
     "cardNo": "TG 8",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_9-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG9_R_EN.png",
     "typeEnergy": "Dragon",
     "type": "Pokemon",
     "cardName": "赤面龙",
@@ -4694,14 +4694,14 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_9-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG9_R_EN.png",
     "ename": "Druddigon",
     "series": "SS12",
     "cardNo": "TG 9",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_10-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG10_R_EN.png",
     "typeEnergy": "Colorless",
     "type": "Pokemon",
     "cardName": "图图犬",
@@ -4715,14 +4715,14 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_10-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG10_R_EN.png",
     "ename": "Smeargle",
     "series": "SS12",
     "cardNo": "TG 10",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_11-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG11_R_EN.png",
     "typeEnergy": "Colorless",
     "type": "Pokemon",
     "cardName": "七夕青鸟",
@@ -4736,14 +4736,14 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_11-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG11_R_EN.png",
     "ename": "Altaria",
     "series": "SS12",
     "cardNo": "TG 11",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_12-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG12_R_EN.png",
     "typeEnergy": "Grass",
     "type": "Pokemon",
     "cardName": "音箱蟀V",
@@ -4761,14 +4761,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_12-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG12_R_EN.png",
     "ename": "Kricketune V",
     "series": "SS5",
     "cardNo": "TG 12",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_13-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG13_R_EN.png",
     "typeEnergy": "Grass",
     "type": "Pokemon",
     "cardName": "君主蛇V",
@@ -4786,14 +4786,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_13-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG13_R_EN.png",
     "ename": "Serperior V",
     "series": "SS12",
     "cardNo": "TG 13",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_14-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG14_R_EN.png",
     "typeEnergy": "Fire",
     "type": "Pokemon",
     "cardName": "火焰鸡V",
@@ -4811,14 +4811,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_14-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG14_R_EN.png",
     "ename": "Blaziken V",
     "series": "SS12",
     "cardNo": "TG 14",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_15-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG15_R_EN.png",
     "typeEnergy": "Fire",
     "type": "Pokemon",
     "cardName": "火焰鸡VMAX",
@@ -4836,14 +4836,14 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_15-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG15_R_EN.png",
     "ename": "Blaziken VMAX",
     "series": "SS12",
     "cardNo": "TG 15",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_16-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG16_R_EN.png",
     "typeEnergy": "Lightning",
     "type": "Pokemon",
     "cardName": "捷拉奥拉V",
@@ -4857,14 +4857,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_16-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG16_R_EN.png",
     "ename": "Zeraora V",
     "series": "SS12",
     "cardNo": "TG 16",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_17-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG17_R_EN.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
     "cardName": "大嘴娃V",
@@ -4882,14 +4882,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_17-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG17_R_EN.png",
     "ename": "Mawile V",
     "series": "SS12",
     "cardNo": "TG 17",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_18-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG18_R_EN.png",
     "typeEnergy": "Metal",
     "type": "Pokemon",
     "cardName": "钢铠鸦V",
@@ -4907,14 +4907,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_18-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG18_R_EN.png",
     "ename": "Corviknight V",
     "series": "SS12",
     "cardNo": "TG 18",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_19-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG19_R_EN.png",
     "typeEnergy": "Metal",
     "type": "Pokemon",
     "cardName": "钢铠鸦VMAX",
@@ -4932,14 +4932,14 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_19-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG19_R_EN.png",
     "ename": "Corviknight VMAX",
     "series": "SS12",
     "cardNo": "TG 19",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_20-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG20_R_EN.png",
     "typeEnergy": "Dragon",
     "type": "Pokemon",
     "cardName": "烈空坐VMAX",
@@ -4957,14 +4957,14 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_20-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG20_R_EN.png",
     "ename": "Rayquaza VMAX",
     "series": "SS12",
     "cardNo": "TG 20",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_21-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG21_R_EN.png",
     "typeEnergy": "Dragon",
     "type": "Pokemon",
     "cardName": "铝钢龙VMAX",
@@ -4982,14 +4982,14 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_21-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG21_R_EN.png",
     "ename": "Duraludon VMAX",
     "series": "SS12",
     "cardNo": "TG 21",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_22-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG22_R_EN.png",
     "typeEnergy": "Colorless",
     "type": "Pokemon",
     "cardName": "幸福蛋V",
@@ -5007,14 +5007,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_22-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG22_R_EN.png",
     "ename": "Blissey V",
     "series": "SS12",
     "cardNo": "TG 22",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_23-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG23_R_EN.png",
     "type": "Trainers",
     "cardName": "伽勒尔的伙伴",
     "skillList": [
@@ -5027,14 +5027,14 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_23-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG23_R_EN.png",
     "ename": "Friends in Galar",
     "series": "SS12",
     "cardNo": "TG 23",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_24-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG24_R_EN.png",
     "type": "Trainers",
     "cardName": "玛瓜",
     "skillList": [
@@ -5047,14 +5047,14 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_24-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG24_R_EN.png",
     "ename": "Gordie",
     "series": "SS12",
     "cardNo": "TG 24",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_25-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG25_R_EN.png",
     "type": "Trainers",
     "cardName": "裁判",
     "skillList": [
@@ -5067,14 +5067,14 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_25-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG25_R_EN.png",
     "ename": "Judge",
     "series": "SS12",
     "cardNo": "TG 25",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_26-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG26_R_EN.png",
     "type": "Trainers",
     "cardName": "芭內特博士",
     "skillList": [
@@ -5087,14 +5087,14 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_26-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG26_R_EN.png",
     "ename": "Professor Burnet",
     "series": "SS12",
     "cardNo": "TG 26",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_27-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG27_R_EN.png",
     "type": "Trainers",
     "cardName": "奇巴纳",
     "skillList": [
@@ -5111,13 +5111,14 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_27-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG27_R_EN.png",
     "ename": "Raihan",
     "series": "SS12",
-    "cardNo": "TG 27"
+    "cardNo": "TG 27",
+    "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_29-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG29_R_EN.png",
     "typeEnergy": "Dragon",
     "type": "Pokemon",
     "cardName": "烈空坐VMAX",
@@ -5135,14 +5136,14 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_29-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG29_R_EN.png",
     "ename": "Rayquaza VMAX",
     "series": "SS12",
     "cardNo": "TG 29",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_30-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG30_R_EN.png",
     "typeEnergy": "Dragon",
     "type": "Pokemon",
     "cardName": "铝钢龙VMAX",
@@ -5160,7 +5161,7 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_30-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG30_R_EN.png",
     "ename": "Duraludon VMAX",
     "series": "SS12",
     "cardNo": "TG 30",

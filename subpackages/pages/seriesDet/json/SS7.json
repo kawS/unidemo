@@ -2920,69 +2920,6 @@
     "cardNo": "140"
   },
   {
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000876.png",
-    "type": "Trainers",
-    "cardName": "结晶洞窟",
-    "skillList": [
-      {
-        "name": "",
-        "effect": "双方玩家在每个自己的回合时，可使用1次，可将自己的所有【钢】宝可梦与【龙】宝可梦各恢复「30」HP。"
-      },
-      {
-        "name": "[竞技场规则]",
-        "effect": "在自己的回合时，只可将1张竞技场卡放置于战斗场旁边。若其他名称的竞技场卡被放置，则将这张卡丢弃。"
-      }
-    ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_144-2x.jpg",
-    "ename": "Crystal Cave",
-    "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_230_R_EN.png"
-    ],
-    "series": "SS7",
-    "cardNo": "144"
-  },
-  {
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000669.png",
-    "type": "Trainers",
-    "cardName": "时尚广场",
-    "skillList": [
-      {
-        "name": "",
-        "effect": "双方玩家在每个自己的回合时，可使用1次，可选择1张自己的场上宝可梦身上附加的「宝可梦道具」，放回手牌。"
-      },
-      {
-        "name": "[竞技场规则]",
-        "effect": "在自己的回合时，只可将1张竞技场卡放置于战斗场旁边。若其他名称的竞技场卡被放置，则将这张卡丢弃。"
-      }
-    ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_157-2x.jpg",
-    "ename": "Shopping Center",
-    "series": "SS7",
-    "cardNo": "157"
-  },
-  {
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000943.png",
-    "type": "Trainers",
-    "cardName": "暴风雨山脉",
-    "skillList": [
-      {
-        "name": "",
-        "effect": "双方玩家在每个自己的回合时，可使用1次，可从自己的牌库选择1张【雷】或者【龙】属性的【基础】宝可梦卡，放置于备战区。并且重洗牌库。"
-      },
-      {
-        "name": "[竞技场规则]",
-        "effect": "在自己的回合时，只可将1张竞技场卡放置于战斗场旁边。若其他名称的竞技场卡被放置，则将这张卡丢弃。"
-      }
-    ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_161-2x.jpg",
-    "ename": "Stormy Mountains",
-    "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_232_R_EN.png"
-    ],
-    "series": "SS7",
-    "cardNo": "161"
-  },
-  {
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000667.png",
     "type": "Trainers",
     "cardName": "香氛姐姐",
@@ -3004,6 +2941,32 @@
     ],
     "series": "SS7",
     "cardNo": "141"
+  },
+  {
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000661.png",
+    "type": "Trainers",
+    "cardName": "摇摇奶昔",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "若使用了这张卡，则自己的回合结束。"
+      },
+      {
+        "name": "",
+        "effect": "从自己的牌库选择1张自己的1只场上宝可梦进化而来的卡，放置于那只宝可梦身上完成进化。并且重洗牌库。（对自己的最初回合与刚使出的宝可梦也可使用。）"
+      },
+      {
+        "name": "[物品规则]",
+        "effect": "在自己的回合时，物品卡可不限张数使用。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_142-2x.jpg",
+    "ename": "Boost Shake",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_229_R_EN.png"
+    ],
+    "series": "SS7",
+    "cardNo": "142"
   },
   {
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000875.png",
@@ -3029,84 +2992,26 @@
     "cardNo": "143"
   },
   {
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000668.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000876.png",
     "type": "Trainers",
-    "cardName": "玛瓜",
+    "cardName": "结晶洞窟",
     "skillList": [
       {
         "name": "",
-        "effect": "查看自己的牌库上方7张卡。从其中选择任意数量的能量卡，在给对手看过后加入手牌。将剩余卡放回牌库并重洗。"
+        "effect": "双方玩家在每个自己的回合时，可使用1次，可将自己的所有【钢】宝可梦与【龙】宝可梦各恢复「30」HP。"
       },
       {
-        "name": "[支援者规则]",
-        "effect": "在自己的回合时，支援者卡只可使用1张。"
+        "name": "[竞技场规则]",
+        "effect": "在自己的回合时，只可将1张竞技场卡放置于战斗场旁边。若其他名称的竞技场卡被放置，则将这张卡丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_149-2x.jpg",
-    "ename": "Gordie",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_144-2x.jpg",
+    "ename": "Crystal Cave",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_24-2x.jpg",
-      "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_201-2x.jpg",
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_223_R_EN.png"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_230_R_EN.png"
     ],
     "series": "SS7",
-    "cardNo": "149"
-  },
-  {
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000873.png",
-    "type": "Trainers",
-    "cardName": "奇巴纳",
-    "skillList": [
-      {
-        "name": "",
-        "effect": "这张卡必须在上个对手的回合自己的宝可梦【气绝】了才可使用。 "
-      },
-      {
-        "name": "",
-        "effect": "从自己的弃牌区选择1张基本能量卡，附于自己的宝可梦身上。然后，从自己的牌库任意选择1张卡加入手牌。并且重洗牌库。"
-      },
-      {
-        "name": "[支援者规则]",
-        "effect": "在自己的回合时，支援者卡只可使用1张。"
-      }
-    ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_152-2x.jpg",
-    "ename": "Raihan",
-    "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_65-2x.jpg",
-      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_27-2x.jpg",
-      "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_202-2x.jpg",
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_224_R_EN.png"
-    ],
-    "series": "SS7",
-    "cardNo": "152"
-  },
-  {
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000942.png",
-    "type": "Trainers",
-    "cardName": "希嘉娜的决心",
-    "skillList": [
-      {
-        "name": "",
-        "effect": "这张卡必须将自己的2张手牌丢弃才可使用。"
-      },
-      {
-        "name": "",
-        "effect": "从自己的牌库抽出与对手的场上宝可梦相同数量的卡。"
-      },
-      {
-        "name": "[支援者规则]",
-        "effect": "在自己的回合时，支援者卡只可使用1张。"
-      }
-    ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_164-2x.jpg",
-    "ename": "Zinnia's Resolve",
-    "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_203-2x.jpg",
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_225_R_EN.png"
-    ],
-    "series": "SS7",
-    "cardNo": "164"
+    "cardNo": "144"
   },
   {
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000870.png",
@@ -3130,6 +3035,29 @@
     "ename": "Digging Gloves",
     "series": "SS7",
     "cardNo": "145"
+  },
+  {
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000662.png",
+    "type": "Trainers",
+    "cardName": "梦境球",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "从自己的反面朝上的奖赏卡中获得这张卡时，这张卡在加入手牌前使用。"
+      },
+      {
+        "name": "",
+        "effect": "从自己的牌库选择1张宝可梦卡，放置于备战区。并且重洗牌库。"
+      },
+      {
+        "name": "[物品规则]",
+        "effect": "在自己的回合时，物品卡可不限张数使用。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_146-2x.jpg",
+    "ename": "Dream Ball",
+    "series": "SS7",
+    "cardNo": "146"
   },
   {
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000663.png",
@@ -3181,6 +3109,49 @@
     "cardNo": "148"
   },
   {
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000668.png",
+    "type": "Trainers",
+    "cardName": "玛瓜",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "查看自己的牌库上方7张卡。从其中选择任意数量的能量卡，在给对手看过后加入手牌。将剩余卡放回牌库并重洗。"
+      },
+      {
+        "name": "[支援者规则]",
+        "effect": "在自己的回合时，支援者卡只可使用1张。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_149-2x.jpg",
+    "ename": "Gordie",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_24-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_201-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_223_R_EN.png"
+    ],
+    "series": "SS7",
+    "cardNo": "149"
+  },
+  {
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000933.png",
+    "type": "Trainers",
+    "cardName": "可抽奖的冰棒",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "将自己的战斗宝可梦恢复「20」HP。然后，掷1次硬币若为正面，则不丢弃这张「可抽奖的冰棒」，而是放回手牌。"
+      },
+      {
+        "name": "[物品规则]",
+        "effect": "在自己的回合时，物品卡可不限张数使用。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_150-2x.jpg",
+    "ename": "Lucky Ice Pop",
+    "series": "SS7",
+    "cardNo": "150"
+  },
+  {
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000665.png",
     "type": "Trainers",
     "cardName": "月亮与太阳徽章",
@@ -3202,6 +3173,35 @@
     "ename": "Moon & Sun Badge",
     "series": "SS7",
     "cardNo": "151"
+  },
+  {
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000873.png",
+    "type": "Trainers",
+    "cardName": "奇巴纳",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "这张卡必须在上个对手的回合自己的宝可梦【气绝】了才可使用。 "
+      },
+      {
+        "name": "",
+        "effect": "从自己的弃牌区选择1张基本能量卡，附于自己的宝可梦身上。然后，从自己的牌库任意选择1张卡加入手牌。并且重洗牌库。"
+      },
+      {
+        "name": "[支援者规则]",
+        "effect": "在自己的回合时，支援者卡只可使用1张。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_152-2x.jpg",
+    "ename": "Raihan",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_65-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_27-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_202-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_224_R_EN.png"
+    ],
+    "series": "SS7",
+    "cardNo": "152"
   },
   {
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000939.png",
@@ -3229,6 +3229,25 @@
     "ename": "Rapid Strike Scroll of the Flying Dragon",
     "series": "SS7",
     "cardNo": "153"
+  },
+  {
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000869.png",
+    "type": "Trainers",
+    "cardName": "救援行李箱",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "从自己的弃牌区选择最多2张HP为「90」以下的宝可梦卡，在给对手看过后加入手牌。"
+      },
+      {
+        "name": "[物品规则]",
+        "effect": "在自己的回合时，物品卡可不限张数使用。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_154-2x.jpg",
+    "ename": "Rescue Carrier",
+    "series": "SS7",
+    "cardNo": "154"
   },
   {
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000666.png",
@@ -3275,6 +3294,25 @@
     "ename": "Rubber Gloves",
     "series": "SS7",
     "cardNo": "156"
+  },
+  {
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000669.png",
+    "type": "Trainers",
+    "cardName": "时尚广场",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "双方玩家在每个自己的回合时，可使用1次，可选择1张自己的场上宝可梦身上附加的「宝可梦道具」，放回手牌。"
+      },
+      {
+        "name": "[竞技场规则]",
+        "effect": "在自己的回合时，只可将1张竞技场卡放置于战斗场旁边。若其他名称的竞技场卡被放置，则将这张卡丢弃。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_157-2x.jpg",
+    "ename": "Shopping Center",
+    "series": "SS7",
+    "cardNo": "157"
   },
   {
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000871.png",
@@ -3350,91 +3388,26 @@
     "cardNo": "160"
   },
   {
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000661.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000943.png",
     "type": "Trainers",
-    "cardName": "摇摇奶昔",
+    "cardName": "暴风雨山脉",
     "skillList": [
       {
         "name": "",
-        "effect": "若使用了这张卡，则自己的回合结束。"
+        "effect": "双方玩家在每个自己的回合时，可使用1次，可从自己的牌库选择1张【雷】或者【龙】属性的【基础】宝可梦卡，放置于备战区。并且重洗牌库。"
       },
       {
-        "name": "",
-        "effect": "从自己的牌库选择1张自己的1只场上宝可梦进化而来的卡，放置于那只宝可梦身上完成进化。并且重洗牌库。（对自己的最初回合与刚使出的宝可梦也可使用。）"
-      },
-      {
-        "name": "[物品规则]",
-        "effect": "在自己的回合时，物品卡可不限张数使用。"
+        "name": "[竞技场规则]",
+        "effect": "在自己的回合时，只可将1张竞技场卡放置于战斗场旁边。若其他名称的竞技场卡被放置，则将这张卡丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_142-2x.jpg",
-    "ename": "Boost Shake",
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_161-2x.jpg",
+    "ename": "Stormy Mountains",
     "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_229_R_EN.png"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_232_R_EN.png"
     ],
     "series": "SS7",
-    "cardNo": "142"
-  },
-  {
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000662.png",
-    "type": "Trainers",
-    "cardName": "梦境球",
-    "skillList": [
-      {
-        "name": "",
-        "effect": "从自己的反面朝上的奖赏卡中获得这张卡时，这张卡在加入手牌前使用。"
-      },
-      {
-        "name": "",
-        "effect": "从自己的牌库选择1张宝可梦卡，放置于备战区。并且重洗牌库。"
-      },
-      {
-        "name": "[物品规则]",
-        "effect": "在自己的回合时，物品卡可不限张数使用。"
-      }
-    ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_146-2x.jpg",
-    "ename": "Dream Ball",
-    "series": "SS7",
-    "cardNo": "146"
-  },
-  {
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000933.png",
-    "type": "Trainers",
-    "cardName": "可抽奖的冰棒",
-    "skillList": [
-      {
-        "name": "",
-        "effect": "将自己的战斗宝可梦恢复「20」HP。然后，掷1次硬币若为正面，则不丢弃这张「可抽奖的冰棒」，而是放回手牌。"
-      },
-      {
-        "name": "[物品规则]",
-        "effect": "在自己的回合时，物品卡可不限张数使用。"
-      }
-    ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_150-2x.jpg",
-    "ename": "Lucky Ice Pop",
-    "series": "SS7",
-    "cardNo": "150"
-  },
-  {
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000869.png",
-    "type": "Trainers",
-    "cardName": "救援行李箱",
-    "skillList": [
-      {
-        "name": "",
-        "effect": "从自己的弃牌区选择最多2张HP为「90」以下的宝可梦卡，在给对手看过后加入手牌。"
-      },
-      {
-        "name": "[物品规则]",
-        "effect": "在自己的回合时，物品卡可不限张数使用。"
-      }
-    ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_154-2x.jpg",
-    "ename": "Rescue Carrier",
-    "series": "SS7",
-    "cardNo": "154"
+    "cardNo": "161"
   },
   {
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000868.png",
@@ -3476,6 +3449,33 @@
     ],
     "series": "SS7",
     "cardNo": "163"
+  },
+  {
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000942.png",
+    "type": "Trainers",
+    "cardName": "希嘉娜的决心",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "这张卡必须将自己的2张手牌丢弃才可使用。"
+      },
+      {
+        "name": "",
+        "effect": "从自己的牌库抽出与对手的场上宝可梦相同数量的卡。"
+      },
+      {
+        "name": "[支援者规则]",
+        "effect": "在自己的回合时，支援者卡只可使用1张。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_164-2x.jpg",
+    "ename": "Zinnia's Resolve",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_203-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_225_R_EN.png"
+    ],
+    "series": "SS7",
+    "cardNo": "164"
   },
   {
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00000670.png",

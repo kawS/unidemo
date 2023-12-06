@@ -2635,54 +2635,6 @@
     "cardNo": "128"
   },
   {
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00005509.png",
-    "type": "Trainers",
-    "cardName": "崩塌的竞技场",
-    "skillList": [
-      {
-        "name": "",
-        "effect": "双方玩家的可放置于备战区的宝可梦数量改为4只。[变更备战宝可梦数量的效果，以变少者为优先。]"
-      },
-      {
-        "name": "",
-        "effect": "（将这张卡放置于场上时，备战宝可梦有5只以上的玩家，将其丢弃直到变为4只为止。这张卡的持有人先丢弃。）"
-      },
-      {
-        "name": "[竞技场规则]",
-        "effect": "在自己的回合时，只可将1张竞技场卡放置于战斗场旁边。若其他名称的竞技场卡被放置，则将这张卡丢弃。"
-      }
-    ],
-    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_137_R_EN.png",
-    "ename": "Collapsed Stadium",
-    "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_215_R_EN.png"
-    ],
-    "series": "SS9",
-    "cardNo": "137"
-  },
-  {
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00005510.png",
-    "type": "Trainers",
-    "cardName": "熔岩的瀑布深潭",
-    "skillList": [
-      {
-        "name": "",
-        "effect": "双方玩家在每个自己的回合时，可使用1次，可从自己的弃牌区选择1张【火】能量卡，附于自己的备战区的【火】宝可梦身上。这个情况下，在附上那张卡的宝可梦身上放置2个伤害指示物。"
-      },
-      {
-        "name": "[竞技场规则]",
-        "effect": "在自己的回合时，只可将1张竞技场卡放置于战斗场旁边。若其他名称的竞技场卡被放置，则将这张卡丢弃。"
-      }
-    ],
-    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_144_R_EN.png",
-    "ename": "Magma Basin",
-    "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_185_R_EN.png"
-    ],
-    "series": "SS9",
-    "cardNo": "144"
-  },
-  {
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00005336.png",
     "type": "Trainers",
     "cardName": "阿塞萝拉的预感",
@@ -2725,6 +2677,29 @@
     ],
     "series": "SS9",
     "cardNo": "130"
+  },
+  {
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00005583.png",
+    "type": "Trainers",
+    "cardName": "打空保险",
+    "skillList": [
+      {
+        "name": "[宝可梦道具规则]",
+        "effect": "宝可梦道具卡，附于自己的宝可梦使用。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
+      },
+      {
+        "name": "",
+        "effect": "附有这张卡的宝可梦使用招式时，若因招式的伤害与效果自己掷硬币出现了反面，则自己的回合结束时，从自己的牌库抽出3张卡。"
+      },
+      {
+        "name": "[物品规则]",
+        "effect": "在自己的回合时，物品卡可不限张数使用。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_131-2x.jpg",
+    "ename": "Blunder Policy",
+    "series": "SS9",
+    "cardNo": "131"
   },
   {
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00005508.png",
@@ -2796,6 +2771,81 @@
     "cardNo": "134"
   },
   {
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00005501.png",
+    "type": "Trainers",
+    "cardName": "讲究腰带",
+    "skillList": [
+      {
+        "name": "[宝可梦道具规则]",
+        "effect": "宝可梦道具卡，附于自己的宝可梦使用。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
+      },
+      {
+        "name": "",
+        "effect": "附有这张卡的宝可梦使用的招式，对对手的战斗场的「宝可梦【V】」造成的伤害「+30」点。"
+      },
+      {
+        "name": "[物品规则]",
+        "effect": "在自己的回合时，物品卡可不限张数使用。"
+      }
+    ],
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_135_R_EN.png",
+    "ename": "Choice Belt",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_211_R_EN.png"
+    ],
+    "series": "SS9",
+    "cardNo": "135"
+  },
+  {
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00005330.png",
+    "type": "Trainers",
+    "cardName": "消灾手套",
+    "skillList": [
+      {
+        "name": "[宝可梦道具规则]",
+        "effect": "宝可梦道具卡，附于自己的宝可梦使用。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
+      },
+      {
+        "name": "",
+        "effect": "附有这张卡的宝可梦使用的招式，对对手的战斗场的【超】宝可梦造成的伤害「+30」点。"
+      },
+      {
+        "name": "[物品规则]",
+        "effect": "在自己的回合时，物品卡可不限张数使用。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_136-2x.jpg",
+    "ename": "Cleansing Gloves",
+    "series": "SS9",
+    "cardNo": "136"
+  },
+  {
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00005509.png",
+    "type": "Trainers",
+    "cardName": "崩塌的竞技场",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "双方玩家的可放置于备战区的宝可梦数量改为4只。[变更备战宝可梦数量的效果，以变少者为优先。]"
+      },
+      {
+        "name": "",
+        "effect": "（将这张卡放置于场上时，备战宝可梦有5只以上的玩家，将其丢弃直到变为4只为止。这张卡的持有人先丢弃。）"
+      },
+      {
+        "name": "[竞技场规则]",
+        "effect": "在自己的回合时，只可将1张竞技场卡放置于战斗场旁边。若其他名称的竞技场卡被放置，则将这张卡丢弃。"
+      }
+    ],
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_137_R_EN.png",
+    "ename": "Collapsed Stadium",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_215_R_EN.png"
+    ],
+    "series": "SS9",
+    "cardNo": "137"
+  },
+  {
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00005504.png",
     "type": "Trainers",
     "cardName": "竹兰的霸气",
@@ -2818,6 +2868,25 @@
     ],
     "series": "SS9",
     "cardNo": "138"
+  },
+  {
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00005499.png",
+    "type": "Trainers",
+    "cardName": "美味之水组合",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "将自己的所有宝可梦各恢复「20」HP。"
+      },
+      {
+        "name": "[物品规则]",
+        "effect": "在自己的回合时，物品卡可不限张数使用。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_139-2x.jpg",
+    "ename": "Fresh Water Set",
+    "series": "SS9",
+    "cardNo": "139"
   },
   {
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00005337.png",
@@ -2864,6 +2933,29 @@
     "cardNo": "141"
   },
   {
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00005332.png",
+    "type": "Trainers",
+    "cardName": "猎人手套",
+    "skillList": [
+      {
+        "name": "[宝可梦道具规则]",
+        "effect": "宝可梦道具卡，附于自己的宝可梦使用。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
+      },
+      {
+        "name": "",
+        "effect": "附有这张卡的宝可梦使用的招式，对对手的战斗场的【龙】宝可梦造成的伤害「+30」点。"
+      },
+      {
+        "name": "[物品规则]",
+        "effect": "在自己的回合时，物品卡可不限张数使用。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_142-2x.jpg",
+    "ename": "Hunting Gloves",
+    "series": "SS9",
+    "cardNo": "142"
+  },
+  {
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00005503.png",
     "type": "Trainers",
     "cardName": "营火专家",
@@ -2891,6 +2983,28 @@
     "cardNo": "143"
   },
   {
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00005510.png",
+    "type": "Trainers",
+    "cardName": "熔岩的瀑布深潭",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "双方玩家在每个自己的回合时，可使用1次，可从自己的弃牌区选择1张【火】能量卡，附于自己的备战区的【火】宝可梦身上。这个情况下，在附上那张卡的宝可梦身上放置2个伤害指示物。"
+      },
+      {
+        "name": "[竞技场规则]",
+        "effect": "在自己的回合时，只可将1张竞技场卡放置于战斗场旁边。若其他名称的竞技场卡被放置，则将这张卡丢弃。"
+      }
+    ],
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_144_R_EN.png",
+    "ename": "Magma Basin",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_185_R_EN.png"
+    ],
+    "series": "SS9",
+    "cardNo": "144"
+  },
+  {
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006034.png",
     "type": "Trainers",
     "cardName": "玛俐的骄傲",
@@ -2911,6 +3025,29 @@
     ],
     "series": "SS9",
     "cardNo": "145"
+  },
+  {
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00005502.png",
+    "type": "Trainers",
+    "cardName": "锅型头盔",
+    "skillList": [
+      {
+        "name": "[宝可梦道具规则]",
+        "effect": "宝可梦道具卡，附于自己的宝可梦使用。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
+      },
+      {
+        "name": "",
+        "effect": "附有这张卡的宝可梦（「拥有规则的宝可梦」除外），受到对手的宝可梦招式的伤害「-30」点。"
+      },
+      {
+        "name": "[物品规则]",
+        "effect": "在自己的回合时，物品卡可不限张数使用。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_146-2x.jpg",
+    "ename": "Pot Helmet",
+    "series": "SS9",
+    "cardNo": "146"
   },
   {
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00005506.png",
@@ -2975,143 +3112,6 @@
     "ename": "Team Yell's Cheer",
     "series": "SS9",
     "cardNo": "149"
-  },
-  {
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00005583.png",
-    "type": "Trainers",
-    "cardName": "打空保险",
-    "skillList": [
-      {
-        "name": "[宝可梦道具规则]",
-        "effect": "宝可梦道具卡，附于自己的宝可梦使用。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
-      },
-      {
-        "name": "",
-        "effect": "附有这张卡的宝可梦使用招式时，若因招式的伤害与效果自己掷硬币出现了反面，则自己的回合结束时，从自己的牌库抽出3张卡。"
-      },
-      {
-        "name": "[物品规则]",
-        "effect": "在自己的回合时，物品卡可不限张数使用。"
-      }
-    ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_131-2x.jpg",
-    "ename": "Blunder Policy",
-    "series": "SS9",
-    "cardNo": "131"
-  },
-  {
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00005501.png",
-    "type": "Trainers",
-    "cardName": "讲究腰带",
-    "skillList": [
-      {
-        "name": "[宝可梦道具规则]",
-        "effect": "宝可梦道具卡，附于自己的宝可梦使用。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
-      },
-      {
-        "name": "",
-        "effect": "附有这张卡的宝可梦使用的招式，对对手的战斗场的「宝可梦【V】」造成的伤害「+30」点。"
-      },
-      {
-        "name": "[物品规则]",
-        "effect": "在自己的回合时，物品卡可不限张数使用。"
-      }
-    ],
-    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_135_R_EN.png",
-    "ename": "Choice Belt",
-    "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_211_R_EN.png"
-    ],
-    "series": "SS9",
-    "cardNo": "135"
-  },
-  {
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00005330.png",
-    "type": "Trainers",
-    "cardName": "消灾手套",
-    "skillList": [
-      {
-        "name": "[宝可梦道具规则]",
-        "effect": "宝可梦道具卡，附于自己的宝可梦使用。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
-      },
-      {
-        "name": "",
-        "effect": "附有这张卡的宝可梦使用的招式，对对手的战斗场的【超】宝可梦造成的伤害「+30」点。"
-      },
-      {
-        "name": "[物品规则]",
-        "effect": "在自己的回合时，物品卡可不限张数使用。"
-      }
-    ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_136-2x.jpg",
-    "ename": "Cleansing Gloves",
-    "series": "SS9",
-    "cardNo": "136"
-  },
-  {
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00005332.png",
-    "type": "Trainers",
-    "cardName": "猎人手套",
-    "skillList": [
-      {
-        "name": "[宝可梦道具规则]",
-        "effect": "宝可梦道具卡，附于自己的宝可梦使用。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
-      },
-      {
-        "name": "",
-        "effect": "附有这张卡的宝可梦使用的招式，对对手的战斗场的【龙】宝可梦造成的伤害「+30」点。"
-      },
-      {
-        "name": "[物品规则]",
-        "effect": "在自己的回合时，物品卡可不限张数使用。"
-      }
-    ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_142-2x.jpg",
-    "ename": "Hunting Gloves",
-    "series": "SS9",
-    "cardNo": "142"
-  },
-  {
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00005502.png",
-    "type": "Trainers",
-    "cardName": "锅型头盔",
-    "skillList": [
-      {
-        "name": "[宝可梦道具规则]",
-        "effect": "宝可梦道具卡，附于自己的宝可梦使用。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
-      },
-      {
-        "name": "",
-        "effect": "附有这张卡的宝可梦（「拥有规则的宝可梦」除外），受到对手的宝可梦招式的伤害「-30」点。"
-      },
-      {
-        "name": "[物品规则]",
-        "effect": "在自己的回合时，物品卡可不限张数使用。"
-      }
-    ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_146-2x.jpg",
-    "ename": "Pot Helmet",
-    "series": "SS9",
-    "cardNo": "146"
-  },
-  {
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00005499.png",
-    "type": "Trainers",
-    "cardName": "美味之水组合",
-    "skillList": [
-      {
-        "name": "",
-        "effect": "将自己的所有宝可梦各恢复「20」HP。"
-      },
-      {
-        "name": "[物品规则]",
-        "effect": "在自己的回合时，物品卡可不限张数使用。"
-      }
-    ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_139-2x.jpg",
-    "ename": "Fresh Water Set",
-    "series": "SS9",
-    "cardNo": "139"
   },
   {
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00005500.png",

@@ -1306,25 +1306,6 @@
     "cardNo": "63"
   },
   {
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006604.png",
-    "type": "Trainers",
-    "cardName": "宝可补给站",
-    "skillList": [
-      {
-        "name": "",
-        "effect": "双方玩家在每个自己的回合时，可使用1次，可将自己的牌库上方3张卡丢弃。这个情况下，在给对手看过其中的所有物品卡后，加入手牌。"
-      },
-      {
-        "name": "[竞技场规则]",
-        "effect": "在自己的回合时，只可将1张竞技场卡放置于战斗场旁边。若其他名称的竞技场卡被放置，则将这张卡丢弃。"
-      }
-    ],
-    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PGO/PGO_068_R_EN.png",
-    "ename": "PokéStop",
-    "series": "SS10.5",
-    "cardNo": "68"
-  },
-  {
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006603.png",
     "type": "Trainers",
     "cardName": "布兰雪",
@@ -1367,28 +1348,6 @@
     ],
     "series": "SS10.5",
     "cardNo": "65"
-  },
-  {
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006602.png",
-    "type": "Trainers",
-    "cardName": "史帕克",
-    "skillList": [
-      {
-        "name": "",
-        "effect": "从自己的牌库抽出2张卡。然后，掷1次硬币若为正面，则从自己的弃牌区选择1张【雷】能量卡，附于备战宝可梦身上。"
-      },
-      {
-        "name": "[支援者规则]",
-        "effect": "在自己的回合时，支援者卡只可使用1张。"
-      }
-    ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_70-2x.jpg",
-    "ename": "Spark",
-    "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PGO/PGO_085_R_EN.png"
-    ],
-    "series": "SS10.5",
-    "cardNo": "70"
   },
   {
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006598.png",
@@ -1435,6 +1394,25 @@
     "cardNo": "67"
   },
   {
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006604.png",
+    "type": "Trainers",
+    "cardName": "宝可补给站",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "双方玩家在每个自己的回合时，可使用1次，可将自己的牌库上方3张卡丢弃。这个情况下，在给对手看过其中的所有物品卡后，加入手牌。"
+      },
+      {
+        "name": "[竞技场规则]",
+        "effect": "在自己的回合时，只可将1张竞技场卡放置于战斗场旁边。若其他名称的竞技场卡被放置，则将这张卡丢弃。"
+      }
+    ],
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PGO/PGO_068_R_EN.png",
+    "ename": "PokéStop",
+    "series": "SS10.5",
+    "cardNo": "68"
+  },
+  {
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006599.png",
     "type": "Trainers",
     "cardName": "神奇糖果",
@@ -1455,6 +1433,28 @@
     ],
     "series": "SS10.5",
     "cardNo": "69"
+  },
+  {
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006602.png",
+    "type": "Trainers",
+    "cardName": "史帕克",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "从自己的牌库抽出2张卡。然后，掷1次硬币若为正面，则从自己的弃牌区选择1张【雷】能量卡，附于备战宝可梦身上。"
+      },
+      {
+        "name": "[支援者规则]",
+        "effect": "在自己的回合时，支援者卡只可使用1张。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_70-2x.jpg",
+    "ename": "Spark",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PGO/PGO_085_R_EN.png"
+    ],
+    "series": "SS10.5",
+    "cardNo": "70"
   },
   {
     "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/tcg-go/cards/en-us/POGO_EN_71-2x.jpg",

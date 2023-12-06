@@ -2899,72 +2899,6 @@
     "cardNo": "134"
   },
   {
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006299.png",
-    "type": "Trainers",
-    "cardName": "大嘴沼泽",
-    "skillList": [
-      {
-        "name": "",
-        "effect": "双方玩家每次从手牌将【基础】宝可梦放置于备战区时，在那只宝可梦身上放置2个伤害指示物。"
-      },
-      {
-        "name": "[竞技场规则]",
-        "effect": "在自己的回合时，只可将1张竞技场卡放置于战斗场旁边。若其他名称的竞技场卡被放置，则将这张卡丢弃。"
-      }
-    ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_142-2x.jpg",
-    "ename": "Gapejaw Bog",
-    "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_213_R_EN.png"
-    ],
-    "series": "SS10",
-    "cardNo": "142"
-  },
-  {
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006115.png",
-    "type": "Trainers",
-    "cardName": "祝庆村",
-    "skillList": [
-      {
-        "name": "",
-        "effect": "双方玩家在每个自己的回合时，可使用1次，可将自己的手牌全部放回牌库并重洗。这个情况下，从自己的牌库抽出5张卡。若使用了这个效果，则自己的回合结束。"
-      },
-      {
-        "name": "[竞技场规则]",
-        "effect": "在自己的回合时，只可将1张竞技场卡放置于战斗场旁边。若其他名称的竞技场卡被放置，则将这张卡丢弃。"
-      }
-    ],
-    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_148_R_EN_SM.png",
-    "ename": "Jubilife Village",
-    "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_212_R_EN.png"
-    ],
-    "series": "SS10",
-    "cardNo": "148"
-  },
-  {
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006366.png",
-    "type": "Trainers",
-    "cardName": "神奥神殿",
-    "skillList": [
-      {
-        "name": "",
-        "effect": "双方的场上宝可梦身上附加的特殊能量的效果全部消除，视为提供1个【无】能量。"
-      },
-      {
-        "name": "[竞技场规则]",
-        "effect": "在自己的回合时，只可将1张竞技场卡放置于战斗场旁边。若其他名称的竞技场卡被放置，则将这张卡丢弃。"
-      }
-    ],
-    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_155_R_EN_SM.png",
-    "ename": "Temple of Sinnoh",
-    "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_214_R_EN.png"
-    ],
-    "series": "SS10",
-    "cardNo": "155"
-  },
-  {
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006296.png",
     "type": "Trainers",
     "cardName": "刚石",
@@ -2991,6 +2925,25 @@
     ],
     "series": "SS10",
     "cardNo": "135"
+  },
+  {
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006111.png",
+    "type": "Trainers",
+    "cardName": "消除香水",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "在这个回合结束前，对手的战斗宝可梦的特性全部消除。（包含新上战斗场的宝可梦。）"
+      },
+      {
+        "name": "[物品规则]",
+        "effect": "在自己的回合时，物品卡可不限张数使用。"
+      }
+    ],
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_136_R_EN.png",
+    "ename": "Canceling Cologne",
+    "series": "SS10",
+    "cardNo": "136"
   },
   {
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006365.png",
@@ -3037,198 +2990,6 @@
     ],
     "series": "SS10",
     "cardNo": "138"
-  },
-  {
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006297.png",
-    "type": "Trainers",
-    "cardName": "菜种的活力",
-    "skillList": [
-      {
-        "name": "",
-        "effect": "从自己的牌库抽出2张卡。然后，从自己的手牌选择最多2张【草】能量卡，附于1只备战宝可梦身上。"
-      },
-      {
-        "name": "[支援者规则]",
-        "effect": "在自己的回合时，支援者卡只可使用1张。"
-      }
-    ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_143-2x.jpg",
-    "ename": "Gardenia's Vigor",
-    "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_61-2x.jpg",
-      "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_184-2x.jpg",
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_202_R_EN.png"
-    ],
-    "series": "SS10",
-    "cardNo": "143"
-  },
-  {
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006364.png",
-    "type": "Trainers",
-    "cardName": "查克洛",
-    "skillList": [
-      {
-        "name": "",
-        "effect": "在这个回合，自己的【斗】宝可梦使用的招式，对对手的战斗宝可梦造成的伤害「+30」点。"
-      },
-      {
-        "name": "",
-        "effect": "在自己的回合，若将自己的2张手牌（「查克洛」除外）丢弃，则可从自己的弃牌区将这张「查克洛」给对手看过后加入手牌。（在自己的回合时可使用的支援者卡的张数中，不包含这个效果。）"
-      },
-      {
-        "name": "[支援者规则]",
-        "effect": "在自己的回合时，支援者卡只可使用1张。"
-      }
-    ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_144-2x.jpg",
-    "ename": "Grant",
-    "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_62-2x.jpg",
-      "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_185-2x.jpg",
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_203_R_EN.png"
-    ],
-    "series": "SS10",
-    "cardNo": "144"
-  },
-  {
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006363.png",
-    "type": "Trainers",
-    "cardName": "珠贝",
-    "skillList": [
-      {
-        "name": "",
-        "effect": "从自己的牌库选择【水】宝可梦卡与物品卡各1张，在给对手看过后加入手牌。并且重洗牌库。"
-      },
-      {
-        "name": "[支援者规则]",
-        "effect": "在自己的回合时，支援者卡只可使用1张。"
-      }
-    ],
-    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_147_R_EN_SM.png",
-    "ename": "Irida",
-    "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_63-2x.jpg",
-      "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_186-2x.jpg",
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_204_R_EN.png"
-    ],
-    "series": "SS10",
-    "cardNo": "147"
-  },
-  {
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006114.png",
-    "type": "Trainers",
-    "cardName": "马加木",
-    "skillList": [
-      {
-        "name": "",
-        "effect": "选择1张自己的手牌，将剩余的手牌全部丢弃。然后，从牌库抽出4张卡。（若自己的手牌只有这1张，则无法使用这张卡。）"
-      },
-      {
-        "name": "[支援者规则]",
-        "effect": "在自己的回合时，支援者卡只可使用1张。"
-      }
-    ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_149-2x.jpg",
-    "ename": "Kamado",
-    "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_187-2x.jpg",
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_205_R_EN.png"
-    ],
-    "series": "SS10",
-    "cardNo": "149"
-  },
-  {
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006113.png",
-    "type": "Trainers",
-    "cardName": "杜娟",
-    "skillList": [
-      {
-        "name": "",
-        "effect": "这张卡只可在对手剩余奖赏卡的张数为3张以下时使用。"
-      },
-      {
-        "name": "",
-        "effect": "双方玩家各将手牌全部放回牌库并重洗。然后，从牌库抽卡，自己抽出6张，对手抽出2张。"
-      },
-      {
-        "name": "[支援者规则]",
-        "effect": "在自己的回合时，支援者卡只可使用1张。"
-      }
-    ],
-    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_150_R_EN_SM.png",
-    "ename": "Roxanne",
-    "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_66-2x.jpg",
-      "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_188-2x.jpg",
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_206_R_EN.png"
-    ],
-    "series": "SS10",
-    "cardNo": "150"
-  },
-  {
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006298.png",
-    "type": "Trainers",
-    "cardName": "贝里菈",
-    "skillList": [
-      {
-        "name": "",
-        "effect": "从牌库抽卡直到自己手牌的张数比对手手牌的张数多1张为止。"
-      },
-      {
-        "name": "[支援者规则]",
-        "effect": "在自己的回合时，支援者卡只可使用1张。"
-      }
-    ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_159-2x.jpg",
-    "ename": "Zisu",
-    "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_189-2x.jpg",
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_207_R_EN.png"
-    ],
-    "series": "SS10",
-    "cardNo": "159"
-  },
-  {
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006362.png",
-    "type": "Trainers",
-    "cardName": "超群眼镜",
-    "skillList": [
-      {
-        "name": "[宝可梦道具规则]",
-        "effect": "宝可梦道具卡，附于自己的宝可梦使用。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
-      },
-      {
-        "name": "",
-        "effect": "用附有这张卡的宝可梦使用的招式的伤害，计算对手的战斗宝可梦的弱点时，弱点以「×3」计算伤害。"
-      },
-      {
-        "name": "[物品规则]",
-        "effect": "在自己的回合时，物品卡可不限张数使用。"
-      }
-    ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_152-2x.jpg",
-    "ename": "Supereffective Glasses",
-    "series": "SS10",
-    "cardNo": "152"
-  },
-  {
-    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006111.png",
-    "type": "Trainers",
-    "cardName": "消除香水",
-    "skillList": [
-      {
-        "name": "",
-        "effect": "在这个回合结束前，对手的战斗宝可梦的特性全部消除。（包含新上战斗场的宝可梦。）"
-      },
-      {
-        "name": "[物品规则]",
-        "effect": "在自己的回合时，物品卡可不限张数使用。"
-      }
-    ],
-    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_136_R_EN.png",
-    "ename": "Canceling Cologne",
-    "series": "SS10",
-    "cardNo": "136"
   },
   {
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006219.png",
@@ -3291,6 +3052,80 @@
     "cardNo": "141"
   },
   {
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006299.png",
+    "type": "Trainers",
+    "cardName": "大嘴沼泽",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "双方玩家每次从手牌将【基础】宝可梦放置于备战区时，在那只宝可梦身上放置2个伤害指示物。"
+      },
+      {
+        "name": "[竞技场规则]",
+        "effect": "在自己的回合时，只可将1张竞技场卡放置于战斗场旁边。若其他名称的竞技场卡被放置，则将这张卡丢弃。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_142-2x.jpg",
+    "ename": "Gapejaw Bog",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_213_R_EN.png"
+    ],
+    "series": "SS10",
+    "cardNo": "142"
+  },
+  {
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006297.png",
+    "type": "Trainers",
+    "cardName": "菜种的活力",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "从自己的牌库抽出2张卡。然后，从自己的手牌选择最多2张【草】能量卡，附于1只备战宝可梦身上。"
+      },
+      {
+        "name": "[支援者规则]",
+        "effect": "在自己的回合时，支援者卡只可使用1张。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_143-2x.jpg",
+    "ename": "Gardenia's Vigor",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_61-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_184-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_202_R_EN.png"
+    ],
+    "series": "SS10",
+    "cardNo": "143"
+  },
+  {
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006364.png",
+    "type": "Trainers",
+    "cardName": "查克洛",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "在这个回合，自己的【斗】宝可梦使用的招式，对对手的战斗宝可梦造成的伤害「+30」点。"
+      },
+      {
+        "name": "",
+        "effect": "在自己的回合，若将自己的2张手牌（「查克洛」除外）丢弃，则可从自己的弃牌区将这张「查克洛」给对手看过后加入手牌。（在自己的回合时可使用的支援者卡的张数中，不包含这个效果。）"
+      },
+      {
+        "name": "[支援者规则]",
+        "effect": "在自己的回合时，支援者卡只可使用1张。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_144-2x.jpg",
+    "ename": "Grant",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_62-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_185-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_203_R_EN.png"
+    ],
+    "series": "SS10",
+    "cardNo": "144"
+  },
+  {
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006196.png",
     "type": "Trainers",
     "cardName": "坚毅十字镐",
@@ -3329,6 +3164,103 @@
     "cardNo": "146"
   },
   {
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006363.png",
+    "type": "Trainers",
+    "cardName": "珠贝",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "从自己的牌库选择【水】宝可梦卡与物品卡各1张，在给对手看过后加入手牌。并且重洗牌库。"
+      },
+      {
+        "name": "[支援者规则]",
+        "effect": "在自己的回合时，支援者卡只可使用1张。"
+      }
+    ],
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_147_R_EN_SM.png",
+    "ename": "Irida",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_63-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_186-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_204_R_EN.png"
+    ],
+    "series": "SS10",
+    "cardNo": "147"
+  },
+  {
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006115.png",
+    "type": "Trainers",
+    "cardName": "祝庆村",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "双方玩家在每个自己的回合时，可使用1次，可将自己的手牌全部放回牌库并重洗。这个情况下，从自己的牌库抽出5张卡。若使用了这个效果，则自己的回合结束。"
+      },
+      {
+        "name": "[竞技场规则]",
+        "effect": "在自己的回合时，只可将1张竞技场卡放置于战斗场旁边。若其他名称的竞技场卡被放置，则将这张卡丢弃。"
+      }
+    ],
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_148_R_EN_SM.png",
+    "ename": "Jubilife Village",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_212_R_EN.png"
+    ],
+    "series": "SS10",
+    "cardNo": "148"
+  },
+  {
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006114.png",
+    "type": "Trainers",
+    "cardName": "马加木",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "选择1张自己的手牌，将剩余的手牌全部丢弃。然后，从牌库抽出4张卡。（若自己的手牌只有这1张，则无法使用这张卡。）"
+      },
+      {
+        "name": "[支援者规则]",
+        "effect": "在自己的回合时，支援者卡只可使用1张。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_149-2x.jpg",
+    "ename": "Kamado",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_187-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_205_R_EN.png"
+    ],
+    "series": "SS10",
+    "cardNo": "149"
+  },
+  {
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006113.png",
+    "type": "Trainers",
+    "cardName": "杜娟",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "这张卡只可在对手剩余奖赏卡的张数为3张以下时使用。"
+      },
+      {
+        "name": "",
+        "effect": "双方玩家各将手牌全部放回牌库并重洗。然后，从牌库抽卡，自己抽出6张，对手抽出2张。"
+      },
+      {
+        "name": "[支援者规则]",
+        "effect": "在自己的回合时，支援者卡只可使用1张。"
+      }
+    ],
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_150_R_EN_SM.png",
+    "ename": "Roxanne",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_66-2x.jpg",
+      "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_188-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_206_R_EN.png"
+    ],
+    "series": "SS10",
+    "cardNo": "150"
+  },
+  {
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00005596.png",
     "type": "Trainers",
     "cardName": "辣味香料咖哩",
@@ -3346,6 +3278,29 @@
     "ename": "Spicy Seasoned Curry",
     "series": "SS10",
     "cardNo": "151"
+  },
+  {
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006362.png",
+    "type": "Trainers",
+    "cardName": "超群眼镜",
+    "skillList": [
+      {
+        "name": "[宝可梦道具规则]",
+        "effect": "宝可梦道具卡，附于自己的宝可梦使用。1只宝可梦只可附上1张宝可梦道具卡，并且保持附加状态。"
+      },
+      {
+        "name": "",
+        "effect": "用附有这张卡的宝可梦使用的招式的伤害，计算对手的战斗宝可梦的弱点时，弱点以「×3」计算伤害。"
+      },
+      {
+        "name": "[物品规则]",
+        "effect": "在自己的回合时，物品卡可不限张数使用。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_152-2x.jpg",
+    "ename": "Supereffective Glasses",
+    "series": "SS10",
+    "cardNo": "152"
   },
   {
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006110.png",
@@ -3384,6 +3339,28 @@
     "ename": "Switch Cart",
     "series": "SS10",
     "cardNo": "154"
+  },
+  {
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006366.png",
+    "type": "Trainers",
+    "cardName": "神奥神殿",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "双方的场上宝可梦身上附加的特殊能量的效果全部消除，视为提供1个【无】能量。"
+      },
+      {
+        "name": "[竞技场规则]",
+        "effect": "在自己的回合时，只可将1张竞技场卡放置于战斗场旁边。若其他名称的竞技场卡被放置，则将这张卡丢弃。"
+      }
+    ],
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_155_R_EN_SM.png",
+    "ename": "Temple of Sinnoh",
+    "artList": [
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_214_R_EN.png"
+    ],
+    "series": "SS10",
+    "cardNo": "155"
   },
   {
     "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006293.png",
@@ -3452,6 +3429,29 @@
     "ename": "Wait and See Turbo",
     "series": "SS10",
     "cardNo": "158"
+  },
+  {
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00006298.png",
+    "type": "Trainers",
+    "cardName": "贝里菈",
+    "skillList": [
+      {
+        "name": "",
+        "effect": "从牌库抽卡直到自己手牌的张数比对手手牌的张数多1张为止。"
+      },
+      {
+        "name": "[支援者规则]",
+        "effect": "在自己的回合时，支援者卡只可使用1张。"
+      }
+    ],
+    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_159-2x.jpg",
+    "ename": "Zisu",
+    "artList": [
+      "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_189-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_207_R_EN.png"
+    ],
+    "series": "SS10",
+    "cardNo": "159"
   },
   {
     "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_160-2x.jpg",
