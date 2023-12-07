@@ -5,7 +5,7 @@
 			<div>卡组列表</div>
 			<div>共{{ resultList.length }}类</div>
 		</div>
-		<div class="tips">导入退环境卡或卡组编号查不到会导致缺失(点击可搜索)</div>
+		<div class="tips">导入退环境卡或卡组编号查不到会导致缺失(未收录不能点击搜索)</div>
 		<div class="undeck" v-if="noCardList != ''">
 			<div>未导入: </div>	
 			<div>
@@ -23,9 +23,9 @@
 		<div class="item" v-for="item in resultList" :key="item.name" @click="showDet(item)">
 			<div class="picwp">
 				<image src="../../../common/img/tcg-card-back.jpg" mode="widthFix" class="cback"></image>
-				<image :src="item.imgUrl" lazy-load mode="heightFix" class="img"></image>
-				<!-- <image :src="item.enImgUrl" lazy-load mode="heightFix" class="img" v-if="item.artIndex == -1 || !item.artList"></image> -->
-				<!-- <image :src="item?.artList[item.artIndex]" lazy-load mode="heightFix" class="img" v-else></image> -->
+				<!-- <image :src="item.imgUrl" lazy-load mode="heightFix" class="img"></image> -->
+				<image :src="item.enImgUrl" lazy-load mode="heightFix" class="img" v-if="item.artIndex == -1 || !item.artList"></image>
+				<image :src="item?.artList[item.artIndex]" lazy-load mode="heightFix" class="img" v-else></image>
 				<div class="count"><div class="num">{{ item.count }}</div></div>
 				<div class="series">{{ item.series }}</div>
 			</div>
@@ -304,13 +304,15 @@
 					arr.t.push(item)
 				}
 				if(item.type == 'Energy'){
-					arr.e.push(item)
+					// arr.e.push(item)
+					arr.e.unshift(item)
 				}
 			}
 			arr.p = pmList.flat();
 			arr.t = _.sortBy(arr.t, item => {
 				return item.skillList[item.skillList.length - 1].name
 			})
+			// arr.e.reverse();
 			resetData = [...arr.p, ...arr.t, ...arr.e];
 			resultList.value = resetData;
 		}else{
@@ -329,7 +331,8 @@
 			return /太晶/g.test(v.name) || /规则/g.test(v.name)
 		})
 		showCardDet.value = item;
-		showCardDet.value.showImg = showCardDet.value.imgUrl;
+		// showCardDet.value.showImg = showCardDet.value.imgUrl;
+		showCardDet.value.showImg = showCardDet.value.enImgUrl;
 		isShowCard.value = true
   }
 	

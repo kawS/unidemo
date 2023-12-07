@@ -10,7 +10,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_1-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_001_R_EN.png",
     "ename": "Weedle",
     "series": "SS6",
     "cardNo": "1"
@@ -26,7 +26,7 @@
         "effect": "在下个对手的回合，这只宝可梦受到招式的伤害「-40」点。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_2-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_002_R_EN.png",
     "ename": "Kakuna",
     "series": "SS6",
     "cardNo": "2"
@@ -46,7 +46,7 @@
         "effect": "选择1个这只宝可梦身上附加的能量，将其丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_3-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_003_R_EN.png",
     "ename": "Beedrill",
     "series": "SS6",
     "cardNo": "3"
@@ -66,7 +66,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_4-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_004_R_EN.png",
     "ename": "Ledyba",
     "series": "SS6",
     "cardNo": "4"
@@ -86,7 +86,7 @@
         "effect": "选择1个这只宝可梦身上附加的能量，将其丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_5-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_005_R_EN.png",
     "ename": "Ledian",
     "series": "SS6",
     "cardNo": "5"
@@ -106,7 +106,7 @@
         "effect": "掷2次硬币，若全部为正面，则增加160点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_6-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_006_R_EN.png",
     "ename": "Heracross",
     "series": "SS6",
     "cardNo": "6"
@@ -130,10 +130,10 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_7-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_007_R_EN.png",
     "ename": "Celebi V",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_245-2x.jpg"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/FST/FST_245_R_EN.png"
     ],
     "series": "SS6",
     "cardNo": "7"
@@ -157,7 +157,7 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_8-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_008_R_EN.png",
     "ename": "Celebi VMAX",
     "series": "SS6",
     "cardNo": "8"
@@ -173,7 +173,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_9-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_009_R_EN.png",
     "ename": "Snover",
     "series": "SS6",
     "cardNo": "9"
@@ -193,10 +193,10 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_10-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_010_R_EN.png",
     "ename": "Abomasnow",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_TG_1-2x.jpg"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_TG1_R_EN.png"
     ],
     "series": "SS6",
     "cardNo": "10"
@@ -216,7 +216,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_11-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_011_R_EN.png",
     "ename": "Deerling",
     "series": "SS6",
     "cardNo": "11"
@@ -236,7 +236,7 @@
         "effect": "若场上有自己的竞技场卡，则增加80点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_12-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_012_R_EN.png",
     "ename": "Sawsbuck",
     "series": "SS6",
     "cardNo": "12"
@@ -252,7 +252,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_13-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_013_R_EN.png",
     "ename": "Bounsweet",
     "series": "SS6",
     "cardNo": "13"
@@ -272,7 +272,7 @@
         "effect": "掷1次硬币若为正面，则增加30点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_14-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_014_R_EN.png",
     "ename": "Steenee",
     "series": "SS6",
     "cardNo": "14"
@@ -292,7 +292,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_15-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_015_R_EN.png",
     "ename": "Tsareena",
     "series": "SS6",
     "cardNo": "15"
@@ -308,7 +308,7 @@
         "effect": "掷2次硬币，造成正面出现的次数×30点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_16-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_016_R_EN.png",
     "ename": "Grookey",
     "series": "SS6",
     "cardNo": "16"
@@ -324,7 +324,7 @@
         "effect": "在不看正面的情况下，选择1张对手的手牌，将其丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_17-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_017_R_EN.png",
     "ename": "Thwackey",
     "series": "SS6",
     "cardNo": "17"
@@ -344,7 +344,7 @@
         "effect": "将自己的场上宝可梦身上附加的任意数量的能量丢弃，增加其张数×30点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_18-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_018_R_EN.png",
     "ename": "Rillaboom",
     "series": "SS6",
     "cardNo": "18"
@@ -364,7 +364,7 @@
         "effect": "增加这只宝可梦身上附加的【草】能量的数量×20点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_19-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_019_R_EN.png",
     "ename": "Zarude",
     "series": "SS6",
     "cardNo": "19"
@@ -388,10 +388,10 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_20-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_020_R_EN.png",
     "ename": "Blaziken V",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_14-2x.jpg"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG14_R_EN.png"
     ],
     "series": "SS6",
     "cardNo": "20"
@@ -415,10 +415,10 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_21-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_021_R_EN.png",
     "ename": "Blaziken VMAX",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_15-2x.jpg"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG15_R_EN.png"
     ],
     "series": "SS6",
     "cardNo": "21"
@@ -438,7 +438,7 @@
         "effect": "将场上的「竞技场」丢弃。若无法丢弃，则这个招式失败。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_22-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_022_R_EN.png",
     "ename": "Castform Sunny Form",
     "series": "SS6",
     "cardNo": "22"
@@ -454,7 +454,7 @@
         "effect": "从自己的牌库选择1张【火】能量卡，附于这只宝可梦身上。并且重洗牌库。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_23-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_023_R_EN.png",
     "ename": "Larvesta",
     "series": "SS6",
     "cardNo": "23"
@@ -474,7 +474,7 @@
         "effect": "选择2个这只宝可梦身上附加的能量，将其丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_24-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_024_R_EN.png",
     "ename": "Volcarona",
     "series": "SS6",
     "cardNo": "24"
@@ -498,7 +498,7 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_25-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_025_R_EN.png",
     "ename": "Volcanion V",
     "series": "SS6",
     "cardNo": "25"
@@ -514,7 +514,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_26-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_026_R_EN.png",
     "ename": "Scorbunny",
     "series": "SS6",
     "cardNo": "26"
@@ -530,7 +530,7 @@
         "effect": "在下个自己的回合，这只宝可梦无法使用招式"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_27-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_027_R_EN.png",
     "ename": "Raboot",
     "series": "SS6",
     "cardNo": "27"
@@ -550,7 +550,7 @@
         "effect": "在下个自己的回合，这只宝可梦无法使用招式。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_28-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_028_R_EN.png",
     "ename": "Cinderace",
     "series": "SS6",
     "cardNo": "28"
@@ -570,7 +570,7 @@
         "effect": "将对手的战斗宝可梦【睡眠】"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_29-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_029_R_EN.png",
     "ename": "Lapras",
     "series": "SS6",
     "cardNo": "29"
@@ -586,7 +586,7 @@
         "effect": "掷1次硬币若为正面，则选择1个对手的战斗宝可梦身上附加的能量，将其丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_30-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_030_R_EN.png",
     "ename": "Sneasel",
     "series": "SS6",
     "cardNo": "30"
@@ -606,7 +606,7 @@
         "effect": "从自己的牌库任意选择最多2张卡加入手牌。并且重洗牌库。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_31-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_031_R_EN.png",
     "ename": "Weavile",
     "series": "SS6",
     "cardNo": "31"
@@ -626,7 +626,7 @@
         "effect": "将这只宝可梦与附加的卡，全部放回自己的牌库。然后，从自己的牌库任意选择1张卡加入手牌。并且重洗牌库。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_32-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_032_R_EN.png",
     "ename": "Delibird",
     "series": "SS6",
     "cardNo": "32"
@@ -646,7 +646,7 @@
         "effect": "对手的所有宝可梦各受到20点伤害。[在备战区不计算弱点・抵抗力。]"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_33-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_033_R_EN.png",
     "ename": "Castform Rainy Form",
     "series": "SS6",
     "cardNo": "33"
@@ -666,7 +666,7 @@
         "effect": "在下个自己的回合，这只宝可梦无法使用「冰霜台风」。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_34-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_034_R_EN.png",
     "ename": "Castform Snowy Form",
     "series": "SS6",
     "cardNo": "34"
@@ -682,7 +682,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_35-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_035_R_EN.png",
     "ename": "Snorunt",
     "series": "SS6",
     "cardNo": "35"
@@ -702,7 +702,7 @@
         "effect": "在下个自己的回合，这只宝可梦无法使用招式。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_36-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_036_R_EN.png",
     "ename": "Froslass",
     "artList": [
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_226_R_EN.png"
@@ -721,7 +721,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_37-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_037_R_EN.png",
     "ename": "Spheal",
     "series": "SS6",
     "cardNo": "37"
@@ -741,7 +741,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_38-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_038_R_EN.png",
     "ename": "Sealeo",
     "series": "SS6",
     "cardNo": "38"
@@ -761,7 +761,7 @@
         "effect": "将这只宝可梦身上附加的2个能量丢弃，将对手的战斗宝可梦麻痹。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_39-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_039_R_EN.png",
     "ename": "Walrein",
     "series": "SS6",
     "cardNo": "39"
@@ -781,7 +781,7 @@
         "effect": "选择1个这只宝可梦身上附加的能量，放回手牌。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_40-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_040_R_EN.png",
     "ename": "Tapu Fini",
     "series": "SS6",
     "cardNo": "40"
@@ -801,7 +801,7 @@
         "effect": "掷2次硬币，造成正面出现的次数×20点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_41-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_041_R_EN.png",
     "ename": "Sobble",
     "series": "SS6",
     "cardNo": "41"
@@ -817,7 +817,7 @@
         "effect": "将这只宝可梦与备战宝可梦互换。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_42-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_042_R_EN.png",
     "ename": "Drizzile",
     "series": "SS6",
     "cardNo": "42"
@@ -837,7 +837,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_43-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_043_R_EN.png",
     "ename": "Inteleon",
     "artList": [
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_227_R_EN.png"
@@ -860,7 +860,7 @@
         "effect": "造成自己的场上「连击」宝可梦的数量×30点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_44-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_044_R_EN.png",
     "ename": "Rapid Strike Urshifu",
     "series": "SS6",
     "cardNo": "44"
@@ -884,10 +884,10 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_45-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_045_R_EN.png",
     "ename": "Ice Rider Calyrex V",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_TG_14-2x.jpg"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_TG14_R_EN.png"
     ],
     "series": "SS6",
     "cardNo": "45"
@@ -911,11 +911,11 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_46-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_046_R_EN.png",
     "ename": "Ice Rider Calyrex VMAX",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_TG_15-2x.jpg",
-      "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_TG_29-2x.jpg"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_TG15_R_EN.png",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_TG29_R_EN.png"
     ],
     "series": "SS6",
     "cardNo": "46"
@@ -935,7 +935,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_47-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_047_R_EN.png",
     "ename": "Mareep",
     "series": "SS6",
     "cardNo": "47"
@@ -951,7 +951,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_48-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_048_R_EN.png",
     "ename": "Flaaffy",
     "series": "SS6",
     "cardNo": "48"
@@ -971,7 +971,7 @@
         "effect": "查看对手的手牌，若其中有能量卡，则增加90点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_49-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_049_R_EN.png",
     "ename": "Ampharos",
     "series": "SS6",
     "cardNo": "49"
@@ -987,7 +987,7 @@
         "effect": "对手的1只宝可梦受到10点伤害。[在备战区不计算弱点・抵抗力。]"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_50-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_050_R_EN.png",
     "ename": "Blitzle",
     "series": "SS6",
     "cardNo": "50"
@@ -1007,7 +1007,7 @@
         "effect": "掷硬币直到出现反面，造成正面出现的次数×90点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_51-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_051_R_EN.png",
     "ename": "Zebstrika",
     "series": "SS6",
     "cardNo": "51"
@@ -1027,7 +1027,7 @@
         "effect": "这只宝可梦也受到30点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_52-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_052_R_EN.png",
     "ename": "Thundurus",
     "series": "SS6",
     "cardNo": "52"
@@ -1047,10 +1047,10 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_53-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_053_R_EN.png",
     "ename": "Zeraora V",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_16-2x.jpg"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG16_R_EN.png"
     ],
     "series": "SS6",
     "cardNo": "53"
@@ -1070,7 +1070,7 @@
         "effect": "若这只宝可梦身上附有【火】能量，则增加80点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_54-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_054_R_EN.png",
     "ename": "Galarian Slowpoke",
     "series": "SS6",
     "cardNo": "54"
@@ -1086,7 +1086,7 @@
         "effect": "掷1次硬币若为正面，则将对手的战斗宝可梦【睡眠】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_55-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_055_R_EN.png",
     "ename": "Gastly",
     "series": "SS6",
     "cardNo": "55"
@@ -1102,7 +1102,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_56-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_056_R_EN.png",
     "ename": "Haunter",
     "series": "SS6",
     "cardNo": "56"
@@ -1122,7 +1122,7 @@
         "effect": "增加对手的战斗宝可梦身上放置的伤害指示物的数量×40点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_57-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_057_R_EN.png",
     "ename": "Gengar",
     "series": "SS6",
     "cardNo": "57"
@@ -1146,10 +1146,10 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_58-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_058_R_EN.png",
     "ename": "Galarian Articuno V",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_TG_16-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_TG16_R_EN.png",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_181_R_EN.png"
     ],
     "series": "SS6",
@@ -1166,7 +1166,7 @@
         "effect": "将对手的战斗宝可梦【混乱】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_59-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_059_R_EN.png",
     "ename": "Ralts",
     "series": "SS6",
     "cardNo": "59"
@@ -1182,7 +1182,7 @@
         "effect": "从自己的牌库选择最多3张「奇鲁莉安」卡，放置于备战区。并且重洗牌库。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_60-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_060_R_EN.png",
     "ename": "Kirlia",
     "series": "SS6",
     "cardNo": "60"
@@ -1202,10 +1202,10 @@
         "effect": "增加这隻宝可梦身上附加的【超】能量的数量×30点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_61-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_061_R_EN.png",
     "ename": "Gardevoir",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_TG_5-2x.jpg"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_TG5_R_EN.png"
     ],
     "series": "SS6",
     "cardNo": "61"
@@ -1221,7 +1221,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_62-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_062_R_EN.png",
     "ename": "Shuppet",
     "series": "SS6",
     "cardNo": "62"
@@ -1241,10 +1241,10 @@
         "effect": "將對手的戰鬥寶可夢【混亂】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_63-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_063_R_EN.png",
     "ename": "Banette",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_TG_7-2x.jpg"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_TG7_R_EN.png"
     ],
     "series": "SS6",
     "cardNo": "63"
@@ -1264,7 +1264,7 @@
         "effect": "若自己的场上的能量有5个以上，则增加90点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_64-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_064_R_EN.png",
     "ename": "Cresselia",
     "artList": [
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_228_R_EN.png"
@@ -1287,7 +1287,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_65-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_065_R_EN.png",
     "ename": "Golett",
     "series": "SS6",
     "cardNo": "65"
@@ -1307,7 +1307,7 @@
         "effect": "这只宝可梦也受到30点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_66-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_066_R_EN.png",
     "ename": "Golurk",
     "series": "SS6",
     "cardNo": "66"
@@ -1323,7 +1323,7 @@
         "effect": "将这只宝可梦恢复「10」HP。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_67-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_067_R_EN.png",
     "ename": "Swirlix",
     "series": "SS6",
     "cardNo": "67"
@@ -1343,7 +1343,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_68-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_068_R_EN.png",
     "ename": "Slurpuff",
     "series": "SS6",
     "cardNo": "68"
@@ -1359,7 +1359,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_69-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_069_R_EN.png",
     "ename": "Inkay",
     "series": "SS6",
     "cardNo": "69"
@@ -1375,10 +1375,10 @@
         "effect": "从自己的手牌将任意数量的「连击」卡给对手看过后，造成其张数×40点伤害。然后，将给对手看过的「连击」卡放回牌库并重洗。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_70-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_070_R_EN.png",
     "ename": "Malamar",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_6-2x.jpg"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG6_R_EN.png"
     ],
     "series": "SS6",
     "cardNo": "70"
@@ -1394,7 +1394,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_71-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_071_R_EN.png",
     "ename": "Hatenna",
     "series": "SS6",
     "cardNo": "71"
@@ -1410,7 +1410,7 @@
         "effect": "将这只宝可梦恢复「30」HP。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_72-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_072_R_EN.png",
     "ename": "Hattrem",
     "series": "SS6",
     "cardNo": "72"
@@ -1430,7 +1430,7 @@
         "effect": "增加对手的战斗宝可梦身上附加的能量的数量×50点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_73-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_073_R_EN.png",
     "ename": "Hatterene",
     "series": "SS6",
     "cardNo": "73"
@@ -1454,10 +1454,10 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_74-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_074_R_EN.png",
     "ename": "Shadow Rider Calyrex V",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_TG_17-2x.jpg"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_TG17_R_EN.png"
     ],
     "series": "SS6",
     "cardNo": "74"
@@ -1481,11 +1481,11 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_75-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_075_R_EN.png",
     "ename": "Shadow Rider Calyrex VMAX",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_TG_18-2x.jpg",
-      "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_TG_30-2x.jpg"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_TG18_R_EN.png",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_TG30_R_EN.png"
     ],
     "series": "SS6",
     "cardNo": "75"
@@ -1501,7 +1501,7 @@
         "effect": "掷1次硬币若为正面，则在下个对手的回合，这只宝可梦不会受到招式的伤害与效果的影响。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_76-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_076_R_EN.png",
     "ename": "Diglett",
     "series": "SS6",
     "cardNo": "76"
@@ -1517,7 +1517,7 @@
         "effect": "掷3次硬币，造成正面出现的次数×60点伤害。若全部为正面，则在下个对手的回合，这只宝可梦不会受到招式的伤害与效果的影响。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_77-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_077_R_EN.png",
     "ename": "Dugtrio",
     "series": "SS6",
     "cardNo": "77"
@@ -1533,7 +1533,7 @@
         "effect": "这个招式的伤害不计算抵抗力。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_78-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_078_R_EN.png",
     "ename": "Galarian Farfetch'd",
     "series": "SS6",
     "cardNo": "78"
@@ -1553,7 +1553,7 @@
         "effect": "若这只宝可梦身上附有「宝可梦道具」，则增加90点伤害。这个情况下，这个招式的伤害不计算抵抗力。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_79-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_079_R_EN.png",
     "ename": "Galarian Sirfetch'd",
     "series": "SS6",
     "cardNo": "79"
@@ -1577,10 +1577,10 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_80-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_080_R_EN.png",
     "ename": "Galarian Zapdos V",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_TG_19-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_TG19_R_EN.png",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_182_R_EN.png"
     ],
     "series": "SS6",
@@ -1601,7 +1601,7 @@
         "effect": "造成对手的场上的「宝可梦【V】」的数量×60点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_81-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_081_R_EN.png",
     "ename": "Gallade",
     "series": "SS6",
     "cardNo": "81"
@@ -1617,7 +1617,7 @@
         "effect": "掷1次硬币若为正面，则增加30点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_82-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_082_R_EN.png",
     "ename": "Galarian Yamask",
     "series": "SS6",
     "cardNo": "82"
@@ -1637,7 +1637,7 @@
         "effect": "增加对手的战斗宝可梦身上附加的能量的数量×20点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_83-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_083_R_EN.png",
     "ename": "Galarian Runerigus",
     "series": "SS6",
     "cardNo": "83"
@@ -1657,7 +1657,7 @@
         "effect": "掷2次硬币，造成正面出现的次数×40点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_84-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_084_R_EN.png",
     "ename": "Crabrawler",
     "series": "SS6",
     "cardNo": "84"
@@ -1677,7 +1677,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_85-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_085_R_EN.png",
     "ename": "Crabominable",
     "series": "SS6",
     "cardNo": "85"
@@ -1693,10 +1693,10 @@
         "effect": "掷1次硬币若为正面，则选择1个对手的战斗宝可梦身上附加的能量，将其丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_86-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_086_R_EN.png",
     "ename": "Rockruff",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_7-2x.jpg"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG7_R_EN.png"
     ],
     "series": "SS6",
     "cardNo": "86"
@@ -1712,7 +1712,7 @@
         "effect": "增加自己的弃牌区的「一击」宝可梦的张数×10点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_87-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_087_R_EN.png",
     "ename": "Lycanroc",
     "series": "SS6",
     "cardNo": "87"
@@ -1732,10 +1732,10 @@
         "effect": "对手的1只宝可梦受到20点伤害。[在备战区不计算弱点・抵抗力。]"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_88-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_088_R_EN.png",
     "ename": "Passimian",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_8-2x.jpg"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG8_R_EN.png"
     ],
     "series": "SS6",
     "cardNo": "88"
@@ -1755,10 +1755,10 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_89-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_089_R_EN.png",
     "ename": "Sandaconda V",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_252-2x.jpg"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/FST/FST_252_R_EN.png"
     ],
     "series": "SS6",
     "cardNo": "89"
@@ -1782,7 +1782,7 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_90-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_090_R_EN.png",
     "ename": "Sandaconda VMAX",
     "series": "SS6",
     "cardNo": "90"
@@ -1798,7 +1798,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_91-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_091_R_EN.png",
     "ename": "Clobbopus",
     "series": "SS6",
     "cardNo": "91"
@@ -1818,7 +1818,7 @@
         "effect": "若自己的手牌的张数与对手的手牌的张数相同，则增加80点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_92-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_092_R_EN.png",
     "ename": "Grapploct",
     "series": "SS6",
     "cardNo": "92"
@@ -1838,7 +1838,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_93-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_093_R_EN.png",
     "ename": "Kubfu",
     "series": "SS6",
     "cardNo": "93"
@@ -1854,7 +1854,7 @@
         "effect": "将对手的战斗宝可梦【中毒】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_94-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_094_R_EN.png",
     "ename": "Koffing",
     "series": "SS6",
     "cardNo": "94"
@@ -1874,7 +1874,7 @@
         "effect": "增加自己的场上宝可梦身上附加的【恶】能量的数量×20点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_95-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_095_R_EN.png",
     "ename": "Weezing",
     "series": "SS6",
     "cardNo": "95"
@@ -1894,7 +1894,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_96-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_096_R_EN.png",
     "ename": "Galarian Weezing",
     "series": "SS6",
     "cardNo": "96"
@@ -1942,7 +1942,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_98-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_098_R_EN.png",
     "ename": "Galarian Slowking",
     "series": "SS6",
     "cardNo": "98"
@@ -1966,7 +1966,7 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_99-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_099_R_EN.png",
     "ename": "Galarian Slowking V",
     "series": "SS6",
     "cardNo": "99"
@@ -1986,7 +1986,7 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_100-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_100_R_EN.png",
     "ename": "Galarian Slowking VMAX",
     "series": "SS6",
     "cardNo": "100"
@@ -2006,7 +2006,7 @@
         "effect": "将对手的战斗宝可梦【中毒】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_101-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_101_R_EN.png",
     "ename": "Qwilfish",
     "series": "SS6",
     "cardNo": "101"
@@ -2022,7 +2022,7 @@
         "effect": "在这个回合，若从手牌使出了「一击」支援者，则增加90点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_102-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_102_R_EN.png",
     "ename": "Seviper",
     "series": "SS6",
     "cardNo": "102"
@@ -2042,7 +2042,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_103-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_103_R_EN.png",
     "ename": "Spiritomb",
     "series": "SS6",
     "cardNo": "103"
@@ -2066,7 +2066,7 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_104-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_104_R_EN.png",
     "ename": "Liepard V",
     "series": "SS6",
     "cardNo": "104"
@@ -2082,7 +2082,7 @@
         "effect": "将对手的战斗宝可梦【中毒】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_105-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_105_R_EN.png",
     "ename": "Venipede",
     "series": "SS6",
     "cardNo": "105"
@@ -2102,7 +2102,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_106-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_106_R_EN.png",
     "ename": "Whirlipede",
     "series": "SS6",
     "cardNo": "106"
@@ -2122,7 +2122,7 @@
         "effect": "若对手的战斗宝可梦【中毒】，则增加120点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_107-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_107_R_EN.png",
     "ename": "Scolipede",
     "series": "SS6",
     "cardNo": "107"
@@ -2142,7 +2142,7 @@
         "effect": "若这只宝可梦身上放置有伤害指示物，则增加100点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_108-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_108_R_EN.png",
     "ename": "Single Strike Urshifu",
     "series": "SS6",
     "cardNo": "108"
@@ -2162,7 +2162,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_109-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_109_R_EN.png",
     "ename": "Aron",
     "series": "SS6",
     "cardNo": "109"
@@ -2182,7 +2182,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_110-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_110_R_EN.png",
     "ename": "Lairon",
     "series": "SS6",
     "cardNo": "110"
@@ -2202,7 +2202,7 @@
         "effect": "自己的所有宝可梦也各受到30点伤害。[在备战区不计算弱点・抵抗力。]"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_111-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_111_R_EN.png",
     "ename": "Aggron",
     "series": "SS6",
     "cardNo": "111"
@@ -2226,7 +2226,7 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_112-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_112_R_EN.png",
     "ename": "Metagross V",
     "series": "SS6",
     "cardNo": "112"
@@ -2250,7 +2250,7 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_113-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_113_R_EN.png",
     "ename": "Metagross VMAX",
     "series": "SS6",
     "cardNo": "113"
@@ -2270,7 +2270,7 @@
         "effect": "在下个自己的回合，这只宝可梦无法使用招式。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_114-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_114_R_EN.png",
     "ename": "Cobalion",
     "series": "SS6",
     "cardNo": "114"
@@ -2290,7 +2290,7 @@
         "effect": "这只宝可梦也受到30点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_115-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_115_R_EN.png",
     "ename": "Tauros",
     "series": "SS6",
     "cardNo": "115"
@@ -2306,7 +2306,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_116-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_116_R_EN.png",
     "ename": "Porygon",
     "series": "SS6",
     "cardNo": "116"
@@ -2322,7 +2322,7 @@
         "effect": "掷3次硬币，造成正面出现的次数×30点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_117-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_117_R_EN.png",
     "ename": "Porygon2",
     "series": "SS6",
     "cardNo": "117"
@@ -2342,7 +2342,7 @@
         "effect": "选择2个这只宝可梦身上附加的能量，将其丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_118-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_118_R_EN.png",
     "ename": "Porygon-Z",
     "series": "SS6",
     "cardNo": "118"
@@ -2366,10 +2366,10 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_119-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_119_R_EN.png",
     "ename": "Blissey V",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_22-2x.jpg"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG22_R_EN.png"
     ],
     "series": "SS6",
     "cardNo": "119"
@@ -2385,7 +2385,7 @@
         "effect": "在这个回合，若从手牌使出了「连击」支援者，则对手的2只备战宝可梦也各受到50点伤害。[在备战区不计算弱点・抵抗力。]"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_120-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_120_R_EN.png",
     "ename": "Zangoose",
     "series": "SS6",
     "cardNo": "120"
@@ -2405,10 +2405,10 @@
         "effect": "从牌库抽卡直到自己的手牌满6张为止。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_121-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_121_R_EN.png",
     "ename": "Castform",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_TG_11-2x.jpg"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_TG11_R_EN.png"
     ],
     "series": "SS6",
     "cardNo": "121"
@@ -2428,7 +2428,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_122-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_122_R_EN.png",
     "ename": "Kecleon",
     "series": "SS6",
     "cardNo": "122"
@@ -2448,7 +2448,7 @@
         "effect": "将这只宝可梦与附加的卡，全部放回手牌。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_123-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_123_R_EN.png",
     "ename": "Shaymin",
     "series": "SS6",
     "cardNo": "123"
@@ -2472,7 +2472,7 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_124-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_124_R_EN.png",
     "ename": "Tornadus V",
     "series": "SS6",
     "cardNo": "124"
@@ -2496,7 +2496,7 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_125-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_125_R_EN.png",
     "ename": "Tornadus VMAX",
     "series": "SS6",
     "cardNo": "125"
@@ -2516,7 +2516,7 @@
         "effect": "在下个对手的回合，这只宝可梦受到招式的伤害「-20」点。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_126-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_126_R_EN.png",
     "ename": "Furfrou",
     "series": "SS6",
     "cardNo": "126"
@@ -2536,7 +2536,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_127-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_127_R_EN.png",
     "ename": "Skwovet",
     "series": "SS6",
     "cardNo": "127"
@@ -2556,7 +2556,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_128-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_128_R_EN.png",
     "ename": "Greedent",
     "series": "SS6",
     "cardNo": "128"
@@ -2575,7 +2575,7 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_129-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_129_R_EN.png",
     "ename": "Agatha",
     "series": "SS6",
     "cardNo": "129"
@@ -2613,7 +2613,7 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_131-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_131_R_EN.png",
     "ename": "Brawly",
     "series": "SS6",
     "cardNo": "131"
@@ -2632,7 +2632,7 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_132-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_132_R_EN.png",
     "ename": "Caitlin",
     "series": "SS6",
     "cardNo": "132"
@@ -2655,7 +2655,7 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_133-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_133_R_EN.png",
     "ename": "Crushing Gloves",
     "series": "SS6",
     "cardNo": "133"
@@ -2674,7 +2674,7 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_134-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_134_R_EN.png",
     "ename": "Doctor",
     "series": "SS6",
     "cardNo": "134"
@@ -2693,7 +2693,7 @@
         "effect": "在自己的回合时，只可将1张竞技场卡放置于战斗场旁边。若其他名称的竞技场卡被放置，则将这张卡丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_135-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_135_R_EN.png",
     "ename": "Dyna Tree Hill",
     "series": "SS6",
     "cardNo": "135"
@@ -2712,7 +2712,7 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_136-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_136_R_EN.png",
     "ename": "Echoing Horn",
     "series": "SS6",
     "cardNo": "136"
@@ -2731,7 +2731,7 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_137-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_137_R_EN.png",
     "ename": "Expedition Uniform",
     "series": "SS6",
     "cardNo": "137"
@@ -2754,7 +2754,7 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_138-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_138_R_EN.png",
     "ename": "Fire-Resistant Gloves",
     "series": "SS6",
     "cardNo": "138"
@@ -2773,7 +2773,7 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_139-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_139_R_EN.png",
     "ename": "Flannery",
     "series": "SS6",
     "cardNo": "139"
@@ -2792,7 +2792,7 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_140-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_140_R_EN.png",
     "ename": "Fog Crystal",
     "series": "SS6",
     "cardNo": "140"
@@ -2815,7 +2815,7 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_141-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_141_R_EN.png",
     "ename": "Galarian Chestplate",
     "series": "SS6",
     "cardNo": "141"
@@ -2834,7 +2834,7 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_142-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_142_R_EN.png",
     "ename": "Honey",
     "series": "SS6",
     "cardNo": "142"
@@ -2857,7 +2857,7 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_143-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_143_R_EN.png",
     "ename": "Justified Gloves",
     "series": "SS6",
     "cardNo": "143"
@@ -2876,7 +2876,7 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_144-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_144_R_EN.png",
     "ename": "Karen's Conviction",
     "series": "SS6",
     "cardNo": "144"
@@ -2895,7 +2895,7 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_145-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_145_R_EN.png",
     "ename": "Klara",
     "series": "SS6",
     "cardNo": "145"
@@ -2914,11 +2914,11 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_146-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_146_R_EN.png",
     "ename": "Melony",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_64-2x.jpg",
-      "https://tcg.pokemon.com/assets/img/expansions/astral-radiance/cards/en-us/SWSH10_EN_TG_26-2x.jpg"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_GG64_R_EN.png",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_TG26_R_EN.png"
     ],
     "series": "SS6",
     "cardNo": "146"
@@ -2937,7 +2937,7 @@
         "effect": "在自己的回合时，只可将1张竞技场卡放置于战斗场旁边。若其他名称的竞技场卡被放置，则将这张卡丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_147-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_147_R_EN.png",
     "ename": "Old Cemetery",
     "series": "SS6",
     "cardNo": "147"
@@ -2978,7 +2978,7 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_149-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_149_R_EN.png",
     "ename": "Peonia",
     "series": "SS6",
     "cardNo": "149"
@@ -2997,7 +2997,7 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_150-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_150_R_EN.png",
     "ename": "Peony",
     "series": "SS6",
     "cardNo": "150"
@@ -3024,7 +3024,7 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_151-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_151_R_EN.png",
     "ename": "Rapid Strike Scroll of the Skies",
     "series": "SS6",
     "cardNo": "151"
@@ -3047,7 +3047,7 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_152-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_152_R_EN.png",
     "ename": "Rugged Helmet",
     "series": "SS6",
     "cardNo": "152"
@@ -3066,7 +3066,7 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_153-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_153_R_EN.png",
     "ename": "Siebold",
     "series": "SS6",
     "cardNo": "153"
@@ -3093,7 +3093,7 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_154-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_154_R_EN.png",
     "ename": "Single Strike Scroll of Piercing",
     "series": "SS6",
     "cardNo": "154"
@@ -3116,7 +3116,7 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_155-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_155_R_EN.png",
     "ename": "Weeding Gloves",
     "series": "SS6",
     "cardNo": "155"
@@ -3135,7 +3135,7 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_156-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_156_R_EN.png",
     "ename": "Welcoming Lantern",
     "series": "SS6",
     "cardNo": "156"
@@ -3154,7 +3154,7 @@
         "effect": "这张卡只要附于宝可梦身上，视为提供1个所有属性的能量，附有这张卡的宝可梦不会【中毒】，受到的【中毒】会恢复。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_157-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_157_R_EN.png",
     "ename": "Impact Energy",
     "series": "SS6",
     "cardNo": "157"
@@ -3173,7 +3173,7 @@
         "effect": "当附有这张卡的宝可梦在战斗场受到对手的宝可梦招式的伤害时，从自己的牌库抽出1张卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_158-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_158_R_EN.png",
     "ename": "Lucky Energy",
     "series": "SS6",
     "cardNo": "158"
@@ -3192,13 +3192,13 @@
         "effect": "这张卡只要附于宝可梦身上，视为提供1个所有属性的能量，附有这张卡的宝可梦不会【麻痺】，受到的【麻痺】会恢复。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_159-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_159_R_EN.png",
     "ename": "Spiral Energy",
     "series": "SS6",
     "cardNo": "159"
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_160-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_160_R_EN.png",
     "typeEnergy": "Grass",
     "type": "Pokemon",
     "cardName": "时拉比V",
@@ -3216,14 +3216,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_160-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_160_R_EN.png",
     "ename": "Celebi V",
     "series": "SS6",
     "cardNo": "160",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_161-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_161_R_EN.png",
     "typeEnergy": "Fire",
     "type": "Pokemon",
     "cardName": "火焰鸡V",
@@ -3241,14 +3241,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_161-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_161_R_EN.png",
     "ename": "Blaziken V",
     "series": "SS6",
     "cardNo": "161",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_162-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_162_R_EN.png",
     "typeEnergy": "Fire",
     "type": "Pokemon",
     "cardName": "波尔凯尼恩V",
@@ -3266,14 +3266,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_162-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_162_R_EN.png",
     "ename": "Volcanion V",
     "series": "SS6",
     "cardNo": "162",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_163-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_163_R_EN.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
     "cardName": "白马蕾冠王V",
@@ -3291,14 +3291,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_163-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_163_R_EN.png",
     "ename": "Ice Rider Calyrex V",
     "series": "SS6",
     "cardNo": "163",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_164-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_164_R_EN.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
     "cardName": "白马蕾冠王V",
@@ -3316,14 +3316,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_164-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_164_R_EN.png",
     "ename": "Ice Rider Calyrex V",
     "series": "SS6",
     "cardNo": "164",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_165-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_165_R_EN.png",
     "typeEnergy": "Lightning",
     "type": "Pokemon",
     "cardName": "捷拉奥拉V",
@@ -3337,14 +3337,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_165-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_165_R_EN.png",
     "ename": "Zeraora V",
     "series": "SS6",
     "cardNo": "165",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_166-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_166_R_EN.png",
     "typeEnergy": "Lightning",
     "type": "Pokemon",
     "cardName": "捷拉奥拉V",
@@ -3358,14 +3358,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_166-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_166_R_EN.png",
     "ename": "Zeraora V",
     "series": "SS6",
     "cardNo": "166",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_167-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_167_R_EN.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
     "cardName": "伽勒尔 烈焰马V",
@@ -3383,14 +3383,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_167-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_167_R_EN.png",
     "ename": "Galarian Rapidash V",
     "series": "SS6",
     "cardNo": "167",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_168-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_168_R_EN.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
     "cardName": "伽勒尔 烈焰马V",
@@ -3408,14 +3408,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_168-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_168_R_EN.png",
     "ename": "Galarian Rapidash V",
     "series": "SS6",
     "cardNo": "168",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_169-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_169_R_EN.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
     "cardName": "伽勒尔 急冻鸟V",
@@ -3433,14 +3433,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_169-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_169_R_EN.png",
     "ename": "Galarian Articuno V",
     "series": "SS6",
     "cardNo": "169",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_170-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_170_R_EN.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
     "cardName": "伽勒尔 急冻鸟V",
@@ -3458,14 +3458,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_170-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_170_R_EN.png",
     "ename": "Galarian Articuno V",
     "series": "SS6",
     "cardNo": "170",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_171-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_171_R_EN.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
     "cardName": "黑马蕾冠王V",
@@ -3483,14 +3483,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_171-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_171_R_EN.png",
     "ename": "Shadow Rider Calyrex V",
     "series": "SS6",
     "cardNo": "171",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_172-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_172_R_EN.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
     "cardName": "黑马蕾冠王V",
@@ -3508,14 +3508,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_172-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_172_R_EN.png",
     "ename": "Shadow Rider Calyrex V",
     "series": "SS6",
     "cardNo": "172",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_173-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_173_R_EN.png",
     "typeEnergy": "Fighting",
     "type": "Pokemon",
     "cardName": "伽勒尔 闪电鸟V",
@@ -3533,14 +3533,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_173-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_173_R_EN.png",
     "ename": "Galarian Zapdos V",
     "series": "SS6",
     "cardNo": "173",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_174-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_174_R_EN.png",
     "typeEnergy": "Fighting",
     "type": "Pokemon",
     "cardName": "伽勒尔 闪电鸟V",
@@ -3558,14 +3558,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_174-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_174_R_EN.png",
     "ename": "Galarian Zapdos V",
     "series": "SS6",
     "cardNo": "174",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_175-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_175_R_EN.png",
     "typeEnergy": "Fighting",
     "type": "Pokemon",
     "cardName": "沙螺蟒V",
@@ -3579,14 +3579,14 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_175-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_175_R_EN.png",
     "ename": "Sandaconda V",
     "series": "SS6",
     "cardNo": "175",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_176-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_176_R_EN.png",
     "typeEnergy": "Darkness",
     "type": "Pokemon",
     "cardName": "伽勒尔 火焰鸟V",
@@ -3604,7 +3604,7 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_176-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_176_R_EN.png",
     "ename": "Galarian Moltres V",
     "series": "SS6",
     "cardNo": "176",
@@ -3636,7 +3636,7 @@
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_178-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_178_R_EN.png",
     "typeEnergy": "Darkness",
     "type": "Pokemon",
     "cardName": "伽勒尔 呆呆王V",
@@ -3654,14 +3654,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_178-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_178_R_EN.png",
     "ename": "Galarian Slowking V",
     "series": "SS6",
     "cardNo": "178",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_179-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_179_R_EN.png",
     "typeEnergy": "Darkness",
     "type": "Pokemon",
     "cardName": "伽勒尔 呆呆王V",
@@ -3679,14 +3679,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_179-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_179_R_EN.png",
     "ename": "Galarian Slowking V",
     "series": "SS6",
     "cardNo": "179",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_180-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_180_R_EN.png",
     "typeEnergy": "Darkness",
     "type": "Pokemon",
     "cardName": "酷豹V",
@@ -3704,14 +3704,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_180-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_180_R_EN.png",
     "ename": "Liepard V",
     "series": "SS6",
     "cardNo": "180",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_181-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_181_R_EN.png",
     "typeEnergy": "Metal",
     "type": "Pokemon",
     "cardName": "巨金怪V",
@@ -3729,14 +3729,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_181-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_181_R_EN.png",
     "ename": "Metagross V",
     "series": "SS6",
     "cardNo": "181",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_182-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_182_R_EN.png",
     "typeEnergy": "Colorless",
     "type": "Pokemon",
     "cardName": "幸福蛋V",
@@ -3754,14 +3754,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_182-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_182_R_EN.png",
     "ename": "Blissey V",
     "series": "SS6",
     "cardNo": "182",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_183-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_183_R_EN.png",
     "typeEnergy": "Colorless",
     "type": "Pokemon",
     "cardName": "幸福蛋V",
@@ -3779,14 +3779,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_183-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_183_R_EN.png",
     "ename": "Blissey V",
     "series": "SS6",
     "cardNo": "183",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_184-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_184_R_EN.png",
     "typeEnergy": "Colorless",
     "type": "Pokemon",
     "cardName": "龙卷云V",
@@ -3804,14 +3804,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_184-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_184_R_EN.png",
     "ename": "Tornadus V",
     "series": "SS6",
     "cardNo": "184",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_185-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_185_R_EN.png",
     "typeEnergy": "Colorless",
     "type": "Pokemon",
     "cardName": "龙卷云V",
@@ -3829,14 +3829,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_185-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_185_R_EN.png",
     "ename": "Tornadus V",
     "series": "SS6",
     "cardNo": "185",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_186-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_186_R_EN.png",
     "type": "Trainers",
     "cardName": "菊子",
     "skillList": [
@@ -3849,14 +3849,14 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_186-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_186_R_EN.png",
     "ename": "Agatha",
     "series": "SS6",
     "cardNo": "186",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_187-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_187_R_EN.png",
     "type": "Trainers",
     "cardName": "赛宝利",
     "skillList": [
@@ -3869,14 +3869,14 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_187-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_187_R_EN.png",
     "ename": "Avery",
     "series": "SS6",
     "cardNo": "187",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_188-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_188_R_EN.png",
     "type": "Trainers",
     "cardName": "藤树",
     "skillList": [
@@ -3889,14 +3889,14 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_188-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_188_R_EN.png",
     "ename": "Brawly",
     "series": "SS6",
     "cardNo": "188",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_189-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_189_R_EN.png",
     "type": "Trainers",
     "cardName": "嘉德丽雅",
     "skillList": [
@@ -3909,14 +3909,14 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_189-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_189_R_EN.png",
     "ename": "Caitlin",
     "series": "SS6",
     "cardNo": "189",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_190-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_190_R_EN.png",
     "type": "Trainers",
     "cardName": "医生",
     "skillList": [
@@ -3929,14 +3929,14 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_190-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_190_R_EN.png",
     "ename": "Doctor",
     "series": "SS6",
     "cardNo": "190",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_191-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_191_R_EN.png",
     "type": "Trainers",
     "cardName": "亚莎",
     "skillList": [
@@ -3949,14 +3949,14 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_191-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_191_R_EN.png",
     "ename": "Flannery",
     "series": "SS6",
     "cardNo": "191",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_192-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_192_R_EN.png",
     "type": "Trainers",
     "cardName": "蜜叶",
     "skillList": [
@@ -3969,14 +3969,14 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_192-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_192_R_EN.png",
     "ename": "Honey",
     "series": "SS6",
     "cardNo": "192",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_193-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_193_R_EN.png",
     "type": "Trainers",
     "cardName": "梨花的信念",
     "skillList": [
@@ -3989,14 +3989,14 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_193-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_193_R_EN.png",
     "ename": "Karen's Conviction",
     "series": "SS6",
     "cardNo": "193",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_194-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_194_R_EN.png",
     "type": "Trainers",
     "cardName": "克拉拉",
     "skillList": [
@@ -4009,14 +4009,14 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_194-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_194_R_EN.png",
     "ename": "Klara",
     "series": "SS6",
     "cardNo": "194",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_195-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_195_R_EN.png",
     "type": "Trainers",
     "cardName": "美蓉",
     "skillList": [
@@ -4029,14 +4029,14 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_195-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_195_R_EN.png",
     "ename": "Melony",
     "series": "SS6",
     "cardNo": "195",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_196-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_196_R_EN.png",
     "type": "Trainers",
     "cardName": "夏科娅",
     "skillList": [
@@ -4049,14 +4049,14 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_196-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_196_R_EN.png",
     "ename": "Peonia",
     "series": "SS6",
     "cardNo": "196",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_197-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_197_R_EN.png",
     "type": "Trainers",
     "cardName": "皮欧尼",
     "skillList": [
@@ -4069,14 +4069,14 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_197-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_197_R_EN.png",
     "ename": "Peony",
     "series": "SS6",
     "cardNo": "197",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_198-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_198_R_EN.png",
     "type": "Trainers",
     "cardName": "志米",
     "skillList": [
@@ -4089,14 +4089,14 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_198-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_198_R_EN.png",
     "ename": "Siebold",
     "series": "SS6",
     "cardNo": "198",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_199-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_199_R_EN.png",
     "typeEnergy": "Grass",
     "type": "Pokemon",
     "cardName": "时拉比VMAX",
@@ -4114,14 +4114,14 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_199-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_199_R_EN.png",
     "ename": "Celebi VMAX",
     "series": "SS6",
     "cardNo": "199",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_200-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_200_R_EN.png",
     "typeEnergy": "Fire",
     "type": "Pokemon",
     "cardName": "火焰鸡VMAX",
@@ -4139,14 +4139,14 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_200-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_200_R_EN.png",
     "ename": "Blaziken VMAX",
     "series": "SS6",
     "cardNo": "200",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_201-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_201_R_EN.png",
     "typeEnergy": "Fire",
     "type": "Pokemon",
     "cardName": "火焰鸡VMAX",
@@ -4164,14 +4164,14 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_201-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_201_R_EN.png",
     "ename": "Blaziken VMAX",
     "series": "SS6",
     "cardNo": "201",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_202-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_202_R_EN.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
     "cardName": "白马蕾冠王VMAX",
@@ -4189,13 +4189,13 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_202-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_202_R_EN.png",
     "ename": "Ice Rider Calyrex VMAX",
     "series": "SS6",
     "cardNo": "202"
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_203-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_203_R_EN.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
     "cardName": "白马蕾冠王VMAX",
@@ -4213,13 +4213,13 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_203-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_203_R_EN.png",
     "ename": "Ice Rider Calyrex VMAX",
     "series": "SS6",
     "cardNo": "203"
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_204-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_204_R_EN.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
     "cardName": "黑马蕾冠王VMAX",
@@ -4237,14 +4237,14 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_204-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_204_R_EN.png",
     "ename": "Shadow Rider Calyrex VMAX",
     "series": "SS6",
     "cardNo": "204",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_205-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_205_R_EN.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
     "cardName": "黑马蕾冠王VMAX",
@@ -4262,14 +4262,14 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_205-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_205_R_EN.png",
     "ename": "Shadow Rider Calyrex VMAX",
     "series": "SS6",
     "cardNo": "205",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_206-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_206_R_EN.png",
     "typeEnergy": "Fighting",
     "type": "Pokemon",
     "cardName": "沙螺蟒VMAX",
@@ -4287,13 +4287,13 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_206-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_206_R_EN.png",
     "ename": "Sandaconda VMAX",
     "series": "SS6",
     "cardNo": "206"
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_207-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_207_R_EN.png",
     "typeEnergy": "Darkness",
     "type": "Pokemon",
     "cardName": "伽勒尔 呆呆王VMAX",
@@ -4307,13 +4307,13 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_207-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_207_R_EN.png",
     "ename": "Galarian Slowking VMAX",
     "series": "SS6",
     "cardNo": "207"
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_208-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_208_R_EN.png",
     "typeEnergy": "Metal",
     "type": "Pokemon",
     "cardName": "巨金怪VMAX",
@@ -4331,13 +4331,13 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_208-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_208_R_EN.png",
     "ename": "Metagross VMAX",
     "series": "SS6",
     "cardNo": "208"
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_209-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_209_R_EN.png",
     "typeEnergy": "Colorless",
     "type": "Pokemon",
     "cardName": "龙卷云VMAX",
@@ -4355,13 +4355,13 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_209-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_209_R_EN.png",
     "ename": "Tornadus VMAX",
     "series": "SS6",
     "cardNo": "209"
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_210-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_210_R_EN.png",
     "type": "Trainers",
     "cardName": "菊子",
     "skillList": [
@@ -4374,14 +4374,14 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_210-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_210_R_EN.png",
     "ename": "Agatha",
     "series": "SS6",
     "cardNo": "210",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_211-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_211_R_EN.png",
     "type": "Trainers",
     "cardName": "赛宝利",
     "skillList": [
@@ -4394,14 +4394,14 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_211-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_211_R_EN.png",
     "ename": "Avery",
     "series": "SS6",
     "cardNo": "211",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_212-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_212_R_EN.png",
     "type": "Trainers",
     "cardName": "藤树",
     "skillList": [
@@ -4414,14 +4414,14 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_212-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_212_R_EN.png",
     "ename": "Brawly",
     "series": "SS6",
     "cardNo": "212",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_213-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_213_R_EN.png",
     "type": "Trainers",
     "cardName": "嘉德丽雅",
     "skillList": [
@@ -4434,14 +4434,14 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_213-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_213_R_EN.png",
     "ename": "Caitlin",
     "series": "SS6",
     "cardNo": "213",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_214-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_214_R_EN.png",
     "type": "Trainers",
     "cardName": "医生",
     "skillList": [
@@ -4454,14 +4454,14 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_214-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_214_R_EN.png",
     "ename": "Doctor",
     "series": "SS6",
     "cardNo": "214",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_215-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_215_R_EN.png",
     "type": "Trainers",
     "cardName": "亚莎",
     "skillList": [
@@ -4474,14 +4474,14 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_215-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_215_R_EN.png",
     "ename": "Flannery",
     "series": "SS6",
     "cardNo": "215",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_216-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_216_R_EN.png",
     "type": "Trainers",
     "cardName": "梨花的信念",
     "skillList": [
@@ -4494,14 +4494,14 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_216-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_216_R_EN.png",
     "ename": "Karen's Conviction",
     "series": "SS6",
     "cardNo": "216",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_217-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_217_R_EN.png",
     "type": "Trainers",
     "cardName": "克拉拉",
     "skillList": [
@@ -4514,14 +4514,14 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_217-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_217_R_EN.png",
     "ename": "Klara",
     "series": "SS6",
     "cardNo": "217",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_218-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_218_R_EN.png",
     "type": "Trainers",
     "cardName": "美蓉",
     "skillList": [
@@ -4534,14 +4534,14 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_218-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_218_R_EN.png",
     "ename": "Melony",
     "series": "SS6",
     "cardNo": "218",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_219-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_219_R_EN.png",
     "type": "Trainers",
     "cardName": "夏科娅",
     "skillList": [
@@ -4554,14 +4554,14 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_219-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_219_R_EN.png",
     "ename": "Peonia",
     "series": "SS6",
     "cardNo": "219",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_220-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_220_R_EN.png",
     "type": "Trainers",
     "cardName": "皮欧尼",
     "skillList": [
@@ -4574,14 +4574,14 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_220-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_220_R_EN.png",
     "ename": "Peony",
     "series": "SS6",
     "cardNo": "220",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_221-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_221_R_EN.png",
     "type": "Trainers",
     "cardName": "志米",
     "skillList": [
@@ -4594,14 +4594,14 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_221-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_221_R_EN.png",
     "ename": "Siebold",
     "series": "SS6",
     "cardNo": "221",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_223-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_223_R_EN.png",
     "typeEnergy": "Metal",
     "type": "Pokemon",
     "cardName": "青铜钟",
@@ -4615,14 +4615,14 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_223-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_223_R_EN.png",
     "ename": "Bronzong",
     "series": "SS6",
     "cardNo": "223",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_225-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_225_R_EN.png",
     "type": "Trainers",
     "cardName": "山谷回音喇叭",
     "skillList": [
@@ -4635,13 +4635,13 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_225-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_225_R_EN.png",
     "ename": "Echoing Horn",
     "series": "SS6",
     "cardNo": "225"
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_226-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_226_R_EN.png",
     "type": "Trainers",
     "cardName": "潮漩之扇",
     "skillList": [
@@ -4654,13 +4654,13 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_226-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_226_R_EN.png",
     "ename": "Fan of Waves",
     "series": "SS6",
     "cardNo": "226"
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_227-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_227_R_EN.png",
     "type": "Trainers",
     "cardName": "雾之水晶",
     "skillList": [
@@ -4673,13 +4673,13 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_227-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_227_R_EN.png",
     "ename": "Fog Crystal",
     "series": "SS6",
     "cardNo": "227"
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_228-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_228_R_EN.png",
     "type": "Trainers",
     "cardName": "粗硬头盔",
     "skillList": [
@@ -4696,13 +4696,13 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_228-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_228_R_EN.png",
     "ename": "Rugged Helmet",
     "series": "SS6",
     "cardNo": "228"
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_229-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_229_R_EN.png",
     "type": "Trainers",
     "cardName": "活力之壶",
     "skillList": [
@@ -4715,13 +4715,13 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_229-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_229_R_EN.png",
     "ename": "Urn of Vitality",
     "series": "SS6",
     "cardNo": "229"
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_230-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_230_R_EN.png",
     "type": "Trainers",
     "cardName": "渡魂灯笼",
     "skillList": [
@@ -4734,7 +4734,7 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/chilling-reign/cards/en-us/SWSH06_EN_230-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRE/CRE_230_R_EN.png",
     "ename": "Welcoming Lantern",
     "series": "SS6",
     "cardNo": "230"

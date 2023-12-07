@@ -344,8 +344,8 @@
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_018_R_EN.png",
     "ename": "Charizard V",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_153-2x.jpg",
-      "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_154-2x.jpg"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_153_R_EN.png",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_154_R_EN.png"
     ],
     "series": "SS12.5",
     "cardNo": "18"
@@ -906,8 +906,8 @@
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_045_R_EN.png",
     "ename": "Rotom V",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_176-2x.jpg",
-      "https://tcg.pokemon.com/assets/img/expansions/lost-origin/cards/en-us/SWSH11_EN_177-2x.jpg"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_176_R_EN.png",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_177_R_EN.png"
     ],
     "series": "SS12.5",
     "cardNo": "45"
@@ -1228,9 +1228,9 @@
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_060_R_EN.png",
     "ename": "Mew V",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_113-2x.jpg",
-      "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_250-2x.jpg",
-      "https://tcg.pokemon.com/assets/img/expansions/fusion-strike/cards/en-us/SWSH08_EN_251-2x.jpg"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/FST/FST_113_R_EN.png",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/FST/FST_250_R_EN.png",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/FST/FST_251_R_EN.png"
     ],
     "series": "SS12.5",
     "cardNo": "60"
@@ -1939,7 +1939,7 @@
     "ename": "Zamazenta V",
     "artList": [
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_GG54_R_EN.png",
-      "https://tcg.pokemon.com/assets/img/expansions/brilliant-stars/cards/en-us/SWSH09_EN_163-2x.jpg"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_163_R_EN.png"
     ],
     "series": "SS12.5",
     "cardNo": "98"
@@ -1990,8 +1990,8 @@
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_100_R_EN.png",
     "ename": "Rayquaza V",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_193-2x.jpg",
-      "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_194-2x.jpg"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_193_R_EN.png",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_194_R_EN.png"
     ],
     "series": "SS12.5",
     "cardNo": "100"
@@ -2018,10 +2018,10 @@
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_101_R_EN.png",
     "ename": "Rayquaza VMAX",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_20-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG20_R_EN.png",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_218_R_EN.png",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_217_R_EN.png",
-      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_29-2x.jpg"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG29_R_EN.png"
     ],
     "series": "SS12.5",
     "cardNo": "101"
@@ -2048,10 +2048,10 @@
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_102_R_EN.png",
     "ename": "Rayquaza VMAX",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_20-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG20_R_EN.png",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_218_R_EN.png",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_217_R_EN.png",
-      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_29-2x.jpg"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG29_R_EN.png"
     ],
     "series": "SS12.5",
     "cardNo": "102"
@@ -2078,8 +2078,8 @@
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_103_R_EN.png",
     "ename": "Duraludon V",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_197-2x.jpg",
-      "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_198-2x.jpg"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_197_R_EN.png",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_198_R_EN.png"
     ],
     "series": "SS12.5",
     "cardNo": "103"
@@ -2106,10 +2106,10 @@
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_104_R_EN.png",
     "ename": "Duraludon VMAX",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_21-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG21_R_EN.png",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_220_R_EN.png",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_219_R_EN.png",
-      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_30-2x.jpg"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG30_R_EN.png"
     ],
     "series": "SS12.5",
     "cardNo": "104"
@@ -2757,8 +2757,8 @@
     "ename": "Raihan",
     "artList": [
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_GG65_R_EN.png",
-      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_27-2x.jpg",
-      "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_202-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG27_R_EN.png",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_202_R_EN.png",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_224_R_EN.png"
     ],
     "series": "SS12.5",

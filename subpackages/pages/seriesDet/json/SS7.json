@@ -14,7 +14,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_1-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_001_R_EN.png",
     "ename": "Pinsir",
     "series": "SS7",
     "cardNo": "1"
@@ -30,7 +30,7 @@
         "effect": "掷硬币直到出现反面，造成正面出现的次数×20点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_2-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_002_R_EN.png",
     "ename": "Hoppip",
     "series": "SS7",
     "cardNo": "2"
@@ -50,7 +50,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_3-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_003_R_EN.png",
     "ename": "Skiploom",
     "series": "SS7",
     "cardNo": "3"
@@ -70,7 +70,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_4-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_004_R_EN.png",
     "ename": "Jumpluff",
     "series": "SS7",
     "cardNo": "4"
@@ -86,7 +86,7 @@
         "effect": "在不看正面的情况下，从对手的手牌选择1张，在看过那张卡正面后放回对手的牌库并重洗。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_5-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_005_R_EN.png",
     "ename": "Seedot",
     "series": "SS7",
     "cardNo": "5"
@@ -106,7 +106,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_6-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_006_R_EN.png",
     "ename": "Tropius",
     "series": "SS7",
     "cardNo": "6"
@@ -130,11 +130,11 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_7-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_007_R_EN.png",
     "ename": "Leafeon V",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_166-2x.jpg",
-      "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_167-2x.jpg"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_166_R_EN.png",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_167_R_EN.png"
     ],
     "series": "SS7",
     "cardNo": "7"
@@ -158,7 +158,7 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_8-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_008_R_EN.png",
     "ename": "Leafeon VMAX",
     "artList": [
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_205_R_EN.png",
@@ -178,7 +178,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_9-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_009_R_EN.png",
     "ename": "Petilil",
     "series": "SS7",
     "cardNo": "9"
@@ -194,7 +194,7 @@
         "effect": "掷1次硬币若为正面，则将对手的战斗宝可梦【睡眠】。若为反面，则将对手的战斗宝可梦【混乱】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_10-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_010_R_EN.png",
     "ename": "Lilligant",
     "series": "SS7",
     "cardNo": "10"
@@ -214,7 +214,7 @@
         "effect": "掷1次硬币若为正面，则增加30点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_11-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_011_R_EN.png",
     "ename": "Dwebble",
     "series": "SS7",
     "cardNo": "11"
@@ -234,7 +234,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_12-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_012_R_EN.png",
     "ename": "Crustle",
     "series": "SS7",
     "cardNo": "12"
@@ -258,10 +258,10 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_13-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_013_R_EN.png",
     "ename": "Trevenant V",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_168-2x.jpg"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_168_R_EN.png"
     ],
     "series": "SS7",
     "cardNo": "13"
@@ -285,7 +285,7 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_14-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_014_R_EN.png",
     "ename": "Trevenant VMAX",
     "artList": [
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_206_R_EN.png"
@@ -304,7 +304,7 @@
         "effect": "将这只宝可梦恢复「10」HP。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_15-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_015_R_EN.png",
     "ename": "Gossifleur",
     "series": "SS7",
     "cardNo": "15"
@@ -324,7 +324,7 @@
         "effect": "在下个对手的回合，这只宝可梦受到招式的伤害「-30」点。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_16-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_016_R_EN.png",
     "ename": "Eldegoss",
     "series": "SS7",
     "cardNo": "16"
@@ -340,7 +340,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_17-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_017_R_EN.png",
     "ename": "Applin",
     "series": "SS7",
     "cardNo": "17"
@@ -360,7 +360,7 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_18-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_018_R_EN.png",
     "ename": "Flareon VMAX",
     "series": "SS7",
     "cardNo": "18"
@@ -380,7 +380,7 @@
         "effect": "这只宝可梦也受到30点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_19-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_019_R_EN.png",
     "ename": "Entei",
     "series": "SS7",
     "cardNo": "19"
@@ -396,7 +396,7 @@
         "effect": "若希望，从自己的牌库任意选择最多2张卡加入手牌。并且重洗牌库。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_20-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_020_R_EN.png",
     "ename": "Victini",
     "series": "SS7",
     "cardNo": "20"
@@ -420,10 +420,10 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_21-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_021_R_EN.png",
     "ename": "Volcarona V",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_170-2x.jpg"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_170_R_EN.png"
     ],
     "series": "SS7",
     "cardNo": "21"
@@ -439,7 +439,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_22-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_022_R_EN.png",
     "ename": "Litleo",
     "series": "SS7",
     "cardNo": "22"
@@ -459,7 +459,7 @@
         "effect": "选择1个对手的战斗宝可梦身上附加的能量，将其丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_23-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_023_R_EN.png",
     "ename": "Pyroar",
     "series": "SS7",
     "cardNo": "23"
@@ -475,7 +475,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_24-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_024_R_EN.png",
     "ename": "Psyduck",
     "series": "SS7",
     "cardNo": "24"
@@ -495,7 +495,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_25-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_025_R_EN.png",
     "ename": "Golduck",
     "series": "SS7",
     "cardNo": "25"
@@ -511,7 +511,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_26-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_026_R_EN.png",
     "ename": "Tentacool",
     "series": "SS7",
     "cardNo": "26"
@@ -531,7 +531,7 @@
         "effect": "将对手的战斗宝可梦【中毒】。在下个对手的回合，受到这个招式的宝可梦无法撤退。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_27-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_027_R_EN.png",
     "ename": "Tentacruel",
     "series": "SS7",
     "cardNo": "27"
@@ -555,10 +555,10 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_28-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_028_R_EN.png",
     "ename": "Gyarados V",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_171-2x.jpg"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_171_R_EN.png"
     ],
     "series": "SS7",
     "cardNo": "28"
@@ -582,7 +582,7 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_29-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_029_R_EN.png",
     "ename": "Gyarados VMAX",
     "artList": [
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_207_R_EN.png"
@@ -609,7 +609,7 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_30-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_030_R_EN.png",
     "ename": "Vaporeon VMAX",
     "series": "SS7",
     "cardNo": "30"
@@ -633,11 +633,11 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_31-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_031_R_EN.png",
     "ename": "Suicune V",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_38-2x.jpg",
-      "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_173-2x.jpg"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_GG38_R_EN.png",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_173_R_EN.png"
     ],
     "series": "SS7",
     "cardNo": "31"
@@ -657,7 +657,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_32-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_032_R_EN.png",
     "ename": "Lotad",
     "series": "SS7",
     "cardNo": "32"
@@ -673,7 +673,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_33-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_033_R_EN.png",
     "ename": "Lombre",
     "series": "SS7",
     "cardNo": "33"
@@ -693,7 +693,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_34-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_034_R_EN.png",
     "ename": "Ludicolo",
     "series": "SS7",
     "cardNo": "34"
@@ -713,7 +713,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_35-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_035_R_EN.png",
     "ename": "Carvanha",
     "series": "SS7",
     "cardNo": "35"
@@ -733,7 +733,7 @@
         "effect": "在下个自己的回合，这只宝可梦无法使用招式。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_36-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_036_R_EN.png",
     "ename": "Sharpedo",
     "series": "SS7",
     "cardNo": "36"
@@ -749,7 +749,7 @@
         "effect": "掷3次硬币，造成正面出现的次数×10点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_37-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_037_R_EN.png",
     "ename": "Feebas",
     "series": "SS7",
     "cardNo": "37"
@@ -769,7 +769,7 @@
         "effect": "掷2次硬币，造成正面出现的次数×70点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_38-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_038_R_EN.png",
     "ename": "Milotic",
     "series": "SS7",
     "cardNo": "38"
@@ -789,7 +789,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_39-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_039_R_EN.png",
     "ename": "Luvdisc",
     "series": "SS7",
     "cardNo": "39"
@@ -813,11 +813,11 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_40-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_040_R_EN.png",
     "ename": "Glaceon V",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_174-2x.jpg",
-      "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_175-2x.jpg"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_174_R_EN.png",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_175_R_EN.png"
     ],
     "series": "SS7",
     "cardNo": "40"
@@ -841,7 +841,7 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_41-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_041_R_EN.png",
     "ename": "Glaceon VMAX",
     "artList": [
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_209_R_EN.png",
@@ -861,7 +861,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_42-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_042_R_EN.png",
     "ename": "Tympole",
     "series": "SS7",
     "cardNo": "42"
@@ -881,7 +881,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_43-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_043_R_EN.png",
     "ename": "Cryogonal",
     "series": "SS7",
     "cardNo": "43"
@@ -901,7 +901,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_44-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_044_R_EN.png",
     "ename": "Bergmite",
     "series": "SS7",
     "cardNo": "44"
@@ -921,7 +921,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_45-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_045_R_EN.png",
     "ename": "Avalugg",
     "series": "SS7",
     "cardNo": "45"
@@ -941,7 +941,7 @@
         "effect": "增加这只宝可梦身上附加的基本能量的数量×30点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_46-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_046_R_EN.png",
     "ename": "Wishiwashi",
     "series": "SS7",
     "cardNo": "46"
@@ -961,7 +961,7 @@
         "effect": "在下个对手的回合，这隻宝可梦不会受到【基础】宝可梦招式的伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_47-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_047_R_EN.png",
     "ename": "Eiscue",
     "series": "SS7",
     "cardNo": "47"
@@ -985,10 +985,10 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_48-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_048_R_EN.png",
     "ename": "Arctovish V",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_176-2x.jpg"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_176_R_EN.png"
     ],
     "series": "SS7",
     "cardNo": "48"
@@ -1008,7 +1008,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_49-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_049_R_EN.png",
     "ename": "Pikachu",
     "series": "SS7",
     "cardNo": "49"
@@ -1028,7 +1028,7 @@
         "effect": "将这只宝可梦身上附加的能量全部丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_50-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_050_R_EN.png",
     "ename": "Raichu",
     "series": "SS7",
     "cardNo": "50"
@@ -1048,7 +1048,7 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_51-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_051_R_EN.png",
     "ename": "Jolteon VMAX",
     "series": "SS7",
     "cardNo": "51"
@@ -1064,7 +1064,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_52-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_052_R_EN.png",
     "ename": "Chinchou",
     "series": "SS7",
     "cardNo": "52"
@@ -1084,7 +1084,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_53-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_053_R_EN.png",
     "ename": "Lanturn",
     "series": "SS7",
     "cardNo": "53"
@@ -1104,10 +1104,10 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_54-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_054_R_EN.png",
     "ename": "Mareep",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_34-2x.jpg"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_GG34_R_EN.png"
     ],
     "series": "SS7",
     "cardNo": "54"
@@ -1127,10 +1127,10 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_55-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_055_R_EN.png",
     "ename": "Flaaffy",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_3-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG3_R_EN.png",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/FST/FST_280_R_EN.png"
     ],
     "series": "SS7",
@@ -1151,7 +1151,7 @@
         "effect": "若希望，选择3个这只宝可梦身上附加的【雷】能量，将其丢弃。这个情况下，增加120点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_56-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_056_R_EN.png",
     "ename": "Ampharos",
     "series": "SS7",
     "cardNo": "56"
@@ -1167,7 +1167,7 @@
         "effect": "掷1次硬币若为正面，则将对手的战斗宝可梦【麻痺】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_57-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_057_R_EN.png",
     "ename": "Emolga",
     "series": "SS7",
     "cardNo": "57"
@@ -1191,10 +1191,10 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_58-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_058_R_EN.png",
     "ename": "Dracozolt V",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_178-2x.jpg"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_178_R_EN.png"
     ],
     "series": "SS7",
     "cardNo": "58"
@@ -1218,7 +1218,7 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_59-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_059_R_EN.png",
     "ename": "Dracozolt VMAX",
     "artList": [
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_210_R_EN.png"
@@ -1241,7 +1241,7 @@
         "effect": "将这只宝可梦身上附加的【雷】能量全部丢弃，对手的2只备战宝可梦也各受到40点伤害。[在备战区不计算弱点・抵抗力。]"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_60-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_060_R_EN.png",
     "ename": "Regieleki",
     "series": "SS7",
     "cardNo": "60"
@@ -1257,7 +1257,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_61-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_061_R_EN.png",
     "ename": "Drowzee",
     "series": "SS7",
     "cardNo": "61"
@@ -1277,7 +1277,7 @@
         "effect": "若对手的战斗宝可梦处于特殊状态，则增加90点伤害。然后，将对手的战斗宝可梦的特殊状态全部恢复。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_62-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_062_R_EN.png",
     "ename": "Hypno",
     "series": "SS7",
     "cardNo": "62"
@@ -1297,7 +1297,7 @@
         "effect": "将这隻宝可梦身上附加的【超】能量全部丢弃，对手的1隻宝可梦受到120点伤害。[在备战区不计算弱点・抵抗力。]"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_63-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_063_R_EN.png",
     "ename": "Galarian Articuno",
     "series": "SS7",
     "cardNo": "63"
@@ -1321,11 +1321,11 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_64-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_064_R_EN.png",
     "ename": "Espeon V",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_179-2x.jpg",
-      "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_180-2x.jpg"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_179_R_EN.png",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_180_R_EN.png"
     ],
     "series": "SS7",
     "cardNo": "64"
@@ -1349,7 +1349,7 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_65-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_065_R_EN.png",
     "ename": "Espeon VMAX",
     "series": "SS7",
     "cardNo": "65"
@@ -1369,7 +1369,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_66-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_066_R_EN.png",
     "ename": "Wobbuffet",
     "series": "SS7",
     "cardNo": "66"
@@ -1389,7 +1389,7 @@
         "effect": "在下个对手的回合，受到这个招式的宝可梦无法撤退。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_67-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_067_R_EN.png",
     "ename": "Sableye",
     "series": "SS7",
     "cardNo": "67"
@@ -1409,7 +1409,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_68-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_068_R_EN.png",
     "ename": "Woobat",
     "series": "SS7",
     "cardNo": "68"
@@ -1425,7 +1425,7 @@
         "effect": "若自己的手牌的张数与对手的手牌的张数相同，则增加80点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_69-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_069_R_EN.png",
     "ename": "Swoobat",
     "series": "SS7",
     "cardNo": "69"
@@ -1449,11 +1449,11 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_70-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_070_R_EN.png",
     "ename": "Golurk V",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_181-2x.jpg",
-      "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_182-2x.jpg"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_181_R_EN.png",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_182_R_EN.png"
     ],
     "series": "SS7",
     "cardNo": "70"
@@ -1469,7 +1469,7 @@
         "effect": "将对手的战斗宝可梦【睡眠】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_71-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_071_R_EN.png",
     "ename": "Flabébé",
     "series": "SS7",
     "cardNo": "71"
@@ -1489,7 +1489,7 @@
         "effect": "掷2次硬币，造成正面出现的次数×50点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_72-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_072_R_EN.png",
     "ename": "Floette",
     "series": "SS7",
     "cardNo": "72"
@@ -1509,7 +1509,7 @@
         "effect": "将对手的战斗宝可梦【混乱】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_73-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_073_R_EN.png",
     "ename": "Florges",
     "series": "SS7",
     "cardNo": "73"
@@ -1533,12 +1533,12 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_74-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_074_R_EN.png",
     "ename": "Sylveon V",
     "artList": [
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_TG14_R_EN.png",
-      "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_183-2x.jpg",
-      "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_184-2x.jpg"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_183_R_EN.png",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_184_R_EN.png"
     ],
     "series": "SS7",
     "cardNo": "74"
@@ -1562,7 +1562,7 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_75-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_075_R_EN.png",
     "ename": "Sylveon VMAX",
     "artList": [
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_TG15_R_EN.png",
@@ -1587,7 +1587,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_76-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_076_R_EN.png",
     "ename": "Pumpkaboo",
     "series": "SS7",
     "cardNo": "76"
@@ -1603,7 +1603,7 @@
         "effect": "将自己的牌库上方6张卡翻到正面。造成其中的【超】宝可梦的数量×60点伤害。将翻到正面的【超】宝可梦放回牌库并重洗。将剩馀卡丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_77-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_077_R_EN.png",
     "ename": "Gourgeist",
     "series": "SS7",
     "cardNo": "77"
@@ -1619,7 +1619,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_78-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_078_R_EN.png",
     "ename": "Cutiefly",
     "series": "SS7",
     "cardNo": "78"
@@ -1635,7 +1635,7 @@
         "effect": "若希望，选择1个对手的战斗宝可梦身上附加的能量，改附于对手的备战宝可梦身上。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_79-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_079_R_EN.png",
     "ename": "Ribombee",
     "series": "SS7",
     "cardNo": "79"
@@ -1655,7 +1655,7 @@
         "effect": "在下个自己的回合，受到这个招式的宝可梦【气绝】时，多获得1张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_80-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_080_R_EN.png",
     "ename": "Marshadow",
     "series": "SS7",
     "cardNo": "80"
@@ -1675,7 +1675,7 @@
         "effect": "这个招式的伤害不计算抵抗力。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_81-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_081_R_EN.png",
     "ename": "Hitmonchan",
     "series": "SS7",
     "cardNo": "81"
@@ -1695,7 +1695,7 @@
         "effect": "若希望，将这只宝可梦身上附加的能量全部丢弃。这个情况下，将对手的战斗宝可梦【麻痺】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_82-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_082_R_EN.png",
     "ename": "Galarian Zapdos",
     "series": "SS7",
     "cardNo": "82"
@@ -1743,7 +1743,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_84-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_084_R_EN.png",
     "ename": "Hippopotas",
     "series": "SS7",
     "cardNo": "84"
@@ -1763,7 +1763,7 @@
         "effect": "选择2个这隻宝可梦身上附加的能量，将其丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_85-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_085_R_EN.png",
     "ename": "Hippowdon",
     "series": "SS7",
     "cardNo": "85"
@@ -1783,7 +1783,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_86-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_086_R_EN.png",
     "ename": "Roggenrola",
     "series": "SS7",
     "cardNo": "86"
@@ -1803,7 +1803,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_87-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_087_R_EN.png",
     "ename": "Boldore",
     "series": "SS7",
     "cardNo": "87"
@@ -1823,7 +1823,7 @@
         "effect": "这隻宝可梦也受到这隻宝可梦身上放置的伤害指示物的数量×10点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_88-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_088_R_EN.png",
     "ename": "Gigalith",
     "series": "SS7",
     "cardNo": "88"
@@ -1843,7 +1843,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_89-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_089_R_EN.png",
     "ename": "Palpitoad",
     "series": "SS7",
     "cardNo": "89"
@@ -1863,7 +1863,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_90-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_090_R_EN.png",
     "ename": "Seismitoad",
     "series": "SS7",
     "cardNo": "90"
@@ -1887,10 +1887,10 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_91-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_091_R_EN.png",
     "ename": "Lycanroc V",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_187-2x.jpg"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_187_R_EN.png"
     ],
     "series": "SS7",
     "cardNo": "91"
@@ -1914,7 +1914,7 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_92-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_092_R_EN.png",
     "ename": "Lycanroc VMAX",
     "artList": [
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_213_R_EN.png"
@@ -1961,12 +1961,12 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_94-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_094_R_EN.png",
     "ename": "Umbreon V",
     "artList": [
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_TG22_R_EN.png",
-      "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_188-2x.jpg",
-      "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_189-2x.jpg"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_188_R_EN.png",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_189_R_EN.png"
     ],
     "series": "SS7",
     "cardNo": "94"
@@ -1990,7 +1990,7 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_95-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_095_R_EN.png",
     "ename": "Umbreon VMAX",
     "artList": [
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_TG23_R_EN.png",
@@ -2011,7 +2011,7 @@
         "effect": "掷1次硬币若为正面，则将对手的战斗宝可梦【麻痺】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_96-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_096_R_EN.png",
     "ename": "Nuzleaf",
     "series": "SS7",
     "cardNo": "96"
@@ -2031,7 +2031,7 @@
         "effect": "在不看正面的情况下，选择1张对手的手牌，将其丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_97-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_097_R_EN.png",
     "ename": "Shiftry",
     "series": "SS7",
     "cardNo": "97"
@@ -2047,7 +2047,7 @@
         "effect": "在下个对手的回合，这隻宝可梦受到招式的伤害「-10」点。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_98-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_098_R_EN.png",
     "ename": "Scraggy",
     "series": "SS7",
     "cardNo": "98"
@@ -2067,7 +2067,7 @@
         "effect": "在不看正面的情况下，选择1张对手的手牌，将其丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_99-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_099_R_EN.png",
     "ename": "Scrafty",
     "series": "SS7",
     "cardNo": "99"
@@ -2091,10 +2091,10 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_100-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_100_R_EN.png",
     "ename": "Garbodor V",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_190-2x.jpg"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_190_R_EN.png"
     ],
     "series": "SS7",
     "cardNo": "100"
@@ -2118,7 +2118,7 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_101-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_101_R_EN.png",
     "ename": "Garbodor VMAX",
     "artList": [
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_216_R_EN.png"
@@ -2137,7 +2137,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_102-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_102_R_EN.png",
     "ename": "Zorua",
     "series": "SS7",
     "cardNo": "102"
@@ -2157,7 +2157,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_103-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_103_R_EN.png",
     "ename": "Zoroark",
     "series": "SS7",
     "cardNo": "103"
@@ -2173,7 +2173,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_104-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_104_R_EN.png",
     "ename": "Nickit",
     "series": "SS7",
     "cardNo": "104"
@@ -2193,7 +2193,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_105-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_105_R_EN.png",
     "ename": "Thievul",
     "series": "SS7",
     "cardNo": "105"
@@ -2213,10 +2213,10 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_106-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_106_R_EN.png",
     "ename": "Altaria",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_19-2x.jpg"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_GG19_R_EN.png"
     ],
     "series": "SS7",
     "cardNo": "106"
@@ -2236,7 +2236,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_107-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_107_R_EN.png",
     "ename": "Bagon",
     "series": "SS7",
     "cardNo": "107"
@@ -2252,7 +2252,7 @@
         "effect": "掷1次硬币若为正面，则在下个对手的回合，这只宝可梦不会受到招式的伤害与效果的影响。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_108-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_108_R_EN.png",
     "ename": "Shelgon",
     "series": "SS7",
     "cardNo": "108"
@@ -2272,7 +2272,7 @@
         "effect": "若对手的战斗宝可梦身上放置有伤害指示物，则增加120点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_109-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_109_R_EN.png",
     "ename": "Salamence",
     "series": "SS7",
     "cardNo": "109"
@@ -2296,11 +2296,11 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_110-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_110_R_EN.png",
     "ename": "Rayquaza V",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_193-2x.jpg",
-      "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_194-2x.jpg"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_193_R_EN.png",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_194_R_EN.png"
     ],
     "series": "SS7",
     "cardNo": "110"
@@ -2324,13 +2324,13 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_111-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_111_R_EN.png",
     "ename": "Rayquaza VMAX",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_20-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG20_R_EN.png",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_218_R_EN.png",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_217_R_EN.png",
-      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_29-2x.jpg"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG29_R_EN.png"
     ],
     "series": "SS7",
     "cardNo": "111"
@@ -2350,7 +2350,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_112-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_112_R_EN.png",
     "ename": "Dialga",
     "series": "SS7",
     "cardNo": "112"
@@ -2370,7 +2370,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_113-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_113_R_EN.png",
     "ename": "Deino",
     "series": "SS7",
     "cardNo": "113"
@@ -2390,7 +2390,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_114-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_114_R_EN.png",
     "ename": "Zweilous",
     "series": "SS7",
     "cardNo": "114"
@@ -2410,7 +2410,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_115-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_115_R_EN.png",
     "ename": "Hydreigon",
     "series": "SS7",
     "cardNo": "115"
@@ -2426,7 +2426,7 @@
         "effect": "将自己的场上宝可梦身上附加的任意数量的【水】能量卡丢弃，造成其张数×60点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_116-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_116_R_EN.png",
     "ename": "Kyurem",
     "series": "SS7",
     "cardNo": "116"
@@ -2450,11 +2450,11 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_117-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_117_R_EN.png",
     "ename": "Noivern V",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_195-2x.jpg",
-      "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_196-2x.jpg"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_195_R_EN.png",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_196_R_EN.png"
     ],
     "series": "SS7",
     "cardNo": "117"
@@ -2474,7 +2474,7 @@
         "effect": "对手的1只宝可梦受到对手已经获得的奖赏卡的张数×40点伤害。[在备战区不计算弱点・抵抗力。]"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_118-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_118_R_EN.png",
     "ename": "Zygarde",
     "series": "SS7",
     "cardNo": "118"
@@ -2494,7 +2494,7 @@
         "effect": "若自己的备战宝可梦身上放置有伤害指示物，则增加90点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_119-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_119_R_EN.png",
     "ename": "Drampa",
     "series": "SS7",
     "cardNo": "119"
@@ -2514,7 +2514,7 @@
         "effect": "若对手的战斗宝可梦为「宝可梦【V】」，则增加80点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_120-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_120_R_EN.png",
     "ename": "Flapple",
     "series": "SS7",
     "cardNo": "120"
@@ -2534,7 +2534,7 @@
         "effect": "若对手的战斗宝可梦为「宝可梦【V】」，则增加80点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_121-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_121_R_EN.png",
     "ename": "Appletun",
     "series": "SS7",
     "cardNo": "121"
@@ -2558,11 +2558,11 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_122-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_122_R_EN.png",
     "ename": "Duraludon V",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_197-2x.jpg",
-      "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_198-2x.jpg"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_197_R_EN.png",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_198_R_EN.png"
     ],
     "series": "SS7",
     "cardNo": "122"
@@ -2586,13 +2586,13 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_123-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_123_R_EN.png",
     "ename": "Duraludon VMAX",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_21-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG21_R_EN.png",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_220_R_EN.png",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_219_R_EN.png",
-      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_30-2x.jpg"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG30_R_EN.png"
     ],
     "series": "SS7",
     "cardNo": "123"
@@ -2612,7 +2612,7 @@
         "effect": "减少这只宝可梦身上放置的伤害指示物的数量×20点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_124-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_124_R_EN.png",
     "ename": "Regidrago",
     "series": "SS7",
     "cardNo": "124"
@@ -2632,7 +2632,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_125-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_125_R_EN.png",
     "ename": "Eevee",
     "artList": [
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_TG11_R_EN.png"
@@ -2651,7 +2651,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_126-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_126_R_EN.png",
     "ename": "Teddiursa",
     "series": "SS7",
     "cardNo": "126"
@@ -2671,7 +2671,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_127-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_127_R_EN.png",
     "ename": "Ursaring",
     "series": "SS7",
     "cardNo": "127"
@@ -2687,7 +2687,7 @@
         "effect": "从自己的手牌将任意数量的基本能量给对手看过后，增加给对手看过的基本能量的属性种类的数量×30点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_128-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_128_R_EN.png",
     "ename": "Smeargle",
     "series": "SS7",
     "cardNo": "128"
@@ -2703,7 +2703,7 @@
         "effect": "将这只宝可梦【睡眠】。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_129-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_129_R_EN.png",
     "ename": "Slakoth",
     "series": "SS7",
     "cardNo": "129"
@@ -2723,7 +2723,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_130-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_130_R_EN.png",
     "ename": "Vigoroth",
     "series": "SS7",
     "cardNo": "130"
@@ -2743,7 +2743,7 @@
         "effect": "增加对手的备战宝可梦的数量×30点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_131-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_131_R_EN.png",
     "ename": "Slaking",
     "series": "SS7",
     "cardNo": "131"
@@ -2759,10 +2759,10 @@
         "effect": "掷1次硬币若为反面，则这个招式失败。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_132-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_132_R_EN.png",
     "ename": "Swablu",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_27-2x.jpg"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_GG27_R_EN.png"
     ],
     "series": "SS7",
     "cardNo": "132"
@@ -2782,7 +2782,7 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_133-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_133_R_EN.png",
     "ename": "Lillipup",
     "series": "SS7",
     "cardNo": "133"
@@ -2802,7 +2802,7 @@
         "effect": "这隻宝可梦也受到20点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_134-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_134_R_EN.png",
     "ename": "Herdier",
     "series": "SS7",
     "cardNo": "134"
@@ -2822,7 +2822,7 @@
         "effect": "掷1次硬币若为正面，则增加100点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_135-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_135_R_EN.png",
     "ename": "Stoutland",
     "series": "SS7",
     "cardNo": "135"
@@ -2838,7 +2838,7 @@
         "effect": "将对手的战斗宝可梦与备战宝可梦互换。[由对手选择放置于战斗场的宝可梦。]"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_136-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_136_R_EN.png",
     "ename": "Rufflet",
     "series": "SS7",
     "cardNo": "136"
@@ -2858,7 +2858,7 @@
         "effect": "这隻宝可梦也受到50点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_137-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_137_R_EN.png",
     "ename": "Braviary",
     "series": "SS7",
     "cardNo": "137"
@@ -2878,7 +2878,7 @@
         "effect": "掷1次硬币若为反面，则这个招式失败。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_138-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_138_R_EN.png",
     "ename": "Fletchling",
     "series": "SS7",
     "cardNo": "138"
@@ -2894,7 +2894,7 @@
         "effect": "掷1次硬币若为正面，则增加20点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_139-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_139_R_EN.png",
     "ename": "Fletchinder",
     "series": "SS7",
     "cardNo": "139"
@@ -2914,7 +2914,7 @@
         "effect": "若这隻宝可梦身上附有【火】能量，则增加80点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_140-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_140_R_EN.png",
     "ename": "Talonflame",
     "series": "SS7",
     "cardNo": "140"
@@ -2933,10 +2933,10 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_141-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_141_R_EN.png",
     "ename": "Aroma Lady",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_199-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_199_R_EN.png",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_221_R_EN.png"
     ],
     "series": "SS7",
@@ -2960,7 +2960,7 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_142-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_142_R_EN.png",
     "ename": "Boost Shake",
     "artList": [
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_229_R_EN.png"
@@ -2982,10 +2982,10 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_143-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_143_R_EN.png",
     "ename": "Copycat",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_200-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_200_R_EN.png",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_222_R_EN.png"
     ],
     "series": "SS7",
@@ -3005,7 +3005,7 @@
         "effect": "在自己的回合时，只可将1张竞技场卡放置于战斗场旁边。若其他名称的竞技场卡被放置，则将这张卡丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_144-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_144_R_EN.png",
     "ename": "Crystal Cave",
     "artList": [
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_230_R_EN.png"
@@ -3031,7 +3031,7 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_145-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_145_R_EN.png",
     "ename": "Digging Gloves",
     "series": "SS7",
     "cardNo": "145"
@@ -3054,7 +3054,7 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_146-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_146_R_EN.png",
     "ename": "Dream Ball",
     "series": "SS7",
     "cardNo": "146"
@@ -3077,7 +3077,7 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_147-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_147_R_EN.png",
     "ename": "Elemental Badge",
     "series": "SS7",
     "cardNo": "147"
@@ -3100,7 +3100,7 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_148-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_148_R_EN.png",
     "ename": "Full Face Guard",
     "artList": [
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_231_R_EN.png"
@@ -3122,11 +3122,11 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_149-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_149_R_EN.png",
     "ename": "Gordie",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_24-2x.jpg",
-      "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_201-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG24_R_EN.png",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_201_R_EN.png",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_223_R_EN.png"
     ],
     "series": "SS7",
@@ -3146,7 +3146,7 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_150-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_150_R_EN.png",
     "ename": "Lucky Ice Pop",
     "series": "SS7",
     "cardNo": "150"
@@ -3169,7 +3169,7 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_151-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_151_R_EN.png",
     "ename": "Moon & Sun Badge",
     "series": "SS7",
     "cardNo": "151"
@@ -3192,12 +3192,12 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_152-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_152_R_EN.png",
     "ename": "Raihan",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/crown-zenith/cards/en-us/SWSH12pt5_EN_GG_65-2x.jpg",
-      "https://tcg.pokemon.com/assets/img/expansions/silver-tempest/cards/en-us/SWSH12_EN_TG_27-2x.jpg",
-      "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_202-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_GG65_R_EN.png",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG27_R_EN.png",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_202_R_EN.png",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_224_R_EN.png"
     ],
     "series": "SS7",
@@ -3225,7 +3225,7 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_153-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_153_R_EN.png",
     "ename": "Rapid Strike Scroll of the Flying Dragon",
     "series": "SS7",
     "cardNo": "153"
@@ -3244,7 +3244,7 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_154-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_154_R_EN.png",
     "ename": "Rescue Carrier",
     "series": "SS7",
     "cardNo": "154"
@@ -3267,7 +3267,7 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_155-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_155_R_EN.png",
     "ename": "Ribbon Badge",
     "series": "SS7",
     "cardNo": "155"
@@ -3290,7 +3290,7 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_156-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_156_R_EN.png",
     "ename": "Rubber Gloves",
     "series": "SS7",
     "cardNo": "156"
@@ -3309,7 +3309,7 @@
         "effect": "在自己的回合时，只可将1张竞技场卡放置于战斗场旁边。若其他名称的竞技场卡被放置，则将这张卡丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_157-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_157_R_EN.png",
     "ename": "Shopping Center",
     "series": "SS7",
     "cardNo": "157"
@@ -3336,7 +3336,7 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_158-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_158_R_EN.png",
     "ename": "Single Strike Scroll of the Fanged Dragon",
     "series": "SS7",
     "cardNo": "158"
@@ -3359,7 +3359,7 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_159-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_159_R_EN.png",
     "ename": "Snow Leaf Badge",
     "series": "SS7",
     "cardNo": "159"
@@ -3382,7 +3382,7 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_160-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_160_R_EN.png",
     "ename": "Spirit Mask",
     "series": "SS7",
     "cardNo": "160"
@@ -3401,7 +3401,7 @@
         "effect": "在自己的回合时，只可将1张竞技场卡放置于战斗场旁边。若其他名称的竞技场卡被放置，则将这张卡丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_161-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_161_R_EN.png",
     "ename": "Stormy Mountains",
     "artList": [
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_232_R_EN.png"
@@ -3423,7 +3423,7 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_162-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_162_R_EN.png",
     "ename": "Switching Cups",
     "series": "SS7",
     "cardNo": "162"
@@ -3442,7 +3442,7 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_163-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_163_R_EN.png",
     "ename": "Toy Catcher",
     "artList": [
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_233_R_EN.png"
@@ -3468,10 +3468,10 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_164-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_164_R_EN.png",
     "ename": "Zinnia's Resolve",
     "artList": [
-      "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_203-2x.jpg",
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_203_R_EN.png",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_225_R_EN.png"
     ],
     "series": "SS7",
@@ -3491,13 +3491,13 @@
         "effect": "在自己的回合，从自己的反面朝上的奖赏卡中获得这张卡时，可在加入手牌前，将这张卡附于自己的宝可梦身上。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_165-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_165_R_EN.png",
     "ename": "Treasure Energy",
     "series": "SS7",
     "cardNo": "165"
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_166-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_166_R_EN.png",
     "typeEnergy": "Grass",
     "type": "Pokemon",
     "cardName": "叶伊布V",
@@ -3515,14 +3515,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_166-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_166_R_EN.png",
     "ename": "Leafeon V",
     "series": "SS7",
     "cardNo": "166",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_167-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_167_R_EN.png",
     "typeEnergy": "Grass",
     "type": "Pokemon",
     "cardName": "叶伊布V",
@@ -3540,14 +3540,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_167-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_167_R_EN.png",
     "ename": "Leafeon V",
     "series": "SS7",
     "cardNo": "167",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_168-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_168_R_EN.png",
     "typeEnergy": "Grass",
     "type": "Pokemon",
     "cardName": "朽木妖V",
@@ -3565,14 +3565,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_168-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_168_R_EN.png",
     "ename": "Trevenant V",
     "series": "SS7",
     "cardNo": "168",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_169-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_169_R_EN.png",
     "typeEnergy": "Fire",
     "type": "Pokemon",
     "cardName": "火伊布V",
@@ -3590,13 +3590,13 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_169-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_169_R_EN.png",
     "ename": "Flareon V",
     "series": "SS7",
     "cardNo": "169"
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_170-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_170_R_EN.png",
     "typeEnergy": "Fire",
     "type": "Pokemon",
     "cardName": "火神蛾V",
@@ -3614,14 +3614,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_170-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_170_R_EN.png",
     "ename": "Volcarona V",
     "series": "SS7",
     "cardNo": "170",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_171-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_171_R_EN.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
     "cardName": "暴鲤龙V",
@@ -3639,14 +3639,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_171-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_171_R_EN.png",
     "ename": "Gyarados V",
     "series": "SS7",
     "cardNo": "171",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_172-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_172_R_EN.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
     "cardName": "水伊布V",
@@ -3664,14 +3664,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_172-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_172_R_EN.png",
     "ename": "Vaporeon V",
     "series": "SS7",
     "cardNo": "172",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_173-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_173_R_EN.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
     "cardName": "水君V",
@@ -3689,14 +3689,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_173-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_173_R_EN.png",
     "ename": "Suicune V",
     "series": "SS7",
     "cardNo": "173",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_174-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_174_R_EN.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
     "cardName": "冰伊布V",
@@ -3714,14 +3714,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_174-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_174_R_EN.png",
     "ename": "Glaceon V",
     "series": "SS7",
     "cardNo": "174",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_175-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_175_R_EN.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
     "cardName": "冰伊布V",
@@ -3739,14 +3739,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_175-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_175_R_EN.png",
     "ename": "Glaceon V",
     "series": "SS7",
     "cardNo": "175",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_176-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_176_R_EN.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
     "cardName": "鳃鱼海兽V",
@@ -3764,14 +3764,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_176-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_176_R_EN.png",
     "ename": "Arctovish V",
     "series": "SS7",
     "cardNo": "176",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_177-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_177_R_EN.png",
     "typeEnergy": "Lightning",
     "type": "Pokemon",
     "cardName": "雷伊布V",
@@ -3789,13 +3789,13 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_177-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_177_R_EN.png",
     "ename": "Jolteon V",
     "series": "SS7",
     "cardNo": "177"
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_178-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_178_R_EN.png",
     "typeEnergy": "Lightning",
     "type": "Pokemon",
     "cardName": "雷鸟龙V",
@@ -3813,14 +3813,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_178-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_178_R_EN.png",
     "ename": "Dracozolt V",
     "series": "SS7",
     "cardNo": "178",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_179-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_179_R_EN.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
     "cardName": "太阳伊布V",
@@ -3838,14 +3838,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_179-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_179_R_EN.png",
     "ename": "Espeon V",
     "series": "SS7",
     "cardNo": "179",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_180-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_180_R_EN.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
     "cardName": "太阳伊布V",
@@ -3863,14 +3863,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_180-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_180_R_EN.png",
     "ename": "Espeon V",
     "series": "SS7",
     "cardNo": "180",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_181-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_181_R_EN.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
     "cardName": "泥偶巨人V",
@@ -3888,14 +3888,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_181-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_181_R_EN.png",
     "ename": "Golurk V",
     "series": "SS7",
     "cardNo": "181",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_182-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_182_R_EN.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
     "cardName": "泥偶巨人V",
@@ -3913,14 +3913,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_182-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_182_R_EN.png",
     "ename": "Golurk V",
     "series": "SS7",
     "cardNo": "182",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_183-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_183_R_EN.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
     "cardName": "仙子伊布V",
@@ -3938,14 +3938,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_183-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_183_R_EN.png",
     "ename": "Sylveon V",
     "series": "SS7",
     "cardNo": "183",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_184-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_184_R_EN.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
     "cardName": "仙子伊布V",
@@ -3963,14 +3963,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_184-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_184_R_EN.png",
     "ename": "Sylveon V",
     "series": "SS7",
     "cardNo": "184",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_185-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_185_R_EN.png",
     "typeEnergy": "Fighting",
     "type": "Pokemon",
     "cardName": "恰雷姆V",
@@ -3984,14 +3984,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_185-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_185_R_EN.png",
     "ename": "Medicham V",
     "series": "SS7",
     "cardNo": "185",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_186-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_186_R_EN.png",
     "typeEnergy": "Fighting",
     "type": "Pokemon",
     "cardName": "恰雷姆V",
@@ -4005,14 +4005,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_186-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_186_R_EN.png",
     "ename": "Medicham V",
     "series": "SS7",
     "cardNo": "186",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_187-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_187_R_EN.png",
     "typeEnergy": "Fighting",
     "type": "Pokemon",
     "cardName": "鬃岩狼人V",
@@ -4030,14 +4030,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_187-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_187_R_EN.png",
     "ename": "Lycanroc V",
     "series": "SS7",
     "cardNo": "187",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_188-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_188_R_EN.png",
     "typeEnergy": "Darkness",
     "type": "Pokemon",
     "cardName": "月亮伊布V",
@@ -4055,14 +4055,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_188-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_188_R_EN.png",
     "ename": "Umbreon V",
     "series": "SS7",
     "cardNo": "188",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_189-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_189_R_EN.png",
     "typeEnergy": "Darkness",
     "type": "Pokemon",
     "cardName": "月亮伊布V",
@@ -4080,14 +4080,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_189-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_189_R_EN.png",
     "ename": "Umbreon V",
     "series": "SS7",
     "cardNo": "189",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_190-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_190_R_EN.png",
     "typeEnergy": "Darkness",
     "type": "Pokemon",
     "cardName": "灰尘山V",
@@ -4105,14 +4105,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_190-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_190_R_EN.png",
     "ename": "Garbodor V",
     "series": "SS7",
     "cardNo": "190",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_191-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_191_R_EN.png",
     "typeEnergy": "Dragon",
     "type": "Pokemon",
     "cardName": "快龙V",
@@ -4130,14 +4130,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_191-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_191_R_EN.png",
     "ename": "Dragonite V",
     "series": "SS7",
     "cardNo": "191",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_192-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_192_R_EN.png",
     "typeEnergy": "Dragon",
     "type": "Pokemon",
     "cardName": "快龙V",
@@ -4155,14 +4155,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_192-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_192_R_EN.png",
     "ename": "Dragonite V",
     "series": "SS7",
     "cardNo": "192",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_193-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_193_R_EN.png",
     "typeEnergy": "Dragon",
     "type": "Pokemon",
     "cardName": "烈空坐V",
@@ -4180,14 +4180,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_193-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_193_R_EN.png",
     "ename": "Rayquaza V",
     "series": "SS7",
     "cardNo": "193",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_194-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_194_R_EN.png",
     "typeEnergy": "Dragon",
     "type": "Pokemon",
     "cardName": "烈空坐V",
@@ -4205,14 +4205,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_194-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_194_R_EN.png",
     "ename": "Rayquaza V",
     "series": "SS7",
     "cardNo": "194",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_195-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_195_R_EN.png",
     "typeEnergy": "Dragon",
     "type": "Pokemon",
     "cardName": "音波龙V",
@@ -4230,14 +4230,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_195-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_195_R_EN.png",
     "ename": "Noivern V",
     "series": "SS7",
     "cardNo": "195",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_196-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_196_R_EN.png",
     "typeEnergy": "Dragon",
     "type": "Pokemon",
     "cardName": "音波龙V",
@@ -4255,14 +4255,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_196-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_196_R_EN.png",
     "ename": "Noivern V",
     "series": "SS7",
     "cardNo": "196",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_197-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_197_R_EN.png",
     "typeEnergy": "Dragon",
     "type": "Pokemon",
     "cardName": "铝钢龙V",
@@ -4280,14 +4280,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_197-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_197_R_EN.png",
     "ename": "Duraludon V",
     "series": "SS7",
     "cardNo": "197",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_198-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_198_R_EN.png",
     "typeEnergy": "Dragon",
     "type": "Pokemon",
     "cardName": "铝钢龙V",
@@ -4305,14 +4305,14 @@
         "effect": "宝可梦【V】【气绝】时，对手获得2张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_198-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_198_R_EN.png",
     "ename": "Duraludon V",
     "series": "SS7",
     "cardNo": "198",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_199-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_199_R_EN.png",
     "type": "Trainers",
     "cardName": "香氛姐姐",
     "skillList": [
@@ -4325,14 +4325,14 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_199-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_199_R_EN.png",
     "ename": "Aroma Lady",
     "series": "SS7",
     "cardNo": "199",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_200-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_200_R_EN.png",
     "type": "Trainers",
     "cardName": "模仿少女",
     "skillList": [
@@ -4345,14 +4345,14 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_200-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_200_R_EN.png",
     "ename": "Copycat",
     "series": "SS7",
     "cardNo": "200",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_201-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_201_R_EN.png",
     "type": "Trainers",
     "cardName": "玛瓜",
     "skillList": [
@@ -4365,14 +4365,14 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_201-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_201_R_EN.png",
     "ename": "Gordie",
     "series": "SS7",
     "cardNo": "201",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_202-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_202_R_EN.png",
     "type": "Trainers",
     "cardName": "奇巴纳",
     "skillList": [
@@ -4389,14 +4389,14 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_202-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_202_R_EN.png",
     "ename": "Raihan",
     "series": "SS7",
     "cardNo": "202",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_203-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_203_R_EN.png",
     "type": "Trainers",
     "cardName": "希嘉娜的决心",
     "skillList": [
@@ -4413,14 +4413,14 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_203-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_203_R_EN.png",
     "ename": "Zinnia's Resolve",
     "series": "SS7",
     "cardNo": "203",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_204-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_204_R_EN.png",
     "typeEnergy": "Grass",
     "type": "Pokemon",
     "cardName": "叶伊布VMAX",
@@ -4438,14 +4438,14 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_204-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_204_R_EN.png",
     "ename": "Leafeon VMAX",
     "series": "SS7",
     "cardNo": "204",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_205-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_205_R_EN.png",
     "typeEnergy": "Grass",
     "type": "Pokemon",
     "cardName": "叶伊布VMAX",
@@ -4463,14 +4463,14 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_205-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_205_R_EN.png",
     "ename": "Leafeon VMAX",
     "series": "SS7",
     "cardNo": "205",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_206-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_206_R_EN.png",
     "typeEnergy": "Grass",
     "type": "Pokemon",
     "cardName": "朽木妖VMAX",
@@ -4488,14 +4488,14 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_206-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_206_R_EN.png",
     "ename": "Trevenant VMAX",
     "series": "SS7",
     "cardNo": "206",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_207-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_207_R_EN.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
     "cardName": "暴鲤龙VMAX",
@@ -4513,14 +4513,14 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_207-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_207_R_EN.png",
     "ename": "Gyarados VMAX",
     "series": "SS7",
     "cardNo": "207",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_208-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_208_R_EN.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
     "cardName": "冰伊布VMAX",
@@ -4538,14 +4538,14 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_208-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_208_R_EN.png",
     "ename": "Glaceon VMAX",
     "series": "SS7",
     "cardNo": "208",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_209-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_209_R_EN.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
     "cardName": "冰伊布VMAX",
@@ -4563,14 +4563,14 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_209-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_209_R_EN.png",
     "ename": "Glaceon VMAX",
     "series": "SS7",
     "cardNo": "209",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_210-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_210_R_EN.png",
     "typeEnergy": "Lightning",
     "type": "Pokemon",
     "cardName": "雷鸟龙VMAX",
@@ -4588,14 +4588,14 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_210-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_210_R_EN.png",
     "ename": "Dracozolt VMAX",
     "series": "SS7",
     "cardNo": "210",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_211-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_211_R_EN.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
     "cardName": "仙子伊布VMAX",
@@ -4613,14 +4613,14 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_211-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_211_R_EN.png",
     "ename": "Sylveon VMAX",
     "series": "SS7",
     "cardNo": "211",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_212-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_212_R_EN.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
     "cardName": "仙子伊布VMAX",
@@ -4638,14 +4638,14 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_212-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_212_R_EN.png",
     "ename": "Sylveon VMAX",
     "series": "SS7",
     "cardNo": "212",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_213-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_213_R_EN.png",
     "typeEnergy": "Fighting",
     "type": "Pokemon",
     "cardName": "鬃岩狼人VMAX",
@@ -4663,14 +4663,14 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_213-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_213_R_EN.png",
     "ename": "Lycanroc VMAX",
     "series": "SS7",
     "cardNo": "213",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_214-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_214_R_EN.png",
     "typeEnergy": "Darkness",
     "type": "Pokemon",
     "cardName": "月亮伊布VMAX",
@@ -4688,14 +4688,14 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_214-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_214_R_EN.png",
     "ename": "Umbreon VMAX",
     "series": "SS7",
     "cardNo": "214",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_215-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_215_R_EN.png",
     "typeEnergy": "Darkness",
     "type": "Pokemon",
     "cardName": "月亮伊布VMAX",
@@ -4713,14 +4713,14 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_215-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_215_R_EN.png",
     "ename": "Umbreon VMAX",
     "series": "SS7",
     "cardNo": "215",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_216-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_216_R_EN.png",
     "typeEnergy": "Darkness",
     "type": "Pokemon",
     "cardName": "灰尘山VMAX",
@@ -4738,14 +4738,14 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_216-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_216_R_EN.png",
     "ename": "Garbodor VMAX",
     "series": "SS7",
     "cardNo": "216",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_217-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_217_R_EN.png",
     "typeEnergy": "Dragon",
     "type": "Pokemon",
     "cardName": "烈空坐VMAX",
@@ -4763,14 +4763,14 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_217-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_217_R_EN.png",
     "ename": "Rayquaza VMAX",
     "series": "SS7",
     "cardNo": "217",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_218-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_218_R_EN.png",
     "typeEnergy": "Dragon",
     "type": "Pokemon",
     "cardName": "烈空坐VMAX",
@@ -4788,14 +4788,14 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_218-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_218_R_EN.png",
     "ename": "Rayquaza VMAX",
     "series": "SS7",
     "cardNo": "218",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_219-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_219_R_EN.png",
     "typeEnergy": "Dragon",
     "type": "Pokemon",
     "cardName": "铝钢龙VMAX",
@@ -4813,14 +4813,14 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_219-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_219_R_EN.png",
     "ename": "Duraludon VMAX",
     "series": "SS7",
     "cardNo": "219",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_220-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_220_R_EN.png",
     "typeEnergy": "Dragon",
     "type": "Pokemon",
     "cardName": "铝钢龙VMAX",
@@ -4838,15 +4838,14 @@
         "effect": "宝可梦【VMAX】【气绝】时，对手获得3张奖赏卡。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_220-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_220_R_EN.png",
     "ename": "Duraludon VMAX",
     "series": "SS7",
     "cardNo": "220",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_221-2x.jpg",
-    "type": "Trainers",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_221_R_EN.png",    "type": "Trainers",
     "cardName": "香氛姐姐",
     "skillList": [
       {
@@ -4858,14 +4857,14 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_221-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_221_R_EN.png",
     "ename": "Aroma Lady",
     "series": "SS7",
     "cardNo": "221",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_222-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_222_R_EN.png",
     "type": "Trainers",
     "cardName": "模仿少女",
     "skillList": [
@@ -4878,14 +4877,14 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_222-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_222_R_EN.png",
     "ename": "Copycat",
     "series": "SS7",
     "cardNo": "222",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_223-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_223_R_EN.png",
     "type": "Trainers",
     "cardName": "玛瓜",
     "skillList": [
@@ -4898,14 +4897,14 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_223-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_223_R_EN.png",
     "ename": "Gordie",
     "series": "SS7",
     "cardNo": "223",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_224-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_224_R_EN.png",
     "type": "Trainers",
     "cardName": "奇巴纳",
     "skillList": [
@@ -4922,14 +4921,14 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_224-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_224_R_EN.png",
     "ename": "Raihan",
     "series": "SS7",
     "cardNo": "224",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_225-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_225_R_EN.png",
     "type": "Trainers",
     "cardName": "希嘉娜的决心",
     "skillList": [
@@ -4946,14 +4945,14 @@
         "effect": "在自己的回合时，支援者卡只可使用1张。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_225-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_225_R_EN.png",
     "ename": "Zinnia's Resolve",
     "series": "SS7",
     "cardNo": "225",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_226-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_226_R_EN.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
     "cardName": "雪妖女",
@@ -4967,14 +4966,14 @@
         "effect": "在下个自己的回合，这只宝可梦无法使用招式。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_226-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_226_R_EN.png",
     "ename": "Froslass",
     "series": "SS7",
     "cardNo": "226",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_227-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_227_R_EN.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
     "cardName": "千面避役",
@@ -4988,14 +4987,14 @@
         "effect": ""
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_227-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_227_R_EN.png",
     "ename": "Inteleon",
     "series": "SS7",
     "cardNo": "227",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_228-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_228_R_EN.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
     "cardName": "克雷色利亚",
@@ -5009,14 +5008,14 @@
         "effect": "若自己的场上的能量有5个以上，则增加90点伤害。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_228-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_228_R_EN.png",
     "ename": "Cresselia",
     "series": "SS7",
     "cardNo": "228",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_229-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_229_R_EN.png",
     "type": "Trainers",
     "cardName": "摇摇奶昔",
     "skillList": [
@@ -5033,14 +5032,14 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_229-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_229_R_EN.png",
     "ename": "Boost Shake",
     "series": "SS7",
     "cardNo": "229",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_230-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_230_R_EN.png",
     "type": "Trainers",
     "cardName": "结晶洞窟",
     "skillList": [
@@ -5053,14 +5052,14 @@
         "effect": "在自己的回合时，只可将1张竞技场卡放置于战斗场旁边。若其他名称的竞技场卡被放置，则将这张卡丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_230-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_230_R_EN.png",
     "ename": "Crystal Cave",
     "series": "SS7",
     "cardNo": "230",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_231-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_231_R_EN.png",
     "type": "Trainers",
     "cardName": "全罩防守",
     "skillList": [
@@ -5077,14 +5076,14 @@
         "effect": "在自己的回合时，物品卡可不限张数使用。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_231-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_231_R_EN.png",
     "ename": "Full Face Guard",
     "series": "SS7",
     "cardNo": "231",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_232-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_232_R_EN.png",
     "type": "Trainers",
     "cardName": "暴风雨山脉",
     "skillList": [
@@ -5097,14 +5096,14 @@
         "effect": "在自己的回合时，只可将1张竞技场卡放置于战斗场旁边。若其他名称的竞技场卡被放置，则将这张卡丢弃。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_232-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_232_R_EN.png",
     "ename": "Stormy Mountains",
     "series": "SS7",
     "cardNo": "232",
     "isHide": true
   },
   {
-    "imgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_233-2x.jpg",
+    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_233_R_EN.png",
     "type": "Energy",
     "cardName": "宝藏能量",
     "skillList": [
@@ -5117,7 +5116,7 @@
         "effect": "在自己的回合，从自己的反面朝上的奖赏卡中获得这张卡时，可在加入手牌前，将这张卡附于自己的宝可梦身上。"
       }
     ],
-    "enImgUrl": "https://tcg.pokemon.com/assets/img/expansions/evolving-skies/cards/en-us/SWSH07_EN_233-2x.jpg",
+    "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_233_R_EN.png",
     "ename": "Treasure Energy",
     "series": "SS7",
     "cardNo": "233",
