@@ -64,9 +64,6 @@
     ],
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_004_R_EN.png",
     "ename": "Paras",
-    "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_GG32_R_EN.png"
-    ],
     "series": "SS11",
     "cardNo": "4"
   },
@@ -1006,7 +1003,6 @@
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_052_R_EN.png",
     "ename": "Pikachu",
     "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_GG30_R_EN.png",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_TG5_R_EN.png"
     ],
     "series": "SS11",
@@ -1562,9 +1558,6 @@
     ],
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_079_R_EN.png",
     "ename": "Comfey",
-    "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_GG14_R_EN.png"
-    ],
     "series": "SS11",
     "cardNo": "79"
   },
@@ -2339,7 +2332,6 @@
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_118_R_EN.png",
     "ename": "Drapion V",
     "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_GG49_R_EN.png",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_182_R_EN.png"
     ],
     "series": "SS11",
@@ -2634,7 +2626,6 @@
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_131_R_EN.png",
     "ename": "Giratina VSTAR",
     "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_GG69_R_EN.png",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_201_R_EN.png",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_212_R_EN.png"
     ],
@@ -2698,9 +2689,6 @@
     ],
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_134_R_EN.png",
     "ename": "Hisuian Goodra",
-    "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_GG21_R_EN.png"
-    ],
     "series": "SS11",
     "cardNo": "134"
   },
@@ -2986,7 +2974,6 @@
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_147_R_EN.png",
     "ename": "Hisuian Zoroark VSTAR",
     "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_GG56_R_EN.png",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_203_R_EN.png",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_213_R_EN.png"
     ],
@@ -3154,7 +3141,6 @@
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_155_R_EN.png",
     "ename": "Colress's Experiment",
     "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_GG59_R_EN.png",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_190_R_EN.png",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_205_R_EN.png"
     ],
@@ -3464,7 +3450,6 @@
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_169_R_EN.png",
     "ename": "Volo",
     "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_151_R_EN.png",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_196_R_EN.png",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_211_R_EN.png"
     ],

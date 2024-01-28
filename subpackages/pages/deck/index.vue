@@ -154,6 +154,9 @@
 			title: '加载中',
 			mask: true
 		});
+		setTimeout(() => {
+			uni.hideLoading();
+		}, 1500)
 		let list = [];
 		let sortBySeries = {};
 		missCardList.value = [];
@@ -170,7 +173,7 @@
 			let series = null;
 			let sNo = null;
 			let cardNo = null;
-			let m = item.match(/(\d{1,2}) (.+) ([A-Z]{2}\-[A-Z]{2}|[A-Z]{3}\-[A-Z]{2}|[A-Z]{3}) (\d{1,3})/);
+			let m = item.match(/(\d{1,2}) (.+) ([A-Z]{2}\-[A-Z]{2}|[A-Z]{3}\-[A-Z]{2}|[A-Z]{3}|[A-Z]{5}) (\d{1,3})/);
 			if(m == null){
 				if(!/ Energy/.test(item)){
 					continue
@@ -232,9 +235,6 @@
 		}else{
 			returnDet(sortBySeries);
 		}
-		setTimeout(() => {
-			uni.hideLoading();
-		}, 1500)
 	}
 	
 	const returnDet = (data) => {

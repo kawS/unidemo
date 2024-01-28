@@ -44,9 +44,6 @@
     ],
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_002_R_EN.png",
     "ename": "Hisuian Voltorb",
-    "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_GG1_R_EN.png"
-    ],
     "series": "SS10",
     "cardNo": "2"
   },
@@ -191,9 +188,6 @@
     ],
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_010_R_EN.png",
     "ename": "Kricketune",
-    "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_GG2_R_EN.png"
-    ],
     "series": "SS10",
     "cardNo": "10"
   },
@@ -827,7 +821,6 @@
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_040_R_EN.png",
     "ename": "Origin Forme Palkia VSTAR",
     "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_GG67_R_EN.png",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_192_R_EN.png",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_208_R_EN.png"
     ],
@@ -923,9 +916,6 @@
     ],
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_045_R_EN.png",
     "ename": "Keldeo",
-    "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_GG7_R_EN.png"
-    ],
     "series": "SS10",
     "cardNo": "45"
   },
@@ -1387,9 +1377,6 @@
     ],
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_068_R_EN.png",
     "ename": "Diancie",
-    "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_GG13_R_EN.png"
-    ],
     "series": "SS10",
     "cardNo": "68"
   },
@@ -2008,9 +1995,6 @@
     ],
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_095_R_EN.png",
     "ename": "Poochyena",
-    "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_GG33_R_EN.png"
-    ],
     "series": "SS10",
     "cardNo": "95"
   },
@@ -2054,9 +2038,6 @@
     ],
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_097_R_EN.png",
     "ename": "Absol",
-    "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_GG16_R_EN.png"
-    ],
     "series": "SS10",
     "cardNo": "97"
   },
@@ -2105,9 +2086,6 @@
     ],
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_099_R_EN.png",
     "ename": "Darkrai VSTAR",
-    "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_GG50_R_EN.png"
-    ],
     "series": "SS10",
     "cardNo": "99"
   },
@@ -2153,7 +2131,6 @@
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_101_R_EN.png",
     "ename": "Hisuian Samurott V",
     "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_GG51_R_EN.png",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_176_R_EN.png"
     ],
     "series": "SS10",
@@ -2181,7 +2158,6 @@
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_102_R_EN.png",
     "ename": "Hisuian Samurott VSTAR",
     "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_GG52_R_EN.png",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_197_R_EN.png",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_209_R_EN.png"
     ],
@@ -2221,9 +2197,6 @@
     ],
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_104_R_EN.png",
     "ename": "Thievul",
-    "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_GG17_R_EN.png"
-    ],
     "series": "SS10",
     "cardNo": "104"
   },
@@ -2280,9 +2253,6 @@
     ],
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_107_R_EN.png",
     "ename": "Magnezone",
-    "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_GG18_R_EN.png"
-    ],
     "series": "SS10",
     "cardNo": "107"
   },
@@ -2431,7 +2401,6 @@
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_114_R_EN.png",
     "ename": "Origin Forme Dialga VSTAR",
     "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_GG68_R_EN.png",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_198_R_EN.png",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_210_R_EN.png"
     ],
@@ -2678,9 +2647,6 @@
     ],
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_126_R_EN.png",
     "ename": "Miltank",
-    "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_GG24_R_EN.png"
-    ],
     "series": "SS10",
     "cardNo": "126"
   },
@@ -2871,7 +2837,6 @@
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_135_R_EN.png",
     "ename": "Adaman",
     "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_GG57_R_EN.png",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_181_R_EN.png",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_199_R_EN.png"
     ],
@@ -2959,9 +2924,6 @@
     ],
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_139_R_EN.png",
     "ename": "Dark Patch",
-    "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_216_R_EN.png"
-    ],
     "series": "SS10",
     "cardNo": "139"
   },
@@ -3019,9 +2981,6 @@
     ],
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_142_R_EN.png",
     "ename": "Gapejaw Bog",
-    "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_213_R_EN.png"
-    ],
     "series": "SS10",
     "cardNo": "142"
   },
@@ -3042,7 +3001,6 @@
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_143_R_EN.png",
     "ename": "Gardenia's Vigor",
     "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_GG61_R_EN.png",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_184_R_EN.png",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_202_R_EN.png"
     ],
@@ -3070,7 +3028,6 @@
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_144_R_EN.png",
     "ename": "Grant",
     "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_GG62_R_EN.png",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_185_R_EN.png",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_203_R_EN.png"
     ],
@@ -3132,7 +3089,6 @@
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_147_R_EN.png",
     "ename": "Irida",
     "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_GG63_R_EN.png",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_186_R_EN.png",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_204_R_EN.png"
     ],
@@ -3205,7 +3161,6 @@
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_150_R_EN.png",
     "ename": "Roxanne",
     "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_GG66_R_EN.png",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_188_R_EN.png",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_206_R_EN.png"
     ],

@@ -3866,9 +3866,6 @@
     "type": "Trainers",
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_194_R_EN.png",
     "ename": "Switch",
-    "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_206_R_EN.png"
-    ],
     "series": "SV1",
     "cardNo": "194"
   },
@@ -3914,9 +3911,6 @@
     ],
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_196_R_EN.png",
     "ename": "Ultra Ball",
-    "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_186_R_EN.png"
-    ],
     "series": "SV1",
     "cardNo": "196"
   },

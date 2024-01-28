@@ -1,0 +1,1 @@
+import{a as n,c as o}from"./index-5aef285e.js";const c=(n,o)=>{const c=n.__vccOpts||n;for(const[s,t]of o)c[s]=t;return c};const s=c({},[["render",function(c,s){return n(),o("div",{class:"copyright"},"版权归属 Pokémon. Nintendo / Creatures Inc. / GAME FREAK inc.")}],["__scopeId","data-v-4817918d"]]);export{c as _,s as c};

@@ -343,10 +343,6 @@
     ],
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_018_R_EN.png",
     "ename": "Charizard V",
-    "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_153_R_EN.png",
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_154_R_EN.png"
-    ],
     "series": "SS12.5",
     "cardNo": "18"
   },
@@ -371,9 +367,6 @@
     ],
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_019_R_EN.png",
     "ename": "Charizard VSTAR",
-    "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_174_R_EN.png"
-    ],
     "series": "SS12.5",
     "cardNo": "19"
   },
@@ -905,10 +898,6 @@
     ],
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_045_R_EN.png",
     "ename": "Rotom V",
-    "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_176_R_EN.png",
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_177_R_EN.png"
-    ],
     "series": "SS12.5",
     "cardNo": "45"
   },
@@ -1227,11 +1216,6 @@
     ],
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_060_R_EN.png",
     "ename": "Mew V",
-    "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/FST/FST_113_R_EN.png",
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/FST/FST_250_R_EN.png",
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/FST/FST_251_R_EN.png"
-    ],
     "series": "SS12.5",
     "cardNo": "60"
   },
@@ -1938,8 +1922,7 @@
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_098_R_EN.png",
     "ename": "Zamazenta V",
     "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_GG54_R_EN.png",
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_163_R_EN.png"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_GG54_R_EN.png"
     ],
     "series": "SS12.5",
     "cardNo": "98"
@@ -1989,10 +1972,6 @@
     ],
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_100_R_EN.png",
     "ename": "Rayquaza V",
-    "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_193_R_EN.png",
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_194_R_EN.png"
-    ],
     "series": "SS12.5",
     "cardNo": "100"
   },
@@ -2017,12 +1996,6 @@
     ],
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_101_R_EN.png",
     "ename": "Rayquaza VMAX",
-    "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG20_R_EN.png",
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_218_R_EN.png",
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_217_R_EN.png",
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG29_R_EN.png"
-    ],
     "series": "SS12.5",
     "cardNo": "101"
   },
@@ -2047,12 +2020,6 @@
     ],
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_102_R_EN.png",
     "ename": "Rayquaza VMAX",
-    "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG20_R_EN.png",
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_218_R_EN.png",
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_217_R_EN.png",
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG29_R_EN.png"
-    ],
     "series": "SS12.5",
     "cardNo": "102"
   },
@@ -2077,10 +2044,6 @@
     ],
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_103_R_EN.png",
     "ename": "Duraludon V",
-    "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_197_R_EN.png",
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_198_R_EN.png"
-    ],
     "series": "SS12.5",
     "cardNo": "103"
   },
@@ -2105,12 +2068,6 @@
     ],
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_104_R_EN.png",
     "ename": "Duraludon VMAX",
-    "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG21_R_EN.png",
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_220_R_EN.png",
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_219_R_EN.png",
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG30_R_EN.png"
-    ],
     "series": "SS12.5",
     "cardNo": "104"
   },
@@ -2448,10 +2405,6 @@
     ],
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_120_R_EN.png",
     "ename": "Greedent V",
-    "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/FST/FST_256_R_EN.png",
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/FST/FST_257_R_EN.png"
-    ],
     "series": "SS12.5",
     "cardNo": "120"
   },
@@ -2583,9 +2536,6 @@
     ],
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_129_R_EN.png",
     "ename": "Energy Switch",
-    "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_212_R_EN.png"
-    ],
     "series": "SS12.5",
     "cardNo": "129"
   },
@@ -2672,9 +2622,6 @@
     ],
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_135_R_EN.png",
     "ename": "Lost Vacuum",
-    "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_217_R_EN.png"
-    ],
     "series": "SS12.5",
     "cardNo": "135"
   },
@@ -2756,10 +2703,7 @@
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_140_R_EN.png",
     "ename": "Raihan",
     "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_GG65_R_EN.png",
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG27_R_EN.png",
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_202_R_EN.png",
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/EVS/EVS_224_R_EN.png"
+      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_GG65_R_EN.png"
     ],
     "series": "SS12.5",
     "cardNo": "140"
@@ -2780,9 +2724,6 @@
     ],
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_141_R_EN.png",
     "ename": "Rare Candy",
-    "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_256_R_EN.png"
-    ],
     "series": "SS12.5",
     "cardNo": "141"
   },
@@ -2848,9 +2789,6 @@
     ],
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_144_R_EN.png",
     "ename": "Switch",
-    "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_206_R_EN.png"
-    ],
     "series": "SS12.5",
     "cardNo": "144"
   },
@@ -2870,9 +2808,6 @@
     ],
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_145_R_EN.png",
     "ename": "Trekking Shoes",
-    "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_215_R_EN.png"
-    ],
     "series": "SS12.5",
     "cardNo": "145"
   },
@@ -2896,9 +2831,6 @@
     ],
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_146_R_EN.png",
     "ename": "Ultra Ball",
-    "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_186_R_EN.png"
-    ],
     "series": "SS12.5",
     "cardNo": "146"
   },

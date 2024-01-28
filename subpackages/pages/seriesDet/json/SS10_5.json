@@ -555,9 +555,6 @@
     ],
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PGO/PGO_028_R_EN.png",
     "ename": "Pikachu",
-    "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_160_R_EN.png"
-    ],
     "series": "SS10.5",
     "cardNo": "28"
   },
@@ -630,7 +627,6 @@
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PGO/PGO_031_R_EN.png",
     "ename": "Mewtwo VSTAR",
     "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_GG44_R_EN.png",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PGO/PGO_079_R_EN.png",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PGO/PGO_086_R_EN.png"
     ],
@@ -694,9 +690,6 @@
     ],
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PGO/PGO_034_R_EN.png",
     "ename": "Lunatone",
-    "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_GG11_R_EN.png"
-    ],
     "series": "SS10.5",
     "cardNo": "34"
   },
@@ -793,9 +786,6 @@
     ],
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PGO/PGO_039_R_EN.png",
     "ename": "Solrock",
-    "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_GG15_R_EN.png"
-    ],
     "series": "SS10.5",
     "cardNo": "39"
   },
@@ -1096,9 +1086,6 @@
     ],
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PGO/PGO_053_R_EN.png",
     "ename": "Ditto",
-    "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_GG22_R_EN.png"
-    ],
     "series": "SS10.5",
     "cardNo": "53"
   },
@@ -1428,9 +1415,6 @@
     ],
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PGO/PGO_069_R_EN.png",
     "ename": "Rare Candy",
-    "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SVI/SVI_256_R_EN.png"
-    ],
     "series": "SS10.5",
     "cardNo": "69"
   },

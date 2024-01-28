@@ -145,6 +145,7 @@
 		for(let serItem of seriesList){
 			if(obj[serItem]?.length > 0){
 				switch(serItem) {
+					case 'SV4_5': import('../seriesDet/json/SV4_5.json').then((res) => {loadData(res.default, obj[serItem], serItem)}); break;
 					case 'SV4': import('../seriesDet/json/SV4.json').then((res) => {loadData(res.default, obj[serItem], serItem)}); break;
 					case 'SV3_5': import('../seriesDet/json/SV3_5.json').then((res) => {loadData(res.default, obj[serItem], serItem)}); break;
 					case 'SV3': import('../seriesDet/json/SV3.json').then((res) => {loadData(res.default, obj[serItem], serItem)}); break;

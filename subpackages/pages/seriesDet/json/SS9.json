@@ -112,9 +112,6 @@
     ],
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_006_R_EN.png",
     "ename": "Turtwig",
-    "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_GG31_R_EN.png"
-    ],
     "series": "SS9",
     "cardNo": "6"
   },
@@ -420,9 +417,6 @@
     ],
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_020_R_EN.png",
     "ename": "Magmortar",
-    "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_GG3_R_EN.png"
-    ],
     "series": "SS9",
     "cardNo": "20"
   },
@@ -463,9 +457,6 @@
     ],
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_022_R_EN.png",
     "ename": "Entei V",
-    "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_GG36_R_EN.png"
-    ],
     "series": "SS9",
     "cardNo": "22"
   },
@@ -646,9 +637,6 @@
     ],
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_031_R_EN.png",
     "ename": "Lapras",
-    "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_GG5_R_EN.png"
-    ],
     "series": "SS9",
     "cardNo": "31"
   },
@@ -822,7 +810,6 @@
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_040_R_EN.png",
     "ename": "Lumineon V",
     "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_GG39_R_EN.png",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_155_R_EN.png",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_156_R_EN.png"
     ],
@@ -846,9 +833,6 @@
     ],
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_041_R_EN.png",
     "ename": "Manaphy",
-    "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_GG6_R_EN.png"
-    ],
     "series": "SS9",
     "cardNo": "41"
   },
@@ -972,9 +956,6 @@
     ],
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_047_R_EN.png",
     "ename": "Electivire",
-    "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_GG8_R_EN.png"
-    ],
     "series": "SS9",
     "cardNo": "47"
   },
@@ -999,9 +980,6 @@
     ],
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_048_R_EN.png",
     "ename": "Raikou V",
-    "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_GG41_R_EN.png"
-    ],
     "series": "SS9",
     "cardNo": "48"
   },
@@ -1229,9 +1207,6 @@
     ],
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_060_R_EN.png",
     "ename": "Duskull",
-    "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_GG28_R_EN.png"
-    ],
     "series": "SS9",
     "cardNo": "60"
   },
@@ -1602,9 +1577,6 @@
     ],
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_078_R_EN.png",
     "ename": "Riolu",
-    "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_GG26_R_EN.png"
-    ],
     "series": "SS9",
     "cardNo": "78"
   },
@@ -2158,7 +2130,6 @@
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_105_R_EN.png",
     "ename": "Zamazenta V",
     "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_GG54_R_EN.png",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_163_R_EN.png"
     ],
     "series": "SS9",
@@ -2316,9 +2287,6 @@
     ],
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_113_R_EN.png",
     "ename": "Druddigon",
-    "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG9_R_EN.png"
-    ],
     "series": "SS9",
     "cardNo": "113"
   },
@@ -2467,9 +2435,6 @@
     ],
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_121_R_EN.png",
     "ename": "Bibarel",
-    "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_GG25_R_EN.png"
-    ],
     "series": "SS9",
     "cardNo": "121"
   },
@@ -2523,7 +2488,6 @@
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_123_R_EN.png",
     "ename": "Arceus VSTAR",
     "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_GG70_R_EN.png",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_176_R_EN.png",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_184_R_EN.png"
     ],
@@ -2763,7 +2727,6 @@
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_134_R_EN.png",
     "ename": "Cheren's Care",
     "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_GG58_R_EN.png",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_168_R_EN.png",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_177_R_EN.png"
     ],
@@ -2790,9 +2753,6 @@
     ],
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_135_R_EN.png",
     "ename": "Choice Belt",
-    "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_211_R_EN.png"
-    ],
     "series": "SS9",
     "cardNo": "135"
   },
@@ -2839,9 +2799,6 @@
     ],
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_137_R_EN.png",
     "ename": "Collapsed Stadium",
-    "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/LOR/LOR_215_R_EN.png"
-    ],
     "series": "SS9",
     "cardNo": "137"
   },
@@ -2862,7 +2819,6 @@
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_138_R_EN.png",
     "ename": "Cynthia's Ambition",
     "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_GG60_R_EN.png",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_169_R_EN.png",
       "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_178_R_EN.png"
     ],
@@ -2904,9 +2860,6 @@
     ],
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_140_R_EN.png",
     "ename": "Friends in Galar",
-    "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SIT/SIT_TG23_R_EN.png"
-    ],
     "series": "SS9",
     "cardNo": "140"
   },
@@ -3065,9 +3018,6 @@
     ],
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_147_R_EN.png",
     "ename": "Professor's Research (Professor Rowan)",
-    "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/CRZ/CRZ_150_R_EN.png"
-    ],
     "series": "SS9",
     "cardNo": "147"
   },
@@ -3155,9 +3105,6 @@
     ],
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BRS/BRS_151_R_EN.png",
     "ename": "Double Turbo Energy",
-    "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_216_R_EN.png"
-    ],
     "series": "SS9",
     "cardNo": "151"
   },

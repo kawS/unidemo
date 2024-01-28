@@ -3484,9 +3484,6 @@
     "type": "Trainers",
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAL/PAL_171_R_EN.png",
     "ename": "Artazon",
-    "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/OBF/OBF_229_R_EN.png"
-    ],
     "series": "SV2",
     "cardNo": "171"
   },
@@ -3586,9 +3583,6 @@
     "type": "Trainers",
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAL/PAL_176_R_EN.png",
     "ename": "Choice Belt",
-    "artList": [
-      "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/ASR/ASR_211_R_EN.png"
-    ],
     "series": "SV2",
     "cardNo": "176"
   },

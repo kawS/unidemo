@@ -1,5 +1,8 @@
 <template>
-  <div class="useNo">标准环境<span class="em">{{ tipNowNo }}</span>标</div>
+  <div class="useNo">
+    标准环境<span class="em">{{ tipNowNo }}</span>标
+    <div class="msg">-3月21日退标(E)</div>
+  </div>
   <div class="hot">
     <div @click="copyTar('https://play.limitlesstcg.com/decks')">
       <image src="https://play.limitlesstcg.com/limitless.png" mode="heightFix" class="img"></image>
@@ -10,7 +13,9 @@
     <div class="bn" @click="isShowDeck = true">可导入live或Limitless卡组代码预览</div>
   </div>
   <div class="search">
-    <input type="text" v-model="searchInp" placeholder="请输入卡名(支持简中、英文)" />
+    <div class="inp">
+      <input type="text" v-model="searchInp" placeholder="请输入卡名(支持简中、英文)" />
+    </div>
     <div class="bn" @click="goSearch">检索</div>
   </div>
   <div class="ps">只展示标准环境数据，数据及图片来自官网</div>
@@ -162,6 +167,10 @@
       background: #ce2a2c;
       color: #fff
     }
+    .msg{
+      font-size: 12px;
+      color: #666
+    }
   }
   .deck{
     padding: 10rpx 30rpx;
@@ -179,22 +188,28 @@
   }
   .search{
     margin: 10rpx 30rpx;
-    border: 1px solid #eee;
-    border-radius: 10rpx;
     display: flex;
     align-items: center;
     justify-content: space-between;
-    overflow: hidden;
-    input{
-      padding: 0 0 0 10rpx;
-      width: 80%;
-      height: 60rpx
+    .inp{
+      width: 100%;
+      border: 1px solid #eee;
+      border-right: 0;
+      border-radius: 10rpx 0 0 10rpx;
+      overflow: hidden;
+      input{
+        padding: 0 0 0 10rpx;
+        width: 80%;
+        height: 60rpx;
+      }
     }
     .bn{
       background: #4caf50;
       width: 20%;
       height: 60rpx;
       line-height: 60rpx;
+      border: 1px solid #4caf50;
+      border-radius: 0 10rpx 10rpx 0;
       color: #fff;
       text-align: center;
     }

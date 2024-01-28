@@ -15,7 +15,6 @@
 	</div>
 	<div class="list">
 		<template v-for="item in detList" :key="item.id">
-			<!-- <div class="item" @click="showDet(item)" v-if="item.isHide != true"> -->
 			<div class="item" @click="showDet(item)">
 				<div class="picwp">
 					<image src="../../../common/img/tcg-card-back.jpg" mode="widthFix" class="cback"></image>
@@ -26,7 +25,6 @@
 				<!-- <div>No.{{ item.cardNo }}</div> -->
 				<div>{{ item.cardName }}</div>
 				<div>{{ item.ename }}</div>
-				<!-- {{ item.id }} -->
 			</div>
 		</template>
 	</div>
@@ -127,6 +125,7 @@
 		serName.value = decodeURIComponent(options.sname);
 		scode.value = options.code;
 		switch(sno.value) {
+			case 'SV4.5': import('./json/SV4_5.json').then((res) => {getData(res)}); break;
 			case 'SV4': import('./json/SV4.json').then((res) => {getData(res)}); break;
 			case 'SV3.5': import('./json/SV3_5.json').then((res) => {getData(res)}); break;
 			case 'SV3': import('./json/SV3.json').then((res) => {getData(res)}); break;
