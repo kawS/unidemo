@@ -54,8 +54,8 @@
 </template>
 
 <script setup>
-  import series from './js/series'
   import copyRight from '../../components/copyright/index.vue'
+  import series from './js/series'
   import { ref } from 'vue'
   import { onLoad } from '@dcloudio/uni-app'
 
@@ -78,10 +78,7 @@
       return
     }
     uni.navigateTo({
-			url: `/subpackages/pages/seriesDet/index?no=${item.no}&sname=${encodeURIComponent(item.name)}&code=${item.code}`,
-			success: res => {},
-			fail: () => {},
-			complete: () => {}
+			url: `/subpackages/pages/seriesDet/index?no=${item.no}&sname=${encodeURIComponent(item.name)}&code=${item.code}`
 		})
   }
 
@@ -100,7 +97,7 @@
   const goSearch = () => {
     if(searchInp.value == ''){
       uni.showToast({
-        title: '请输入卡名',
+        title: '请输入中文或英文卡名',
         icon: 'none',
         duration: 2000
       });
@@ -110,9 +107,7 @@
 			url: `/subpackages/pages/search/index?searchinp=${encodeURIComponent(searchInp.value)}`,
 			success: res => {
         searchInp.value = ''
-      },
-			fail: () => {},
-			complete: () => {}
+      }
 		})
   }
 
@@ -137,10 +132,7 @@
     isShowDeck.value = false;
     deckData.value = '';
     uni.navigateTo({
-			url: '/subpackages/pages/deck/index',
-			success: res => {},
-			fail: () => {},
-			complete: () => {}
+			url: '/subpackages/pages/deck/index'
 		})
   }
 </script>
@@ -193,7 +185,7 @@
     justify-content: space-between;
     .inp{
       width: 100%;
-      border: 1px solid #eee;
+      border: 1px solid #4caf50;
       border-right: 0;
       border-radius: 10rpx 0 0 10rpx;
       overflow: hidden;

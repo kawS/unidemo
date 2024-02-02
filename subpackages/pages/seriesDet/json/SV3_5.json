@@ -3322,7 +3322,7 @@
     "cardNo": "165"
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_166_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008289.png",
     "typeEnergy": "Grass",
     "type": "Pokemon",
     "cardName": "妙蛙种子",
@@ -3336,10 +3336,10 @@
     "ename": "Bulbasaur",
     "series": "SV3.5",
     "cardNo": "166",
-    "isHide": true
+    "isHide": false
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_167_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008290.png",
     "typeEnergy": "Grass",
     "type": "Pokemon",
     "cardName": "妙蛙草",
@@ -3357,10 +3357,10 @@
     "ename": "Ivysaur",
     "series": "SV3.5",
     "cardNo": "167",
-    "isHide": true
+    "isHide": false
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_168_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008291.png",
     "typeEnergy": "Fire",
     "type": "Pokemon",
     "cardName": "小火龙",
@@ -3378,10 +3378,10 @@
     "ename": "Charmander",
     "series": "SV3.5",
     "cardNo": "168",
-    "isHide": true
+    "isHide": false
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_169_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008292.png",
     "typeEnergy": "Fire",
     "type": "Pokemon",
     "cardName": "火恐龙",
@@ -3399,10 +3399,10 @@
     "ename": "Charmeleon",
     "series": "SV3.5",
     "cardNo": "169",
-    "isHide": true
+    "isHide": false
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_170_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008293.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
     "cardName": "杰尼龟",
@@ -3420,10 +3420,10 @@
     "ename": "Squirtle",
     "series": "SV3.5",
     "cardNo": "170",
-    "isHide": true
+    "isHide": false
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_171_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008294.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
     "cardName": "卡咪龟",
@@ -3441,10 +3441,10 @@
     "ename": "Wartortle",
     "series": "SV3.5",
     "cardNo": "171",
-    "isHide": true
+    "isHide": false
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_172_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008295.png",
     "typeEnergy": "Grass",
     "type": "Pokemon",
     "cardName": "绿毛虫",
@@ -3458,10 +3458,10 @@
     "ename": "Caterpie",
     "series": "SV3.5",
     "cardNo": "172",
-    "isHide": true
+    "isHide": false
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_173_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008296.png",
     "typeEnergy": "Lightning",
     "type": "Pokemon",
     "cardName": "皮卡丘",
@@ -3479,10 +3479,10 @@
     "ename": "Pikachu",
     "series": "SV3.5",
     "cardNo": "173",
-    "isHide": true
+    "isHide": false
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_174_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008297.png",
     "typeEnergy": "Darkness",
     "type": "Pokemon",
     "cardName": "尼多王",
@@ -3500,10 +3500,10 @@
     "ename": "Nidoking",
     "series": "SV3.5",
     "cardNo": "174",
-    "isHide": true
+    "isHide": false
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_175_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008298.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
     "cardName": "可达鸭",
@@ -3521,10 +3521,10 @@
     "ename": "Psyduck",
     "series": "SV3.5",
     "cardNo": "175",
-    "isHide": true
+    "isHide": false
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_176_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008299.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
     "cardName": "蚊香君",
@@ -3542,10 +3542,10 @@
     "ename": "Poliwhirl",
     "series": "SV3.5",
     "cardNo": "176",
-    "isHide": true
+    "isHide": false
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_177_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008300.png",
     "typeEnergy": "Fighting",
     "type": "Pokemon",
     "cardName": "豪力",
@@ -3559,10 +3559,10 @@
     "ename": "Machoke",
     "series": "SV3.5",
     "cardNo": "177",
-    "isHide": true
+    "isHide": false
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_178_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008301.png",
     "typeEnergy": "Grass",
     "type": "Pokemon",
     "cardName": "蔓藤怪",
@@ -3576,10 +3576,10 @@
     "ename": "Tangela",
     "series": "SV3.5",
     "cardNo": "178",
-    "isHide": true
+    "isHide": false
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_179_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008302.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
     "cardName": "魔墙人偶",
@@ -3597,10 +3597,10 @@
     "ename": "Mr. Mime",
     "series": "SV3.5",
     "cardNo": "179",
-    "isHide": true
+    "isHide": false
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_180_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008303.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
     "cardName": "菊石兽",
@@ -3614,10 +3614,10 @@
     "ename": "Omanyte",
     "series": "SV3.5",
     "cardNo": "180",
-    "isHide": true
+    "isHide": false
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_181_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008305.png",
     "typeEnergy": "Dragon",
     "type": "Pokemon",
     "cardName": "哈克龙",
@@ -3635,10 +3635,10 @@
     "ename": "Dragonair",
     "series": "SV3.5",
     "cardNo": "181",
-    "isHide": true
+    "isHide": false
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_182_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008307.png",
     "typeEnergy": "Grass",
     "type": "Pokemon",
     "cardName": "妙蛙花ex",
@@ -3660,10 +3660,10 @@
     "ename": "Venusaur ex",
     "series": "SV3.5",
     "cardNo": "182",
-    "isHide": true
+    "isHide": false
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_183_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008308.png",
     "typeEnergy": "Fire",
     "type": "Pokemon",
     "cardName": "喷火龙ex",
@@ -3685,10 +3685,10 @@
     "ename": "Charizard ex",
     "series": "SV3.5",
     "cardNo": "183",
-    "isHide": true
+    "isHide": false
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_184_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008309.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
     "cardName": "水箭龟ex",
@@ -3710,10 +3710,10 @@
     "ename": "Blastoise ex",
     "series": "SV3.5",
     "cardNo": "184",
-    "isHide": true
+    "isHide": false
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_185_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008310.png",
     "typeEnergy": "Darkness",
     "type": "Pokemon",
     "cardName": "阿柏怪ex",
@@ -3735,10 +3735,10 @@
     "ename": "Arbok ex",
     "series": "SV3.5",
     "cardNo": "185",
-    "isHide": true
+    "isHide": false
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_186_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008311.png",
     "typeEnergy": "Fire",
     "type": "Pokemon",
     "cardName": "九尾ex",
@@ -3760,10 +3760,10 @@
     "ename": "Ninetales ex",
     "series": "SV3.5",
     "cardNo": "186",
-    "isHide": true
+    "isHide": false
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_187_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008312.png",
     "typeEnergy": "Colorless",
     "type": "Pokemon",
     "cardName": "胖可丁ex",
@@ -3785,10 +3785,10 @@
     "ename": "Wigglytuff ex",
     "series": "SV3.5",
     "cardNo": "187",
-    "isHide": true
+    "isHide": false
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_188_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008313.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
     "cardName": "胡地ex",
@@ -3810,10 +3810,10 @@
     "ename": "Alakazam ex",
     "series": "SV3.5",
     "cardNo": "188",
-    "isHide": true
+    "isHide": false
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_189_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008314.png",
     "typeEnergy": "Fighting",
     "type": "Pokemon",
     "cardName": "隆隆岩ex",
@@ -3835,10 +3835,10 @@
     "ename": "Golem ex",
     "series": "SV3.5",
     "cardNo": "189",
-    "isHide": true
+    "isHide": false
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_190_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008315.png",
     "typeEnergy": "Colorless",
     "type": "Pokemon",
     "cardName": "袋兽ex",
@@ -3860,10 +3860,10 @@
     "ename": "Kangaskhan ex",
     "series": "SV3.5",
     "cardNo": "190",
-    "isHide": true
+    "isHide": false
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_191_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008316.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
     "cardName": "迷唇姐ex",
@@ -3885,10 +3885,10 @@
     "ename": "Jynx ex",
     "series": "SV3.5",
     "cardNo": "191",
-    "isHide": true
+    "isHide": false
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_192_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008317.png",
     "typeEnergy": "Lightning",
     "type": "Pokemon",
     "cardName": "闪电鸟ex",
@@ -3910,10 +3910,10 @@
     "ename": "Zapdos ex",
     "series": "SV3.5",
     "cardNo": "192",
-    "isHide": true
+    "isHide": false
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_193_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008318.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
     "cardName": "梦幻ex",
@@ -3935,10 +3935,10 @@
     "ename": "Mew ex",
     "series": "SV3.5",
     "cardNo": "193",
-    "isHide": true
+    "isHide": false
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_194_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008322.png",
     "type": "Trainers",
     "cardName": "正辉的输送",
     "skillList": [
@@ -3955,10 +3955,10 @@
     "ename": "Bill's Transfer",
     "series": "SV3.5",
     "cardNo": "194",
-    "isHide": true
+    "isHide": false
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_195_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008321.png",
     "type": "Trainers",
     "cardName": "奈奈美的帮助",
     "skillList": [
@@ -3975,10 +3975,10 @@
     "ename": "Daisy's Help",
     "series": "SV3.5",
     "cardNo": "195",
-    "isHide": true
+    "isHide": false
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_196_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008319.png",
     "type": "Trainers",
     "cardName": "莉佳的招待",
     "skillList": [
@@ -3995,10 +3995,10 @@
     "ename": "Erika's Invitation",
     "series": "SV3.5",
     "cardNo": "196",
-    "isHide": true
+    "isHide": false
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_197_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008320.png",
     "type": "Trainers",
     "cardName": "坂木的领导力",
     "skillList": [
@@ -4015,10 +4015,10 @@
     "ename": "Giovanni's Charisma",
     "series": "SV3.5",
     "cardNo": "197",
-    "isHide": true
+    "isHide": false
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_198_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008323.png",
     "typeEnergy": "Grass",
     "type": "Pokemon",
     "cardName": "妙蛙花ex",
@@ -4040,10 +4040,10 @@
     "ename": "Venusaur ex",
     "series": "SV3.5",
     "cardNo": "198",
-    "isHide": true
+    "isHide": false
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_199_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008324.png",
     "typeEnergy": "Fire",
     "type": "Pokemon",
     "cardName": "喷火龙ex",
@@ -4065,10 +4065,10 @@
     "ename": "Charizard ex",
     "series": "SV3.5",
     "cardNo": "199",
-    "isHide": true
+    "isHide": false
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_200_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008325.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
     "cardName": "水箭龟ex",
@@ -4090,10 +4090,10 @@
     "ename": "Blastoise ex",
     "series": "SV3.5",
     "cardNo": "200",
-    "isHide": true
+    "isHide": false
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_201_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008326.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
     "cardName": "胡地ex",
@@ -4115,10 +4115,10 @@
     "ename": "Alakazam ex",
     "series": "SV3.5",
     "cardNo": "201",
-    "isHide": true
+    "isHide": false
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_202_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008327.png",
     "typeEnergy": "Lightning",
     "type": "Pokemon",
     "cardName": "闪电鸟ex",
@@ -4140,10 +4140,10 @@
     "ename": "Zapdos ex",
     "series": "SV3.5",
     "cardNo": "202",
-    "isHide": true
+    "isHide": false
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_203_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008329.png",
     "type": "Trainers",
     "cardName": "莉佳的招待",
     "skillList": [
@@ -4160,10 +4160,10 @@
     "ename": "Erika's Invitation",
     "series": "SV3.5",
     "cardNo": "203",
-    "isHide": true
+    "isHide": false
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_204_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008330.png",
     "type": "Trainers",
     "cardName": "坂木的领导力",
     "skillList": [
@@ -4180,7 +4180,7 @@
     "ename": "Giovanni's Charisma",
     "series": "SV3.5",
     "cardNo": "204",
-    "isHide": true
+    "isHide": false
   },
   {
     "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/MEW/MEW_205_R_EN.png",

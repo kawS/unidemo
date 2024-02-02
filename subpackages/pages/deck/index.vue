@@ -5,7 +5,7 @@
 			<div>卡组列表</div>
 			<div>共{{ resultList.length }}类</div>
 		</div>
-		<div class="tips">导入退环境卡或卡组编号查不到会导致缺失(未收录不能点击搜索)</div>
+		<div class="tips">导入退环境卡或卡组编号查不到会导致缺失(点击搜索)</div>
 		<div class="undeck" v-if="noCardList != ''">
 			<div>未导入: </div>	
 			<div>
@@ -15,7 +15,7 @@
 		<div class="undeck" v-if="missCardList != null && missCardList.length > 0">
 			<div>未收录: </div>	
 			<div>
-				<div class="nk" v-for="(item, index) in missCardList" :key="index">{{ item.ename }}({{ item.series }})</div>
+				<div class="nk" v-for="(item, index) in missCardList" :key="index" @click="goSearch(item.ename)">{{ item.ename }}({{ item.series }})</div>
 			</div>	
 		</div>
 	</div>
@@ -84,16 +84,15 @@
 </template>
 
 <script setup>
-	import seriesList from '../../../pages/index/js/seriesList.js'
-	import { baseEList, returnEnergyData } from '../../../pages/index/js/baseEList.js'
 	import emptyList from '../../../components/emptyList/index.vue'
 	import copyRight from '../../../components/copyright/index.vue'
+	import { seriesList, seriesCodeList, returnSerDetList } from '../../untils/seriesList.js'
+	import { baseEList, returnEnergyData } from '../../untils/baseEList.js'
 	import { fixCard, typeIndex } from './js/fixData'
 	import { ref } from 'vue'
   import { onLoad } from '@dcloudio/uni-app'
 	import _ from 'lodash'
 
-	const seriesCodeList = {'PAR': 'SV4', 'MEW': 'SV3_5', 'OBF': 'SV3', 'PAL': 'SV2', 'SVI': 'SV1', 'CRZ': 'SS12_5', 'SIT': 'SS12', 'LOR': 'SS11', 'PGO': 'SS10_5', 'ASR': 'SS10', 'BRS': 'SS9', 'FST': 'SS8', 'CEL': 'SS7_5', 'EVS': 'SS7', 'CRE': 'SS6', 'BST': 'SS5'};
 	let resetData = [];
 	let forLength = 0;
 	let baseCardData = [];
@@ -145,8 +144,8 @@
 			newList.push(item)
 		}
 		// console.log(newList)
-		copyDeckLength.value = newList.length
-		setData(newList);
+		copyDeckLength.value = newList.length;
+		setData(newList)
 	})
 
 	const setData = (data) => {
@@ -155,7 +154,7 @@
 			mask: true
 		});
 		setTimeout(() => {
-			uni.hideLoading();
+			uni.hideLoading()
 		}, 1500)
 		let list = [];
 		let sortBySeries = {};
@@ -164,7 +163,7 @@
 		for(let item of data){
 			let n = item.replace(/(^\d{1,2} )|( \d{1,3}$)/g, '');
 			if(!baseEList.includes(n)){
-				let indexof = n.lastIndexOf(' ');
+				let indexof = n.lastIndexOf(' ')
 			}
 			// console.log(item, baseCardData)
 			let rItem = null;
@@ -192,16 +191,16 @@
 				if(!seriesCodeList[m[3]]){
 					if(fixCard[ename]){
 						series = fixCard[ename].series;
-						cardNo = fixCard[ename].cardNo;
+						cardNo = fixCard[ename].cardNo
 					}else{
 						series = m[3];
-						cardNo = m[4];
+						cardNo = m[4]
 					}
 				}else{
 					series = m[3];
-					cardNo = m[4];
+					cardNo = m[4]
 				}
-				sNo = null;
+				sNo = null
 			}
 			if(/-/.test(series)){
 				let _d = series.split('-');
@@ -216,13 +215,13 @@
 			sNo = seriesCodeList[series];
 			if(sNo){
 				if(!sortBySeries[sNo]){
-					sortBySeries[sNo] = [];
+					sortBySeries[sNo] = []
 					// forLength += 1
 				}
 				rItem = {count, ename, series, sNo, cardNo};
 				// console.log(rItem)
-				sortBySeries[sNo].push(rItem)
-				list.push(rItem);
+				sortBySeries[sNo].push(rItem);
+				list.push(rItem)
 			}else{
 				// console.log(series)
 				missCardList.value.push({count, ename, series, sNo, cardNo})
@@ -233,7 +232,7 @@
 		if(_.isEmpty(sortBySeries)){
 			loadData([], [], '')
 		}else{
-			returnDet(sortBySeries);
+			returnDet(sortBySeries)
 		}
 	}
 	
@@ -243,24 +242,9 @@
 			// console.log(serItem)
 			if(obj[serItem]?.length > 0){
 				// console.log(obj[serItem])
-				switch(serItem) {
-					case 'SV4': import('../seriesDet/json/SV4.json').then((res) => {loadData(res.default, obj[serItem], serItem)}); break;
-					case 'SV3_5': import('../seriesDet/json/SV3_5.json').then((res) => {loadData(res.default, obj[serItem], serItem)}); break;
-					case 'SV3': import('../seriesDet/json/SV3.json').then((res) => {loadData(res.default, obj[serItem], serItem)}); break;
-					case 'SV2': import('../seriesDet/json/SV2.json').then((res) => {loadData(res.default, obj[serItem], serItem)}); break;
-					case 'SV1': import('../seriesDet/json/SV1.json').then((res) => {loadData(res.default, obj[serItem], serItem)}); break;
-					case 'SS12_5': import('../seriesDet/json/SS12_5.json').then((res) => {loadData(res.default, obj[serItem], serItem)}); break;
-					case 'SS12': import('../seriesDet/json/SS12.json').then((res) => {loadData(res.default, obj[serItem], serItem)}); break;
-					case 'SS11': import('../seriesDet/json/SS11.json').then((res) => {loadData(res.default, obj[serItem], serItem)}); break;
-					case 'SS10_5': import('../seriesDet/json/SS10_5.json').then((res) => {loadData(res.default, obj[serItem], serItem)}); break;
-					case 'SS10': import('../seriesDet/json/SS10.json').then((res) => {loadData(res.default, obj[serItem], serItem)}); break;
-					case 'SS9': import('../seriesDet/json/SS9.json').then((res) => {loadData(res.default, obj[serItem], serItem)}); break;
-					case 'SS8': import('../seriesDet/json/SS8.json').then((res) => {loadData(res.default, obj[serItem], serItem)}); break;
-					case 'SS7_5': import('../seriesDet/json/SS7_5.json').then((res) => {loadData(res.default, obj[serItem], serItem)}); break;
-					case 'SS7': import('../seriesDet/json/SS7.json').then((res) => {loadData(res.default, obj[serItem], serItem)}); break;
-					case 'SS6': import('../seriesDet/json/SS6.json').then((res) => {loadData(res.default, obj[serItem], serItem)}); break;
-					case 'SS5': import('../seriesDet/json/SS5.json').then((res) => {loadData(res.default, obj[serItem], serItem)}); break;
-				}
+				returnSerDetList(serItem, function(res){
+					loadData(res.default, obj[serItem], serItem)
+				})
 			}
 		}
 	}
@@ -314,14 +298,14 @@
 			})
 			// arr.e.reverse();
 			resetData = [...arr.p, ...arr.t, ...arr.e];
-			resultList.value = resetData;
+			resultList.value = resetData
 		}else{
 			let nowData = resetData.map(item => {
 				return item.ename.toLowerCase()
 			})
 			let diff = _.difference(baseCardData, nowData);
 			// console.log(baseCardData, nowData, diff);
-			noCardList.value = diff.length > 0 ? diff.join(', ') : '';
+			noCardList.value = diff.length > 0 ? diff.join(', ') : ''
 		}
 	}
 
@@ -344,19 +328,14 @@
 		uni.setClipboardData({
 			data: copyDeck.value.join('\r'),
 			success: function () {
-				console.log('success');
+				console.log('success')
 			}
 		});
 	}
 
 	const goSearch = (txt) => {
 		uni.navigateTo({
-			url: `/subpackages/pages/search/index?searchinp=${encodeURIComponent(txt)}`,
-			success: res => {
-				
-      },
-			fail: () => {},
-			complete: () => {}
+			url: `/subpackages/pages/search/index?searchinp=${encodeURIComponent(txt)}`
 		})
 	}
 </script>

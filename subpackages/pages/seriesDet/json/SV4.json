@@ -3902,7 +3902,7 @@
     "isHide": true
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_188_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008858.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
     "cardName": "雪童子",
@@ -3916,10 +3916,10 @@
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_188_R_EN.png",
     "ename": "Snorunt",
     "cardNo": "188",
-    "isHide": true
+    "isHide": false
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_189_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008859.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
     "cardName": "小球飞鱼",
@@ -3933,7 +3933,7 @@
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_189_R_EN.png",
     "ename": "Mantyke",
     "cardNo": "189",
-    "isHide": true
+    "isHide": false
   },
   {
     "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_190_R_EN.png",
@@ -3995,7 +3995,7 @@
     "isHide": true
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_193_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008860.png",
     "typeEnergy": "Lightning",
     "type": "Pokemon",
     "cardName": "正电拍拍",
@@ -4009,10 +4009,10 @@
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_193_R_EN.png",
     "ename": "Plusle",
     "cardNo": "193",
-    "isHide": true
+    "isHide": false
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_194_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008861.png",
     "typeEnergy": "Lightning",
     "type": "Pokemon",
     "cardName": "负电拍拍",
@@ -4030,7 +4030,7 @@
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_194_R_EN.png",
     "ename": "Minun",
     "cardNo": "194",
-    "isHide": true
+    "isHide": false
   },
   {
     "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_195_R_EN.png",
@@ -4054,7 +4054,7 @@
     "isHide": true
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_196_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008862.png",
     "typeEnergy": "Lightning",
     "type": "Pokemon",
     "cardName": "电电虫",
@@ -4068,7 +4068,7 @@
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_196_R_EN.png",
     "ename": "Joltik",
     "cardNo": "196",
-    "isHide": true
+    "isHide": false
   },
   {
     "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_197_R_EN.png",
@@ -4092,7 +4092,7 @@
     "isHide": true
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_198_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008863.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
     "cardName": "索财灵",
@@ -4106,10 +4106,10 @@
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_198_R_EN.png",
     "ename": "Gimmighoul",
     "cardNo": "198",
-    "isHide": true
+    "isHide": false
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_199_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008864.png",
     "typeEnergy": "Fighting",
     "type": "Pokemon",
     "cardName": "固拉多",
@@ -4127,7 +4127,7 @@
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_199_R_EN.png",
     "ename": "Groudon",
     "cardNo": "199",
-    "isHide": true
+    "isHide": false
   },
   {
     "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_200_R_EN.png",
@@ -4151,7 +4151,7 @@
     "isHide": true
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_201_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008865.png",
     "typeEnergy": "Fighting",
     "type": "Pokemon",
     "cardName": "小陨星",
@@ -4169,7 +4169,7 @@
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_201_R_EN.png",
     "ename": "Minior",
     "cardNo": "201",
-    "isHide": true
+    "isHide": false
   },
   {
     "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_202_R_EN.png",
@@ -4235,7 +4235,7 @@
     "isHide": true
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_205_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008866.png",
     "typeEnergy": "Darkness",
     "type": "Pokemon",
     "cardName": "伊裴尔塔尔",
@@ -4253,7 +4253,7 @@
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_205_R_EN.png",
     "ename": "Yveltal",
     "cardNo": "205",
-    "isHide": true
+    "isHide": false
   },
   {
     "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_206_R_EN.png",
@@ -4319,7 +4319,7 @@
     "isHide": true
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_209_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008867.png",
     "typeEnergy": "Metal",
     "type": "Pokemon",
     "cardName": "坚果哑铃",
@@ -4337,10 +4337,10 @@
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_209_R_EN.png",
     "ename": "Ferrothorn",
     "cardNo": "209",
-    "isHide": true
+    "isHide": false
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_210_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008868.png",
     "typeEnergy": "Metal",
     "type": "Pokemon",
     "cardName": "坚盾剑怪",
@@ -4358,7 +4358,7 @@
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_210_R_EN.png",
     "ename": "Aegislash",
     "cardNo": "210",
-    "isHide": true
+    "isHide": false
   },
   {
     "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_211_R_EN.png",
@@ -4445,7 +4445,7 @@
     "isHide": true
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_215_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008869.png",
     "typeEnergy": "Colorless",
     "type": "Pokemon",
     "cardName": "摩托蜥",
@@ -4463,7 +4463,7 @@
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_215_R_EN.png",
     "ename": "Cyclizar",
     "cardNo": "215",
-    "isHide": true
+    "isHide": false
   },
   {
     "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_216_R_EN.png",
@@ -4487,7 +4487,7 @@
     "isHide": true
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_217_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008870.png",
     "typeEnergy": "Grass",
     "type": "Pokemon",
     "cardName": "雪妖女ex",
@@ -4513,7 +4513,7 @@
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_217_R_EN.png",
     "ename": "Froslass ex",
     "cardNo": "217",
-    "isHide": true
+    "isHide": false
   },
   {
     "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_218_R_EN.png",
@@ -4541,7 +4541,7 @@
     "isHide": true
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_219_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008871.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
     "cardName": "烈咬陆鲨ex",
@@ -4567,7 +4567,7 @@
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_219_R_EN.png",
     "ename": "Garchomp ex",
     "cardNo": "219",
-    "isHide": true
+    "isHide": false
   },
   {
     "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_220_R_EN.png",
@@ -4620,7 +4620,7 @@
     "isHide": true
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_222_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008872.png",
     "typeEnergy": "Lightning",
     "type": "Pokemon",
     "cardName": "卡璞・鸣鸣ex",
@@ -4642,7 +4642,7 @@
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_222_R_EN.png",
     "ename": "Tapu Koko ex",
     "cardNo": "222",
-    "isHide": true
+    "isHide": false
   },
   {
     "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_223_R_EN.png",
@@ -4720,7 +4720,7 @@
     "isHide": true
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_226_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008873.png",
     "typeEnergy": "Fighting",
     "type": "Pokemon",
     "cardName": "胡帕ex",
@@ -4746,7 +4746,7 @@
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_226_R_EN.png",
     "ename": "Hoopa ex",
     "cardNo": "226",
-    "isHide": true
+    "isHide": false
   },
   {
     "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_227_R_EN.png",
@@ -4853,7 +4853,7 @@
     "isHide": true
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_231_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008874.png",
     "typeEnergy": "Metal",
     "type": "Pokemon",
     "cardName": "赛富豪ex",
@@ -4875,7 +4875,7 @@
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_231_R_EN.png",
     "ename": "Gholdengo ex",
     "cardNo": "231",
-    "isHide": true
+    "isHide": false
   },
   {
     "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_232_R_EN.png",
@@ -4928,7 +4928,7 @@
     "isHide": true
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_234_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008875.png",
     "typeEnergy": "Colorless",
     "type": "Pokemon",
     "cardName": "下石鸟ex",
@@ -4950,10 +4950,10 @@
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_234_R_EN.png",
     "ename": "Bombirdier ex",
     "cardNo": "234",
-    "isHide": true
+    "isHide": false
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_235_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008876.png",
     "type": "Trainers",
     "cardName": "青木",
     "skillList": [
@@ -4970,7 +4970,7 @@
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_235_R_EN.png",
     "ename": "Larry",
     "cardNo": "235",
-    "isHide": true
+    "isHide": false
   },
   {
     "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_236_R_EN.png",
@@ -5017,7 +5017,7 @@
     "isHide": true
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_238_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008879.png",
     "type": "Trainers",
     "cardName": "阳伞姐姐",
     "skillList": [
@@ -5034,7 +5034,7 @@
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_238_R_EN.png",
     "ename": "Parasol Lady",
     "cardNo": "238",
-    "isHide": true
+    "isHide": false
   },
   {
     "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_239_R_EN.png",
@@ -5077,7 +5077,7 @@
     "isHide": true
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_241_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008878.png",
     "type": "Trainers",
     "cardName": "辛俐",
     "skillList": [
@@ -5094,7 +5094,7 @@
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_241_R_EN.png",
     "ename": "Rika",
     "cardNo": "241",
-    "isHide": true
+    "isHide": false
   },
   {
     "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_242_R_EN.png",
@@ -5117,7 +5117,7 @@
     "isHide": true
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_243_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008877.png",
     "type": "Trainers",
     "cardName": "婉龙",
     "skillList": [
@@ -5134,7 +5134,7 @@
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_243_R_EN.png",
     "ename": "Shauntal",
     "cardNo": "243",
-    "isHide": true
+    "isHide": false
   },
   {
     "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_244_R_EN.png",
@@ -5157,7 +5157,7 @@
     "isHide": true
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_245_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008880.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
     "cardName": "烈咬陆鲨ex",
@@ -5183,7 +5183,7 @@
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_245_R_EN.png",
     "ename": "Garchomp ex",
     "cardNo": "245",
-    "isHide": true
+    "isHide": false
   },
   {
     "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_246_R_EN.png",
@@ -5207,7 +5207,7 @@
     "isHide": true
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_247_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008881.png",
     "typeEnergy": "Lightning",
     "type": "Pokemon",
     "cardName": "卡璞・鸣鸣ex",
@@ -5229,7 +5229,7 @@
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_247_R_EN.png",
     "ename": "Tapu Koko ex",
     "cardNo": "247",
-    "isHide": true
+    "isHide": false
   },
   {
     "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_248_R_EN.png",
@@ -5332,7 +5332,7 @@
     "isHide": true
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_252_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008882.png",
     "typeEnergy": "Metal",
     "type": "Pokemon",
     "cardName": "赛富豪ex",
@@ -5354,7 +5354,7 @@
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_252_R_EN.png",
     "ename": "Gholdengo ex",
     "cardNo": "252",
-    "isHide": true
+    "isHide": false
   },
   {
     "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_253_R_EN.png",
@@ -5406,7 +5406,7 @@
     "isHide": true
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_255_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008884.png",
     "type": "Trainers",
     "cardName": "阳伞姐姐",
     "skillList": [
@@ -5423,7 +5423,7 @@
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_255_R_EN.png",
     "ename": "Parasol Lady",
     "cardNo": "255",
-    "isHide": true
+    "isHide": false
   },
   {
     "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_256_R_EN.png",
@@ -5466,7 +5466,7 @@
     "isHide": true
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_258_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008883.png",
     "type": "Trainers",
     "cardName": "辛俐",
     "skillList": [
@@ -5483,7 +5483,7 @@
     "enImgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_258_R_EN.png",
     "ename": "Rika",
     "cardNo": "258",
-    "isHide": true
+    "isHide": false
   },
   {
     "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/PAR/PAR_259_R_EN.png",

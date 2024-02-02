@@ -6,7 +6,9 @@
 			<div>共{{ resultList.length }}张</div>
 		</div>
 		<div class="search">
-			<input type="text" v-model="searchInp" placeholder="请输入卡名(支持简中、英文)" />
+			<div class="inp">
+				<input type="text" v-model="searchInp" placeholder="请输入卡名(支持简中、英文)" />
+			</div>
 			<div class="bn" @click="reSearch">检索</div>
 		</div>
 	</div>
@@ -16,6 +18,20 @@
 			<div class="item" @click="showDet(item)">
 				<div class="picwp">
 					<image src="../../../common/img/tcg-card-back.jpg" mode="widthFix" class="cback"></image>
+					<div class="prshow">
+						<div class="skill" v-if="!/^(基本).*?(能量)$/.test(item.cardName)">
+							<template v-for="skill in item.skillList" :key="skill.name">
+								<div class="sitem" v-if="!/太晶/g.test(skill.name) && !/规则/g.test(skill.name)">
+									<div class="sname" :class="{
+										tera: /太晶/g.test(skill.name), 
+										ability: /特性/g.test(skill.name),
+										grule: /规则/g.test(skill.name),
+										vstar: /VSTAR力量/g.test(skill.name)}">{{ skill.name }}</div>
+									<div class="sdet">{{ skill.effect == '' ? '-' : skill.effect}}</div>
+								</div>
+							</template>
+						</div>
+					</div>
 					<image :src="item.imgUrl" lazy-load mode="heightFix" class="img"></image>
 					<div class="series">{{ item.series }}{{ item?.artList?.length > 0 ? `|${item.artList.length}` : '' }}</div>
 				</div>
@@ -68,9 +84,9 @@
 </template>
 
 <script setup>
-	import seriesList from '../../../pages/index/js/seriesList.js'
 	import emptyList from '../../../components/emptyList/index.vue'
 	import copyRight from '../../../components/copyright/index.vue'
+	import { seriesList, returnSerDetList } from '../../untils/seriesList.js'
 	import { ref } from 'vue'
   import { onLoad } from '@dcloudio/uni-app'
 
@@ -98,7 +114,7 @@
 		});
 		await returnNameMap();
 		setTimeout(function () {
-			uni.hideLoading();
+			uni.hideLoading()
 		}, 1500);
 	}
 
@@ -144,38 +160,22 @@
 		}
 		for(let serItem of seriesList){
 			if(obj[serItem]?.length > 0){
-				switch(serItem) {
-					case 'SV4_5': import('../seriesDet/json/SV4_5.json').then((res) => {loadData(res.default, obj[serItem], serItem)}); break;
-					case 'SV4': import('../seriesDet/json/SV4.json').then((res) => {loadData(res.default, obj[serItem], serItem)}); break;
-					case 'SV3_5': import('../seriesDet/json/SV3_5.json').then((res) => {loadData(res.default, obj[serItem], serItem)}); break;
-					case 'SV3': import('../seriesDet/json/SV3.json').then((res) => {loadData(res.default, obj[serItem], serItem)}); break;
-					case 'SV2': import('../seriesDet/json/SV2.json').then((res) => {loadData(res.default, obj[serItem], serItem)}); break;
-					case 'SV1': import('../seriesDet/json/SV1.json').then((res) => {loadData(res.default, obj[serItem], serItem)}); break;
-					case 'SS12_5': import('../seriesDet/json/SS12_5.json').then((res) => {loadData(res.default, obj[serItem], serItem)}); break;
-					case 'SS12': import('../seriesDet/json/SS12.json').then((res) => {loadData(res.default, obj[serItem], serItem)}); break;
-					case 'SS11': import('../seriesDet/json/SS11.json').then((res) => {loadData(res.default, obj[serItem], serItem)}); break;
-					case 'SS10_5': import('../seriesDet/json/SS10_5.json').then((res) => {loadData(res.default, obj[serItem], serItem)}); break;
-					case 'SS10': import('../seriesDet/json/SS10.json').then((res) => {loadData(res.default, obj[serItem], serItem)}); break;
-					case 'SS9': import('../seriesDet/json/SS9.json').then((res) => {loadData(res.default, obj[serItem], serItem)}); break;
-					case 'SS8': import('../seriesDet/json/SS8.json').then((res) => {loadData(res.default, obj[serItem], serItem)}); break;
-					case 'SS7_5': import('../seriesDet/json/SS7_5.json').then((res) => {loadData(res.default, obj[serItem], serItem)}); break;
-					case 'SS7': import('../seriesDet/json/SS7.json').then((res) => {loadData(res.default, obj[serItem], serItem)}); break;
-					case 'SS6': import('../seriesDet/json/SS6.json').then((res) => {loadData(res.default, obj[serItem], serItem)}); break;
-					case 'SS5': import('../seriesDet/json/SS5.json').then((res) => {loadData(res.default, obj[serItem], serItem)}); break;
-				}
+				returnSerDetList(serItem, function(res){
+					loadData(res.default, obj[serItem], serItem)
+				})
 			}
 		}
 	}
 	
 	const loadData = (oData, data, series) => {
 		let result = oData.filter(ser => {
-			return data.includes(ser.cardName);
+			return data.includes(ser.cardName)
 		});
 		allIndex += result.length;
 		resetData = [...resetData, ...result];
 		// console.log(allIndex, resetData.length)
 		if(allIndex == resetData.length){
-			resultList.value = resetData;
+			resultList.value = resetData
 		}
 	}
 
@@ -226,23 +226,29 @@
 		}
 		.search{
 			margin: 10rpx 0;
-			background: #fff;
-			border: 1px solid #eee;
-			border-radius: 10rpx;
 			display: flex;
 			align-items: center;
 			justify-content: space-between;
-			overflow: hidden;
-			input{
-				padding: 0 0 0 10rpx;
-				width: 80%;
-				height: 60rpx
+			.inp{
+				background: #fff;
+				width: 100%;
+				border: 1px solid #4caf50;
+				border-right: 0;
+				border-radius: 10rpx 0 0 10rpx;
+				overflow: hidden;
+				input{
+					padding: 0 0 0 10rpx;
+					width: 80%;
+					height: 60rpx;
+				}
 			}
 			.bn{
 				background: #4caf50;
 				width: 20%;
 				height: 60rpx;
 				line-height: 60rpx;
+				border: 1px solid #4caf50;
+				border-radius: 0 10rpx 10rpx 0;
 				color: #fff;
 				text-align: center;
 			}
@@ -287,6 +293,41 @@
 					height: 100%;
 					border-radius: 15rpx;
 					display: block;
+				}
+				.prshow{
+					position: absolute;
+					top: 0;
+					left: 0;
+					width: 100%;
+					height: 100%;
+					overflow-y: scroll;
+					.skill{
+						.sitem{
+							margin: 10rpx 0;
+							padding: 0 5%;
+							text-align: left;
+							&:last-of-type{
+								margin-bottom: 0;
+							}
+							.sname{
+								color: #333;
+								font-weight: 700;
+								text-decoration: underline;
+							}
+							.tera{
+								color: #00a6da;
+							}
+							.ability{
+								color: #ce2a2c
+							}
+							.grule{
+								color: #16baaa
+							}
+							.vstar{
+								color: #635811;
+							}
+						}
+					}
 				}
 			}
 			.name{
@@ -356,7 +397,9 @@
 						margin-bottom: 0;
 					}
 					.sname{
-						color: #999
+						color: #333;
+						font-weight: 700;
+						text-decoration: underline;
 					}
 					.tera{
 						color: #00a6da;

@@ -3898,7 +3898,7 @@
     "cardNo": "197"
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/OBF/OBF_198_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008705.png",
     "typeEnergy": "Grass",
     "type": "Pokemon",
     "cardName": "臭臭花",
@@ -3916,10 +3916,10 @@
     "ename": "Gloom",
     "series": "SV3",
     "cardNo": "198",
-    "isHide": true
+    "isHide": false
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/OBF/OBF_199_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008706.png",
     "typeEnergy": "Fire",
     "type": "Pokemon",
     "cardName": "九尾",
@@ -3937,10 +3937,10 @@
     "ename": "Ninetales",
     "series": "SV3",
     "cardNo": "199",
-    "isHide": true
+    "isHide": false
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/OBF/OBF_200_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008707.png",
     "typeEnergy": "Water",
     "type": "Pokemon",
     "cardName": "海豚侠",
@@ -3958,10 +3958,10 @@
     "ename": "Palafin",
     "series": "SV3",
     "cardNo": "200",
-    "isHide": true
+    "isHide": false
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/OBF/OBF_201_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008708.png",
     "typeEnergy": "Lightning",
     "type": "Pokemon",
     "cardName": "电肚蛙",
@@ -3979,10 +3979,10 @@
     "ename": "Bellibolt",
     "series": "SV3",
     "cardNo": "201",
-    "isHide": true
+    "isHide": false
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/OBF/OBF_202_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008709.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
     "cardName": "皮宝宝",
@@ -3996,10 +3996,10 @@
     "ename": "Cleffa",
     "series": "SV3",
     "cardNo": "202",
-    "isHide": true
+    "isHide": false
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/OBF/OBF_203_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008710.png",
     "typeEnergy": "Fighting",
     "type": "Pokemon",
     "cardName": "幼基拉斯",
@@ -4017,10 +4017,10 @@
     "ename": "Larvitar",
     "series": "SV3",
     "cardNo": "203",
-    "isHide": true
+    "isHide": false
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/OBF/OBF_204_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008711.png",
     "typeEnergy": "Darkness",
     "type": "Pokemon",
     "cardName": "戴鲁比",
@@ -4038,10 +4038,10 @@
     "ename": "Houndour",
     "series": "SV3",
     "cardNo": "204",
-    "isHide": true
+    "isHide": false
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/OBF/OBF_205_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008712.png",
     "typeEnergy": "Metal",
     "type": "Pokemon",
     "cardName": "巨钳螳螂",
@@ -4059,10 +4059,10 @@
     "ename": "Scizor",
     "series": "SV3",
     "cardNo": "205",
-    "isHide": true
+    "isHide": false
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/OBF/OBF_206_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008713.png",
     "typeEnergy": "Metal",
     "type": "Pokemon",
     "cardName": "噗隆隆[进化前分岐α]",
@@ -4076,10 +4076,10 @@
     "ename": "Varoom",
     "series": "SV3",
     "cardNo": "206",
-    "isHide": true
+    "isHide": false
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/OBF/OBF_207_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008714.png",
     "typeEnergy": "Colorless",
     "type": "Pokemon",
     "cardName": "波波",
@@ -4093,10 +4093,10 @@
     "ename": "Pidgey",
     "series": "SV3",
     "cardNo": "207",
-    "isHide": true
+    "isHide": false
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/OBF/OBF_208_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008715.png",
     "typeEnergy": "Colorless",
     "type": "Pokemon",
     "cardName": "比比鸟",
@@ -4110,10 +4110,10 @@
     "ename": "Pidgeotto",
     "series": "SV3",
     "cardNo": "208",
-    "isHide": true
+    "isHide": false
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/OBF/OBF_209_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008716.png",
     "typeEnergy": "Colorless",
     "type": "Pokemon",
     "cardName": "爱吃豚[进化前分岐α]",
@@ -4127,10 +4127,10 @@
     "ename": "Lechonk",
     "series": "SV3",
     "cardNo": "209",
-    "isHide": true
+    "isHide": false
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/OBF/OBF_210_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008717.png",
     "typeEnergy": "Fire",
     "type": "Pokemon",
     "cardName": "冰砌鹅ex",
@@ -4152,10 +4152,10 @@
     "ename": "Eiscue ex",
     "series": "SV3",
     "cardNo": "210",
-    "isHide": true
+    "isHide": false
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/OBF/OBF_211_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008718.png",
     "typeEnergy": "Lightning",
     "type": "Pokemon",
     "cardName": "班基拉斯ex",
@@ -4181,10 +4181,10 @@
     "ename": "Tyranitar ex",
     "series": "SV3",
     "cardNo": "211",
-    "isHide": true
+    "isHide": false
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/OBF/OBF_212_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008719.png",
     "typeEnergy": "Psychic",
     "type": "Pokemon",
     "cardName": "蜂女王ex",
@@ -4210,10 +4210,10 @@
     "ename": "Vespiquen ex",
     "series": "SV3",
     "cardNo": "212",
-    "isHide": true
+    "isHide": false
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/OBF/OBF_213_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008720.png",
     "typeEnergy": "Fighting",
     "type": "Pokemon",
     "cardName": "晶光花ex",
@@ -4235,10 +4235,10 @@
     "ename": "Glimmora ex",
     "series": "SV3",
     "cardNo": "213",
-    "isHide": true
+    "isHide": false
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/OBF/OBF_214_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008722.png",
     "typeEnergy": "Darkness",
     "type": "Pokemon",
     "cardName": "阿勃梭鲁ex",
@@ -4260,10 +4260,10 @@
     "ename": "Absol ex",
     "series": "SV3",
     "cardNo": "214",
-    "isHide": true
+    "isHide": false
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/OBF/OBF_215_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008721.png",
     "typeEnergy": "Darkness",
     "type": "Pokemon",
     "cardName": "喷火龙ex",
@@ -4289,10 +4289,10 @@
     "ename": "Charizard ex",
     "series": "SV3",
     "cardNo": "215",
-    "isHide": true
+    "isHide": false
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/OBF/OBF_216_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008723.png",
     "typeEnergy": "Metal",
     "type": "Pokemon",
     "cardName": "普隆隆姆ex",
@@ -4314,10 +4314,10 @@
     "ename": "Revavroom ex",
     "series": "SV3",
     "cardNo": "216",
-    "isHide": true
+    "isHide": false
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/OBF/OBF_217_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008724.png",
     "typeEnergy": "Colorless",
     "type": "Pokemon",
     "cardName": "大比鸟ex",
@@ -4339,10 +4339,10 @@
     "ename": "Pidgeot ex",
     "series": "SV3",
     "cardNo": "217",
-    "isHide": true
+    "isHide": false
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/OBF/OBF_218_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008725.png",
     "type": "Trainers",
     "cardName": "也慈",
     "skillList": [
@@ -4363,10 +4363,10 @@
     "ename": "Geeta",
     "series": "SV3",
     "cardNo": "218",
-    "isHide": true
+    "isHide": false
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/OBF/OBF_219_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008726.png",
     "type": "Trainers",
     "cardName": "奥尔迪加",
     "skillList": [
@@ -4383,10 +4383,10 @@
     "ename": "Ortega",
     "series": "SV3",
     "cardNo": "219",
-    "isHide": true
+    "isHide": false
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/OBF/OBF_220_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008727.png",
     "type": "Trainers",
     "cardName": "波琵",
     "skillList": [
@@ -4403,10 +4403,10 @@
     "ename": "Poppy",
     "series": "SV3",
     "cardNo": "220",
-    "isHide": true
+    "isHide": false
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/OBF/OBF_221_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008728.png",
     "type": "Trainers",
     "cardName": "莱姆",
     "skillList": [
@@ -4423,10 +4423,10 @@
     "ename": "Ryme",
     "series": "SV3",
     "cardNo": "221",
-    "isHide": true
+    "isHide": false
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/OBF/OBF_222_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008729.png",
     "typeEnergy": "Fire",
     "type": "Pokemon",
     "cardName": "冰砌鹅ex",
@@ -4448,10 +4448,10 @@
     "ename": "Eiscue ex",
     "series": "SV3",
     "cardNo": "222",
-    "isHide": true
+    "isHide": false
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/OBF/OBF_223_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008730.png",
     "typeEnergy": "Darkness",
     "type": "Pokemon",
     "cardName": "喷火龙ex",
@@ -4477,10 +4477,10 @@
     "ename": "Charizard ex",
     "series": "SV3",
     "cardNo": "223",
-    "isHide": true
+    "isHide": false
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/OBF/OBF_224_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008731.png",
     "typeEnergy": "Metal",
     "type": "Pokemon",
     "cardName": "普隆隆姆ex",
@@ -4502,10 +4502,10 @@
     "ename": "Revavroom ex",
     "series": "SV3",
     "cardNo": "224",
-    "isHide": true
+    "isHide": false
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/OBF/OBF_215_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008732.png",
     "typeEnergy": "Colorless",
     "type": "Pokemon",
     "cardName": "大比鸟ex",
@@ -4527,10 +4527,10 @@
     "ename": "Pidgeot ex",
     "series": "SV3",
     "cardNo": "225",
-    "isHide": true
+    "isHide": false
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/OBF/OBF_226_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008733.png",
     "type": "Trainers",
     "cardName": "也慈",
     "skillList": [
@@ -4551,10 +4551,10 @@
     "ename": "Geeta",
     "series": "SV3",
     "cardNo": "226",
-    "isHide": true
+    "isHide": false
   },
   {
-    "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/OBF/OBF_227_R_EN.png",
+    "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00008734.png",
     "type": "Trainers",
     "cardName": "波琵",
     "skillList": [
@@ -4571,7 +4571,7 @@
     "ename": "Poppy",
     "series": "SV3",
     "cardNo": "227",
-    "isHide": true
+    "isHide": false
   },
   {
     "imgUrl": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/OBF/OBF_228_R_EN.png",

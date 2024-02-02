@@ -18,6 +18,20 @@
 			<div class="item" @click="showDet(item)">
 				<div class="picwp">
 					<image src="../../../common/img/tcg-card-back.jpg" mode="widthFix" class="cback"></image>
+					<div class="prshow">
+						<div class="skill" v-if="!/^(基本).*?(能量)$/.test(item.cardName)">
+							<template v-for="skill in item.skillList" :key="skill.name">
+								<div class="sitem" v-if="!/太晶/g.test(skill.name) && !/规则/g.test(skill.name)">
+									<div class="sname" :class="{
+										tera: /太晶/g.test(skill.name), 
+										ability: /特性/g.test(skill.name),
+										grule: /规则/g.test(skill.name),
+										vstar: /VSTAR力量/g.test(skill.name)}">{{ skill.name }}</div>
+									<div class="sdet">{{ skill.effect == '' ? '-' : skill.effect}}</div>
+								</div>
+							</template>
+						</div>
+					</div>
 					<image :src="item.imgUrl" lazy-load mode="heightFix" class="img"></image>
 					<!-- <image :src="item.enImgUrl" lazy-load mode="heightFix" class="img"></image> -->
 					<div class="series">{{ item.series }}{{ item?.artList?.length > 0 ? `|${item.artList.length}` : '' }}</div>
@@ -99,9 +113,10 @@
 <script setup>
 	import emptyList from '../../../components/emptyList/index.vue'
 	import copyRight from '../../../components/copyright/index.vue'
+	import { returnSerDetList } from '../../untils/seriesList.js'
+	import { returnPMType } from '../../untils/returnCHN'
 	import { ref } from 'vue'
   import { onLoad } from '@dcloudio/uni-app'
-	import { returnPMType } from './js/returnCHN'
 
 	const typeList = returnPMType('all');
 
@@ -124,26 +139,11 @@
 		sno.value = options.no;
 		serName.value = decodeURIComponent(options.sname);
 		scode.value = options.code;
-		switch(sno.value) {
-			case 'SV4.5': import('./json/SV4_5.json').then((res) => {getData(res)}); break;
-			case 'SV4': import('./json/SV4.json').then((res) => {getData(res)}); break;
-			case 'SV3.5': import('./json/SV3_5.json').then((res) => {getData(res)}); break;
-			case 'SV3': import('./json/SV3.json').then((res) => {getData(res)}); break;
-			case 'SV2': import('./json/SV2.json').then((res) => {getData(res)}); break;
-			case 'SV1': import('./json/SV1.json').then((res) => {getData(res)}); break;
-			case 'SS12.5': import('./json/SS12_5.json').then((res) => {getData(res)}); break;
-			case 'SS12': import('./json/SS12.json').then((res) => {getData(res)}); break;
-			case 'SS11': import('./json/SS11.json').then((res) => {getData(res)}); break;
-			case 'SS10.5': import('./json/SS10_5.json').then((res) => {getData(res)}); break;
-			case 'SS10': import('./json/SS10.json').then((res) => {getData(res)}); break;
-			case 'SS9': import('./json/SS9.json').then((res) => {getData(res)}); break;
-			case 'SS8': import('./json/SS8.json').then((res) => {getData(res)}); break;
-			case 'SS7.5': import('./json/SS7_5.json').then((res) => {getData(res)}); break;
-			case 'SS7': import('./json/SS7.json').then((res) => {getData(res)}); break;
-			case 'SS6': import('./json/SS6.json').then((res) => {getData(res)}); break;
-			case 'SS5': import('./json/SS5.json').then((res) => {getData(res)}); break;
-			default: isLoading.value = false; break
-		}
+		returnSerDetList(sno.value, function(res){
+			getData(res)
+		}, function(){
+			isLoading.value = false
+		})
 	})
 
 	const getData = (res) => {
@@ -164,7 +164,7 @@
 		})
 		isLoading.value = false;
 		setTimeout(function () {
-			uni.hideLoading();
+			uni.hideLoading()
 		}, 1000);
 	}
 
@@ -174,7 +174,7 @@
 			mask: true
 		});
 		setTimeout(function () {
-			uni.hideLoading();
+			uni.hideLoading()
 		}, duration);
 	}
   
@@ -318,7 +318,7 @@
 					width: 100%;
 					border-radius: 20rpx;
 					display: block;
-					opacity: .5;
+					opacity: .3;
 				}
 				.img{
 					position: absolute;
@@ -328,6 +328,41 @@
 					height: 100%;
 					border-radius: 15rpx;
 					display: block;
+				}
+				.prshow{
+					position: absolute;
+					top: 0;
+					left: 0;
+					width: 100%;
+					height: 100%;
+					overflow-y: scroll;
+					.skill{
+						.sitem{
+							margin: 10rpx 0;
+							padding: 0 5%;
+							text-align: left;
+							&:last-of-type{
+								margin-bottom: 0;
+							}
+							.sname{
+								color: #333;
+								font-weight: 700;
+								text-decoration: underline;
+							}
+							.tera{
+								color: #00a6da;
+							}
+							.ability{
+								color: #ce2a2c
+							}
+							.grule{
+								color: #16baaa
+							}
+							.vstar{
+								color: #635811;
+							}
+						}
+					}
 				}
 			}
 			.name{
@@ -452,7 +487,9 @@
 						margin-bottom: 0;
 					}
 					.sname{
-						color: #999
+						color: #333;
+						font-weight: 700;
+						text-decoration: underline;
 					}
 					.tera{
 						color: #00a6da;
