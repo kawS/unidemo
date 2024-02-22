@@ -9,7 +9,7 @@
 </script>
 <style scoped lang="scss">
   .empty{
-		padding: 150rpx 0 0;
+		padding: 150rpx 0;
 		text-align: center;
 		color: #ccc;
 		.img{

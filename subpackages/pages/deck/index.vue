@@ -479,16 +479,6 @@
 			}
 		}
 	}
-	.empty{
-		padding: 150rpx 0 0;
-		text-align: center;
-		color: #ccc;
-		.img{
-			margin: 0 auto 20rpx;
-			width: 266rpx;
-			display: block;
-		}
-	}
 	.deckCode{
 		position: relative;
 		margin: 0 auto;
