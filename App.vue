@@ -16,6 +16,7 @@
 
 <style>
 	@import url(./common/css/animate.min.css);
+	@import url(./common/css/font/chakrapetch.css);
 	/*每个页面公共css */
 	body{
 		background: #f7f7f7;

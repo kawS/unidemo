@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "DBS CG Fusion World",
+  "usingComponents": {
+    "empty-list": "../components/emptyList/index",
+    "copy-right": "../components/copyright/index"
+  }
+}

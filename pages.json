@@ -6,7 +6,7 @@
 	],
 	"subpackages": [
 		{
-			"root": "subpackages",
+			"root": "subpackagesPtcg",
 			"pages": [
 				{
 					"path": "pages/seriesDet/index"
@@ -16,6 +16,29 @@
 				},
 				{
 					"path": "pages/deck/index"
+				}
+			]
+		},
+		{
+			"root": "subpackagesDBSFW",
+			"pages": [
+				{
+					"path": "pages/index/index",
+					"style": {
+						"navigationBarTitleText": "DBS CG Fusion World"
+					}
+				},
+				{
+					"path": "pages/list/index",
+					"style": {
+						"navigationBarTitleText": "DBS CG Fusion World"
+					}
+				},
+				{
+					"path": "pages/search/index",
+					"style": {
+						"navigationBarTitleText": "DBS CG Fusion World"
+					}
 				}
 			]
 		}

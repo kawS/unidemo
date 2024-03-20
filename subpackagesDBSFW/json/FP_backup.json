@@ -1,0 +1,1505 @@
+[
+  {
+    "series": "FP",
+    "no": "FP-001",
+    "rarity": "PR",
+    "name": [
+      "Son Goku"
+    ],
+    "img": [
+      "https://dbs-cardgame.com/fw/images/cards/card/en/FP-001.webp"
+    ],
+    "type": "BATTLE",
+    "color": "Red",
+    "cost": "2",
+    "specifiedCost": "R",
+    "power": [
+      "20000"
+    ],
+    "comboPower": "5000",
+    "features": "Saiyan",
+    "effect": [
+      [
+        "<span style=\"background: #c74695; color: #fff\">[永续]</span> 我方LEADER觉醒的场合，这张卡的力量+5000"
+      ],
+      [
+        "<span style=\"background: #c74695; color: #fff\">[Permanent]</span> If your Leader is awakened, this card gets +5000 power."
+      ]
+    ],
+    "productName": "Promotion Pack vol.1",
+    "isSwitch": "-1",
+    "isShow": "1"
+  },
+  {
+    "series": "FP",
+    "no": "FP-002",
+    "rarity": "PR",
+    "name": [
+      "Vegeta"
+    ],
+    "img": [
+      "https://dbs-cardgame.com/fw/images/cards/card/en/FP-002.webp"
+    ],
+    "type": "BATTLE",
+    "color": "Blue",
+    "cost": "3",
+    "specifiedCost": "U",
+    "power": [
+      "20000"
+    ],
+    "comboPower": "10000",
+    "features": "Saiyan",
+    "effect": [
+      [        
+        "<span style=\"background: #db8b03; color: #fff\">[起动主要]</span><span style=\"background: #c04256; color: #fff\">[1回合1次]</span> 弃置我方1张手牌：本回合中，这张卡的力量+15000"
+      ],
+      [
+        "<span style=\"background: #db8b03; color: #fff\">[Activate Main]</span><span style=\"background: #c04256; color: #fff\">[Once per turn]</span> Discard 1 card from your hand : This card gets +15000 power for the turn."
+      ]
+    ],
+    "productName": "Promotion Pack vol.1",
+    "isSwitch": "-1",
+    "isShow": "1"
+  },
+  {
+    "series": "FP",
+    "no": "FP-003",
+    "rarity": "PR",
+    "name": [
+      "Broly"
+    ],
+    "img": [
+      "https://dbs-cardgame.com/fw/images/cards/card/en/FP-003.webp"
+    ],
+    "type": "BATTLE",
+    "color": "Green",
+    "cost": "6",
+    "specifiedCost": "G",
+    "power": [
+      "40000"
+    ],
+    "comboPower": "5000",
+    "features": "Saiyan",
+    "effect": [
+      [
+        "<span style=\"background: #7a4480; color: #fff\">[暴击]</span> (这张卡的攻击造成伤害时，将那张生命卡弃置)"
+      ],
+      [
+        "<span style=\"background: #7a4480; color: #fff\">[Critical]</span> (When this card inflicts damage with an attack, the life is placed in the Drop.)"
+      ]
+    ],
+    "productName": "Promotion Pack vol.1",
+    "isSwitch": "-1",
+    "isShow": "1"
+  },
+  {
+    "series": "FP",
+    "no": "FP-004",
+    "rarity": "PR",
+    "name": [
+      "Frieza"
+    ],
+    "img": [
+      "https://dbs-cardgame.com/fw/images/cards/card/en/FP-004.webp"
+    ],
+    "type": "BATTLE",
+    "color": "Yellow",
+    "cost": "2",
+    "specifiedCost": "Y",
+    "power": [
+      "15000"
+    ],
+    "comboPower": "10000",
+    "features": "FriezaClan/Frieza’sArmy",
+    "effect": [
+      [
+        "<span style=\"background: #7a4480; color: #fff\">[阻挡者]</span> (对方攻击后，可以将此卡牌转为休息状态，并将攻击对象改为此卡牌)",
+        "<span style=\"background: #5475b2; color: #fff\">[阻挡时]</span> 将对方1张费用2以下的BATTLE卡转为休息状态。"
+      ],
+      [
+        "<span style=\"background: #7a4480; color: #fff\">[Blocker]</span> (After an opponent’s attack, you may switch this card to Rest Mode and change the target of the attack to this card.)",
+        "<span style=\"background: #5475b2; color: #fff\">[When Blocking]</span> Choose up to 1 of your opponent’s Battle Cards with a cost of 2 or less and switch it to Rest Mode."
+      ]
+    ],
+    "productName": "Promotion Pack vol.1",
+    "isSwitch": "-1",
+    "isShow": "1"
+  },
+  {
+    "series": "FP",
+    "no": "FP-005",
+    "rarity": "PR",
+    "name": [
+      "Awakening to Super Saiyan"
+    ],
+    "img": [
+      "https://dbs-cardgame.com/fw/images/cards/card/en/FP-005.webp"
+    ],
+    "type": "EXTRA",
+    "color": "Red",
+    "cost": "2",
+    "specifiedCost": "R",
+    "power": [
+      "-"
+    ],
+    "comboPower": "-",
+    "features": "Saiyan",
+    "effect": [
+      [
+        "<span style=\"background: #db8b03; color: #fff\">[起动主要]</span> 选择对方的1张BATTLE卡，本回合中，力量-15000。之后，我方LEADER觉醒的场合，本回合中，那张卡力量-10000。"
+      ],
+      [
+        "<span style=\"background: #db8b03; color: #fff\">[Activate Main]</span> Choose up to 1 of your opponent’s Battle Cards and it gets -15000 power for the turn. Then, if your Leader is awakened, the chosen card gets -10000 power for the turn."
+      ]
+    ],
+    "productName": "Promotion Pack vol.1",
+    "isSwitch": "-1",
+    "isShow": "1"
+  },
+  {
+    "series": "FP",
+    "no": "FP-001",
+    "rarity": "PR",
+    "name": [
+      "Son Goku"
+    ],
+    "img": [
+      "https://dbs-cardgame.com/fw/images/cards/card/en/FP-001_p1.webp"
+    ],
+    "type": "BATTLE",
+    "color": "Red",
+    "cost": "2",
+    "specifiedCost": "R",
+    "power": [
+      "20000"
+    ],
+    "comboPower": "5000",
+    "features": "Saiyan",
+    "effect": [
+      [
+        "<span style=\"background: #c74695; color: #fff\">[Permanent]</span> If your Leader is awakened, this card gets +5000 power."
+      ]
+    ],
+    "productName": "Top event winners",
+    "isSwitch": "-1",
+    "isShow": "1"
+  },
+  {
+    "series": "FP",
+    "no": "FP-006",
+    "rarity": "PR",
+    "name": [
+      "Son Goku"
+    ],
+    "img": [
+      "https://dbs-cardgame.com/fw/images/cards/card/en/FP-006.webp"
+    ],
+    "type": "BATTLE",
+    "color": "Red",
+    "cost": "2",
+    "specifiedCost": "R",
+    "power": [
+      "20000"
+    ],
+    "comboPower": "5000",
+    "features": "Saiyan/Universe7",
+    "effect": [
+      [
+        "<span style=\"background: #5475b2; color: #fff\">[攻击时]</span> KO对方1张力量10000以下的BATTLE卡。"
+      ],
+      [
+        "<span style=\"background: #5475b2; color: #fff\">[When Attacking]</span> Choose up to 1 of your opponent’s Battle Cards with 10000 power or less and KO it."
+      ]
+    ],
+    "productName": "Celebration Event Participation",
+    "isSwitch": "-1",
+    "isShow": "1"
+  },
+  {
+    "series": "FP",
+    "no": "FP-006",
+    "rarity": "PR",
+    "name": [
+      "Son Goku"
+    ],
+    "img": [
+      "https://dbs-cardgame.com/fw/images/cards/card/en/FP-006_p1.webp"
+    ],
+    "type": "BATTLE",
+    "color": "Red",
+    "cost": "2",
+    "specifiedCost": "R",
+    "power": [
+      "20000"
+    ],
+    "comboPower": "5000",
+    "features": "Saiyan/Universe7",
+    "effect": [
+      [
+        "<span style=\"background: #5475b2; color: #fff\">[When Attacking]</span> Choose up to 1 of your opponent’s Battle Cards with 10000 power or less and KO it."
+      ]
+    ],
+    "productName": "Celebration Event WINNER",
+    "isSwitch": "-1",
+    "isShow": "1"
+  },
+  {
+    "series": "FP",
+    "no": "FP-007",
+    "rarity": "PR",
+    "name": [
+      "Vegeta"
+    ],
+    "img": [
+      "https://dbs-cardgame.com/fw/images/cards/card/en/FP-007.webp"
+    ],
+    "type": "BATTLE",
+    "color": "Blue",
+    "cost": "2",
+    "specifiedCost": "U",
+    "power": [
+      "20000"
+    ],
+    "comboPower": "-",
+    "features": "Saiyan",
+    "effect": [
+      [
+        "<span style=\"background: #5475b2; color: #fff\">[登场时]</span> 我方的手牌7张以下的场合，将对方1张费用2以下BATTLE卡返回手牌。"
+      ],
+      [
+        "<span style=\"background: #5475b2; color: #fff\">[On Play]</span> If you have 7 or fewer cards in your hand, choose up to 1 of your opponent’s Battle Cards with a cost of 2 or less and return it to its owner’s hand."
+      ]
+    ],
+    "productName": "Celebration Event Participation",
+    "isSwitch": "-1",
+    "isShow": "1"
+  },
+  {
+    "series": "FP",
+    "no": "FP-007",
+    "rarity": "PR",
+    "name": [
+      "Vegeta"
+    ],
+    "img": [
+      "https://dbs-cardgame.com/fw/images/cards/card/en/FP-007_p1.webp"
+    ],
+    "type": "BATTLE",
+    "color": "Blue",
+    "cost": "2",
+    "specifiedCost": "U",
+    "power": [
+      "20000"
+    ],
+    "comboPower": "-",
+    "features": "Saiyan",
+    "effect": [
+      [
+        "<span style=\"background: #5475b2; color: #fff\">[On Play]</span> If you have 7 or fewer cards in your hand, choose up to 1 of your opponent’s Battle Cards with a cost of 2 or less and return it to its owner’s hand."
+      ]
+    ],
+    "productName": "Celebration Event WINNER",
+    "isSwitch": "-1",
+    "isShow": "1"
+  },
+  {
+    "series": "FP",
+    "no": "FP-008",
+    "rarity": "PR",
+    "name": [
+      "Son Goku"
+    ],
+    "img": [
+      "https://dbs-cardgame.com/fw/images/cards/card/en/FP-008.webp"
+    ],
+    "type": "BATTLE",
+    "color": "Green",
+    "cost": "4",
+    "specifiedCost": "GGG",
+    "power": [
+      "25000"
+    ],
+    "comboPower": "10000",
+    "features": "Saiyan",
+    "effect": [
+      [
+        "<span style=\"background: #5475b2; color: #fff\">[登场时]</span> 将我方的1张手牌放入能量区。"
+      ],
+      [
+        "<span style=\"background: #5475b2; color: #fff\">[On Play]</span> Add up to 1 card from your hand to your energy."
+      ]
+    ],
+    "productName": "Pre-Release Tournament Participation",
+    "isSwitch": "-1",
+    "isShow": "1"
+  },
+  {
+    "series": "FP",
+    "no": "FP-008",
+    "rarity": "PR",
+    "name": [
+      "Son Goku"
+    ],
+    "img": [
+      "https://dbs-cardgame.com/fw/images/cards/card/en/FP-008_p1.webp"
+    ],
+    "type": "BATTLE",
+    "color": "Green",
+    "cost": "4",
+    "specifiedCost": "GGG",
+    "power": [
+      "25000"
+    ],
+    "comboPower": "10000",
+    "features": "Saiyan",
+    "effect": [
+      [
+        "<span style=\"background: #5475b2; color: #fff\">[On Play]</span> Add up to 1 card from your hand to your energy."
+      ]
+    ],
+    "productName": "Pre-Release Tournament WINNER",
+    "isSwitch": "-1",
+    "isShow": "1"
+  },
+  {
+    "series": "FP",
+    "no": "FS01-06",
+    "rarity": "C",
+    "name": [
+      "Android 17"
+    ],
+    "img": [
+      "https://dbs-cardgame.com/fw/images/cards/card/en/FS01-06_p1.webp"
+    ],
+    "type": "BATTLE",
+    "color": "Red",
+    "cost": "3",
+    "specifiedCost": "R",
+    "power": [
+      "20000"
+    ],
+    "comboPower": "10000",
+    "features": "Android/Universe7",
+    "effect": [
+      [
+        "<span style=\"background: #c74695; color: #fff\">[Permanent]</span><span style=\"background: #c04256; color: #fff\">[Opponent's Turn]</span> This card gets +5000 power.",
+        "<span style=\"background: #5475b2; color: #fff\">[On Play]</span> Add up to 1 card from your life to your hand."
+      ]
+    ],
+    "productName": "Tournament Pack01",
+    "isSwitch": "-1",
+    "isShow": "1"
+  },
+  {
+    "series": "FP",
+    "no": "FB01-005",
+    "rarity": "PR",
+    "name": [
+      "Master Roshi"
+    ],
+    "img": [
+      "https://dbs-cardgame.com/fw/images/cards/card/en/FB01-005_p1.webp"
+    ],
+    "type": "BATTLE",
+    "color": "Red",
+    "cost": "1",
+    "specifiedCost": "R",
+    "power": [
+      "5000"
+    ],
+    "comboPower": "10000",
+    "features": "Earthling/Universe7",
+    "effect": [
+      [
+        "<span style=\"background: #db8b03; color: #fff\">[Activate Main]</span><span style=\"background: #c04256; color: #fff\">[Once per turn]</span> Add 1 card from your life to your hand : During this turn, the next time you use an Extra from your hand, reduce the cost by (Red)."
+      ]
+    ],
+    "productName": "Tournament Pack01",
+    "isSwitch": "-1",
+    "isShow": "1"
+  },
+  {
+    "series": "FP",
+    "no": "FB01-049",
+    "rarity": "PR",
+    "name": [
+      "Trunks : Future"
+    ],
+    "img": [
+      "https://dbs-cardgame.com/fw/images/cards/card/en/FB01-049_p1.webp"
+    ],
+    "type": "BATTLE",
+    "color": "Blue",
+    "cost": "2",
+    "specifiedCost": "U",
+    "power": [
+      "30000"
+    ],
+    "comboPower": "10000",
+    "features": "Saiyan/Earthling",
+    "effect": [
+      [
+        "<span style=\"background: #5475b2; color: #fff\">[When Attacking]</span> At the end of the turn, place this card at the bottom of your deck."
+      ]
+    ],
+    "productName": "Tournament Pack01",
+    "isSwitch": "-1",
+    "isShow": "1"
+  },
+  {
+    "series": "FP",
+    "no": "FB01-057",
+    "rarity": "PR",
+    "name": [
+      "Bulma"
+    ],
+    "img": [
+      "https://dbs-cardgame.com/fw/images/cards/card/en/FB01-057_p1.webp"
+    ],
+    "type": "BATTLE",
+    "color": "Blue",
+    "cost": "1",
+    "specifiedCost": "U",
+    "power": [
+      "5000"
+    ],
+    "comboPower": "5000",
+    "features": "Earthling",
+    "effect": [
+      [
+        "<span style=\"background: #db8b03; color: #fff\">[Activate Main]</span><span style=\"background: #c04256; color: #fff\">[Once per turn]</span> If you have 7 or fewer cards in your hand, during this turn, the next time you use an Extra from your hand, reduce the cost by (Blue)."
+      ]
+    ],
+    "productName": "Tournament Pack01",
+    "isSwitch": "-1",
+    "isShow": "1"
+  },
+  {
+    "series": "FP",
+    "no": "FB01-087",
+    "rarity": "PR",
+    "name": [
+      "Son Goku"
+    ],
+    "img": [
+      "https://dbs-cardgame.com/fw/images/cards/card/en/FB01-087_p1.webp"
+    ],
+    "type": "BATTLE",
+    "color": "Green",
+    "cost": "5",
+    "specifiedCost": "GGG",
+    "power": [
+      "25000"
+    ],
+    "comboPower": "5000",
+    "features": "Saiyan",
+    "effect": [
+      [
+        "<span style=\"background: #5475b2; color: #fff\">[Auto]</span> When this card is played or when a card is placed in your Drop from your energy, add the top card of your deck to your energy in Rest Mode."
+      ]
+    ],
+    "productName": "Tournament Pack01",
+    "isSwitch": "-1",
+    "isShow": "1"
+  },
+  {
+    "series": "FP",
+    "no": "FB01-088",
+    "rarity": "PR",
+    "name": [
+      "Son Gohan : Childhood"
+    ],
+    "img": [
+      "https://dbs-cardgame.com/fw/images/cards/card/en/FB01-088_p1.webp"
+    ],
+    "type": "BATTLE",
+    "color": "Green",
+    "cost": "1",
+    "specifiedCost": "G",
+    "power": [
+      "5000"
+    ],
+    "comboPower": "5000",
+    "features": "Saiyan/Earthling",
+    "effect": [
+      [
+        "<span style=\"background: #5475b2; color: #fff\">[On Play]</span> Look at 3 cards from the top of your deck, then reveal up to 1 card with a cost of 5 or less and 《Saiyan》 in its special traits and add it to your hand. Place the rest at the bottom of your deck in a random order."
+      ]
+    ],
+    "productName": "Tournament Pack01",
+    "isSwitch": "-1",
+    "isShow": "1"
+  },
+  {
+    "series": "FP",
+    "no": "FB01-124",
+    "rarity": "PR",
+    "name": [
+      "Neiz"
+    ],
+    "img": [
+      "https://dbs-cardgame.com/fw/images/cards/card/en/FB01-124_p1.webp"
+    ],
+    "type": "BATTLE",
+    "color": "Yellow",
+    "cost": "2",
+    "specifiedCost": "Y",
+    "power": [
+      "20000"
+    ],
+    "comboPower": "10000",
+    "features": "Cooler'sArmoredSquadron",
+    "effect": [
+      [
+        "<span style=\"background: #7a4480; color: #fff\">[Blocker]</span> (After an opponent's attack, you may switch this card to Rest Mode and change the target of the attack to this card.)",
+        "<span style=\"background: #5475b2; color: #fff\">[On Play]</span> Add 1 card from your life to your hand."
+      ]
+    ],
+    "productName": "Tournament Pack01",
+    "isSwitch": "-1",
+    "isShow": "1"
+  },
+  {
+    "series": "FP",
+    "no": "FB01-128",
+    "rarity": "PR",
+    "name": [
+      "Frieza"
+    ],
+    "img": [
+      "https://dbs-cardgame.com/fw/images/cards/card/en/FB01-128_p1.webp"
+    ],
+    "type": "BATTLE",
+    "color": "Yellow",
+    "cost": "2",
+    "specifiedCost": "Y",
+    "power": [
+      "15000"
+    ],
+    "comboPower": "10000",
+    "features": "FriezaClan/Frieza'sArmy",
+    "effect": [
+      [
+        "<span style=\"background: #db8b03; color: #fff\">[Activate Main]</span> Switch this card to Rest Mode : Play up to 1 Battle Card with a cost of 1 or less and 《Frieza's Army》 in its special traits from your hand."
+      ]
+    ],
+    "productName": "Tournament Pack01",
+    "isSwitch": "-1",
+    "isShow": "1"
+  },
+  {
+    "series": "FP",
+    "no": "FS01-06",
+    "rarity": "C",
+    "name": [
+      "Android 17"
+    ],
+    "img": [
+      "https://dbs-cardgame.com/fw/images/cards/card/en/FS01-06_p2.webp"
+    ],
+    "type": "BATTLE",
+    "color": "Red",
+    "cost": "3",
+    "specifiedCost": "R",
+    "power": [
+      "20000"
+    ],
+    "comboPower": "10000",
+    "features": "Android/Universe7",
+    "effect": [
+      [
+        "<span style=\"background: #c74695; color: #fff\">[Permanent]</span><span style=\"background: #c04256; color: #fff\">[Opponent's Turn]</span> This card gets +5000 power.",
+        "<span style=\"background: #5475b2; color: #fff\">[On Play]</span> Add up to 1 card from your life to your hand."
+      ]
+    ],
+    "productName": "Tournament Pack01 WINNER",
+    "isSwitch": "-1",
+    "isShow": "1"
+  },
+  {
+    "series": "FP",
+    "no": "FB01-049",
+    "rarity": "PR",
+    "name": [
+      "Trunks : Future"
+    ],
+    "img": [
+      "https://dbs-cardgame.com/fw/images/cards/card/en/FB01-049_p2.webp"
+    ],
+    "type": "BATTLE",
+    "color": "Blue",
+    "cost": "2",
+    "specifiedCost": "U",
+    "power": [
+      "30000"
+    ],
+    "comboPower": "10000",
+    "features": "Saiyan/Earthling",
+    "effect": [
+      [
+        "<span style=\"background: #5475b2; color: #fff\">[When Attacking]</span> At the end of the turn, place this card at the bottom of your deck."
+      ]
+    ],
+    "productName": "Tournament Pack01 WINNER",
+    "isSwitch": "-1",
+    "isShow": "1"
+  },
+  {
+    "series": "FP",
+    "no": "FB01-087",
+    "rarity": "PR",
+    "name": [
+      "Son Goku"
+    ],
+    "img": [
+      "https://dbs-cardgame.com/fw/images/cards/card/en/FB01-087_p2.webp"
+    ],
+    "type": "BATTLE",
+    "color": "Green",
+    "cost": "5",
+    "specifiedCost": "GGG",
+    "power": [
+      "25000"
+    ],
+    "comboPower": "5000",
+    "features": "Saiyan",
+    "effect": [
+      [
+        "<span style=\"background: #5475b2; color: #fff\">[Auto]</span> When this card is played or when a card is placed in your Drop from your energy, add the top card of your deck to your energy in Rest Mode."
+      ]
+    ],
+    "productName": "Tournament Pack01 WINNER",
+    "isSwitch": "-1",
+    "isShow": "1"
+  },
+  {
+    "series": "FP",
+    "no": "FB01-128",
+    "rarity": "PR",
+    "name": [
+      "Frieza"
+    ],
+    "img": [
+      "https://dbs-cardgame.com/fw/images/cards/card/en/FB01-128_p2.webp"
+    ],
+    "type": "BATTLE",
+    "color": "Yellow",
+    "cost": "2",
+    "specifiedCost": "Y",
+    "power": [
+      "15000"
+    ],
+    "comboPower": "10000",
+    "features": "FriezaClan/Frieza'sArmy",
+    "effect": [
+      [
+        "<span style=\"background: #db8b03; color: #fff\">[Activate Main]</span> Switch this card to Rest Mode : Play up to 1 Battle Card with a cost of 1 or less and 《Frieza's Army》 in its special traits from your hand."
+      ]
+    ],
+    "productName": "Tournament Pack01 WINNER",
+    "isSwitch": "-1",
+    "isShow": "1"
+  },
+  {
+    "series": "FP",
+    "no": "FS01-02",
+    "rarity": "PR",
+    "name": [
+      "Whis"
+    ],
+    "img": [
+      "https://dbs-cardgame.com/fw/images/cards/card/en/FS01-02_p1.webp"
+    ],
+    "type": "BATTLE",
+    "color": "Red",
+    "cost": "1",
+    "specifiedCost": "R",
+    "power": [
+      "5000"
+    ],
+    "comboPower": "10000",
+    "features": "Angel/Universe7",
+    "effect": [
+      [
+        "<span style=\"background: #5475b2; color: #fff\">[On Play]</span> Choose up to 1 of your opponent's Battle Cards and it gets -5000 power for the turn."
+      ]
+    ],
+    "productName": "STARTER DECK -SON GOKU- Bonus pack",
+    "isSwitch": "-1",
+    "isShow": "1"
+  },
+  {
+    "series": "FP",
+    "no": "FS01-04",
+    "rarity": "PR",
+    "name": [
+      "Krillin"
+    ],
+    "img": [
+      "https://dbs-cardgame.com/fw/images/cards/card/en/FS01-04_p1.webp"
+    ],
+    "type": "BATTLE",
+    "color": "Red",
+    "cost": "2",
+    "specifiedCost": "R",
+    "power": [
+      "15000"
+    ],
+    "comboPower": "10000",
+    "features": "Earthling/Universe7",
+    "effect": [
+      [
+        "<span style=\"background: #c74695; color: #fff\">[Permanent]</span><span style=\"background: #c04256; color: #fff\">[Your Turn]</span> This card gets +5000 power.",
+        "<span style=\"background: #5475b2; color: #fff\">[On Play]</span> Add up to 1 card from your life to your hand."
+      ]
+    ],
+    "productName": "STARTER DECK -SON GOKU- Bonus pack",
+    "isSwitch": "-1",
+    "isShow": "1"
+  },
+  {
+    "series": "FP",
+    "no": "FS01-05",
+    "rarity": "PR",
+    "name": [
+      "Shin"
+    ],
+    "img": [
+      "https://dbs-cardgame.com/fw/images/cards/card/en/FS01-05_p1.webp"
+    ],
+    "type": "BATTLE",
+    "color": "Red",
+    "cost": "7",
+    "specifiedCost": "R",
+    "power": [
+      "15000"
+    ],
+    "comboPower": "10000",
+    "features": "SupremeKai/Universe7",
+    "effect": [
+      [
+        "<span style=\"background: #7a4480; color: #fff\">[Super Combo]</span> (A maximum of 4 cards with <span style=\"background: #7a4480; color: #fff\">[Super Combo]</span> can be placed in a deck.)",
+        "<span style=\"background: #5475b2; color: #fff\">[Auto]</span><span style=\"background: #c04256; color: #fff\">[Opponent's Turn]</span> When you use this card in a combo from your hand, this card gets +10000 combo power."
+      ]
+    ],
+    "productName": "STARTER DECK -SON GOKU- Bonus pack",
+    "isSwitch": "-1",
+    "isShow": "1"
+  },
+  {
+    "series": "FP",
+    "no": "FS01-08",
+    "rarity": "PR",
+    "name": [
+      "Son Goku"
+    ],
+    "img": [
+      "https://dbs-cardgame.com/fw/images/cards/card/en/FS01-08_p1.webp"
+    ],
+    "type": "BATTLE",
+    "color": "Red",
+    "cost": "5",
+    "specifiedCost": "RR",
+    "power": [
+      "35000"
+    ],
+    "comboPower": "-",
+    "features": "Saiyan/Universe7",
+    "effect": [
+      [
+        "<span style=\"background: #7a4480; color: #fff\">[Double Strike]</span> (This card inflicts 2 damage instead of 1 when attacking.)",
+        "<span style=\"background: #5475b2; color: #fff\">[On Play]</span> Choose up to 1 of your opponent's Battle Cards and it gets -20000 power for the turn."
+      ]
+    ],
+    "productName": "STARTER DECK -SON GOKU- Bonus pack",
+    "isSwitch": "-1",
+    "isShow": "1"
+  },
+  {
+    "series": "FP",
+    "no": "FS01-09",
+    "rarity": "PR",
+    "name": [
+      "Son Gohan : Adolescence"
+    ],
+    "img": [
+      "https://dbs-cardgame.com/fw/images/cards/card/en/FS01-09_p1.webp"
+    ],
+    "type": "BATTLE",
+    "color": "Red",
+    "cost": "4",
+    "specifiedCost": "RR",
+    "power": [
+      "25000"
+    ],
+    "comboPower": "5000",
+    "features": "Saiyan/Earthling/Universe7",
+    "effect": [
+      [
+        "<span style=\"background: #7a4480; color: #fff\">[Critical]</span> (When this card inflicts damage with an attack, the life is placed in the Drop.)",
+        "<span style=\"background: #5475b2; color: #fff\">[When Attacking]</span> Choose up to 1 of your opponent's Battle Cards and it gets -10000 power for the turn."
+      ]
+    ],
+    "productName": "STARTER DECK -SON GOKU- Bonus pack",
+    "isSwitch": "-1",
+    "isShow": "1"
+  },
+  {
+    "series": "FP",
+    "no": "FS01-15",
+    "rarity": "PR",
+    "name": [
+      "Kamehameha"
+    ],
+    "img": [
+      "https://dbs-cardgame.com/fw/images/cards/card/en/FS01-15_p1.webp"
+    ],
+    "type": "EXTRA",
+    "color": "Red",
+    "cost": "1",
+    "specifiedCost": "R",
+    "power": [
+      "-"
+    ],
+    "comboPower": "-",
+    "features": "Saiyan",
+    "effect": [
+      [
+        "<span style=\"background: #db8b03; color: #fff\">[Activate Battle]</span> Choose your Leader or up to 1 of your Battle Cards and it gets +15000 power for the battle. Then, choose up to 1 of your opponent's Battle Cards and it gets -5000 power for the turn."
+      ]
+    ],
+    "productName": "STARTER DECK -SON GOKU- Bonus pack",
+    "isSwitch": "-1",
+    "isShow": "1"
+  },
+  {
+    "series": "FP",
+    "no": "FS01-16",
+    "rarity": "PR",
+    "name": [
+      "God Kamehameha"
+    ],
+    "img": [
+      "https://dbs-cardgame.com/fw/images/cards/card/en/FS01-16_p1.webp"
+    ],
+    "type": "EXTRA",
+    "color": "Red",
+    "cost": "2",
+    "specifiedCost": "R",
+    "power": [
+      "-"
+    ],
+    "comboPower": "-",
+    "features": "Saiyan",
+    "effect": [
+      [
+        "<span style=\"background: #c74695; color: #fff\">[Permanent]</span> If you have no Battle Cards, reduce the cost of this card in your hand by 1.",
+        "<span style=\"background: #db8b03; color: #fff\">[Activate Main]</span> Choose up to 1 of your opponent's Battle Cards with 30000 power or less and KO it."
+      ]
+    ],
+    "productName": "STARTER DECK -SON GOKU- Bonus pack",
+    "isSwitch": "-1",
+    "isShow": "1"
+  },
+  {
+    "series": "FP",
+    "no": "FS02-03",
+    "rarity": "PR",
+    "name": [
+      "Gotenks"
+    ],
+    "img": [
+      "https://dbs-cardgame.com/fw/images/cards/card/en/FS02-03_p1.webp"
+    ],
+    "type": "BATTLE",
+    "color": "Blue",
+    "cost": "4",
+    "specifiedCost": "UU",
+    "power": [
+      "25000"
+    ],
+    "comboPower": "5000",
+    "features": "Saiyan/Earthling",
+    "effect": [
+      [
+        "<span style=\"background: #5475b2; color: #fff\">[On Play]</span> If you have 7 or fewer cards in your hand, add up to 1 &lt;Son Goten&gt; and up to 1 &lt;Trunks : Youth&gt;―both with a cost of 2 or less―from your Drop to your hand."
+      ]
+    ],
+    "productName": "STARTER DECK -VEGETA- Bonus pack",
+    "isSwitch": "-1",
+    "isShow": "1"
+  },
+  {
+    "series": "FP",
+    "no": "FS02-06",
+    "rarity": "PR",
+    "name": [
+      "Son Goten"
+    ],
+    "img": [
+      "https://dbs-cardgame.com/fw/images/cards/card/en/FS02-06_p1.webp"
+    ],
+    "type": "BATTLE",
+    "color": "Blue",
+    "cost": "2",
+    "specifiedCost": "U",
+    "power": [
+      "15000"
+    ],
+    "comboPower": "10000",
+    "features": "Saiyan/Earthling",
+    "effect": [
+      [
+        "<span style=\"background: #5475b2; color: #fff\">[When Attacking]</span> Add up to 1 card from your life to your hand. Then, if you have 7 or fewer cards in your hand, choose up to 1 of your opponent's Battle Cards with a cost of 2 or less and return it to its owner's hand."
+      ]
+    ],
+    "productName": "STARTER DECK -VEGETA- Bonus pack",
+    "isSwitch": "-1",
+    "isShow": "1"
+  },
+  {
+    "series": "FP",
+    "no": "FS02-09",
+    "rarity": "PR",
+    "name": [
+      "Trunks : Youth"
+    ],
+    "img": [
+      "https://dbs-cardgame.com/fw/images/cards/card/en/FS02-09_p1.webp"
+    ],
+    "type": "BATTLE",
+    "color": "Blue",
+    "cost": "2",
+    "specifiedCost": "U",
+    "power": [
+      "15000"
+    ],
+    "comboPower": "10000",
+    "features": "Saiyan/Earthling",
+    "effect": [
+      [
+        "<span style=\"background: #c74695; color: #fff\">[Permanent]</span><span style=\"background: #c04256; color: #fff\">[Your Turn]</span> If you have 7 or fewer cards in your hand, this card gets +10000 power.",
+        "<span style=\"background: #5475b2; color: #fff\">[On Play]</span> Add up to 1 card from your life to your hand."
+      ]
+    ],
+    "productName": "STARTER DECK -VEGETA- Bonus pack",
+    "isSwitch": "-1",
+    "isShow": "1"
+  },
+  {
+    "series": "FP",
+    "no": "FS02-10",
+    "rarity": "PR",
+    "name": [
+      "Videl"
+    ],
+    "img": [
+      "https://dbs-cardgame.com/fw/images/cards/card/en/FS02-10_p1.webp"
+    ],
+    "type": "BATTLE",
+    "color": "Blue",
+    "cost": "7",
+    "specifiedCost": "U",
+    "power": [
+      "15000"
+    ],
+    "comboPower": "10000",
+    "features": "Earthling",
+    "effect": [
+      [
+        "<span style=\"background: #7a4480; color: #fff\">[Super Combo]</span> (A maximum of 4 cards with <span style=\"background: #7a4480; color: #fff\">[Super Combo]</span> can be placed in a deck.)",
+        "<span style=\"background: #5475b2; color: #fff\">[Auto]</span><span style=\"background: #c04256; color: #fff\">[Opponent's Turn]</span> When you use this card in a combo from your hand, this card gets +10000 combo power."
+      ]
+    ],
+    "productName": "STARTER DECK -VEGETA- Bonus pack",
+    "isSwitch": "-1",
+    "isShow": "1"
+  },
+  {
+    "series": "FP",
+    "no": "FS02-13",
+    "rarity": "PR",
+    "name": [
+      "Vegeta"
+    ],
+    "img": [
+      "https://dbs-cardgame.com/fw/images/cards/card/en/FS02-13_p1.webp"
+    ],
+    "type": "BATTLE",
+    "color": "Blue",
+    "cost": "5",
+    "specifiedCost": "UU",
+    "power": [
+      "35000"
+    ],
+    "comboPower": "-",
+    "features": "Saiyan",
+    "effect": [
+      [
+        "<span style=\"background: #7a4480; color: #fff\">[Double Strike]</span> (This card inflicts 2 damage instead of 1 when attacking.)",
+        "<span style=\"background: #5475b2; color: #fff\">[On Play]</span> Choose up to 1 of your opponent's Battle Cards with a cost of 4 or less and place it at the bottom of its owner's deck."
+      ]
+    ],
+    "productName": "STARTER DECK -VEGETA- Bonus pack",
+    "isSwitch": "-1",
+    "isShow": "1"
+  },
+  {
+    "series": "FP",
+    "no": "FS02-15",
+    "rarity": "PR",
+    "name": [
+      "Galick Gun"
+    ],
+    "img": [
+      "https://dbs-cardgame.com/fw/images/cards/card/en/FS02-15_p1.webp"
+    ],
+    "type": "EXTRA",
+    "color": "Blue",
+    "cost": "1",
+    "specifiedCost": "U",
+    "power": [
+      "-"
+    ],
+    "comboPower": "-",
+    "features": "Saiyan",
+    "effect": [
+      [
+        "<span style=\"background: #db8b03; color: #fff\">[Activate Battle]</span> Choose your Leader or up to 1 of your Battle Cards and it gets +15000 power for the battle. Then, if you have 7 or fewer cards in your hand, draw 1 card."
+      ]
+    ],
+    "productName": "STARTER DECK -VEGETA- Bonus pack",
+    "isSwitch": "-1",
+    "isShow": "1"
+  },
+  {
+    "series": "FP",
+    "no": "FS02-16",
+    "rarity": "PR",
+    "name": [
+      "Final Flash"
+    ],
+    "img": [
+      "https://dbs-cardgame.com/fw/images/cards/card/en/FS02-16_p1.webp"
+    ],
+    "type": "EXTRA",
+    "color": "Blue",
+    "cost": "2",
+    "specifiedCost": "U",
+    "power": [
+      "-"
+    ],
+    "comboPower": "-",
+    "features": "Saiyan",
+    "effect": [
+      [
+        "<span style=\"background: #c74695; color: #fff\">[Permanent]</span> If you have 7 or fewer cards in your hand, reduce the cost of this card in your hand by 1.",
+        "<span style=\"background: #db8b03; color: #fff\">[Activate Main]</span> Discard 1 card from your hand : Choose up to 1 of your opponent's Battle Cards with a cost of 5 or less and place it at the bottom of its owner's deck."
+      ]
+    ],
+    "productName": "STARTER DECK -VEGETA- Bonus pack",
+    "isSwitch": "-1",
+    "isShow": "1"
+  },
+  {
+    "series": "FP",
+    "no": "FS03-04",
+    "rarity": "PR",
+    "name": [
+      "Turles"
+    ],
+    "img": [
+      "https://dbs-cardgame.com/fw/images/cards/card/en/FS03-04_p1.webp"
+    ],
+    "type": "BATTLE",
+    "color": "Green",
+    "cost": "5",
+    "specifiedCost": "GGG",
+    "power": [
+      "30000"
+    ],
+    "comboPower": "5000",
+    "features": "Saiyan/TurlesCrusherCorps",
+    "effect": [
+      [
+        "<span style=\"background: #7a4480; color: #fff\">[Critical]</span> (When this card inflicts damage with an attack, the life is placed in the Drop.)",
+        "<span style=\"background: #5475b2; color: #fff\">[On Play]</span> Add up to 1 card with a cost of 3 or more from your Drop to your energy."
+      ]
+    ],
+    "productName": "STARTER DECK -BROLY- Bonus pack",
+    "isSwitch": "-1",
+    "isShow": "1"
+  },
+  {
+    "series": "FP",
+    "no": "FS03-07",
+    "rarity": "PR",
+    "name": [
+      "Paragus"
+    ],
+    "img": [
+      "https://dbs-cardgame.com/fw/images/cards/card/en/FS03-07_p1.webp"
+    ],
+    "type": "BATTLE",
+    "color": "Green",
+    "cost": "2",
+    "specifiedCost": "G",
+    "power": [
+      "15000"
+    ],
+    "comboPower": "10000",
+    "features": "Saiyan",
+    "effect": [
+      [
+        "<span style=\"background: #5475b2; color: #fff\">[On Play]</span> Add up to 1 card from your life to your hand.",
+        "<span style=\"background: #5475b2; color: #fff\">[When Attacking]</span> If your Leader is &lt;Broly&gt; and you have no &lt;Shamoian&gt; Battle Cards, play up to 1 &lt;Shamoian&gt; with a cost of 1 from your Drop."
+      ]
+    ],
+    "productName": "STARTER DECK -BROLY- Bonus pack",
+    "isSwitch": "-1",
+    "isShow": "1"
+  },
+  {
+    "series": "FP",
+    "no": "FS03-10",
+    "rarity": "PR",
+    "name": [
+      "Broly : BR"
+    ],
+    "img": [
+      "https://dbs-cardgame.com/fw/images/cards/card/en/FS03-10_p1.webp"
+    ],
+    "type": "BATTLE",
+    "color": "Green",
+    "cost": "8",
+    "specifiedCost": "GGGG",
+    "power": [
+      "45000"
+    ],
+    "comboPower": "-",
+    "features": "Saiyan",
+    "effect": [
+      [
+        "<span style=\"background: #5475b2; color: #fff\">[On Play]</span> Draw 1 card. Then, choose up to 1 of your opponent's Battle Cards and KO it.",
+        "<span style=\"background: #5475b2; color: #fff\">[When Attacking]</span><span style=\"background: #c04256; color: #fff\">[Once per turn]</span> Switch this card to Active Mode."
+      ]
+    ],
+    "productName": "STARTER DECK -BROLY- Bonus pack",
+    "isSwitch": "-1",
+    "isShow": "1"
+  },
+  {
+    "series": "FP",
+    "no": "FS03-11",
+    "rarity": "PR",
+    "name": [
+      "Vegeta"
+    ],
+    "img": [
+      "https://dbs-cardgame.com/fw/images/cards/card/en/FS03-11_p1.webp"
+    ],
+    "type": "BATTLE",
+    "color": "Green",
+    "cost": "3",
+    "specifiedCost": "G",
+    "power": [
+      "20000"
+    ],
+    "comboPower": "5000",
+    "features": "Saiyan",
+    "effect": [
+      [
+        "<span style=\"background: #7a4480; color: #fff\">[Critical]</span> (When this card inflicts damage with an attack, the life is placed in the Drop.)",
+        "<span style=\"background: #c74695; color: #fff\">[Permanent]</span> If you have 6 or more energy, this card gets +5000 power."
+      ]
+    ],
+    "productName": "STARTER DECK -BROLY- Bonus pack",
+    "isSwitch": "-1",
+    "isShow": "1"
+  },
+  {
+    "series": "FP",
+    "no": "FS03-12",
+    "rarity": "PR",
+    "name": [
+      "King Vegeta"
+    ],
+    "img": [
+      "https://dbs-cardgame.com/fw/images/cards/card/en/FS03-12_p1.webp"
+    ],
+    "type": "BATTLE",
+    "color": "Green",
+    "cost": "7",
+    "specifiedCost": "G",
+    "power": [
+      "15000"
+    ],
+    "comboPower": "10000",
+    "features": "Saiyan",
+    "effect": [
+      [
+        "<span style=\"background: #7a4480; color: #fff\">[Super Combo]</span> (A maximum of 4 cards with <span style=\"background: #7a4480; color: #fff\">[Super Combo]</span> can be placed in a deck.)",
+        "<span style=\"background: #5475b2; color: #fff\">[Auto]</span><span style=\"background: #c04256; color: #fff\">[Opponent's Turn]</span> When you use this card in a combo from your hand, this card gets +10000 combo power."
+      ]
+    ],
+    "productName": "STARTER DECK -BROLY- Bonus pack",
+    "isSwitch": "-1",
+    "isShow": "1"
+  },
+  {
+    "series": "FP",
+    "no": "FS03-15",
+    "rarity": "PR",
+    "name": [
+      "Gigantic Meteor"
+    ],
+    "img": [
+      "https://dbs-cardgame.com/fw/images/cards/card/en/FS03-15_p1.webp"
+    ],
+    "type": "EXTRA",
+    "color": "Green",
+    "cost": "1",
+    "specifiedCost": "G",
+    "power": [
+      "-"
+    ],
+    "comboPower": "-",
+    "features": "Saiyan",
+    "effect": [
+      [
+        "<span style=\"background: #db8b03; color: #fff\">[Activate Battle]</span> Choose your Leader or up to 1 of your Battle Cards and it gets +15000 power for the battle. Then, if you have 6 or more energy, that card gets +10000 power for the battle."
+      ]
+    ],
+    "productName": "STARTER DECK -BROLY- Bonus pack",
+    "isSwitch": "-1",
+    "isShow": "1"
+  },
+  {
+    "series": "FP",
+    "no": "FS03-16",
+    "rarity": "PR",
+    "name": [
+      "Destructive Strength"
+    ],
+    "img": [
+      "https://dbs-cardgame.com/fw/images/cards/card/en/FS03-16_p1.webp"
+    ],
+    "type": "EXTRA",
+    "color": "Green",
+    "cost": "3",
+    "specifiedCost": "GGG",
+    "power": [
+      "-"
+    ],
+    "comboPower": "-",
+    "features": "Saiyan",
+    "effect": [
+      [
+        "<span style=\"background: #db8b03; color: #fff\">[Activate Main]</span> Add 1 card from the top of your deck to your energy."
+      ]
+    ],
+    "productName": "STARTER DECK -BROLY- Bonus pack",
+    "isSwitch": "-1",
+    "isShow": "1"
+  },
+  {
+    "series": "FP",
+    "no": "FS04-02",
+    "rarity": "PR",
+    "name": [
+      "Cui"
+    ],
+    "img": [
+      "https://dbs-cardgame.com/fw/images/cards/card/en/FS04-02_p1.webp"
+    ],
+    "type": "BATTLE",
+    "color": "Yellow",
+    "cost": "3",
+    "specifiedCost": "Y",
+    "power": [
+      "20000"
+    ],
+    "comboPower": "5000",
+    "features": "Frieza'sArmy",
+    "effect": [
+      [
+        "<span style=\"background: #7a4480; color: #fff\">[Blocker]</span> (After an opponent's attack, you may switch this card to Rest Mode and change the target of the attack to this card.)",
+        "<span style=\"background: #5475b2; color: #fff\">[When KO'd]</span> Draw 1 card."
+      ]
+    ],
+    "productName": "STARTER DECK -FRIEZA- Bonus pack",
+    "isSwitch": "-1",
+    "isShow": "1"
+  },
+  {
+    "series": "FP",
+    "no": "FS04-03",
+    "rarity": "PR",
+    "name": [
+      "Golden Frieza"
+    ],
+    "img": [
+      "https://dbs-cardgame.com/fw/images/cards/card/en/FS04-03_p1.webp"
+    ],
+    "type": "BATTLE",
+    "color": "Yellow",
+    "cost": "5",
+    "specifiedCost": "YY",
+    "power": [
+      "35000"
+    ],
+    "comboPower": "-",
+    "features": "FriezaClan/Frieza'sArmy",
+    "effect": [
+      [
+        "<span style=\"background: #7a4480; color: #fff\">[Double Strike]</span> (This card inflicts 2 damage instead of 1 when attacking.)",
+        "<span style=\"background: #5475b2; color: #fff\">[When Attacking]</span> Choose up to 1 of your opponent's Rest Mode Battle Cards and it can't switch to Active Mode during your opponent's next turn."
+      ]
+    ],
+    "productName": "STARTER DECK -FRIEZA- Bonus pack",
+    "isSwitch": "-1",
+    "isShow": "1"
+  },
+  {
+    "series": "FP",
+    "no": "FS04-04",
+    "rarity": "PR",
+    "name": [
+      "King Cold"
+    ],
+    "img": [
+      "https://dbs-cardgame.com/fw/images/cards/card/en/FS04-04_p1.webp"
+    ],
+    "type": "BATTLE",
+    "color": "Yellow",
+    "cost": "4",
+    "specifiedCost": "YY",
+    "power": [
+      "25000"
+    ],
+    "comboPower": "10000",
+    "features": "FriezaClan",
+    "effect": [
+      [
+        "<span style=\"background: #7a4480; color: #fff\">[Blocker]</span> (After an opponent's attack, you may switch this card to Rest Mode and change the target of the attack to this card.)",
+        "<span style=\"background: #5475b2; color: #fff\">[When KO'd]</span> Choose up to 1 of your opponent's Rest Mode Battle Cards with a cost of 4 or less and KO it."
+      ]
+    ],
+    "productName": "STARTER DECK -FRIEZA- Bonus pack",
+    "isSwitch": "-1",
+    "isShow": "1"
+  },
+  {
+    "series": "FP",
+    "no": "FS04-09",
+    "rarity": "PR",
+    "name": [
+      "Cheelai : BR"
+    ],
+    "img": [
+      "https://dbs-cardgame.com/fw/images/cards/card/en/FS04-09_p1.webp"
+    ],
+    "type": "BATTLE",
+    "color": "Yellow",
+    "cost": "7",
+    "specifiedCost": "Y",
+    "power": [
+      "15000"
+    ],
+    "comboPower": "10000",
+    "features": "Frieza'sArmy",
+    "effect": [
+      [
+        "<span style=\"background: #7a4480; color: #fff\">[Super Combo]</span> (A maximum of 4 cards with <span style=\"background: #7a4480; color: #fff\">[Super Combo]</span> can be placed in a deck.)",
+        "<span style=\"background: #5475b2; color: #fff\">[Auto]</span><span style=\"background: #c04256; color: #fff\">[Opponent's Turn]</span> When you use this card in a combo from your hand, this card gets +10000 combo power."
+      ]
+    ],
+    "productName": "STARTER DECK -FRIEZA- Bonus pack",
+    "isSwitch": "-1",
+    "isShow": "1"
+  },
+  {
+    "series": "FP",
+    "no": "FS04-12",
+    "rarity": "PR",
+    "name": [
+      "Frieza"
+    ],
+    "img": [
+      "https://dbs-cardgame.com/fw/images/cards/card/en/FS04-12_p1.webp"
+    ],
+    "type": "BATTLE",
+    "color": "Yellow",
+    "cost": "2",
+    "specifiedCost": "Y",
+    "power": [
+      "20000"
+    ],
+    "comboPower": "5000",
+    "features": "FriezaClan/Frieza'sArmy",
+    "effect": [
+      [
+        "<span style=\"background: #5475b2; color: #fff\">[When Attacking]</span> Add up to 1 card from your life to your hand. Then, choose up to 1 of your opponent's Battle Cards with a cost of 3 or less and switch it to Rest Mode."
+      ]
+    ],
+    "productName": "STARTER DECK -FRIEZA- Bonus pack",
+    "isSwitch": "-1",
+    "isShow": "1"
+  },
+  {
+    "series": "FP",
+    "no": "FS04-15",
+    "rarity": "PR",
+    "name": [
+      "Golden Death Beam"
+    ],
+    "img": [
+      "https://dbs-cardgame.com/fw/images/cards/card/en/FS04-15_p1.webp"
+    ],
+    "type": "EXTRA",
+    "color": "Yellow",
+    "cost": "1",
+    "specifiedCost": "Y",
+    "power": [
+      "-"
+    ],
+    "comboPower": "-",
+    "features": "FriezaClan/Frieza'sArmy",
+    "effect": [
+      [
+        "<span style=\"background: #db8b03; color: #fff\">[Activate Main]</span> Choose up to 1 of your opponent's Rest Mode Battle Cards with a cost of 3 or less and KO it."
+      ]
+    ],
+    "productName": "STARTER DECK -FRIEZA- Bonus pack",
+    "isSwitch": "-1",
+    "isShow": "1"
+  },
+  {
+    "series": "FP",
+    "no": "FS04-16",
+    "rarity": "PR",
+    "name": [
+      "Death Ball"
+    ],
+    "img": [
+      "https://dbs-cardgame.com/fw/images/cards/card/en/FS04-16_p1.webp"
+    ],
+    "type": "EXTRA",
+    "color": "Yellow",
+    "cost": "1",
+    "specifiedCost": "Y",
+    "power": [
+      "-"
+    ],
+    "comboPower": "-",
+    "features": "FriezaClan/Frieza'sArmy",
+    "effect": [
+      [
+        "<span style=\"background: #db8b03; color: #fff\">[Activate Battle]</span> Choose your Leader or up to 1 of your Battle Cards and it gets +15000 power for the battle. Then, choose up to 1 of your opponent's Battle Cards with a cost of 3 or less and switch it to Rest Mode."
+      ]
+    ],
+    "productName": "STARTER DECK -FRIEZA- Bonus pack",
+    "isSwitch": "-1",
+    "isShow": "1"
+  }
+]

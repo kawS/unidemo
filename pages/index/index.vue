@@ -1,7 +1,13 @@
 <template>
   <div class="useNo">
     标准环境<span class="em">{{ tipNowNo }}</span>标
-    <div class="msg">-3月21日退标(E)</div>
+    <div class="msg">-3月22日退标(E)</div>
+  </div>
+  <div class="hot">
+    <div @click="goDBSFW">
+      <image src="../../common/img/logo_fw2.png" mode="heightFix" class="img"></image>
+      七龙珠超卡牌-融合未来(非官方翻译版)
+    </div>
   </div>
   <div class="hot">
     <div @click="copyTar('https://play.limitlesstcg.com/decks')">
@@ -19,6 +25,7 @@
     <div class="bn" @click="goSearch">检索</div>
   </div>
   <div class="ps">只展示标准环境数据，数据及图片来自官网</div>
+  <div class="ps imp">英文卡图需要魔法！！！</div>
   <div class="list">
     <div class="sbox" v-for="item in series" :key="item.sname">
       <div class="tlt">{{ item.sname }} {{ item.sename }}</div>
@@ -78,7 +85,7 @@
       return
     }
     uni.navigateTo({
-			url: `/subpackages/pages/seriesDet/index?no=${item.no}&sname=${encodeURIComponent(item.name)}&code=${item.code}`
+			url: `/subpackagesPtcg/pages/seriesDet/index?no=${item.no}&sname=${encodeURIComponent(item.name)}&code=${item.code}`
 		})
   }
 
@@ -104,7 +111,7 @@
       return
     }
     uni.navigateTo({
-			url: `/subpackages/pages/search/index?searchinp=${encodeURIComponent(searchInp.value)}`,
+			url: `/subpackagesPtcg/pages/search/index?searchinp=${encodeURIComponent(searchInp.value)}`,
 			success: res => {
         searchInp.value = ''
       }
@@ -132,7 +139,13 @@
     isShowDeck.value = false;
     deckData.value = '';
     uni.navigateTo({
-			url: '/subpackages/pages/deck/index'
+			url: '/subpackagesPtcg/pages/deck/index'
+		})
+  }
+
+  const goDBSFW = () => {
+    uni.navigateTo({
+			url: '/subpackagesDBSFW/pages/index/index'
 		})
   }
 </script>
@@ -209,7 +222,10 @@
   .ps{
     margin: 0 30rpx;
     font-size: 12px;
-    text-align: center
+    text-align: center;
+    &.imp{
+      color: #ce2a2c
+    }
   }
   .list{
     padding: 30rpx 0;

@@ -4,11 +4,19 @@
   ],
   "subPackages": [
     {
-      "root": "subpackages",
+      "root": "subpackagesPtcg",
       "pages": [
         "pages/seriesDet/index",
         "pages/search/index",
         "pages/deck/index"
+      ]
+    },
+    {
+      "root": "subpackagesDBSFW",
+      "pages": [
+        "pages/index/index",
+        "pages/list/index",
+        "pages/search/index"
       ]
     }
   ],
