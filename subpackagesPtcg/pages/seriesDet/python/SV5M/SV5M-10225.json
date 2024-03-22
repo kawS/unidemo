@@ -1,0 +1,19 @@
+{
+  "id": "10225",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/10225/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010225.png",
+  "extraInformation": [
+    "No.737蓄电池宝可梦",
+    "身高0.5m/体重10.5kg",
+    "用结实的外壳保护自己。会从颚部的尖端放出电流反击对手。"
+  ],
+  "typeEnergy": "Lightning",
+  "type": "Pokemon",
+  "cardName": "虫电宝",
+  "skillList": [
+    {
+      "name": "劈哩啪啦",
+      "effect": ""
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "10053",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/10053/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010053.png",
+  "extraInformation": [
+    "No.78火马宝可梦",
+    "身高1.7m/体重95.0kg",
+    "任由燃烧的鬃毛随风飘扬，以每小时２４０公里的速度在大草原上自在奔驰。"
+  ],
+  "typeEnergy": "Fire",
+  "type": "Pokemon",
+  "cardName": "烈焰马",
+  "skillList": [
+    {
+      "name": "烈焰",
+      "effect": ""
+    },
+    {
+      "name": "猛火猛撞",
+      "effect": "这只宝可梦也受到30点伤害。"
+    }
+  ]
+}

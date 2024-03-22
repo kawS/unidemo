@@ -1,0 +1,23 @@
+{
+  "id": "9788",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/9788/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00009788.png",
+  "extraInformation": [
+    "No.647幼马宝可梦",
+    "身高1.4m/体重48.5kg",
+    "透过下定战斗的决心让自己全身充满力量，并改变了自己的样子。"
+  ],
+  "typeEnergy": "Water",
+  "type": "Pokemon",
+  "cardName": "凯路迪欧",
+  "skillList": [
+    {
+      "name": "快速抽出",
+      "effect": "从自己的牌库抽出2张卡。"
+    },
+    {
+      "name": "水之利刃",
+      "effect": ""
+    }
+  ]
+}

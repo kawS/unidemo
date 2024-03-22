@@ -1,0 +1,23 @@
+{
+  "id": "9857",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/9857/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00009857.png",
+  "extraInformation": [
+    "No.1010",
+    "",
+    ""
+  ],
+  "typeEnergy": "Grass",
+  "type": "Pokemon",
+  "cardName": "铁斑叶ex",
+  "skillList": [
+    {
+      "name": "[特性] 迅速游标",
+      "effect": "在自己的回合，从手牌将这张卡放置于备战区时，可使用1次。将这只宝可梦与战斗宝可梦互换。互换的情况下，选择自己的场上宝可梦身上附加的任意数量的能量卡，改附于这只宝可梦身上。"
+    },
+    {
+      "name": "棱镜刀锋",
+      "effect": "在下个自己的回合，这只宝可梦无法使用招式。"
+    }
+  ]
+}

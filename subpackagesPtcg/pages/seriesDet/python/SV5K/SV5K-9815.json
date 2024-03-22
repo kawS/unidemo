@@ -1,0 +1,23 @@
+{
+  "id": "9815",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/9815/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00009815.png",
+  "extraInformation": [
+    "No.92气体状宝可梦",
+    "身高1.3m/体重0.1kg",
+    "会用气体状的身体缠住猎物，再从皮肤缓缓地注入毒素，使对手变得虚弱。"
+  ],
+  "typeEnergy": "Darkness",
+  "type": "Pokemon",
+  "cardName": "鬼斯",
+  "skillList": [
+    {
+      "name": "神秘光束",
+      "effect": "掷1次硬币若为正面，则选择1个对手的战斗宝可梦身上附加的能量，将其丢弃。"
+    },
+    {
+      "name": "瓦斯包围",
+      "effect": ""
+    }
+  ]
+}

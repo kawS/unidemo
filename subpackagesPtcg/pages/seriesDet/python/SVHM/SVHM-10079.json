@@ -1,0 +1,23 @@
+{
+  "id": "10079",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/10079/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010079.png",
+  "extraInformation": [
+    "No.992悖谬宝可梦",
+    "身高1.8m/体重380.7kg",
+    "与某本探险记里记载的一种叫做铁臂膀的物体有许多相似处的宝可梦。"
+  ],
+  "typeEnergy": "Lightning",
+  "type": "Pokemon",
+  "cardName": "铁臂膀",
+  "skillList": [
+    {
+      "name": "冲击波",
+      "effect": "掷1次硬币若为正面，则将对手的战斗宝可梦【麻痺】。"
+    },
+    {
+      "name": "超合金之手",
+      "effect": "若对手的战斗宝可梦为「宝可梦【ex】・【V】」，则增加80点伤害。"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "9865",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/9865/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00009865.png",
+  "extraInformation": [
+    "No.26鼠宝可梦",
+    "身高0.8m/体重30.0kg",
+    "如果双颊上的电囊储存了饱满的电力，两只耳朵就会直直地竖起。"
+  ],
+  "typeEnergy": "Lightning",
+  "type": "Pokemon",
+  "cardName": "雷丘",
+  "skillList": [
+    {
+      "name": "卷入伏特",
+      "effect": "这只宝可梦以外的双方的身上放置有伤害指示物的所有宝可梦，各受到50点伤害。[在备战区不计算弱点・抵抗力。]"
+    },
+    {
+      "name": "雷电球",
+      "effect": ""
+    }
+  ]
+}

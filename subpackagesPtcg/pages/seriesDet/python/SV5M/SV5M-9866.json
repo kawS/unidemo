@@ -1,0 +1,23 @@
+{
+  "id": "9866",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/9866/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00009866.png",
+  "extraInformation": [
+    "No.125电击宝可梦",
+    "身高1.1m/体重30.0kg",
+    "很多发电厂会用地面属性的宝可梦当守卫，借以对抗想伺机偷吃电力的电击兽。"
+  ],
+  "typeEnergy": "Lightning",
+  "type": "Pokemon",
+  "cardName": "电击兽",
+  "skillList": [
+    {
+      "name": "劈打",
+      "effect": ""
+    },
+    {
+      "name": "麻麻拳",
+      "effect": ""
+    }
+  ]
+}

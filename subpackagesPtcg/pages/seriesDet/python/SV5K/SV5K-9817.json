@@ -1,0 +1,23 @@
+{
+  "id": "9817",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/9817/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00009817.png",
+  "extraInformation": [
+    "No.94",
+    "",
+    ""
+  ],
+  "typeEnergy": "Darkness",
+  "type": "Pokemon",
+  "cardName": "耿鬼ex",
+  "skillList": [
+    {
+      "name": "[特性] 侵蚀诅咒",
+      "effect": "只要这只宝可梦在场上，每次对手从手牌将能量卡附于宝可梦身上时，在那只宝可梦身上放置2个伤害指示物。"
+    },
+    {
+      "name": "戏法舞步",
+      "effect": "若希望，选择1个对手的战斗宝可梦身上附加的能量，改附于对手的备战宝可梦身上。"
+    }
+  ]
+}

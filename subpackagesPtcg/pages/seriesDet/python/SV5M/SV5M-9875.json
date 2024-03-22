@@ -1,0 +1,19 @@
+{
+  "id": "9875",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/9875/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00009875.png",
+  "extraInformation": [
+    "No.743蜂虻宝可梦",
+    "身高0.2m/体重0.5kg",
+    "用花粉和花蜜制作团子。依调配的种类和剂量不同，团子的效果也不一样。"
+  ],
+  "typeEnergy": "Psychic",
+  "type": "Pokemon",
+  "cardName": "蝶结萌虻",
+  "skillList": [
+    {
+      "name": "多余花粉",
+      "effect": "在下个自己的回合，受到这个招式的宝可梦【昏厥】时，多获得2张奖赏卡。"
+    }
+  ]
+}

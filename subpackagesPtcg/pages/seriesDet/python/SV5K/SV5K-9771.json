@@ -1,0 +1,23 @@
+{
+  "id": "9771",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/9771/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00009771.png",
+  "extraInformation": [
+    "No.315荆棘宝可梦",
+    "身高0.3m/体重2.0kg",
+    "只要闻到牠的花香，就能放松心情。浓郁的香味是毒蔷薇有活力的证明。"
+  ],
+  "typeEnergy": "Grass",
+  "type": "Pokemon",
+  "cardName": "毒蔷薇",
+  "skillList": [
+    {
+      "name": "[特性] 毒刺",
+      "effect": "这只宝可梦在战斗场上受到对手的宝可梦招式的伤害时，将使用招式的宝可梦【中毒】。"
+    },
+    {
+      "name": "绿叶舞步",
+      "effect": ""
+    }
+  ]
+}

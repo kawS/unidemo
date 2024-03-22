@@ -1,0 +1,13 @@
+{
+  "id": "9770",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/9770/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00009770.png",
+  "type": "Energy",
+  "cardName": "新冲天能量",
+  "skillList": [
+    {
+      "name": "",
+      "effect": "只要这张卡附于宝可梦身上，视为提供1个【无】能量。\r若附于【2阶进化】宝可梦身上，则视为提供2个所有属性的能量。"
+    }
+  ]
+}

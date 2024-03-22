@@ -1,0 +1,23 @@
+{
+  "id": "9876",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/9876/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00009876.png",
+  "extraInformation": [
+    "No.1006悖谬宝可梦",
+    "身高1.4m/体重35.0kg",
+    "牠有可能就是在某本探险记里，以铁武者这个名字被记载下来的物体。"
+  ],
+  "typeEnergy": "Psychic",
+  "type": "Pokemon",
+  "cardName": "铁武者",
+  "skillList": [
+    {
+      "name": "演算",
+      "effect": "查看自己的牌库上方4张卡，以任意顺序排列，放回牌库上方。"
+    },
+    {
+      "name": "庄严之剑",
+      "effect": "在这个回合，若从手牌使出了「未来」支援者卡，则增加100点伤害。"
+    }
+  ]
+}

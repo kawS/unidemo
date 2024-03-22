@@ -1,0 +1,13 @@
+{
+  "id": "10069",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/10069/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010069.png",
+  "type": "Trainers",
+  "cardName": "竹兰的霸气",
+  "skillList": [
+    {
+      "name": "",
+      "effect": "从牌库抽卡直到自己的手牌满5张为止。在上个对手的回合，若自己的宝可梦【昏厥】了，则抽卡直到满8张为止。"
+    }
+  ]
+}

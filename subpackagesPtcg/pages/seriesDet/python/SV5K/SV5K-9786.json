@@ -1,0 +1,19 @@
+{
+  "id": "9786",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/9786/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00009786.png",
+  "extraInformation": [
+    "No.318凶猛宝可梦",
+    "身高0.8m/体重20.8kg",
+    "只有１只时即使发现了猎物也不会发动攻击。会等到伙伴来之后，再结队袭击。"
+  ],
+  "typeEnergy": "Water",
+  "type": "Pokemon",
+  "cardName": "利牙鱼",
+  "skillList": [
+    {
+      "name": "飞溅",
+      "effect": ""
+    }
+  ]
+}

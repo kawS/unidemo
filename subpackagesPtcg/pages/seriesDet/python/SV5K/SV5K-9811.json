@@ -1,0 +1,23 @@
+{
+  "id": "9811",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/9811/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00009811.png",
+  "extraInformation": [
+    "No.839煤炭宝可梦",
+    "身高2.8m/体重310.5kg",
+    "会大幅晃动身体，好让自己可以从熊熊燃烧的背部往四处喷洒煤炭来威吓对手。"
+  ],
+  "typeEnergy": "Fighting",
+  "type": "Pokemon",
+  "cardName": "巨炭山",
+  "skillList": [
+    {
+      "name": "机枪沥青",
+      "effect": "增加这只宝可梦身上附加的【火】能量的数量×80点伤害。"
+    },
+    {
+      "name": "山崩",
+      "effect": "将对手的牌库上方2张卡丢弃。"
+    }
+  ]
+}

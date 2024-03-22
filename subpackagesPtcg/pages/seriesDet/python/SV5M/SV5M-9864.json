@@ -1,0 +1,19 @@
+{
+  "id": "9864",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/9864/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00009864.png",
+  "extraInformation": [
+    "No.25鼠宝可梦",
+    "身高0.4m/体重6.0kg",
+    "据说同一处有好几只的时候，那里就会凝集起强烈的电力，还可能造成闪电落于该处。"
+  ],
+  "typeEnergy": "Lightning",
+  "type": "Pokemon",
+  "cardName": "皮卡丘",
+  "skillList": [
+    {
+      "name": "电磁电光",
+      "effect": "对手的1只宝可梦受到10点伤害。[在备战区不计算弱点・抵抗力。]"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "10231",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/10231/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010231.png",
+  "extraInformation": [
+    "No.108舔舔宝可梦",
+    "身高1.2m/体重65.5kg",
+    "沾到牠黏糊糊的唾液后如果放著不管，就会变得奇痒无比，而且痒个不停。"
+  ],
+  "typeEnergy": "Colorless",
+  "type": "Pokemon",
+  "cardName": "大舌头",
+  "skillList": [
+    {
+      "name": "舌引",
+      "effect": "查看对手的手牌，从其中选择最多2张【基础】宝可梦卡，放置于对手的备战区。"
+    },
+    {
+      "name": "怪力",
+      "effect": ""
+    }
+  ]
+}

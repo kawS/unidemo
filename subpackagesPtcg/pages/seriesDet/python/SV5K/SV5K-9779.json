@@ -1,0 +1,23 @@
+{
+  "id": "9779",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/9779/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00009779.png",
+  "extraInformation": [
+    "No.631食蚁兽宝可梦",
+    "身高1.4m/体重58.0kg",
+    "从尾部的孔洞吸入空气，燃起火焰。如果孔洞被堵住了，身体就会不舒服。"
+  ],
+  "typeEnergy": "Fire",
+  "type": "Pokemon",
+  "cardName": "熔蚁兽",
+  "skillList": [
+    {
+      "name": "火种",
+      "effect": ""
+    },
+    {
+      "name": "滑烧火焰",
+      "effect": "掷3次硬币，选择与反面出现的次数相同数量的这只宝可梦身上附加的能量，将其丢弃。"
+    }
+  ]
+}

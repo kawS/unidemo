@@ -1,0 +1,19 @@
+{
+  "id": "9824",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/9824/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00009824.png",
+  "extraInformation": [
+    "No.163猫头鹰宝可梦",
+    "身高0.7m/体重21.2kg",
+    "总是用单脚站立。由于换脚的速度太快，很难用肉眼看清换脚的瞬间。"
+  ],
+  "typeEnergy": "Colorless",
+  "type": "Pokemon",
+  "cardName": "咕咕",
+  "skillList": [
+    {
+      "name": "静默之翼",
+      "effect": "查看对手的手牌。"
+    }
+  ]
+}

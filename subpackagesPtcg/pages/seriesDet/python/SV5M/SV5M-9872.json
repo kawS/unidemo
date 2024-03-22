@@ -1,0 +1,23 @@
+{
+  "id": "9872",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/9872/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00009872.png",
+  "extraInformation": [
+    "No.122屏障宝可梦",
+    "身高1.3m/体重54.5kg",
+    "有很多学者认为牠大大的手掌是因为要表演默剧而发达起来的。"
+  ],
+  "typeEnergy": "Psychic",
+  "type": "Pokemon",
+  "cardName": "魔墙人偶",
+  "skillList": [
+    {
+      "name": "相仿秀",
+      "effect": "查看对手的手牌。若希望，选择1张其中的支援者卡，将那个效果作为这个招式的效果使用。"
+    },
+    {
+      "name": "不祥波动",
+      "effect": "将对手的战斗宝可梦【混乱】。"
+    }
+  ]
+}

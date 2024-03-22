@@ -1,0 +1,19 @@
+{
+  "id": "9790",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/9790/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00009790.png",
+  "extraInformation": [
+    "No.873冰蛾宝可梦",
+    "身高1.3m/体重42.0kg",
+    "触角能用来察觉大气的流动。会如同降雪般地洒下混进了寒气的鳞粉。"
+  ],
+  "typeEnergy": "Water",
+  "type": "Pokemon",
+  "cardName": "雪绒蛾",
+  "skillList": [
+    {
+      "name": "冰冷寒气",
+      "effect": "在下个对手的回合，受到这个招式的宝可梦无法使用招式。"
+    }
+  ]
+}

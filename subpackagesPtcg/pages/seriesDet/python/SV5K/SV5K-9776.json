@@ -1,0 +1,23 @@
+{
+  "id": "9776",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/9776/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00009776.png",
+  "extraInformation": [
+    "No.492感谢宝可梦",
+    "身高0.4m/体重5.2kg",
+    "有著能分解大气中的毒素，并将荒芜的大地瞬间变成一片花圃的力量。"
+  ],
+  "typeEnergy": "Grass",
+  "type": "Pokemon",
+  "cardName": "谢米",
+  "skillList": [
+    {
+      "name": "精刺奇袭",
+      "effect": "对手的备战区的1只「宝可梦【ex】・【V】」受到60点伤害。[在备战区不计算弱点・抵抗力。]"
+    },
+    {
+      "name": "后踢",
+      "effect": ""
+    }
+  ]
+}

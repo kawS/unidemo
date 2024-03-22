@@ -1,0 +1,23 @@
+{
+  "id": "9810",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/9810/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00009810.png",
+  "extraInformation": [
+    "No.838煤炭宝可梦",
+    "身高1.1m/体重78.0kg",
+    "情绪只要激昂起来，体内的温度就会上升。会喷著火焰忙碌地奔跑。"
+  ],
+  "typeEnergy": "Fighting",
+  "type": "Pokemon",
+  "cardName": "大炭车",
+  "skillList": [
+    {
+      "name": "击飞",
+      "effect": "掷1次硬币若为正面，则增加40点伤害。"
+    },
+    {
+      "name": "岩石粉碎",
+      "effect": ""
+    }
+  ]
+}

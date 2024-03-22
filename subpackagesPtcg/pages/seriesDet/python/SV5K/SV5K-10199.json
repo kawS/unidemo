@@ -1,0 +1,23 @@
+{
+  "id": "10199",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/10199/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010199.png",
+  "extraInformation": [
+    "No.987悖谬宝可梦",
+    "身高1.4m/体重4.0kg",
+    "与某本书里记载的一种叫做振翼发的生物有著相似特征的宝可梦。"
+  ],
+  "typeEnergy": "Psychic",
+  "type": "Pokemon",
+  "cardName": "振翼发",
+  "skillList": [
+    {
+      "name": "[特性] 暗夜羽击",
+      "effect": "只要这只宝可梦在战斗场上，对手的战斗宝可梦的特性（「暗夜羽击」除外）全部消除。"
+    },
+    {
+      "name": "飞来横祸",
+      "effect": "将2个伤害指示物以任意方式放置于对手的备战宝可梦身上。"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "9818",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/9818/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00009818.png",
+  "extraInformation": [
+    "No.261紧咬宝可梦",
+    "身高0.5m/体重13.6kg",
+    "个性执著的宝可梦。一旦盯上某个猎物，就会不停追逐直到对方精疲力尽。"
+  ],
+  "typeEnergy": "Darkness",
+  "type": "Pokemon",
+  "cardName": "土狼犬",
+  "skillList": [
+    {
+      "name": "咬尽",
+      "effect": "掷1次硬币若为正面，则增加20点伤害。"
+    }
+  ]
+}

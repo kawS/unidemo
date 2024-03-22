@@ -1,0 +1,23 @@
+{
+  "id": "9846",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/9846/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00009846.png",
+  "extraInformation": [
+    "No.275邪恶宝可梦",
+    "身高1.3m/体重59.6kg",
+    "过去被视为森林之神而受到畏惧的宝可梦。有著读取对手想法并抢先一步行动的能力。"
+  ],
+  "typeEnergy": "Grass",
+  "type": "Pokemon",
+  "cardName": "狡猾天狗",
+  "skillList": [
+    {
+      "name": "驱赶龙卷风",
+      "effect": "选择3只对手的备战宝可梦。然后，将对手的没有选择的所有备战宝可梦与附加的卡，全部放回对手的牌库并重洗。"
+    },
+    {
+      "name": "能量闭环",
+      "effect": "选择1个这只宝可梦身上附加的能量，放回手牌。"
+    }
+  ]
+}

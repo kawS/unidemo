@@ -1,0 +1,23 @@
+{
+  "id": "9787",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/9787/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00009787.png",
+  "extraInformation": [
+    "No.319凶暴宝可梦",
+    "身高1.8m/体重88.8kg",
+    "当牠嗅到猎物的气味，就会从臀部喷射出海水，发动时速１２０公里的袭击。"
+  ],
+  "typeEnergy": "Water",
+  "type": "Pokemon",
+  "cardName": "巨牙鲨",
+  "skillList": [
+    {
+      "name": "咬弃",
+      "effect": "掷3次硬币，在不看手牌正面的情况下，选择与正面出现的次数相同数量的对手的手牌，将其丢弃。"
+    },
+    {
+      "name": "喷射头击",
+      "effect": ""
+    }
+  ]
+}

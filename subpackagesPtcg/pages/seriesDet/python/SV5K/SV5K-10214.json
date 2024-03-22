@@ -1,0 +1,13 @@
+{
+  "id": "10214",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/10214/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010214.png",
+  "type": "Trainers",
+  "cardName": "枇琶",
+  "skillList": [
+    {
+      "name": "",
+      "effect": "查看对手的手牌，从其中选择最多2张物品卡，将其丢弃。"
+    }
+  ]
+}

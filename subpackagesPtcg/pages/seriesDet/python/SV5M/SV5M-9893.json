@@ -1,0 +1,23 @@
+{
+  "id": "9893",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/9893/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00009893.png",
+  "extraInformation": [
+    "No.1008悖谬宝可梦",
+    "身高3.5m/体重240.0kg",
+    "牠似乎就是古书里所提及的铁大蛇。传说牠曾用雷电将大地化成了一片灰。"
+  ],
+  "typeEnergy": "Dragon",
+  "type": "Pokemon",
+  "cardName": "密勒顿",
+  "skillList": [
+    {
+      "name": "暴冲高点",
+      "effect": "从自己的牌库选择最多2张基本能量卡，以任意方式附于自己的「未来」宝可梦身上。并且重洗牌库。"
+    },
+    {
+      "name": "闪雷攻击",
+      "effect": ""
+    }
+  ]
+}

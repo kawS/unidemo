@@ -1,0 +1,19 @@
+{
+  "id": "10197",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/10197/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010197.png",
+  "extraInformation": [
+    "No.436青铜宝可梦",
+    "身高0.5m/体重60.5kg",
+    "过去的人们相信，铜镜怪背上的花纹里蕴藏著神秘的力量。"
+  ],
+  "typeEnergy": "Psychic",
+  "type": "Pokemon",
+  "cardName": "铜镜怪",
+  "skillList": [
+    {
+      "name": "镜面攻击",
+      "effect": "若对手的战斗宝可梦为【超】宝可梦，则增加30点伤害。"
+    }
+  ]
+}

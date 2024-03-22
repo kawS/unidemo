@@ -1,0 +1,19 @@
+{
+  "id": "9784",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/9784/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00009784.png",
+  "extraInformation": [
+    "No.159大颚宝可梦",
+    "身高1.1m/体重25.0kg",
+    "即使牙齿掉了也会不断重新长出来。嘴里总是长满著４８颗牙齿。"
+  ],
+  "typeEnergy": "Water",
+  "type": "Pokemon",
+  "cardName": "蓝鳄",
+  "skillList": [
+    {
+      "name": "逆向喷射",
+      "effect": "将这只宝可梦与备战宝可梦互换。"
+    }
+  ]
+}

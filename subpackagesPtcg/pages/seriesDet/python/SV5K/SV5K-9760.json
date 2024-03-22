@@ -1,0 +1,13 @@
+{
+  "id": "9760",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/9760/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00009760.png",
+  "type": "Trainers",
+  "cardName": "订购盒",
+  "skillList": [
+    {
+      "name": "",
+      "effect": "若使用了这张卡，则自己的回合结束。\r从自己的牌库选择最多2张物品卡，在给对手看过后加入手牌。并且重洗牌库。"
+    }
+  ]
+}

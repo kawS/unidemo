@@ -1,0 +1,19 @@
+{
+  "id": "9789",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/9789/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00009789.png",
+  "extraInformation": [
+    "No.872虫宝宝宝可梦",
+    "身高0.3m/体重3.8kg",
+    "地面的积雪是牠的主食。对新下的松软白雪情有独钟，会朝著山顶一路吃过去。"
+  ],
+  "typeEnergy": "Water",
+  "type": "Pokemon",
+  "cardName": "雪吞虫",
+  "skillList": [
+    {
+      "name": "细雪",
+      "effect": "将对手的战斗宝可梦【睡眠】。"
+    }
+  ]
+}

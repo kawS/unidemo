@@ -1,0 +1,23 @@
+{
+  "id": "10076",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/10076/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010076.png",
+  "extraInformation": [
+    "No.457",
+    "",
+    ""
+  ],
+  "typeEnergy": "Water",
+  "type": "Pokemon",
+  "cardName": "霓虹鱼V",
+  "skillList": [
+    {
+      "name": "[特性]夜光标志",
+      "effect": "在自己的回合，从手牌将这张卡放置于备战区时，可使用1次。从自己的牌库选择1张支援者卡，在给对手看过后加入手牌。并且重洗牌库。"
+    },
+    {
+      "name": "水回旋",
+      "effect": "将这只宝可梦与附加的卡，全部放回自己的牌库并重洗。"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "10240",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/10240/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010240.png",
+  "type": "Trainers",
+  "cardName": "赛吉",
+  "skillList": [
+    {
+      "name": "",
+      "effect": "从自己的牌库选择1张自己的1只场上宝可梦进化而来的卡（拥有特性的宝可梦除外），放置于那只宝可梦身上完成进化。并且重洗牌库。（对对战准备时使出的宝可梦或这个回合刚使出的宝可梦也可使用。）"
+    }
+  ]
+}

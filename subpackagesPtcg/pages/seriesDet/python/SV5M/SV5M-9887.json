@@ -1,0 +1,23 @@
+{
+  "id": "9887",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/9887/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00009887.png",
+  "extraInformation": [
+    "No.374铁球宝可梦",
+    "身高0.6m/体重95.2kg",
+    "会从臀部放出磁力将敌人迅猛地吸到身边，再以锐利的爪子刺穿对方。"
+  ],
+  "typeEnergy": "Metal",
+  "type": "Pokemon",
+  "cardName": "铁哑铃",
+  "skillList": [
+    {
+      "name": "竖爪",
+      "effect": ""
+    },
+    {
+      "name": "铁之冲撞",
+      "effect": "这只宝可梦也受到10点伤害。"
+    }
+  ]
+}

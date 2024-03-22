@@ -1,0 +1,23 @@
+{
+  "id": "9796",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/9796/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00009796.png",
+  "extraInformation": [
+    "No.183水鼠宝可梦",
+    "身高0.4m/体重8.5kg",
+    "全身的体毛有著能将水弹开的特性，所以就算碰到水也不会弄湿。"
+  ],
+  "typeEnergy": "Psychic",
+  "type": "Pokemon",
+  "cardName": "玛力露",
+  "skillList": [
+    {
+      "name": "滚球",
+      "effect": "掷硬币直到出现反面，造成正面出现的次数×10点伤害。"
+    },
+    {
+      "name": "魔法射击",
+      "effect": ""
+    }
+  ]
+}

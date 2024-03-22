@@ -1,0 +1,23 @@
+{
+  "id": "10083",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/10083/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010083.png",
+  "extraInformation": [
+    "No.1006悖谬宝可梦",
+    "身高1.4m/体重35.0kg",
+    "牠有可能就是在某本探险记里，以铁武者这个名字被记载下来的物体。"
+  ],
+  "typeEnergy": "Psychic",
+  "type": "Pokemon",
+  "cardName": "铁武者",
+  "skillList": [
+    {
+      "name": "双生镭射",
+      "effect": "对手的1只备战宝可梦也受到20点伤害。[在备战区不计算弱点・抵抗力。]"
+    },
+    {
+      "name": "意念之刃",
+      "effect": "在下个自己的回合，这只宝可梦无法使用「意念之刃」。"
+    }
+  ]
+}

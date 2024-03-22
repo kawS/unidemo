@@ -1,0 +1,23 @@
+{
+  "id": "9812",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/9812/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00009812.png",
+  "extraInformation": [
+    "No.984悖谬宝可梦",
+    "身高2.2m/体重320.0kg",
+    "近年曾经有人目击到牠。雄伟牙这个名字来自于某本书里记载的生物。"
+  ],
+  "typeEnergy": "Fighting",
+  "type": "Pokemon",
+  "cardName": "雄伟牙",
+  "skillList": [
+    {
+      "name": "地盘崩坏",
+      "effect": "将对手的牌库上方1张卡丢弃。在这个回合，若从手牌使出了「古代」支援者卡，则再丢弃3张。"
+    },
+    {
+      "name": "巨大之牙",
+      "effect": ""
+    }
+  ]
+}

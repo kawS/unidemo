@@ -1,0 +1,23 @@
+{
+  "id": "9799",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/9799/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00009799.png",
+  "extraInformation": [
+    "No.437铜钟宝可梦",
+    "身高1.3m/体重187.0kg",
+    "从遥远的过去开始就被人当成能召唤雨云的宝可梦而供奉著。有时候会被埋进地下。"
+  ],
+  "typeEnergy": "Psychic",
+  "type": "Pokemon",
+  "cardName": "青铜钟",
+  "skillList": [
+    {
+      "name": "进化妨碍者",
+      "effect": "在下个对手的回合，对手无法从手牌使出宝可梦并完成进化。"
+    },
+    {
+      "name": "超念力",
+      "effect": ""
+    }
+  ]
+}

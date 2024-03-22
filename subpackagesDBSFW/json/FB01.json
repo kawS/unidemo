@@ -573,8 +573,7 @@
     "features": "Saiyan/Universe7",
     "effect": [
       [
-        "<span style=\"background: #5475b2; color: #fff\">[登场时]</span> 将我方1张生命卡加入手牌。之后，KO对方1张力量
-        20000以下的BATTLE卡。"
+        "<span style=\"background: #5475b2; color: #fff\">[登场时]</span> 将我方1张生命卡加入手牌。之后，KO对方1张力量20000以下的BATTLE卡。"
       ],
       [
         "<span style=\"background: #5475b2; color: #fff\">[On Play]</span> Add up to 1 card from your life to your hand. Then, choose up to 1 of your opponent's Battle Cards with 20000 power or less and KO it."
@@ -605,8 +604,7 @@
     "features": "Saiyan/Universe7",
     "effect": [
       [
-        "<span style=\"background: #5475b2; color: #fff\">[登场时]</span> 将我方1张生命卡加入手牌。之后，KO对方1张力量
-        20000以下的BATTLE卡。"
+        "<span style=\"background: #5475b2; color: #fff\">[登场时]</span> 将我方1张生命卡加入手牌。之后，KO对方1张力量20000以下的BATTLE卡。"
       ],
       [
         "<span style=\"background: #5475b2; color: #fff\">[On Play]</span> Add up to 1 card from your life to your hand. Then, choose up to 1 of your opponent's Battle Cards with 20000 power or less and KO it."
@@ -1231,7 +1229,7 @@
     "features": "Universe6",
     "effect": [
       [
-        "<span style=\"background: #db8b03; color: #fff\">[起动主要]</span> KO对方任意张力量合计35000以下的战斗卡。"
+        "<span style=\"background: #db8b03; color: #fff\">[起动主要]</span> KO对方任意张力量合计35000以下的BATTLE卡。"
       ],
       [
         "<span style=\"background: #db8b03; color: #fff\">[Activate Main]</span> Choose any number of your opponent's Battle Cards that add up to a total power of 35000 or less and KO them."
@@ -1263,7 +1261,7 @@
     "effect": [
       [
         "<span style=\"background: #db8b03; color: #fff\">[起动主要]</span> 选择对方的1张BATTLE卡，本回合中，力量-15000。"
-      ]
+      ],
       [
         "<span style=\"background: #db8b03; color: #fff\">[Activate Main]</span> Choose up to 1 of your opponent's Battle Cards and it gets -15000 power for the turn."
       ]
@@ -1533,8 +1531,7 @@
     "effect": [
       [
         "<span style=\"background: #5475b2; color: #fff\">[登场时]</span> 将我方弃牌区1张费用4以下的卡牌加入手牌。",
-        "<span style=\"background: #5475b2; color: #fff\">[攻击时]</span> 我方的手牌7张以下的场合，将我方手牌中1张费
-        用4以下的BATTLE卡登场。"
+        "<span style=\"background: #5475b2; color: #fff\">[攻击时]</span> 我方的手牌7张以下的场合，将我方手牌中1张费用4以下的BATTLE卡登场。"
       ],
       [
         "<span style=\"background: #5475b2; color: #fff\">[On Play]</span> Add up to 1 card with a cost of 4 or less from your Drop to your hand.",
@@ -1567,8 +1564,7 @@
     "effect": [
       [
         "<span style=\"background: #5475b2; color: #fff\">[登场时]</span> 将我方弃牌区1张费用4以下的卡牌加入手牌。",
-        "<span style=\"background: #5475b2; color: #fff\">[攻击时]</span> 我方的手牌7张以下的场合，将我方手牌中1张费
-        用4以下的BATTLE卡登场。"
+        "<span style=\"background: #5475b2; color: #fff\">[攻击时]</span> 我方的手牌7张以下的场合，将我方手牌中1张费用4以下的BATTLE卡登场。"
       ],
       [
         "<span style=\"background: #5475b2; color: #fff\">[On Play]</span> Add up to 1 card with a cost of 4 or less from your Drop to your hand.",
@@ -1785,8 +1781,7 @@
     "features": "Saiyan",
     "effect": [
       [
-        "<span style=\"background: #5475b2; color: #fff\">[登场时]</span> 将我方1张费用4以上的BATTLE卡返回手牌：将对方的1
-        张BATTLE卡返回手牌。"
+        "<span style=\"background: #5475b2; color: #fff\">[登场时]</span> 将我方1张费用4以上的BATTLE卡返回手牌：将对方的1张BATTLE卡返回手牌。"
       ],
       [
         "<span style=\"background: #5475b2; color: #fff\">[On Play]</span> Choose up to 1 of your Battle Cards with a cost of 4 or more and return it to your hand : Choose up to 1 of your opponent's Battle Cards and return it to its owner's hand."
@@ -1909,7 +1904,7 @@
     "features": "Saiyan/Earthling",
     "effect": [
       [
-        "<span style=\"background: #5475b2; color: #fff\">[登场时]</span> 将我方1张生命卡加入手牌。之后，将1张费用5以下的战斗卡返回持有者的手牌。"
+        "<span style=\"background: #5475b2; color: #fff\">[登场时]</span> 将我方1张生命卡加入手牌。之后，将1张费用5以下的BATTLE卡返回持有者的手牌。"
       ],
       [
         "<span style=\"background: #5475b2; color: #fff\">[On Play]</span> Add up to 1 card from your life to your hand. Then, choose up to 1 Battle Card with a cost of 5 or less and return it to its owner's hand."
@@ -1940,7 +1935,7 @@
     "features": "Saiyan/Earthling",
     "effect": [
       [
-        "<span style=\"background: #5475b2; color: #fff\">[登场时]</span> 将我方1张生命卡加入手牌。之后，将1张费用5以下的战斗卡返回持有者的手牌。"
+        "<span style=\"background: #5475b2; color: #fff\">[登场时]</span> 将我方1张生命卡加入手牌。之后，将1张费用5以下的BATTLE卡返回持有者的手牌。"
       ],
       [
         "<span style=\"background: #5475b2; color: #fff\">[On Play]</span> Add up to 1 card from your life to your hand. Then, choose up to 1 Battle Card with a cost of 5 or less and return it to its owner's hand."
@@ -1971,6 +1966,10 @@
     "features": "Saiyan/Earthling",
     "effect": [
       [
+        "<span style=\"background: #7a4480; color: #fff\">[暴击]</span> (这张卡的攻击造成伤害时，将那张生命卡弃置)",
+        "<span style=\"background: #5475b2; color: #fff\">[登场时]</span> 将1张费用3以下的BATTLE卡返回持有者的手牌。"
+      ],
+      [
         "<span style=\"background: #7a4480; color: #fff\">[Critical]</span> (When this card inflicts damage with an attack, the life is placed in the Drop.)",
         "<span style=\"background: #5475b2; color: #fff\">[On Play]</span> Choose up to 1 Battle Card with a cost of 3 or less and return it to its owner's hand."
       ]
@@ -1999,6 +1998,10 @@
     "comboPower": "10000",
     "features": "Saiyan/Earthling",
     "effect": [
+      [
+        "<span style=\"background: #7a4480; color: #fff\">[阻挡者]</span> (对方攻击后，可以将此卡牌转为休息状态，并将攻击对象改为此卡牌)",
+        "<span style=\"background: #5475b2; color: #fff\">[登场时]</span> 将我方1张生命卡加入手牌。"
+      ],
       [
         "<span style=\"background: #7a4480; color: #fff\">[Blocker]</span> (After an opponent's attack, you may switch this card to Rest Mode and change the target of the attack to this card.)",
         "<span style=\"background: #5475b2; color: #fff\">[On Play]</span> Add up to 1 card from your life to your hand."
@@ -2057,6 +2060,9 @@
     "features": "Earthling",
     "effect": [
       [
+        "<span style=\"background: #5475b2; color: #fff\">[登场时]</span> 我方的手牌7张以下的场合，选择我方的1张&lt;特兰克斯：未来&gt;，本回合中，力量+10000。"
+      ],
+      [
         "<span style=\"background: #5475b2; color: #fff\">[On Play]</span> If you have 7 or fewer cards in your hand, choose up to 1 of your &lt;Trunks : Future&gt; and it gets +10000 power for the turn."
       ]
     ],
@@ -2084,6 +2090,9 @@
     "comboPower": "10000",
     "features": "Saiyan/Earthling",
     "effect": [
+      [
+        "<span style=\"background: #5475b2; color: #fff\">[登场时]</span> 抽取2张卡牌，弃置2张手牌。"
+      ],
       [
         "<span style=\"background: #5475b2; color: #fff\">[On Play]</span> Draw 2 cards. Then, discard 2 cards from your hand."
       ]
@@ -2113,6 +2122,9 @@
     "features": "Earthling",
     "effect": [
       [
+        "<span style=\"background: #5475b2; color: #fff\">[登场时]</span> 我方的手牌7张以下的场合，将我方弃牌区1张费用1以下拥有特征《地球人》的卡牌加入手牌。"
+      ],
+      [
         "<span style=\"background: #5475b2; color: #fff\">[On Play]</span> If you have 7 or fewer cards in your hand, add up to 1 card with a cost of 1 or less and 《Earthling》 in its special traits from your Drop to your hand."
       ]
     ],
@@ -2140,6 +2152,9 @@
     "comboPower": "5000",
     "features": "Earthling",
     "effect": [
+      [
+        "<span style=\"background: #db8b03; color: #fff\">[起动主要]</span><span style=\"background: #c04256; color: #fff\">[1回合1次]</span> 我方的手牌7张以下的场合，本回合中，下张从手牌打出的EXTRA卡费用减少(蓝)"
+      ],
       [
         "<span style=\"background: #db8b03; color: #fff\">[Activate Main]</span><span style=\"background: #c04256; color: #fff\">[Once per turn]</span> If you have 7 or fewer cards in your hand, during this turn, the next time you use an Extra from your hand, reduce the cost by (Blue)."
       ]
@@ -2169,6 +2184,9 @@
     "features": "Saiyan",
     "effect": [
       [
+        "<span style=\"background: #5475b2; color: #fff\">[我方的回合结束时]</span> 我方的手牌7张以下的场合，将这张卡转为活跃状态。"
+      ],
+      [
         "<span style=\"background: #5475b2; color: #fff\">[End of Your Turn]</span> If you have 7 or fewer cards in your hand, switch this card to Active Mode."
       ]
     ],
@@ -2196,6 +2214,9 @@
     "comboPower": "5000",
     "features": "Saiyan",
     "effect": [
+      [
+        "<span style=\"background: #5475b2; color: #fff\">[攻击时]</span><span style=\"background: #c04256; color: #fff\">[1回合1次]</span> 将对方1张费用1以下的BATTLE卡放回牌组最下方。之后，将这张卡转为活跃状态。"
+      ],
       [
         "<span style=\"background: #5475b2; color: #fff\">[When Attacking]</span><span style=\"background: #c04256; color: #fff\">[Once per turn]</span> Choose up to 1 of your opponent's Battle Cards with a cost of 1 or less and place it at the bottom of its owner's deck. Then, switch this card to Active Mode."
       ]
@@ -2225,6 +2246,9 @@
     "features": "Saiyan",
     "effect": [
       [
+        "<span style=\"background: #7a4480; color: #fff\">[暴击]</span> (这张卡的攻击造成伤害时，将那张生命卡弃置)"
+      ],
+      [
         "<span style=\"background: #7a4480; color: #fff\">[Critical]</span> (When this card inflicts damage with an attack, the life is placed in the Drop.)"
       ]
     ],
@@ -2253,6 +2277,9 @@
     "features": "Earthling",
     "effect": [
       [
+        "<span style=\"background: #db8b03; color: #fff\">[起动主要]</span><span style=\"background: #c04256; color: #fff\">[1回合1次]</span> 公开我方卡组最上方的1张卡牌，将那张卡放回卡组的最上方或最下方。"
+      ],
+      [
         "<span style=\"background: #db8b03; color: #fff\">[Activate Main]</span><span style=\"background: #c04256; color: #fff\">[Once per turn]</span> Look at the top card of your deck and place it at the top or bottom of your deck."
       ]
     ],
@@ -2280,6 +2307,10 @@
     "comboPower": "5000",
     "features": "Earthling",
     "effect": [
+      [
+        "<span style=\"background: #5475b2; color: #fff\">[登场时]</span> 将我方2张生命卡加入手牌。",
+        "<span style=\"background: #5475b2; color: #fff\">[自动]</span><span style=\"background: #c04256; color: #fff\">[1回合1次]</span> 我方的手牌7张以下的场合，通过我方的效果将对方的BATTLE卡返回手牌时，抽取1张卡牌。"
+      ],
       [
         "<span style=\"background: #5475b2; color: #fff\">[On Play]</span> Add up to 2 cards from your life to your hand.",
         "<span style=\"background: #5475b2; color: #fff\">[Auto]</span><span style=\"background: #c04256; color: #fff\">[Once per turn]</span> If you have 7 or fewer cards in your hand, when an opponent's Battle Card is returned to their hand by one of your skills, draw 1 card."
@@ -2310,6 +2341,10 @@
     "features": "Earthling",
     "effect": [
       [
+        "<span style=\"background: #5475b2; color: #fff\">[登场时]</span> 将我方2张生命卡加入手牌。",
+        "<span style=\"background: #5475b2; color: #fff\">[自动]</span><span style=\"background: #c04256; color: #fff\">[1回合1次]</span> 我方的手牌7张以下的场合，通过我方的效果将对方的BATTLE卡返回手牌时，抽取1张卡牌。"
+      ],
+      [
         "<span style=\"background: #5475b2; color: #fff\">[On Play]</span> Add up to 2 cards from your life to your hand.",
         "<span style=\"background: #5475b2; color: #fff\">[Auto]</span><span style=\"background: #c04256; color: #fff\">[Once per turn]</span> If you have 7 or fewer cards in your hand, when an opponent's Battle Card is returned to their hand by one of your skills, draw 1 card."
       ]
@@ -2338,6 +2373,10 @@
     "comboPower": "10000",
     "features": "Earthling",
     "effect": [
+      [
+        "<span style=\"background: #7a4480; color: #fff\">[超级COMBO]</span> (<span style=\"background: #7a4480; color: #fff\">[超级COMBO]</span>仅能在卡组中投入合计不超过4张)",
+        "<span style=\"background: #5475b2; color: #fff\">[自动]</span><span style=\"background: #c04256; color: #fff\">[对方的回合中]</span> 手牌中的这张卡进行COMBO时，这张卡的COMBO力量+10000。"
+      ],
       [
         "<span style=\"background: #7a4480; color: #fff\">[Super Combo]</span> (A maximum of 4 cards with <span style=\"background: #7a4480; color: #fff\">[Super Combo]</span> can be placed in a deck.)",
         "<span style=\"background: #5475b2; color: #fff\">[Auto]</span><span style=\"background: #c04256; color: #fff\">[Opponent's Turn]</span> When you use this card in a combo from your hand, this card gets +10000 combo power."
@@ -2368,6 +2407,10 @@
     "features": "SupremeKai",
     "effect": [
       [
+        "<span style=\"background: #c74695; color: #fff\">[永续]</span> 我方场上存在&lt;扎马斯&gt;的场合，手牌中的这张卡费用-1。",
+        "<span style=\"background: #db8b03; color: #fff\">[起动主要]</span> 将对方的2张费用3以下的BATTLE卡返回手牌。"
+      ],
+      [
         "<span style=\"background: #c74695; color: #fff\">[Permanent]</span> If you have a &lt;Zamasu&gt; Battle Card, reduce the cost of this card in your hand by 1.",
         "<span style=\"background: #db8b03; color: #fff\">[Activate Main]</span> Choose up to 2 of your opponent's Battle Cards with costs of 3 or less and return them to their owner's hand."
       ]
@@ -2397,6 +2440,9 @@
     "features": "Saiyan/Earthling",
     "effect": [
       [
+        "<span style=\"background: #db8b03; color: #fff\">[起动主要]</span> 确认我方卡组最下方的1张卡牌，将其中1张费用2的&lt;特兰克斯：未来&gt;登场。剩余的卡牌放回卡组最下方。"
+      ],
+      [
         "<span style=\"background: #db8b03; color: #fff\">[Activate Main]</span> Look at the bottom card of your deck and play up to 1 &lt;Trunks : Future&gt; with a cost of 2. Place any remaining cards at the bottom of your deck."
       ]
     ],
@@ -2424,6 +2470,9 @@
     "comboPower": "-",
     "features": "Saiyan/Earthling",
     "effect": [
+      [
+        "<span style=\"background: #db8b03; color: #fff\">[起动战斗中]</span><span style=\"background: #c04256; color: #fff\">[我方的回合中]</span> 选择我方LEADER或我方的1张BATTLE卡，本次战斗中，力量+20000。之后，将1张费用2以下的BATTLE卡返回持有者手牌。"
+      ],
       [
         "<span style=\"background: #db8b03; color: #fff\">[Activate Battle]</span><span style=\"background: #c04256; color: #fff\">[Your Turn]</span> Choose your Leader or up to 1 of your Battle Cards and it gets +20000 power for the battle. Then, choose up to 1 Battle Card with a cost of 2 or less and return it to its owner's hand."
       ]
@@ -2453,6 +2502,9 @@
     "features": "Saiyan",
     "effect": [
       [
+        "<span style=\"background: #db8b03; color: #fff\">[起动战斗中]</span><span style=\"background: #c04256; color: #fff\">[对方的回合中]</span> 选择我方LEADER或我方的1张BATTLE卡，本次战斗中，力量+20000。之后，确认我方卡组最上方的3张卡牌，按喜欢的顺序放回卡组的最上方或最下方。"
+      ],
+      [
         "<span style=\"background: #db8b03; color: #fff\">[Activate Battle]</span><span style=\"background: #c04256; color: #fff\">[Opponent's Turn]</span> Choose your Leader or up to 1 of your Battle Cards and it gets +20000 power for the battle. Then, look at 3 cards from the top of your deck and place them at the top or bottom of your deck in any order."
       ]
     ],
@@ -2481,6 +2533,9 @@
     "features": "Saiyan",
     "effect": [
       [
+        "<span style=\"background: #db8b03; color: #fff\">[起动主要]</span> 选择对方2张费用4以下的BATTLE卡，按喜欢的顺序放回卡组最下方。"
+      ],
+      [
         "<span style=\"background: #db8b03; color: #fff\">[Activate Main]</span> Choose up to 2 of your opponent's Battle Cards with costs of 4 or less and place them at the bottom of their owner's deck in any order."
       ]
     ],
@@ -2508,6 +2563,9 @@
     "comboPower": "-",
     "features": "Saiyan",
     "effect": [
+      [
+        "<span style=\"background: #db8b03; color: #fff\">[起动主要]</span> 我方手牌7张以下的场合，将我方的1张&lt;黑悟空&gt;转为活跃状态。"
+      ],
       [
         "<span style=\"background: #db8b03; color: #fff\">[Activate Main]</span> If you have 7 or fewer cards in your hand, choose up to 1 of your &lt;Goku Black&gt; Battle Cards and switch it to Active Mode."
       ]
@@ -2539,6 +2597,14 @@
     "comboPower": "-",
     "features": "Android",
     "effect": [
+      [
+        "<span style=\"background: #5475b2; color: #fff\">[攻击时]</span> 抽取1张卡牌。",
+        "<span style=\"background: #db8b03; color: #fff\">[觉醒]</span> 我方的生命卡4张以下的场合，将我方1张生命卡以休息状态放入能量区。之后，将这张卡翻面。"
+      ],
+      [
+        "<span style=\"background: #c74695; color: #fff\">[永续]</span><span style=\"background: #c04256; color: #fff\">[我方的回合中]</span> 我方的能量6张以上的场合，这张卡的力量+10000。",
+        "<span style=\"background: #5475b2; color: #fff\">[攻击时]</span> 抽取1张卡牌。",
+      ],
       [
         "<span style=\"background: #5475b2; color: #fff\">[When Attacking]</span> Draw 1 card.",
         "<span style=\"background: #db8b03; color: #fff\">[Awaken]</span> When your life is at 4 or less, draw 1 card. Then, flip this card over."
@@ -2576,6 +2642,14 @@
     "features": "Android",
     "effect": [
       [
+        "<span style=\"background: #5475b2; color: #fff\">[攻击时]</span> 抽取1张卡牌。",
+        "<span style=\"background: #db8b03; color: #fff\">[觉醒]</span> 我方的生命卡4张以下的场合，将我方1张生命卡以休息状态放入能量区。之后，将这张卡翻面。"
+      ],
+      [
+        "<span style=\"background: #c74695; color: #fff\">[永续]</span><span style=\"background: #c04256; color: #fff\">[我方的回合中]</span> 我方的能量6张以上的场合，这张卡的力量+10000。",
+        "<span style=\"background: #5475b2; color: #fff\">[攻击时]</span> 抽取1张卡牌。",
+      ],
+      [
         "<span style=\"background: #5475b2; color: #fff\">[When Attacking]</span> Draw 1 card.",
         "<span style=\"background: #db8b03; color: #fff\">[Awaken]</span> When your life is at 4 or less, draw 1 card. Then, flip this card over."
       ],
@@ -2611,6 +2685,14 @@
     "comboPower": "-",
     "features": "Saiyan/Earthling",
     "effect": [
+      [
+        "<span style=\"background: #5475b2; color: #fff\">[攻击时]</span> 抽取1张卡牌。",
+        "<span style=\"background: #db8b03; color: #fff\">[觉醒]</span> 我方的生命卡4张以下的场合，将我方1张生命卡以休息状态放入能量区。之后，将这张卡翻面。"
+      ],
+      [
+        "<span style=\"background: #5475b2; color: #fff\">[攻击时]</span> 抽取1张卡牌。",
+        "<span style=\"background: #db8b03; color: #fff\">[起动战斗中]</span><span style=\"background: #c04256; color: #fff\">[1回合1次]</span> 将我方的1张能量放入弃牌区：本次战斗中，这张卡的力量+15000。"
+      ],
       [
         "<span style=\"background: #5475b2; color: #fff\">[When Attacking]</span> Draw 1 card.",
         "<span style=\"background: #db8b03; color: #fff\">[Awaken]</span> When your life is at 4 or less, draw 1 card. Then, flip this card over."
@@ -2648,6 +2730,14 @@
     "features": "Saiyan/Earthling",
     "effect": [
       [
+        "<span style=\"background: #5475b2; color: #fff\">[攻击时]</span> 抽取1张卡牌。",
+        "<span style=\"background: #db8b03; color: #fff\">[觉醒]</span> 我方的生命卡4张以下的场合，将我方1张生命卡以休息状态放入能量区。之后，将这张卡翻面。"
+      ],
+      [
+        "<span style=\"background: #5475b2; color: #fff\">[攻击时]</span> 抽取1张卡牌。",
+        "<span style=\"background: #db8b03; color: #fff\">[起动战斗中]</span><span style=\"background: #c04256; color: #fff\">[1回合1次]</span> 将我方的1张能量放入弃牌区：本次战斗中，这张卡的力量+15000。"
+      ],
+      [
         "<span style=\"background: #5475b2; color: #fff\">[When Attacking]</span> Draw 1 card.",
         "<span style=\"background: #db8b03; color: #fff\">[Awaken]</span> When your life is at 4 or less, draw 1 card. Then, flip this card over."
       ],
@@ -2681,6 +2771,9 @@
     "features": "Earthling",
     "effect": [
       [
+        "<span style=\"background: #c74695; color: #fff\">[永续]</span> 对方无法攻击我方场上的&lt;人造人18号&gt;。"
+      ],
+      [
         "<span style=\"background: #c74695; color: #fff\">[Permanent]</span> Your opponent can't attack &lt;Android 18&gt; in your Battle Area."
       ]
     ],
@@ -2708,6 +2801,10 @@
     "comboPower": "10000",
     "features": "Android",
     "effect": [
+      [
+        "<span style=\"background: #7a4480; color: #fff\">[阻挡者]</span> (对方攻击后，可以将此卡牌转为休息状态，并将攻击对象改为此卡牌)",
+        "<span style=\"background: #c74695; color: #fff\">[永续]</span><span style=\"background: #c04256; color: #fff\">[对方的回合中]</span> 我方的能量区存在&lt;人造人17号&gt;和&lt;人造人18号&gt;的场合，这张卡的力量+10000。"
+      ],
       [
         "<span style=\"background: #7a4480; color: #fff\">[Blocker]</span> (After an opponent's attack, you may switch this card to Rest Mode and change the target of the attack to this card.)",
         "<span style=\"background: #c74695; color: #fff\">[Permanent]</span><span style=\"background: #c04256; color: #fff\">[Opponent's Turn]</span> If you have &lt;Android 17&gt; and &lt;Android 18&gt; in your Energy Area, this card gets +10000 power."
@@ -2738,6 +2835,10 @@
     "features": "Android",
     "effect": [
       [
+        "<span style=\"background: #7a4480; color: #fff\">[阻挡者]</span> (对方攻击后，可以将此卡牌转为休息状态，并将攻击对象改为此卡牌)",
+        "<span style=\"background: #5475b2; color: #fff\">[KO时]</span> 将1张费用6的&lt;孙悟饭：少年期&gt;从我方的弃牌区登场。"
+      ],
+      [
         "<span style=\"background: #7a4480; color: #fff\">[Blocker]</span> (After an opponent's attack, you may switch this card to Rest Mode and change the target of the attack to this card.)",
         "<span style=\"background: #5475b2; color: #fff\">[When KO'd]</span> Play up to 1 &lt;Son Gohan : Childhood&gt; with a cost of 6 from your Drop."
       ]
@@ -2766,6 +2867,9 @@
     "comboPower": "10000",
     "features": "Android",
     "effect": [
+      [
+        "<span style=\"background: #7a4480; color: #fff\">[暴击]</span> (这张卡的攻击造成伤害时，将那张生命卡弃置)"
+      ],
       [
         "<span style=\"background: #7a4480; color: #fff\">[Critical]</span> (When this card inflicts damage with an attack, the life is placed in the Drop.)"
       ]
@@ -2823,6 +2927,9 @@
     "features": "Android",
     "effect": [
       [
+        "<span style=\"background: #5475b2; color: #fff\">[登场时]</span> 将我方1张生命卡加入手牌。之后，将1张费用3以下的&lt;人造人18号&gt;从我方的弃牌区登场。"
+      ],
+      [
         "<span style=\"background: #5475b2; color: #fff\">[On Play]</span> Add up to 1 card from your life to your hand. Then, play up to 1 &lt;Android 18&gt; with a cost of 3 or less from your Drop."
       ]
     ],
@@ -2850,6 +2957,10 @@
     "comboPower": "-",
     "features": "Android",
     "effect": [
+      [
+        "<span style=\"background: #7a4480; color: #fff\">[双重攻击]</span> (这张卡的攻击给予的伤害变为2)",
+        "<span style=\"background: #5475b2; color: #fff\">[登场时]</span> 登场时KO对方2张费用3以下的BATTLE卡。"
+      ],
       [
         "<span style=\"background: #7a4480; color: #fff\">[Double Strike]</span> (This card inflicts 2 damage instead of 1 when attacking.)",
         "<span style=\"background: #5475b2; color: #fff\">[On Play]</span> Choose up to 2 of your opponent's Battle Cards with costs of 3 or less and KO them."
@@ -2880,6 +2991,10 @@
     "features": "Android",
     "effect": [
       [
+        "<span style=\"background: #7a4480; color: #fff\">[双重攻击]</span> (这张卡的攻击给予的伤害变为2)",
+        "<span style=\"background: #5475b2; color: #fff\">[登场时]</span> 登场时KO对方2张费用3以下的BATTLE卡。"
+      ],
+      [
         "<span style=\"background: #7a4480; color: #fff\">[Double Strike]</span> (This card inflicts 2 damage instead of 1 when attacking.)",
         "<span style=\"background: #5475b2; color: #fff\">[On Play]</span> Choose up to 2 of your opponent's Battle Cards with costs of 3 or less and KO them."
       ]
@@ -2908,6 +3023,10 @@
     "comboPower": "5000",
     "features": "Android",
     "effect": [
+      [
+        "<span style=\"background: #5475b2; color: #fff\">[登场时]</span> 抽取1张卡牌。之后，弃置1张手牌。",
+        "<span style=\"background: #5475b2; color: #fff\">[攻击时]</span> 我方的能量6张以上的场合，抽取1张卡牌。"
+      ],
       [
         "<span style=\"background: #5475b2; color: #fff\">[On Play]</span> Draw 1 card. Then, discard 1 card from your hand.",
         "<span style=\"background: #5475b2; color: #fff\">[When Attacking]</span> If you have 6 or more energy, draw 1 card."
@@ -2938,6 +3057,10 @@
     "features": "Android",
     "effect": [
       [
+        "<span style=\"background: #5475b2; color: #fff\">[登场时]</span> 抽取1张卡牌。之后，弃置1张手牌。",
+        "<span style=\"background: #5475b2; color: #fff\">[攻击时]</span> 我方的能量6张以上的场合，抽取1张卡牌。"
+      ],
+      [
         "<span style=\"background: #5475b2; color: #fff\">[On Play]</span> Draw 1 card. Then, discard 1 card from your hand.",
         "<span style=\"background: #5475b2; color: #fff\">[When Attacking]</span> If you have 6 or more energy, draw 1 card."
       ]
@@ -2967,6 +3090,9 @@
     "features": "Android",
     "effect": [
       [
+        "<span style=\"background: #5475b2; color: #fff\">[攻击时]</span> 将我方的1张能量放入弃牌区：将我方的1张手牌放入能量区。"
+      ],
+      [
         "<span style=\"background: #5475b2; color: #fff\">[When Attacking]</span> Place 1 card from your energy in your Drop : Add up to 1 card from your hand to your energy."
       ]
     ],
@@ -2994,6 +3120,9 @@
     "comboPower": "5000",
     "features": "Android",
     "effect": [
+      [
+        "<span style=\"background: #5475b2; color: #fff\">[登场时]</span> 将我方1张生命卡加入手牌。之后，将我方1张费用3以下的&lt;人造人17号&gt;从弃牌区登场。"
+      ],
       [
         "<span style=\"background: #5475b2; color: #fff\">[On Play]</span> Add up to 1 card from your life to your hand. Then, play up to 1 &lt;Android 17&gt; with a cost of 3 or less from your Drop."
       ]
@@ -3023,6 +3152,9 @@
     "features": "Android",
     "effect": [
       [
+        "<span style=\"background: #c74695; color: #fff\">[永续]</span> 我方的能量6张以上的场合，这张卡的力量+10000。"
+      ],
+      [
         "<span style=\"background: #c74695; color: #fff\">[Permanent]</span> If you have 6 or more energy, this card gets +10000 power."
       ]
     ],
@@ -3050,6 +3182,9 @@
     "comboPower": "5000",
     "features": "Android",
     "effect": [
+      [
+        "<span style=\"background: #5475b2; color: #fff\">[登场时]</span> 确认我方卡组最上方的5张卡牌，公开其中最多1张人&lt;造人17号&gt;或&lt;人造人18号&gt;并加入手牌，将剩余的卡牌自选顺序放回卡组最下方。"
+      ],
       [
         "<span style=\"background: #5475b2; color: #fff\">[On Play]</span> Look at 5 cards from the top of your deck, reveal up to 1 &lt;Android 17&gt; or up to 1 &lt;Android 18&gt; and add it to your hand. Place the rest at the bottom of your deck in a random order."
       ]
@@ -3079,6 +3214,9 @@
     "features": "Android",
     "effect": [
       [
+        "<span style=\"background: #db8b03; color: #fff\">[起动主要]</span> 将这张卡KO：公开我方卡组最上方的10张卡牌，将最多1张&lt;盖洛博士的研究所&gt;放入战斗区。将剩余的卡牌自选顺序放回卡组最下方。"
+      ],
+      [
         "<span style=\"background: #db8b03; color: #fff\">[Activate Main]</span> KO this card : Look at 10 cards from the top of your deck and place up to 1 &lt;Dr. Gero's Lab&gt; in your Battle Area. Place the rest at the bottom of your deck in a random order."
       ]
     ],
@@ -3106,6 +3244,9 @@
     "comboPower": "5000",
     "features": "Saiyan",
     "effect": [
+      [
+        "<span style=\"background: #5475b2; color: #fff\">[登场时]</span> 抽取1张卡牌。"
+      ],
       [
         "<span style=\"background: #5475b2; color: #fff\">[On Play]</span> Draw 1 card."
       ]
@@ -3135,6 +3276,9 @@
     "features": "Saiyan",
     "effect": [
       [
+        "<span style=\"background: #c74695; color: #fff\">[永续]</span><span style=\"background: #c04256; color: #fff\">[我方的回合中]</span> 我方的弃牌区存在&lt;孙悟饭：少年期&gt;的场合，这张卡的力量+10000。"
+      ],
+      [
         "<span style=\"background: #c74695; color: #fff\">[Permanent]</span><span style=\"background: #c04256; color: #fff\">[Your Turn]</span> If you have &lt;Son Gohan : Childhood&gt; in your Drop, this card gets +10000 power."
       ]
     ],
@@ -3162,6 +3306,9 @@
     "comboPower": "5000",
     "features": "Saiyan",
     "effect": [
+      [
+        "<span style=\"background: #5475b2; color: #fff\">[自动]</span> 当这张卡登场时，或有卡牌从能量区放入弃牌区时，将我方卡组最上方的1张卡以休息状态放入能量区。"
+      ],
       [
         "<span style=\"background: #5475b2; color: #fff\">[Auto]</span> When this card is played or when a card is placed in your Drop from your energy, add the top card of your deck to your energy in Rest Mode."
       ]
@@ -3191,6 +3338,9 @@
     "features": "Saiyan/Earthling",
     "effect": [
       [
+        "<span style=\"background: #5475b2; color: #fff\">[登场时]</span> 确认我方卡组最上方的3张卡牌，公开其中最多1张费用5以下拥有特征《赛亚人》的卡牌并加入手牌。将剩余的卡牌按随机顺序放入卡组最下方。"
+      ],
+      [
         "<span style=\"background: #5475b2; color: #fff\">[On Play]</span> Look at 3 cards from the top of your deck, then reveal up to 1 card with a cost of 5 or less and 《Saiyan》 in its special traits and add it to your hand. Place the rest at the bottom of your deck in a random order."
       ]
     ],
@@ -3218,6 +3368,9 @@
     "comboPower": "10000",
     "features": "Saiyan/Earthling",
     "effect": [
+      [
+        "<span style=\"background: #5475b2; color: #fff\">[登场时]</span> KO对方的1张费用4以下的BATTLE卡。"
+      ],
       [
         "<span style=\"background: #5475b2; color: #fff\">[On Play]</span> Choose up to 1 of your opponent's Battle Cards with a cost of 4 or less and KO it."
       ]
@@ -3247,6 +3400,9 @@
     "features": "Saiyan/Earthling",
     "effect": [
       [
+        "<span style=\"background: #5475b2; color: #fff\">[登场时]</span> 将我方卡组最上方的1张卡放入生命区。"
+      ],
+      [
         "<span style=\"background: #5475b2; color: #fff\">[On Play]</span> Add the top card of your deck to your life."
       ]
     ],
@@ -3274,6 +3430,9 @@
     "comboPower": "10000",
     "features": "Earthling",
     "effect": [
+      [
+        "<span style=\"background: #5475b2; color: #fff\">[登场时]</span> 将我方1张生命卡放入弃牌区：KO对方的1张费用4以下的BATTLE卡。"
+      ],
       [
         "<span style=\"background: #5475b2; color: #fff\">[On Play]</span> Place 1 card from your life in your Drop : Choose up to 1 of your opponent's Battle Cards with a cost of 4 or less and KO it."
       ]
@@ -3303,6 +3462,10 @@
     "features": "Saiyan/Earthling",
     "effect": [
       [
+        "<span style=\"background: #7a4480; color: #fff\">[阻挡者]</span> (对方攻击后，可以将此卡牌转为休息状态，并将攻击对象改为此卡牌)",
+        "<span style=\"background: #5475b2; color: #fff\">[KO时]</span> 我方的LEADER是&lt;孙悟饭：少年期&gt;的场合，将我方卡组最上方的1张卡放入能量区。"
+      ],
+      [
         "<span style=\"background: #7a4480; color: #fff\">[Blocker]</span> (After an opponent's attack, you may switch this card to Rest Mode and change the target of the attack to this card.)",
         "<span style=\"background: #5475b2; color: #fff\">[When KO'd]</span> If your Leader is &lt;Son Gohan : Childhood&gt;, add the top card of your deck to your energy."
       ]
@@ -3331,6 +3494,9 @@
     "comboPower": "10000",
     "features": "Saiyan/Earthling",
     "effect": [
+      [
+        "<span style=\"background: #c74695; color: #fff\">[永续]</span> 这张卡无法攻击对方的LEADER。"
+      ],
       [
         "<span style=\"background: #c74695; color: #fff\">[Permanent]</span> This card can't attack your opponent's Leader."
       ]
@@ -3416,6 +3582,10 @@
     "features": "Saiyan",
     "effect": [
       [
+        "<span style=\"background: #5475b2; color: #fff\">[登场时]</span> 将我方弃牌区1张费用3以上的卡牌以休息状态放入能量区。",
+        "<span style=\"background: #db8b03; color: #fff\">[起动主要]</span><span style=\"background: #c04256; color: #fff\">[1回合1次]</span> 弃置1张手牌：KO对方1张费用2以下的BATTLE卡。"
+      ],
+      [
         "<span style=\"background: #5475b2; color: #fff\">[On Play]</span> Add up to 1 card with a cost of 3 or more from your Drop to your energy in Rest Mode.",
         "<span style=\"background: #db8b03; color: #fff\">[Activate Main]</span><span style=\"background: #c04256; color: #fff\">[Once per turn]</span> Discard 1 card from your hand : Choose up to 1 of your opponent's Battle Cards with a cost of 2 or less and KO it."
       ]
@@ -3444,6 +3614,10 @@
     "comboPower": "10000",
     "features": "Saiyan",
     "effect": [
+      [
+        "<span style=\"background: #5475b2; color: #fff\">[登场时]</span> 将我方弃牌区1张费用3以上的卡牌以休息状态放入能量区。",
+        "<span style=\"background: #db8b03; color: #fff\">[起动主要]</span><span style=\"background: #c04256; color: #fff\">[1回合1次]</span> 弃置1张手牌：KO对方1张费用2以下的BATTLE卡。"
+      ],
       [
         "<span style=\"background: #5475b2; color: #fff\">[On Play]</span> Add up to 1 card with a cost of 3 or more from your Drop to your energy in Rest Mode.",
         "<span style=\"background: #db8b03; color: #fff\">[Activate Main]</span><span style=\"background: #c04256; color: #fff\">[Once per turn]</span> Discard 1 card from your hand : Choose up to 1 of your opponent's Battle Cards with a cost of 2 or less and KO it."
@@ -3474,6 +3648,10 @@
     "features": "Earthling",
     "effect": [
       [
+        "<span style=\"background: #c74695; color: #fff\">[永续]</span> 这张卡在可以攻击时必须尽可能地攻击。",
+        "<span style=\"background: #5475b2; color: #fff\">[攻击时]</span> 抽取1张卡牌。之后，弃置1张手牌。"
+      ],
+      [
         "<span style=\"background: #c74695; color: #fff\">[Permanent]</span> This card must attack whenever possible.",
         "<span style=\"background: #5475b2; color: #fff\">[When Attacking]</span> Draw 1 card. Then, discard 1 card from your hand."
       ]
@@ -3502,6 +3680,10 @@
     "comboPower": "10000",
     "features": "Earthling",
     "effect": [
+      [
+        "<span style=\"background: #7a4480; color: #fff\">[超级COMBO]</span> (<span style=\"background: #7a4480; color: #fff\">[超级COMBO]</span>仅能在卡组中投入合计不超过4张)",
+        "<span style=\"background: #5475b2; color: #fff\">[自动]</span><span style=\"background: #c04256; color: #fff\">[对方的回合中]</span> 手牌中的这张卡进行COMBO时，这张卡的COMBO力量+10000。"
+      ],
       [
         "<span style=\"background: #7a4480; color: #fff\">[Super Combo]</span> (A maximum of 4 cards with <span style=\"background: #7a4480; color: #fff\">[Super Combo]</span> can be placed in a deck.)",
         "<span style=\"background: #5475b2; color: #fff\">[Auto]</span><span style=\"background: #c04256; color: #fff\">[Opponent's Turn]</span> When you use this card in a combo from your hand, this card gets +10000 combo power."
@@ -3532,6 +3714,9 @@
     "features": "Android",
     "effect": [
       [
+        "<span style=\"background: #db8b03; color: #fff\">[起动主要]</span> KO对方2张费用1以下的BATTLE卡。"
+      ],
+      [
         "<span style=\"background: #db8b03; color: #fff\">[Activate Main]</span> Choose up to 2 of your opponent's Battle Cards with costs of 1 or less and KO them."
       ]
     ],
@@ -3559,6 +3744,9 @@
     "comboPower": "-",
     "features": "Android",
     "effect": [
+      [
+        "<span style=\"background: #db8b03; color: #fff\">[起动战斗中]</span><span style=\"background: #c04256; color: #fff\">[对方的回合中]</span> 选择我方LEADER或我方的1张BATTLE卡，本次战斗中，力量+20000。之后，我方的弃牌区的卡牌15张以上的场合，将我方弃牌区1张费用3以上的卡牌以休息状态放入能量区。"
+      ],
       [
         "<span style=\"background: #db8b03; color: #fff\">[Activate Battle]</span><span style=\"background: #c04256; color: #fff\">[Opponent's Turn]</span> Choose your Leader or up to 1 of your Battle Cards and it gets +20000 power for the battle. Then, if you have 15 or more cards in your Drop, add up to 1 card with a cost of 3 or more from your Drop to your energy in Rest Mode."
       ]
@@ -3588,6 +3776,9 @@
     "features": "Saiyan",
     "effect": [
       [
+        "<span style=\"background: #db8b03; color: #fff\">[起动战斗中]</span> 将我方1张能量放入弃牌区：选择我方LEADER或1张BATTLE卡，本次战斗中，力量+15000。"
+      ],
+      [
         "<span style=\"background: #db8b03; color: #fff\">[Activate Battle]</span> Place 1 of your energy in your Drop : Choose your Leader or up to 1 of your Battle Cards and it gets +15000 power for the battle."
       ]
     ],
@@ -3616,8 +3807,12 @@
     "features": "Android",
     "effect": [
       [
+        "<span style=\"background: #7a4480; color: #fff\">[场地]</span> (这张卡在我方的战斗场上持续生效，直到使用了其他<span style=\"background: #7a4480; color: #fff\">[场地]</span>)",
+        "<span style=\"background: #db8b03; color: #fff\">[起动主要]</span> (绿)，将这张卡转为休息状态：我方LEADER是&lt;人造人17号&gt;的场合，将我方弃牌区中1张拥有特征《人造人》的卡放入能量区。"
+      ],
+      [
         "<span style=\"background: #7a4480; color: #fff\">[Field]</span> (This card remains in your Battle Area until you place another <span style=\"background: #7a4480; color: #fff\">[Field]</span>.)",
-        "<span style=\"background: #db8b03; color: #fff\">[Activate Main]</span>(Green), switch this card to Rest Mode : If your Leader is &lt;Android 17&gt;, add up to 1 card with 《Android》 in its special traits from your Drop to your energy."
+        "<span style=\"background: #db8b03; color: #fff\">[Activate Main]</span> (Green), switch this card to Rest Mode : If your Leader is &lt;Android 17&gt;, add up to 1 card with 《Android》 in its special traits from your Drop to your energy."
       ]
     ],
     "productName": "BOOSTER PACK -AWAKENED PULSE- [FB01]",
@@ -3644,6 +3839,10 @@
     "comboPower": "-",
     "features": "Saiyan",
     "effect": [
+      [
+        "<span style=\"background: #c74695; color: #fff\">[永续]</span> 我方的能量6张以上的场合，手牌中的这张卡费用-1。",
+        "<span style=\"background: #db8b03; color: #fff\">[起动主要]</span> 将我方1张能量放入弃牌区：KO对方1张费用5以下的BATTLE卡。"
+      ],
       [
         "<span style=\"background: #c74695; color: #fff\">[Permanent]</span> If you have 6 or more energy, reduce the cost of this card in your hand by 1.",
         "<span style=\"background: #db8b03; color: #fff\">[Activate Main]</span> Place 1 of your energy in your Drop : Choose up to 1 of your opponent's Battle Cards with a cost of 5 or less and KO it."
@@ -3677,12 +3876,20 @@
     "features": "GinyuForce/Frieza'sArmy",
     "effect": [
       [
+        "<span style=\"background: #5475b2; color: #fff\">[攻击时]</span> 抽取1张卡牌。",
+        "<span style=\"background: #db8b03; color: #fff\">[觉醒]</span> 我方的生命卡4张以下的场合，抽取1张卡牌。之后，将这张卡翻面。"
+      ],
+      [
+        "<span style=\"background: #5475b2; color: #fff\">[攻击时]</span> 抽取1张卡牌。",
+        "<span style=\"background: #db8b03; color: #fff\">[起动主要]</span><span style=\"background: #c04256; color: #fff\">[1回合1次]</span> (3)，弃置2张手牌：将我方所有拥有特征《基纽特战队》的BATTLE卡转为活跃状态。"
+      ],
+      [
         "<span style=\"background: #5475b2; color: #fff\">[When Attacking]</span> Draw 1 card.",
         "<span style=\"background: #db8b03; color: #fff\">[Awaken]</span> When your life is at 4 or less, switch up to 1 of your energy to Active Mode. Then, flip this card over."
       ],
       [
         "<span style=\"background: #5475b2; color: #fff\">[When Attacking]</span> Draw 1 card.",
-        "<span style=\"background: #db8b03; color: #fff\">[Activate Main]</span><span style=\"background: #c04256; color: #fff\">[Once per turn]</span>(3), discard 2 cards from your hand : Choose all your Battle Cards with 《Ginyu Force》 in their special traits and switch them to Active Mode."
+        "<span style=\"background: #db8b03; color: #fff\">[Activate Main]</span><span style=\"background: #c04256; color: #fff\">[Once per turn]</span> (3), discard 2 cards from your hand : Choose all your Battle Cards with 《Ginyu Force》 in their special traits and switch them to Active Mode."
       ]
     ],
     "productName": "BOOSTER PACK -AWAKENED PULSE- [FB01]",
@@ -3713,12 +3920,20 @@
     "features": "GinyuForce/Frieza'sArmy",
     "effect": [
       [
+        "<span style=\"background: #5475b2; color: #fff\">[攻击时]</span> 抽取1张卡牌。",
+        "<span style=\"background: #db8b03; color: #fff\">[觉醒]</span> 我方的生命卡4张以下的场合，抽取1张卡牌。之后，将这张卡翻面。"
+      ],
+      [
+        "<span style=\"background: #5475b2; color: #fff\">[攻击时]</span> 抽取1张卡牌。",
+        "<span style=\"background: #db8b03; color: #fff\">[起动主要]</span><span style=\"background: #c04256; color: #fff\">[1回合1次]</span> (3)，弃置2张手牌：将我方所有拥有特征《基纽特战队》的BATTLE卡转为活跃状态。"
+      ],
+      [
         "<span style=\"background: #5475b2; color: #fff\">[When Attacking]</span> Draw 1 card.",
         "<span style=\"background: #db8b03; color: #fff\">[Awaken]</span> When your life is at 4 or less, switch up to 1 of your energy to Active Mode. Then, flip this card over."
       ],
       [
         "<span style=\"background: #5475b2; color: #fff\">[When Attacking]</span> Draw 1 card.",
-        "<span style=\"background: #db8b03; color: #fff\">[Activate Main]</span><span style=\"background: #c04256; color: #fff\">[Once per turn]</span>(3), discard 2 cards from your hand : Choose all your Battle Cards with 《Ginyu Force》 in their special traits and switch them to Active Mode."
+        "<span style=\"background: #db8b03; color: #fff\">[Activate Main]</span><span style=\"background: #c04256; color: #fff\">[Once per turn]</span> (3), discard 2 cards from your hand : Choose all your Battle Cards with 《Ginyu Force》 in their special traits and switch them to Active Mode."
       ]
     ],
     "productName": "BOOSTER PACK -AWAKENED PULSE- [FB01]",
@@ -3748,6 +3963,15 @@
     "comboPower": "-",
     "features": "FriezaClan",
     "effect": [
+      [
+        "<span style=\"background: #7a4480; color: #fff\">[暴击]</span> (这张卡的攻击造成伤害时，将那张生命卡弃置)",
+        "<span style=\"background: #c74695; color: #fff\">[永续]</span><span style=\"background: #c04256; color: #fff\">[我方的回合中]</span> 这张卡的力量+5000。",
+        "<span style=\"background: #db8b03; color: #fff\">[觉醒]</span> 我方的生命卡4张以下的场合，抽取1张卡牌。之后，将这张卡翻面。"
+      ],
+      [
+         "<span style=\"background: #5475b2; color: #fff\">[攻击时]</span> 抽取1张卡牌。",
+         "<span style=\"background: #db8b03; color: #fff\">[起动主要/战斗中]</span><span style=\"background: #c04256; color: #fff\">[1回合1次]</span> 弃置1张手牌：将我方的1张费用4以下拥有特征《弗利萨一族》的BATTLE卡或我方的1张能量转为活跃状态。"
+      ],
       [
         "<span style=\"background: #7a4480; color: #fff\">[Critical]</span> (When this card inflicts damage with an attack, the life is placed in the Drop.)",
         "<span style=\"background: #c74695; color: #fff\">[Permanent]</span><span style=\"background: #c04256; color: #fff\">[Your Turn]</span> This card gets +5000 power.",
@@ -3786,6 +4010,15 @@
     "features": "FriezaClan",
     "effect": [
       [
+        "<span style=\"background: #7a4480; color: #fff\">[暴击]</span> (这张卡的攻击造成伤害时，将那张生命卡弃置)",
+        "<span style=\"background: #c74695; color: #fff\">[永续]</span><span style=\"background: #c04256; color: #fff\">[我方的回合中]</span> 这张卡的力量+5000。",
+        "<span style=\"background: #db8b03; color: #fff\">[觉醒]</span> 我方的生命卡4张以下的场合，抽取1张卡牌。之后，将这张卡翻面。"
+      ],
+      [
+         "<span style=\"background: #5475b2; color: #fff\">[攻击时]</span> 抽取1张卡牌。",
+         "<span style=\"background: #db8b03; color: #fff\">[起动主要/战斗中]</span><span style=\"background: #c04256; color: #fff\">[1回合1次]</span> 弃置1张手牌：将我方的1张费用4以下拥有特征《弗利萨一族》的BATTLE卡或我方的1张能量转为活跃状态。"
+      ],
+      [
         "<span style=\"background: #7a4480; color: #fff\">[Critical]</span> (When this card inflicts damage with an attack, the life is placed in the Drop.)",
         "<span style=\"background: #c74695; color: #fff\">[Permanent]</span><span style=\"background: #c04256; color: #fff\">[Your Turn]</span> This card gets +5000 power.",
         "<span style=\"background: #db8b03; color: #fff\">[Awaken]</span> When your life is at 4 or less, draw 1 card. Then, flip this card over."
@@ -3820,6 +4053,9 @@
     "features": "Frieza'sArmy",
     "effect": [
       [
+        "<span style=\"background: #db8b03; color: #fff\">[起动主要]</span> 将这张卡转为休息状态：确认我方卡组最上方的1张卡牌，公开其中最多1张拥有特征《弗利萨军团》的卡牌并加入手牌。将剩余的卡牌放回卡组最上方。"
+      ],
+      [
         "<span style=\"background: #db8b03; color: #fff\">[Activate Main]</span> Switch this card to Rest Mode : Look at the top card of your deck, then reveal up to 1 card with 《Frieza's Army》 in its special traits and add it to your hand. Place any remaining cards at the top of your deck."
       ]
     ],
@@ -3847,6 +4083,9 @@
     "comboPower": "5000",
     "features": "GinyuForce/Frieza'sArmy",
     "effect": [
+      [
+        "<span style=\"background: #db8b03; color: #fff\">[起动主要]</span> 将这张卡转为休息状态：抽取1张卡牌。"
+      ],
       [
         "<span style=\"background: #db8b03; color: #fff\">[Activate Main]</span> Switch this card to Rest Mode : Draw 1 card."
       ]
@@ -3876,6 +4115,9 @@
     "features": "GinyuForce/Frieza'sArmy",
     "effect": [
       [
+        "<span style=\"background: #5475b2; color: #fff\">[登场时]</span> 确认我方卡组最上方的5张卡牌，公开其中最多1张&lt;基纽&gt;以外的拥有特征《基纽特战队》的卡牌并加入手牌，将剩余的卡牌随机顺序放回卡组最下方。"
+      ],
+      [
         "<span style=\"background: #5475b2; color: #fff\">[On Play]</span> Look at 5 cards from the top of your deck, then reveal up to 1 non-&lt;Ginyu&gt; card with 《Ginyu Force》 in its special traits and add it to your hand. Place the rest at the bottom of your deck in a random order."
       ]
     ],
@@ -3903,6 +4145,9 @@
     "comboPower": "5000",
     "features": "GinyuForce/Frieza'sArmy",
     "effect": [
+      [
+        "<span style=\"background: #5475b2; color: #fff\">[登场时]</span> 我方的战斗场上存在3张以上拥有特征《弗利萨军团》的BATTLE卡的场合，将我方的2张能量转为活跃状态。之后，本回合中，我方无法登场&lt;基纽&gt;。"
+      ],
       [
         "<span style=\"background: #5475b2; color: #fff\">[On Play]</span> If you have 3 or more Battle Cards with 《Frieza's Army》 in their special traits, switch up to 2 of your energy to Active Mode. Then, you can't play &lt;Ginyu&gt; for the turn."
       ]
@@ -3932,6 +4177,9 @@
     "features": "GinyuForce/Frieza'sArmy",
     "effect": [
       [
+        "<span style=\"background: #5475b2; color: #fff\">[登场时]</span> 我方的战斗场上存在3张以上拥有特征《弗利萨军团》的BATTLE卡的场合，将我方的2张能量转为活跃状态。之后，本回合中，我方无法登场&lt;基纽&gt;。"
+      ],
+      [
         "<span style=\"background: #5475b2; color: #fff\">[On Play]</span> If you have 3 or more Battle Cards with 《Frieza's Army》 in their special traits, switch up to 2 of your energy to Active Mode. Then, you can't play &lt;Ginyu&gt; for the turn."
       ]
     ],
@@ -3960,6 +4208,9 @@
     "features": "GinyuForce/Frieza'sArmy",
     "effect": [
       [
+        "<span style=\"background: #5475b2; color: #fff\">[登场时]</span> 将我方弃牌区中1张拥有特征《基纽特战队》的EXTRA卡加入手牌。"
+      ],
+      [
         "<span style=\"background: #5475b2; color: #fff\">[On Play]</span> Add up to 1 Extra with 《Ginyu Force》 in its special traits from your Drop to your hand."
       ]
     ],
@@ -3987,6 +4238,10 @@
     "comboPower": "10000",
     "features": "Frieza'sArmy",
     "effect": [
+      [
+        "<span style=\"background: #7a4480; color: #fff\">[阻挡者]</span> (对方攻击后，可以将此卡牌转为休息状态，并将攻击对象改为此卡牌)",
+        "<span style=\"background: #5475b2; color: #fff\">[KO时]</span> 将对手的1张BATTLE卡转为休息状态。"
+      ],
       [
         "<span style=\"background: #7a4480; color: #fff\">[Blocker]</span> (After an opponent's attack, you may switch this card to Rest Mode and change the target of the attack to this card.)",
         "<span style=\"background: #5475b2; color: #fff\">[When KO'd]</span> Choose up to 1 of your opponent's Battle Cards and switch it to Rest Mode."
@@ -4045,6 +4300,10 @@
     "features": "FriezaClan",
     "effect": [
       [
+        "<span style=\"background: #7a4480; color: #fff\">[阻挡者]</span> (对方攻击后，可以将此卡牌转为休息状态，并将攻击对象改为此卡牌)",
+        "<span style=\"background: #5475b2; color: #fff\">[攻击时/阻挡时]</span> 将对手的1张BATTLE卡转为休息状态。之后，那张卡的费用是2以下的场合，KO。"
+      ],
+      [
         "<span style=\"background: #7a4480; color: #fff\">[Blocker]</span> (After an opponent's attack, you may switch this card to Rest Mode and change the target of the attack to this card.)",
         "<span style=\"background: #5475b2; color: #fff\">[When Attacking]</span>/<span style=\"background: #5475b2; color: #fff\">[When Blocking]</span> Choose up to 1 of your opponent's Battle Cards and switch it to Rest Mode. Then, if that card has a cost of 2 or less, KO it."
       ]
@@ -4074,6 +4333,10 @@
     "features": "FriezaClan",
     "effect": [
       [
+        "<span style=\"background: #7a4480; color: #fff\">[阻挡者]</span> (对方攻击后，可以将此卡牌转为休息状态，并将攻击对象改为此卡牌)",
+        "<span style=\"background: #5475b2; color: #fff\">[攻击时/阻挡时]</span> 将对手的1张BATTLE卡转为休息状态。之后，那张卡的费用是2以下的场合，KO。"
+      ],
+      [
         "<span style=\"background: #7a4480; color: #fff\">[Blocker]</span> (After an opponent's attack, you may switch this card to Rest Mode and change the target of the attack to this card.)",
         "<span style=\"background: #5475b2; color: #fff\">[When Attacking]</span>/<span style=\"background: #5475b2; color: #fff\">[When Blocking]</span> Choose up to 1 of your opponent's Battle Cards and switch it to Rest Mode. Then, if that card has a cost of 2 or less, KO it."
       ]
@@ -4102,6 +4365,9 @@
     "comboPower": "10000",
     "features": "GinyuForce/Frieza'sArmy",
     "effect": [
+      [
+        "<span style=\"background: #db8b03; color: #fff\">[起动主要]</span> 将这张卡转为休息状态：选择对方的1张休息状态的BATTLE卡，在下个对方的回合中，无法转为活跃状态。" 
+      ],
       [
         "<span style=\"background: #db8b03; color: #fff\">[Activate Main]</span> Switch this card to Rest Mode : Choose up to 1 of your opponent's Rest Mode Battle Cards and it can't switch to Active Mode during your opponent's next turn."
       ]
@@ -4159,6 +4425,9 @@
     "features": "Frieza'sArmy",
     "effect": [
       [
+        "<span style=\"background: #5475b2; color: #fff\">[登场时]</span> 确认我方卡组最上方的5张卡牌，公开其中最多1张卡名含有&lt;弗利萨&gt;的卡牌并加入手牌，将剩余的卡牌随机顺序放回卡组最下方。"
+      ],
+      [
         "<span style=\"background: #5475b2; color: #fff\">[On Play]</span> Look at 5 cards from the top of your deck, then reveal up to 1 card that includes &lt;Frieza&gt; in its card name and add it to your hand. Place the rest at the bottom of your deck in a random order."
       ]
     ],
@@ -4186,6 +4455,9 @@
     "comboPower": "10000",
     "features": "Cooler'sArmoredSquadron",
     "effect": [
+      [
+        "<span style=\"background: #7a4480; color: #fff\">[暴击]</span> (这张卡的攻击造成伤害时，将那张生命卡弃置)"
+      ],
       [
         "<span style=\"background: #7a4480; color: #fff\">[Critical]</span> (When this card inflicts damage with an attack, the life is placed in the Drop.)"
       ]
@@ -4215,6 +4487,9 @@
     "features": "Cooler'sArmoredSquadron",
     "effect": [
       [
+        "<span style=\"background: #db8b03; color: #fff\">[起动主要]</span> 将这张卡转为休息状态：将我方手牌中1张费用2以下拥有特征《克维拉机甲战队》的BATTLE卡登场。"
+      ],
+      [
         "<span style=\"background: #db8b03; color: #fff\">[Activate Main]</span> Switch this card to Rest Mode : Play up to 1 Battle Card with a cost of 2 or less and 《Cooler's Armored Squadron》 in its special traits from your hand."
       ]
     ],
@@ -4243,6 +4518,9 @@
     "features": "GinyuForce/Frieza'sArmy",
     "effect": [
       [
+        "<span style=\"background: #c74695; color: #fff\">[永续]</span><span style=\"background: #c04256; color: #fff\">[我方的回合中]</span> 我方场上存在合计3张以上拥有特征《基纽特战队》的LEADER和BATTLE卡的场合，这张卡的力量+5000"
+      ],
+      [
         "<span style=\"background: #c74695; color: #fff\">[Permanent]</span><span style=\"background: #c04256; color: #fff\">[Your Turn]</span> If you have a total of 3 or more cards with 《Ginyu Force》 in their special traits among your Leader and Battle Cards, this card gets +5000 power."
       ]
     ],
@@ -4270,6 +4548,10 @@
     "comboPower": "5000",
     "features": "Frieza'sArmy",
     "effect": [
+      [
+        "<span style=\"background: #7a4480; color: #fff\">[暴击]</span> (这张卡的攻击造成伤害时，将那张生命卡弃置)",
+        "<span style=\"background: #c74695; color: #fff\">[永续]</span><span style=\"background: #c04256; color: #fff\">[对方的回合中]</span> 这张卡的力量+10000。"
+      ],
       [
         "<span style=\"background: #7a4480; color: #fff\">[Critical]</span> (When this card inflicts damage with an attack, the life is placed in the Drop.)",
         "<span style=\"background: #c74695; color: #fff\">[Permanent]</span><span style=\"background: #c04256; color: #fff\">[Opponent's Turn]</span> This card gets +10000 power."
@@ -4300,6 +4582,9 @@
     "features": "FriezaClan",
     "effect": [
       [
+        "<span style=\"background: #c74695; color: #fff\">[永续]</span><span style=\"background: #c04256; color: #fff\">[对方的回合中]</span> 我方全部拥有特征《弗利萨一族》的BATTLE卡力量+5000."
+      ],
+      [
         "<span style=\"background: #c74695; color: #fff\">[Permanent]</span><span style=\"background: #c04256; color: #fff\">[Opponent's Turn]</span> All your Battle Cards with 《Frieza Clan》 in their special traits get +5000 power."
       ]
     ],
@@ -4327,6 +4612,9 @@
     "comboPower": "10000",
     "features": "Cooler'sArmoredSquadron",
     "effect": [
+      [
+        "<span style=\"background: #5475b2; color: #fff\">[登场时]</span> 将我方1张拥有特征《克维拉机甲战队》的BATTLE卡转为活跃状态。"
+      ],
       [
         "<span style=\"background: #5475b2; color: #fff\">[On Play]</span> Choose up to 1 of your Battle Cards with 《Cooler's Armored Squadron》 in its special traits and switch it to Active Mode."
       ]
@@ -4356,6 +4644,9 @@
     "features": "Frieza'sArmy",
     "effect": [
       [
+        "<span style=\"background: #c74695; color: #fff\">[永续]</span> 我方的战斗场上存在&lt;弗利萨&gt;和&lt;萨博&gt;的场合，这张卡的力量+10000。"
+      ],
+      [
         "<span style=\"background: #c74695; color: #fff\">[Permanent]</span> If you have &lt;Frieza&gt; and &lt;Zarbon&gt; in your Battle Area, this card gets +10000 power."
       ]
     ],
@@ -4383,6 +4674,10 @@
     "comboPower": "10000",
     "features": "Cooler'sArmoredSquadron",
     "effect": [
+      [
+        "<span style=\"background: #7a4480; color: #fff\">[阻挡者]</span> (对方攻击后，可以将此卡牌转为休息状态，并将攻击对象改为此卡牌)",
+        "<span style=\"background: #5475b2; color: #fff\">[登场时]</span> 将我方1张生命卡加入手牌。"
+      ],
       [
         "<span style=\"background: #7a4480; color: #fff\">[Blocker]</span> (After an opponent's attack, you may switch this card to Rest Mode and change the target of the attack to this card.)",
         "<span style=\"background: #5475b2; color: #fff\">[On Play]</span> Add 1 card from your life to your hand."
@@ -4412,6 +4707,10 @@
     "comboPower": "10000",
     "features": "Namekian",
     "effect": [
+      [
+        "<span style=\"background: #7a4480; color: #fff\">[超级COMBO]</span> (<span style=\"background: #7a4480; color: #fff\">[超级COMBO]</span>仅能在卡组中投入合计不超过4张)",
+        "<span style=\"background: #5475b2; color: #fff\">[自动]</span><span style=\"background: #c04256; color: #fff\">[对方的回合中]</span> 手牌中的这张卡进行COMBO时，这张卡的COMBO力量+10000。"
+      ],
       [
         "<span style=\"background: #7a4480; color: #fff\">[Super Combo]</span> (A maximum of 4 cards with <span style=\"background: #7a4480; color: #fff\">[Super Combo]</span> can be placed in a deck.)",
         "<span style=\"background: #5475b2; color: #fff\">[Auto]</span><span style=\"background: #c04256; color: #fff\">[Opponent's Turn]</span> When you use this card in a combo from your hand, this card gets +10000 combo power."
@@ -4470,6 +4769,9 @@
     "features": "Frieza'sArmy",
     "effect": [
       [
+        "<span style=\"background: #5475b2; color: #fff\">[我方的回合结束时]</span> 将我方1张休息状态拥有特征《弗利萨军团》的BATTLE卡转为活跃状态。"
+      ],
+      [
         "<span style=\"background: #5475b2; color: #fff\">[End of Your Turn]</span> Choose 1 of your Rest Mode Battle Cards with 《Frieza's Army》 in its special traits and switch it to Active Mode."
       ]
     ],
@@ -4497,6 +4799,9 @@
     "comboPower": "10000",
     "features": "FriezaClan/Frieza'sArmy",
     "effect": [
+      [
+        "<span style=\"background: #db8b03; color: #fff\">[起动主要]</span> 将这张卡转为休息状态：将我方手牌中1张费用1以下拥有特征《弗利萨军团》的BATTLE卡登场。"
+      ],
       [
         "<span style=\"background: #db8b03; color: #fff\">[Activate Main]</span> Switch this card to Rest Mode : Play up to 1 Battle Card with a cost of 1 or less and 《Frieza's Army》 in its special traits from your hand."
       ]
@@ -4526,6 +4831,9 @@
     "features": "FriezaClan/Frieza'sArmy",
     "effect": [
       [
+        "<span style=\"background: #c74695; color: #fff\">[永续]</span> 这场卡无法在重置阶段转为活跃状态。"
+      ],
+      [
         "<span style=\"background: #c74695; color: #fff\">[Permanent]</span> This card can't be switched to Active Mode during your Charge Phase."
       ]
     ],
@@ -4553,6 +4861,9 @@
     "comboPower": "5000",
     "features": "FriezaClan/Frieza'sArmy",
     "effect": [
+      [
+        "<span style=\"background: #c74695; color: #fff\">[永续]</span> 这场卡无法在重置阶段转为活跃状态。"
+      ],
       [
         "<span style=\"background: #c74695; color: #fff\">[Permanent]</span> This card can't be switched to Active Mode during your Charge Phase."
       ]
@@ -4582,6 +4893,9 @@
     "features": "FriezaClan/Frieza'sArmy",
     "effect": [
       [
+        "<span style=\"background: #5475b2; color: #fff\">[登场时]</span> 将我方手牌中1张费用4的&lt;库尔德王&gt;登场。"
+      ],
+      [
         "<span style=\"background: #5475b2; color: #fff\">[On Play]</span> Play up to 1 &lt;King Cold&gt; with a cost of 4 from your hand."
       ]
     ],
@@ -4609,6 +4923,10 @@
     "comboPower": "10000",
     "features": "FriezaClan",
     "effect": [
+      [
+        "<span style=\"background: #c74695; color: #fff\">[永续]</span> 这张卡在卡组中的投入没有数量限制。",
+        "<span style=\"background: #5475b2; color: #fff\">[KO时]</span> 将我方手牌中1张费用3的&lt;金属克维拉&gt;登场。"
+      ],
       [
         "<span style=\"background: #c74695; color: #fff\">[Permanent]</span> You can include as many copies of this card in your deck as you like.",
         "<span style=\"background: #5475b2; color: #fff\">[When KO'd]</span> Play up to 1 &lt;Meta-Cooler&gt; with a cost of 3 from your hand."
@@ -4639,6 +4957,9 @@
     "features": "GinyuForce/Frieza'sArmy",
     "effect": [
       [
+        "<span style=\"background: #5475b2; color: #fff\">[登场时]</span> 将我方1张生命卡加入手牌。之后，将我方手牌中1张费用2以下拥有特征《基纽特战队》的BATTLE卡登场。"
+      ],
+      [
         "<span style=\"background: #5475b2; color: #fff\">[On Play]</span> Add up to 1 card from your life to your hand. Then, play up to 1 Battle Card with a cost of 2 or less and 《Ginyu Force》 in its special traits from your hand."
       ]
     ],
@@ -4666,6 +4987,9 @@
     "comboPower": "-",
     "features": "GinyuForce/Frieza'sArmy",
     "effect": [
+      [
+        "<span style=\"background: #db8b03; color: #fff\">[起动战斗中]</span> 选择我方LEADER或我方的1张BATTLE卡，本次战斗中，力量+10000。之后，我方LEADER和我方1张拥有特征《基纽特战队》的BATTLE卡在本次战斗中力量+5000。"
+      ],
       [
         "<span style=\"background: #db8b03; color: #fff\">[Activate Battle]</span> Choose your Leader or up to 1 of your Battle Cards and it gets +10000 power for the battle. Then, that card gets +5000 power for the battle for each card with 《Ginyu Force》 in its special traits among your Leader and Battle Cards."
       ]
@@ -4695,6 +5019,9 @@
     "features": "Cooler'sArmoredSquadron",
     "effect": [
       [
+        "<span style=\"background: #db8b03; color: #fff\">[起动主要]</span> 我方场上存在合计2张以上&lt;克维拉&gt;或拥有特征《克维拉机甲战队》的LEADER或BATTLE卡的场合，抽取1张卡牌，将我方1张能量转为活跃状态。"
+      ],
+      [
         "<span style=\"background: #db8b03; color: #fff\">[Activate Main]</span> If you have a total of 2 or more &lt;Cooler&gt; and/or cards with 《Cooler's Armored Squadron》 in their special traits among your Leader and Battle Cards, draw 1 card and switch up to 1 of your energy to Active Mode."
       ]
     ],
@@ -4722,6 +5049,9 @@
     "comboPower": "-",
     "features": "GinyuForce/Frieza'sArmy",
     "effect": [
+      [
+        "<span style=\"background: #db8b03; color: #fff\">[起动主要]</span> 抽取1张卡牌，将对方1张BATTLE卡转为休息状态。"
+      ],
       [
         "<span style=\"background: #db8b03; color: #fff\">[Activate Main]</span> Draw 1 card, then choose up to 1 of your opponent's Battle Cards and switch it to Rest Mode."
       ]
@@ -4751,6 +5081,9 @@
     "features": "FriezaClan",
     "effect": [
       [
+        "<span style=\"background: #db8b03; color: #fff\">[起动战斗中]</span><span style=\"background: #c04256; color: #fff\">[我方的回合中]</span> 选择我方LEADER或我方的1张BATTLE卡，本次战斗中，力量+20000。之后，选择对方1张休息状态费用4以下的BATTLE卡，那张卡在对方的下个回合中无法转为活跃状态。"
+      ],
+      [
         "<span style=\"background: #db8b03; color: #fff\">[Activate Battle]</span><span style=\"background: #c04256; color: #fff\">[Your Turn]</span> Choose your Leader or up to 1 of your Battle Cards and it gets +20000 power for the battle. Then, choose up to 1 of your opponent's Rest Mode Battle Cards with a cost of 4 or less and it can't switch to Active Mode during your opponent's next turn."
       ]
     ],
@@ -4778,6 +5111,9 @@
     "comboPower": "-",
     "features": "GinyuForce/Frieza'sArmy",
     "effect": [
+      [
+        "<span style=\"background: #db8b03; color: #fff\">[起动主要/战斗中]</span> 将我方1张活跃状态的BATTLE卡转为休息状态：将我方1张费用4以下的BATTLE卡转为活跃状态。"
+      ],
       [
         "<span style=\"background: #db8b03; color: #fff\">[Activate Main/Battle]</span> Choose 1 of your Active Mode Battle Cards and switch it to Rest Mode : Choose up to 1 of your Battle Cards with a cost of 4 or less and switch it to Active Mode."
       ]
@@ -4807,6 +5143,9 @@
     "features": "GinyuForce/Frieza'sArmy",
     "effect": [
       [
+        "<span style=\"background: #db8b03; color: #fff\">[起动主要]</span> 我方场上存在2张拥有特征《基纽特战队》的BATTLE卡的场合，抽取2张卡牌。"
+      ],
+      [
         "<span style=\"background: #db8b03; color: #fff\">[Activate Main]</span> If you have 2 or more Battle Cards with 《Ginyu Force》 in their special traits, draw 2 cards."
       ]
     ],
@@ -4834,6 +5173,10 @@
     "comboPower": "-",
     "features": "Saiyan/Universe7",
     "effect": [
+      [
+        "<span style=\"background: #5475b2; color: #fff\">[登场时]</span> 选择对方的1张BATTLE卡，本回合中，力量-15000。",
+        "<span style=\"background: #5475b2; color: #fff\">[自动]</span> 这张卡在战斗中KO对方的BATTLE卡时，给予对方1点伤害。"
+      ],
       [
         "<span style=\"background: #5475b2; color: #fff\">[On Play]</span> Choose up to 1 of your opponent's Battle Cards and it gets -15000 power for the turn.",
         "<span style=\"background: #5475b2; color: #fff\">[Auto]</span> When this card KO's an opponent's Battle Card in battle, deal 1 damage to your opponent."
@@ -4864,6 +5207,10 @@
     "features": "Saiyan/Universe7",
     "effect": [
       [
+        "<span style=\"background: #5475b2; color: #fff\">[登场时]</span> 选择对方的1张BATTLE卡，本回合中，力量-15000。",
+        "<span style=\"background: #5475b2; color: #fff\">[自动]</span> 这张卡在战斗中KO对方的BATTLE卡时，给予对方1点伤害。"
+      ],
+      [
         "<span style=\"background: #5475b2; color: #fff\">[On Play]</span> Choose up to 1 of your opponent's Battle Cards and it gets -15000 power for the turn.",
         "<span style=\"background: #5475b2; color: #fff\">[Auto]</span> When this card KO's an opponent's Battle Card in battle, deal 1 damage to your opponent."
       ]
@@ -4892,6 +5239,10 @@
     "comboPower": "-",
     "features": "Saiyan/Universe7",
     "effect": [
+      [
+        "<span style=\"background: #5475b2; color: #fff\">[登场时]</span> 选择对方的1张BATTLE卡，本回合中，力量-15000。",
+        "<span style=\"background: #5475b2; color: #fff\">[自动]</span> 这张卡在战斗中KO对方的BATTLE卡时，给予对方1点伤害。"
+      ],
       [
         "<span style=\"background: #5475b2; color: #fff\">[On Play]</span> Choose up to 1 of your opponent's Battle Cards and it gets -15000 power for the turn.",
         "<span style=\"background: #5475b2; color: #fff\">[Auto]</span> When this card KO's an opponent's Battle Card in battle, deal 1 damage to your opponent."
@@ -4922,6 +5273,9 @@
     "features": "Saiyan/Earthling",
     "effect": [
       [
+        "<span style=\"background: #5475b2; color: #fff\">[登场时]</span> 登场时弃置我方1张手牌：KO对方全部费用5以下的BATTLE卡之后。本回合中。这张卡无法攻击。"
+      ],
+      [
         "<span style=\"background: #5475b2; color: #fff\">[On Play]</span> Discard 1 card from your hand : Choose all of your opponent's Battle Cards with costs of 5 or less and KO them. Then, this card can't attack for the turn."
       ]
     ],
@@ -4949,6 +5303,9 @@
     "comboPower": "-",
     "features": "Saiyan/Earthling",
     "effect": [
+      [
+        "<span style=\"background: #5475b2; color: #fff\">[登场时]</span> 登场时弃置我方1张手牌：KO对方全部费用5以下的BATTLE卡之后。本回合中。这张卡无法攻击。"
+      ],
       [
         "<span style=\"background: #5475b2; color: #fff\">[On Play]</span> Discard 1 card from your hand : Choose all of your opponent's Battle Cards with costs of 5 or less and KO them. Then, this card can't attack for the turn."
       ]

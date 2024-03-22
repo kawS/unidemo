@@ -1,0 +1,23 @@
+{
+  "id": "9877",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/9877/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00009877.png",
+  "extraInformation": [
+    "No.1023",
+    "",
+    ""
+  ],
+  "typeEnergy": "Psychic",
+  "type": "Pokemon",
+  "cardName": "铁头壳ex",
+  "skillList": [
+    {
+      "name": "[特性] 钴蓝指令",
+      "effect": "只要这只宝可梦在场上，自己的「未来」宝可梦（「铁头壳ex」除外）使用的招式，对对手的战斗宝可梦造成的伤害「+20」点。"
+    },
+    {
+      "name": "双刃剑",
+      "effect": "对手的2只宝可梦各受到50点伤害。这个招式的伤害不计算弱点・抵抗力与受到伤害的宝可梦身上的附加效果。"
+    }
+  ]
+}

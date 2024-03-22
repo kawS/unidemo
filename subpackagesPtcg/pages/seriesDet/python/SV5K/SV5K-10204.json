@@ -1,0 +1,23 @@
+{
+  "id": "10204",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/10204/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010204.png",
+  "extraInformation": [
+    "No.441音符宝可梦",
+    "身高0.5m/体重1.9kg",
+    "会发出与对手相同的叫声，让对方相信自己是同伴，借此避免遭到袭击。"
+  ],
+  "typeEnergy": "Colorless",
+  "type": "Pokemon",
+  "cardName": "聒噪鸟",
+  "skillList": [
+    {
+      "name": "无伴奏合唱",
+      "effect": "从自己的牌库选择最多3张【基础】宝可梦卡，放置于备战区。并且重洗牌库。"
+    },
+    {
+      "name": "起风",
+      "effect": ""
+    }
+  ]
+}

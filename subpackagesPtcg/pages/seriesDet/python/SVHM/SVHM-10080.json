@@ -1,0 +1,23 @@
+{
+  "id": "10080",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/10080/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010080.png",
+  "extraInformation": [
+    "No.380无限宝可梦",
+    "身高1.4m/体重40.0kg",
+    "能透过心灵感应交流情感。用能令光线折射的羽毛包裹身体来隐藏自己的样子。"
+  ],
+  "typeEnergy": "Psychic",
+  "type": "Pokemon",
+  "cardName": "拉帝亚斯",
+  "skillList": [
+    {
+      "name": "吸引",
+      "effect": "从自己的牌库抽出2张卡。"
+    },
+    {
+      "name": "潟湖飞行",
+      "effect": ""
+    }
+  ]
+}

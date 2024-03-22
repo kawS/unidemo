@@ -1,0 +1,23 @@
+{
+  "id": "9878",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/9878/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00009878.png",
+  "extraInformation": [
+    "No.307冥想宝可梦",
+    "身高0.6m/体重11.2kg",
+    "用冥想提高精神能量后，就可以浮在空中。１天会吃下１个树果。"
+  ],
+  "typeEnergy": "Fighting",
+  "type": "Pokemon",
+  "cardName": "玛沙那",
+  "skillList": [
+    {
+      "name": "巴掌",
+      "effect": ""
+    },
+    {
+      "name": "踢",
+      "effect": ""
+    }
+  ]
+}

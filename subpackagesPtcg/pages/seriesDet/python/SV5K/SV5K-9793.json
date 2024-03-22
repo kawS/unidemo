@@ -1,0 +1,23 @@
+{
+  "id": "9793",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/9793/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00009793.png",
+  "extraInformation": [
+    "No.964英雄宝可梦",
+    "身高1.8m/体重97.4kg",
+    "太古基因觉醒之后的样子。力气很大，只用单边的鳍也可以轻轻松松举起游轮。"
+  ],
+  "typeEnergy": "Water",
+  "type": "Pokemon",
+  "cardName": "海豚侠",
+  "skillList": [
+    {
+      "name": "先锋拳",
+      "effect": "这只宝可梦也受到这只宝可梦身上放置的伤害指示物的数量×10点伤害。"
+    },
+    {
+      "name": "二连击",
+      "effect": "掷2次硬币，造成正面出现的次数×90点伤害。"
+    }
+  ]
+}

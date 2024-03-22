@@ -1,0 +1,23 @@
+{
+  "id": "9848",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/9848/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00009848.png",
+  "extraInformation": [
+    "No.286蘑菇宝可梦",
+    "身高1.2m/体重39.2kg",
+    "尾巴上的种子是由毒孢子所构成的。会以肉眼无法看清的速度出拳打倒敌人。"
+  ],
+  "typeEnergy": "Grass",
+  "type": "Pokemon",
+  "cardName": "斗笠菇",
+  "skillList": [
+    {
+      "name": "出拳",
+      "effect": ""
+    },
+    {
+      "name": "关节冲击",
+      "effect": "在下个自己的回合，这只宝可梦无法使用招式。"
+    }
+  ]
+}

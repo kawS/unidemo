@@ -1,0 +1,23 @@
+{
+  "id": "9805",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/9805/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00009805.png",
+  "extraInformation": [
+    "No.622魔像宝可梦",
+    "身高1.0m/体重92.0kg",
+    "诞生自黏土的古代宝可梦。不知为何，有一些泥偶小人会不断地把大石头排列起来。"
+  ],
+  "typeEnergy": "Fighting",
+  "type": "Pokemon",
+  "cardName": "泥偶小人",
+  "skillList": [
+    {
+      "name": "铁壁",
+      "effect": "掷1次硬币若为正面，则在下个对手的回合，这只宝可梦不会受到招式的伤害。"
+    },
+    {
+      "name": "出拳",
+      "effect": ""
+    }
+  ]
+}

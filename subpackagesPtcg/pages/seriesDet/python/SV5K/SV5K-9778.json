@@ -1,0 +1,23 @@
+{
+  "id": "9778",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/9778/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00009778.png",
+  "extraInformation": [
+    "No.547风隐宝可梦",
+    "身高0.7m/体重6.6kg",
+    "喜欢到处撒棉花捣蛋。沾水之后就会变重而动弹不得，只能听天由命。"
+  ],
+  "typeEnergy": "Grass",
+  "type": "Pokemon",
+  "cardName": "风妖精",
+  "skillList": [
+    {
+      "name": "[特性] 柔柔治愈",
+      "effect": "在自己的回合，从手牌使出这张卡并完成进化时，可使用1次。将自己的战斗场的【草】宝可梦的HP全部恢复。然后，将恢复的宝可梦身上附加的能量全部丢弃。"
+    },
+    {
+      "name": "种子炸弹",
+      "effect": ""
+    }
+  ]
+}

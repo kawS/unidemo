@@ -1,0 +1,13 @@
+{
+  "id": "9912",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/9912/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00009912.png",
+  "type": "Energy",
+  "cardName": "薄雾能量",
+  "skillList": [
+    {
+      "name": "",
+      "effect": "只要这张卡附于宝可梦身上，视为提供1个【无】能量。附有这张卡的宝可梦不会受到对手的宝可梦使用招式的效果的影响。（已经受到的效果不会消除。）"
+    }
+  ]
+}

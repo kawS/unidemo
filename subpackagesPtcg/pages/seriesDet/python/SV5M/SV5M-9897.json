@@ -1,0 +1,23 @@
+{
+  "id": "9897",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/9897/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00009897.png",
+  "extraInformation": [
+    "No.301清高宝可梦",
+    "身高1.1m/体重32.6kg",
+    "最讨厌肮脏的地方。总是待在舒适的地方打理自己的毛发。"
+  ],
+  "typeEnergy": "Colorless",
+  "type": "Pokemon",
+  "cardName": "优雅猫",
+  "skillList": [
+    {
+      "name": "摆尾蛊惑",
+      "effect": "将对手的战斗宝可梦【混乱】。"
+    },
+    {
+      "name": "能量搅拌",
+      "effect": "选择自己的场上宝可梦身上附加的任意数量的能量卡，以任意方式改附于自己的宝可梦身上。"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "10056",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/10056/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010056.png",
+  "extraInformation": [
+    "No.985悖谬宝可梦",
+    "身高1.2m/体重8.0kg",
+    "过去只有过１次目击纪录。是与古老的探险记里记载的神秘生物长得很像的宝可梦。"
+  ],
+  "typeEnergy": "Psychic",
+  "type": "Pokemon",
+  "cardName": "吼叫尾",
+  "skillList": [
+    {
+      "name": "唱歌鼓励",
+      "effect": "将自己的备战区的1只「古代」宝可梦恢复「100」HP。"
+    },
+    {
+      "name": "巨声",
+      "effect": ""
+    }
+  ]
+}

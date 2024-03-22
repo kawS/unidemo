@@ -1,0 +1,13 @@
+{
+  "id": "9766",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/9766/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00009766.png",
+  "type": "Trainers",
+  "cardName": "探险家的向导",
+  "skillList": [
+    {
+      "name": "",
+      "effect": "查看自己的牌库上方6张卡，从其中选择2张卡加入手牌。将剩余卡丢弃。"
+    }
+  ]
+}

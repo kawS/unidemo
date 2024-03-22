@@ -1,0 +1,23 @@
+{
+  "id": "9885",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/9885/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00009885.png",
+  "extraInformation": [
+    "No.212",
+    "",
+    ""
+  ],
+  "typeEnergy": "Metal",
+  "type": "Pokemon",
+  "cardName": "巨钳螳螂ex",
+  "skillList": [
+    {
+      "name": "钢翼",
+      "effect": "在下个对手的回合，这只宝可梦受到招式的伤害「-50」点。"
+    },
+    {
+      "name": "十字破坏",
+      "effect": "将最多2张这只宝可梦身上附加的【钢】能量卡丢弃，造成其张数×120点伤害。"
+    }
+  ]
+}

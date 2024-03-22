@@ -1,0 +1,23 @@
+{
+  "id": "9886",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/9886/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00009886.png",
+  "extraInformation": [
+    "No.303欺骗宝可梦",
+    "身高0.6m/体重11.5kg",
+    "用温顺的长相让对手大意，然后用大颚一口咬住对手。咬住后就绝不会松口。"
+  ],
+  "typeEnergy": "Metal",
+  "type": "Pokemon",
+  "cardName": "大嘴娃",
+  "skillList": [
+    {
+      "name": "诱导敲诈",
+      "effect": "选择1只对手的备战宝可梦，与战斗宝可梦互换。然后，新上场的宝可梦受到30点伤害。"
+    },
+    {
+      "name": "锐利之牙",
+      "effect": ""
+    }
+  ]
+}

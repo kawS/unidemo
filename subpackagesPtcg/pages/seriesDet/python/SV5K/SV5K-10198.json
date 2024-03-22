@@ -1,0 +1,23 @@
+{
+  "id": "10198",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/10198/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00010198.png",
+  "extraInformation": [
+    "No.579增幅宝可梦",
+    "身高1.0m/体重20.1kg",
+    "比起使用超能力，牠更喜欢靠著挥动自傲的手臂来打倒对手。"
+  ],
+  "typeEnergy": "Psychic",
+  "type": "Pokemon",
+  "cardName": "人造细胞卵",
+  "skillList": [
+    {
+      "name": "传唤之门",
+      "effect": "查看自己的牌库上方8张卡，从其中选择任意数量的宝可梦卡，放置于备战区。将剩余卡放回牌库并重洗。"
+    },
+    {
+      "name": "脑力震动",
+      "effect": "将对手的战斗宝可梦【混乱】。"
+    }
+  ]
+}

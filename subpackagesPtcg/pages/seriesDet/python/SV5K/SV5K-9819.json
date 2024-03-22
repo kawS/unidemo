@@ -1,0 +1,23 @@
+{
+  "id": "9819",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/9819/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00009819.png",
+  "extraInformation": [
+    "No.262紧咬宝可梦",
+    "身高1.0m/体重37.0kg",
+    "绝对服从优秀训练家的命令。这是因为牠还残留著很久以前群体活动时的习性。"
+  ],
+  "typeEnergy": "Darkness",
+  "type": "Pokemon",
+  "cardName": "大狼犬",
+  "skillList": [
+    {
+      "name": "踹开",
+      "effect": "将对手的战斗宝可梦与备战宝可梦互换。[由对手选择放置于战斗场的宝可梦。]"
+    },
+    {
+      "name": "锐利之牙",
+      "effect": ""
+    }
+  ]
+}

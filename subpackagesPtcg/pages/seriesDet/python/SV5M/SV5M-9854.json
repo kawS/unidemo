@@ -1,0 +1,23 @@
+{
+  "id": "9854",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/9854/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00009854.png",
+  "extraInformation": [
+    "No.947滚草宝可梦",
+    "身高1.2m/体重6.0kg",
+    "会在干燥地带流浪。有极低的机率会大量出现，把一整座城镇塞得满满满。"
+  ],
+  "typeEnergy": "Grass",
+  "type": "Pokemon",
+  "cardName": "怖纳噬草",
+  "skillList": [
+    {
+      "name": "[特性] 杂草魂",
+      "effect": "这只宝可梦的最大HP，依对手已经获得的奖赏卡每1张「+50」。"
+    },
+    {
+      "name": "强力尖刺",
+      "effect": "掷与这只宝可梦身上附加的能量的数量相同次数的硬币，造成正面出现的次数×80点伤害。"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "9892",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/9892/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00009892.png",
+  "extraInformation": [
+    "No.990悖谬宝可梦",
+    "身高0.9m/体重240.0kg",
+    "近年曾经有人目击到牠。是与古老的探险记里记载的不明物体长得很像的宝可梦。"
+  ],
+  "typeEnergy": "Metal",
+  "type": "Pokemon",
+  "cardName": "铁辙迹",
+  "skillList": [
+    {
+      "name": "[特性] 二重核心",
+      "effect": "只要这只宝可梦身上附有「驱劲能量 未来」，这只宝可梦改为【斗】与【钢】2种属性。"
+    },
+    {
+      "name": "路径轮",
+      "effect": "选择1个这只宝可梦身上附加的能量，改附于备战宝可梦身上。"
+    }
+  ]
+}

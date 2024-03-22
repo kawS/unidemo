@@ -1,0 +1,23 @@
+{
+  "id": "9859",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/9859/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00009859.png",
+  "extraInformation": [
+    "No.219熔岩宝可梦",
+    "身高0.8m/体重55.0kg",
+    "背上的壳很容易崩裂，循环在体内的高热火焰会不时喷发出来。"
+  ],
+  "typeEnergy": "Fire",
+  "type": "Pokemon",
+  "cardName": "熔岩蜗牛",
+  "skillList": [
+    {
+      "name": "[特性] 熔岩地域",
+      "effect": "只要这只宝可梦在场上，在对手的回合，每次对手的战斗宝可梦回到备战区时，将新上场的宝可梦【灼伤】。"
+    },
+    {
+      "name": "高温爆破",
+      "effect": ""
+    }
+  ]
+}

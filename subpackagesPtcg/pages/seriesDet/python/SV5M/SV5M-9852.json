@@ -1,0 +1,23 @@
+{
+  "id": "9852",
+  "url": "https://asia.pokemon-card.com/tw/card-search/detail/9852/",
+  "imgUrl": "https://asia.pokemon-card.com/tw/card-img/tw00009852.png",
+  "extraInformation": [
+    "No.781碎藻宝可梦",
+    "身高3.9m/体重210.0kg",
+    "在海底飘荡的海藻吸收了沉船的零件后转生而成的幽灵宝可梦。"
+  ],
+  "typeEnergy": "Grass",
+  "type": "Pokemon",
+  "cardName": "破破舵轮",
+  "skillList": [
+    {
+      "name": "回转攻击",
+      "effect": ""
+    },
+    {
+      "name": "钢铁船锚",
+      "effect": "若自己的备战区有【钢】宝可梦，则增加80点伤害。"
+    }
+  ]
+}
