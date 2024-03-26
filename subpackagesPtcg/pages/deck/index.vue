@@ -59,7 +59,7 @@
 				<div class="name">{{ showCardDet.ename }}</div>
 				<div class="skill" v-if="!/^(基本).*?(能量)$/.test(showCardDet.cardName)">
 					<template v-for="skill in showCardDet.skillList" :key="skill.name">
-						<div class="item" v-if="!/太晶/g.test(skill.name) && !/规则/g.test(skill.name)">
+						<div class="item" v-if="!/太晶/g.test(skill.name) && !/规则/g.test(skill.name) && !/ACE /g.test(skill.name)">
 							<div class="sname" :class="{
 								tera: /太晶/g.test(skill.name), 
 								ability: /特性/g.test(skill.name),
@@ -73,7 +73,8 @@
 					<div class="item" v-for="skill in showCardDet.skillRule" :key="skill.name">
 						<div class="sname" :class="{
 							tera: /太晶/g.test(skill.name), 
-							grule: /规则/g.test(skill.name)}">{{ skill.name }}</div>
+							grule: /规则/g.test(skill.name),
+							ap: /ACE /g.test(skill.name)}">{{ skill.name }}</div>
 						<div class="sdet">{{ skill.effect == '' ? '-' : skill.effect}}</div>
 					</div>
 				</div>
@@ -88,7 +89,7 @@
 	import copyRight from '../../../components/copyright/index.vue'
 	import { seriesList, seriesCodeList, returnSerDetList } from '../../untils/seriesList.js'
 	import { baseEList, returnEnergyData } from '../../untils/baseEList.js'
-	import { fixCard, typeIndex } from './js/fixData'
+	import { typeIndex } from './js/fixData'
 	import { ref } from 'vue'
   import { onLoad } from '@dcloudio/uni-app'
 	import _ from 'lodash'
@@ -189,13 +190,8 @@
 				// 主流卡编号修复
 				// if(m[3] == 'PR-SW'){
 				if(!seriesCodeList[m[3]]){
-					if(fixCard[ename]){
-						series = fixCard[ename].series;
-						cardNo = fixCard[ename].cardNo
-					}else{
-						series = m[3];
-						cardNo = m[4]
-					}
+					series = m[3];
+					cardNo = m[4]
 				}else{
 					series = m[3];
 					cardNo = m[4]
@@ -312,7 +308,7 @@
 	const showDet = (item) => {
 		if(item.type == 'Energy' && !item.skillList) return;
 		item.skillRule = item.skillList.filter(v => {
-			return /太晶/g.test(v.name) || /规则/g.test(v.name)
+			return /太晶/g.test(v.name) || /规则/g.test(v.name) || /ACE /g.test(v.name)
 		})
 		showCardDet.value = item;
 		showCardDet.value.showImg = showCardDet.value.imgUrl;
@@ -587,6 +583,9 @@
 					}
 					.vstar{
 						color: #635811;
+					}
+					.ap{
+						color: #dc017e
 					}
 				}
 			}

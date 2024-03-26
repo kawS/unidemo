@@ -4,9 +4,17 @@ const sdata = [
     sename: 'Scarlet & Violet',
     list: [
       {
+        name: 'Twilight Masquerade',
+        no: 'SV6',
+        code: '暂未发行',
+        logo: 'https://www.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/sv_series/sv06/sv06-slider-logo-en.png',
+        isBack: false,
+        tipNo: 'H'
+      },
+      {
         name: 'Temporal Forces',
         no: 'SV5',
-        code: '暂未发行',
+        code: 'TEF',
         logo: 'https://www.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/sv_series/sv05/sv05-slider-logo-en.png',
         isBack: false,
         tipNo: 'H'
@@ -119,7 +127,7 @@ const sdata = [
         no: 'SS8',
         code: 'FST',
         logo: 'https://www.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/swsh_series/swsh08/swsh08-slider-logo-en.png',
-        isBack: false,
+        isBack: true,
         tipNo: 'E'
       },
       {
@@ -127,7 +135,7 @@ const sdata = [
         no: 'SS7.5',
         code: 'CEL',
         logo: 'https://www.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/swsh_series/25th/25th-slider-logo-en.png',
-        isBack: false,
+        isBack: true,
         tipNo: 'E'
       },
       {
@@ -135,7 +143,7 @@ const sdata = [
         no: 'SS7',
         code: 'EVS',
         logo: 'https://www.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/swsh_series/swsh07/swsh07-slider-logo-en.png',
-        isBack: false,
+        isBack: true,
         tipNo: 'E'
       },
       {
@@ -143,7 +151,7 @@ const sdata = [
         no: 'SS6',
         code: 'CRE',
         logo: 'https://www.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/swsh_series/swsh06/swsh06-slider-logo-en.png',
-        isBack: false,
+        isBack: true,
         tipNo: 'E'
       },
       {
@@ -151,7 +159,7 @@ const sdata = [
         no: 'SS5',
         code: 'BST',
         logo: 'https://www.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/swsh_series/swsh05/swsh05-slider-logo-en.png',
-        isBack: false,
+        isBack: true,
         tipNo: 'E'
       },
       {

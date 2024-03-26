@@ -21,7 +21,7 @@
 					<div class="prshow">
 						<div class="skill" v-if="!/^(基本).*?(能量)$/.test(item.cardName)">
 							<template v-for="skill in item.skillList" :key="skill.name">
-								<div class="sitem" v-if="!/太晶/g.test(skill.name) && !/规则/g.test(skill.name)">
+								<div class="sitem" v-if="!/太晶/g.test(skill.name) && !/规则/g.test(skill.name) && !/ACE /g.test(skill.name)">
 									<div class="sname" :class="{
 										tera: /太晶/g.test(skill.name), 
 										ability: /特性/g.test(skill.name),
@@ -86,7 +86,7 @@
 				<div class="name">{{ showCardDet.ename }}</div>
 				<div class="skill" v-if="!/^(基本).*?(能量)$/.test(showCardDet.cardName)">
 					<template v-for="skill in showCardDet.skillList" :key="skill.name">
-						<div class="item" v-if="!/太晶/g.test(skill.name) && !/规则/g.test(skill.name)">
+						<div class="item" v-if="!/太晶/g.test(skill.name) && !/规则/g.test(skill.name) && !/ACE /g.test(skill.name)">
 							<div class="sname" :class="{
 								tera: /太晶/g.test(skill.name), 
 								ability: /特性/g.test(skill.name),
@@ -100,7 +100,8 @@
 					<div class="item" v-for="skill in showCardDet.skillRule" :key="skill.name">
 						<div class="sname" :class="{
 							tera: /太晶/g.test(skill.name), 
-							grule: /规则/g.test(skill.name)}">{{ skill.name }}</div>
+							grule: /规则/g.test(skill.name),
+							ap: /ACE /g.test(skill.name)}">{{ skill.name }}</div>
 						<div class="sdet">{{ skill.effect == '' ? '-' : skill.effect}}</div>
 					</div>
 				</div>
@@ -248,7 +249,7 @@
 
   const showDet = (item) => {
 		item.skillRule = item.skillList.filter(v => {
-			return /太晶/g.test(v.name) || /规则/g.test(v.name)
+			return /太晶/g.test(v.name) || /规则/g.test(v.name) || /ACE /g.test(v.name)
 		})
 		showCardDet.value = item;
 		showCardDet.value.showImg = showCardDet.value.imgUrl;
@@ -360,6 +361,9 @@
 							}
 							.vstar{
 								color: #635811;
+							}
+							.ap{
+								color: #dc017e
 							}
 						}
 					}
@@ -492,6 +496,9 @@
 					}
 					.vstar{
 						color: #635811;
+					}
+					.ap{
+						color: #dc017e
 					}
 				}
 			}

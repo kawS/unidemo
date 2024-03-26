@@ -1,7 +1,7 @@
 <template>
   <div class="useNo">
     标准环境<span class="em">{{ tipNowNo }}</span>标
-    <div class="msg">-3月22日退标(E)</div>
+    <div class="msg"></div>
   </div>
   <div class="hot">
     <div @click="goDBSFW">
@@ -66,7 +66,7 @@
   import { ref } from 'vue'
   import { onLoad } from '@dcloudio/uni-app'
 
-  const tipNowNo = ref('E/F/G');
+  const tipNowNo = ref('F/G/H');
   let searchInp = ref('');
   let isShowDeck = ref(false);
   let deckData = ref('');
